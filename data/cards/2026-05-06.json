@@ -1,0 +1,701 @@
+{
+  "date": "2026-05-06",
+  "last_updated": "2026-05-08T22:01:01Z",
+  "cards": [
+    {
+      "id": "6b13974888d4",
+      "title": "Iran Conflict Turns Gulf Energy Chokepoints Into a Long-Term Economic Shock",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0k257g8jk5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T23:06:17Z",
+      "category": "IR",
+      "region": "Iran, Qatar, Gulf states, Asia (LNG markets)",
+      "background": "On 18 March, an Iranian ballistic missile struck Qatar’s Ras Laffan gas complex, which is part of the world’s largest LNG export centre. The attack reportedly knocked out an estimated 17% of global LNG supply and is expected to cost QatarEnergy about $20bn in lost annual revenues, with repairs potentially taking three to five years. The wider conflict has also damaged more than 80 facilities across the Gulf, while the closure of the Strait of Hormuz has disrupted the route that typically handles around 20% of global oil and LNG flows.",
+      "prop_args": [
+        {
+          "thesis": "The Iran conflict structurally weakens Gulf economies by attacking the energy chokepoints and diversification model that underpins their growth.",
+          "mechanisms": [
+            "First, it directly destroys the Gulf’s core revenue base. This is because (1) LNG and oil exports are the fiscal lifeline for states like Qatar, Kuwait, and Saudi Arabia, (2) the Ras Laffan strike alone is estimated to remove 17% of global LNG supply and $20bn in annual revenues for QatarEnergy, and (3) the Strait of Hormuz closure reduces the volume that can physically leave the region, so the loss is not just temporary price volatility but a real output shock.",
+            "Second, it forces expensive and inefficient adaptation that lowers long-run competitiveness. Three reasons: one, states must now build redundant pipelines and security infrastructure, which diverts capital from productive investment; two, alternatives like Saudi Arabia’s East-West pipeline and the UAE’s Fujairah route carry less than half the normal Hormuz volumes, so they cannot fully substitute; three, repairs to damaged facilities take three to five years, meaning firms and investors price in persistent operational risk.",
+            "Third, it crowds out diversification and regional influence. This matters because Gulf governments will redirect money away from AI, tourism, sports, and foreign aid toward reconstruction and security, while tourism alone is losing around $600m a day regionally; that means weaker non-oil growth, fewer jobs, and less ability to bankroll allies like Gaza, Lebanon, and Syria."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Gulf can absorb the shock because it has reserves, alternative export routes, and enough strategic importance to secure external support.",
+          "mechanisms": [
+            "First, the Gulf states are not economically fragile in the way weaker petro-states are. One, Saudi Arabia and the UAE still have partial export routes that bypass Hormuz, which reduces total shutdown risk; two, their sovereign wealth and accumulated hydrocarbon rents give them fiscal buffers to smooth losses; three, the article itself notes the UAE is publicly downplaying the need for external backing, suggesting market confidence is not collapsing.",
+            "Second, the crisis may accelerate, rather than derail, economic adaptation. One, the shock creates a strong incentive to build pipelines and redundancy that make future disruptions less likely; two, the UAE’s exit from Opec gives it more freedom to maximize exports and revenue; three, higher security risk can push Gulf states to deepen strategic ties with the US and other partners, including possible currency swap lines, which stabilizes liquidity and investor sentiment.",
+            "Third, the broader economic damage may be overstated because energy prices and geopolitical relevance can offset some losses. One, supply disruptions can raise global oil and LNG prices, partially compensating exporters that can still ship; two, Asia’s dependence on Gulf LNG means demand remains structurally strong once routes reopen; three, the conflict is severe but not necessarily permanent, so much of the headline damage is deferred rather than destroyed."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the shock is temporary volatility or a durable reordering of Gulf growth models. Prop wins if the round is about long-run structural vulnerability, because the article shows real physical destruction, route constraints, and crowd-out of diversification; opp wins only if they can prove Gulf fiscal buffers and external support are enough to bridge the gap until trade normalizes.",
+      "stock_connections": [
+        "Resource Curse",
+        "Dutch Disease",
+        "Economic Diversification",
+        "Chokepoint Vulnerability",
+        "Security Dilemma",
+        "Crowding Out",
+        "Sovereign Wealth Fund Buffering",
+        "Dependency on Hydrocarbon Rents",
+        "Regional Instability"
+      ],
+      "motion_areas": [
+        "TH, as Gulf states, would prioritize military deterrence over economic diversification",
+        "THBT Gulf monarchies should build redundant pipeline networks even at major fiscal cost",
+        "THP a world where the Strait of Hormuz is permanently closed",
+        "THBT external powers should guarantee the security of Gulf energy chokepoints",
+        "THBT Gulf states should reduce their exposure to global LNG markets"
+      ],
+      "data_points": [
+        "Ras Laffan strike knocked out an estimated 17% of global LNG supply",
+        "QatarEnergy expects $20bn in lost annual revenues",
+        "Repairs to the damaged facility could take 3 to 5 years",
+        "The Strait of Hormuz typically handles around 20% of global oil and LNG flows",
+        "Saudi Arabia and the UAE’s alternative routes carry less than half of normal Hormuz volumes combined",
+        "The World Bank cut Middle East growth to 1.8% this year, down from a previous 4% forecast for 2026",
+        "The World Travel & Tourism Council estimated the Middle East was losing around $600m a day in tourism revenues since the war began",
+        "More than 80 facilities have been hit since the US and Israel launched strikes on Iran on 28 February",
+        "Over a third of those damaged facilities were severely damaged, according to the IEA",
+        "Opec controls about 37% of global oil supply",
+        "The UAE was the fourth-largest producer within Opec before announcing its exit"
+      ]
+    },
+    {
+      "id": "a46af9301055",
+      "title": "Iran War and Hormuz Closure Expose California’s Fuel Dependence to Price Shock",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/06/california-oil-tanker-middle-east",
+      "published": "2026-05-06T19:02:05Z",
+      "category": "IR",
+      "region": "United States (California) and Middle East (Iraq/Strait of Hormuz)",
+      "background": "The last planned oil tanker from the Middle East to California, the New Corolla, arrived in Long Beach carrying about 2 million barrels of crude from Iraq after departing before the Iran war began. California Energy Commission vice-chair Siva Gunda told legislators the state can meet fuel demand for the next six weeks with current supply, but California imports about one-third of its oil from the Gulf and must now replace that supply. The average gas price in California is $6.16 per gallon, compared with a national average of $4.54, and prices are at their highest in nearly four years.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war and closure of the Strait of Hormuz make California’s fuel system acutely vulnerable to external shocks, proving the strategic cost of import dependence.",
+          "mechanisms": [
+            "First, the supply shock is immediate because California was relying on tankers already at sea when the strait closed. This matters because (1) those shipments are now exhausted, (2) the state only has about six weeks of supply on hand, and (3) replacement barrels must come from more expensive or longer-distance sources.",
+            "Second, California’s higher import dependence makes it structurally more exposed than other US states. Three reasons: one, it imports about a third of its oil from the Gulf; two, it imports significantly more oil from abroad than other states; three, when global supply tightens, California cannot easily substitute domestic refining inputs without passing costs to consumers.",
+            "Third, the political and distributional impact is severe because fuel prices are regressive. This matters because (1) low-income Americans cut gas consumption but still spent more at the pump, (2) California already has the highest gas prices in the US at $6.16 per gallon, and (3) sustained price spikes translate into broader cost-of-living pressure and electoral backlash."
+          ]
+        },
+        {
+          "thesis": "The crisis strengthens the case for reducing oil reliance and accelerating energy transition policies in import-dependent economies.",
+          "mechanisms": [
+            "First, volatile geopolitics create recurring supply insecurity, so dependence on Middle Eastern crude is a strategic liability. This is because (1) a single chokepoint like Hormuz can interrupt trade flows, (2) markets only stay stable while pre-war cargoes are in transit, and (3) once that buffer ends, consumers face sharp price escalation.",
+            "Second, high prices create a policy window for substitution away from fossil fuels. Three reasons: one, consumers and firms become more receptive to alternatives when gasoline exceeds $6 per gallon; two, governments can justify EV, transit, and efficiency investment as resilience policy rather than climate ideology; three, repeated shocks make long-term decarbonization politically easier than defending permanent exposure to oil markets.",
+            "Third, the distributional evidence makes transition policy more legitimate. This matters because (1) lower-income households are hit hardest by fuel inflation, (2) that creates a clear equity case for public investment in alternatives, and (3) it undercuts claims that cheap gasoline is the only politically viable model."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The shock is temporary and manageable, so California’s dependence on Gulf oil is not a decisive strategic vulnerability.",
+          "mechanisms": [
+            "First, the market has already shown resilience because supply in transit kept flowing after the conflict began. One, the article says markets continued receiving oil already at sea; two, the state can meet demand for six weeks with current supply; three, this buys time for rerouting and alternative sourcing.",
+            "Second, California can offset the disruption through global market substitution rather than collapse. One, oil is a fungible commodity with multiple suppliers; two, higher prices incentivize other producers to redirect shipments; three, the state’s problem is cost, not physical shortage, which makes it painful but not existential.",
+            "Third, blaming the war overstates the policy lesson because California’s own regulations and tax structure also shape prices. One, gas prices are already structurally higher in California than the national average; two, Republican critics in the debate pointed to state regulations; three, this means the price spike cannot be read purely as a foreign-policy failure."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term price pain and long-term strategic vulnerability. Prop wins if it proves that a single chokepoint plus six weeks of supply creates recurring coercive leverage over California’s economy; opp wins if it reframes the event as a temporary market shock that can be absorbed through substitution and policy adjustment.",
+      "stock_connections": [
+        "Energy security",
+        "Chokepoint vulnerability",
+        "Resource dependence",
+        "Price elasticity of demand",
+        "Regressive taxation / regressive inflation",
+        "Energy transition",
+        "Dutch Disease",
+        "Cost-of-living crisis",
+        "Strategic autonomy"
+      ],
+      "motion_areas": [
+        "TH, as California, would accelerate decarbonization in response to foreign oil shocks",
+        "THBT import-dependent economies should prioritize energy security over cheap fossil fuel access",
+        "THP a world where major economies reduce reliance on Middle Eastern oil",
+        "TH, as a US state, would impose stronger fuel resilience policies after the Hormuz crisis"
+      ],
+      "data_points": [
+        "New Corolla delivered about 2 million barrels of crude oil from Iraq to Long Beach",
+        "California can meet fuel demand for the next six weeks with current supply",
+        "California imports about one-third of its oil from the Gulf",
+        "California gas price: $6.16 per gallon",
+        "US national average gas price: $4.54 per gallon",
+        "Gas prices are at their highest level in nearly four years",
+        "Low-income Americans reduced gas consumption after the Iran war began but still spent more at the pump",
+        "The last planned shipment to pass through the Strait of Hormuz had already been at sea when the strait closed"
+      ]
+    },
+    {
+      "id": "e0c58a1b70a1",
+      "title": "New York Wealth Tax Fight Pits Fiscal Redistribution Against Capital Flight",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9wepldnl7po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T16:35:39Z",
+      "category": "Econ",
+      "region": "United States (New York, Miami)",
+      "background": "New York mayor Zohran Mamdani has proposed a new tax on luxury properties worth more than $5m, including a so-called pied-à-terre tax on homes used as secondary residences. In an April video filmed outside hedge fund founder Ken Griffin's New York penthouse, Mamdani said the measure would raise at least $500m, while he has also argued broader tax changes could generate as much as $9bn for his agenda. Griffin, CEO of Citadel and owner of the most expensive apartment ever bought in the US at $238m, said the campaign was 'creepy and weird' and warned it could push wealthy residents and businesses toward Miami.",
+      "prop_args": [
+        {
+          "thesis": "A targeted wealth and luxury-property tax is a politically and fiscally defensible way to make New York's tax base more progressive without materially harming the city's economic engine.",
+          "mechanisms": [
+            "First, it raises revenue from highly immobile, low-elasticity assets. This is because (1) luxury real estate cannot be easily offshored, (2) second-home owners and ultra-rich property holders are less sensitive to marginal tax changes than ordinary workers, and (3) a tax on vacant or pied-à-terre properties captures wealth that is currently under-taxed relative to its ability to pay.",
+            "Second, it improves fairness and public legitimacy in the tax system. Three reasons: one, it shifts the burden toward those who benefit most from New York's agglomeration effects and public infrastructure; two, it reduces the perception that the city is subsidizing speculative wealth storage; three, it creates political space for funding housing, transit, and public services without cutting middle-class services.",
+            "Third, the city can absorb some elite exit without losing its core tax base. This matters because (1) New York's economic advantage comes from deep labor markets, finance networks, and prestige, not just tax rates; (2) many high earners stay for ecosystem reasons even when taxes rise; and (3) if a few billionaires relocate to Miami, the city still retains the broader payroll, consumption, and property-tax base that actually funds municipal government."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "High-end wealth taxes are a self-defeating populist gesture that risks shrinking New York's long-run tax base by accelerating capital and talent flight.",
+          "mechanisms": [
+            "First, the tax is highly visible and therefore politically catalytic for exit. One, ultra-wealthy individuals are unusually mobile across jurisdictions; two, even a small number of departures can signal that New York is hostile to success and trigger copycat relocation by firms, investors, and family offices; three, once Miami or other low-tax hubs become the default alternative, the city loses not just residents but future investment decisions.",
+            "Second, the revenue estimate may be overstated because behavioral responses reduce the base. One, owners can restructure holdings, delay purchases, or shift residency status to avoid the levy; two, luxury-property demand can soften, lowering transaction volumes and related tax receipts; three, if corporate leaders and hedge funds relocate, the city also loses income-tax, business-tax, and consumption-tax revenue that can dwarf the intended proceeds.",
+            "Third, the policy can damage New York's broader competitiveness and employment ecosystem. One, finance and high-end services depend on clustering and perception as a pro-business hub; two, public conflict with major employers can affect hiring, headquarters decisions, and philanthropic activity; three, even if the rich remain, they may reduce marginal investment in the city if they expect repeated tax escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the relevant tax base is sticky enough to sustain redistribution without triggering meaningful exit. Prop wins if it proves the city can tax immobile luxury assets and still keep the broader agglomeration benefits; opp wins if it shows that elite mobility and signaling effects are enough to erode the wider revenue base and investment climate.",
+      "stock_connections": [
+        "Capital Flight",
+        "Tax Incidence",
+        "Laffer Curve",
+        "Progressive Taxation",
+        "Race to the Bottom",
+        "Agglomeration Economies",
+        "Public Goods Financing",
+        "Elite Overproduction"
+      ],
+      "motion_areas": [
+        "TH, as New York City, would impose a luxury-property tax on homes worth over $5 million",
+        "THBT cities should tax wealth rather than income to fund public services",
+        "THP a world where major global cities can levy surtaxes on non-resident property owners",
+        "TH, as a progressive mayor, would prioritize taxing the rich over attracting investment"
+      ],
+      "data_points": [
+        "Pied-à-terre tax would apply to properties worth more than $5m in New York City",
+        "Mamdani says the luxury-property tax would raise at least $500m",
+        "Mamdani has said broader tax changes could raise as much as $9bn for his agenda",
+        "New York's corporate tax rate is currently 7.25%, and Mamdani wants to raise it to 11.5%",
+        "Ken Griffin bought his New York penthouse for $238m in 2019, and it remains the most expensive property purchased in the US",
+        "Citadel founder Ken Griffin said he would 'double down' on Miami rather than Manhattan"
+      ]
+    },
+    {
+      "id": "ddf97272307a",
+      "title": "A US-Iran Deal Could Reopen Hormuz, Slash Energy Prices, and Reset Global Risk Markets",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T16:11:44Z",
+      "category": "IR",
+      "region": "US / Iran / Gulf / Global markets",
+      "background": "Oil prices fell and global equities rose after reports that the US and Iran are close to a one-page memorandum to end the war and begin 30 days of detailed negotiations. Brent crude dropped to $97 a barrel before rebounding above $101, after trading above $108 earlier in the day and around $70 before the war began. The conflict, which began after US-Israeli strikes on Iran on 28 February, has disrupted production and transport in the Gulf and effectively closed the Strait of Hormuz for weeks; about one-fifth of global oil and gas shipments usually pass through it. Markets reacted strongly: the FTSE 100 and Germany's Dax closed more than 2% up, France's CAC 40 rose 3%, the S&P 500 gained over 1%, and South Korea's Kospi jumped 6.45%.",
+      "prop_args": [
+        {
+          "thesis": "A negotiated US-Iran settlement is the fastest way to restore energy flows, calm markets, and prevent a wider regional economic shock.",
+          "mechanisms": [
+            "First, it restores the Strait of Hormuz as a functioning energy chokepoint. This is because (1) roughly one-fifth of global oil and gas shipments normally cross the strait, (2) weeks of disruption have already pushed Brent from around $70 before the war to above $100, and (3) even the expectation of reopening immediately knocked prices down from $108 to $97, showing how sensitive supply is to de-escalation.",
+            "Second, it reduces global inflation and recession risk. Three reasons: one, lower oil and gas prices feed directly into transport, electricity, and food costs; two, Europe and Asia are especially exposed because they import large shares of energy and their stock indices rose sharply on the news; three, central banks get more room to avoid keeping interest rates high for longer.",
+            "Third, it creates a credible off-ramp for both sides without requiring a military victory. This matters because (1) the US has already signaled its objectives were met and wants a deal, (2) Iran faces pressure from sanctions and shipping disruption, and (3) a phased memorandum with 30-day talks is more politically saleable than a full peace treaty, making implementation more likely than maximalist demands."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A rushed deal rewards coercion, leaves the underlying security dispute unresolved, and risks a temporary market bounce followed by renewed conflict.",
+          "mechanisms": [
+            "First, it creates moral hazard and weakens deterrence. One, if Iran can force concessions by threatening Hormuz and global energy prices, it learns that escalation pays; two, the US also learns it can use limited strikes and shipping pressure to extract talks, normalizing brinkmanship; three, this makes future crises more likely because both sides see coercion as effective.",
+            "Second, the proposed memorandum may be too shallow to hold. One, the reported text only starts 30 days of negotiations on reopening the strait, nuclear limits, and sanctions relief, so the hardest issues are still unresolved; two, Trump himself said a deal was still a 'big assumption' and warned of much higher-intensity bombardments if talks fail; three, any domestic hardliner in Tehran or Washington can sabotage implementation once the immediate market pressure eases.",
+            "Third, partial de-escalation can still leave structural instability in place. One, the US says it will continue blocking ships to and from Iranian ports, so the economic war continues; two, recent attacks on fast boats and alleged strikes on UAE oil infrastructure show the maritime theater remains active; three, markets may overreact to headlines, but real supply chains need durable security guarantees, not just a pause."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate economic stabilization and long-term strategic credibility. Pro wins if the judge prioritizes preventing a global energy shock now; opp wins if they prove the deal is too shallow and merely locks in a cycle of coercion that makes the next war more likely.",
+      "stock_connections": [
+        "Energy security",
+        "Market confidence",
+        "Moral hazard",
+        "Coercive diplomacy",
+        "Security dilemma",
+        "Sanctions leverage",
+        "Inflation shock",
+        "Chokepoint geopolitics"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize a negotiated settlement with Iran over continued military pressure",
+        "THBT states should prefer diplomatic off-ramps to coercive escalation in energy chokepoint crises",
+        "THP a world where major powers can trade sanctions relief for nuclear and maritime de-escalation",
+        "THBT the West should accept a flawed peace deal if it stabilizes global energy markets"
+      ],
+      "data_points": [
+        "Brent crude fell to $97 a barrel after reports of a deal, after earlier trading above $108 the same day",
+        "Oil was around $70 a barrel before the US-Israel war with Iran began",
+        "About one-fifth of global oil and gas shipments usually cross the Strait of Hormuz",
+        "FTSE 100 and Germany's Dax closed more than 2% up; France's CAC 40 rose 3%",
+        "US S&P 500 rose by more than 1% over the day",
+        "South Korea's Kospi closed up 6.45%, Hong Kong's Hang Seng up 1.22%, and Japan's Nikkei up 0.38%",
+        "Axios reported the US believes it is close to a one-page memorandum of understanding to end the war",
+        "The reported framework would begin a 30-day period of negotiations on reopening the strait, limiting Iran's nuclear programme, and lifting US sanctions"
+      ]
+    },
+    {
+      "id": "6baa89f395b2",
+      "title": "Private Equity Restructuring Threatens UK High Street Jobs as TGJones Closes Up to 150 Stores",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T15:22:58Z",
+      "category": "Econ",
+      "region": "UK / High Street retail",
+      "background": "Modella Capital, which bought WHSmith’s former high street bookshops in 2025 for £40 million, has announced a restructuring of the rebranded TGJones chain. Up to 150 of the 480 stores could close, putting hundreds of jobs at risk, as the firm says the business has faced weak trading, higher operating costs, and reduced brand awareness after the forced name change. WHSmith had already sold the high street arm to focus on travel-location stores such as airports and stations, while Modella also recently saw Claire’s cease trading in the UK and Ireland after buying it out of administration in September 2025.",
+      "prop_args": [
+        {
+          "thesis": "Allowing an underperforming retail chain to shrink through restructuring is necessary to preserve the viable core of the business and prevent a full collapse.",
+          "mechanisms": [
+            "First, restructuring concentrates capital on the stores that can actually survive. This is because (1) a chain with 480 locations cannot sustain uniform losses across all sites, (2) closing the weakest stores reduces fixed costs like rent, staffing, and utilities, and (3) the remaining estate becomes more profitable per store, which improves the odds of long-term survival.",
+            "Second, private equity ownership can act as a rescue mechanism rather than pure extraction. Three reasons: one, Modella can move faster than a public or bureaucratic owner in cutting losses; two, it can inject turnaround expertise and renegotiate leases/suppliers; three, without intervention the alternative is often insolvency, which destroys all jobs rather than some.",
+            "Third, the broader economic benefit is preserving consumer access and local employment in the stores that remain. This matters because a managed downsizing is less damaging than an uncontrolled administration: it keeps a functioning retail network in many towns, protects some jobs, and avoids a disorderly shock to creditors, suppliers, and local high streets."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This restructuring is a symptom of private equity short-termism that destroys local jobs and weakens high streets without solving the underlying retail decline.",
+          "mechanisms": [
+            "First, the closures externalize the costs of a failed acquisition onto workers and communities. One, hundreds of staff face redundancy while the fund preserves upside from the surviving assets; two, towns lose footfall from anchor shops, which hurts nearby businesses; three, repeated closures create a downward spiral where fewer shoppers mean more retail decline.",
+            "Second, Modella’s model may be structurally incapable of turning around distressed retail brands. One, the Claire’s collapse after purchase in September 2025 suggests the firm is not successfully stabilizing struggling chains; two, brand damage from the TGJones rebrand and forced name change may have been predictable, meaning the owner is blaming policy for its own execution; three, if the business model depends on repeated store closures, it is not a rescue but a managed liquidation.",
+            "Third, this reinforces a race-to-the-bottom dynamic in UK retail ownership. One, private owners can strip costs, close stores, and walk away while communities absorb the damage; two, workers face insecurity and weaker bargaining power; three, it encourages future investors to prioritize asset extraction over long-term investment in physical retail."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether restructuring is a genuine rescue or just delayed liquidation. Prop wins if the judge prioritizes preserving some jobs and a viable core over letting the chain fail entirely; Opp wins if they show the closures are evidence of a broken ownership model that shifts losses onto workers and accelerates high street decline.",
+      "stock_connections": [
+        "Private Equity Extraction",
+        "Race to the Bottom",
+        "Structural Decline of High Streets",
+        "Moral Hazard",
+        "Creative Destruction",
+        "Managed Decline",
+        "Job Loss / Redundancy",
+        "Local Economic Multiplier"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would impose stricter rules on private equity ownership of distressed retail chains",
+        "THBT governments should subsidize high street retailers to prevent store closures",
+        "THP a world where private equity firms are required to maintain employment levels after acquiring distressed consumer brands"
+      ],
+      "data_points": [
+        "Up to 150 of 480 TGJones high street stores may close",
+        "Hundreds of jobs are at risk",
+        "WHSmith sold the high street business in March 2025 for £40 million",
+        "The WHSmith brand was excluded from the sale",
+        "Claire’s closed all 154 standalone UK and Ireland stores and made 1,300 staff redundant after Modella bought it in September 2025",
+        "TGJones is one of Modella Capital’s retail holdings alongside Hobbycraft"
+      ]
+    },
+    {
+      "id": "b36523d9427e",
+      "title": "Middle East Conflict Pushes Up Jet Fuel Costs, Forcing UK-Linked Airlines to Cut Capacity and Raise Fares",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T11:48:01Z",
+      "category": "Econ",
+      "region": "UK / Global airline network",
+      "background": "Cirium data released on 6 May showed airlines had cut around 13,000 flights globally in May, though travel trade body Advantage Travel Partnership said the cancellations were only about 1% overall and UK flights to summer sun destinations were largely unaffected. Several airlines serving the UK, including KLM, Air Canada, Asiana Airlines, Delta, Lufthansa and SAS, said they would operate fewer flights, while IAG, EasyJet and Jet2Holidays said they did not plan schedule cuts. Jet fuel prices roughly doubled during March and the first half of April after the Strait of Hormuz was effectively closed to shipping, and long-haul fares on routes rerouted around the Gulf have risen sharply, including London-Melbourne up 76% and London-Hong Kong up 72% year on year.",
+      "prop_args": [
+        {
+          "thesis": "Geopolitical disruption to fuel supply justifies airlines cutting capacity and passing costs through to consumers because it preserves solvency and keeps the broader network functioning.",
+          "mechanisms": [
+            "First, airlines must protect margins in a market where fuel is one of the largest variable costs. This is because (1) jet fuel prices roughly doubled in March and early April, (2) carriers hedge only part of their fuel exposure, so they cannot fully absorb a sustained shock, and (3) if they keep flying unprofitable routes, they burn cash and risk deeper service cuts later.",
+            "Second, targeted cancellations are a rational way to reallocate scarce capacity. Three reasons: one, airlines can cut routes with multiple daily frequencies and rebook passengers onto remaining flights, two, they can preserve high-demand or strategically important routes, and three, this avoids a disorderly collapse where every route becomes unreliable at once.",
+            "Third, higher fares and reduced frequency are a price signal that prevents hidden rationing. This matters because if airlines are forced to sell below cost, the result is not cheaper travel but bankruptcies, stranded passengers, and a worse long-run reduction in connectivity."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Airlines are exploiting a geopolitical shock to extract consumer surplus, with most of the burden falling on travellers rather than on firms or fuel markets.",
+          "mechanisms": [
+            "First, the price increases are not purely cost-reflective because airlines often have advance fuel contracts and hedges. One, that delays the full pass-through of higher spot prices, two, it means some carriers are raising fares before their actual input costs rise, and three, consumers have little ability to discipline pricing on concentrated routes.",
+            "Second, cancellations and surcharges can be used to shift risk onto passengers after booking. One, airlines can target routes where rebooking is easiest, two, Volotea has already faced backlash for adding surcharges to tickets already sold, and three, package holiday operators can still add up to 8% after booking in some cases, showing consumers bear asymmetric downside.",
+            "Third, the market impact is regressive and welfare-reducing. One, long-haul and family holiday routes see the biggest fare spikes, two, travellers who booked accommodation separately may lose money even if flights are refunded, and three, the uncertainty forces households to pay upfront for insurance and contingency funds, effectively taxing mobility."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you treat the fare hikes as efficient pass-through of a genuine supply shock or as opportunistic rent extraction under cover of crisis. Prop has the stronger structural case on solvency and network preservation, but Opp wins if the motion is about consumer harm, because airlines have pricing power, asymmetric information, and the ability to externalize disruption onto passengers.",
+      "stock_connections": [
+        "Supply shock",
+        "Pass-through inflation",
+        "Market power / oligopoly pricing",
+        "Consumer exploitation",
+        "Risk shifting",
+        "Moral hazard",
+        "Crisis profiteering",
+        "Price discrimination",
+        "Network effects",
+        "Regulatory capture"
+      ],
+      "motion_areas": [
+        "TH, as governments, would allow airlines to freely adjust fares in response to geopolitical fuel shocks",
+        "THBT airlines should be permitted to cancel low-margin routes during major fuel supply disruptions",
+        "THP a world where airlines can pass through fuel cost shocks to consumers without post-sale price caps"
+      ],
+      "data_points": [
+        "Cirium reported 13,000 global flight cuts in May",
+        "Advantage Travel Partnership said cancellations were about 1% overall",
+        "Jet fuel prices roughly doubled during March and the first half of April",
+        "London to Melbourne fares in June are 76% higher than last year",
+        "London to Hong Kong fares are 72% higher than last year",
+        "The Strait of Hormuz has effectively been closed to shipping since the start of March",
+        "Package holiday operators can add up to 8% after booking for a significant rise in fuel costs",
+        "Airlines cited as cutting flights include KLM, Air Canada, Asiana Airlines, Delta, Lufthansa and SAS",
+        "Airlines saying they will not change schedules include IAG, EasyJet and Jet2Holidays"
+      ]
+    },
+    {
+      "id": "70cf81187d04",
+      "title": "UK Faces a Pre-Harvest Glyphosate Ban That Trades Food Safety Concerns Against Farm Efficiency",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgz420ee0zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T10:37:33Z",
+      "category": "Econ",
+      "region": "UK / EU",
+      "background": "Campaigners led by the Soil Association are urging the UK to ban glyphosate use as a pre-harvest drying agent, arguing it leaves residues in foods like bread, breakfast cereals and beer. The UK Health and Safety Executive (HSE) is due to launch a two-month consultation this summer on whether glyphosate’s approval should be renewed beyond December 2026, when the current licence expires. The EU banned glyphosate use as a pre-harvest desiccant in 2023, though the chemical remains approved for other uses there. Farmers and the NFU argue glyphosate is an essential tool for weed control, disease reduction, lower diesel use, and more affordable food production.",
+      "prop_args": [
+        {
+          "thesis": "Banning glyphosate as a pre-harvest desiccant is a justified precaution that reduces consumer exposure to potentially harmful residues without eliminating the chemical’s other agricultural uses.",
+          "mechanisms": [
+            "First, it directly reduces food-chain exposure. This is because (1) pre-harvest spraying is specifically designed to leave residues on the crop, (2) those residues end up in staple products like bread, breakfast cereals, and beer, and (3) removing this use targets the highest-consumption pathway rather than a marginal farm input.",
+            "Second, it forces a shift toward safer and more transparent farming practices. Three reasons: one, farmers can still use glyphosate for other approved purposes, so the policy is not an outright ban; two, it incentivises better crop rotation, mechanical weed control, and integrated pest management; three, it reduces reliance on a practice that campaigners say is relatively modern and not essential to wheat production.",
+            "Third, the health-risk downside is asymmetric and hard to reverse. This matters because (1) the IARC classified glyphosate as 'probably carcinogenic to humans' in 2015, (2) a group of international scientists in March 2026 said current-use exposure is strong enough to justify no further delays, and (3) if regulators are wrong, the harm is borne by millions of consumers, whereas farmers can adapt over time."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Keeping glyphosate available for pre-harvest use protects yields, lowers production costs, and avoids pushing farmers toward more carbon-intensive alternatives.",
+          "mechanisms": [
+            "First, it is a cost-saving and labour-saving input for farmers. One, it helps dry crops and make harvesting easier; two, it reduces weed pressure and disease; three, it lowers wear and tear on machinery and farm labour, which matters especially in tight-margin cereal production.",
+            "Second, banning it can increase emissions and input substitution. One, farmers may need to burn more diesel to dry crops artificially or mechanically; two, they may substitute with other weed-control chemicals that could be less well understood or more harmful; three, higher production costs can be passed through into more expensive bread, cereals, and beer.",
+            "Third, the regulatory case for a ban is not settled. One, the government and Bayer argue no regulatory authority has found glyphosate carcinogenic; two, the UK says it is strictly regulated and only approved when evidence shows it is safe; three, a blanket restriction based on contested science risks policy driven by fear rather than risk assessment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between precautionary consumer protection and farm-level efficiency. Prop wins if the round prioritises irreversible health risk and the fact that the ban is narrow, while Opp wins if they prove the practice is economically important enough that the policy simply shifts costs and emissions elsewhere rather than meaningfully improving safety.",
+      "stock_connections": [
+        "Precautionary Principle",
+        "Regulatory Capture",
+        "Consumer Safety vs Producer Efficiency",
+        "Externalities",
+        "Food Security",
+        "Cost-Push Inflation",
+        "Environmental Regulation",
+        "Risk Compensation"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would ban the use of glyphosate as a pre-harvest desiccant",
+        "THBT regulators should prohibit pesticide use that leaves residues in staple foods when safer alternatives exist",
+        "THP a world where agricultural chemicals are approved only for non-food-chain uses unless proven essential"
+      ],
+      "data_points": [
+        "UK HSE consultation on glyphosate renewal due to launch in summer 2026, with the current Great Britain licence expiring in December 2026",
+        "EU banned glyphosate use as a pre-harvest desiccant in 2023",
+        "IARC classified glyphosate as 'probably carcinogenic to humans' in 2015",
+        "International scientists’ March 2026 expert statement said glyphosate and glyphosate-based herbicides 'harm human health and can cause cancer'",
+        "Glyphosate remains approved in Great Britain until December 2026 after ministers extended authorisation for review",
+        "NFU deputy president Paul Tompkins said the chemical is used to 'make harvesting easier, to control weeds, and reduce disease, and help produce sustainable and affordable food for all'",
+        "Campaigners argue residues can end up in bread, breakfast cereals, and beer"
+      ]
+    },
+    {
+      "id": "02fe3b76c163",
+      "title": "Middle East War Costs Push Retailers to Export Inflation Through Overseas Price Hikes",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T08:43:47Z",
+      "category": "Econ",
+      "region": "UK / Europe / Global supply chains / Middle East",
+      "background": "UK retailer Next said it will raise prices by up to 8% in some countries outside Europe from May, citing an extra £47m in costs this year linked to the US-Israel war with Iran. The company said higher fuel prices and supply-chain disruption from the conflict have hit international trade, while UK and Europe prices will not need similar increases because of cost savings, currency gains, and margin improvements. Next has 700 stores worldwide, around 500 in the UK, and raised its full-year profit forecast to £1.22bn after first-quarter full-price sales rose 6.2% and UK sales rose 4.4%.",
+      "prop_args": [
+        {
+          "thesis": "Passing on war-driven input costs through selective overseas price rises is a rational way to preserve firm viability and prevent broader supply-chain damage.",
+          "mechanisms": [
+            "First, it protects the retailer's margins without forcing a blanket UK price hike. This is because (1) the firm faces a quantified £47m cost shock from fuel and logistics, (2) it can offset part of that through savings and factory-gate gains, and (3) targeted increases let it preserve profitability where demand can absorb them.",
+            "Second, it reduces the risk of deeper operational disruption. Three reasons: one, if firms absorb all the shock they cut orders, delay shipments, or reduce assortment; two, selective pricing helps keep inventory flowing through disrupted routes; three, maintaining trade volume supports suppliers and shipping networks that would otherwise face a sharper downturn.",
+            "Third, it is economically efficient relative to the alternative. This matters because the cost shock is caused by a geopolitical supply constraint, not by retailer greed, so spreading the burden to consumers in affected markets is a standard market adjustment rather than a distortion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Retailers passing war costs onto consumers exports geopolitical volatility into household inflation and unfairly burdens weaker foreign markets.",
+          "mechanisms": [
+            "First, it worsens consumer welfare in markets with less pricing power. One, price rises of up to 8% are large enough to reduce discretionary spending on clothing and homeware; two, consumers outside Europe may have fewer substitutes or lower incomes; three, this turns a conflict-driven input shock into a direct cost-of-living hit.",
+            "Second, it normalizes profiteering and weakens incentives to absorb or hedge shocks. One, firms may use conflict as cover to widen margins rather than merely recover costs; two, repeated pass-through makes inflation stickier across sectors; three, it shifts adjustment costs onto end users instead of shareholders or management.",
+            "Third, it can depress demand and deepen the retail slowdown. One, higher prices reduce sales volumes; two, weaker demand can trigger further cost-cutting, layoffs, or store closures; three, that feeds back into the broader economy and makes the conflict's spillovers more severe."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether price pass-through is a necessary adjustment to a real supply shock or an avoidable transfer of geopolitical costs onto consumers. Prop has the structural advantage on firm survival and supply-chain continuity, while Opp has the stronger welfare story if the round prioritizes distributional harm and inflation persistence.",
+      "stock_connections": [
+        "Cost-push inflation",
+        "Pass-through pricing",
+        "Supply chain shock",
+        "Inflationary expectations",
+        "Consumer welfare",
+        "Market power",
+        "Externalities",
+        "War economy spillovers"
+      ],
+      "motion_areas": [
+        "TH, as a multinational retailer facing geopolitical supply shocks, would pass on costs to consumers",
+        "THBT companies should be allowed to raise prices in response to war-driven input shocks",
+        "THP a world where firms are expected to absorb geopolitical supply-chain costs rather than pass them through"
+      ],
+      "data_points": [
+        "Next expects an additional £47m in costs this year from higher fuel prices and global supply-chain disruption",
+        "Price increases outside Europe will be capped at no more than 8% in any territory",
+        "Next raised its full-year profit forecast to £1.22bn from £1.21bn",
+        "Full-price sales rose 6.2% in the first quarter",
+        "UK sales rose 4.4%",
+        "Around a fifth of global oil and gas shipments cross the Strait of Hormuz",
+        "Next has 700 stores worldwide, around 500 in the UK",
+        "Shares in Next are down 5% so far this year"
+      ]
+    },
+    {
+      "id": "4d27fb358511",
+      "title": "Musk-OpenAI Feud Exposes the Governance Tradeoff Between Mission-Locked AI and Capital-Intensive Scale",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T07:10:16Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "OpenAI president Greg Brockman testified in a federal trial in Oakland that Elon Musk became angry in a 2017 meeting after Brockman rejected a proposal for Musk to have more control over the company. Brockman said Musk then announced he would withhold funding from OpenAI, which Musk had backed since its founding in 2015. The trial is part of Musk's lawsuit seeking to undo OpenAI's transition from a nonprofit structure to a for-profit model; OpenAI later created a for-profit arm to raise billions in investment and last year made that arm the company's main focus. Brockman also testified about former OpenAI board member Shivon Zilis, who left the board in March 2023 as Musk launched xAI, a direct competitor to ChatGPT.",
+      "prop_args": [
+        {
+          "thesis": "OpenAI's shift toward a for-profit structure is necessary if frontier AI is going to be built at the scale and speed the market now demands.",
+          "mechanisms": [
+            "First, the capital requirement for frontier AI is so large that nonprofit governance becomes a binding constraint. This is because (1) training and deploying cutting-edge models requires billions in compute, talent, and infrastructure, (2) investors will not commit that scale of money without equity upside and clearer control rights, and (3) the company therefore needs a structure that can credibly raise repeated rounds rather than rely on philanthropy or one-off donations.",
+            "Second, for-profit governance improves execution and accountability. Three reasons: one, it creates a clearer chain of command when strategic disputes arise; two, it aligns incentives around shipping products, monetizing them, and reinvesting in research; three, it reduces the risk that internal ideological conflict freezes decision-making at the exact moment competitors like xAI are moving.",
+            "Third, the public benefits from a stronger OpenAI outweigh the purity of nonprofit mission-lock. This matters because (1) the best way to shape AI safety standards is to be the market leader, (2) a well-capitalized firm can spend more on alignment, red-teaming, and security than a cash-starved nonprofit, and (3) if OpenAI cannot scale, the frontier will be captured by less accountable actors anyway."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "OpenAI's for-profit turn shows why mission-critical AI labs should be structurally protected from investor capture and founder power struggles.",
+          "mechanisms": [
+            "First, profit incentives distort the core safety mission. One, once equity returns become central, managers face pressure to prioritize product rollout and market share over caution; two, this creates a race to deploy models before safeguards are mature; three, the result is higher systemic risk because the harms of a bad release are externalized to society while gains are privatized.",
+            "Second, the governance shift concentrates power in the hands of a small elite and weakens public trust. One, the lawsuit and testimony show that control over the company can hinge on personal relationships, funding leverage, and board manipulation rather than transparent public-interest oversight; two, that makes the company less legitimate as an institution shaping a general-purpose technology; three, legitimacy matters because AI firms increasingly function like quasi-public infrastructure.",
+            "Third, the Musk conflict itself proves why nonprofit constraints are valuable. One, when a major backer can threaten to cut funding to force control, the company becomes vulnerable to capture by the richest actor; two, a nonprofit structure can insulate the lab from billionaire brinkmanship; three, that insulation is especially important in AI, where one actor's strategic preferences can affect the entire ecosystem."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether frontier AI is best governed by capital efficiency or by mission insulation. Prop wins if you prioritize scale and speed in a winner-take-most market; opp wins if you think the main risk is catastrophic misuse and capture, because structural safeguards matter more than faster fundraising.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Regulatory Capture",
+        "Principal-Agent Problem",
+        "Corporate Governance",
+        "Race to the Bottom",
+        "Public Goods Underprovision",
+        "Too Big to Fail",
+        "Information Asymmetry"
+      ],
+      "motion_areas": [
+        "TH, as a government, would require frontier AI labs to be for-profit entities",
+        "THBT nonprofit governance is unsuitable for companies developing general-purpose AI",
+        "THP a world where major AI labs are structured as public-benefit corporations rather than nonprofits",
+        "TH, as OpenAI, would prioritize commercialization over nonprofit mission-lock"
+      ],
+      "data_points": [
+        "OpenAI was founded in 2015 as a nonprofit before creating a for-profit arm to raise billions in funding",
+        "The company decided last year to make the for-profit part of the company the focus",
+        "Musk left OpenAI before launching xAI in 2023",
+        "Shivon Zilis left the OpenAI board in March 2023",
+        "The trial is taking place in Oakland federal court and is expected to last about a month"
+      ]
+    },
+    {
+      "id": "88c4cec2526a",
+      "title": "Scotland’s Progressive Income Tax Creates Cross-Border Distortions for Workers and Firms",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3r2w4r113xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T05:25:57Z",
+      "category": "Econ",
+      "region": "Scotland / rest of UK",
+      "background": "Ahead of the Scottish parliament election on Thursday, income tax has become a major campaign issue because Scotland and the rest of the UK now use different tax structures. Since 2018, Scotland has had a six-band system with a 19% starter rate, 20% basic rate, 21% intermediate rate, and higher rates of 42%, 45% and 48%, while the UK system uses a 20% basic rate and different higher-rate thresholds. The BBC highlights workers at Armstrong Watson, where a person living in Gretna on £50,000 pays £1,496 more income tax per year than a colleague in Carlisle on the same salary, and at around £100,000 the gap rises to about £4,000.",
+      "prop_args": [
+        {
+          "thesis": "A more progressive Scottish income tax system is justified because it funds public services while shifting more of the burden onto higher earners who are better able to pay.",
+          "mechanisms": [
+            "First, the system raises revenue from those with the greatest ability to absorb it. This is because (1) the Scottish rates are only slightly lower at the bottom but much higher at the top, (2) the biggest gaps fall on senior managers, partners and executives rather than average workers, and (3) the policy therefore preserves consumption for lower earners while extracting more from those with more slack in their budgets.",
+            "Second, the tax system supports a more equal social contract by funding universal benefits that reduce lifetime costs. Three reasons: one, Scotland funds free university tuition for Scottish residents, two, prescriptions are free in Scotland, and three, higher tax receipts help sustain public services that offset the headline tax burden.",
+            "Third, the cross-border difference is not enough to trigger mass relocation, so the efficiency cost is limited. This matters because (1) one affected worker explicitly said the tax gap was not enough to uproot family life, (2) the BBC notes that most Scots are still better off under the current system, and (3) the main effect is redistribution rather than a wholesale exodus of labour."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Scotland’s higher and more complex income tax rates distort labour markets, discourage high earners, and make the country less competitive than the rest of the UK.",
+          "mechanisms": [
+            "First, the system creates a strong incentive for mobile workers to shift residence or demand higher pay. One, a worker in Gretna on £50,000 pays £1,496 more than a similar worker in Carlisle, two, at £100,000 the difference is around £4,000, and three, these sums are large enough to affect decisions for senior staff, partners and executives.",
+            "Second, the tax gap distorts hiring and retention inside the same firm, which is economically inefficient. One, colleagues doing similar jobs in the same company can face different take-home pay purely because of postcode, two, that undermines perceptions of fairness and morale, and three, firms may eventually relocate roles or offices to avoid friction and recruitment problems.",
+            "Third, the policy is politically and economically fragile because the benefits are small for most people but the costs are concentrated on the productive middle and upper-middle. One, the Scottish Fiscal Commission says 55% of Scots pay less tax, but the saving for lower earners is at most £40 a year, two, the higher rates kick in earlier than in England, and three, that creates a visible penalty on ambition without delivering a commensurate gain to most voters."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between redistribution and competitiveness: pro wins if the judge prioritises funding public services and taxing ability to pay, while opp wins if they show the policy meaningfully distorts location and work incentives for the most economically important earners. The structural advantage on opp is that the tax gap is immediate and concentrated, whereas the benefits are diffuse and often only visible through long-term public spending.",
+      "stock_connections": [
+        "Progressive taxation",
+        "Tax competition",
+        "Brain drain",
+        "Race to the bottom",
+        "Redistribution",
+        "Fiscal federalism",
+        "Marginal tax distortion",
+        "Ability-to-pay principle",
+        "Location incentives",
+        "Public goods financing"
+      ],
+      "motion_areas": [
+        "TH, as Scotland, would maintain a more progressive income tax system",
+        "THBT devolved governments should be allowed to set income tax rates independently of the central state",
+        "THP a world where subnational regions can set materially different income tax regimes",
+        "THBT governments should prioritise tax competitiveness over redistribution",
+        "THBT Scotland should align its income tax bands with the rest of the UK"
+      ],
+      "data_points": [
+        "Scottish income tax has six bands: 19%, 20%, 21%, 42%, 45% and 48%",
+        "UK basic rate is 20%; Scotland’s starter rate is 19%",
+        "A person in Gretna earning £50,000 pays £1,496 more income tax per year than a similarly paid colleague in Carlisle",
+        "At £100,000 income, the Scotland-England tax difference is about £4,000",
+        "The Scottish Fiscal Commission says 55% of Scots should pay less tax than if they lived elsewhere in the UK",
+        "The maximum saving for lower earners is at most £40 a year",
+        "England’s 2026/27 standard full-time university tuition fee cap is £9,790",
+        "Scottish residents do not pay NHS prescription charges; England’s 2026/27 prescription charge is £9.90",
+        "The UK government says 89% of prescriptions in England are free due to exemptions",
+        "Scottish water bills average £532 and rose 8.7% in April"
+      ]
+    },
+    {
+      "id": "962f74e88bac",
+      "title": "Hormuz Jet Fuel Shock Could Ground Mass Air Travel and Accelerate Aviation’s Elite-Only Future",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history",
+      "published": "2026-05-06T04:00:03Z",
+      "category": "Econ",
+      "region": "Global / Hormuz-linked / Europe / UK / Middle East",
+      "background": "The article examines how a prolonged Iran war and a blocked Strait of Hormuz could disrupt global jet fuel supply. It notes that 41% of European aviation fuel goes through Hormuz, while global shipments of jet fuel and kerosene fell below 2.3 million tonnes last week, the lowest level on record. Jet fuel prices have reportedly doubled in roughly two months, prompting airlines including Lufthansa, Virgin, IAG, and easyJet to cut flights, raise fares, or hedge aggressively; Lufthansa alone announced 20,000 flight cuts on 22 April. Analysts cited in the piece say the world uses about 100 million barrels of oil a day, with around 15 million barrels normally moving through Hormuz, though some flows can be rerouted and refineries can adjust output only within limits.",
+      "prop_args": [
+        {
+          "thesis": "A sustained Hormuz disruption would expose the fragility of global aviation and force a structural shift toward smaller, more expensive, and more carbon-efficient travel.",
+          "mechanisms": [
+            "First, the shock hits aviation through both supply and price channels. This is because (1) 41% of European aviation fuel transits Hormuz, (2) global jet fuel and kerosene shipments have already fallen below 2.3 million tonnes, and (3) airlines cannot fully substitute away from jet fuel in the short run, so even partial supply loss rapidly translates into scarcity pricing.",
+            "Second, airlines respond by cutting capacity and reordering the market around profitability rather than demand. Three reasons: one, Lufthansa has already announced 20,000 flight cuts; two, Virgin and IAG are already raising fares because higher fuel costs cannot be absorbed; three, low-cost carriers with short-haul-heavy networks are most exposed, so the first casualties are the routes that depend on thin margins and high volume.",
+            "Third, the crisis accelerates long-run decarbonisation and changes consumer behaviour. This matters because (1) high fuel prices make trains, staycations, and regional travel relatively more attractive, (2) the article notes people are already delaying bookings and choosing easier, more predictable destinations, and (3) sustained price pressure strengthens the case for synthetic fuels, hydrogen, and more efficient aircraft, even if adoption is slow."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The crisis is severe but not existential: market flexibility, hedging, and rerouting will prevent a true aviation collapse and mostly produce a temporary price shock.",
+          "mechanisms": [
+            "First, the global oil system has enough slack to absorb a major but partial disruption. One, the world uses about 100 million barrels a day, so even a 15 million barrel Hormuz flow is not the whole system; two, some crude can be rerouted through pipelines and alternative export routes via the UAE, Saudi Arabia, and other producers; three, refineries can adjust product mixes, so jet fuel shortages are cushioned by broader petroleum substitution.",
+            "Second, airlines are not equally exposed because they hedge and manage inventories. One, easyJet is 70% hedged until September and Lufthansa says 80% of its fuel price is locked in for the rest of the year; two, Ryanair claims to be the most hedged airline in Europe; three, carriers can cut unprofitable routes rather than collapse, meaning the system contracts but does not break.",
+            "Third, high prices alone do not guarantee a durable transition. One, synthetic fuel is about 10 times more expensive and requires huge amounts of renewable electricity; two, hydrogen aviation needs new cryogenic infrastructure across a century-old system; three, because these technologies remain costly and infrastructure-heavy, the crisis is more likely to produce short-term pain than a fast shift to post-fossil aviation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between temporary disruption and structural transformation. Prop wins if the question is whether a prolonged Hormuz shock changes aviation economics and consumer behaviour; opp wins if the clash is about whether the system actually runs out of fuel or permanently collapses, because hedging, rerouting, and refinery flexibility create substantial buffers.",
+      "stock_connections": [
+        "Supply Shock",
+        "Price Elasticity",
+        "Market Concentration",
+        "Dutch Disease",
+        "Energy Security",
+        "Carbon Pricing by Proxy",
+        "Elite Capture",
+        "Infrastructure Lock-in",
+        "Transition Costs",
+        "Dependency Theory"
+      ],
+      "motion_areas": [
+        "TH, as a government, would impose emergency controls on aviation fuel allocation during a geopolitical oil shock",
+        "THBT states should use energy crises to accelerate the transition away from fossil-fuel aviation",
+        "THP a world where air travel is significantly more expensive and less accessible",
+        "THBT the global economy is too dependent on Gulf energy routes",
+        "THBT airlines should be forced to internalize the full cost of fuel volatility"
+      ],
+      "data_points": [
+        "41% of European aviation fuel goes through the Strait of Hormuz",
+        "Global shipments of jet fuel and kerosene fell below 2.3 million tonnes last week, the lowest level on record",
+        "The world uses about 100 million barrels of oil a day",
+        "About 15 million barrels a day would normally go through Hormuz",
+        "Jet fuel has doubled in price over the last two months",
+        "Lufthansa announced 20,000 flight cuts on 22 April",
+        "EasyJet is 70% hedged until September",
+        "Lufthansa says 80% of its fuel price is locked in for the rest of the year",
+        "Goldman Sachs warned the UK is the most exposed European country to shortages because of its import routes and low reserves",
+        "50% of Britons take fewer than one flight a year and 80% of humans have never been on a plane"
+      ]
+    },
+    {
+      "id": "7da2bb06a822",
+      "title": "Apple's AI Marketing Settlement Exposes the Cost of Overpromising in the Big Tech Race",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-06T00:15:14Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "Apple has agreed to pay a collective $250 million to settle a US class action lawsuit alleging it misled iPhone buyers about AI features marketed under 'Apple Intelligence.' The settlement covers US consumers who bought an iPhone 15 or iPhone 16 between June 2024 and March 2025, with individual payouts estimated at $25 to $95. The lawsuit claimed Apple advertised AI capabilities, including an upgraded Siri, that were not available at launch and might not arrive for years, if ever. Apple denied wrongdoing and said the case concerned the availability of two additional features within a broader rollout.",
+      "prop_args": [
+        {
+          "thesis": "This settlement is a necessary check on Big Tech hype cycles because it raises the cost of selling unfinished AI products as if they were already real.",
+          "mechanisms": [
+            "First, it disciplines firms against deceptive pre-release marketing. This is because (1) consumers cannot verify technical claims at the point of sale, (2) platform incumbents have asymmetric information about product readiness, and (3) without liability, companies can monetize expectations before delivery and externalize the downside onto buyers.",
+            "Second, it improves market efficiency by forcing truthful product differentiation. Three reasons: one, it reduces 'AI washing' where ordinary features are rebranded as breakthrough AI; two, it helps consumers compare devices on actual functionality rather than aspirational roadmaps; three, it rewards firms that ship working products instead of firms that are best at narrative management.",
+            "Third, it protects trust in the broader AI ecosystem. This matters because repeated overpromising creates consumer backlash, regulatory scrutiny, and reputational spillovers that can slow adoption of genuinely useful AI tools across the market."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This case is mostly a nuisance settlement that will not materially change Apple’s behavior, because large tech firms can absorb the cost and continue using ambitious marketing to compete.",
+          "mechanisms": [
+            "First, the financial penalty is too small to deter a company of Apple’s scale. One, $250 million is negligible relative to Apple’s revenue and cash reserves; two, per-buyer payouts of $25 to $95 are unlikely to create meaningful consumer enforcement; three, settlements are often treated as a cost of doing business rather than a strategic constraint.",
+            "Second, innovation markets require forward-looking marketing, so some gap between promise and delivery is inevitable. One, complex AI products evolve after launch and timelines shift; two, firms need to signal future capability to attract users and developers; three, over-policing marketing can chill legitimate product launches and make incumbents less willing to invest in ambitious R&D.",
+            "Third, the real competitive harm is not deception but the race to catch up. One, Apple is responding to pressure from OpenAI, Anthropic, and other AI-native firms; two, consumers may prefer early access to imperfect features over waiting for perfect ones; three, the settlement does not solve the underlying innovation gap, so the market incentive to hype remains."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the settlement meaningfully changes incentives or is just a one-off reputational cost. Prop wins if the round is about consumer protection and truthful markets; opp wins if the focus is on the scale of Apple’s business and the inevitability of aspirational marketing in fast-moving tech.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Information Asymmetry",
+        "Consumer Protection",
+        "Corporate Accountability",
+        "Race to the Bottom",
+        "Regulatory Capture",
+        "Market Signaling",
+        "AI Hype Cycle"
+      ],
+      "motion_areas": [
+        "TH, as a regulator, would impose stronger penalties on companies that market unreleased AI features",
+        "THBT consumers should be able to sue tech firms for misleading AI advertising",
+        "THP a world where Big Tech must prove AI claims before product launch"
+      ],
+      "data_points": [
+        "$250 million total settlement",
+        "Individual payouts of $25 to $95 per eligible buyer",
+        "Applies to US buyers of iPhone 15 and iPhone 16 purchased between June 2024 and March 2025",
+        "Apple was accused of marketing 'Apple Intelligence' and an enhanced Siri before the features existed",
+        "The lawsuit was filed as a consolidated class action in California federal court"
+      ]
+    }
+  ]
+}

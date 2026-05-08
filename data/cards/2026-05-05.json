@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-05",
+  "last_updated": "2026-05-08T22:01:01Z",
+  "cards": [
+    {
+      "id": "18e1bf2c2bd2",
+      "title": "Vape Shop Proliferation Shows How Weak Retail Regulation Reshapes UK High Streets",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/c0l2glxr537o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-05T07:17:34Z",
+      "category": "Econ",
+      "region": "UK / Scotland",
+      "background": "The BBC video piece asks why vape shops have become so common on UK high streets, with the story tagged to Greenock, Scotland and the wider UK high-street debate. It comes amid continued concern over disposable vapes and the changing composition of town-centre retail. The article does not provide a detailed policy announcement, but it highlights a visible shift in local commercial landscapes toward vape retail.",
+      "prop_args": [
+        {
+          "thesis": "The spread of vape shops is a symptom of distorted retail incentives, and tighter regulation would improve high-street quality and public welfare.",
+          "mechanisms": [
+            "First, vape shops expand because they exploit a regulatory and tax gap relative to other retail categories. This is because (1) they face lower entry barriers than traditional shops, (2) they can generate high margins on repeat-purchase products, and (3) they benefit from weak zoning and licensing constraints, so capital floods into the easiest profitable use of storefronts.",
+            "Second, limiting vape-shop concentration would improve the composition of high streets. Three reasons: one, it reduces the crowding-out of more socially valuable businesses like grocers, pharmacies, and services; two, it prevents retail monocultures that make town centres less attractive to families and older consumers; three, it can reduce the normalization and visibility of nicotine use, especially among young people.",
+            "Third, this matters because high streets are not just commercial spaces but local public goods. If the retail mix shifts toward low-value, addiction-linked products, the long-run effect is weaker footfall diversity, lower civic trust in town centres, and more pressure on councils to subsidize declining areas."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Vape shops are a rational market response to consumer demand and declining high-street viability, so restricting them would mostly punish small business formation without fixing the underlying retail crisis.",
+          "mechanisms": [
+            "First, vape shops fill a genuine demand niche created by smoking cessation and consumer substitution. One, many customers are former smokers seeking lower-harm alternatives; two, the product category has recurring demand, which supports stable small-business revenue; three, if legal demand exists, storefronts will naturally reallocate toward it.",
+            "Second, the real problem is broader high-street decline, not vape shops specifically. One, online shopping and rising rents have hollowed out traditional retail; two, councils cannot restore footfall simply by banning one category; three, if vape shops disappear, other low-overhead businesses or vacancies will replace them, so the visual change is limited.",
+            "Third, overregulation can create unintended harms. One, it may push consumers to unregulated black-market products; two, it reduces opportunities for local entrepreneurs in a weak economy; three, it can set a precedent for arbitrary moral policing of lawful retail sectors."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether vape shops are treated as a harmful distortion of the high-street ecosystem or as a symptom of deeper structural decline. Prop wins if it proves retail composition has public-good effects beyond pure consumer choice; opp wins if it shows regulation only shifts the problem rather than solving vacancy and demand-side collapse.",
+      "stock_connections": [
+        "Race to the Bottom",
+        "Regulatory Arbitrage",
+        "Public Health Externalities",
+        "Retail Hollowing-Out",
+        "Small Business Formation",
+        "Moral Hazard",
+        "Sin Taxes",
+        "Urban Decline"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would heavily restrict the density of vape shops on high streets",
+        "THBT local councils should be allowed to zone out vape shops from town centres",
+        "THP a world where the sale of disposable vapes is tightly regulated and retail licensing is capped"
+      ],
+      "data_points": [
+        "BBC story published 2026-05-05T07:17:34Z",
+        "Story tagged to Greenock, Scotland and UK high streets",
+        "Article focus: the visible proliferation of vape shops on British high streets",
+        "Disposable vapes are explicitly referenced in the story tags"
+      ]
+    }
+  ]
+}

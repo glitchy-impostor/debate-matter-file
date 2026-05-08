@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "last_updated": "2026-05-08T08:22:08Z",
+  "last_updated": "2026-05-08T22:01:01Z",
   "cards": [
     {
       "id": "f27fb7373778",
@@ -127,6 +127,82 @@
       ]
     },
     {
+      "id": "73aac8cede40",
+      "title": "India-Pakistan Ceasefire Freezes the Border but Hardens a New, More Dangerous Status Quo",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g4093dy39o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T22:59:31Z",
+      "category": "IR",
+      "region": "India / Pakistan / Kashmir / South Asia",
+      "background": "A four-day India-Pakistan conflict in May 2025, triggered by a deadly militant attack on tourists in Indian-administered Kashmir, ended after Indian strikes and Pakistani retaliation. One year later, the ceasefire still holds, but formal diplomacy is nearly absent: the border remains shut, trade is suspended, cricket ties are severed, and the Indus Waters Treaty remains in abeyance. The article says the conflict also reshaped regional perceptions, with Pakistan regaining some geopolitical relevance and India recalibrating its external partnerships amid strains with the US.",
+      "prop_args": [
+        {
+          "thesis": "The conflict has made South Asia more dangerous by normalizing a brittle deterrence environment where any future militant attack can trigger rapid interstate escalation.",
+          "mechanisms": [
+            "First, the war lowered the threshold for retaliation. This is because (1) Indian officials now frame 'terrorists and their backers' as equally targetable, (2) the article says Delhi treats any attack above a certain threshold as an act of war, and (3) the suspension of the Indus Waters Treaty signals willingness to use non-military coercion alongside strikes.",
+            "Second, the conflict creates escalation ambiguity that makes crisis management harder. Three reasons: one, both sides now believe the other may respond more aggressively than before; two, Pakistan thinks rapid escalation can force international intervention, which encourages brinkmanship; three, India’s willingness to widen targets to the Pakistani military increases the chance of miscalculation.",
+            "Third, this matters because repeated crises in a nuclear dyad create compounding risk. Even if the ceasefire holds today, the next terrorist attack or border incident can move faster from sub-conventional violence to interstate war, leaving less time for diplomacy or third-party de-escalation."
+          ]
+        },
+        {
+          "thesis": "Pakistan has gained leverage from the conflict because it restored its relevance as a crisis intermediary and made external powers more willing to engage it.",
+          "mechanisms": [
+            "First, Pakistan’s ability to survive the initial Indian onslaught improved its deterrent credibility. This matters because (1) it weakens the old assumption that India has overwhelming conventional superiority, (2) it makes Pakistan look harder to coerce, and (3) it increases the value of Pakistani cooperation in any future crisis.",
+            "Second, the Iran crisis and Gulf tensions gave Islamabad a new diplomatic niche. Three reasons: one, Pakistan positioned itself between Washington, Tehran, and Arab capitals; two, Trump’s personalized diplomacy and apparent preference for Asim Munir amplified Pakistan’s visibility; three, this creates bargaining power that Pakistan lacked when it was diplomatically isolated.",
+            "Third, even temporary relevance can translate into strategic gains. If major powers believe Pakistan can help manage regional shocks, they are more likely to offer aid, attention, or mediation, which reduces Pakistan’s isolation and gives its military elite more room to maneuver."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The conflict has not fundamentally changed the regional balance because India remains structurally stronger and Pakistan’s renewed relevance is temporary and contingent.",
+          "mechanisms": [
+            "First, Pakistan’s diplomatic comeback is fragile. (1) It depends heavily on Trump’s personal preferences rather than durable US strategy, (2) the Iran crisis is temporary and may fade, and (3) once the crisis cycle passes, Pakistan loses the intermediary role that made it useful.",
+            "Second, India’s long-term strategic position remains intact. (1) The article explicitly says India is 'big enough' that disequilibrium does not imperil its rise, (2) India is diversifying away from US dependence by moving closer to the EU, repairing ties with China, and resisting pressure on Russia, and (3) this reduces the chance that Pakistan can permanently exploit US-India friction.",
+            "Third, the ceasefire itself shows both sides still prefer managed rivalry over open war. (1) Pakistan’s own elite recognizes its economy is in shambles and does not want conflict, (2) India has not been forced into concessions on Kashmir or core security policy, and (3) the result is stalemate, not a decisive shift in power."
+          ]
+        },
+        {
+          "thesis": "The post-conflict environment may actually stabilize deterrence by making both sides more cautious and more invested in avoiding another major war.",
+          "mechanisms": [
+            "First, the conflict clarified military costs. (1) Both sides saw a networked, drone-heavy battlefield, (2) both accelerated modernization and defense spending, and (3) that experience can make leaders more aware of the risks of escalation rather than more willing to repeat it.",
+            "Second, Pakistan’s internal fragility pushes restraint. (1) Its economy is in shambles, (2) society is deeply divided, and (3) it faces two insurgencies, so the military and political elite have strong incentives to avoid a wider war with India.",
+            "Third, backchannel diplomacy remains available. (1) The article notes a long history of effective backchannels, (2) both sides have incentives to keep the ceasefire from collapsing, and (3) even if formal diplomacy is frozen, informal crisis management can prevent the worst outcomes."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the conflict created a durable new security order or just a temporary crisis spike. Prop wins if the judge prioritizes escalation risk and the structural incentives for future retaliation; Opp wins if they prioritize long-run power asymmetry and the fact that Pakistan’s gains depend on contingent US politics rather than permanent shifts.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Deterrence Theory",
+        "Escalation Ladder",
+        "Crisis Instability",
+        "Nuclear Brinkmanship",
+        "Balance of Power",
+        "Alliance Dependence",
+        "Great Power Mediation",
+        "Backchannel Diplomacy",
+        "Strategic Ambiguity"
+      ],
+      "motion_areas": [
+        "TH, as India, would maintain a hardline ceasefire without diplomatic normalization with Pakistan",
+        "THBT South Asian security is more dangerous when nuclear rivals rely on crisis bargaining",
+        "THP a world where third-party mediation in India-Pakistan crises is routine",
+        "THBT Pakistan should prioritize stabilizing rather than normalizing relations with India",
+        "THBT India should treat cross-border terrorism as grounds for broader interstate retaliation"
+      ],
+      "data_points": [
+        "The 2025 India-Pakistan conflict lasted about 90 hours",
+        "The border is shut, trade is suspended, and cricket ties remain severed one year later",
+        "The Indus Waters Treaty remains in abeyance",
+        "The article describes the clash as South Asia's first truly networked, drone-heavy, high-tech conflict",
+        "Pakistan's army chief is now Field Marshal Asim Munir",
+        "Trump repeatedly claimed credit for brokering the ceasefire and offered to mediate on Kashmir",
+        "India has been moving closer to the EU, repairing ties with China, and resisting US pressure to sever ties with Russia",
+        "Pakistan faces 'two insurgencies' and an economy described by analysts as 'in a shambles'"
+      ]
+    },
+    {
       "id": "be2a4e32c986",
       "title": "North Korea’s Russia War Dead Expose the Cost of Autocratic Bargain Diplomacy",
       "source": "BBC",
@@ -243,6 +319,117 @@
       ]
     },
     {
+      "id": "a7b5f4e4516f",
+      "title": "Trump’s Iran War Push Turns the Vatican Into a Diplomatic Counterweight",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cq8py99p2jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T19:06:43Z",
+      "category": "IR",
+      "region": "United States / Vatican City / Iran",
+      "background": "On 7 May 2026, US Secretary of State Marco Rubio met Pope Leo at the Vatican. The meeting came amid rising tensions after President Donald Trump repeatedly attacked Leo over his criticism of the Iran war and the administration’s hardline anti-immigration policies. Leo is the first American pope, and the State Department described the Vatican-US relationship as \"strong.\" Trump publicly called the pope \"weak on crime.\"",
+      "prop_args": [
+        {
+          "thesis": "The Vatican can function as an independent moral and diplomatic constraint on a war-obsessed US administration, making escalation with Iran harder to sustain politically.",
+          "mechanisms": [
+            "First, the pope gives anti-war elites a legitimizing external voice. This is because (1) Catholic institutions have transnational reach into US voters, lawmakers, and diplomats, (2) a pope criticizing the war reframes opposition as moral rather than partisan, and (3) it raises the domestic political cost of escalation for a president already facing elite and public scrutiny.",
+            "Second, Vatican diplomacy creates an alternative channel for de-escalation. Three reasons: one, the Holy See can communicate with both Washington and other actors without the same credibility costs as a hostile state; two, it can signal off-ramps and humanitarian concerns in a way that preserves face; three, even symbolic mediation can slow momentum toward military action by keeping negotiation alive.",
+            "Third, Trump’s attacks on Leo can backfire by making the administration look reckless and anti-institutional. This matters because the more the White House attacks a globally respected religious figure, the more it validates claims that the war is driven by ego and ideology rather than security, which can widen the coalition against escalation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Vatican has little hard power, so this meeting is mostly symbolic and cannot materially constrain US policy toward Iran.",
+          "mechanisms": [
+            "First, the Holy See cannot impose costs on the US state. One, it has no military leverage, sanctions power, or control over oil markets; two, US foreign policy is driven by the president, Pentagon, and Congress, not papal opinion; three, if Trump wants escalation, a Vatican rebuke does not change the underlying strategic incentives.",
+            "Second, Trump can simply weaponize the clash for domestic politics. One, attacking the pope can energize his base by framing the Vatican as part of a liberal international establishment; two, religious backlash is limited because many voters prioritize nationalism and security over papal authority; three, the administration can dismiss criticism as irrelevant foreign interference.",
+            "Third, the meeting may even strengthen the administration by signaling normal diplomatic relations. One, Rubio’s visit lets the White House claim it is still engaging allies and institutions; two, it separates the State Department from Trump’s rhetoric, reducing reputational damage; three, symbolic diplomacy can absorb controversy without changing policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether moral authority can translate into real political constraint. Prop wins if you think escalation depends on coalition maintenance and legitimacy; opp wins if you think Iran policy is set by hard security incentives that the Vatican cannot alter.",
+      "stock_connections": [
+        "Soft Power",
+        "Moral Authority",
+        "Legitimacy Costs",
+        "Elite Cueing",
+        "Separation of Powers",
+        "Symbolic Politics",
+        "Diplomatic Mediation"
+      ],
+      "motion_areas": [
+        "TH, as the Vatican, would publicly condemn the Iran war",
+        "THBT religious leaders should intervene in great-power conflicts",
+        "THP a world where the Pope can meaningfully influence US foreign policy",
+        "TH, as the US State Department, would distance itself from presidential attacks on the Pope"
+      ],
+      "data_points": [
+        "Marco Rubio met Pope Leo at the Vatican on 7 May 2026",
+        "Pope Leo is the first American pope",
+        "Trump repeatedly attacked Leo over his criticism of the Iran war",
+        "Trump called the pope 'weak on crime'",
+        "The State Department described the Vatican-US relationship as 'strong'"
+      ]
+    },
+    {
+      "id": "42860933cc25",
+      "title": "Iran War and Tariff Shock Push U.S. Appliance Market Into Recessionary Demand Collapse",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/07/whirlpool-recession-sales-iran-tariffs",
+      "published": "2026-05-07T18:18:17Z",
+      "category": "Econ",
+      "region": "United States and North America",
+      "background": "Whirlpool said on 7 May 2026 that its North American appliance sales fell more than 7% in the quarter and revenue dropped nearly 10%, as the company described the market as experiencing a \"recession-level industry decline.\" The firm cut its full-year earnings forecast to $3-$3.50 per share from $6, suspended its dividend, and said it would raise prices by 10% in April and another 4% in July to offset multiyear inflationary cost pressures. Whirlpool said the downturn was driven by consumer caution linked to the Iran war, higher grocery and gas prices, and the Supreme Court’s decision striking down Trump’s emergency tariffs, which is also forcing rival appliance makers to seek refunds and reshuffling pricing across the sector.",
+      "prop_args": [
+        {
+          "thesis": "External shocks to prices and confidence can rapidly transmit from geopolitics into domestic consumer durables, justifying short-term protection for firms and workers while demand stabilizes.",
+          "mechanisms": [
+            "First, the Iran war and tariff reversal create a simultaneous demand and cost shock. This is because (1) consumers facing higher gas and grocery bills postpone big-ticket purchases, (2) firms lose pricing certainty when tariffs are struck down and competitors seek refunds, and (3) appliance producers cannot instantly adjust output because manufacturing and inventory cycles are slow.",
+            "Second, allowing firms like Whirlpool to raise prices and preserve margins prevents a deeper industrial contraction. Three reasons: one, it keeps cash flow positive after Whirlpool posted an $82m quarterly loss; two, it protects domestic production capacity in a sector where Whirlpool makes about 80% of major appliances in U.S. factories; three, it reduces the risk of layoffs and supplier bankruptcies cascading through the Midwest manufacturing base.",
+            "Third, the broader macro impact is that stabilizing durable-goods firms helps avoid a self-reinforcing recession spiral. This matters because when households delay replacements, firms cut investment and employment, which further weakens consumer confidence and deepens the downturn."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The slump shows that tariff protection and price hikes are a weak substitute for real consumer demand, and policy should focus on affordability rather than shielding producers.",
+          "mechanisms": [
+            "First, tariffs and domestic manufacturing do not solve the underlying problem that households cannot afford appliances. One, Whirlpool’s sales fell more than 7% even though about 80% of its major appliances are made in the U.S.; two, the company itself blamed consumers delaying purchases because of high grocery and gas prices; three, this means the binding constraint is demand, not import competition.",
+            "Second, protecting firms through tariffs or price support can worsen inflation and reduce welfare. One, Whirlpool already announced a 10% price hike in April and another 4% in July, which directly raises the cost of replacing essential household goods; two, rival firms seeking tariff refunds create market distortion and uncertainty; three, consumers bear the burden through higher prices while firms still cut guidance and suspend dividends.",
+            "Third, the policy lesson is that industrial resilience comes from macro stability, not trade barriers. One, the company’s own forecast was slashed from $6 to $3-$3.50 per share, showing that external shocks overwhelm tariff protection; two, if households are squeezed by energy and food costs, appliance demand will remain weak regardless of where production is located; three, this suggests targeted consumer relief would be more effective than producer protection."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the core problem is supply-side industrial vulnerability or demand-side household distress. This argument wins because the article shows Whirlpool is already heavily domestic, yet sales still collapsed, which means the decisive factor is consumer purchasing power rather than trade exposure.",
+      "stock_connections": [
+        "Demand Shock",
+        "Inflation Pass-Through",
+        "Protectionism",
+        "Industrial Policy",
+        "Consumer Confidence",
+        "Recessionary Spiral",
+        "Race to the Bottom",
+        "Supply Chain Disruption",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the U.S. government, would prioritize protecting domestic manufacturers during geopolitical shocks",
+        "THBT governments should shield strategic consumer goods industries from tariff volatility",
+        "THP a world where firms can raise prices to preserve domestic industrial capacity during recessions",
+        "THBT economic policy should focus on consumer relief rather than producer protection in inflationary downturns"
+      ],
+      "data_points": [
+        "Whirlpool said North American sales of major appliances declined more than 7% in the quarter",
+        "Whirlpool revenue dropped nearly 10% in the quarter",
+        "Whirlpool posted a first-quarter loss of $82m",
+        "Whirlpool cut full-year earnings guidance to $3-$3.50 per share from $6 per share",
+        "Whirlpool announced a 10% price hike in April and a further 4% increase in July",
+        "Whirlpool said about 80% of its major appliances are produced at American factories",
+        "Whirlpool estimated tariff impact on competitors at 10%-15% and on its own business at around 5%",
+        "Whirlpool shares fell more than 12% on the day of the announcement"
+      ]
+    },
+    {
       "id": "ba96b30a7aff",
       "title": "Trump’s Iran War Triggers Transatlantic Energy Shock and Forces Germany Into Fiscal Downside",
       "source": "BBC",
@@ -302,6 +489,119 @@
       ]
     },
     {
+      "id": "b7364fa57806",
+      "title": "FCC Forces ABC Into Early License Renewal Amid Claims of White House Pressure and Retaliation",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/07/senate-democrats-brendan-carr-abc",
+      "published": "2026-05-07T17:00:22Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "On 7 May 2026, a group of Senate Democrats led by Edward J. Markey, Chuck Schumer, Maria Cantwell, and Ben Ray Luján sent a letter to FCC chair Brendan Carr demanding he rescind an order requiring ABC to apply early to renew eight television station licenses. The licenses were not due for renewal until 2028 at the earliest and 2031 at the latest, but the FCC ordered renewal applications by the end of May. Carr said the move was tied to an ongoing investigation into Disney’s DEI practices, while Democrats argued it followed public pressure from Donald Trump and his wife after ABC aired a joke by Jimmy Kimmel.",
+      "prop_args": [
+        {
+          "thesis": "The FCC’s early-renewal order is a politically weaponized regulatory abuse that chills editorial independence across the US media market.",
+          "mechanisms": [
+            "First, it turns licensing into a punishment tool rather than a neutral compliance mechanism. This is because (1) broadcasters depend on FCC licenses to operate, (2) forcing an early renewal creates immediate legal and financial uncertainty, and (3) the threat is especially coercive when the regulator can later escalate to non-renewal or conditions on the license.",
+            "Second, it creates a chilling effect on all broadcasters, not just ABC. Three reasons: one, other networks will infer that controversial programming can trigger regulatory retaliation; two, editors and executives will self-censor to avoid becoming the next target; three, the uncertainty spreads beyond ABC because the FCC has open investigations into other ABC programming, signaling a broader enforcement campaign.",
+            "Third, it undermines the legitimacy of the communications regulator and weakens democratic accountability. This matters because (1) the FCC is supposed to act on public-interest criteria, not presidential preferences, (2) perceived partisan enforcement erodes trust in the rule of law, and (3) once agencies are seen as tools for punishing speech, future administrations inherit a norm of retaliation that is hard to reverse."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The FCC is entitled to scrutinize broadcasters aggressively when there are legitimate compliance and public-interest concerns, and this is not automatically censorship.",
+          "mechanisms": [
+            "First, the FCC has a statutory role in ensuring broadcasters meet licensing obligations. One, broadcast licenses are public privileges, not private entitlements; two, the agency can investigate conduct affecting the public interest, including moderation and equal-time issues; three, an early renewal request can be framed as an administrative tool to force timely review rather than a speech penalty.",
+            "Second, the DEI and debate-moderation inquiries provide a non-speech justification for action. One, Carr explicitly tied the order to an ongoing enforcement matter; two, the FCC has separate open investigations into ABC, including a 2024 complaint about presidential debate moderation and a possible equal-time violation involving The View; three, if the network has compliance issues, the regulator can legitimately demand earlier scrutiny without proving partisan motive.",
+            "Third, the political backlash argument overstates the effect on press freedom. One, ABC still retains its license and can contest the order through legal and administrative channels; two, one enforcement action does not amount to systemic censorship; three, broadcasters remain commercially powerful and can absorb regulatory pressure better than the claim that the entire industry will be silenced."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the order is a narrow enforcement step or a precedent for state retaliation against disfavored speech. Prop wins if the round is about institutional norms and chilling effects; Opp wins if they can credibly reframe the move as ordinary licensing oversight tied to concrete investigations rather than content punishment.",
+      "stock_connections": [
+        "State censorship",
+        "Chilling effect",
+        "Regulatory capture",
+        "Abuse of power",
+        "Rule of law",
+        "Free speech",
+        "Media independence",
+        "Democratic backsliding"
+      ],
+      "motion_areas": [
+        "TH, as the FCC, would require early license renewal for broadcasters under active investigation",
+        "THBT regulators should have broad discretion to penalize media companies for public-interest violations",
+        "THP a world where broadcast licenses can be reviewed before their scheduled renewal date for editorial misconduct"
+      ],
+      "data_points": [
+        "Eight ABC-owned station licenses were originally due for renewal only in 2028 at the earliest and 2031 at the latest",
+        "The FCC ordered ABC to file renewal requests by the end of May 2026",
+        "The Senate letter was led by Edward J. Markey, Chuck Schumer, Maria Cantwell, and Ben Ray Luján, with eight additional senators signing",
+        "The FCC has two other open ABC investigations: one over a 2024 presidential debate moderation complaint and one over a possible equal-time violation involving The View and James Talarico",
+        "Carr said at an FCC meeting that there was 'no pressure from the outside' and 'no call for agency action from the outside'"
+      ]
+    },
+    {
+      "id": "01fecbc0b6dc",
+      "title": "China’s UK Spy Convictions Turn Hong Kong Exile Politics Into a Sovereignty Test for Britain",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/07/two-men-guilty-spying-for-china-uk-wai-yuen",
+      "published": "2026-05-07T16:43:06Z",
+      "category": "IR",
+      "region": "United Kingdom / China / Hong Kong",
+      "background": "On 7 May 2026, the Old Bailey found Chi Leung “Peter” Wai, 38, and Chung Biu Yuen, 65, guilty of assisting a foreign intelligence service, making them the first people in British history convicted of spying for China. Wai, a UK Border Force officer at Heathrow and a City of London special constable, was also convicted of misconduct in public office for unauthorised searches of Home Office databases. The nine-week trial heard that the pair surveilled Hong Kong dissidents in the UK, including exiled activist Nathan Law, and targeted British politicians such as Iain Duncan Smith and Helena Kennedy. A third accused, former Royal Marine Matthew Trickett, died after being bailed in 2024; jurors could not reach a verdict on separate foreign interference charges, and prosecutors said they would not seek a retrial.",
+      "prop_args": [
+        {
+          "thesis": "Britain should treat Chinese covert activity in the UK as a hard sovereignty threat and respond with stronger counter-espionage, sanctions, and diplomatic costs.",
+          "mechanisms": [
+            "First, this is a direct attack on state sovereignty because (1) the operation used a UK Border Force officer to access Home Office databases, (2) it targeted dissidents and politicians on British soil, and (3) it shows a foreign state can penetrate institutions meant to protect borders and public order. That means the threat is not abstract influence but operational control over sensitive state information.",
+            "Second, a hard response deters future proxy operations because (1) the first convictions create a legal precedent that covert activity will be prosecuted, (2) public attribution and ambassador summons raise the reputational cost for Beijing, and (3) tighter vetting and intelligence-sharing make it harder to recruit insiders like Wai. In espionage, credibility of punishment matters more than symbolic condemnation.",
+            "Third, protecting exiles and dissidents strengthens Britain’s broader strategic position because (1) London is a hub for Hong Kong and Chinese diaspora politics, (2) if Britain cannot protect asylum seekers and activists, other hostile states will assume they can operate freely there, and (3) a visible enforcement posture reassures allies that the UK is willing to defend liberal democratic norms. This matters because deterrence is cumulative: one weak response invites repeated coercion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Britain should avoid escalating this into a broader anti-China confrontation because the case is serious criminal conduct, not proof that maximal diplomatic retaliation improves security.",
+          "mechanisms": [
+            "First, overreaction risks harming Britain’s own interests because (1) China is a major trade and investment partner, (2) broad sanctions or diplomatic theatrics can trigger reciprocal measures against UK firms, universities, and diplomats, and (3) the UK gains little from symbolic escalation once the individuals are already convicted. Punishment should be targeted, not performative.",
+            "Second, the case does not justify treating all Chinese-linked institutions as hostile because (1) the jury did not convict on the separate foreign interference charges, (2) the evidence concerns a small covert network rather than a general Chinese diaspora threat, and (3) indiscriminate suspicion can chill legitimate academic, business, and community ties. A blanket crackdown would likely create more social harm than security benefit.",
+            "Third, Britain’s best defence is institutional resilience, not geopolitical grandstanding because (1) insider vetting, database controls, and counterintelligence are more effective than public rhetoric, (2) the case was uncovered through police work and surveillance of the suspects, and (3) durable security comes from better systems rather than headline-grabbing confrontation. That means the policy lesson is reform, not escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the case proves a systemic Chinese threat requiring strategic confrontation, or a contained espionage incident best handled through law enforcement and institutional reform. Pro side has the stronger structural claim on deterrence and sovereignty because the abuse of a Border Force officer and dissident surveillance show direct state penetration, but opposition can still win if it proves escalation imposes broader economic and diplomatic costs without materially improving security.",
+      "stock_connections": [
+        "Sovereignty",
+        "Counter-espionage",
+        "Deterrence",
+        "Diaspora surveillance",
+        "Authoritarian influence operations",
+        "Insider threat",
+        "Rule of law",
+        "Diplomatic retaliation",
+        "Security vs trade tradeoff"
+      ],
+      "motion_areas": [
+        "TH, as the UK, would impose sweeping sanctions on Chinese state-linked entities after espionage convictions",
+        "THBT liberal democracies should treat foreign interference by China as a strategic threat rather than isolated criminality",
+        "THP a world where states can more aggressively prosecute foreign intelligence operations on their soil",
+        "TH, as the UK, would ban Hong Kong government-linked offices from operating in London",
+        "THBT the West should prioritize counter-espionage over economic engagement with China"
+      ],
+      "data_points": [
+        "Chi Leung “Peter” Wai, 38, and Chung Biu Yuen, 65, were convicted at the Old Bailey on 7 May 2026",
+        "They became the first people in British history convicted of spying for China",
+        "Wai worked for UK Border Force at Heathrow and as a City of London special constable",
+        "Wai was also convicted of misconduct in public office for unauthorised searches of Home Office databases",
+        "The trial lasted nine weeks",
+        "Jurors deliberated for 23 hours and 38 minutes on the separate foreign interference charges but could not reach a verdict",
+        "Nathan Law was reportedly subject to multiple spying operations and has a £100,000 bounty on his head from Chinese authorities",
+        "The case involved surveillance of Hong Kong pro-democracy groups and British politicians including Iain Duncan Smith and Helena Kennedy",
+        "A third accused, former Royal Marine Matthew Trickett, died in 2024 after being bailed"
+      ]
+    },
+    {
       "id": "156f8acfa7f4",
       "title": "Russia’s Symbolic Victory Day Retreat Signals a War of Attrition It Cannot Easily Win",
       "source": "BBC",
@@ -354,6 +654,59 @@
         "Drone strike hit a luxury apartment building about 4 miles (6 km) from the Kremlin",
         "Russia says mobile internet restrictions will be imposed in Moscow on Victory Day for security reasons",
         "The Soviet Union lost 27 million citizens in the Great Patriotic War"
+      ]
+    },
+    {
+      "id": "1f6da83d23e7",
+      "title": "EU Biometric Border Rollout Forces UK Travellers Into Longer Queues, Exposing Tension Between Security Harmonisation and Tourism Friction",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c78k9ke78ljo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T15:41:28Z",
+      "category": "IR",
+      "region": "Portugal / Italy / Greece / European Union / United Kingdom",
+      "background": "Portugal and Italy have told the European Commission they do not plan to exempt British nationals from the EU’s new Entry-Exit System (EES), which requires most short-term non-EU visitors to register fingerprints and facial scans when entering or leaving the Schengen zone. The system was first introduced in October last year and was meant to be fully operational on 10 April, but implementation has already caused long queues at airports and missed flights, including more than 100 passengers missing an EasyJet flight from Milan’s Linate airport to Manchester and additional Ryanair passengers missing a Milan Bergamo-Manchester flight. Greece has effectively suspended biometric checks for British citizens at some border points to avoid summer disruption, but the Commission says blanket nationality-based exemptions are not allowed under the rules.",
+      "prop_args": [
+        {
+          "thesis": "Keeping biometric checks in place is the correct choice because it preserves the integrity of the Schengen border regime and prevents ad hoc national carve-outs from hollowing out EU-wide security policy.",
+          "mechanisms": [
+            "First, uniform enforcement is what makes the EES credible. This is because (1) the system only works if every member state applies the same entry and exit rules, (2) nationality-based exemptions create a precedent for other states to demand their own exceptions, and (3) once border policy becomes negotiable at the airport level, the EU loses the ability to standardise migration and overstayer tracking.",
+            "Second, the short-term disruption is a manageable implementation cost rather than a reason to abandon the policy. Three reasons: one, the Commission says the system is already working in most cases and the legal framework explicitly allows only temporary suspension at specific crossings in exceptional circumstances; two, the queues are a rollout problem that can be fixed with staffing, signage, and infrastructure rather than by exempting an entire nationality; three, if the EU caves now, it incentivises member states to underinvest in implementation and simply opt out when pressure rises.",
+            "Third, the security and administrative benefits outweigh the inconvenience. This matters because the EES improves the EU’s ability to identify overstayers, reduce identity fraud, and create a more reliable record of who is entering and leaving the Schengen area, which is especially valuable in a system that depends on free internal movement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Portugal and Italy should suspend biometric checks for British travellers because rigid enforcement creates disproportionate economic harm and public backlash for minimal marginal security gain.",
+          "mechanisms": [
+            "First, the immediate economic cost is concentrated and visible. One, long queues cause missed flights, lost hotel nights, and disrupted itineraries, as shown by the Milan incidents where more than 100 EasyJet passengers missed a Manchester flight; two, tourism-heavy economies like Portugal and Italy depend on smooth summer travel flows, so even small delays can reduce visitor confidence and spending; three, airlines and airports bear operational costs that get passed on to consumers.",
+            "Second, the security gain from forcing every British traveller through full biometric processing is limited relative to the disruption. One, British nationals are from a low-risk, high-trust travel market compared with irregular migration routes, so the marginal information value is smaller; two, the system’s purpose is to track overstays and repeat entries, which can be achieved without blanket peak-season bottlenecks; three, temporary exemptions at specific crossings are already contemplated in exceptional circumstances, so suspending checks is a proportionate use of existing flexibility.",
+            "Third, visible border dysfunction undermines broader compliance and legitimacy. One, when travellers experience chaos, they blame the EU and national authorities rather than the technical rollout, which erodes trust in future integration projects; two, member states that appear indifferent to holidaymakers’ experience create political ammunition for anti-EU and anti-immigration actors; three, a pragmatic suspension now could preserve support for the EES later by showing that the system can adapt to real-world congestion."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between systemic rule integrity and immediate economic friction. Prop wins if the round is about whether the EU can maintain a common border architecture without national opt-outs; Opp wins if the judge prioritises concrete, near-term harm to tourism, travellers, and airline operations over abstract institutional coherence.",
+      "stock_connections": [
+        "Rule of Law",
+        "Collective Action Problems",
+        "Institutional Credibility",
+        "Trade-off Between Security and Liberty",
+        "Tourism Shock",
+        "Regulatory Overreach",
+        "Implementation Failure",
+        "Public Backlash"
+      ],
+      "motion_areas": [
+        "TH, as the European Commission, would prohibit member states from suspending biometric border checks for specific nationalities",
+        "THBT EU member states should prioritise border security harmonisation over short-term tourism convenience",
+        "THP a world where Schengen border controls are fully digitised and uniformly enforced"
+      ],
+      "data_points": [
+        "EES was first introduced in October last year and was meant to be fully operational on 10 April",
+        "More than 100 passengers missed an EasyJet flight from Milan’s Linate airport to Manchester due to passport queues",
+        "Ryanair passengers from Milan Bergamo to Manchester also missed their flight because of passport control problems",
+        "Airlines have cut 13,000 flights globally for May, equivalent to 1% of flights for that period",
+        "The Commission says blanket exemptions for nationals of specific third countries are not allowed, though temporary suspension at specific crossings in exceptional circumstances is permitted"
       ]
     },
     {
@@ -539,6 +892,91 @@
       ]
     },
     {
+      "id": "e56de40b4837",
+      "title": "Record Diesel Costs Turn US Farm Input Inflation Into a Rural Insolvency Crisis",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/07/us-farmers-diesel-prices-tariffs-drought",
+      "published": "2026-05-07T12:00:49Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "US farmers are facing a new cost shock as off-road diesel prices have risen from about $2.65 a gallon last April to around $5 a gallon in some areas this spring. The article says the shock lands after a year in which tariffs caused an estimated $34.6bn in losses when former trade partners stopped buying, while the war with Iran has also depleted fertilizer stores and pushed fuel prices to record levels. The pressure is hitting during planting season, when farmers cannot easily delay fuel purchases because tractors, trucks, and harvest equipment depend on diesel.",
+      "prop_args": [
+        {
+          "thesis": "The diesel shock will accelerate farm consolidation and push marginal family farms out of business, making the agricultural sector less resilient and more unequal.",
+          "mechanisms": [
+            "First, the cost increase hits a sector with very thin buffers. This is because (1) 86% of US farmers are small family farms with gross income of $350,000 or less, (2) the majority of those farms operate on profit margins of 10% or less, and (3) diesel is a non-discretionary input for planting, harvesting, and transport, so farmers cannot simply cut usage without cutting output.",
+            "Second, the shock is timed to maximize insolvency risk. Three reasons: one, it arrives during spring planting when fuel demand is highest; two, farmers have already been hit by tariff-related export losses and drought-related production constraints; three, many farms cannot borrow to smooth the shock because credit access is already weak, especially for Black farmers.",
+            "Third, the long-run effect is sectoral concentration. This matters because (1) farms that survive can absorb land and market share from failed neighbors, (2) larger operators have better access to capital, hedging, and bulk fuel purchasing, and (3) once small farms exit, rural communities lose local employment, tax base, and food-system diversity."
+          ]
+        },
+        {
+          "thesis": "Rising diesel prices will raise food prices and weaken domestic food security because farmers will pass costs through and reduce production intensity.",
+          "mechanisms": [
+            "First, farmers cannot avoid the input cost, so they pass it downstream. This is because (1) diesel is required for tractors, trucks, and harvesting equipment, (2) farmers like Frost explicitly say they will likely pass some costs to consumers, and (3) when every producer faces the same shock, there is little competitive room to absorb it.",
+            "Second, the shock reduces effective output even when acreage stays constant. Three reasons: one, farmers respond by planting less aggressively or delaying planting to avoid wasting fuel; two, drought and tighter production windows make timing mistakes more costly; three, lower spending on other inputs and maintenance can reduce yields and quality.",
+            "Third, the macro impact is politically and socially broad. This matters because (1) food inflation hits every household, especially low-income consumers, (2) higher transport and production costs compound across the supply chain, and (3) dependence on a fragile domestic farm base makes the US more exposed to future supply shocks."
+          ]
+        },
+        {
+          "thesis": "The diesel crisis exposes how trade conflict and state retrenchment can jointly destroy rural competitiveness, making government intervention necessary.",
+          "mechanisms": [
+            "First, tariffs and geopolitical shocks are stacking rather than substituting. This is because (1) farmers were already losing export markets after tariff disputes, (2) the Iran war then raised fuel and fertilizer costs simultaneously, and (3) agriculture is a high-fixed-cost industry where multiple shocks quickly become fatal.",
+            "Second, the state is failing to offset the shock. Three reasons: one, federal agencies have been hollowed out by layoffs, reducing access to grants and conservation support; two, the House and Senate farm bill process is still incomplete, leaving uncertainty; three, targeted aid for disadvantaged farmers has been cut, so the most vulnerable producers cannot bridge the gap.",
+            "Third, this creates a policy case for emergency support or tariff rollback. This matters because (1) the market cannot self-correct quickly when fuel is a mandatory input, (2) temporary relief can prevent permanent farm exits, and (3) preserving farm capacity is cheaper than rebuilding it after bankruptcy and land loss."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The diesel spike is painful but manageable, and it will mostly be absorbed through efficiency gains, pricing adjustments, and the resilience of larger farms.",
+          "mechanisms": [
+            "First, farmers have adaptation tools. One, they can change planting dates, routes, and field practices to reduce fuel use; two, they can delay non-urgent spending and cut other operating costs; three, some can pass part of the cost to consumers or buyers, especially in less competitive local markets.",
+            "Second, the sector is heterogeneous, so the average farm is not the decisive case. One, larger farms and integrated operations have more capital and better access to fuel storage and credit; two, many farms already use management strategies to hedge input volatility; three, the farms most likely to fail are often the least efficient and will be replaced by more productive operators.",
+            "Third, the shock may be temporary rather than structural. One, fuel prices can fall if geopolitical conditions improve; two, farmers can adjust input mixes and technology over time; three, short-term pain does not necessarily translate into permanent sector collapse if policy support or market correction arrives."
+          ]
+        },
+        {
+          "thesis": "If anything, the real problem is not diesel prices but underlying policy distortions, so broad intervention risks subsidizing inefficiency and delaying necessary adjustment.",
+          "mechanisms": [
+            "First, the sector already faces chronic structural issues. One, low margins and high debt mean many farms are vulnerable regardless of diesel; two, tariffs and trade protection have already distorted incentives and reduced export competitiveness; three, drought and climate volatility are the deeper drivers of instability.",
+            "Second, emergency relief can create moral hazard. One, repeated bailouts encourage farmers to underinvest in resilience and fuel efficiency; two, political pressure can lock in uncompetitive producers; three, subsidies often flow to better-connected or larger operations rather than the smallest farms.",
+            "Third, market exit can be economically efficient. One, land and capital can move to more productive users; two, consolidation can lower average costs and improve mechanization; three, consumers benefit more from stable long-run supply chains than from preserving every marginal producer."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you treat diesel as a temporary cost shock or a solvency shock in a low-margin industry. Prop has the stronger structural case because farmers cannot opt out of diesel, the timing is worst possible, and the article shows multiple compounding pressures already pushing marginal farms toward closure.",
+      "stock_connections": [
+        "Cost-push inflation",
+        "Moral Hazard",
+        "Rural inequality",
+        "Market concentration",
+        "Food security",
+        "Trade war spillovers",
+        "State capacity",
+        "Small business fragility",
+        "Consolidation"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would provide emergency fuel subsidies to farmers",
+        "THBT governments should suspend tariffs when they materially raise domestic input costs for essential industries",
+        "THP a world where agricultural fuel is heavily subsidized",
+        "THBT the state should prioritize preserving small family farms over market consolidation",
+        "TH, as a rural state legislator, would expand public support for farm input costs during geopolitical shocks"
+      ],
+      "data_points": [
+        "Off-road diesel rose from about $2.65/gallon last April to around $5/gallon this year in some areas",
+        "One farmer said he uses 20,000 gallons of fuel to plant and harvest his crops",
+        "86% of US farmers are small family farms with gross income of $350,000 or less",
+        "Most small family farms operate on profit margins of 10% or less",
+        "Tariffs caused an estimated $34.6bn in losses when former trade partners stopped buying",
+        "Black-operated farms: 55% earned less than $5,000 a year; only 12% made $100,000 or more",
+        "From 2017 to 2022, all farmers fell by 4% to fewer than 47,000 producers, while Black-operated farms fell by 8%",
+        "Only 32,600 of the 1.9m US farms were Black-operated, according to the 2022 Census of Agriculture",
+        "USDA direct loans were provided to 36% of Black farmers who applied, versus 72% of white farmers",
+        "A 100-horsepower tractor can hold about 100 gallons of diesel, costing roughly $600 at close to $6/gallon"
+      ]
+    },
+    {
       "id": "5ba9c6f22f6f",
       "title": "Tshisekedi’s Third-Term Signals Risk Turning DR Congo’s Eastern War Into a Constitutional Crisis",
       "source": "BBC",
@@ -593,6 +1031,240 @@
         "The US sanctioned some Rwandan army commanders in March 2026 over the conflict",
         "A bill to organize a referendum was submitted to parliament in March 2026",
         "Any constitutional amendment requires either a referendum called by the president or a three-fifths parliamentary majority"
+      ]
+    },
+    {
+      "id": "e126cf376209",
+      "title": "Mexico City’s Groundwater Collapse Turns Urban Infrastructure Into a Slow-Motion Crisis",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/mexico-city-sinking-subsidence-2cm-a-month-nasa-nisar",
+      "published": "2026-05-07T10:00:46Z",
+      "category": "Econ",
+      "region": "Mexico City, Mexico",
+      "background": "Mexico City is sinking because it was built on an ancient lake bed and has relied for decades on groundwater extraction that exceeds natural recharge. NASA’s new NISAR radar satellite has detected subsidence of more than 2cm a month in some areas, including around the main airport, and the city’s water table is reportedly dropping by about 40cm a year. The metropolis of about 22 million people is already seeing tilting buildings, warped roads, and damage to the metro, while the city loses an estimated 40% of its water through leakage in cracked pipes.",
+      "prop_args": [
+        {
+          "thesis": "Unchecked groundwater extraction in megacities creates a self-reinforcing infrastructure and water-supply collapse that justifies aggressive regulation and investment now.",
+          "mechanisms": [
+            "First, subsidence destroys the physical capital that makes cities functional. This is because (1) soft clay compacts when aquifers are drained, (2) roads, pipes, and metro lines crack as the ground shifts, and (3) repair costs compound over time because every fix is undermined by continued sinking.",
+            "Second, the water system enters a vicious cycle of scarcity and leakage. Three reasons: one, the city still gets about half its water from the aquifer; two, broken pipes already waste an estimated 40% of supply; three, lower rainfall from climate stress reduces the ability to substitute surface water, so shortages become chronic rather than temporary.",
+            "Third, the economic damage is highly concentrated and regressive. This matters because the worst impacts fall on low-income residents who depend most on public infrastructure, while airport disruption, damaged heritage sites, and transport failures hit commerce, tourism, and municipal finances across the whole city."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The real problem is not subsidence itself but the lack of viable water alternatives, so aggressive extraction limits without replacement infrastructure would create a worse immediate welfare crisis.",
+          "mechanisms": [
+            "First, stopping groundwater pumping is not a realistic short-term option. One, the aquifer still supplies about half of Mexico City’s water; two, surface-water systems and storage are not yet sufficient to replace it; three, abrupt restrictions would create immediate shortages for households, hospitals, and industry.",
+            "Second, the city’s damage is already partly locked in, so policy should prioritize adaptation over futile prevention. One, the subsidence has been ongoing since at least 1925; two, much of the built environment is already structurally compromised; three, limited public budgets should go to targeted reinforcement, drainage, and leak reduction rather than trying to reverse a geological process.",
+            "Third, the broader lesson is that urban growth and water demand must be managed through incremental reform, not alarmist framing. One, the city needs better pipe maintenance and demand management; two, new monitoring technology helps identify risk but does not itself solve it; three, overregulation could slow economic activity without materially stopping the sinking."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between long-run structural collapse and short-run water access. Pro wins if they show subsidence is a compounding infrastructure failure that makes every future year more expensive and less governable; Opp wins if they prove that extraction limits without replacement supply would impose immediate humanitarian costs that outweigh the benefits of prevention.",
+      "stock_connections": [
+        "Tragedy of the Commons",
+        "Infrastructure Decay",
+        "Climate Adaptation",
+        "Resource Curse",
+        "Urban Inequality",
+        "State Capacity",
+        "Environmental Externalities",
+        "Public Goods Failure"
+      ],
+      "motion_areas": [
+        "TH, as the government of Mexico City, would impose strict limits on groundwater extraction",
+        "THBT megacities should prioritize managed retreat over costly attempts to preserve all existing infrastructure",
+        "THP a world where satellite monitoring of environmental degradation is publicly available in real time",
+        "THBT developing cities should redirect infrastructure spending from expansion to maintenance and leak reduction"
+      ],
+      "data_points": [
+        "Some areas of Mexico City, including the main airport, are sinking by more than 2cm a month",
+        "Mexico City is a metropolis of about 22 million people",
+        "The city’s water table is contracting by about 40cm a year",
+        "Mexico City loses an estimated 40% of its water due to leakage",
+        "The underground aquifer still provides about half of the capital’s water supply",
+        "The Angel of Independence has required 14 steps added to its base since 1910",
+        "First documented in 1925, the city’s sinking has been ongoing for more than a century"
+      ]
+    },
+    {
+      "id": "94fc68c4b336",
+      "title": "US Utilities Use Astroturf Front Groups to Block Municipal Takeovers of Local Power Grids",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/07/us-utilities-fund-groups-against-public-power-lobby",
+      "published": "2026-05-07T10:00:46Z",
+      "category": "Business",
+      "region": "United States / Michigan / Florida / California / Maine",
+      "background": "The Guardian reports that investor-owned utilities are funding local-looking front groups to oppose municipalization campaigns in cities including Ann Arbor, Michigan; St Petersburg and Clearwater, Florida; and San Diego, California. In Ann Arbor, campaign finance records show the Ann Arbor Responsible Energy Coalition (A2rec) received nearly $2 million from DTE Energy, its contractors, the Edison Electric Institute, and an industry consultant, while its mailing address was listed at DTE’s headquarters. Public power advocates say municipal utilities in the US average about 14% lower bills than private utilities, and Ann Arbor activists are trying to put municipalization on the November ballot after years of resistance from city officials.",
+      "prop_args": [
+        {
+          "thesis": "Secret utility-funded astroturf campaigns are a democratic distortion that blocks cheaper, more accountable public ownership of essential infrastructure.",
+          "mechanisms": [
+            "First, the funding structure corrupts local deliberation. This is because (1) voters think they are hearing from neighbors when they are actually hearing from incumbent utilities, (2) the hidden sponsor can flood the information environment with paid canvassers, ads, and door hangers, and (3) that makes the debate about manufactured fear rather than the actual costs and benefits of municipalization.",
+            "Second, the campaigns preserve monopoly rents by preventing communities from switching to a model that structurally lowers bills. Three reasons: one, public power does not need to pay Wall Street dividends, two, federal data in the article says public power bills are about 14% lower on average, and three, any excess revenue can be reinvested into grid upgrades instead of extracted as profit.",
+            "Third, the tactic entrenches bad service and slows the clean-energy transition. This matters because (1) the article links municipalization pushes to frustration over outages and slow decarbonization, (2) private utilities can keep deteriorated grids while still demanding rate hikes, and (3) once incumbents can buy the political process, they can delay reform city by city even when local majorities want change."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Private utilities should be allowed to defend themselves because municipalization is expensive, risky, and can leave cities with worse finances and service if the takeover fails.",
+          "mechanisms": [
+            "First, municipalization imposes large upfront costs and legal complexity. One, cities must pay a 'fair price' for the grid infrastructure before taking it over, two, valuation disputes and litigation can drag on for years, and three, those costs can be passed to residents through taxes or debt.",
+            "Second, incumbent opposition can be substantively informative rather than merely deceptive. One, utilities have operational data on maintenance, reliability, and capital needs that city campaigns may underestimate, two, claims about rate spikes and debt burdens may reflect real transition costs, and three, if public power advocates overpromise savings, voters need a counterweight.",
+            "Third, even if public power can work in some places, local ownership is not automatically superior. One, small municipalities may lack technical expertise and scale, two, political control can create its own inefficiencies or patronage, and three, keeping a private utility may be preferable if it can still be regulated into better service and cleaner investment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between democratic accountability and transition risk. Prop wins if the round is about whether incumbents should be allowed to secretly manipulate local politics, because hidden funding undermines legitimacy and blocks a model that is already cheaper on average; Opp wins only if they can prove the municipal takeover costs are so large that even imperfect utility lobbying is justified as consumer protection.",
+      "stock_connections": [
+        "Astroturfing",
+        "Democratic Backsliding",
+        "Monopoly Power",
+        "Regulatory Capture",
+        "Information Asymmetry",
+        "Public vs Private Ownership",
+        "Natural Monopoly",
+        "Moral Hazard",
+        "Rent-Seeking",
+        "Consumer Protection"
+      ],
+      "motion_areas": [
+        "TH, as a city government, would municipalize essential utilities",
+        "THBT local governments should be allowed to take over private power grids",
+        "THP a world where utilities are banned from funding undisclosed grassroots opposition campaigns",
+        "THBT public ownership is preferable to private ownership for natural monopolies",
+        "THBT cities should be able to force the sale of private utility assets for public power"
+      ],
+      "data_points": [
+        "A2rec received nearly $2 million from DTE Energy, its contractors, the utility lobby, and an industry consultant",
+        "A2rec’s mailing address was listed at One Energy Plaza, DTE Energy’s headquarters",
+        "Federal data cited in the article says public power bills are about 14% lower on average than private utility bills",
+        "Ann Arbor has about 123,000 residents",
+        "The Ann Arbor public power campaign has been active since 2018",
+        "The city’s independent commissioned study put municipalization cost at about $300 million",
+        "DTE-backed claims alleged public power could create $1 billion in debt and up to 40% rate increases",
+        "Michigan campaign finance records showed a new $54,000 expenditure from A2rec to Salt Public Affairs",
+        "Two Tampa Bay Times investigations found links between Florida energy alliance front groups, Duke Energy, and the Maine public power fight",
+        "Clearwater and St Petersburg together have a combined population of about 400,000"
+      ]
+    },
+    {
+      "id": "8947c677aec9",
+      "title": "Hormuz Fertiliser Shock Threatens a Global Food-Price Spike",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
+      "published": "2026-05-07T09:39:54Z",
+      "category": "Econ",
+      "region": "United Kingdom / Global / Strait of Hormuz / Middle East / Africa",
+      "background": "A senior executive at Grosvenor Group, the Duke of Westminster’s property and farming company, said fertiliser prices have risen 50% to 70% since the Iran war began in late February, driven by the effective closure of the Strait of Hormuz. The company warned the shock will likely hit UK food prices next year, not this year, because most fertiliser for the current season has already been used. The Strait is a major shipping route for liquefied natural gas, a key input for nitrogen-based fertilisers such as urea, and about 1,600 vessels are currently stranded there.",
+      "prop_args": [
+        {
+          "thesis": "The Hormuz fertiliser shock proves how a narrow geopolitical chokepoint can rapidly transmit into a global food inflation crisis.",
+          "mechanisms": [
+            "First, the supply shock hits the most irreplaceable input in industrial agriculture. This is because (1) nitrogen fertiliser has few alternative sources, unlike oil, (2) LNG disruptions directly constrain ammonia and urea production, and (3) farmers cannot instantly substitute away from fertiliser without lowering yields.",
+            "Second, the price pass-through is delayed but broad-based, which makes it politically and economically dangerous. Three reasons: one, farmers are already holding back purchases and will face higher input costs next planting cycle, two, the UK example shows the effect may arrive next year rather than immediately, and three, retailers will pass higher wholesale costs to consumers across multiple food categories.",
+            "Third, the shock disproportionately harms import-dependent and low-income states, especially in Africa. This matters because food budgets are a larger share of household spending in poorer countries, so even modest price rises translate into hunger, unrest, and fiscal strain from subsidies or emergency imports."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The fertiliser shock is serious but manageable because agriculture can adapt through substitution, timing changes, and market reallocation.",
+          "mechanisms": [
+            "First, farmers can partially adjust production choices. One, Grosvenor itself notes farmers can shift toward spring cropping rather than winter cropping, two, some farms can reduce fertiliser intensity through better targeting or manure use, and three, not all crops are equally fertiliser-dependent, so the shock is uneven rather than total.",
+            "Second, global markets and policy buffers soften the blow. One, governments can release strategic reserves, subsidise imports, or cap retail prices, two, fertiliser production can reroute through non-Hormuz suppliers over time, and three, the article itself implies the UK is unlikely to see major effects this year because fertiliser has already been applied.",
+            "Third, the main effect may be a temporary price spike rather than a structural food crisis. One, if the Strait of Hormuz reopens, shipping flows can normalize relatively quickly, two, the article suggests the magnitude depends heavily on duration, and three, consumers may absorb some increase without a full-blown shortage if harvest volumes remain broadly intact."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a temporary input-cost shock and a durable food-security crisis. Prop wins if it proves the fertiliser bottleneck is hard to substitute and hits the next planting cycle; opp wins if it shows farmers and governments can absorb, reroute, or delay the impact before it becomes systemic.",
+      "stock_connections": [
+        "Supply Shock Inflation",
+        "Food Security",
+        "Chokepoint Vulnerability",
+        "Import Dependency",
+        "Pass-Through to Consumers",
+        "Agricultural Input Cost Inflation",
+        "Global South Vulnerability",
+        "Crisis Spillover"
+      ],
+      "motion_areas": [
+        "TH, as governments, would subsidise fertiliser imports during geopolitical supply shocks",
+        "THBT states should treat fertiliser as a strategic commodity like energy",
+        "THP a world where major agricultural inputs are globally diversified away from chokepoints",
+        "THBT the West should prioritise food-security buffers over market efficiency in essential commodities"
+      ],
+      "data_points": [
+        "Fertiliser prices have risen 50% to 70% since the start of the Iran war in late February",
+        "About 1,600 vessels are stranded in the Strait of Hormuz",
+        "UK farmers’ fertiliser costs are up by as much as 70%",
+        "Grosvenor posted underlying profits of £70.5m, down 18% year on year",
+        "Britons worried about rising grocery prices: 80% in Opinium polling",
+        "Grosvenor paid £53.7m in dividends to the duke’s family and trusts, up from £52.4m in 2024",
+        "Grosvenor paid total taxes of £248m, including £200m in the UK"
+      ]
+    },
+    {
+      "id": "2218a071ff22",
+      "title": "Iran War Oil Shock Hands Windfall Profits to Shell While Squeezing Consumers and Raising Calls for Taxation",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T09:38:04Z",
+      "category": "Econ",
+      "region": "Global / Iran / Strait of Hormuz / UK",
+      "background": "Shell reported first-quarter profits of $6.92bn, up from $5.58bn a year earlier and above analyst expectations, as oil prices surged after the US-Israel war with Iran disrupted global energy markets. The Strait of Hormuz, which normally carries about 20% of global oil and LNG supplies, has been effectively closed, pushing Brent crude from around $73 a barrel before the conflict to above $120 at one point. BP also said its quarterly profits more than doubled, while Equinor reported $9.77bn in quarterly profit, its highest in three years.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war creates a classic windfall-profit environment that justifies stronger taxation and redistribution from fossil fuel giants to consumers and the state.",
+          "mechanisms": [
+            "First, the shock is exogenous and non-productive, so the gains are not earned through innovation but through scarcity rents. This is because (1) the Strait of Hormuz normally carries about 20% of global oil and LNG flows, (2) the war has effectively closed that route, and (3) the resulting price spike lifts profits even when firms are not expanding output.",
+            "Second, windfall taxation is politically and economically defensible because the burden is being shifted onto households and firms with no control over the shock. Three reasons: one, Shell's profits rose to $6.92bn in a single quarter; two, UK household energy bills are expected to rise by about £200 when the cap resets in July; three, Maersk says energy costs are adding $500m per month, showing the shock is cascading through the economy.",
+            "Third, taxing these profits can fund energy transition and reduce dependence on volatile fossil markets. This matters because the article shows the UK levy already exists, Labour has extended it to 2030, and the public case for using temporary crisis rents to accelerate renewables is strongest when firms are making record earnings from geopolitical disruption."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Windfall taxes are the wrong response because they punish investment, reduce resilience, and do little to solve the underlying supply shock.",
+          "mechanisms": [
+            "First, taxing profits after a shock weakens incentives for firms to invest in capacity, trading, and contingency planning. One, Shell's profits are partly driven by trading and refining margins that require sophisticated risk-taking; two, the company is also dealing with a 4% fall in output and damaged LNG assets in Qatar, so extra taxation can discourage rebuilding and future supply; three, lower expected returns push capital toward safer jurisdictions.",
+            "Second, the tax base is structurally narrow and therefore ineffective. One, the UK Energy Profits Levy only applies to oil and gas extracted in the UK; two, the article says the UK accounts for less than 5% of Shell's global oil and gas production; three, most of the profit surge is overseas, so the policy captures little revenue while creating a headline of action.",
+            "Third, the real economic problem is supply disruption, not corporate profit levels, so policy should prioritize reopening routes and stabilizing markets. This is because (1) the key driver is the closure of the Strait of Hormuz, (2) shipping and energy firms are already passing costs through the supply chain, and (3) if the war ends or the strait reopens, the profit spike and consumer pain both unwind without distorting taxation policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether these profits are treated as illegitimate rents or as the necessary reward for operating in a volatile, capital-intensive sector. Prop wins if the round is about fairness and redistribution under crisis; opp wins if the round is about long-run investment, supply security, and whether a UK-only levy can meaningfully capture a global shock.",
+      "stock_connections": [
+        "Windfall Tax",
+        "Resource Curse",
+        "Rent-Seeking",
+        "Price Gouging",
+        "Energy Security",
+        "Dutch Disease",
+        "Moral Hazard",
+        "Dependency Theory",
+        "Inflation Pass-Through",
+        "Market Power"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would impose a stronger windfall tax on oil and gas majors during geopolitical energy shocks",
+        "THBT states should tax extraordinary fossil fuel profits to fund the energy transition",
+        "THP a world where energy companies are forced to internalize geopolitical risk rather than pass it on to consumers"
+      ],
+      "data_points": [
+        "Shell Q1 profit: $6.92bn, up from $5.58bn a year earlier",
+        "Brent crude rose from around $73/barrel before the war to above $120/barrel at one point",
+        "The Strait of Hormuz normally carries about 20% of global oil and LNG supplies",
+        "UK household dual-fuel bill cap: £1,641 until 30 June; estimated rise of about £200 in July",
+        "UK Energy Profits Levy applies only to UK oil and gas extraction and was extended to March 2030",
+        "UK accounts for less than 5% of Shell's global oil and gas production",
+        "Maersk says the war is adding about $500m in extra costs per month",
+        "Shell oil and gas output fell 4% versus the final three months of last year",
+        "Shell's ARC Resources acquisition value: $16.4bn",
+        "Equinor Q1 profit: $9.77bn, highest quarterly profit in three years"
       ]
     },
     {
@@ -665,6 +1337,210 @@
         "Suvendu Adhikari defeated Mamata Banerjee in Bhabanipur",
         "Violence has been recurring after elections in West Bengal for years",
         "Chief Election Commissioner Gyanesh Kumar directed police and district administration to monitor law and order and act immediately against violence or vandalism"
+      ]
+    },
+    {
+      "id": "c32d2d891700",
+      "title": "AirAsia’s Record A220 Order Turns Belfast Into a Test Case for Airbus’s Industrial Strategy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7597dnele2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T06:05:25Z",
+      "category": "Business",
+      "region": "Northern Ireland / UK / Malaysia",
+      "background": "AirAsia has ordered 150 Airbus A220 aircraft in what BBC says is the single largest order ever for the model. The aircraft’s wings and mid-fuselage are made at Airbus’s Belfast plant, which employs about 1,500 people and supports more jobs in the local supply chain. Airbus bought the Belfast factory in 2025 after the breakup of Spirit AeroSystems, while Boeing also acquired some of Spirit’s Belfast assets and now employs most of the site’s 3,500 staff. Airbus chief executive Guillaume Faury said earlier this year the company was committing significant cash to Belfast to support A220 production ramp-up and improve competitiveness.",
+      "prop_args": [
+        {
+          "thesis": "This order strengthens Belfast’s manufacturing base and makes the city more likely to remain a long-term aerospace hub rather than a site of gradual industrial decline.",
+          "mechanisms": [
+            "First, the order improves production certainty, which allows Airbus to justify capital spending and workforce retention in Belfast. This is because (1) a 150-plane order gives the plant a visible backlog, (2) a larger backlog reduces the risk of underutilized machinery and layoffs, and (3) predictable demand makes it easier to train and retain skilled workers who are otherwise mobile.",
+            "Second, the deal increases Belfast’s bargaining power inside Airbus’s global supply chain. Three reasons: one, the plant is now tied to a flagship program with over 1,000 total A220 orders, two, Airbus has already said it is committing a lot of cash to the site, and three, a successful ramp-up makes it harder for Airbus to shift future work elsewhere without risking delays and quality problems.",
+            "Third, the order creates spillovers beyond the factory itself, which matters because aerospace clusters depend on local suppliers, engineering services, and apprenticeship pipelines. If Belfast keeps high-value wing and fuselage work, that supports secondary employment, preserves technical know-how, and anchors future investment such as a potential stretched A220 variant."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The order is good news in the short term, but it does not solve Belfast’s structural dependence on volatile foreign aerospace demand or guarantee durable local prosperity.",
+          "mechanisms": [
+            "First, the headline value is not the actual revenue, so the economic boost may be overstated. One, the $19bn figure is a list price rather than the amount AirAsia will pay, two, airline buyers typically secure large discounts on bulk orders, and three, the plant still faces the normal risks of cancellations, delays, and production bottlenecks.",
+            "Second, the deal may deepen dependence on a single multinational and a single aircraft program. One, Belfast’s employment is tied to Airbus decisions made outside Northern Ireland, two, Airbus has explicitly said the plant must become more competitive, which signals pressure to cut costs rather than protect jobs, and three, if the A220 ramp-up disappoints or the stretch model is delayed, the local economy remains exposed.",
+            "Third, the wider Belfast aerospace site remains fragmented and vulnerable. One, Boeing now employs the majority of the 3,500 staff at the former Spirit site, two, Airbus only bought the factory in 2025 as part of a breakup deal, and three, this means the region’s industrial future depends on corporate restructuring choices rather than stable domestic control."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a real industrial anchor and a symbolic order book headline. Pro side wins if the question is whether this materially improves Belfast’s medium-term manufacturing prospects; opposition wins if the motion is about whether one large order can overcome structural dependence on volatile global aerospace cycles.",
+      "stock_connections": [
+        "Foreign Direct Investment",
+        "Race to the Bottom",
+        "Dependency Theory",
+        "Industrial Policy",
+        "Cluster Effects",
+        "Global Value Chains",
+        "Regional Inequality",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as a regional government, would subsidize aerospace manufacturing to retain high-skill jobs",
+        "THBT governments should prioritize large anchor-firm investments over broad-based SME support in declining industrial regions",
+        "THP a world where major aircraft manufacturers are required to localize more of their supply chains"
+      ],
+      "data_points": [
+        "AirAsia ordered 150 Airbus A220s",
+        "BBC says the order is the single largest ever for the A220",
+        "The A220’s total order book has now passed 1,000 aircraft",
+        "Airbus says the list price of the order is $19bn (£14bn), though the actual price is unclear",
+        "Airbus’s Belfast plant employs about 1,500 people",
+        "The broader Belfast aerospace site has about 3,500 staff, with Boeing employing the majority after buying some Spirit Aerosystems assets in 2025",
+        "The current A220 has a maximum passenger capacity of 160 seats",
+        "A stretched A220 could reportedly take capacity closer to 200 seats",
+        "AirAsia has suggested it could order up to 150 stretched A220s if they become available"
+      ]
+    },
+    {
+      "id": "2c4a05856aba",
+      "title": "Cruise-Ship Hantavirus Outbreak Turns Argentina Into the Suspected Source of a Cross-Border Biosecurity Crisis",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
+      "published": "2026-05-07T01:53:51Z",
+      "category": "IR",
+      "region": "Argentina / Atlantic cruise route / South Africa / Switzerland / Canary Islands / Global",
+      "background": "Officials in Argentina are trying to determine whether the country was the source of a hantavirus outbreak aboard the Dutch-flagged MV Hondius, which departed Ushuaia on 1 April for Antarctica. The ship has had at least three deaths: a 70-year-old Dutch man died on 11 April, his 69-year-old wife died in Johannesburg on 26 April, and a German woman died on 2 May; one more passenger is in intensive care in South Africa. Argentina’s health ministry said it has recorded 101 hantavirus infections since June 2025, roughly double the previous year, and is sending genetic material and testing equipment to Spain, Senegal, South Africa, the Netherlands and the UK to help trace the virus.",
+      "prop_args": [
+        {
+          "thesis": "This outbreak shows why transnational disease tracing and rapid information-sharing are essential, because a single suspected source can become a multi-country public health emergency within days.",
+          "mechanisms": [
+            "First, coordinated tracing reduces the chance of silent spread across borders. This is because (1) hantavirus can incubate for one to eight weeks, so infected passengers may travel before symptoms appear, (2) passengers have already disembarked in multiple jurisdictions including the US, Switzerland, South Africa and Saint Helena, and (3) without shared contact lists and testing protocols, each country would be forced to rediscover the same exposure network from scratch.",
+            "Second, early cooperation improves containment by targeting close contacts before secondary transmission occurs. Three reasons: one, the Andes strain has rare but documented human-to-human spread among close contacts, two, the ship had close to 150 people onboard in a confined environment, and three, the WHO says monitoring and follow-up for passengers and crew has already begun, showing that coordinated surveillance is the only realistic way to prevent further cases.",
+            "Third, treating this as a shared biosecurity problem preserves trust in travel and trade networks. This matters because if states appear to hide or delay outbreak information, ports and airlines will impose unilateral restrictions, passengers will lose confidence in cruise and tourism routes, and the economic fallout will be far larger than the original health event."
+          ]
+        },
+        {
+          "thesis": "Argentina has a strong incentive to cooperate aggressively because reputational damage from being seen as the source of the outbreak would be worse than the short-term embarrassment of admission.",
+          "mechanisms": [
+            "First, transparency limits blame-shifting and prevents diplomatic fallout. This is because (1) the ship departed from Ushuaia, making Argentina the obvious suspect, (2) the government is already trying to reconstruct passenger itineraries before boarding, and (3) if Argentina is perceived as withholding information, affected states like the Netherlands, Germany, South Africa and the UK may treat it as negligent rather than unlucky.",
+            "Second, cooperation protects Argentina’s tourism and Antarctic gateway economy. Three reasons: one, Ushuaia is the departure point for Antarctic cruises and depends on international confidence, two, a perception of rodent-borne disease risk can deter future visitors and operators, and three, visible public-health competence helps Argentina avoid being branded an unsafe origin point for future expeditions.",
+            "Third, sharing genetic material and testing capacity is the fastest way to establish scientific credibility. This matters because the source of infection is still unclear — pre-boarding in Argentina, at Saint Helena, or onboard — and the state that helps solve the mystery gains legitimacy, while the state that obstructs it looks like it has something to hide."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This case also shows the limits of blaming origin states, because outbreaks on mobile international platforms are often caused by weak ship-level biosecurity rather than any single country.",
+          "mechanisms": [
+            "First, the ship itself may be the real vector. One, the incubation period is one to eight weeks, so infection could have occurred before departure, during the Saint Helena stop, or onboard, two, the vessel carried close to 150 people in a closed environment, and three, the fact that multiple passengers from different countries became ill suggests a shared exposure point rather than a uniquely Argentine one.",
+            "Second, overemphasizing Argentina’s role can create unfair stigma and perverse incentives. One, countries may underreport future outbreaks to avoid blame, two, tourism-dependent regions like Ushuaia can be punished even when the source is uncertain, and three, public fear can outpace evidence, leading to travel restrictions that do not meaningfully reduce risk."
+          ]
+        },
+        {
+          "thesis": "The outbreak is a reminder that climate and ecology, not just state policy, are driving disease spread, so the best response is long-term adaptation rather than assigning immediate blame.",
+          "mechanisms": [
+            "First, environmental change expands rodent habitats and disease range. This is because (1) Argentine experts say warmer temperatures and ecosystem shifts let hantavirus-carrying rodents thrive in more places, (2) climate change is making Argentina 'more tropical' and associated with broader vector-borne disease pressure, and (3) that means the underlying driver is structural, not a one-off failure by one government.",
+            "Second, the relevant policy fix is surveillance and preparedness, not moral condemnation. Three reasons: one, Argentina already has a higher incidence of hantavirus in Latin America, two, the immediate need is contact tracing and monitoring of passengers already abroad, and three, future prevention depends on rodent control, public health infrastructure and climate adaptation across the region."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the outbreak is treated as a cross-border coordination problem or as evidence of Argentine negligence. Prop wins if the round is about managing mobile biosecurity threats, because the infection network spans multiple countries and the only workable solution is shared tracing and surveillance. Opp wins if the round is about unfair stigma and structural disease drivers, since the source is still uncertain and climate/ecology may matter more than any single state’s conduct.",
+      "stock_connections": [
+        "Transnational Public Goods",
+        "Collective Action Problem",
+        "Biosecurity",
+        "Disease Surveillance",
+        "Stigma and Blame Shifting",
+        "Climate Change and Health",
+        "Tourism Shock",
+        "Regulatory Spillovers",
+        "Risk Externalities"
+      ],
+      "motion_areas": [
+        "TH, as the WHO, would prioritize rapid cross-border disclosure over protecting national reputations in outbreak response",
+        "THBT countries should be legally required to share passenger contact data during suspected transnational disease outbreaks",
+        "THP a world where cruise operators are held jointly liable with departure states for onboard infectious disease outbreaks",
+        "THBT developing nations should publicly disclose emerging zoonotic outbreaks even when the source is uncertain"
+      ],
+      "data_points": [
+        "101 hantavirus infections in Argentina since June 2025, roughly double the previous year",
+        "Hantavirus pulmonary syndrome killed nearly one-third of cases in Argentina last year, according to the health ministry",
+        "At least 3 passengers have died from the outbreak aboard MV Hondius",
+        "One passenger is in intensive care in South Africa",
+        "Three passengers were evacuated from the ship on Wednesday",
+        "Another man who left the ship earlier tested positive in Switzerland",
+        "About 23 passengers reportedly disembarked on Saint Helena on 23 April",
+        "The ship had close to 150 people onboard",
+        "Hantavirus incubation period is between 1 and 8 weeks",
+        "The MV Hondius departed Ushuaia on 1 April",
+        "Argentina is sending genetic material from the Andes virus and testing equipment to Spain, Senegal, South Africa, the Netherlands and the UK"
+      ]
+    },
+    {
+      "id": "a3a473cf559f",
+      "title": "Trump’s Counter-Terror Strategy Turns Migration Into a Transatlantic Security Flashpoint",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/07/new-trump-counterterrorism-strategy-targets-europe-terrorism-migration",
+      "published": "2026-05-07T00:55:36Z",
+      "category": "IR",
+      "region": "United States / Europe",
+      "background": "On 7 May 2026, the Trump administration unveiled a new counter-terrorism strategy that describes Europe as an “incubator” for terrorism driven by mass migration. The document says Europe is both a “preeminent and long-term counterterrorism partner” and a region threatened by “open borders” and “alien cultures,” while also expanding US counter-terror priorities to include “violent left-wing extremists,” “radically pro-transgender” groups, and drug cartels in the Americas. The strategy comes after Trump’s earlier national security strategy warned of Europe’s “civilizational erasure” due to immigration, and amid a broader US campaign of strikes on alleged cartel boats that has killed at least 191 people since early September.",
+      "prop_args": [
+        {
+          "thesis": "The strategy is a coercive security signal that forces European states to tighten border and counter-terror policy or risk losing US intelligence, diplomatic trust, and operational cooperation.",
+          "mechanisms": [
+            "First, it raises the cost of policy divergence. This is because (1) the US is framing migration not as a humanitarian issue but as a terror-production problem, (2) allies now have to defend their domestic immigration regimes under a security lens, and (3) that creates pressure for visible enforcement measures even if governments privately disagree.",
+            "Second, it can shift allied behavior through conditional partnership. Three reasons: one, Gorka explicitly says Washington will measure allies by how much they “bring to the table”; two, Europe depends on US intelligence-sharing and coordination for counter-terror operations; three, the threat of being treated as a weak link incentivizes governments to adopt tougher screening, surveillance, and deportation policies.",
+            "Third, it reframes transatlantic security around internal instability rather than external deterrence. This matters because (1) it pulls European attention and resources toward domestic radicalization and border control, (2) it legitimizes a broader US demand for burden-sharing, and (3) it gives Washington leverage to demand concessions on NATO, sanctions, and regional security cooperation."
+          ]
+        },
+        {
+          "thesis": "The strategy is politically useful for the US because it expands the counter-terror agenda to fit Trump’s domestic coalition while justifying a more unilateral and interventionist foreign policy.",
+          "mechanisms": [
+            "First, it broadens the enemy list to unify multiple right-wing constituencies. One, it targets migration and Europe for nationalist voters; two, it targets left-wing and pro-trans groups for culture-war voters; three, it targets cartels for law-and-order voters, allowing the administration to package one doctrine for several audiences.",
+            "Second, it normalizes executive discretion in security policy. Three reasons: one, by labeling cartels and ideological opponents as terror threats, the administration lowers the threshold for military and surveillance action; two, that creates legal and political cover for strikes and coercive measures; three, it reduces scrutiny of whether the US is actually addressing root causes or simply escalating force.",
+            "Third, it strengthens bargaining power over allies and neighbors. This matters because (1) the US can demand more cooperation against cartels and migration flows, (2) it can punish noncompliant partners rhetorically or operationally, and (3) it turns counter-terrorism into a tool for extracting concessions across the hemisphere and Europe."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strategy is strategically self-defeating because it politicizes counter-terrorism, alienates allies, and weakens the credibility of US security leadership.",
+          "mechanisms": [
+            "First, it damages trust with European partners. One, allies are being publicly accused of incubating terrorism despite being described as long-term partners; two, that makes intelligence-sharing and joint planning politically harder; three, states are less likely to coordinate closely with a partner that treats them as suspect or ideologically hostile.",
+            "Second, it dilutes the counter-terror concept. One, the strategy lumps together migration, left-wing activism, transgender politics, and cartels under one umbrella; two, that makes threat prioritization less coherent and more partisan; three, real counter-terror resources get diverted toward symbolic targets rather than actual operational threats.",
+            "Third, it encourages backlash and policy resistance. Three reasons: one, European governments may reject US pressure to avoid appearing subordinate; two, domestic publics may view the US as meddling in internal politics; three, that can produce the opposite of compliance by strengthening centrist or liberal resistance to tougher migration policy."
+          ]
+        },
+        {
+          "thesis": "The strategy misdiagnoses terrorism by blaming migration and ideology instead of the actual drivers of radicalization, so it will not reduce attacks in practice.",
+          "mechanisms": [
+            "First, it confuses correlation with causation. One, migration flows do not automatically produce terrorism; two, most migrants are not radicalized and are often themselves fleeing violence; three, the real drivers are usually social exclusion, online radical networks, and local grievance ecosystems.",
+            "Second, it risks making radicalization worse. One, stigmatizing immigrant communities can increase alienation and distrust of authorities; two, that makes intelligence-gathering and community policing harder; three, extremists can exploit the narrative that Muslims or migrants are collectively under attack.",
+            "Third, it diverts attention from the highest-probability threats. One, the US strategy itself admits concern with cartels and domestic extremists; two, those are often more immediate operational risks than Europe’s migration politics; three, over-focusing on Europe allows the administration to ignore more direct security failures at home and in the hemisphere."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether securitizing migration produces real coordination or just partisan theater. Prop wins if the round is about leverage and burden-sharing; opp wins if the round is about credibility, alliance management, and whether the policy actually reduces terror risk.",
+      "stock_connections": [
+        "Securitization",
+        "Alliance Burden-Sharing",
+        "Blowback",
+        "Moral Panic",
+        "Scapegoating Minorities",
+        "Race to the Bottom",
+        "Counterterrorism Overreach",
+        "Executive Aggrandizement",
+        "Civilizationalism",
+        "Democratic Backsliding"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would condition counter-terror cooperation on European migration enforcement",
+        "THBT the West should treat mass migration as a national security threat",
+        "THP a world where counter-terrorism strategies explicitly target ideological extremism on both the left and right"
+      ],
+      "data_points": [
+        "The US strategy says Europe is both a “preeminent and long-term counterterrorism partner” and an “incubator of terror threats”",
+        "Trump’s earlier national security strategy warned Europe faced “civilizational erasure” due to immigration",
+        "US strikes on alleged cartel boats in Latin American waters have killed at least 191 people since early September",
+        "Gorka said allies will be judged by how much they “bring to the table”",
+        "The strategy targets “violent Left-Wing Extremists, including Anarchists and Anti-Fascists” and “radically pro-transgender” groups",
+        "The document says US counter-terror efforts will prioritize the “rapid identification and neutralization” of violent secular political groups"
       ]
     }
   ]

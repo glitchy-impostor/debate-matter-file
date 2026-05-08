@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-30",
+  "last_updated": "2026-05-08T22:01:01Z",
+  "cards": [
+    {
+      "id": "13d08baba985",
+      "title": "AI Polling Could Make Public Opinion Faster and Cheaper — or Further Erode Trust in Democratic Measurement",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-30T23:11:37Z",
+      "category": "Business",
+      "region": "France / United States",
+      "background": "French startup Naratis, founded in 2025 by Pierre Fontaine, says it is the first company to use AI for political opinion polling, after US firms such as Outset, Listen Labs and Hey Marvin used it in commercial research. The company claims its AI-led qualitative polling is '10 times faster, 10 times cheaper and 90% as accurate as human polling', with studies that once took weeks and tens of thousands of euros now completed in a day or two. The article notes that survey response rates have fallen from over 30% in the 1990s to below 5% today, pushing the industry toward automation. Established firms like Ipsos and OpinionWay are adopting AI for analysis and interviewing, but remain cautious about using AI-generated respondents in political polling.",
+      "prop_args": [
+        {
+          "thesis": "AI polling improves the quality of opinion research by making it faster, cheaper, and more scalable without fully replacing human validation.",
+          "mechanisms": [
+            "First, it fixes the core supply problem in polling. This is because (1) response rates have collapsed from over 30% in the 1990s to below 5% today, (2) AI can run many interviews in parallel instead of one interviewer at a time, and (3) lower cost means researchers can sample more often and more widely rather than relying on small, stale panels.",
+            "Second, it can produce richer and more honest answers than traditional polling. Three reasons: one, conversational AI can probe beyond checkbox answers and ask follow-ups about how people build opinions; two, respondents may be more candid with a machine than with a human on sensitive topics; three, AI can analyse video, social media, and other behavioural signals instead of only self-reported preferences.",
+            "Third, the best version of AI polling is hybrid, not fully synthetic. This matters because human oversight can validate outputs, catch hallucinations, and keep AI as an efficiency tool rather than a replacement for respondents, meaning the industry gets speed and depth without abandoning reliability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AI polling will undermine the legitimacy and accuracy of public opinion measurement because it substitutes simulated inference for real human preferences.",
+          "mechanisms": [
+            "First, AI systems can distort the data they are supposed to measure. One, they hallucinate and may invent plausible but false answers; two, they tend to generate 'common sense' responses rather than actual minority or idiosyncratic views; three, synthetic respondents risk measuring the model's assumptions instead of the public's opinions.",
+            "Second, AI polling creates a trust and regulation problem that can make the whole industry less usable. One, political polling is already heavily scrutinised, so AI-generated data will face even more suspicion; two, firms like OpinionWay already say they would never publish AI-generated polls; three, countries like France may eventually ban publication of polls based on synthetic data, limiting adoption and credibility.",
+            "Third, automation may worsen rather than solve representativeness problems. One, AI can overfit to the patterns in existing data and miss hard-to-reach groups; two, digital twins and synthetic people still require real respondents for validation, so the method cannot escape sampling bias; three, if cheaper polling floods the market, it may amplify low-quality, reactive, and politically manipulable narratives."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between speed/cost and epistemic legitimacy. Pro wins if the question is whether polling firms can gather more usable information more efficiently; Opp wins if the question is whether that information can be trusted as a democratic measure of real public opinion, because the latter depends on authenticity and public confidence, not just scale.",
+      "stock_connections": [
+        "Automation and labour substitution",
+        "Information asymmetry",
+        "Moral hazard",
+        "Algorithmic bias",
+        "Synthetic media / deepfake trust erosion",
+        "Democratic legitimacy",
+        "Sampling bias",
+        "Race to the bottom in quality"
+      ],
+      "motion_areas": [
+        "TH, as a polling firm, would adopt AI-generated interviews for political research",
+        "THBT political polling firms should be allowed to use synthetic respondents",
+        "THP a world where public opinion research is primarily conducted by AI",
+        "THBT governments should regulate AI-generated polling data more strictly than traditional polls"
+      ],
+      "data_points": [
+        "Naratis was founded in 2025 by Pierre Fontaine, age 28",
+        "Naratis claims AI polling is '10 times faster, 10 times cheaper and 90% as accurate as human polling'",
+        "Traditional qualitative studies can take weeks and tens of thousands of euros",
+        "AI-led studies can often be completed in 1-2 days, with responses gathered in under 24 hours",
+        "Survey response rates have fallen from over 30% in the 1990s to below 5% today",
+        "Ipsos uses AI extensively in market research but does not use AI-generated respondents in political surveys",
+        "OpinionWay says it would never publish an opinion poll based on AI-generated data",
+        "France has historically under-estimated support for the far-right in polling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "date": "2026-05-03",
+  "last_updated": "2026-05-08T22:01:01Z",
+  "cards": [
+    {
+      "id": "4e0f29eed18a",
+      "title": "Middle East Fuel Disruptions Expose Europe’s Aviation Dependence and Force Holiday Cancellations",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-03T23:03:41Z",
+      "category": "Econ",
+      "region": "UK / Europe / Middle East (Strait of Hormuz)",
+      "background": "Jet fuel prices in Europe have surged since the start of conflict in the Middle East, with the BBC reporting prices rising from $831 per tonne in late February to a peak of $1,838 in early April, before remaining above $1,500. The Strait of Hormuz has been blocked for eight weeks, disrupting Gulf exports that normally account for about 20% of globally traded jet fuel and more than half of Europe’s imports. The UK is especially exposed: 65% of its jet fuel is imported, and two British refineries have closed in the last two-and-a-bit years, leaving only four operating in the country.",
+      "prop_args": [
+        {
+          "thesis": "States should prioritize aviation fuel security and domestic refining capacity because external energy shocks can rapidly turn a geopolitical crisis into mass consumer disruption.",
+          "mechanisms": [
+            "First, supply concentration makes aviation uniquely vulnerable to chokepoints. This is because (1) Europe relies on imports for more than half of its jet fuel, (2) the Gulf normally supplies about 20% of globally traded jet fuel each day, and (3) blocking the Strait of Hormuz removes a major export route instantly rather than gradually.",
+            "Second, the market cannot self-correct quickly enough in the short run. Three reasons: one, refinery capacity is fixed in the medium term and Europe has lost five refineries in a little over two years; two, US imports are constrained by different fuel specifications, since most of the world uses Jet A1 while the US market uses Jet A; three, alternative suppliers like East Asia are themselves constrained because they rely on Middle Eastern crude.",
+            "Third, shortages create real welfare losses, not just higher prices. This matters because (1) the IEA warned Europe had maybe six weeks of jet fuel left, (2) reserves could hit critical levels by June with physical shortages at select airports, and (3) that translates into cancellations, demand destruction, and lost tourism revenue during the peak summer period."
+          ]
+        },
+        {
+          "thesis": "Allowing airlines to pass through fuel costs and adjust schedules is the least-bad way to preserve connectivity while the market reallocates scarce fuel to the highest-value routes.",
+          "mechanisms": [
+            "First, price increases ration scarce fuel more efficiently than arbitrary administrative controls. This is because (1) airlines with hedges, stronger balance sheets, or higher demand can keep flying, (2) marginal routes that are already unprofitable get cut first, and (3) consumers who value travel most still get service.",
+            "Second, operational flexibility reduces waste and preserves system stability. Three reasons: one, slot-relief rules let airlines cancel in advance rather than fly half-empty planes just to keep airport slots; two, easing tankering restrictions can reduce last-minute disruptions; three, prioritizing major hubs over smaller airports prevents a total network collapse.",
+            "Third, the crisis incentivizes adaptation and diversification. This matters because (1) airlines can hedge, reroute procurement, or source from non-Gulf suppliers, (2) governments can temporarily allow Jet A imports from the US, and (3) the shock may accelerate investment in SAF and domestic refining without requiring immediate heavy-handed intervention."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The crisis shows why governments should not double down on aviation dependence, because subsidizing or protecting the sector entrenches a fragile, carbon-intensive model.",
+          "mechanisms": [
+            "First, public intervention can create moral hazard. Numbered reasons: one, if airlines expect slot waivers, compensation exemptions, or regulatory flexibility, they have less incentive to build resilience through hedging and diversified sourcing; two, consumers and firms continue to treat cheap flying as normal despite repeated supply shocks; three, the industry avoids bearing the full cost of its geopolitical exposure.",
+            "Second, structural decarbonization is a better long-term response than propping up fossil aviation. Numbered reasons: one, SAF can shift fuel demand toward local waste streams and renewable inputs; two, reducing reliance on imported fossil jet fuel lowers exposure to Middle East chokepoints; three, investment in alternative transport and cleaner aviation is more future-proof than rebuilding refineries.",
+            "Third, the burden of shortages is not evenly distributed, so protecting the sector can be regressive. Numbered reasons: one, long-haul and business travel are more likely to absorb surcharges, while ordinary consumers face reduced access to affordable travel; two, smaller airports and peripheral regions are more likely to lose service; three, using public policy to preserve flying privileges higher-income travelers over broader social investment."
+          ]
+        },
+        {
+          "thesis": "The shortage panic is overstated because global markets, hedging, and substitute supply will prevent a true collapse in aviation fuel availability.",
+          "mechanisms": [
+            "First, the market has already started adapting. Numbered reasons: one, imports from the US have picked up; two, cargoes can also come from South Korea, Taiwan, Nigeria, and other suppliers; three, high prices create strong incentives for traders to redirect product to Europe.",
+            "Second, airlines and airports have buffers that reduce the chance of immediate failure. Numbered reasons: one, many carriers hedge a large share of fuel needs, such as EasyJet hedging 80% of first-half supply at $717/tonne; two, larger hubs are likely to be prioritized over smaller ones; three, the system can manage through schedule trimming rather than outright collapse.",
+            "Third, even if prices stay high, the main effect is demand adjustment rather than systemic crisis. Numbered reasons: one, higher fares reduce discretionary travel and ease pressure on supply; two, airlines can cut marginal routes and frequencies; three, the result is a painful but manageable re-pricing of aviation, not a breakdown of summer holidays."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term resilience and long-term structural dependence. Pro wins if the round is about immediate consumer harm and the inability of markets to replace lost Gulf supply quickly; Opp wins if the debate is framed around whether governments should entrench aviation or use the crisis to force a cleaner, less fragile transport system.",
+      "stock_connections": [
+        "Energy security",
+        "Supply chain vulnerability",
+        "Market failure",
+        "Moral hazard",
+        "Strategic reserves",
+        "Dependency theory",
+        "Infrastructure lock-in",
+        "Carbon transition",
+        "Dutch disease",
+        "Resilience vs efficiency tradeoff"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would prioritize aviation fuel security over airline competition rules",
+        "THBT European governments should subsidize domestic jet fuel refining capacity",
+        "THP a world where airlines are allowed to pass through fuel shocks to consumers rather than be capped by regulators",
+        "THBT the EU should accelerate SAF mandates as a response to geopolitical fuel shocks",
+        "TH, as a major airport regulator, would relax slot-use rules during fuel shortages"
+      ],
+      "data_points": [
+        "Jet fuel in Europe rose from $831/tonne in late February to $1,838/tonne in early April, then stayed above $1,500/tonne",
+        "The Strait of Hormuz has been blocked for eight weeks",
+        "The Gulf normally accounts for about 20% of jet fuel traded on international markets each day",
+        "Europe gets more than half of its jet fuel imports from the Gulf under normal conditions",
+        "The UK imports 65% of its jet fuel",
+        "The UK now has four operating refineries after two British refinery closures in the last two-and-a-bit years",
+        "The IEA warned Europe had 'maybe six weeks of jet fuel left'",
+        "IEA analysis said reserves could reach critical levels by June",
+        "Europe’s jet fuel stocks at the Amsterdam-Rotterdam-Antwerp hub are at their lowest level in six years",
+        "Europe as a whole had about 37 days’ supply before the conflict and is now likely down to 30 days, with 23 days seen as the critical point by the IEA",
+        "Jet fuel typically makes up 25-30% of airline operating costs",
+        "EasyJet hedged 80% of first-half fuel at $717/tonne and still faced an extra £25m in March on the remainder",
+        "Lufthansa said it would remove 20,000 flights between now and the end of October",
+        "A London-Melbourne flight in June was reported as 76% more expensive than last year",
+        "Virgin Atlantic introduced surcharges from £50 on return economy tickets to £360 on business class"
+      ]
+    }
+  ]
+}

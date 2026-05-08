@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-27",
+  "last_updated": "2026-05-08T22:01:01Z",
+  "cards": [
+    {
+      "id": "cc726ddfccec",
+      "title": "Spotify’s Refusal to Filter AI Music Turns Streaming into a Trust-and-Choice Battle",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-27T23:03:10Z",
+      "category": "Business",
+      "region": "Germany/Europe / United States / Global streaming market",
+      "background": "In mid-2025, Leipzig-based developer Cedrik Sixtus built a Spotify AI Blocker after noticing AI-suspected tracks in his playlists; his browser-based tool has been downloaded by hundreds and filters a community-tracked list of more than 4,700 suspected AI artists. Spotify has introduced only a voluntary AI credit test in April 2026, saying a comprehensive system requires industry-wide alignment, while Deezer already tags AI-generated albums and excludes them from recommendations. A Deezer–Ipsos poll found 97% of listeners failed to distinguish AI from human tracks in a controlled test, and around 80% of respondents said AI music should be clearly labelled.",
+      "prop_args": [
+        {
+          "thesis": "Spotify should label and let users filter AI-generated music because transparency is now necessary to preserve listener trust and platform legitimacy.",
+          "mechanisms": [
+            "First, transparency restores informed consumer choice. This is because (1) listeners cannot reliably detect AI music themselves — in the Deezer–Ipsos test, 97% failed to distinguish AI from human tracks, (2) without labels, users are effectively being sold an unmarked product, and (3) once users feel tricked, they lose trust not just in AI tracks but in the platform’s curation overall.",
+            "Second, filtering protects the human-artist ecosystem from revenue dilution. Three reasons: one, tens of thousands of AI tracks are uploaded daily, which increases competition for finite recommendation slots and playlist attention; two, even low-listen AI spam can distort algorithmic discovery and crowd out emerging human artists; three, if Spotify optimises for cheap, abundant AI content, it weakens the incentive structure that sustains human creativity.",
+            "Third, Spotify can absorb the compliance cost because the market is already moving toward standards. This matters because (1) Deezer already has detection and tagging, proving the technical model is feasible, (2) Apple Music has begun transparency tags and self-disclosure requirements, and (3) the EU AI Act will require some AI-generated content to be labelled from August 2026, so early adoption reduces future regulatory shock and reputational damage."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Spotify should not hard-filter AI music because AI is too mixed, too hard to detect reliably, and too important to innovation to be treated as a binary category.",
+          "mechanisms": [
+            "First, the category problem makes mandatory filtering unworkable. One, AI in music exists on a spectrum from full prompt-to-song generation to partial co-creation and editing; two, many artists use AI tools only for specific components, so a label would be arbitrary and overinclusive; three, forcing a binary label risks punishing legitimate human creativity and discouraging experimentation.",
+            "Second, detection systems will create false positives and an arms race. One, AI detectors are trained on existing models, so they degrade as generation tools improve; two, false labelling of human artists as AI could damage reputations and livelihoods; three, maintaining accurate detection across millions of tracks would be costly and likely still incomplete, making the policy noisy and legally risky."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between consumer trust and technical feasibility. Prop wins if the round is about platform legitimacy and market fairness, because users already want labels and competitors are proving the model; Opp wins if the judge prioritises administrability, because AI music is genuinely hybrid and detection errors can create serious collateral damage.",
+      "stock_connections": [
+        "Information asymmetry",
+        "Consumer protection",
+        "Platform accountability",
+        "Race to the bottom",
+        "Moral hazard",
+        "Regulatory arbitrage",
+        "Labour displacement",
+        "Algorithmic bias",
+        "Technological arms race"
+      ],
+      "motion_areas": [
+        "TH, as Spotify, would require AI music labels and user filters",
+        "THBT streaming platforms should actively detect and exclude AI-generated music from recommendations",
+        "THP a world where music platforms must disclose AI use in all uploaded tracks"
+      ],
+      "data_points": [
+        "Cedrik Sixtus’s Spotify AI Blocker filters a community-tracked list of more than 4,700 suspected AI artists",
+        "The tool has been downloaded by hundreds from code-sharing websites",
+        "In a Deezer–Ipsos poll, 97% of listeners failed to correctly distinguish AI-generated from human-made tracks",
+        "Around 80% of respondents in the Deezer–Ipsos poll said AI-generated music should be clearly labelled",
+        "Tens of thousands of AI tracks are reportedly uploaded to streaming platforms daily",
+        "Deezer began tagging AI-generated albums last year and excluding them from algorithmic recommendations and human-made playlists",
+        "Spotify says AI-related content is handled only for spam and impersonation, not by filtering music based on how it was made",
+        "The EU AI Act will require certain AI-generated content to be labelled from August 2026"
+      ]
+    }
+  ]
+}
