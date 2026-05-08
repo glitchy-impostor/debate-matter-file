@@ -18,7 +18,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 try:
     from dotenv import load_dotenv
-    load_dotenv(Path(__file__).resolve().parent.parent / ".env")
+    # override=True so a fresh .env beats any stale OS-scope env var
+    load_dotenv(Path(__file__).resolve().parent.parent / ".env", override=True)
 except ImportError:
     pass  # optional; CI uses real env vars
 
@@ -45,11 +46,17 @@ def gather_dirty(state: dict, all_entries: list[dict]) -> list[dict]:
 
 
 def extract_texts(dirty: list[dict], rate_limit: bool = True) -> list[dict]:
-    """Run trafilatura over each dirty entry; drop articles with no usable text."""
+    """Resolve any Google News redirects, fetch text, drop articles below the
+    word-count threshold. The resolved URL is what ends up in the card so users
+    click through to the publisher rather than the GNews trampoline.
+    """
     out: list[dict] = []
     for i, entry in enumerate(dirty):
+        resolved_url = extractor.resolve_url(entry["link"])
+        if resolved_url != entry["link"]:
+            log.debug("gnews resolved: %s -> %s", entry["link"][:80], resolved_url[:80])
         text = extractor.extract(
-            entry["link"],
+            resolved_url,
             rss_content=entry.get("content", ""),
             rss_summary=entry.get("summary", ""),
         )
@@ -58,7 +65,7 @@ def extract_texts(dirty: list[dict], rate_limit: bool = True) -> list[dict]:
         out.append(
             {
                 "title": entry["title"],
-                "url": entry["link"],
+                "url": resolved_url,
                 "source": entry["feed_name"].split(" ", 1)[0],
                 "default_category": entry["default_category"],
                 "published": utils.published_to_iso(entry.get("published_parsed"))

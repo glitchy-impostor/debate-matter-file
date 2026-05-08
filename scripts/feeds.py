@@ -1,11 +1,20 @@
 """RSS feed definitions and validation.
 
-Feed list was validated 2026-05-07. Reuters and AP discontinued their direct
-RSS feeds; both are routed through Google News search RSS as a stable proxy.
+Two tiers of sources:
+
+* PRIMARY  — direct publisher RSS feeds with substantive RSS content. These
+  produce reliable cards because trafilatura has a real article URL to work
+  with, or because the RSS summary itself is long enough to clear MIN_WORDS.
+
+* SECONDARY (Google News-routed) — Reuters / AP / Times via Google News
+  search. The redirector encodes the publisher URL in a way that's hostile to
+  extraction; we skip these by default. Enable by setting
+  DEBATE_DIGEST_USE_GNEWS=1 once a working resolver is in place.
 """
 from __future__ import annotations
 
 import logging
+import os
 from dataclasses import dataclass
 
 import feedparser
@@ -22,14 +31,61 @@ class Feed:
     default_region: str | None = None
 
 
-FEEDS: list[Feed] = [
+PRIMARY_FEEDS: list[Feed] = [
+    # Open-content news
     Feed("BBC World", "http://feeds.bbci.co.uk/news/world/rss.xml", "IR"),
     Feed("BBC Business", "http://feeds.bbci.co.uk/news/business/rss.xml", "Business"),
     Feed("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml", "IR"),
     Feed("Guardian World", "https://www.theguardian.com/world/rss", "IR"),
     Feed("Guardian Business", "https://www.theguardian.com/business/rss", "Business"),
     Feed("NPR World", "https://feeds.npr.org/1004/rss.xml", "IR"),
+    # IR / policy
     Feed("Foreign Policy", "https://foreignpolicy.com/feed/", "IR"),
+    Feed("The Diplomat", "https://thediplomat.com/feed/", "IR"),
+    Feed(
+        "Project Syndicate",
+        "https://www.project-syndicate.org/rss",
+        "Econ",
+    ),
+    Feed(
+        "Atlantic Ideas",
+        "https://www.theatlantic.com/feed/channel/ideas/",
+        "IR",
+    ),
+    Feed(
+        "Atlantic Politics",
+        "https://www.theatlantic.com/feed/channel/politics/",
+        "IR",
+    ),
+    # Bloomberg — paywalled but RSS summaries tend to be substantive
+    Feed(
+        "Bloomberg Politics",
+        "https://feeds.bloomberg.com/politics/news.rss",
+        "IR",
+    ),
+    Feed(
+        "Bloomberg Economics",
+        "https://feeds.bloomberg.com/economics/news.rss",
+        "Econ",
+    ),
+    # Enriched paywalled — RSS summaries usually clear MIN_WORDS
+    Feed(
+        "Economist International",
+        "https://www.economist.com/international/rss.xml",
+        "IR",
+    ),
+    Feed(
+        "Economist Finance",
+        "https://www.economist.com/finance-and-economics/rss.xml",
+        "Econ",
+    ),
+    Feed("WSJ World", "https://feeds.a.dj.com/rss/RSSWorldNews.xml", "IR"),
+    Feed("WSJ Business", "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "Business"),
+]
+
+# Disabled by default — Google News redirectors are unreliable to resolve.
+# Enable with: $env:DEBATE_DIGEST_USE_GNEWS = "1"
+SECONDARY_GNEWS_FEEDS: list[Feed] = [
     Feed(
         "Reuters World",
         "https://news.google.com/rss/search?q=site:reuters.com+world&hl=en-US&gl=US&ceid=US:en",
@@ -50,7 +106,22 @@ FEEDS: list[Feed] = [
         "https://news.google.com/rss/search?q=site:apnews.com+business&hl=en-US&gl=US&ceid=US:en",
         "Business",
     ),
+    Feed(
+        "Times World",
+        "https://news.google.com/rss/search?q=site:thetimes.com+world&hl=en-GB&gl=GB&ceid=GB:en",
+        "IR",
+    ),
 ]
+
+
+def _active_feeds() -> list[Feed]:
+    feeds = list(PRIMARY_FEEDS)
+    if os.environ.get("DEBATE_DIGEST_USE_GNEWS") == "1":
+        feeds.extend(SECONDARY_GNEWS_FEEDS)
+    return feeds
+
+
+FEEDS: list[Feed] = _active_feeds()
 
 
 USER_AGENT = "DebateDigest/1.0 (+https://github.com/)"
