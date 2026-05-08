@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Frontend (Phase 2)
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local artifacts
+*.log
+*.tmp
+.pytest_cache/
+
+# Personal reference material — not part of the pipeline
+*.docx
+*.zip
