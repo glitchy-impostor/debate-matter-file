@@ -3,6 +3,8 @@ import ArgumentBlock from "./ArgumentBlock.jsx";
 import StockTag from "./StockTag.jsx";
 import { CATEGORIES } from "../lib/constants.js";
 import { relativeTime } from "../lib/cards.js";
+import { useMatter } from "../lib/matterContext.jsx";
+import { useToast } from "./Toast.jsx";
 
 function Section({ title, children, defaultOpen = false, accent = false }) {
   const [open, setOpen] = useState(defaultOpen);
@@ -37,9 +39,23 @@ function CategoryPill({ category }) {
 
 export default function Card({ card }) {
   const [expanded, setExpanded] = useState(false);
+  const matter = useMatter();
+  const toast = useToast();
 
   const stockPreview = (card.stock_connections || []).slice(0, 3);
   const stockExtra = Math.max(0, (card.stock_connections || []).length - stockPreview.length);
+
+  const isSaved = matter.savedIds.has(card.id);
+  const isBusy = matter.busy.has(card.id);
+
+  async function onMatterClick() {
+    try {
+      await matter.toggle(card);
+      toast.push(isSaved ? "Removed from matter file" : "Added to matter file", "success");
+    } catch (e) {
+      toast.push(e.message || "Matter file action failed", "error");
+    }
+  }
 
   return (
     <article className="rounded-sm bg-ink-900 ring-wire shadow-wire">
@@ -137,14 +153,21 @@ export default function Card({ card }) {
           {expanded ? "Collapse ▴" : "Expand ▾"}
         </button>
         <div className="flex items-center gap-2">
-          <button
-            type="button"
-            disabled
-            title="Matter file persistence — Phase 3"
-            className="rounded-sm border border-ink-700 px-2 py-1 font-mono text-[10.5px] uppercase tracking-wider text-ink-500"
-          >
-            + Matter file
-          </button>
+          {matter.enabled && (
+            <button
+              type="button"
+              onClick={onMatterClick}
+              disabled={isBusy}
+              title={isSaved ? "Remove from matter file" : "Add to matter file"}
+              className={`rounded-sm border px-2 py-1 font-mono text-[10.5px] uppercase tracking-wider transition ${
+                isSaved
+                  ? "border-wire-econ/50 bg-wire-econ/10 text-wire-econ"
+                  : "border-ink-700 text-ink-200 hover:bg-ink-800"
+              } ${isBusy ? "opacity-50" : ""}`}
+            >
+              {isSaved ? "✓ In matter file" : "+ Matter file"}
+            </button>
+          )}
           {card.url && (
             <a
               href={card.url}

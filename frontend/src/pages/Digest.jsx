@@ -4,6 +4,7 @@ import Card from "../components/Card.jsx";
 import FilterBar from "../components/FilterBar.jsx";
 import { CATEGORIES } from "../lib/constants.js";
 import { adjacentDate, formatDate, loadDay, loadIndex, relativeTime } from "../lib/cards.js";
+import { useHydrateSaved } from "../lib/matterContext.jsx";
 
 export default function Digest() {
   const { date } = useParams();
@@ -44,6 +45,7 @@ export default function Digest() {
   }, [date]);
 
   const cards = day?.cards || [];
+  useHydrateSaved(cards);
 
   const counts = useMemo(() => {
     const c = { IR: 0, Econ: 0, Business: 0 };

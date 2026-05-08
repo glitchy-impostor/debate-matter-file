@@ -1,6 +1,8 @@
 import { Link, NavLink, Route, Routes } from "react-router-dom";
 import Digest from "./pages/Digest.jsx";
 import Archive from "./pages/Archive.jsx";
+import MatterFile from "./pages/MatterFile.jsx";
+import { enabled as matterEnabled } from "./lib/api.js";
 
 function NavTab({ to, children, end }) {
   return (
@@ -32,6 +34,7 @@ export default function App() {
           <nav className="flex items-center gap-1">
             <NavTab to="/" end>Today</NavTab>
             <NavTab to="/archive">Archive</NavTab>
+            {matterEnabled() && <NavTab to="/matter-file">Matter File</NavTab>}
           </nav>
         </div>
       </header>
@@ -40,6 +43,7 @@ export default function App() {
           <Route path="/" element={<Digest />} />
           <Route path="/d/:date" element={<Digest />} />
           <Route path="/archive" element={<Archive />} />
+          <Route path="/matter-file" element={<MatterFile />} />
         </Routes>
       </main>
       <footer className="mx-auto max-w-6xl px-4 py-8 font-mono text-[11px] text-ink-500">
