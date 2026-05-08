@@ -34,7 +34,9 @@ jobs:
       - name: Run pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python scripts/pipeline.py
+        # --max-articles bounds each cron to fit comfortably in the 30-min job
+        # timeout. Anything left over gets picked up on the next 3-hour run.
+        run: python scripts/pipeline.py --max-articles 150
 
       - name: Commit and push
         run: |

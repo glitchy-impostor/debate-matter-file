@@ -52,6 +52,7 @@ def extract_texts(dirty: list[dict], rate_limit: bool = True) -> list[dict]:
     click through to the publisher rather than the GNews trampoline.
     """
     out: list[dict] = []
+    total = len(dirty)
     for i, entry in enumerate(dirty):
         resolved_url = extractor.resolve_url(entry["link"])
         if resolved_url != entry["link"]:
@@ -61,23 +62,24 @@ def extract_texts(dirty: list[dict], rate_limit: bool = True) -> list[dict]:
             rss_content=entry.get("content", ""),
             rss_summary=entry.get("summary", ""),
         )
-        if not text:
-            continue
-        out.append(
-            {
-                "title": entry["title"],
-                "url": resolved_url,
-                "source": entry["feed_name"].split(" ", 1)[0],
-                "default_category": entry["default_category"],
-                "published": utils.published_to_iso(entry.get("published_parsed"))
-                or entry.get("published"),
-                "published_parsed": entry.get("published_parsed"),
-                "text": text,
-                "_hash": entry["_hash"],
-            }
-        )
-        if rate_limit and i < len(dirty) - 1:
-            extractor.sleep_between()
+        if text:
+            out.append(
+                {
+                    "title": entry["title"],
+                    "url": resolved_url,
+                    "source": entry["feed_name"].split(" ", 1)[0],
+                    "default_category": entry["default_category"],
+                    "published": utils.published_to_iso(entry.get("published_parsed"))
+                    or entry.get("published"),
+                    "published_parsed": entry.get("published_parsed"),
+                    "text": text,
+                    "_hash": entry["_hash"],
+                }
+            )
+        if (i + 1) % 25 == 0 or i + 1 == total:
+            log.info("extract progress: %d/%d (kept %d)", i + 1, total, len(out))
+        if rate_limit and i < total - 1:
+            extractor.sleep_between(resolved_url)
     return out
 
 

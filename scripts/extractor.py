@@ -21,6 +21,24 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
+# Hosts that consistently return 401/403 to anonymous trafilatura fetches.
+# For these we skip the HTTP round-trip entirely and rely on the RSS
+# content/summary fields (which for these publishers are usually substantive
+# enough to clear MIN_WORDS).
+PAYWALLED_HOSTS = (
+    "wsj.com",
+    "bloomberg.com",
+    "economist.com",
+    "ft.com",
+    "thetimes.com",
+    "thetimes.co.uk",
+    "nytimes.com",
+)
+
+
+def _is_paywalled(url: str) -> bool:
+    return any(host in url for host in PAYWALLED_HOSTS)
+
 
 def _strip_html(text: str) -> str:
     """Cheap HTML strip for fallback to RSS content/summary fields."""
@@ -110,21 +128,26 @@ def extract(url: str, rss_content: str = "", rss_summary: str = "") -> str | Non
     Returns extracted text or None if nothing meets the MIN_WORDS threshold.
     Pipeline-level rate limiting is the caller's responsibility — call sleep_between()
     between successive extract() calls.
+
+    For known-paywalled hosts we skip trafilatura (it'll just 401/403) and go
+    straight to RSS fallbacks; this saves a 1-2s round-trip per article on
+    feeds like Bloomberg/Economist/WSJ that dominate the dirty list.
     """
     text = ""
-    try:
-        downloaded = trafilatura.fetch_url(url)
-        if downloaded:
-            extracted = trafilatura.extract(
-                downloaded,
-                include_comments=False,
-                include_tables=True,
-                favor_recall=True,
-            )
-            if extracted:
-                text = extracted.strip()
-    except Exception as exc:  # trafilatura raises a variety of network errors
-        log.warning("trafilatura failed for %s: %s", url, exc)
+    if not _is_paywalled(url):
+        try:
+            downloaded = trafilatura.fetch_url(url)
+            if downloaded:
+                extracted = trafilatura.extract(
+                    downloaded,
+                    include_comments=False,
+                    include_tables=True,
+                    favor_recall=True,
+                )
+                if extracted:
+                    text = extracted.strip()
+        except Exception as exc:  # trafilatura raises a variety of network errors
+            log.warning("trafilatura failed for %s: %s", url, exc)
 
     if word_count(text) >= MIN_WORDS:
         return text
@@ -143,6 +166,11 @@ def extract(url: str, rss_content: str = "", rss_summary: str = "") -> str | Non
     return None
 
 
-def sleep_between() -> None:
-    """1-2 second jittered delay between fetches to avoid hammering sources."""
+def sleep_between(url: str | None = None) -> None:
+    """Jittered delay between fetches to avoid hammering sources.
+
+    Skipped entirely for paywalled URLs since we don't actually hit them.
+    """
+    if url is not None and _is_paywalled(url):
+        return
     time.sleep(random.uniform(*FETCH_DELAY_RANGE))

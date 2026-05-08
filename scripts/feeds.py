@@ -13,14 +13,21 @@ Two tiers of sources:
 """
 from __future__ import annotations
 
+import calendar
 import logging
 import os
+import time
 from dataclasses import dataclass
 
 import feedparser
 import requests
 
 log = logging.getLogger(__name__)
+
+# Drop RSS entries older than this. Some feeds (Economist, Project Syndicate)
+# return 300 entries going back years; we don't want to re-process all of that
+# every cron run. Override with DEBATE_DIGEST_MAX_AGE_DAYS=N if you need to.
+MAX_AGE_DAYS = int(os.environ.get("DEBATE_DIGEST_MAX_AGE_DAYS", "14"))
 
 
 @dataclass(frozen=True)
@@ -144,12 +151,23 @@ def fetch_entries(feed: Feed, timeout: int = 20) -> list[dict]:
         log.warning("feed parse failed: %s -> %s", feed.name, parsed.bozo_exception)
         return []
 
+    cutoff = time.time() - MAX_AGE_DAYS * 86400 if MAX_AGE_DAYS > 0 else 0
     out: list[dict] = []
+    skipped_old = 0
     for entry in parsed.entries:
         link = entry.get("link")
         title = entry.get("title")
         if not link or not title:
             continue
+        published_parsed = entry.get("published_parsed") or entry.get("updated_parsed")
+        if cutoff and published_parsed:
+            try:
+                ts = calendar.timegm(published_parsed)
+            except (TypeError, ValueError):
+                ts = 0
+            if ts and ts < cutoff:
+                skipped_old += 1
+                continue
         out.append(
             {
                 "feed_name": feed.name,
@@ -159,9 +177,11 @@ def fetch_entries(feed: Feed, timeout: int = 20) -> list[dict]:
                 "summary": entry.get("summary", ""),
                 "content": _extract_content_field(entry),
                 "published": entry.get("published") or entry.get("updated"),
-                "published_parsed": entry.get("published_parsed") or entry.get("updated_parsed"),
+                "published_parsed": published_parsed,
             }
         )
+    if skipped_old:
+        log.info("dropped %d entries older than %dd from %s", skipped_old, MAX_AGE_DAYS, feed.name)
     return out
 
 
