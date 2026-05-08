@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "last_updated": "2026-05-08T22:01:01Z",
+  "last_updated": "2026-05-08T22:31:03Z",
   "cards": [
     {
       "id": "6b13974888d4",
@@ -62,6 +62,363 @@
         "Over a third of those damaged facilities were severely damaged, according to the IEA",
         "Opec controls about 37% of global oil supply",
         "The UAE was the fourth-largest producer within Opec before announcing its exit"
+      ]
+    },
+    {
+      "id": "33f1e456f4df",
+      "title": "U.S.-Iran Deal Trades Nuclear Concessions for Hormuz Reopening and Sanctions Relief",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/us-iran-war-peace-deal-memorandum-nuclear-enrichment-moratorium-strait-hormuz/",
+      "published": "2026-05-06T21:21:50Z",
+      "category": "IR",
+      "region": "United States / Iran / Strait of Hormuz / Gulf",
+      "background": "The U.S. and Iran are reportedly discussing a 14-point memorandum of understanding that could end their two-month-old war and reopen the Strait of Hormuz. According to Axios, the draft would create a 30-day negotiation period over a moratorium on Iranian nuclear enrichment, with Iran reportedly proposing a five-year ban and the U.S. demanding a 20-year halt. The draft also reportedly includes promises that Iran will not seek a nuclear weapon, restrictions on underground nuclear facilities, snap U.N. inspections, gradual U.S. sanctions relief, and the release of billions of dollars in frozen Iranian funds.",
+      "prop_args": [
+        {
+          "thesis": "A negotiated deal is the least bad way to stop escalation, restore global energy flows, and buy time for a more durable nuclear settlement.",
+          "mechanisms": [
+            "First, it immediately reduces the risk of regional war spiraling into a broader Gulf conflict. This is because (1) the memorandum would end a two-month war rather than prolong a high-intensity exchange, (2) reopening the Strait of Hormuz removes the most dangerous maritime chokepoint from the conflict, and (3) a formal 30-day diplomatic track creates off-ramps for both sides before miscalculation hardens into irreversible escalation.",
+            "Second, it stabilizes global oil markets and prevents a supply shock. Three reasons: one, the Strait of Hormuz is the key transit route for Gulf energy exports, so even partial disruption creates immediate price spikes; two, the article shows Brent crude already fell 11 percent to around $96 a barrel and WTI plunged as much as 15 percent to $88 on deal optimism, proving markets are highly sensitive to de-escalation; three, lower energy prices reduce inflation pressure on import-dependent states and avoid secondary economic damage worldwide.",
+            "Third, it creates leverage for future nuclear constraints that war cannot achieve. This matters because a moratorium plus snap inspections gives the U.S. visibility into Iranian facilities, while sanctions relief and frozen-fund release can be conditioned on compliance; by contrast, continued bombing incentivizes Iran to harden, conceal, or accelerate its program underground."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This deal is likely to be unstable, rewards coercion, and risks legitimizing Iran's nuclear and regional behavior without solving the underlying threat.",
+          "mechanisms": [
+            "First, the agreement may be unenforceable because the core terms are too contested. One, the sides disagree on the length of the enrichment moratorium, with Iran reportedly offering five years and the U.S. demanding 20; two, Washington wants automatic extension if Iran violates terms, which Tehran is unlikely to accept; three, multiple draft versions are already circulating, showing weak consensus and a high probability of collapse after a temporary pause.",
+            "Second, it creates moral hazard by paying Iran to de-escalate attacks it should not have launched in the first place. One, sanctions relief and access to frozen funds hand Tehran immediate economic gains; two, if the U.S. backs down after military pressure, Iran learns that brinkmanship and attacks on shipping can extract concessions; three, this incentivizes future hostage-style diplomacy where Iran uses regional instability as bargaining leverage.",
+            "Third, it may freeze rather than solve the nuclear problem. One, a moratorium is not dismantlement, so Iran can preserve expertise, infrastructure, and breakout capacity; two, the U.S. demand to prohibit underground facilities and allow snap inspections may be impossible to verify in practice if Iran limits access; three, once sanctions relief is granted, restoring pressure later becomes politically and economically harder, leaving the U.S. with less leverage than before."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate de-escalation and long-term enforcement credibility. Prop wins if you prioritize preventing a regional war and oil shock today; opp wins if you think a weak, reversible deal entrenches Iranian coercion and leaves the nuclear threat unresolved.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Moral Hazard",
+        "Deterrence Failure",
+        "Arms Control",
+        "Energy Security",
+        "Chokepoint Vulnerability",
+        "Sanctions Relief",
+        "Brinkmanship",
+        "Proliferation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would strike a deal with Iran",
+        "THBT the U.S. should prioritize diplomacy over military escalation in the Gulf",
+        "THP a world where nuclear disputes are resolved through temporary moratoriums and sanctions relief",
+        "THBT states should not use military pressure to negotiate non-proliferation agreements"
+      ],
+      "data_points": [
+        "The reported memorandum is a 14-point draft under discussion between the U.S. and Iran",
+        "The war between the U.S. and Iran has lasted two months",
+        "Iran reportedly proposed a five-year enrichment ban while the U.S. demanded a 20-year halt",
+        "The proposed negotiation window is 30 days",
+        "Brent crude fell about 11 percent to around $96 a barrel after deal reports",
+        "U.S. West Texas Intermediate futures plunged as much as 15 percent to $88 a barrel",
+        "The U.S. and Persian Gulf allies proposed a U.N. resolution threatening more sanctions if Iran refused to halt attacks on ships in the Strait of Hormuz",
+        "Trump said on Truth Social: 'If they don’t agree, the bombing starts'"
+      ]
+    },
+    {
+      "id": "b7027d9229f7",
+      "title": "BJP Landslide in West Bengal Strengthens Modi’s National Dominance and Hardens India’s Eastern Border Politics",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/india-bjp-state-elections-west-bengal-victory/",
+      "published": "2026-05-06T20:55:16Z",
+      "category": "IR",
+      "region": "India / West Bengal / Bangladesh / Pakistan",
+      "background": "On Monday, votes were counted in five Indian states after elections held the previous week, and the ruling Bharatiya Janata Party (BJP) improved its position across most of them. The biggest result was in West Bengal, where the BJP won 207 of 294 seats and unseated Chief Minister Mamata Banerjee after 15 years in office; turnout was estimated at nearly 93 percent. The article says the Election Commission removed 9 million voters from West Bengal’s rolls, nearly 12 percent of the electorate, and critics argue many were Muslims and core supporters of Banerjee’s All India Trinamool Congress (AITC).",
+      "prop_args": [
+        {
+          "thesis": "The BJP’s West Bengal victory strengthens central state capacity and gives India a more coherent, harder-edged security posture on its eastern frontier.",
+          "mechanisms": [
+            "First, it removes a major regional veto player and aligns West Bengal with New Delhi’s governing party. This matters because (1) the state borders Bangladesh and sits on a sensitive migration and smuggling corridor, (2) the BJP can now coordinate border enforcement, policing, and administrative messaging without an opposition chief minister obstructing implementation, and (3) a unified party structure reduces the gap between national rhetoric and local execution.",
+            "Second, it empowers a tougher line on Bangladesh-related issues. Three reasons: one, BJP leaders already frame illegal immigration from Bangladesh as a core political threat; two, a BJP-led West Bengal government is more likely to prioritize deportation, documentation, and border crackdowns; three, that hard line increases leverage over Dhaka in negotiations over trade, border management, and refugee flows.",
+            "Third, it consolidates Modi’s national mandate and weakens the opposition alliance. This matters because (1) the BJP has now won key state contests after governing in coalition nationally since 2024, (2) opposition parties lose their strongest regional platforms and coordination capacity, and (3) a stronger BJP is better able to sustain long-term strategic policies, including on Pakistan, without fearing immediate electoral backlash."
+          ]
+        },
+        {
+          "thesis": "The election result is politically valuable for the BJP because it converts anti-incumbency and identity politics into a durable electoral machine ahead of 2029.",
+          "mechanisms": [
+            "First, it demonstrates that the BJP can recover from national setbacks by winning state-level contests. This is because (1) the party had been hit by farm protests, the Citizenship Amendment Act backlash, COVID-19 criticism, and unemployment concerns, (2) state victories rebuild elite confidence and donor momentum, and (3) repeated wins create a perception of inevitability that discourages defections and energizes cadres.",
+            "Second, it fractures the opposition’s ability to present a credible alternative. Three reasons: one, AITC and DMK are major national opposition parties and their losses weaken coalition arithmetic, two, Rahul Gandhi’s opposition leadership becomes less effective when regional allies are on the defensive, and three, a divided opposition cannot convert grievance into a national anti-BJP wave.",
+            "Third, it improves the BJP’s odds of a fourth straight national term. This matters because (1) incumbency advantages compound over time, (2) control of more states expands patronage, administrative reach, and campaign infrastructure, and (3) if the BJP is favored in 2029, it can pursue long-horizon policy without the constraint of imminent regime change."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The West Bengal result deepens democratic backsliding and communal polarization, making India less stable domestically and more dangerous regionally.",
+          "mechanisms": [
+            "First, the voter-roll purge creates a legitimacy crisis. One, removing 9 million voters—nearly 12 percent of the electorate—raises serious concerns about franchise manipulation, two, if many removed voters are Muslims, it reinforces the perception that the state is selectively disenfranchising a minority, and three, that perception fuels long-term distrust in electoral institutions.",
+            "Second, BJP control of West Bengal incentivizes hardline identity politics over governance. One, the party benefits electorally from anti-Muslim and anti-Bangladeshi narratives, two, it has incentives to escalate border rhetoric to consolidate its base, and three, that can trigger communal tensions inside the state and across the border with Bangladesh.",
+            "Third, the victory may worsen India-Bangladesh relations rather than strengthen them. This is because (1) Dhaka already has rocky ties with New Delhi after Sheikh Hasina’s 2024 ouster, (2) a BJP-led West Bengal government is likely to take a tougher line on migration and border control, and (3) anti-India sentiment in Bangladesh grows when Indian politics is seen as targeting Muslims and migrants."
+          ]
+        },
+        {
+          "thesis": "The BJP’s win is not proof of durable national strength; it may instead reflect opposition fragmentation and administrative manipulation that can still produce future backlash.",
+          "mechanisms": [
+            "First, the result is partly explained by non-ideological and potentially coercive factors. One, economic distress and anti-incumbency can swing state elections without indicating deep ideological conversion, two, the removal of 9 million voters suggests the playing field may have been altered, and three, victories built on exclusion are politically brittle because they generate resentment among affected communities.",
+            "Second, the opposition’s weakness today does not eliminate the possibility of a future coalition comeback. One, regional parties still control significant political bases, two, the BJP’s national coalition government since 2024 shows it remains vulnerable to bargaining and alliance pressure, and three, a single landslide does not solve unemployment, inequality, or governance failures that can re-emerge by 2029.",
+            "Third, a harder line on Pakistan and Bangladesh can backfire strategically. One, it increases the risk of escalation by normalizing coercive border politics, two, it reduces diplomatic space for crisis management, and three, it can lock India into permanent regional hostility that imposes economic and security costs."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the BJP’s victory creates stable state capacity or merely entrenches exclusionary politics. Prop wins if the round is about governability and strategic coherence; Opp wins if the round is about legitimacy, minority rights, and the long-run costs of polarization, because those harms are harder to reverse once institutions and communal trust are damaged.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Majoritarianism",
+        "Electoral Manipulation",
+        "Minority Rights",
+        "Border Securitization",
+        "Nationalism",
+        "Opposition Fragmentation",
+        "State Capacity",
+        "Communal Polarization",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as India, would welcome BJP control of West Bengal",
+        "THBT electoral commissions should be allowed broad powers to purge voter rolls in high-fraud environments",
+        "THP a world where ruling parties control both national and key border states in ethnically sensitive democracies"
+      ],
+      "data_points": [
+        "BJP won 207 of 294 seats in West Bengal",
+        "Turnout in West Bengal was estimated at nearly 93 percent",
+        "The Election Commission removed 9 million voters from West Bengal rolls, nearly 12 percent of the electorate",
+        "Mamata Banerjee had governed West Bengal for 15 years",
+        "Modi has governed in coalition since June 2024, the first time in his premiership",
+        "India and Pakistan fought a four-day conflict one year ago, the most serious since 1971",
+        "India cut off all trade, closed the border, and suspended the Indus Waters Treaty after the 2025 conflict"
+      ]
+    },
+    {
+      "id": "e24c199c7c35",
+      "title": "China Uses Its First Blocking Statute to Challenge U.S. Sanctions and Signal a Broader Anti-Dollar Order",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/china-us-sanctions-ban-trump-xi-iran-war-oil-trade/",
+      "published": "2026-05-06T20:26:50Z",
+      "category": "IR",
+      "region": "China / United States / Iran / Zambia / Shenzhen",
+      "background": "On Saturday, China publicly barred its companies from complying with U.S. sanctions after Washington blacklisted five Chinese refineries for processing Iranian oil. This is the first time Beijing has invoked its 2021 blocking statute, which allows firms to sue parties that benefit from complying with foreign sanctions and authorizes state compensation for losses. The move comes ahead of a scheduled Trump-Xi summit in Beijing next week, amid broader tensions over Iran, Cuba, Russia-related sanctions, and U.S.-China trade frictions.",
+      "prop_args": [
+        {
+          "thesis": "China’s blocking statute is a rational escalation that protects sovereignty, reduces U.S. coercive leverage, and pushes the world toward a less U.S.-dominated sanctions regime.",
+          "mechanisms": [
+            "First, it directly reduces the effectiveness of U.S. sanctions by forcing Chinese firms to choose Beijing over Washington. This works because (1) Chinese refineries and banks are key nodes in global commodity and finance chains, (2) the statute gives firms legal cover to resist U.S. demands, and (3) state compensation lowers the private cost of defiance, making compliance with U.S. sanctions less automatic.",
+            "Second, it strengthens China’s bargaining position in future disputes by showing it can impose costs on U.S. coercion. Three reasons: one, it signals that Washington cannot assume passive compliance from major economies; two, it creates uncertainty for firms operating across both systems, which increases the price of U.S. sanctions; three, it may deter secondary sanctions if the U.S. fears broader retaliation or fragmentation.",
+            "Third, it advances a long-term structural shift away from dollar-based enforcement. This matters because (1) sanctions power depends on the centrality of the dollar and U.S.-linked financial infrastructure, (2) even partial noncompliance by a major economy normalizes alternative legal and payment channels, and (3) over time this erodes the credibility of the U.S.-led sanctions regime and gives other states more room to resist."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China’s move is mostly symbolic and self-defeating because it cannot escape dollar dominance, risks retaliation, and increases uncertainty for Chinese firms more than it weakens the U.S.",
+          "mechanisms": [
+            "First, the blocking statute cannot overcome the structural dependence of Chinese firms on the dollar system. One, most major trade and finance still clears through U.S.-linked institutions; two, firms with global exposure will still quietly comply to avoid being cut off from Western markets; three, Beijing can issue directives, but it cannot fully insulate companies from U.S. enforcement.",
+            "Second, the policy invites escalation at a moment when China is vulnerable to broader economic pressure. One, the U.S. can expand sanctions or secondary sanctions on more Chinese entities; two, the move may harden EU and allied coordination rather than deter it; three, it risks disrupting the very trade and investment channels Chinese growth depends on.",
+            "Third, the statute creates domestic legal and commercial uncertainty that harms Chinese firms. This is because (1) companies now face conflicting legal obligations between Beijing and Washington, (2) the threat of lawsuits or state pressure discourages international business planning, and (3) firms may respond by overcomplying or withdrawing from sensitive sectors, which reduces China’s own economic flexibility."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether China can convert symbolic defiance into durable sanctions resistance. Prop wins if the question is long-term erosion of U.S. coercive power; opp wins if the judge prioritizes immediate enforceability and the fact that dollar dominance still constrains Chinese firms.",
+      "stock_connections": [
+        "Dollar Dominance",
+        "Sanctions Evasion",
+        "Great Power Competition",
+        "Economic Statecraft",
+        "Decoupling",
+        "Secondary Sanctions",
+        "Multipolarity",
+        "Coercive Diplomacy"
+      ],
+      "motion_areas": [
+        "TH, as China, would prohibit domestic firms from complying with foreign sanctions",
+        "THBT major powers should respond to unilateral sanctions with blocking statutes",
+        "THP a world where states can legally shield firms from foreign sanctions",
+        "THBT the Global South should resist U.S.-led sanctions enforcement"
+      ],
+      "data_points": [
+        "China invoked its 2021 blocking statute for the first time on 2026-05-06",
+        "The U.S. blacklisted five Chinese refineries for processing Iranian oil",
+        "China installed three times the wind power capacity of the rest of the world combined last year",
+        "Charles Lieber, convicted in the U.S. over false statements about China-linked funding, has relocated his lab to Shenzhen",
+        "RightsCon, a major human rights conference, was canceled in Zambia under Chinese pressure over Taiwanese participation"
+      ]
+    },
+    {
+      "id": "6745b4d47dbf",
+      "title": "Washington’s Iran War Shows the Persistent Delusion That U.S. Force Can Be Clean, Fast, and Contained",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/united-states-iran-trump-iraq-afghanistan-war/",
+      "published": "2026-05-06T19:54:17Z",
+      "category": "IR",
+      "region": "United States / Iran / Iraq / Afghanistan / Gulf",
+      "background": "The article argues that two months into Operation Epic Fury, the U.S. war against Iran is repeating the logic of Iraq and Afghanistan: regime-change advocates, hawkish media figures, and think tanks are still treating war as a controllable instrument. It cites figures including Sen. Lindsey Graham, Bret Stephens, the Wall Street Journal editorial board, and groups such as FDD, JINSA, the Vandenberg Coalition, and Hudson Institute as continuing to support escalation while dismissing diplomacy. The U.S. Defense Department reportedly valued the operation at $25 billion through the end of April, while some officials put the real cost closer to $50 billion, before counting broader economic effects like higher gas prices.",
+      "prop_args": [
+        {
+          "thesis": "The U.S. should treat war with Iran as inherently uncontrollable and politically illegitimate, because the fantasy of a 'perfect war' systematically produces strategic failure, civilian harm, and democratic evasion.",
+          "mechanisms": [
+            "First, the 'perfect war' mindset lowers the threshold for war by making leaders believe force can be precise, limited, and reversible. This is because (1) airpower, covert action, and special operations create the illusion of control, (2) politicians can promise regime change without occupation or major casualties, and (3) the public is sold a low-cost intervention rather than a real war.",
+            "Second, this mindset distorts decision-making once war begins. Three reasons: one, it makes leaders hide the true costs, timelines, and risks from Congress and voters; two, it narrows debate from 'should we do this?' to 'how do we win?' which locks in escalation; three, it prevents serious diplomacy and de-escalation even when the war is clearly failing.",
+            "Third, the result is predictable blowback and legitimacy loss. This matters because (1) unnecessary wars lack the shared sacrifice and political commitment needed for success, (2) civilian casualties and infrastructure damage generate anti-American resentment and regional instability, and (3) the U.S. repeats Iraq/Afghanistan-style failure while paying massive fiscal and economic costs."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Even if past U.S. wars were disastrous, limited force against Iran can still be justified as a necessary tool to deter proliferation, protect regional security, and prevent worse outcomes than inaction.",
+          "mechanisms": [
+            "First, Iran is not Iraq or Afghanistan, so analogies to failed occupations are overstated. One, the U.S. can pursue limited strikes, maritime interdiction, or targeted operations without a full occupation; two, credible force can degrade military capabilities and raise the cost of escalation; three, a regime that threatens shipping lanes and allies may only respond to coercion, not diplomacy.",
+            "Second, the strategic downside of restraint may be larger than the downside of force. One, failing to act can embolden Iran and its proxies to expand attacks across the Gulf; two, allies may doubt U.S. commitments if Washington refuses to enforce red lines; three, a short, sharp campaign may avert a longer and more dangerous regional war later.",
+            "Third, domestic democratic concerns do not eliminate the need for action. One, presidents often need flexibility in fast-moving security crises; two, congressional paralysis can make deterrence impossible; three, if the U.S. can achieve limited objectives at acceptable cost, then the moral case for inaction weakens."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether war can be meaningfully limited and controlled, or whether the history of Iraq and Afghanistan proves that once the U.S. starts, costs, mission creep, and civilian harm spiral beyond political control. Prop has the structural advantage on long-term predictability and democratic accountability; Opp wins only if it can prove the Iran case is genuinely exceptional and that force can stay narrow enough to avoid the article’s blowback logic.",
+      "stock_connections": [
+        "Quagmire",
+        "Mission Creep",
+        "Blowback",
+        "Regime Change Failure",
+        "Democratic Deficit",
+        "Moral Hazard",
+        "Security Dilemma",
+        "Imperial Overstretch",
+        "Civilian Harm",
+        "War of Choice"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would not launch a war against Iran",
+        "THBT the United States should prioritize diplomacy over coercive military action in the Middle East",
+        "THP a world where Congress must explicitly authorize all offensive military action",
+        "THBT democratic states should never pursue regime change through military force",
+        "TH, as a U.S. president, would refuse to rely on airpower and special operations as substitutes for war"
+      ],
+      "data_points": [
+        "Operation Epic Fury had cost the U.S. Defense Department $25 billion through the end of April 2026",
+        "Some officials estimate the real cost of Operation Epic Fury is closer to $50 billion",
+        "The article says the war began two months before publication, placing its start around March 2026",
+        "Sen. Lindsey Graham reportedly said toppling the Iranian regime would let Washington 'make a ton of money' off Iranian oil reserves",
+        "The article cites a bombing of a girls school in southern Iran as a civilian casualty example",
+        "The U.S. has not publicly resolved the constitutional authorization question for the war, according to the article",
+        "The article references the 2003 Iraq invasion, the Afghanistan nation-building project, regime change in Libya, and guerrilla war in Syria as prior failures cited by critics"
+      ]
+    },
+    {
+      "id": "e7fbc0fdb20a",
+      "title": "Iran War Breaks the Taboo Around Israel’s Nuclear Arsenal",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/iran-war-trump-netanyahu-israel-nuclear-weapons/",
+      "published": "2026-05-06T19:45:03Z",
+      "category": "IR",
+      "region": "United States / Israel / Iran / Middle East",
+      "background": "On 6 May 2026, Foreign Policy reported that 30 House Democrats sent a letter to Secretary of State Marco Rubio urging the U.S. to publicly acknowledge Israel’s nuclear weapons program. The article argues that the ongoing Iran war has made Israel’s long-standing policy of nuclear ambiguity (amimut) harder to sustain, especially as U.S. officials now publicly discuss the possibility of Israeli nuclear use. Israel has maintained the formula since 1966 that it will not be the first to introduce nuclear weapons into the Middle East, while Washington has historically avoided explicit acknowledgment of Israel’s arsenal.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war weakens nuclear opacity and makes the Middle East more dangerous by normalizing public discussion of Israel’s arsenal and lowering the taboo against nuclear signaling.",
+          "mechanisms": [
+            "First, the war moves Israel’s deterrent from a hidden strategic background condition into the center of public conflict. This is because (1) the war is explicitly framed around stopping Iran’s nuclear capability, (2) strikes on Fordow, Natanz, and Isfahan make nuclear infrastructure a live war objective, and (3) once nuclear issues are openly discussed in war reporting, Dimona and Israeli deterrence become ordinary objects of analysis rather than off-limits secrets.",
+            "Second, public discussion creates a self-reinforcing diplomatic erosion of amimut. Three reasons: one, U.S. officials and lawmakers are now being forced to answer questions about Israeli nuclear use and red lines; two, once Congress and the White House speak openly, allies and adversaries treat the taboo as already broken; three, that makes it harder for Washington to preserve the old nonproliferation double standard that protected Israel’s ambiguity.",
+            "Third, the loss of ambiguity increases proliferation and escalation incentives. This matters because (1) Iran and other regional actors can now argue that Israel’s arsenal is an acknowledged fact, reducing the political costs of their own nuclear hedging, (2) Arab states face stronger pressure to seek their own deterrents if Israel’s arsenal is openly discussed, and (3) once nuclear weapons become a normal part of regional bargaining, crisis stability worsens because every conventional clash carries a more explicit nuclear shadow."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The war does not meaningfully erode Israel’s nuclear ambiguity because the core strategic bargain remains intact: Israel still does not declare, test, or brandish its weapons, and everyone already assumes it has them.",
+          "mechanisms": [
+            "First, opacity is already widely understood by all serious actors, so public discussion changes little in practice. One, Iran and regional militaries have long assumed Israel has a deterrent; two, the article itself says opacity was never mainly about deceiving adversaries; three, if the strategic audience already knows the answer, then the marginal effect of congressional letters and media coverage is mostly rhetorical.",
+            "Second, the institutional basis of amimut remains stronger than the current news cycle. One, no Israeli government is about to formally acknowledge or renounce the policy; two, the legal and doctrinal shell of 'not the first to introduce' still stands; three, as long as Israel avoids declaration, testing, or overt nuclear signaling, the key threshold for ending opacity has not been crossed.",
+            "Third, even if the taboo weakens, that can improve deterrence rather than destabilize it. One, clearer acknowledgment can strengthen extended deterrence by making red lines more credible; two, it can reduce dangerous ambiguity about escalation ladders and prevent miscalculation; three, if Iran believes Israel’s arsenal is real and politically salient, that may deter further escalation instead of encouraging it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic erosion and strategic collapse: the article shows that the taboo around discussing Israel’s arsenal is weakening, but not that Israel’s actual deterrent posture is ending. Prop wins if the round is about long-run proliferation norms and crisis stability; opp wins if the round is about immediate policy effects, because the underlying military balance and Israeli doctrine remain largely unchanged.",
+      "stock_connections": [
+        "Nuclear Deterrence",
+        "Nonproliferation Regime Erosion",
+        "Security Dilemma",
+        "Arms Race Dynamics",
+        "Escalation Ladder",
+        "Strategic Ambiguity",
+        "Double Standards in International Law",
+        "Proliferation Cascade"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would publicly acknowledge Israel’s nuclear weapons program",
+        "THBT strategic ambiguity is no longer a useful nuclear doctrine in the Middle East",
+        "THP a world where nuclear weapons are openly discussed during regional wars",
+        "THBT the United States should end its policy of silence on Israel’s nuclear arsenal"
+      ],
+      "data_points": [
+        "30 House Democrats sent a letter to Secretary of State Marco Rubio urging public acknowledgment of Israel’s nuclear weapons program",
+        "Israel’s canonical nuclear posture dates to 1966, when Levi Eshkol said Israel 'has no atomic arms and will not be the first to introduce such weapons in the Middle East'",
+        "The article says Israel’s policy of amimut has survived for more than 50 years",
+        "The 2015 JCPOA entered into force in 2016 and placed Iran’s program under extraordinary inspection while leaving Israel’s position untouched",
+        "U.S. President Donald Trump publicly answered a question about possible Israeli nuclear use, saying: 'Israel wouldn’t do that. Israel would never do that.'",
+        "The article specifically names strikes on Fordow, Natanz, and Isfahan as part of the campaign against Iran’s nuclear infrastructure"
+      ]
+    },
+    {
+      "id": "e363df4bd200",
+      "title": "Beijing’s Block on Manus Signals the End of China’s Offshore AI Exit Ramp",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/china-ai-singapore-manus-meta-us-competition/",
+      "published": "2026-05-06T19:27:53Z",
+      "category": "Business",
+      "region": "China / United States / Singapore",
+      "background": "On April 27, China’s foreign investment security review office under the National Development and Reform Commission retroactively prohibited Meta’s acquisition of Manus, a Singapore-based AI firm with Chinese roots, and ordered the deal unwound. Meta had reportedly offered $2 billion for Manus, which launched in 2025 as a general-purpose AI agent and quickly attracted attention after Benchmark led a $75 million round. The article says Manus had shifted its corporate structure and core team to Singapore before the attempted sale, and that the case is the first publicly disclosed foreign acquisition in China’s AI sector to be directly blocked under the NDRC security review rule.",
+      "prop_args": [
+        {
+          "thesis": "Beijing is right to block offshore AI exits because it prevents strategic technology, data, and talent from being packaged for foreign acquisition through regulatory arbitrage.",
+          "mechanisms": [
+            "First, the block closes a loophole in the Singapore-washing/VIE playbook. This is because (1) Chinese firms can build core capabilities onshore, (2) shift the legal shell offshore, and (3) sell to U.S. buyers while keeping the value creation tied to China; if Beijing allows one high-profile sale, it normalizes a pipeline that turns domestic innovation into foreign strategic assets.",
+            "Second, it preserves China’s leverage over agentic AI as a frontier sector. Three reasons: one, agents are the control layer for more complex AI tasks; two, the state wants to set a precedent that Chinese-born agentic AI cannot simply be absorbed into U.S. platforms; three, allowing this kind of exit would encourage founders to optimize for foreign buyers rather than domestic scale.",
+            "Third, it strengthens Beijing’s broader security state toolkit in tech competition. This matters because (1) China is already facing U.S. outbound investment scrutiny and tech controls, (2) reciprocal restrictions create bargaining power and deterrence, and (3) the state can use security review to force firms to stay aligned with national industrial priorities rather than short-term exit incentives."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Beijing’s block is economically self-defeating because it chills investment, weakens Chinese founders’ incentives, and pushes the best AI talent to leave earlier and stay outside China.",
+          "mechanisms": [
+            "First, it destroys the credibility of offshore exit routes that Chinese tech firms rely on for financing. One, VIE-style structures and offshore listings have historically let Chinese firms access dollar capital; two, if the state can retroactively unwind a $2 billion deal, investors price in arbitrary political risk; three, that raises the cost of capital for every Chinese tech start-up, not just Manus.",
+            "Second, it accelerates talent flight and jurisdiction shopping. One, founders now learn that staying connected to China creates ex post regulatory risk; two, the rational response is to incorporate and hire outside China from day one; three, that means Beijing loses not just one deal but the next generation of globally ambitious entrepreneurs.",
+            "Third, the policy may not even protect the technology it claims to defend. One, the article says Manus was more of a wrapper than a deep-model company; two, reports suggest algorithms and model weights may already have been shared before the block; three, if the core tech is already diffuse, the main effect is symbolic punishment rather than real strategic protection."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between protecting strategic control and preserving the ecosystem that generates future innovation. Proponents win if the round is about national security and precedent-setting in a U.S.-China tech rivalry; opponents win if the round is about dynamic efficiency, capital formation, and whether heavy-handed review causes long-run underinvestment and founder exit.",
+      "stock_connections": [
+        "Capital Flight",
+        "Regulatory Arbitrage",
+        "Race to the Bottom",
+        "Brain Drain",
+        "Industrial Policy",
+        "National Security vs Economic Efficiency",
+        "Dependency Theory",
+        "Sovereign Control over Data",
+        "Tech Decoupling",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as China, would block offshore acquisitions of domestically incubated AI firms by foreign tech giants",
+        "THBT developing nations should restrict foreign takeovers of strategic AI companies even at the cost of lower investment",
+        "THP a world where states can retroactively unwind foreign acquisitions on national security grounds",
+        "TH, as a Chinese regulator, would prioritize domestic control over AI firms rather than allowing Singapore-based exits"
+      ],
+      "data_points": [
+        "$2 billion Meta offer for Manus",
+        "Benchmark led a $75 million round for Manus",
+        "April 27: China’s NDRC-linked foreign investment security review office retroactively prohibited the acquisition and ordered it unwound",
+        "Manus launched in 2025 as a general-purpose AI agent",
+        "The article says this is the first publicly disclosed foreign acquisition in China’s AI sector directly blocked under the NDRC rule",
+        "Manus reportedly restructured, cut China-based staff, and moved its core team and headquarters to Singapore after Benchmark’s April 2025 investment",
+        "China’s VIE model has been used for decades to access offshore capital and overseas listings"
       ]
     },
     {
@@ -131,6 +488,293 @@
       ]
     },
     {
+      "id": "8a716dfa5242",
+      "title": "U.S.-Brokered Libyan Budget Stabilizes Oil Flows Without Reuniting the State",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/libya-unified-state-budget-rival-administrations-trump-middle-east/",
+      "published": "2026-05-06T18:57:32Z",
+      "category": "IR",
+      "region": "Libya / United States / Europe",
+      "background": "On April 11, Libya’s rival administrations approved the country’s first unified state budget in more than a decade, in a deal brokered by Massad Boulos, U.S. President Donald Trump’s senior advisor for Arab and African affairs. The budget is a $30 billion unified development budget for the 2026 fiscal year, with around $1.9 billion allocated to the state-owned National Oil Corp. (NOC) and other spending for subsidies, wages, family allowances, and operations. Libya has been split since 2014 between the UN-recognized government in Tripoli led by Prime Minister Abdul Hamid Dbeibah and an eastern rival faction controlled by Khalifa Haftar; analysts say the deal lacks structural reforms or enforcement mechanisms.",
+      "prop_args": [
+        {
+          "thesis": "A U.S.-brokered unified budget is a pragmatic stabilizer that can reduce immediate fiscal chaos, protect oil production, and create a narrow but real pathway toward de facto state coordination.",
+          "mechanisms": [
+            "First, it creates a shared spending ceiling and common fiscal framework. This matters because (1) Libya’s core problem is parallel overspending by rival administrations, (2) a unified budget forces both sides to coordinate on subsidies, wages, and operational spending, and (3) even partial coordination can slow dinar depreciation and reduce the most destabilizing forms of fiscal competition.",
+            "Second, it protects the oil sector that funds the entire state. Three reasons: one, the budget allocates about $1.9 billion to the NOC, two, the NOC is the central institution that can raise output and revenue quickly, and three, higher oil receipts give both sides an incentive to keep the cease-fire and avoid disruptions that would destroy their own cash flow.",
+            "Third, it can create incremental trust and institutional habits that are otherwise absent. This matters because (1) Libya’s rival elites have not shared a fiscal track in years, (2) even a limited agreement gives external actors like the U.S. and U.N. a reference point for future oversight, and (3) repeated coordination on money can be a stepping stone to broader political bargaining when full reunification is currently unrealistic."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The budget is a cosmetic elite bargain that entrenches fragmentation by legitimizing warlords, enabling corruption, and delaying real political settlement.",
+          "mechanisms": [
+            "First, it lacks enforcement, so compliance is voluntary and reversible. One, analysts explicitly describe it as a 'pinky promise' with no structural reforms, two, the two administrations are still dispersing separate portions of the budget, and three, without coercive oversight the same patronage networks that caused the crisis will simply keep siphoning funds.",
+            "Second, it strengthens the very actors who have benefited from Libya’s division. One, Boulos negotiated mainly with Dbeibah’s nephew and Haftar’s son, bypassing wider institutions, two, this gives the Haftar camp a direct line to Washington and boosts its legitimacy, and three, empowering family-based succession politics makes future power-sharing harder, not easier.",
+            "Third, it diverts attention from the real drivers of instability: graft, foreign meddling, and oil revenue leakage. One, analysts say revenues are siphoned to foreign networks enabled by Russia and others, two, the budget does nothing to build anti-corruption institutions or public accountability, and three, temporary cash management can actually postpone the harder fight over sovereignty and state-building."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term macroeconomic relief and long-term state consolidation. The proposition wins if the motion is about immediate stabilization or preventing collapse; the opposition wins if the motion is about whether this meaningfully unifies Libya, because the agreement has no enforcement, no institutional depth, and directly empowers the same factions that produced fragmentation.",
+      "stock_connections": [
+        "Elite Pact Theory",
+        "State Capture",
+        "Resource Curse",
+        "Patronage Politics",
+        "Moral Hazard",
+        "Weak Institutions",
+        "Ceasefire Consolidation",
+        "Foreign Mediation",
+        "Rentier State Dynamics",
+        "Fragmented Sovereignty"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would broker elite fiscal deals in fractured petro-states",
+        "THBT partial economic agreements are a better path to peace than comprehensive political settlements in civil wars",
+        "THP a world where external powers prioritize budget coordination over constitutional reform in post-conflict states",
+        "THBT Libya should prioritize unified fiscal management before national elections",
+        "THBT foreign mediation that bypasses formal institutions is justified in failed states"
+      ],
+      "data_points": [
+        "$30 billion unified development budget for Libya’s 2026 fiscal year",
+        "Around $1.9 billion allocated to the National Oil Corp. (NOC)",
+        "Libya has been split between rival administrations since 2014",
+        "The 2020 cease-fire left Tripoli’s Dbeibah government and eastern Haftar-aligned authorities still competing over spending",
+        "NOC oil revenue reportedly rose to $2.9 billion in April, up from $1 billion in February",
+        "Chevron signed a preliminary agreement with Libya’s NOC a few weeks after the budget deal to assess shale oil and gas potential",
+        "Libya exports the majority of its oil to European markets"
+      ]
+    },
+    {
+      "id": "16efeee1d487",
+      "title": "China’s Overseas Ports Become a Geoeconomic Lever: Growth, Debt, and Military Access Compete in Host States",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/navigating-the-many-issues-surrounding-chinas-ports-abroad/",
+      "published": "2026-05-06T17:56:00Z",
+      "category": "IR",
+      "region": "China, Panama, Peru, Sri Lanka, South Asia/Southeast Asia",
+      "background": "This article is part 2 of a four-part series on China’s overseas ports footprint. It notes current flashpoints including China escalating detention of Panamanian-flagged ships after CK Hutchison’s operator role ended at two Panama Canal ports, U.S. claims it will help Peru take back Chancay Port from China, and India’s move to anchor participation in Sri Lankan ports. The piece argues that Chinese companies act as builders, financiers, investors, and terminal operators abroad, and that host states see both economic upside and political/security risk.",
+      "prop_args": [
+        {
+          "thesis": "Chinese port investment is a classic geoeconomic statecraft tool that can raise host-country growth, connectivity, and bargaining power if governments manage it well.",
+          "mechanisms": [
+            "First, it expands hard infrastructure capacity. This is because (1) Chinese firms bring FDI, engineering, and contracting expertise, (2) that can raise port throughput and efficiency, and (3) better ports lower trade costs and attract more shipping, logistics, and manufacturing activity.",
+            "Second, it creates spillovers beyond the terminal itself. Three reasons: one, the article explicitly points to the 'Shekou Model' where port projects are paired with special economic zones; two, surrounding rail, power, and commercial infrastructure can cluster new industry; three, this generates jobs, exports, foreign exchange, and follow-on investment.",
+            "Third, it can improve host-state autonomy in a multipolar system. This matters because stronger ports can let states diversify away from Western finance and logistics chokepoints, increase regional weight, and give leaders more room to balance neighboring rivals."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China’s overseas ports are less about neutral development and more about strategic dependency, coercive leverage, and security exposure for host states.",
+          "mechanisms": [
+            "First, port control creates coercive economic leverage. One, Chinese operators can slow or cease terminal activity; two, they can redirect shipping flows and affect energy or commodity movement; three, that gives Beijing pressure points over trade-dependent states and non-Chinese shippers.",
+            "Second, it deepens structural dependence and weakens local industry. One, host states can become tied to Chinese debt, Chinese technical standards, and Chinese firms; two, local builders and suppliers get crowded out; three, the result is a long-run lock-in where the host cannot easily switch providers without major disruption.",
+            "Third, it creates military and intelligence risks. One, port access allows collection of data on foreign ships, troops, and matériel; two, dual-use infrastructure can support stockpiles, resupply, or joint operations; three, even without a formal base, Chinese-involved ports can improve power projection and encirclement options."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether port investment is treated as an ordinary development project or as strategic infrastructure with coercive optionality. Prop wins if it proves host states can regulate and extract growth; opp wins because the downside is path-dependent and hard to reverse once debt, standards, and operational control are embedded.",
+      "stock_connections": [
+        "Debt Trap Diplomacy",
+        "Dependency Theory",
+        "Geoeconomic Statecraft",
+        "Dual-Use Infrastructure",
+        "Sovereignty Erosion",
+        "Resource Curse",
+        "Strategic Chokepoints",
+        "Encirclement",
+        "Race to the Bottom",
+        "State Capture"
+      ],
+      "motion_areas": [
+        "TH, as a developing country, would accept Chinese investment in critical port infrastructure",
+        "THBT host states should restrict foreign ownership and operation of strategic ports",
+        "THP a world in which China controls major overseas ports",
+        "THBT the West should oppose Chinese port acquisitions in the Global South",
+        "THBT developing nations should prioritize geoeconomic autonomy over foreign infrastructure finance"
+      ],
+      "data_points": [
+        "China escalated detention of Panamanian-flagged ships after CK Hutchison’s operator role ended at two Panama Canal ports",
+        "A U.S. congresswoman said the United States will help Peru take back Chancay Port from China",
+        "India is moving to anchor its participation in Sri Lankan ports",
+        "Xi Jinping said in July 2025 that China needs to 'deeply participate in global ocean governance, unwaveringly defend ocean and maritime rights and interests'",
+        "The article cites Djibouti as an example where port-linked economic gains can empower domestic elites",
+        "The article references the 'Shekou Model' as a template linking ports to special economic zones and surrounding infrastructure"
+      ]
+    },
+    {
+      "id": "ff3baf4a4e62",
+      "title": "Iran War Exposes Southeast Asia’s Security-Trade Split, Pushing States Toward Deeper Hedging Between Washington and Beijing",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/iran-war-southeast-asia-philippines-vietnam-indonesia-china-united-states-geopolitics-economics/",
+      "published": "2026-05-06T17:26:00Z",
+      "category": "IR",
+      "region": "Iran; Southeast Asia; Philippines; Vietnam; Indonesia; China; United States",
+      "background": "The article argues that escalation in the Iran war is creating an energy and supply-chain shock across Southeast Asia, especially for the Philippines, Vietnam, and Indonesia. The Philippines declared a national energy emergency in late March 2026, said it had about 45 days of fuel reserves, and sought an additional 1 million barrels to build buffer stock; Marcos later activated a $333 million emergency fund for fuel security. The IMF has warned Asia is more vulnerable than other regions to a prolonged war-induced energy shock because of heavy dependence on Middle Eastern fuel, while the 2026 ISEAS Yusof Ishak survey found 52% of respondents would side with China over the United States if forced to choose.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war does not simply create a temporary energy shock; it structurally accelerates Southeast Asia’s hedging behavior and weakens U.S. leverage by exposing the gap between security guarantees and economic protection.",
+          "mechanisms": [
+            "First, the shock reveals that U.S. military alignment does not insulate states from economic pain. This is because (1) the Philippines can have a U.S. security umbrella and still face only about 45 days of fuel reserves, (2) energy imports and refined products still move through Hormuz into Southeast Asian supply chains, and (3) domestic inflation and fuel scarcity create immediate political costs that alliance commitments do not offset.",
+            "Second, the crisis pushes states to diversify toward China and other partners as insurance. Three reasons: one, Vietnam can deepen selective ties with China through loans, technology, and connectivity deals without fully aligning; two, Indonesia can use its scale and fiscal capacity to widen strategic options rather than lock into one bloc; three, when Washington looks unreliable on economic spillovers, local elites hedge to preserve policy space.",
+            "Third, the long-term impact is a regional norm shift toward more strategic autonomy and less trust in U.S.-led crisis management. This matters because (1) repeated shocks teach governments that great-power security promises are incomplete, (2) states then prioritize resilience, buffer stocks, and diversified partnerships over formal alignment, and (3) that reduces the ability of either Washington or Beijing to demand exclusive loyalty."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Iran war will not push Southeast Asia into China’s arms; if anything, it reinforces the need for balanced hedging and makes U.S. security ties more valuable, not less.",
+          "mechanisms": [
+            "First, the shock increases the value of U.S. security cooperation because states need maritime stability, intelligence, and deterrence to keep chokepoints open. One, the Strait of Malacca handles nearly 22% of global trade and over 102,500 ships transited it in 2025; two, when chokepoints are threatened, states want the strongest naval backstop available; three, that backstop is still the United States, not China.",
+            "Second, economic exposure does not automatically translate into political alignment with Beijing. One, Vietnam’s 32 agreements with China are explicitly selective and designed to preserve autonomy; two, Indonesia’s $5.9 billion subsidy need and new U.S.-Indonesia defense partnership show it can deepen ties on both sides simultaneously; three, the region’s core instinct is diversification, not bandwagoning.",
+            "Third, China is not a clean refuge because dependence on Beijing creates its own coercion risks. One, Southeast Asian states already fear overdependence on China in trade and infrastructure; two, if the crisis teaches them anything, it is to avoid any single patron; three, the result is more nonalignment and issue-based cooperation rather than a decisive shift into China’s orbit."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether crisis exposure converts into bloc realignment or just deeper hedging. Prop wins if you weigh agency: the article’s core evidence shows states are using the shock to diversify and reduce dependence, not to defect to China, while Opp wins only if they can prove U.S. security value still dominates the economic pain.",
+      "stock_connections": [
+        "Hedging",
+        "Strategic Autonomy",
+        "Alliance Credibility",
+        "Security Dilemma",
+        "Dependency Theory",
+        "Economic Statecraft",
+        "Chokepoint Politics",
+        "Great Power Competition",
+        "Balance of Threat"
+      ],
+      "motion_areas": [
+        "TH, as Southeast Asian states, would deepen hedging between the United States and China in response to Middle East conflict spillovers",
+        "THBT U.S. allies should prioritize economic resilience over tighter military alignment",
+        "THP a world where regional states can access security guarantees without being forced into great-power blocs"
+      ],
+      "data_points": [
+        "Philippines had about 45 days of fuel reserves during the March 2026 energy emergency",
+        "Philippines sought an additional 1 million barrels to build buffer stock",
+        "Marcos activated a $333 million emergency fund for fuel security",
+        "IMF warned Asia is more vulnerable than other regions to a prolonged war-induced energy shock because of heavy dependence on Middle Eastern fuel",
+        "2026 ISEAS Yusof Ishak survey: 52% of respondents said they would side with China over the United States if forced to choose",
+        "Strait of Malacca accounts for nearly 22% of global trade",
+        "More than 102,500 ships transited Malacca in 2025",
+        "Malacca carried 29% of maritime oil in just the first half of 2025",
+        "Indonesia may need up to $5.9 billion in additional energy subsidies this year because of the war",
+        "Vietnam and China signed 32 agreements during To Lam’s April 2026 visit to Beijing"
+      ]
+    },
+    {
+      "id": "4933c8e32479",
+      "title": "India-Pakistan Ceasefire Leaves Kashmir Border Civilians Self-Funding Survival as State Protection Fails",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/a-year-after-the-war-kashmirs-border-civilians-sit-between-shelled-roofs-and-self-made-bunkers/",
+      "published": "2026-05-06T17:05:00Z",
+      "category": "IR",
+      "region": "India (Jammu and Kashmir) / Pakistan",
+      "background": "In May 2025, India launched Operation Sindoor after a militant attack killed 26 tourists in Indian-administered Kashmir, striking targets in Pakistan and Pakistan-ruled Kashmir. Pakistan responded with artillery shelling across the Line of Control (LoC) on the night of May 7-8, 2025, hitting districts including Kupwara, Baramulla, Poonch, Rajouri, and Uri in Indian-administered Jammu and Kashmir. The article says over 60,000 civilians were moved from border areas on May 10, 2025, and that a year later many residents still live with damaged homes, trauma, and inadequate compensation. Local officials and residents say government bunkers are insufficient or absent, so families are building private bunkers with their own money.",
+      "prop_args": [
+        {
+          "thesis": "When states militarize disputed borders without providing civilian protection, they externalize the costs of conflict onto the poorest border communities and make ceasefires politically meaningless.",
+          "mechanisms": [
+            "First, the state creates a protection gap. This is because (1) border villages are the first to absorb shelling, (2) official bunkers are too few, too far away, or never built, and (3) compensation is delayed or incomplete, so civilians cannot rely on public protection when violence returns.",
+            "Second, this shifts the burden of war onto households. Three reasons: one, families divert scarce income into private bunkers instead of food, education, or rebuilding; two, people sell assets like jewelry or borrow money to survive; three, the poorest and migrant workers are left most exposed because they cannot self-insure.",
+            "Third, this entrenches long-term insecurity even after fighting stops. This matters because (1) trauma, damaged homes, and distrust of ceasefires keep communities in a permanent emergency mindset, (2) local faith in the state collapses when residents see no follow-through on compensation or shelters, and (3) that makes future escalations more destabilizing because civilians expect abandonment rather than protection."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The real failure is not the ceasefire or militarized posture itself, but the implementation gap in civilian protection and compensation, which can be fixed without changing the broader security strategy.",
+          "mechanisms": [
+            "First, the state can argue that border defense and civilian safety are separable policy problems. One, India and Pakistan remain in a live security competition, so deterrence and military readiness are still necessary; two, the article shows the issue is bunker allocation and compensation delays, not the impossibility of protection; three, targeted budgetary fixes could address the civilian harm without conceding strategic ground.",
+            "Second, the broader deterrent posture may reduce larger-scale war. One, the 2025 escalation was halted by a ceasefire, showing escalation control still works; two, visible military readiness can prevent worse attacks and larger civilian casualties; three, localized suffering is tragic but still smaller than the damage from a full interstate war between two nuclear powers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether border militarization is judged by strategic deterrence or by the civilian costs it imposes on the frontier. Prop wins if it shows the state is systematically offloading risk onto civilians and that this is not a one-off failure but a recurring feature of the conflict; opp wins if it reframes the problem as a fixable governance gap rather than an indictment of the security posture itself.",
+      "stock_connections": [
+        "Militarization of civilian life",
+        "Security dilemma",
+        "Failed state protection",
+        "Civilian harm externalization",
+        "Center-periphery neglect",
+        "Trauma and social dislocation",
+        "Compensation failure",
+        "Asymmetric burden of conflict"
+      ],
+      "motion_areas": [
+        "TH, as India, would prioritize civilian bunkers and compensation in border conflict zones over further militarization",
+        "THBT states in active territorial disputes should be held financially liable for civilian losses caused by their military operations",
+        "THP a world where border civilians can sue governments for inadequate wartime protection",
+        "TH, as a government facing recurring cross-border shelling, would invest in civilian shelters rather than symbolic ceasefire diplomacy"
+      ],
+      "data_points": [
+        "Operation Sindoor was launched on May 7, 2025, after a militant attack killed 26 tourists in Indian-administered Kashmir",
+        "Pakistan’s shelling across the LoC began on the night of May 7-8, 2025",
+        "Over 60,000 civilians were moved out of border areas on May 10, 2025",
+        "Uri is described as being about six miles from the LoC",
+        "Local MLA Sajjad Shafi said only 40% of compensation applicants had received benefits",
+        "Residents report the nearest bunker can be 500 meters away from some homes",
+        "Some families built bunkers with private funds, including one resident who sold her only pair of gold earrings",
+        "The article says government bunker construction largely stopped after the 2000s despite population growth"
+      ]
+    },
+    {
+      "id": "01d15a2cfcf1",
+      "title": "US-Iran Escalation Threatens an Oil Shock While Exposing the Limits of Military Coercion",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/iran-war-endgame-no-good-options-for-trump-by-james-k-galbraith-2026-05",
+      "published": "2026-05-06T17:01:36Z",
+      "category": "Econ",
+      "region": "United States / Iran / Global energy markets",
+      "background": "The article discusses a confrontation described as a \"three-day war on Iran\" that is now more than nine weeks old, even though the White House has declared it \"over\" while threats continue. It argues that the most likely endgame is that Iran will prevail, oil prices will fall, and US private-equity interests that profited from the war will suffer losses. The piece frames the conflict as one where the US may be unable to secure a durable victory despite escalation.",
+      "prop_args": [
+        {
+          "thesis": "Escalating pressure on Iran is more likely to backfire economically than to deliver a strategic win, because it raises costs, destabilizes markets, and fails to produce a durable coercive settlement.",
+          "mechanisms": [
+            "First, the confrontation increases energy-market volatility. This is because (1) Iran sits on a major share of global oil supply and any threat to shipping or production raises risk premiums immediately, (2) traders price in worst-case disruption even before barrels are actually lost, and (3) higher volatility feeds through to transport, manufacturing, and inflation expectations across the global economy.",
+            "Second, coercion is structurally weak against a state that can absorb pain and wait out US political cycles. Three reasons: one, Iran can impose asymmetric costs through regional proxies and maritime disruption; two, the US faces a short attention span and domestic pressure to de-escalate once prices rise; three, if Washington cannot credibly commit to a long occupation or regime-change path, threats lose bargaining power.",
+            "Third, the war can destroy the very financial actors that benefit from it in the short run. This matters because (1) war-linked private-equity and speculative positions depend on sustained instability and elevated prices, (2) if the conflict ends without regime change, those bets unwind sharply, and (3) the resulting losses can spill into broader credit and investment markets tied to energy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "US escalation can still produce leverage over Iran and protect broader energy security by signaling costs, deterring further aggression, and forcing a more favorable regional balance.",
+          "mechanisms": [
+            "First, military pressure can restore deterrence. One, if Iran believes attacks on shipping, allies, or infrastructure will trigger direct retaliation, it has less room to escalate; two, credible force can raise the expected cost of continued confrontation; three, even partial deterrence reduces the probability of a wider regional war that would be far more damaging to oil markets.",
+            "Second, the US and its partners can offset supply shocks better than Iran can sustain them. One, strategic reserves and allied production can cushion short-term disruptions; two, higher prices incentivize non-Iranian output and substitution over time; three, if Iran's economy is more fragile than the US-led coalition's, prolonged pressure may force concessions before markets fully break.",
+            "Third, the conflict may ultimately strengthen US bargaining power rather than weaken it. One, if Iran is isolated diplomatically and financially, it has fewer external backers; two, the threat of continued strikes can push Tehran toward negotiations; three, even without regime change, a constrained Iran is less able to project power across the Gulf."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether force creates durable leverage or merely short-term volatility. Prop wins if the round centers on structural limits to coercion and the asymmetric ability of Iran to absorb pain, while Opp wins if they prove the US can credibly cap escalation and manage oil-market spillovers with reserves, allies, and deterrence.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Oil Shock",
+        "Inflationary Spiral",
+        "War Profiteering",
+        "Regime Change Failure",
+        "Asymmetric Warfare",
+        "Energy Security"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would escalate military pressure on Iran",
+        "THBT the US should prioritize coercive diplomacy over direct military confrontation with Iran",
+        "THP a world where major oil producers can be sanctioned or attacked to enforce nonproliferation",
+        "THBT states should not use military force to secure energy markets",
+        "TH, as a Western alliance, would tolerate higher short-term oil prices to deter Iran"
+      ],
+      "data_points": [
+        "\"More than nine weeks into the three-day war on Iran\"",
+        "The White House has declared the war \"over\" while threats continue",
+        "The article predicts that \"Iran will prevail\" and that \"the oil price will fall\"",
+        "US private-equity interests are described as having profited from the war"
+      ]
+    },
+    {
       "id": "e0c58a1b70a1",
       "title": "New York Wealth Tax Fight Pits Fiscal Redistribution Against Capital Flight",
       "source": "BBC",
@@ -183,6 +827,59 @@
         "New York's corporate tax rate is currently 7.25%, and Mamdani wants to raise it to 11.5%",
         "Ken Griffin bought his New York penthouse for $238m in 2019, and it remains the most expensive property purchased in the US",
         "Citadel founder Ken Griffin said he would 'double down' on Miami rather than Manhattan"
+      ]
+    },
+    {
+      "id": "45decb4715d9",
+      "title": "Europe’s Energy Shock Becomes a Test of Whether to Subsidize Fossil Fuel Demand or Accelerate the Green Transition",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/europe-should-strengthen-ets-instead-of-lowering-fuel-taxes-by-daniel-gros-2026-05",
+      "published": "2026-05-06T16:17:19Z",
+      "category": "Econ",
+      "region": "Europe / Global",
+      "background": "The article argues that Europe’s response to a major energy shock triggered by the Iran war has been the wrong policy mix. It says global oil prices rose to nearly $115 per barrel at the beginning of May 2026, putting pressure on European households and firms, while low-income countries were hit even harder. The author criticizes European governments for lowering fuel taxes and instead urges them to strengthen emissions pricing through the EU Emissions Trading System (ETS), which would discourage fossil fuel use, support renewables, and raise public revenue.",
+      "prop_args": [
+        {
+          "thesis": "Europe should use the energy shock to accelerate decarbonization rather than cushion fossil fuel consumption with tax cuts.",
+          "mechanisms": [
+            "First, lowering fuel taxes blunts the price signal that drives energy substitution. This is because (1) consumers face less incentive to reduce driving or heating demand, (2) firms delay investment in efficiency and electrification, and (3) governments lock in higher fossil fuel consumption exactly when prices should be pushing behavior toward cleaner alternatives.",
+            "Second, strengthening the ETS is fiscally and structurally superior to ad hoc subsidies. Three reasons: one, it preserves public revenue instead of draining budgets; two, it targets the externality by making pollution more expensive; three, it creates predictable long-run incentives for renewables, grids, and storage investment.",
+            "Third, the shock is an opportunity to reduce Europe’s strategic vulnerability to imported fossil fuels. This matters because every euro spent on oil and gas imports deepens exposure to geopolitical supply shocks, while faster electrification and efficiency reduce dependence on volatile external suppliers."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "In the middle of an acute energy shock, governments should prioritize affordability and economic stability over long-run carbon pricing discipline.",
+          "mechanisms": [
+            "First, fuel tax cuts protect households and firms from immediate welfare losses. One, energy is a near-essential input, so price spikes quickly hit transport, food, and heating costs; two, lower-income households spend a larger share of income on energy and are least able to absorb the shock; three, cushioning demand prevents a sudden drop in consumption that can trigger recessionary spillovers.",
+            "Second, strengthening the ETS during a crisis can be politically and economically counterproductive. One, it risks being seen as elite climate policy imposed during hardship, which can fuel backlash and anti-green politics; two, higher carbon prices can intensify inflation when central banks are already constrained; three, a poorly timed green push may reduce compliance and undermine the legitimacy of the transition."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term affordability and long-term structural resilience. Prop wins if the round is about whether governments should use crises to entrench better incentives, because the ETS approach preserves revenue and reduces import dependence; Opp wins if the judge prioritizes immediate distributional pain and recession risk from energy price spikes.",
+      "stock_connections": [
+        "Carbon Pricing",
+        "Externalities",
+        "Moral Hazard",
+        "Energy Security",
+        "Inflationary Shocks",
+        "Distributional Justice",
+        "Green Transition",
+        "Fossil Fuel Subsidies",
+        "Path Dependence"
+      ],
+      "motion_areas": [
+        "TH, as European governments, would strengthen carbon pricing rather than cut fuel taxes during an energy shock",
+        "THBT states should not subsidize fossil fuel consumption in response to energy price spikes",
+        "THP a world where the EU uses crises to accelerate the green transition",
+        "THBT governments should prioritize long-term decarbonization over short-term energy affordability in times of crisis"
+      ],
+      "data_points": [
+        "Crude oil reached nearly $115 per barrel at the beginning of May 2026",
+        "The article attributes the shock to the Israel-United States war on Iran, which began in February 2026",
+        "Low-income countries are described as being hit hardest by the energy shock",
+        "The EU Emissions Trading System is presented as the preferred policy tool over fuel tax cuts"
       ]
     },
     {
@@ -297,6 +994,644 @@
       ]
     },
     {
+      "id": "0cc2d918412f",
+      "title": "Pulling South Korea Into U.S.-China Rivalry Undermines Peninsula Deterrence and Triggers More Chinese Coercion",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/china-us-south-korea-alliance-military-diplomacy/",
+      "published": "2026-05-06T15:05:14Z",
+      "category": "IR",
+      "region": "China / South Korea / United States",
+      "background": "On March 27, China announced a 40-day closure of five airspace zones across roughly 340 miles of the disputed Yellow Sea and East China Sea, affecting areas where U.S. and South Korean aircraft operate. The article argues this fits a broader pattern of Chinese gray-zone pressure around South Korea’s KADIZ and the Yellow Sea Provisional Measures Zone, with combined KADIZ and PMZ incidents reaching 490 in 2023 and 420 in 2024. It links the rise in incidents to shifts in South Korea’s alignment with Washington, including the 2017 THAAD deployment, the 2021 Biden-Moon summit, the 2023 Camp David trilateral, and U.S. demands under the Trump administration for Seoul to take more responsibility for peninsula defense while allowing U.S. Forces Korea flexibility for China contingencies.",
+      "prop_args": [
+        {
+          "thesis": "The U.S. should stop dragging South Korea into anti-China strategy because doing so directly weakens the alliance’s core mission of deterring North Korea.",
+          "mechanisms": [
+            "First, alliance overextension creates a mission conflict. This is because (1) Seoul has finite military bandwidth and must spend more time intercepting Chinese incursions, (2) every public alignment with Washington on Taiwan or Indo-Pacific strategy invites more Chinese gray-zone pressure, and (3) that pressure pulls South Korean air and naval assets away from the peninsula mission and into constant crisis management.",
+            "Second, the strategy predictably triggers Chinese retaliation without producing meaningful leverage over Beijing. Three reasons: one, China has already shown it responds to South Korean alignment with calibrated military coercion rather than backing down; two, the retaliation is cheap for Beijing but expensive for Seoul because it forces repeated interceptions and maintenance strain; three, Washington can externalize the costs onto an ally, so it has weak incentives to moderate its demands unless it changes course.",
+            "Third, a peninsula-focused alliance is structurally better for deterrence. This matters because (1) North Korea is the direct and immediate threat, (2) South Korea’s ability to lead on deterrence depends on an unencumbered military posture, and (3) reducing China-facing tasks improves readiness, preserves escalation control, and makes wartime operational transfer more credible."
+          ]
+        },
+        {
+          "thesis": "Washington should give Seoul more autonomy to hedge with Beijing, because that lowers Chinese pressure and lets South Korea concentrate on North Korea.",
+          "mechanisms": [
+            "First, strategic ambiguity reduces provocation. This works because (1) Beijing’s coercion rises when Seoul publicly endorses U.S. positions on Taiwan or hosts China-facing U.S. operations, (2) quieter diplomacy and calibrated public statements give China less justification for retaliation, and (3) that lowers the frequency of KADIZ and PMZ incidents.",
+            "Second, burden-shifting only works if the ally is politically and operationally sustainable. Three reasons: one, South Korea is already increasing defense spending and preparing wartime operational control transfer; two, it cannot do that while absorbing near-daily Chinese pressure; three, genuine autonomy improves alliance resilience by making Seoul more willing, not less willing, to lead on the peninsula.",
+            "Third, de-escalation mechanisms are cheaper than militarized competition. This matters because hotlines, incident-at-sea procedures, and back-channel diplomacy can prevent accidental escalation in a zone with hundreds of annual encounters, while preserving deterrence against Pyongyang."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pulling South Korea into the U.S. Indo-Pacific strategy is necessary because deterrence against China and North Korea are now linked, and alliance credibility depends on Seoul sharing the burden.",
+          "mechanisms": [
+            "First, the security environment is integrated. (1) China’s military pressure on South Korea is part of a wider regional pattern seen in the South China Sea, around the Senkakus, and in the Tasman Sea; (2) if Washington treats these theaters separately, Beijing can exploit gaps and isolate allies; (3) tying Seoul into the broader coalition creates a more credible regional balancing front.",
+            "Second, burden-sharing is essential for U.S. force posture. (1) Washington cannot indefinitely carry the full cost of peninsula defense while also preparing for Taiwan contingencies; (2) asking Seoul to take primary responsibility for North Korea is rational if the U.S. wants flexibility elsewhere; (3) alliance modernization requires South Korea to accept some exposure to China-related risk as the price of U.S. support.",
+            "Third, accommodating Beijing may invite more, not less, coercion over time. This matters because (1) China’s pattern is to test resolve when states hedge, (2) concessions can be read as weakness and encourage further gray-zone pressure, and (3) a firmer alliance posture may deter China by raising the political and military cost of harassment."
+          ]
+        },
+        {
+          "thesis": "South Korea cannot be allowed to prioritize de-escalation with China over deterrence, because that would create alliance free-riding and weaken the anti-North Korea mission.",
+          "mechanisms": [
+            "First, hedging can dilute alliance commitments. (1) If Seoul is given too much latitude, it may avoid taking positions that Washington needs on Taiwan, Japan, or regional security coordination; (2) that undermines interoperability and strategic trust; (3) it leaves the U.S. carrying the burden of deterrence without reliable allied support.",
+            "Second, Chinese pressure is not solely caused by U.S. policy. (1) Beijing opposes any strengthening of the U.S.-South Korea alliance regardless of whether it is aimed at North Korea or China; (2) therefore, backing away from Washington may not eliminate coercion; (3) if pressure persists anyway, Seoul should at least gain the strategic benefits of alignment with the stronger coalition.",
+            "Third, military readiness can be improved without retreating from the China issue. (1) South Korea can invest in drones, missile defense, and retaliatory strike capabilities; (2) it can absorb gray-zone pressure while hardening its forces; (3) the answer is capacity-building, not strategic decoupling from U.S. regional goals."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Chinese coercion is a manageable side effect of alliance modernization or a direct tax that makes peninsula deterrence less credible. Prop wins if the judge prioritizes mission focus and sees South Korea’s finite readiness as the binding constraint; opp wins if they think alliance credibility and regional balancing against China outweigh the added friction.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Alliance Entanglement",
+        "Burden Sharing",
+        "Gray-Zone Conflict",
+        "Deterrence Theory",
+        "Escalation Management",
+        "Balancing vs Bandwagoning",
+        "Alliance Credibility"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize peninsula-focused deterrence over integrating South Korea into its China strategy",
+        "THBT the United States should allow South Korea greater strategic autonomy in managing relations with China",
+        "THP a world where U.S. allies are not required to take public positions on Taiwan in exchange for security guarantees"
+      ],
+      "data_points": [
+        "China announced a 40-day closure of five airspace zones over roughly 340 miles of the Yellow Sea and East China Sea on March 27",
+        "South Korea’s combined KADIZ and PMZ incidents with China reached 490 in 2023, then 420 in 2024",
+        "Chinese military aircraft entered KADIZ between 50 and 140 times annually from 2016 to 2020",
+        "The Yellow Sea Provisional Measures Zone spans 150,000 square miles",
+        "South Korea’s 2026 defense budget request included an 8.2 percent increase",
+        "South Korea pledged $350 billion in U.S. investment and $25 billion in military equipment purchases by 2030",
+        "The U.S. and South Korea agreed to certify a key milestone in transferring wartime operational control by the end of 2026",
+        "In February, U.S. F-16s launched from Osan Air Base approached China’s ADIZ over the Yellow Sea, prompting Chinese fighter scrambles"
+      ]
+    },
+    {
+      "id": "adff472ea632",
+      "title": "Restoring Local Democracy Is Framed as the Only Plausible Path to Democratizing Russia",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/russia-democracy-at-local-government-level-can-spread-upward-by-roger-myerson-2026-05",
+      "published": "2026-05-06T14:32:48Z",
+      "category": "IR",
+      "region": "Russia",
+      "background": "The article argues that Russia’s democratization should begin at the local level, rather than through a top-down national transition. It invokes the American and French Revolutions as historical examples of democracy growing from local political institutions, and frames Vladimir Putin’s rule as a corrupt dictatorship that would need to be challenged through empowered local councils elected by residents. The piece is published in the context of broader debates about authoritarian resilience and post-Putin political transition in Russia.",
+      "prop_args": [
+        {
+          "thesis": "Rebuilding local democracy is the most credible way to create durable democratic change in Russia because it creates institutions, incentives, and political habits that can outlast any single leader.",
+          "mechanisms": [
+            "First, local elections create a pipeline of democratic elites. This is because (1) they let opposition figures gain governing experience outside the Kremlin, (2) they build networks of accountable politicians who can scale upward, and (3) they reduce the regime's monopoly on political recruitment by normalizing competition at the municipal level.",
+            "Second, local self-government weakens authoritarian control from the center. Three reasons: one, it disperses power across many offices that are harder to repress simultaneously; two, it gives citizens concrete arenas to organize around service delivery and corruption; three, it makes central propaganda less effective because people can directly compare official claims with local performance.",
+            "Third, local democracy can spread upward into national change. This matters because democratic norms are more likely to survive when they are embedded in everyday governance, and because a future transition is more likely to be peaceful if institutions already exist that can absorb power without a vacuum."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pushing for local democracy in Russia is unlikely to matter under an entrenched authoritarian center and may even strengthen the regime by creating controlled outlets for dissent.",
+          "mechanisms": [
+            "First, the Kremlin can neutralize local democracy without conceding real power. One, it can recentralize authority through legal and fiscal controls; two, it can disqualify or co-opt local challengers; three, it can allow symbolic elections while keeping security, media, and budget power centralized.",
+            "Second, local democracy may fragment opposition rather than build it. One, local actors often compete over narrow municipal issues instead of forming a national coalition; two, the regime can exploit local divisions and patronage networks; three, uneven local victories can be portrayed as isolated exceptions rather than a systemic alternative.",
+            "Third, democratization pressure at the local level may provoke repression. One, the state can treat local organizing as a threat to territorial integrity; two, activists become easier to identify and target in smaller communities; three, failed local experiments can be used as propaganda to argue that democracy produces chaos and inefficiency."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether local institutions can survive long enough to become a genuine democratizing force. Prop wins if you believe institutional spillover and elite socialization matter more than immediate regime resistance; opp wins if you think the Kremlin’s centralized coercive capacity can absorb or crush local reform before it scales.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Authoritarian Resilience",
+        "Bottom-up Democratization",
+        "Institution Building",
+        "Civil Society Mobilization",
+        "Centralization vs Decentralization",
+        "Elite Socialization",
+        "Regime Legitimacy"
+      ],
+      "motion_areas": [
+        "TH, as the Russian opposition, would prioritize local democracy over immediate national elections",
+        "THBT democratization in authoritarian states should begin at the municipal level",
+        "THP a world where opposition movements build power through local councils before contesting national office"
+      ],
+      "data_points": [
+        "The article explicitly frames Putin’s rule as a 'corrupt dictatorship'",
+        "It cites the American Declaration of Independence as an example of empowering 'local councils elected by the people'",
+        "It references the American and French Revolutions as contrasting historical paths where democracy grew most steadily from local politics"
+      ]
+    },
+    {
+      "id": "5dcae3db002c",
+      "title": "China-Japan Rivalry Shifts From Diplomatic Friction to Military Escalation Spiral",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/china-and-japan-are-entering-a-more-dangerous-phase-of-rivalry/",
+      "published": "2026-05-06T14:32:00Z",
+      "category": "IR",
+      "region": "China / Japan / Taiwan Strait / Western Pacific",
+      "background": "In November 2025, Japanese Prime Minister Takaichi Sanae said a Chinese attack on Taiwan could constitute a “survival-threatening situation” for Japan, a legal threshold that could justify deploying the Self-Defense Forces. In March 2026, Japan deployed upgraded Type-12 land-to-ship missiles with a range of about 1,000 km, and Beijing also objected to reported plans to place missiles on Yonaguni, about 110 km from Taiwan. Tensions worsened after the JS Ikazuchi transited the Taiwan Strait on April 17, 2026, followed by Chinese combat-readiness patrols and warships near Okinawa, while Tokyo also expanded defense reforms, arms-export rules, and debate over nuclear policy.",
+      "prop_args": [
+        {
+          "thesis": "Japan’s harder security posture is a necessary deterrent that reduces Chinese coercion by making any Taiwan contingency more costly and less predictable for Beijing.",
+          "mechanisms": [
+            "First, Japan raises the military price of coercion. This is because (1) longer-range Type-12 missiles and possible Yonaguni deployments extend Japan’s standoff reach into the East China Sea, (2) transits through the Taiwan Strait signal operational willingness to act beyond passive defense, and (3) Beijing must now plan for a wider First Island Chain response rather than assuming Japan will stay inert.",
+            "Second, Japan improves alliance credibility and crisis signaling. Three reasons: one, the U.S.-Japan alliance becomes more believable when Tokyo shows it can contribute meaningfully to regional defense; two, clearer Japanese red lines around Taiwan reduce ambiguity that China could exploit; three, stronger signaling can deter gray-zone escalation by showing that coercion will not be cost-free.",
+            "Third, this strengthens the regional balance of power. This matters because a more capable Japan distributes China’s attention across multiple theaters, forces Beijing to spend more on defense and readiness, and gives other states like India and Southeast Asian partners more confidence to resist Chinese pressure."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Japan’s military normalization is destabilizing because it increases Chinese threat perceptions, accelerates arms racing, and makes crisis miscalculation more likely.",
+          "mechanisms": [
+            "First, it triggers worst-case assumptions on both sides. One, Japan’s missile upgrades, defense-spending increases, and nuclear ambiguity are read in Beijing as preparation for war; two, China responds with patrols, condemnations, and counter-deployments, creating a classic security dilemma; three, each side then interprets defensive moves as offensive intent.",
+            "Second, it erodes the political restraints that previously managed rivalry. One, Takaichi’s Taiwan comments and Yasukuni offerings are interpreted in China as neo-militarist symbolism, not routine domestic politics; two, this makes compromise politically harder for Beijing and Tokyo; three, historical grievance becomes fused with military competition, reducing room for de-escalation.",
+            "Third, escalation creates broader regional spillovers. One, a Taiwan Strait or East China Sea crisis would disrupt shipping, supply chains, and technology flows; two, it raises the probability of accidental clashes involving ships, aircraft, or missiles; three, even without war, the region becomes less investable and more polarized."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Japanese rearmament deters Chinese coercion or instead locks both sides into a security dilemma. Pro side wins if the judge prioritizes long-run balance-of-power stability; opposition wins if they emphasize how quickly symbolic and military signaling can spiral into crisis under conditions of mistrust.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Arms Race",
+        "Deterrence Theory",
+        "Balance of Power",
+        "Escalation Spiral",
+        "Nationalism",
+        "Historical Grievance",
+        "Alliance Credibility",
+        "Proliferation Risk",
+        "Regional Instability"
+      ],
+      "motion_areas": [
+        "TH, as Japan, would adopt a harder military posture toward China",
+        "THBT Japan should abandon post-war military restraint in response to Chinese coercion",
+        "THP a world where Japan becomes a more active military actor in the Taiwan Strait",
+        "THBT rising powers should prioritize deterrence over diplomatic restraint when facing a revisionist neighbor"
+      ],
+      "data_points": [
+        "November 2025: Takaichi said a Chinese attack on Taiwan could be a “survival-threatening situation” for Japan",
+        "March 2026: Japan deployed upgraded Type-12 land-to-ship missiles with a range of about 1,000 km",
+        "Yonaguni is about 110 km from Taiwan",
+        "April 17, 2026: JS Ikazuchi transited the Taiwan Strait",
+        "Japan reached its target of defense spending at 2% of GDP under the 2022 plan",
+        "Japan’s April 2026 arms-export rule change removed restrictions that had confined exports to five non-combat categories",
+        "April 30, 2026: China issued a working paper warning about Japan’s “nuclear ambitions”",
+        "Japan’s 2026 Diplomatic Bluebook downgraded China from “one of the most important bilateral relations” to an “important neighboring country”"
+      ]
+    },
+    {
+      "id": "833e2960cdc8",
+      "title": "Iraq’s Next Government Faces a Sovereignty Test as Iran-Backed Militias, U.S. Strikes, and Gulf Drone Attacks Collide",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/06/iraq-politics-amidi-al-zaidi-kurd-iran-war-militia/",
+      "published": "2026-05-06T14:11:04Z",
+      "category": "IR",
+      "region": "Iraq / Iran / United States / Gulf States",
+      "background": "On April 9, 2026, the U.S. summoned Iraq’s ambassador over what it called “egregious terrorist attacks” by Iran-aligned militias launched from Iraqi territory against U.S. diplomatic personnel and facilities. On the same day, Bahrain, Saudi Arabia, and Kuwait also summoned Iraqi diplomats after drones launched from Iraq hit their territory. Two days later, Iraq’s parliament elected Nizar Amidi president, more than two months after the constitutional deadline, and on April 27 the Coordination Framework nominated Ali al-Zaidi for prime minister, also after missing the deadline. The article says Iraq’s PMU remains heavily funded by the state, with budgets up to $3.6 billion annually, while candidates linked to it won about 50 seats in November’s election.",
+      "prop_args": [
+        {
+          "thesis": "Iraq must confront and roll back militia power now, because continued accommodation turns the state into a platform for regional proxy war and destroys any meaningful sovereignty.",
+          "mechanisms": [
+            "First, tolerating militias creates a self-reinforcing sovereignty trap. This is because (1) armed groups can launch drones and attacks from Iraqi soil without accountability, (2) the state’s weak judiciary and cowed law enforcement cannot punish them, and (3) every unpunished strike teaches militias that Baghdad cannot enforce a monopoly on force.",
+            "Second, militia empowerment directly internationalizes Iraq’s insecurity. Three reasons: one, attacks from Iraqi territory trigger U.S. retaliation and Gulf diplomatic pressure; two, that retaliation then weakens Iraqi institutions and damages civilian infrastructure; three, neighboring states begin treating Iraq as an extension of Iran’s battlefield rather than a sovereign actor.",
+            "Third, the long-run cost is state capture and economic strangulation. This matters because Iraq is already dependent on Iranian gas and electricity, has had access to U.S. dollars suspended, and is paying the price through a crippled economy, meaning every concession to militias deepens dependency and reduces Baghdad’s room to govern independently."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Cracking down hard on militias is likely to backfire, because Iraq’s political system is too fragmented and infiltrated to absorb a direct confrontation without triggering civil conflict and state collapse.",
+          "mechanisms": [
+            "First, the Iraqi state lacks the coercive capacity to win. One, militias are embedded inside the PMU and parliament, so any crackdown becomes an intra-elite war rather than a clean law-enforcement operation; two, previous governments under Kadhimi and Sudani avoided action for fear of bloodletting; three, a failed crackdown would expose the state as weak and invite even more defiance.",
+            "Second, external pressure can worsen the problem by hardening militia narratives. One, U.S. rewards, sanctions, and possible targeted killings let militias frame themselves as resisting foreign domination; two, that boosts recruitment and public sympathy among constituencies already suspicious of Washington; three, it pushes Iraq further into the Iran-U.S. confrontation instead of insulating it.",
+            "Third, the militias also provide real governance and security functions that the state cannot easily replace. One, some PMU elements protect holy sites and local order; two, they were institutionalized during the anti-ISIS war and are now part of the post-2017 security settlement; three, abruptly dismantling them risks creating security vacuums in areas where the state cannot deploy credible alternatives."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether sovereignty is best protected by coercive centralization or by avoiding a violent rupture the state cannot win. Prop has the stronger long-term structural case because militia accommodation entrenches dependency and external intervention, but Opp can win if it proves that immediate state weakness makes confrontation self-defeating and more destabilizing than the status quo.",
+      "stock_connections": [
+        "State monopoly on violence",
+        "Proxy war",
+        "Sovereignty erosion",
+        "State capture",
+        "Security dilemma",
+        "Foreign intervention backlash",
+        "Militia politics",
+        "Institutional weakness",
+        "Dependency theory",
+        "Civil-military relations"
+      ],
+      "motion_areas": [
+        "TH, as Iraq, would crack down on Iran-aligned militias even at the risk of short-term instability",
+        "THBT fragile states should prioritize sovereignty over short-term security bargains with armed non-state actors",
+        "THP a world where external powers can sanction and target militia leaders operating inside weak states",
+        "THBT Iraq should expel or disarm all armed groups outside direct state command"
+      ],
+      "data_points": [
+        "U.S. and Gulf states summoned Iraqi diplomats on April 9, 2026 over drone and militia attacks launched from Iraqi territory",
+        "Nizar Amidi was elected president more than two months after Iraq’s constitutional deadline",
+        "Ali al-Zaidi was nominated prime minister on April 27, 2026, one day after the constitutional deadline",
+        "Iraq’s PMU has received budgets up to $3.6 billion annually",
+        "Candidates directly linked to the PMU won about 50 seats in Iraq’s November election",
+        "The U.S. announced four $10 million rewards for information on Iraqi militia leaders",
+        "The article says U.S. special waiver access for Iraqi purchases of Iranian gas was terminated after the war began",
+        "Iraq’s access to U.S. dollars has been suspended"
+      ]
+    },
+    {
+      "id": "85b6c874a209",
+      "title": "U.S. China Expertise Pipeline Collapses, Raising the Risk of Strategic Miscalculation",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/the-us-is-running-dangerously-low-on-china-expertise/",
+      "published": "2026-05-06T13:31:00Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "A 2026 USCET working group report argues that the pipeline of Americans with firsthand China experience is shrinking sharply. The report estimates that only around 2,000 Americans are studying in China in 2026, down from 11,000 in 2019, with most current stays being short-term rather than long-term study. It says the decline is driven by both China’s more restrictive academic environment and U.S. cuts to funding plus tighter campus engagement rules. The report warns that as current China hands retire, the next generation of U.S. policymakers, scholars, and business leaders will be far less grounded in firsthand knowledge of China.",
+      "prop_args": [
+        {
+          "thesis": "The U.S. should actively rebuild China expertise because without firsthand knowledge, Washington will make worse strategic, military, and economic decisions.",
+          "mechanisms": [
+            "First, it improves decision quality in high-stakes diplomacy and crisis management. This is because (1) China is a rapidly changing system where remote reporting and stale assumptions quickly become outdated, (2) firsthand exposure lets analysts read signaling, internal incentives, and bureaucratic behavior more accurately, and (3) better information reduces the chance that U.S. leaders misread deterrence, escalation, or bargaining positions.",
+            "Second, it protects U.S. competitiveness in trade, technology, and supply chains. Three reasons: one, firms and officials need current, granular knowledge of Chinese industrial policy and market shifts; two, over-reliance on secondhand information increases the chance of bad investment and sourcing decisions; three, better expertise helps the U.S. anticipate Chinese responses to sanctions, export controls, and industrial policy.",
+            "Third, it preserves a long-term national capability that cannot be rebuilt overnight. This matters because (1) expertise is path dependent and takes years of language training and in-country immersion, (2) once the pipeline collapses there is a generational gap when current China hands retire, and (3) the cost of ignorance compounds across government, academia, media, and business."
+          ]
+        },
+        {
+          "thesis": "Targeted support for China study and research access is necessary because current security policy is overbroad and is choking off low-risk academic work that the U.S. still needs.",
+          "mechanisms": [
+            "First, blanket restrictions create collateral damage far beyond sensitive STEM research. This is because (1) compliance burdens now hit historians, political scientists, and Chinese heritage scholars, (2) even low-risk projects face bureaucratic hurdles that deter participation, and (3) study-abroad and field research programs become less viable when approvals are slow and uncertain.",
+            "Second, differentiated rules can protect security without destroying knowledge production. Three reasons: one, genuinely sensitive tech transfer can still be screened; two, social science and humanities research often poses far lower leakage risk; three, targeted protocols preserve academic exchange while still addressing espionage concerns.",
+            "Third, preserving institutional footholds in China matters strategically. This matters because (1) joint campuses and academic centers are rare access points for Americans on the ground, (2) once these outposts close they are hard to recreate, and (3) they serve as long-term channels for research, language acquisition, and elite networks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The U.S. should accept a smaller China-expertise pipeline because tighter restrictions are a necessary tradeoff for national security and reduced dependence on an adversary.",
+          "mechanisms": [
+            "First, security screening prevents real harm from technology leakage and influence operations. One, China has strong incentives to acquire sensitive U.S. research and talent; two, universities are weakly equipped to police dual-use risks on their own; three, broad caution is rational when the downside includes military and strategic advantage for a rival.",
+            "Second, the U.S. can substitute remote analysis and allied expertise for direct in-country exposure. One, open-source intelligence, satellite data, and digital research still provide substantial information; two, Taiwan, Japan, Europe, and diaspora communities can partially replace mainland access; three, modern analytics reduce the necessity of physical presence for many policy questions.",
+            "Third, over-investing in China expertise can create its own policy bias and vulnerability. One, scholars who spend time in China may be more susceptible to access-based self-censorship or elite capture; two, a narrow China-specialist class can overemphasize engagement over deterrence; three, reducing dependence on China knowledge can push the U.S. to diversify supply chains and strategic priorities."
+          ]
+        },
+        {
+          "thesis": "China itself is the main cause of the expertise decline, so the U.S. cannot solve the problem unilaterally and should not overcorrect.",
+          "mechanisms": [
+            "First, Beijing’s securitized environment makes meaningful fieldwork harder regardless of U.S. policy. One, tighter controls on academics and foreigners reduce access to reliable information; two, surveillance and political risk deter long-term study; three, even well-funded programs cannot force China to reopen.",
+            "Second, the market is already adapting away from China-centric careers. One, students and institutions respond to career incentives, and current incentives reward safer, broader regional or technical specializations; two, government and private employers may prefer candidates without China exposure because of clearance concerns; three, if the pipeline is shrinking naturally, heavy subsidies may be inefficient.",
+            "Third, the U.S. should prioritize resilience over expertise concentration. One, too much institutional focus on one rival creates strategic monoculture; two, diversified area studies and supply-chain resilience may matter more than deep China immersion; three, policy capacity can be built through teams rather than a small elite of China hands."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether China expertise is a strategic asset that meaningfully changes outcomes, or a luxury that can be substituted by remote intelligence and tighter security. Prop wins if you believe miscalculation costs are huge and expertise takes years to rebuild; Opp wins if you think security risks from campus access and tech leakage outweigh the informational gains.",
+      "stock_connections": [
+        "Information asymmetry",
+        "Strategic miscalculation",
+        "National security vs civil liberties",
+        "Soft power",
+        "Brain drain",
+        "Race to the bottom",
+        "Institutional capacity",
+        "Dependency theory"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would substantially increase funding for China studies and in-country academic exchange",
+        "THBT the U.S. government should relax restrictions on low-risk academic collaboration with China",
+        "THP a world where universities are required to preserve China-focused fieldwork and study-abroad pipelines",
+        "THBT national security concerns should not justify broad restrictions on China-related academic research",
+        "TH, as the U.S., would treat China expertise as a national security priority"
+      ],
+      "data_points": [
+        "Around 2,000 Americans are estimated to be studying in China in 2026",
+        "11,000 U.S. students were studying in China in 2019",
+        "Since the pandemic, Americans in China have hovered in the mid-hundreds to low-thousands",
+        "The USCET report consulted over 50 organizations with a stake in the China-expertise pipeline",
+        "The report was published in 2026 and warns of a generational gap as current China hands retire"
+      ]
+    },
+    {
+      "id": "f691df87b3b4",
+      "title": "Southeast Asia Scam Compounds Expose the Failure to Treat Trafficked Workers as Victims, Not Criminals",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/southeast-asias-scam-compounds-how-the-law-fails-survivors/",
+      "published": "2026-05-06T13:15:00Z",
+      "category": "IR",
+      "region": "Southeast Asia / United States / ASEAN",
+      "background": "On April 23, 2026, U.S. authorities including the Department of Justice, Treasury’s OFAC, and the State Department announced coordinated actions against Southeast Asian scam centers and crypto fraud networks, including seizing a Telegram channel allegedly used to recruit trafficking victims. The article says at least 300,000 people from around 66 countries have been trafficked into scam compounds across Southeast Asia, with annual revenues of roughly $64 billion. Victims are often recruited through Facebook, LinkedIn, Telegram, or WhatsApp for fake customer service or IT jobs, then have their passports confiscated and are forced to commit fraud under violence and debt bondage.",
+      "prop_args": [
+        {
+          "thesis": "States should treat scam-compound workers primarily as trafficking victims, because criminalizing them protects the real organizers and entrenches the trafficking economy.",
+          "mechanisms": [
+            "First, non-punishment rules increase reporting and cooperation. This is because (1) coerced workers are far more likely to identify recruiters, compound operators, and laundering routes if they know they will not be prosecuted, (2) fear of arrest keeps victims silent and therefore blocks intelligence flows to law enforcement, and (3) silence lets the highest-level organizers remain insulated while low-level forced laborers absorb the legal risk.",
+            "Second, victim-centered screening improves accuracy and reduces wrongful convictions. Three reasons: one, scam-compound victims often display the same outward behavior as willing offenders because they send fraudulent messages under orders; two, coercion indicators like passport seizure, movement restriction, debt bondage, and family threats are already recognized in trafficking standards; three, standardized screening prevents individual prosecutors from misreading survival behavior as consent.",
+            "Third, legal protection is necessary to actually dismantle the network rather than just rescue individuals. This matters because (1) the compounds are transnational trafficking hubs, not isolated scams, (2) the business model depends on a replaceable labor pool that can be continuously cycled through detention and prosecution, and (3) if returnees are re-criminalized or deported without protection, they are pushed back into vulnerability and the network keeps recruiting."
+          ]
+        },
+        {
+          "thesis": "Platforms and states should impose stronger due diligence and screening duties because the recruitment pipeline is the real choke point in the scam-compound economy.",
+          "mechanisms": [
+            "First, platform regulation can disrupt recruitment before trafficking occurs. This is because (1) the article shows victims are recruited through mainstream platforms like Facebook, LinkedIn, Telegram, and WhatsApp, (2) fake job ads and repeated violation patterns are detectable at scale, and (3) targeting recruitment is more efficient than only removing scam content after victims are already inside compounds.",
+            "Second, standardized pre-charge screening reduces state complicity in trafficking. Three reasons: one, countries of origin often receive returnees before they have been assessed for coercion; two, if authorities treat every returnee as a suspect, they effectively outsource punishment to the traffickers’ own violence and intimidation; three, clear procedures force prosecutors to ask whether the person acted under credible threat rather than assuming criminal intent from the act itself.",
+            "Third, ASEAN implementation turns soft law into enforceable protection. This matters because (1) the June 2025 ASEAN Guideline already provides indicators for coercion, (2) the current gap is not norm creation but enforcement and institutional practice, and (3) embedding these standards into charging and screening procedures creates predictable protection across borders instead of a lottery based on local discretion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Aggressive criminal enforcement against scam-compound workers is necessary because many participants are not purely coerced victims and blanket immunity would weaken deterrence and enable abuse.",
+          "mechanisms": [
+            "First, not everyone inside a compound is equally coerced. One, some recruits may initially accept the job knowing it is illegal or deceptive, two, some workers may move from victim to willing participant once inside, and three, if the law presumes victimhood too easily, organizers can launder culpable actors through trafficking claims.",
+            "Second, strict prosecution preserves deterrence against the fraud economy. One, scam compounds generate around $64 billion annually, so the expected profits are enormous, two, if workers believe they can avoid punishment, the supply of willing or semi-willing labor may rise, and three, a weak enforcement posture can normalize the industry as a low-risk criminal career path.",
+            "Third, platform and state overregulation can create false positives and compliance burdens. One, platforms cannot reliably verify coercion from online signals alone, two, broad due diligence duties may incentivize mass takedowns and overblocking of legitimate job content, and three, states with limited capacity may waste resources on screening rather than on direct raids, financial tracing, and prosecution of compound bosses."
+          ]
+        },
+        {
+          "thesis": "The best way to fight scam compounds is through hard security and financial disruption, not expanded victim-protection frameworks that may slow enforcement.",
+          "mechanisms": [
+            "First, these are organized transnational criminal enterprises that require rapid disruption. One, the compounds are protected by armed guards and cross-border networks, two, the core harm is ongoing fraud and money laundering, and three, adding complex victim-status determinations can delay raids and allow operators to relocate.",
+            "Second, financial and platform takedowns may be more effective than legal nuance. One, scam centers depend on payment rails, crypto channels, and recruitment platforms, two, sanctions and seizures can choke revenue faster than case-by-case screening, and three, law enforcement resources are finite and should prioritize dismantling infrastructure over individualized legal exceptions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether legal caution protects victims or protects criminals. Prop has the structural advantage because scam-compound operations depend on coerced labor and silence, so non-punishment and screening directly improve intelligence, accuracy, and dismantling of the network; Opp’s deterrence claim is weaker where the central labor force is already under violence and debt bondage.",
+      "stock_connections": [
+        "Non-punishment principle",
+        "Human trafficking",
+        "Forced criminality",
+        "Victim-centered justice",
+        "Transnational organized crime",
+        "Platform liability",
+        "Regulatory arbitrage",
+        "Moral hazard",
+        "Overcriminalization",
+        "State capacity"
+      ],
+      "motion_areas": [
+        "TH, as ASEAN states, would grant non-punishment protections to scam-compound survivors",
+        "THBT platforms should be legally liable for trafficking recruitment ads",
+        "THP a world where trafficking victims forced into cybercrime are presumed to be victims unless proven otherwise",
+        "THBT countries of origin should create standardized screening before prosecuting returnees from scam compounds"
+      ],
+      "data_points": [
+        "At least 300,000 people from around 66 countries have been trafficked into scam compounds across Southeast Asia",
+        "Annual revenues from cyber scam operations are estimated at around $64 billion",
+        "U.S. authorities announced coordinated actions on April 23, 2026 involving DOJ, OFAC, and the State Department",
+        "An Indonesian graduate was lured to Cambodia in March 2024 for a fake SEO job and was ordered to generate $40,000 in monthly fraud revenue",
+        "Forced criminality in the OSCE region rose from about 1% of identified trafficking victims in 2018 to 17% in 2024",
+        "The June 2025 ASEAN Guideline provides indicators for distinguishing coerced conduct from voluntary participation",
+        "The article says victims are recruited through Facebook, LinkedIn, Telegram, and WhatsApp",
+        "Passport confiscation, movement restriction, debt bondage, and family threats are listed as indicators of compulsion"
+      ]
+    },
+    {
+      "id": "be09089ac4b8",
+      "title": "India-Pakistan Crisis Management Is Breaking Down as Retaliation Becomes the New Normal",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/a-year-after-operation-sindoor-rising-risks-and-deepening-instability/",
+      "published": "2026-05-06T12:57:00Z",
+      "category": "IR",
+      "region": "India / Pakistan / Kashmir / Afghanistan / Iran borderlands",
+      "background": "On May 6-7, 2025, India launched Operation Sindoor, striking alleged terrorist infrastructure in Pakistan and Pakistan-administered Kashmir after the April 22, 2025 Pahalgam attack killed 26 male civilians, mostly Hindu. Pakistan retaliated the next day, and the exchange escalated into a four-day conflict before a ceasefire took effect on May 10. One year later, the article argues that both states have internalized a new escalation pattern: India has publicly signaled that future terror attacks will trigger swift kinetic retaliation, while Pakistan’s military and political system has become more centralized under the 27th Constitutional Amendment and General Asim Munir. The article also notes that Pakistan now faces additional pressure from tensions with Afghanistan and a fragile border with Iran, while global attention and crisis-management mechanisms are weaker than before.",
+      "prop_args": [
+        {
+          "thesis": "Operation Sindoor-style retaliation makes future deterrence more credible, reducing the incentive for Pakistan-linked terror attacks and forcing both states into clearer red lines.",
+          "mechanisms": [
+            "First, it restores deterrence by making India’s response predictable and costly. This works because (1) India has publicly committed to a 'befitting response' on its own terms, (2) it no longer needs to spend time proving attribution to the world, and (3) Pakistan can no longer rely on delay, denial, or internationalization to buy time after an attack.",
+            "Second, it narrows the strategic space for proxy warfare by raising the expected price of using militant groups. Three reasons: one, India has explicitly blurred the old distinction between non-state actors and the Pakistani state apparatus; two, strikes on terrorist infrastructure create direct operational costs for groups like Lashkar-e-Taiba and Jaish-e-Mohammed; three, repeated retaliation forces Pakistani planners to factor in immediate military consequences rather than abstract diplomatic costs.",
+            "Third, calibrated escalation can actually stabilize the rivalry because both sides learn the limits of conflict without crossing the nuclear threshold. This matters because (1) the May 2025 crisis showed that stand-off strikes can be contained, (2) both militaries gained battlefield lessons that make future signaling clearer, and (3) if each side believes escalation is manageable, they may be less likely to gamble on uncontrolled war."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The new retaliation doctrine makes South Asia more dangerous by lowering the threshold for war, compressing decision time, and normalizing escalation between two nuclear-armed states.",
+          "mechanisms": [
+            "First, it creates a hair-trigger crisis environment. One, public expectations now force Indian leaders to respond quickly after any terror attack; two, real-time media and social media amplify nationalist pressure and reduce room for restraint; three, with backchannels weakened, leaders have fewer off-ramps once violence starts.",
+            "Second, it increases the risk of miscalculation because both sides now believe escalation can be controlled. One, precision strikes and stand-off weapons reduce immediate costs and therefore increase risk appetite; two, each crisis teaches both militaries how to escalate more effectively next time; three, the 'new normal' makes surprise about timing and target selection, not whether retaliation happens, which makes signaling more dangerous and less stable.",
+            "Third, Pakistan’s internal and regional pressures make diversionary conflict more likely, not less. One, the army is more dominant after the 27th Constitutional Amendment, which can encourage militarized decision-making; two, tensions with Afghanistan and the Iran border stretch Pakistani forces and increase the temptation to use anti-India mobilization for domestic consolidation; three, external validation of figures like Asim Munir can embolden adventurism rather than restraint."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether clearer retaliation rules deter proxies or instead normalize a fast-moving India-Pakistan escalation ladder. The opposition has the structural advantage because the article’s core trend is compressed timelines, weaker diplomacy, and rising domestic pressure — all of which make accidental or politically forced escalation more likely than disciplined deterrence.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Escalation Ladder",
+        "Crisis Instability",
+        "Diversionary War",
+        "Audience Costs",
+        "Misperception",
+        "Nuclear Brinkmanship",
+        "Proxy Warfare",
+        "Civil-Military Relations"
+      ],
+      "motion_areas": [
+        "TH, as India, would adopt a doctrine of swift kinetic retaliation for major terrorist attacks",
+        "THBT nuclear-armed states should publicly commit to retaliatory strikes against cross-border terrorism",
+        "THP a world where India and Pakistan have no backchannel diplomacy during crises",
+        "THBT states should treat state-sponsored terrorism as an act of war",
+        "THBT the international community should not pressure victim states to prioritize restraint after major terror attacks"
+      ],
+      "data_points": [
+        "Operation Sindoor was launched on the night of May 6-7, 2025",
+        "The Pahalgam attack on April 22, 2025 killed 26 civilians, all male and mostly Hindu",
+        "The India-Pakistan exchange lasted four days before a ceasefire on May 10, 2025",
+        "India struck alleged terrorist infrastructure including Lashkar-e-Taiba and Jaish-e-Mohammed headquarters",
+        "Pakistan’s 27th Constitutional Amendment reduced judicial power and centralized power in the army",
+        "Pakistan has faced worsening tensions with Afghanistan since its Ghazab Lil Haq operations in February 2026",
+        "The article says many major powers did not publicly challenge India’s attribution of the Pahalgam attack to Pakistan"
+      ]
+    },
+    {
+      "id": "863e2e09a087",
+      "title": "China’s South China Sea Defiance Turns International Law Into Selective Power Politics",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/10-years-after-the-arbitration-ruling-might-makes-right-in-the-south-china-sea/",
+      "published": "2026-05-06T12:53:00Z",
+      "category": "IR",
+      "region": "South China Sea / Philippines / China / ASEAN",
+      "background": "In July 2016, an Annex VII UNCLOS tribunal ruled in favor of the Philippines against China, rejecting the legal basis of China’s nine-dash line and finding that China’s artificial islands did not generate an EEZ. The ruling also found that China had violated the Philippines’ sovereign rights and endangered vessels, but China rejected the decision and continued asserting its claims. The article says that by 2026 China still uses the nine-dash line on maps, blocked Filipino fishing access at Scarborough Shoal on April 10, and has built 3,200 acres of artificial islands in the Spratlys since 2013.",
+      "prop_args": [
+        {
+          "thesis": "China’s refusal to comply with the 2016 ruling normalizes a world where legal rules matter only when backed by force, weakening deterrence and pushing smaller states into coercive dependence.",
+          "mechanisms": [
+            "First, it destroys the credibility of UNCLOS as a binding dispute-settlement system. This is because (1) China is a major power that voluntarily signed the treaty, so non-compliance signals that even formal legal commitments are optional, (2) repeated defiance after a clear ruling teaches other states that arbitration cannot constrain revisionist behavior, and (3) once one major power ignores a judgment without cost, the precedent lowers the expected price of future violations elsewhere.",
+            "Second, it changes the bargaining environment in the South China Sea in China’s favor. Three reasons: one, China can keep using coast guard and militia pressure to create facts on the water; two, smaller states like the Philippines and Malaysia cannot match that coercive capacity without escalating militarily; three, the gap between legal rights and material power forces them to choose between surrendering claims or risking confrontation.",
+            "Third, it accelerates a broader pattern of selective internationalism that weakens the rules-based order. This matters because China can invoke international law against the United States when useful, but ignore it when constrained, which (1) makes norms look instrumental rather than universal, (2) encourages other powers to reciprocate with their own selective compliance, and (3) leaves middle and small powers with fewer reliable protections in both security and economic disputes."
+          ]
+        },
+        {
+          "thesis": "China’s behavior creates a coercive model of regional order in which economic leverage and maritime intimidation reinforce each other, making Southeast Asian states more dependent on Beijing.",
+          "mechanisms": [
+            "First, maritime harassment and infrastructure investment operate as a combined pressure strategy. This is because (1) China can threaten fishing fleets and sovereign access at sea, (2) Chinese state-owned firms can simultaneously buy stakes in domestic infrastructure on land, and (3) that combination raises the cost of resistance by making retaliation possible across multiple sectors.",
+            "Second, the asymmetry in available tools leaves ASEAN states structurally weaker than China. Three reasons: one, the article notes that Washington can use tariffs and does not rely on Chinese development finance, while many Southeast Asian states do; two, countries with smaller economies have fewer countermeasures than a great power; three, dependence on trade and capital makes them more vulnerable to punishment for legal or diplomatic pushback.",
+            "Third, this produces self-censorship inside regional institutions. This matters because ASEAN only issued a collective statement on South China Sea aggression in 2023, seven years after the ruling, and even then avoided naming China directly, showing how coercion can suppress collective action and normalize acquiescence."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China’s non-compliance does not prove the death of international law; it shows that legal rulings matter only when backed by coalition enforcement, which still exists and can be strengthened.",
+          "mechanisms": [
+            "First, the ruling still provides a legal baseline for diplomacy and coalition-building. One, the Philippines and its partners can cite a formal tribunal decision to delegitimize Chinese claims; two, legal clarity helps coordinate responses among ASEAN, the U.S., Japan, and others; three, even unenforced judgments shape reputational costs and future negotiations.",
+            "Second, China’s behavior may be costly enough to incentivize balancing rather than capitulation. One, repeated harassment can push affected states toward security partnerships and maritime capacity-building; two, the more China overreaches, the more it risks counter-coalitions and military modernization around it; three, coercion can backfire by hardening anti-China alignment.",
+            "Third, the article overstates the uniqueness of China’s conduct by treating selective compliance as a China-specific problem rather than a general feature of great-power politics. This matters because (1) major powers often violate norms when interests are high, (2) international law has always depended on enforcement by states, and (3) the proper conclusion is not that law is meaningless, but that institutions need stronger enforcement mechanisms."
+          ]
+        },
+        {
+          "thesis": "China’s actions may be aggressive, but they are strategically limited and do not automatically translate into full regional domination or the collapse of the rules-based order.",
+          "mechanisms": [
+            "First, China still faces constraints from escalation risks. One, overt military conflict with the Philippines or the U.S. could trigger broader containment; two, excessive coercion can damage China’s own trade and diplomatic interests in ASEAN; three, Beijing therefore has incentives to stay below the threshold of war, limiting how far it can convert legal defiance into outright control.",
+            "Second, smaller states are not powerless and can adapt. One, they can use legal victories to mobilize international support; two, they can diversify trade and security ties to reduce dependence; three, they can invest in coast guard and maritime surveillance rather than matching China ship-for-ship.",
+            "Third, the South China Sea dispute is not the whole of global order. This matters because even if China undermines one treaty regime, other regimes and institutions can remain functional, so the impact is serious but not system-ending."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether repeated non-compliance by a major power changes the incentives of everyone else. Prop wins if the key issue is precedent and coercive asymmetry: once China can ignore UNCLOS without meaningful cost, legal order becomes optional for all great powers. Opp wins if the clash is about enforcement capacity rather than law itself, because the ruling still arms coalitions and the system can survive selective violations if states respond collectively.",
+      "stock_connections": [
+        "Might Makes Right",
+        "Selective Compliance",
+        "Rules-Based International Order",
+        "Security Dilemma",
+        "Coercive Diplomacy",
+        "Small State Vulnerability",
+        "Great Power Revisionism",
+        "Institutional Credibility",
+        "Economic Statecraft",
+        "Sphere of Influence"
+      ],
+      "motion_areas": [
+        "TH, as ASEAN, would take a harder line against China in the South China Sea",
+        "THBT international law is only as strong as the willingness of states to enforce it",
+        "THP a world where major powers cannot selectively comply with international rulings",
+        "THBT Southeast Asian states should prioritize balancing against China over economic engagement",
+        "THBT the Philippines should internationalize the South China Sea dispute more aggressively"
+      ],
+      "data_points": [
+        "July 2016: UNCLOS Annex VII tribunal ruled in favor of the Philippines against China",
+        "China has built 3,200 acres of artificial islands in the Spratlys since 2013",
+        "April 10, 2026: Chinese vessels used floating barriers to block Filipino fishermen from Scarborough Shoal",
+        "Malaysia reported at least 270 incidents of China Coast Guard and Maritime Militia harassment or assault against ASEAN vessels since 2013",
+        "December 2025: five China Coast Guard and several Maritime Militia vessels harassed 20 Filipino fishing boats at Escoda Shoal, damaging two boats and injuring three fishermen",
+        "ASEAN did not issue a collective statement on South China Sea aggression until 2023, seven years after the ruling"
+      ]
+    },
+    {
+      "id": "8d494d70b8e1",
+      "title": "Fiscal Rules Alone Cannot Stop the Debt Surge in Advanced and Emerging Economies",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/how-to-design-fiscal-frameworks-that-tilt-policy-decisions-toward-discipline-by-antonio-fatas-2026-05",
+      "published": "2026-05-06T12:32:57Z",
+      "category": "Econ",
+      "region": "Advanced economies; emerging markets",
+      "background": "The article argues that rising government debt is becoming a major policy problem in both advanced economies and emerging markets. It notes that debt in several advanced economies is at its highest level outside wartime, while emerging-market debt has been rising steadily over the past decade. The piece also highlights that interest rates are no longer at the record lows seen after the 2008 global financial crisis, increasing concerns about fiscal sustainability.",
+      "prop_args": [
+        {
+          "thesis": "Well-designed fiscal frameworks are necessary because they change incentives and make governments more likely to choose sustainable budgets before markets force a crisis.",
+          "mechanisms": [
+            "First, fiscal rules reduce political short-termism. This is because (1) elected governments have incentives to front-load spending and postpone tax pain, (2) rules create an external constraint that makes it harder to trade long-run solvency for short-run popularity, and (3) they give finance ministries and fiscal councils a credible basis to resist expansionary pressure.",
+            "Second, credible frameworks lower borrowing costs and crisis risk. Three reasons: one, investors price in lower default probability when they see enforceable deficit and debt anchors; two, predictable fiscal policy reduces volatility in bond markets and exchange rates; three, lower risk premia preserve fiscal space for shocks like recessions or wars.",
+            "Third, discipline-oriented frameworks protect macroeconomic stability over time. This matters because high debt combined with higher interest rates creates compounding debt-service burdens, which can crowd out productive public investment, force abrupt austerity later, and make future crises more likely."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Fiscal rules are not enough on their own, because without political capacity and economic flexibility they are easy to evade, procyclical, or counterproductive.",
+          "mechanisms": [
+            "First, governments can game formal rules. one, they can shift spending off-budget through state-owned enterprises, special funds, or creative accounting; two, they can change the definition of the deficit or debt target; three, they can simply suspend rules when politically convenient, which means the nominal framework does not bind in practice.",
+            "Second, rigid rules can worsen downturns. one, if governments are forced to cut spending or raise taxes during recessions, they amplify unemployment and reduce growth; two, weaker growth then worsens the debt ratio anyway; three, this creates a vicious cycle where the rule intended to create discipline actually undermines fiscal sustainability.",
+            "Third, the real problem is institutional quality, not the existence of rules. one, countries with weak tax collection, fragmented coalitions, or low trust will struggle regardless of the framework; two, durable discipline requires independent institutions and political consensus; three, without those, rules become symbolic rather than binding."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether fiscal frameworks meaningfully change government behavior or merely formalize commitments that politicians can evade. Prop wins if it shows that credible rules reduce borrowing costs and prevent debt spirals; opp wins if it proves that rigid rules are easy to manipulate and can force procyclical austerity that makes debt dynamics worse.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Time Inconsistency",
+        "Credible Commitment",
+        "Procyclical Austerity",
+        "Debt Trap",
+        "Fiscal Space",
+        "Institutional Quality",
+        "Soft Budget Constraints"
+      ],
+      "motion_areas": [
+        "TH, as advanced economies, would adopt stricter fiscal rules",
+        "THBT emerging markets should prioritize fiscal frameworks over discretionary stimulus",
+        "THP a world where governments are bound by independent fiscal councils",
+        "THBT the EU should enforce hard debt and deficit limits",
+        "THBT international lenders should condition borrowing on fiscal rule compliance"
+      ],
+      "data_points": [
+        "Government debt in several advanced economies is at its highest level outside wartime",
+        "Emerging-market debt has been steadily rising over the past decade",
+        "Interest rates are no longer at the record lows seen after the 2008 global financial crisis",
+        "The article frames two areas for improvement in fiscal frameworks, implying current rules are insufficiently designed"
+      ]
+    },
+    {
+      "id": "8b5f6f0e1365",
+      "title": "China’s Digital Silk Road Wins Influence Because Western Digital Governance Leaves a Sovereignty Gap",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/what-critics-get-wrong-about-chinas-digital-silk-road/",
+      "published": "2026-05-06T12:24:00Z",
+      "category": "IR",
+      "region": "China / Ethiopia / Indonesia / United Arab Emirates / Global",
+      "background": "The article argues that China’s Digital Silk Road (DSR) is not simply an export of surveillance and authoritarian norms, but a broader strategy of digital infrastructure diplomacy. It cites comparative research across Ethiopia, Indonesia, and the UAE, where governments continue deepening engagement with Chinese digital systems despite Western pressure. The piece frames the DSR as part of a wider contest over cyber sovereignty, data governance, and who sets the rules of the global digital order.",
+      "prop_args": [
+        {
+          "thesis": "China’s Digital Silk Road expands because it offers developing states cheaper, less conditional digital infrastructure that better matches their sovereignty preferences than the Western digital order.",
+          "mechanisms": [
+            "First, the DSR fills a real governance and capacity gap. This is because (1) many developing states want digital infrastructure fast and at lower cost, (2) Chinese providers bundle hardware, software, and financing in ways Western firms often do not, and (3) these packages come with fewer overt political or governance conditions attached, making them easier for incumbent governments to accept.",
+            "Second, it converts sovereignty concerns into durable strategic alignment. Three reasons: one, states resent U.S.-headquartered platform companies setting content moderation and data rules for their markets; two, China’s cyber sovereignty model gives governments more control over data flows and domestic digital space; three, that makes Chinese systems politically attractive even when leaders understand the strategic risks.",
+            "Third, the DSR’s appeal is structurally rooted in the asymmetries of the existing digital order. This matters because (1) if Western powers dominate digital value capture, local elites see the current system as extractive, (2) attempts to defend that order as neutral ring hollow, and (3) without a credible alternative, containment simply pushes states toward the supplier that is available, affordable, and non-judgmental."
+          ]
+        },
+        {
+          "thesis": "The bigger danger is not Chinese influence itself but a fragmented global internet, and engaging China in governance is the only realistic way to prevent it.",
+          "mechanisms": [
+            "First, containment accelerates bloc formation. This is because (1) if Western states pressure countries to reject Chinese infrastructure without offering substitutes, (2) those countries hedge by building parallel tech ecosystems, and (3) over time this produces incompatible standards, duplicated systems, and reduced interoperability across regions.",
+            "Second, fragmentation harms everyone, including China and developing states. Three reasons: one, firms face higher compliance and switching costs across digital spheres; two, cross-border data flows and trade become harder to manage; three, security coordination weakens because there is no shared governance architecture to manage cyber risks, norms, or dispute resolution.",
+            "Third, a governance-first approach is more effective than a purely strategic one. This matters because (1) states have legitimate sovereignty claims over digital environments, (2) alternative connectivity initiatives can build capacity rather than just infrastructure, and (3) treating Beijing as a governance interlocutor creates room for common rules that reduce the risk of a permanent splinternet."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Digital Silk Road is still primarily a vehicle for Chinese strategic leverage, surveillance diffusion, and authoritarian entrenchment, so resisting it is justified even if alternatives are imperfect.",
+          "mechanisms": [
+            "First, Chinese digital infrastructure can directly strengthen authoritarian control. One, surveillance tools and network systems expand state monitoring capacity; two, recipient governments can use these tools to repress opposition, censor speech, or track dissidents; three, once installed, these systems create long-term dependence on Chinese maintenance, upgrades, and technical expertise.",
+            "Second, the DSR creates geopolitical leverage for Beijing. One, infrastructure dependence gives China bargaining power over partner states; two, deep integration into telecoms, data systems, and smart-city networks increases intelligence and strategic access risks; three, states may self-censor or align diplomatically to avoid jeopardizing access to Chinese technology and finance.",
+            "Third, Western containment is not the same as digital exclusion. One, states can diversify suppliers and pursue multilateral or domestic alternatives; two, accepting Chinese systems because they are cheaper normalizes a race to the bottom on privacy and rights; three, if the international community does not draw lines, authoritarian digital governance becomes the default template for the Global South."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the DSR is best understood as coercive dependency or as a rational response to a broken digital order. Prop wins if the round is about structural demand: the article gives them a strong story that states choose China because Western alternatives are expensive, conditional, and sovereignty-insensitive. Opp wins if the round is about downstream harms, because even if the demand is rational, the installed systems can still entrench surveillance, dependence, and geopolitical leverage.",
+      "stock_connections": [
+        "Dependency Theory",
+        "Digital Colonialism",
+        "Sovereignty",
+        "Race to the Bottom",
+        "Authoritarian Diffusion",
+        "Splinternet",
+        "Geopolitical Influence",
+        "Infrastructure Diplomacy",
+        "Soft Power",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as Western powers, would offer unconditional digital infrastructure to developing states rather than pressure them to reject Chinese technology",
+        "THBT developing nations should deepen engagement with China’s Digital Silk Road",
+        "THP a world where digital governance prioritizes state sovereignty over platform-led openness",
+        "THBT the West should engage China as a governance partner rather than treat it solely as a strategic competitor",
+        "TH, as a developing state, would choose Chinese digital infrastructure over Western alternatives"
+      ],
+      "data_points": [
+        "The article cites comparative research across Ethiopia, Indonesia, and the United Arab Emirates",
+        "China’s Digital Silk Road is described as part of the Belt and Road Initiative’s digital infrastructure component",
+        "The piece specifically identifies surveillance capability transfer in Ethiopia, data sovereignty vulnerabilities in Indonesia, and geopolitical complications in the UAE",
+        "The article argues that U.S.-headquartered platform companies capture the majority of digital value generated in many developing markets",
+        "It claims Western containment offers developing countries digital exclusion rather than a credible alternative"
+      ]
+    },
+    {
       "id": "b36523d9427e",
       "title": "Middle East Conflict Pushes Up Jet Fuel Costs, Forcing UK-Linked Airlines to Cut Capacity and Raise Fares",
       "source": "BBC",
@@ -356,6 +1691,58 @@
       ]
     },
     {
+      "id": "1ba07613804a",
+      "title": "AI Tools Narrow the Skills Gap Without Erasing Human Capital Inequality",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/ai-can-close-performance-gap-between-higher-and-lower-educated-workers-by-maria-lombardi-2026-05",
+      "published": "2026-05-06T11:36:31Z",
+      "category": "Econ",
+      "region": "Global",
+      "background": "The article argues that recent AI advances may raise productivity by relaxing execution constraints, especially for less-educated workers, rather than fully equalizing underlying ability. It cites early evidence that AI increased customer-support agent productivity by 15% on average, with larger gains for less-experienced workers. The piece frames AI as a tool that can democratize access to skills, but only if firms and governments ensure disadvantaged workers can actually access and use it.",
+      "prop_args": [
+        {
+          "thesis": "AI can reduce labor-market inequality by giving lower-skilled workers a productivity boost that narrows the performance gap with higher-educated workers.",
+          "mechanisms": [
+            "First, AI acts as an execution substitute for routine cognitive tasks. This is because (1) it lowers the cost of drafting, summarizing, coding, and customer interaction, (2) it reduces the penalty for weaker baseline training by providing real-time guidance and templates, and (3) it lets workers spend more time on judgment and less on mechanical production.",
+            "Second, the biggest gains go to workers with the most to catch up on. Three reasons: one, less-experienced workers have more room to improve from prompts, checklists, and autocomplete; two, AI compresses the advantage of elite tacit knowledge by making best practices widely available; three, firms can standardize output quality across a broader workforce, raising average productivity without requiring years of formal education.",
+            "Third, this can have economy-wide inclusion effects. This matters because (1) higher productivity among low-skill workers raises wages and employability, (2) firms can expand output without only hiring scarce high-skill labor, and (3) governments can use AI-enabled training to scale up human capital faster than traditional education systems."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AI will mostly amplify inequality because the workers and firms best positioned to use it will capture the largest gains.",
+          "mechanisms": [
+            "First, access is uneven, so the productivity boost is regressive. One, higher-educated workers and large firms are more likely to have the devices, subscriptions, data, and managerial support needed to use AI well; two, lower-income workers often face digital literacy and language barriers; three, the workers who most need the tool may be least able to adopt it effectively.",
+            "Second, AI complements already-valuable skills rather than replacing them. One, the highest returns come when users can verify outputs, ask better questions, and integrate results into complex workflows; two, advanced workers can use AI to scale their output and capture more market share; three, employers may use AI to deskill entry-level jobs, reducing pathways for upward mobility.",
+            "Third, AI can weaken labor bargaining power. One, if firms can automate parts of junior work, they need fewer workers and can suppress wages; two, productivity gains may accrue to capital owners rather than employees; three, the gap between top performers and everyone else widens as AI makes elite workers even more efficient."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI is primarily an equalizer of execution or a multiplier of pre-existing advantage. Pro side wins if they can show broad access and fast diffusion; opposition wins if they can show adoption is stratified and the gains flow to capital and already-skilled workers.",
+      "stock_connections": [
+        "Skill-biased technological change",
+        "Labor market polarization",
+        "Digital divide",
+        "Moral hazard",
+        "Winner-takes-most markets",
+        "Human capital accumulation",
+        "Inequality",
+        "Automation and displacement"
+      ],
+      "motion_areas": [
+        "TH, as governments, would subsidize AI access for low-income workers",
+        "THBT AI will reduce inequality in developed economies",
+        "THP a world where firms are required to provide AI tools to all employees",
+        "THBT the rise of AI is more likely to democratize than concentrate economic opportunity"
+      ],
+      "data_points": [
+        "AI increased customer-support agent productivity by 15% on average, with less-experienced workers receiving a larger boost",
+        "The article cites emerging macro-level evidence of AI-driven productivity gains",
+        "The core claim is that AI relaxes execution constraints more binding for less-educated individuals"
+      ]
+    },
+    {
       "id": "70cf81187d04",
       "title": "UK Faces a Pre-Harvest Glyphosate Ban That Trades Food Safety Concerns Against Farm Efficiency",
       "source": "BBC",
@@ -408,6 +1795,56 @@
         "Glyphosate remains approved in Great Britain until December 2026 after ministers extended authorisation for review",
         "NFU deputy president Paul Tompkins said the chemical is used to 'make harvesting easier, to control weeds, and reduce disease, and help produce sustainable and affordable food for all'",
         "Campaigners argue residues can end up in bread, breakfast cereals, and beer"
+      ]
+    },
+    {
+      "id": "3ff6b659f44d",
+      "title": "Powell’s Post-Chairboard Presence Risks Cementing a “Defender of the Fed” Myth Over Policy Accountability",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/powell-legacy-fed-defender-but-also-policy-mistakes-by-mohamed-a-el-erian-2026-05",
+      "published": "2026-05-06T10:31:13Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "Jerome Powell’s two-term tenure as chair of the US Federal Reserve is set to end on May 15, 2026. The article argues that Powell’s legacy has been shaped by his role as a public defender of Fed independence, but that his decision to remain on the Fed’s board of governors after stepping down as chair could help him keep the spotlight on that image while reducing attention on policy mistakes made during his tenure. The piece frames this as a tension between institutional credibility and substantive accountability for monetary policy outcomes.",
+      "prop_args": [
+        {
+          "thesis": "Powell staying on the Fed board is institutionally useful because it preserves continuity and protects central bank independence during a politically sensitive transition.",
+          "mechanisms": [
+            "First, continuity lowers transition risk. This is because (1) the Fed is a coordination-heavy institution where abrupt leadership changes can unsettle markets, (2) Powell’s continued presence helps signal that policy will not lurch suddenly, and (3) that signal reduces the chance of panic pricing in rates, credit, and equities.",
+            "Second, his presence shields the Fed from direct political capture. Three reasons: one, a former chair on the board can act as an internal check against overtly partisan pressure; two, it makes it harder for a new administration to portray the Fed as fully remade in its own image; three, it reinforces the norm that central bankers serve the institution, not the political cycle.",
+            "Third, the reputational focus on Powell as a 'defender of the Fed' can strengthen the institution’s legitimacy. This matters because (1) central banks rely on public trust to anchor inflation expectations, (2) visible resistance to political attacks can reassure investors that policy remains rule-based, and (3) stronger legitimacy makes future tightening or easing decisions easier to transmit through the economy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Powell remaining on the board is harmful because it lets him launder a mixed record into a heroic legacy while crowding out accountability for policy errors.",
+          "mechanisms": [
+            "First, it distorts historical evaluation. One, media and elite attention will keep centering Powell’s defense of Fed independence rather than inflation overshoots, delayed tightening, or communication mistakes; two, that creates a one-sided narrative; three, weak accountability reduces incentives for future chairs to admit error early.",
+            "Second, it weakens institutional learning. One, if the dominant story is 'Powell saved the Fed,' then the Fed can avoid hard internal debates about what went wrong during his tenure; two, that encourages bureaucratic self-congratulation; three, the result is repeat mistakes in future cycles because the institution never fully processes its failures.",
+            "Third, it can politicize the succession process. One, a lingering ex-chair can constrain the new chair’s room to establish authority; two, it creates a shadow leadership dynamic that invites factionalism inside the Fed; three, that makes the institution look less neutral, not more."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic legitimacy and substantive accountability. Pro wins if you think central bank credibility is fragile and continuity matters more than retrospective blame; opp wins if you think institutions only stay credible when they honestly confront policy mistakes rather than building myths around personalities.",
+      "stock_connections": [
+        "Institutional credibility",
+        "Central bank independence",
+        "Political capture",
+        "Accountability vs stability",
+        "Elite narrative control",
+        "Moral hazard",
+        "Bureaucratic self-protection"
+      ],
+      "motion_areas": [
+        "TH, as a central bank, would allow outgoing chairs to remain on the board of governors",
+        "THBT central banks should prioritize institutional continuity over retrospective accountability",
+        "THP a world where former central bank chairs are barred from remaining in office after their term ends"
+      ],
+      "data_points": [
+        "Jerome Powell’s two-term tenure as Fed chair ends on May 15, 2026",
+        "Powell remains on the US Federal Reserve board of governors after his chair term ends",
+        "The article describes Powell’s legacy as a 'striking irony' because his reputation as a Fed defender may overshadow criticism of his policy record"
       ]
     },
     {
@@ -642,6 +2079,63 @@
         "Lufthansa says 80% of its fuel price is locked in for the rest of the year",
         "Goldman Sachs warned the UK is the most exposed European country to shortages because of its import routes and low reserves",
         "50% of Britons take fewer than one flight a year and 80% of humans have never been on a plane"
+      ]
+    },
+    {
+      "id": "05693c5ac946",
+      "title": "Bangladesh’s Terror Denial Risks Empowering Dormant Extremist Networks",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/terror-alert-in-bangladesh-between-denial-and-reality/",
+      "published": "2026-05-06T03:36:00Z",
+      "category": "IR",
+      "region": "Bangladesh",
+      "background": "On April 23, Bangladesh Police Headquarters issued an “urgent and confidential” warning about possible extremist attacks on parliament, Shahbagh intersection, mosques, and armories. The alert came after the arrest of Istiak Ahmed Sami (alias Abu Bakkar) and two dismissed army personnel linked to banned outfits, with officials calling them “extremely risky for the overall security of the country.” Despite this, Home Minister Salahuddin Ahmed publicly said militancy “no longer exists,” while other officials and researchers cited ongoing recruitment, fundraising, and links to Neo-JMB, IS-affiliated networks, AQIS, and TTP pathways.",
+      "prop_args": [
+        {
+          "thesis": "Bangladesh should treat militancy as a real, persistent security threat rather than politically denying it, because denial lets dormant networks recruit, fundraise, and prepare for escalation.",
+          "mechanisms": [
+            "First, denial lowers state vigilance and delays interdiction. This is because (1) police and intelligence resources get politically softened or misallocated when leaders publicly claim the threat is gone, (2) local authorities and communities receive weaker incentives to report suspicious activity, and (3) small cells can keep building capability in the “quiet phase” without triggering sustained disruption.",
+            "Second, denial creates strategic space for extremist recruitment and financing. Three reasons: one, underground networks can frame the state as dishonest and use that narrative to attract sympathizers; two, the article notes post-2017 recruitment and fundraising continued even as public attacks declined; three, when the government refuses to name the threat, it becomes harder to target online radicalization, prison recruitment, and links with dismissed military personnel.",
+            "Third, underestimating the threat increases the risk of sudden mass-casualty escalation once a trigger appears. This matters because the article shows Bangladesh militancy historically spikes after external ideological shocks — Afghan veterans in the 1990s, the Islamic State caliphate in 2014-17, and earlier Palestine-related mobilization — so a dormant network can rapidly convert into violence if a new trigger emerges."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Bangladesh should avoid over-securitizing militancy because exaggerated threat framing can be politically abused, alienate communities, and create the very radicalization it claims to prevent.",
+          "mechanisms": [
+            "First, threat inflation becomes a tool of partisan repression. One, the article itself notes past regimes securitized militancy to delegitimize opponents; two, if every opposition-linked or religious actor is treated as a security suspect, the state can justify surveillance, arrests, and emergency powers; three, this erodes trust in counterterror institutions and makes future warnings less credible.",
+            "Second, aggressive counterterror rhetoric can deepen social alienation and push marginal communities toward extremism. One, heavy-handed policing of mosques, students, and religious networks can produce grievance and humiliation; two, communities stop cooperating with law enforcement when they fear collective punishment; three, extremists then exploit that resentment to recruit and fundraise more effectively.",
+            "Third, the actual operational threat may be limited without external triggers and organizational capacity. One, the article says public attacks have declined and current networks are mostly in a quiet recruitment/fundraising phase; two, it also argues large-scale attacks are unlikely without fresh West Asian triggers or renewed ideological innovation; three, that means the state should prioritize calibrated intelligence work over panic-driven securitization."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a low-level but real persistent threat and the political costs of overreacting to it. Prop wins if the round is about state capacity and prevention, because dormant networks only need one missed warning to become lethal; Opp wins if the motion centers on civil liberties or democratic abuse, because securitization can be weaponized faster and more broadly than the militants can currently scale.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Securitization",
+        "Democratic Backsliding",
+        "State Capacity",
+        "Radicalization",
+        "Counterterrorism Blowback",
+        "Grievance Politics",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as Bangladesh, would publicly acknowledge the continued existence of militancy",
+        "THBT governments should avoid downplaying domestic extremist threats for political reasons",
+        "THP a world where counterterrorism policy is based on intelligence assessments rather than political messaging",
+        "THBT states facing low-level extremist activity should prioritize intelligence-led policing over broad securitization"
+      ],
+      "data_points": [
+        "April 23: Bangladesh Police Headquarters issued an “urgent and confidential” warning of possible attacks on parliament, Shahbagh, mosques, and armories",
+        "Three suspects were arrested, including Istiak Ahmed Sami (alias Abu Bakkar) and two dismissed army personnel linked to banned outfits",
+        "A 16-year-old from Habiganj was allegedly tied to Neo-JMB, bomb-making training, and plans to attack Shia and Ahmadiyya mosques",
+        "The article cites interviews with 32 extremists in custody in June 2024; more than 10% were involved in or sympathetic to radical ideas and actions",
+        "Two Bangladeshi youths, Ratan Dhali and Foysal Hossain, were confirmed dead while fighting for TTP in Pakistan’s Khyber Pakhtunkhwa province",
+        "A Bangladesh Air Force warrant officer was discovered at a TTP hideout in Pakistan, prompting a crackdown on suspected extremist links within the Air Force",
+        "The article says post-2017 Islamist recruitment and fundraising continued quietly even as public attacks declined",
+        "Historical triggers cited include Afghan veterans in the 1990s and the Islamic State caliphate period from 2014 to 2017"
       ]
     },
     {
