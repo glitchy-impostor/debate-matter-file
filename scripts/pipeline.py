@@ -23,6 +23,7 @@ try:
 except ImportError:
     pass  # optional; CI uses real env vars
 
+import dedupe as dedupe_mod
 import extractor
 import feeds
 import processor
@@ -105,12 +106,14 @@ def run(
     initial_state: dict | None = None,
     max_articles: int | None = None,
     api_delay: float = 0.0,
+    dedup_threshold: float = dedupe_mod.DEFAULT_THRESHOLD,
 ) -> dict:
     """Execute one pipeline pass.
 
-    initial_state — overrides loading state.json (used by backfill).
-    max_articles — cap dirty articles after extraction (debug).
-    api_delay   — extra sleep between mini calls (rate-limit safety net).
+    initial_state    — overrides loading state.json (used by backfill).
+    max_articles     — cap dirty articles after extraction (debug).
+    api_delay        — extra sleep between mini calls (rate-limit safety net).
+    dedup_threshold  — Jaccard threshold for cross-source dedup. Set to 1.0 to disable.
     """
     import time
 
@@ -136,6 +139,18 @@ def run(
     log.info("extracting article text")
     articles = extract_texts(dirty)
     log.info("articles with usable text: %d", len(articles))
+
+    if articles and dedup_threshold < 1.0:
+        kept, dropped = dedupe_mod.dedupe(articles, threshold=dedup_threshold)
+        for dup, rep, sim in dropped:
+            log.info(
+                "dedup: drop %s (sim=%.2f, matches %s)",
+                dup.get("title", "")[:70],
+                sim,
+                rep.get("title", "")[:70],
+            )
+        log.info("after dedup: %d -> %d (dropped %d)", len(articles), len(kept), len(dropped))
+        articles = kept
 
     if not articles:
         # mark all dirty as processed even if extraction failed — do not re-attempt forever
@@ -199,6 +214,15 @@ def main() -> int:
         default=0.0,
         help="Sleep this many seconds between Stage-2 calls.",
     )
+    parser.add_argument(
+        "--dedup-threshold",
+        type=float,
+        default=dedupe_mod.DEFAULT_THRESHOLD,
+        help=(
+            "Jaccard threshold for cross-source dedup (default 0.55). "
+            "Lower = more aggressive merging. 1.0 disables dedup entirely."
+        ),
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args()
 
@@ -207,7 +231,11 @@ def main() -> int:
         format="%(asctime)s %(levelname)s %(name)s: %(message)s",
     )
 
-    summary = run(max_articles=args.max_articles, api_delay=args.api_delay)
+    summary = run(
+        max_articles=args.max_articles,
+        api_delay=args.api_delay,
+        dedup_threshold=args.dedup_threshold,
+    )
     log.info("summary: %s", summary)
     return 0
 

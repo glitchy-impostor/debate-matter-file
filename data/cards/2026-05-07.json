@@ -1,116 +1,670 @@
 {
   "date": "2026-05-07",
-  "last_updated": "2026-05-08T08:11:08Z",
+  "last_updated": "2026-05-08T08:22:08Z",
   "cards": [
     {
-      "id": "370a2c520d3b",
-      "title": "Trump Uses Tariff Ultimatum to Force EU Into a Zero-Tariff Trade Concession",
+      "id": "f27fb7373778",
+      "title": "Trump’s Minnesota ICE Surge Turns Somali TPS Into a Test Case for Mass Deportation Politics",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-07T23:11:35Z",
-      "category": "Econ",
-      "region": "US / EU",
-      "background": "On 7 May 2026, President Donald Trump threatened the European Union with \"much higher\" tariffs unless the bloc drops its levies on US goods to zero by 4 July, which he framed as America's 250th birthday. The threat came after a call with European Commission President Ursula von der Leyen, who said the EU was making \"good progress\" toward tariff reduction, but the deal still needs approval from the European Parliament and the 27 member states. The original US-EU tariff agreement, struck in July 2025, would set US tariffs on EU exports at 15%, while the EU would remove tariffs on US goods if conditions are met, including safeguards over steel and aluminium. On the same day, a US trade court ruled Trump's latest 10% global tariffs were not justified under US trade law, opening the door to further legal challenges.",
+      "url": "https://www.bbc.com/news/articles/cvgz3l4zyq4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T23:54:06Z",
+      "category": "IR",
+      "region": "United States / Minnesota / Somalia",
+      "background": "The BBC reports that a large federal immigration enforcement operation in Minnesota, dubbed Operation Metro Surge, has left Minneapolis’s Somali community in fear even after officials announced a draw-down. The Trump administration tried to end Temporary Protected Status (TPS) for Somali immigrants by 17 March, affecting around 2,500 people, but a federal judge temporarily blocked removals. DHS says the operation has resulted in more than 11,000 arrests, while community leaders and local officials say raids, masked agents, and Trump’s comments about Somalis have created widespread panic and disrupted daily life.",
       "prop_args": [
         {
-          "thesis": "Trump's tariff ultimatum is an effective bargaining tactic that can extract faster concessions from the EU by raising the cost of delay.",
+          "thesis": "A hardline immigration crackdown can restore state authority and deter unlawful migration, even if it creates short-term fear in targeted communities.",
           "mechanisms": [
-            "First, the threat changes the EU's payoff structure by making inaction more expensive than compromise. This is because (1) EU exporters face immediate exposure to higher US tariffs if talks fail, (2) member states and firms then lobby Brussels to settle quickly, and (3) the deadline compresses the time available for internal EU veto coalitions to coordinate resistance.",
-            "Second, the ultimatum strengthens Trump's leverage because trade negotiations are highly asymmetric when one side can credibly impose unilateral costs. Three reasons: one, the US market is larger and more valuable to many EU exporters, two, the 4 July deadline creates a focal point that markets and politicians can price in, and three, the EU already has a partially agreed framework, so the marginal cost of accepting the deal is lower than restarting negotiations.",
-            "Third, even if the threat is partly performative, it still produces real concessions because credibility is not all-or-nothing. This matters because (1) firms will hedge and pressure governments as soon as tariffs look likely, (2) the EU may accept weaker terms to avoid escalation, and (3) the mere possibility of tariff hikes can force implementation of the existing deal faster than normal legislative bargaining."
+            "First, the operation signals credible enforcement, which changes incentives. This is because (1) migrants considering irregular entry now face a higher probability of detention and deportation, (2) smugglers lose the selling point that the US is effectively open, and (3) local networks that facilitate irregular settlement become riskier to use.",
+            "Second, ending or narrowing TPS prevents temporary protection from becoming de facto permanent residence. Three reasons: one, it reduces policy drift where emergency status outlives the emergency; two, it preserves executive flexibility to respond to changing conditions in origin states; three, it reassures voters that immigration rules still have consequences.",
+            "Third, visible enforcement can reduce crime and restore public confidence in the state. This matters because (1) DHS claims over 11,000 arrests of criminal illegal aliens, (2) residents and businesses in affected areas may be more willing to cooperate with police when they see federal action, and (3) a government that appears unable to enforce borders and removals loses legitimacy, especially in politically salient swing-state communities."
           ]
         }
       ],
       "opp_args": [
         {
-          "thesis": "Trump's ultimatum is more likely to backfire by hardening EU resistance, undermining legal credibility, and making a durable deal less likely.",
+          "thesis": "Mass immigration raids and TPS termination are counterproductive because they terrorize lawful residents, destabilize communities, and undermine trust in government.",
           "mechanisms": [
-            "First, the threat gives the EU a political reason to resist rather than concede. One, public capitulation to coercion is costly for EU leaders and Parliament, two, the ultimatum empowers hardliners who argue the US is negotiating in bad faith, and three, the EU can use delay as leverage because it also controls implementation and ratification.",
-            "Second, Trump's credibility is weakened by the legal challenge to his tariffs. One, the US Court of International Trade has already ruled the 10% global tariffs were not justified under trade law, two, that invites more litigation against any new tariff escalation, and three, if the EU expects courts or Congress to constrain Trump, the threat becomes less believable and less effective.",
-            "Third, coercive deadlines often produce worse long-term outcomes than negotiated reciprocity. One, rushed deals are more likely to include loopholes and safeguards that reduce compliance, two, the EU may retaliate with its own trade measures if pressured too hard, and three, a deal reached under duress is more fragile because both sides have weaker incentives to defend it once political attention moves on."
+            "First, the policy sweeps up people who are legally present or deeply embedded in the community. One, the article says some detainees had TPS documents; two, some were joint US-Somali citizens; three, deportation carries a 10-year bar, so even mistaken removals create long-term family separation and irreversible harm.",
+            "Second, the enforcement style destroys cooperation with institutions. One, masked officers and military-style raids make residents hide rather than report crime or attend school, clinics, and workplaces; two, businesses close and workers stop moving freely, which harms local economic activity; three, fear spreads beyond undocumented migrants to citizens and legal residents, so the state loses intelligence and legitimacy.",
+            "Third, the policy is strategically incoherent because the US still warns people not to travel to Somalia as dangerous while claiming Somalis no longer need protection. This contradiction weakens the moral and legal basis for removals, and it makes the government look racially targeted rather than rule-based, which fuels polarization and radicalizes immigrant communities against the state."
           ]
         }
       ],
-      "weighing": "The biggest delta in this debate is whether the ultimatum is credible enough to alter EU behavior before 4 July. Prop wins if you think the US market and deadline pressure force a quick concession; opp wins if you think legal weakness and EU institutional veto points make the threat look blusterous, which would turn coercion into resistance rather than compliance.",
+      "weighing": "The biggest delta in this debate is between abstract border control and concrete social damage. Pro wins if the round is framed around sovereignty and deterrence, but Opp has the stronger structural case because the harms are immediate, irreversible, and hit legally present people as well as undocumented migrants, while the enforcement gains are diffuse and contested.",
       "stock_connections": [
-        "Coercive Diplomacy",
-        "Bargaining Theory",
-        "Credible Threats",
-        "Trade War Escalation",
-        "Collective Action Problems",
-        "Institutional Veto Players",
-        "Protectionism",
-        "Retaliation Spiral"
+        "Rule of Law",
+        "State Capacity",
+        "Deterrence",
+        "Collective Punishment",
+        "Racial Profiling",
+        "Chilling Effect",
+        "Family Separation",
+        "Brain Drain",
+        "Diaspora Politics",
+        "Democratic Backsliding"
       ],
       "motion_areas": [
-        "TH, as the US, would use tariff threats to force trade concessions from allies",
-        "THBT the EU should concede to avoid a broader trade war with the US",
-        "THP a world where major powers can unilaterally impose tariff deadlines on trade partners"
+        "TH, as the United States, would end Temporary Protected Status for nationals of countries with ongoing instability",
+        "THBT states should prioritize mass immigration enforcement over community trust in migrant-heavy cities",
+        "THP a world where immigration authorities can conduct large-scale workplace and home raids without local sanctuary protections",
+        "TH, as a federal government, would use aggressive deportation campaigns to restore border credibility"
       ],
       "data_points": [
-        "Trump threatened \"much higher\" tariffs on the EU if it does not drop levies on US goods to zero by 4 July 2026",
-        "The existing US-EU deal would impose a 15% US tariff on EU exports",
-        "Trump had previously threatened 30% tariffs on European goods",
+        "Operation Metro Surge in Minnesota reportedly involved agents in the thousands at peak, later reduced to a 'small' contingent",
+        "DHS says it has arrested over 11,000 'criminal illegal aliens' in Minneapolis during the operation",
+        "Trump sought to end TPS for Somali immigrants by 17 March, affecting around 2,500 people",
+        "There are about 260,000 people of Somali heritage in the US, more than half born in the country",
+        "Deportees can face a 10-year bar on returning to the US, sometimes longer",
+        "Abdi says he spent about $15,000 to reach the US via Brazil and the Darién Gap",
+        "Two US citizens, Renee Good and Alex Pretti, were killed by federal immigration agents during the surge in January",
+        "Somalia has faced chronic droughts and conflict since the collapse of its last government in 1991, with al-Shabab active for two decades"
+      ]
+    },
+    {
+      "id": "370a2c520d3b",
+      "title": "Trump Uses Tariff Ultimatum to Force EU Into Unequal Trade Concessions",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T23:11:35Z",
+      "category": "Econ",
+      "region": "United States / European Union",
+      "background": "On 7 May 2026, President Donald Trump threatened the European Union with \"much higher\" tariffs unless the bloc drops its levies on US goods to zero by 4 July, which he framed as America’s 250th birthday. The EU and US had already struck a tariff-and-trade agreement in July 2025, under which US tariffs on EU exports would be 15%, but implementation has stalled because the deal still needs approval from the European Parliament and all 27 member states. The European Parliament conditionally backed the deal in March 2026, but only if steel and aluminium products were excluded from Trump’s global 50% metal tariffs; negotiators are due to meet again on 19 May in Strasbourg. Separately, a US trade court ruled that Trump’s latest 10% global tariffs were not justified under US trade law, opening the door to further legal challenges.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s deadline is a coercive bargaining tactic that can extract a better deal for the US by exploiting the EU’s need for certainty and market access.",
+          "mechanisms": [
+            "First, the ultimatum raises the cost of delay for the EU. This is because (1) firms on both sides need tariff certainty to plan shipments, investment, and pricing, (2) the EU faces immediate exposure to higher US tariffs on cars, trucks, and industrial goods if talks fail, and (3) the 4 July deadline compresses negotiations and makes the status quo look riskier than compromise.",
+            "Second, the threat improves US leverage in a repeated bargaining game. Three reasons: one, the EU has already shown willingness to negotiate and has conditionally approved implementation, two, the US can credibly escalate sector-specific tariffs like the 25% truck and car threat, and three, the EU’s internal ratification process makes it harder for Brussels to respond quickly with a unified countermeasure.",
+            "Third, even if the court challenge weakens some tariffs, the threat still works as political leverage. This matters because (1) legal uncertainty does not remove the immediate market fear of tariffs, (2) businesses and governments often settle to avoid volatility before judicial outcomes are final, and (3) Trump can use selective enforcement and future tariff tools to keep pressure on the EU."
+          ]
+        },
+        {
+          "thesis": "Forcing the EU to drop tariffs to zero can lower consumer prices and reduce trade friction in the transatlantic economy.",
+          "mechanisms": [
+            "First, lower tariffs reduce deadweight loss and input costs. This is because (1) tariffs function as taxes on imports, (2) EU and US manufacturers rely on transatlantic supply chains for intermediate goods, and (3) cheaper inputs can be passed through to consumers or reinvested into production.",
+            "Second, a zero-tariff arrangement can stabilize investment and trade flows. Three reasons: one, firms are more likely to commit capital when border taxes are predictable, two, reduced tariff uncertainty lowers the risk premium on cross-border contracts, and three, a clearer deal can prevent tit-for-tat escalation into a broader trade war.",
+            "Third, the deal can be framed as reciprocity rather than capitulation. This matters because (1) the EU also benefits from improved access to the US market, (2) a negotiated reduction can preserve political legitimacy by being presented as mutual liberalization, and (3) avoiding a tariff spiral protects jobs in export-heavy sectors on both sides."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s ultimatum is economically coercive and strategically self-defeating because it undermines trust, raises costs, and weakens the credibility of US commitments.",
+          "mechanisms": [
+            "First, the threat increases uncertainty and discourages investment. One, firms cannot plan supply chains when tariff policy changes by social media deadline, two, uncertainty raises financing and compliance costs, and three, businesses may delay hiring and capital expenditure rather than bet on a volatile trade regime.",
+            "Second, it damages the EU’s willingness to make concessions in the future. One, coercive deadlines create domestic political backlash in Europe, two, they strengthen hardliners who argue the US is an unreliable partner, and three, they make ratification harder because member states and parliamentarians can point to US bad faith.",
+            "Third, the legal weakness of Trump’s tariff strategy reduces his bargaining power. One, the US trade court has already ruled the latest 10% global tariffs were not justified under trade law, two, that makes tariff threats less credible because they may be blocked or narrowed in court, and three, if the EU believes the tariffs will not survive litigation, it has less reason to concede."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive leverage produces a better bargain or simply destroys trust and raises uncertainty. Prop wins if you prioritize short-term bargaining power and tariff reduction; opp wins if you think credible commitments and investment stability are the real drivers of welfare in a rules-based trade system.",
+      "stock_connections": [
+        "Trade War",
+        "Protectionism",
+        "Credible Commitment Problem",
+        "Bargaining Theory",
+        "Race to the Bottom",
+        "Economic Coercion",
+        "Uncertainty Shock",
+        "Globalization Backlash"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use tariff threats to force trade concessions from the EU",
+        "THBT the US should prioritize bilateral coercive trade deals over multilateral trade rules",
+        "THP a world where major economies can impose temporary tariff ultimatums to secure market access"
+      ],
+      "data_points": [
+        "Trump threatened \"much higher\" tariffs on the EU by 4 July 2026 if the bloc does not drop its levies on US goods to zero",
+        "The existing US-EU agreement would set US tariffs on EU exports at 15%",
+        "Trump had previously threatened tariffs of 30% on European goods",
         "The European Parliament conditionally approved implementation in March 2026",
-        "The deal still requires endorsement by all 27 EU member states",
-        "The EU negotiators are scheduled to meet again on 19 May 2026 in Strasbourg",
-        "Trump also threatened to raise tariffs on trucks and cars to 25% last week",
-        "The US Court of International Trade ruled on 7 May 2026 that Trump's latest 10% global tariffs were not justified under US trade law",
-        "The 10% global tariff introduced on 24 February 2026 is set to last until late July"
+        "EU lawmakers said zero tariffs on US goods would only be acceptable if steel and aluminium were excluded from Trump’s global 50% metal tariffs",
+        "Negotiators are scheduled to meet again on 19 May 2026 in Strasbourg",
+        "A US trade court ruled on 7 May 2026 that Trump’s latest 10% global tariffs were not justified under US trade law",
+        "Trump introduced the 10% global levy on 24 February 2026 under Section 122 of the 1974 Trade Act",
+        "The 10% levy is set to last until late July 2026"
+      ]
+    },
+    {
+      "id": "be2a4e32c986",
+      "title": "North Korea’s Russia War Dead Expose the Cost of Autocratic Bargain Diplomacy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clypr5985ejo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T22:20:56Z",
+      "category": "IR",
+      "region": "North Korea / Russia / Ukraine / South Korea",
+      "background": "A BBC investigation says about 2,300 North Korean soldiers may have died fighting for Russia in Ukraine, based on satellite imagery and official photos of a new memorial in Pyongyang. South Korea’s National Intelligence Service estimated in February 2026 that about 11,000 North Korean personnel were deployed to Russia and that roughly 6,000 had been killed or wounded; in September 2025 it had put deaths at about 2,000 and wounded at 2,700. North Korea unveiled the Memorial Museum of Combat Feats at Overseas Military Operations on 26 April 2026 in Pyongyang’s Hwasong district, with walls engraved with names of the dead and a cemetery/columbarium complex. The article says Pyongyang likely received food, money, and technical assistance from Moscow in exchange for the deployment.",
+      "prop_args": [
+        {
+          "thesis": "North Korea’s deployment to Russia proves that sanctions and isolation can push authoritarian regimes into deeper military dependence on revisionist powers, making the war in Ukraine a catalyst for a more dangerous anti-Western bloc.",
+          "mechanisms": [
+            "First, the bargain creates a durable patron-client relationship. This is because (1) North Korea is so isolated that Russia becomes its only viable military partner, (2) the regime has now publicly memorialised the dead, which normalises the sacrifice and lowers the political cost of future deployments, and (3) the reported exchange of soldiers for food, money, and technical help gives Moscow leverage over Pyongyang beyond a one-off transaction.",
+            "Second, the deployment improves both sides’ warfighting capacity and sanctions resilience. Three reasons: one, North Korea gains battlefield experience, training, and possible technology transfer from a major war; two, Russia gains expendable manpower without domestic backlash; three, the flow of resources into Pyongyang helps the regime survive sanctions that were meant to constrain its military options.",
+            "Third, this changes the regional security environment by signalling that isolated states can externalise domestic costs through foreign wars. This matters because it encourages future proxy bargains, normalises interstate mercenary-style cooperation, and makes deterrence harder for South Korea, Japan, and the US when adversaries can pool capabilities across theaters."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The deployment is a sign of North Korean weakness and opportunism, not strategic strength, because it exposes how dependent Pyongyang remains on external patrons and how costly its foreign policy has become.",
+          "mechanisms": [
+            "First, the casualty toll shows the limits of North Korea’s military utility. One, if roughly 2,300 are dead out of about 11,000 deployed, that is an enormous attrition rate that depletes a small standing force; two, the need to build a memorial and housing for bereaved families suggests the regime must manage domestic pain, not celebrate strategic gain; three, heavy losses reduce the pool of trained personnel available for the peninsula.",
+            "Second, the deal may be more transactional than transformative. One, Russia is paying for a short-term manpower fix, not building a formal alliance; two, North Korea’s gains in food or technical help may be limited and reversible; three, Moscow can scale down cooperation once battlefield needs change, leaving Pyongyang exposed.",
+            "Third, the visible memorial can be read as propaganda management rather than genuine consolidation. One, the regime is trying to justify losses after the fact; two, public commemoration is meant to prevent elite and family backlash; three, if the operation required secrecy and post hoc myth-making, that suggests fragility rather than durable strategic advantage."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the deployment is treated as strategic leverage or strategic desperation. Prop wins if the round is about long-term bloc formation and sanctions evasion; opp wins if the focus is on casualty costs, limited gains, and the fact that Pyongyang is still dependent on Moscow rather than empowered by it.",
+      "stock_connections": [
+        "Authoritarian Bargain",
+        "Sanctions Evasion",
+        "Proxy War",
+        "Alliance Formation",
+        "Military Dependence",
+        "Regime Survival",
+        "Security Dilemma",
+        "Arms Transfer / Technology Diffusion",
+        "War Fatigue"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize secondary sanctions on states that supply manpower to Russia",
+        "THBT sanctions on isolated regimes often strengthen their dependence on revisionist patrons",
+        "THP a world in which authoritarian states can trade military manpower for economic and technical support",
+        "TH, as South Korea, would publicly expose foreign troop deployments by North Korea",
+        "THBT the Russia-Ukraine war has made the world more multipolar in a dangerous way"
+      ],
+      "data_points": [
+        "BBC estimate: about 2,304 names may be engraved across the memorial walls, implying roughly 2,300 dead",
+        "South Korea NIS estimate (Feb 2026): about 11,000 North Korean personnel deployed to Russia",
+        "South Korea NIS estimate (Feb 2026): about 6,000 of those deployed were killed or wounded",
+        "South Korea NIS estimate (Sep 2025): about 2,000 North Korean soldiers killed and 2,700 wounded",
+        "Memorial complex size: 52,000 sq m",
+        "Memorial walls: two walls, each about 30m long",
+        "BBC calculation: about 14 sections per wall, about 16 columns per section, about 8 names per column in close-up images",
+        "About 140 graves on one side of the graveyard and 138 on the other, according to SI Analytics satellite imagery",
+        "Columbarium estimated by researcher Chung to hold at least 1,000 sets of remains"
       ]
     },
     {
       "id": "09864541af4e",
-      "title": "Japan’s Pacifist Identity Collides With Regional Security Rebalancing",
+      "title": "Japan’s Pacifist Identity Collides With Rearmament as Tokyo Faces a Security-First Pivot",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-07T22:15:51Z",
       "category": "IR",
       "region": "Japan",
-      "background": "Since taking office in October 2025, Prime Minister Sanae Takaichi has moved Japan away from its post-war pacifist posture by lifting long-standing restrictions on lethal arms exports and expanding the military’s role abroad. The changes build on earlier shifts under Shinzo Abe, including a 2015 security bill that allowed limited collective self-defence and support for allies under attack. The debate centers on Article 9 of Japan’s 1947 constitution, which renounces war and has long constrained Japan’s military posture; protests in Tokyo, Osaka, Kyoto, and Fukuoka are now described as the largest anti-war demonstrations in decades.",
+      "background": "Since taking office in October 2025, Prime Minister Sanae Takaichi has moved to loosen Japan’s postwar security constraints, including lifting a long-standing ban on exporting lethal weapons on 21 April 2026 and expanding Japan’s military role abroad. The changes have triggered Japan’s largest anti-war protests in decades, with rallies spreading from Tokyo to Osaka, Kyoto, and Fukuoka. The debate centers on Article 9 of Japan’s 1947 constitution, which renounces war and has long been interpreted to limit Japan’s military posture, though it has already been partially reinterpreted in recent decades.",
       "prop_args": [
         {
-          "thesis": "Japan must loosen Article 9-era constraints because a more capable military is necessary to deter coercion and preserve national security in a far more dangerous regional environment.",
+          "thesis": "Japan must adapt its security doctrine to a more dangerous regional environment, and limited rearmament is necessary to deter coercion and protect allies.",
           "mechanisms": [
-            "First, stronger defence increases deterrence against China, North Korea, and Russia. This works because (1) adversaries are less likely to test Japan if they believe Tokyo can impose real costs, (2) alliance credibility improves when Japan can share burdens with the US, and (3) ambiguity around Japan’s ability to respond invites probing, grey-zone pressure, and escalation.",
-            "Second, lifting export and operational restrictions improves Japan’s strategic autonomy and alliance value. Three reasons: one, Japan can supply allies and partners in a crisis instead of relying entirely on the US; two, defence-industrial scale improves when exports create larger production runs and lower unit costs; three, a more integrated security role makes Japan harder to isolate diplomatically in a contingency.",
-            "Third, incremental militarisation is preferable to strategic surprise. This matters because (1) the security environment is changing faster than constitutional politics, (2) waiting for a perfect consensus leaves Japan underprepared, and (3) limited reforms can be designed with safeguards, meaning the state can gain capability without fully abandoning civilian control or democratic oversight."
+            "First, stronger defence increases deterrence against China, North Korea, and Russia. This works because (1) adversaries are more likely to test a state that is visibly constrained, (2) Japan’s current posture depends heavily on US protection, which is less reliable under alliance burden-sharing pressures, and (3) credible military capacity raises the expected cost of aggression, making grey-zone coercion and escalation less attractive.",
+            "Second, lifting weapons-export restrictions and expanding military roles improves alliance interoperability and strategic autonomy. Three reasons: one, Japan can supply partners and integrate with regional security networks more effectively; two, it reduces dependence on the US for every contingency; three, it allows Japan to shape the regional balance rather than merely react to it.",
+            "Third, the reform prevents Japan from being strategically boxed in by an outdated legal framework. This matters because (1) Article 9 was written for the post-1945 order, not today’s missile, cyber, and maritime threats; (2) incremental reinterpretation is safer than a sudden constitutional crisis later; and (3) a state that cannot update its defence doctrine risks inviting conflict rather than avoiding it."
           ]
         }
       ],
       "opp_args": [
         {
-          "thesis": "Weakening Japan’s pacifist constraints risks normalising militarism, eroding democratic consent, and making Japan more—not less—likely to be dragged into foreign conflicts.",
+          "thesis": "Weakening Article 9 erodes Japan’s pacifist identity, lowers the political threshold for war, and risks dragging the country into foreign conflicts.",
           "mechanisms": [
-            "First, the reforms hollow out the constitutional and social taboo against war. One, Article 9 has functioned not just as law but as a political brake on escalation; two, once lethal exports and overseas roles are normalised, each further step becomes easier to justify; three, this creates path dependence where temporary security measures become permanent strategic identity shifts.",
-            "Second, greater military flexibility increases the chance of entanglement in external wars. One, Japan’s alliance with the US means expanded capabilities will be used to support American operations; two, once Japan can export weapons and operate more actively abroad, it becomes more exposed to retaliation and escalation; three, domestic opposition will be bypassed if decisions are made through executive security policy rather than broad public consent.",
-            "Third, the backlash itself weakens social cohesion and legitimacy. One, the protests show a large segment of the public sees these changes as imposed rather than debated; two, a divided society makes sustained defence reform politically brittle; three, if citizens believe the state is drifting away from post-war norms, trust in institutions and willingness to support future crises can decline."
+            "First, legal and symbolic normalization of military expansion changes domestic incentives. One, once lethal exports and overseas roles are accepted, future governments can expand further with less resistance; two, the public becomes desensitized to militarization; three, the constitution stops functioning as a meaningful brake on executive adventurism.",
+            "Second, rearmament increases the chance Japan is pulled into alliance conflicts and regional escalation. One, closer military integration with the US makes Japan a more direct participant in US-led operations; two, adversaries may treat Japan as a more legitimate target in a crisis; three, any miscalculation in the East China Sea or Korean Peninsula becomes more likely to spiral.",
+            "Third, the policy imposes democratic and social costs at home. One, the government is pushing changes despite mass protests and divided polling, which weakens legitimacy; two, militarization can crowd out social spending and deepen generational conflict; three, for a society shaped by Hiroshima and Nagasaki, abandoning pacifism risks long-term political backlash and instability."
           ]
         }
       ],
-      "weighing": "The biggest delta in this debate is whether Japan faces a genuine security emergency that justifies sacrificing pacifist constraints, or whether those constraints are the very reason Japan has avoided catastrophic entanglement for decades. Prop wins if the round prioritises deterrence and alliance credibility; opp wins if the round prioritises democratic legitimacy, escalation risk, and the long-run cost of normalising militarism.",
+      "weighing": "The biggest delta in this debate is whether security threats are best answered by deterrence or by preserving a hard constitutional constraint on militarization. Prop wins if the round is about external threat credibility and alliance realism; opp wins if the round is about escalation risk, democratic legitimacy, and the long-run normalization of war powers.",
       "stock_connections": [
-        "Security dilemma",
-        "Militarisation",
-        "Democratic legitimacy",
-        "Path dependence",
-        "Alliance entrapment",
-        "Deterrence theory",
-        "Civil-military relations",
-        "Historical memory / post-conflict norms"
+        "Security Dilemma",
+        "Deterrence Theory",
+        "Alliance Entrapment",
+        "Militarization",
+        "Democratic Legitimacy",
+        "Historical Memory",
+        "Constitutional Constraint",
+        "Arms Race"
       ],
       "motion_areas": [
-        "TH, as Japan, would abandon strict pacifism in favour of a more assertive defence posture",
-        "THBT Japan should amend Article 9 to allow a stronger military role",
-        "THP a world where post-war states are allowed to rapidly remilitarise in response to regional threats"
+        "TH, as Japan, would lift constitutional restrictions on military expansion",
+        "THBT Japan should prioritize rearmament over pacifist constitutionalism",
+        "THP a world where Japan becomes a normal military power",
+        "THBT states facing rising regional threats should abandon postwar pacifist constraints"
       ],
       "data_points": [
-        "Japan’s Article 9 was adopted in 1947 and renounces war as a sovereign right",
+        "Japan’s current constitution was adopted in 1947 and Article 9 renounces war as a sovereign right",
+        "Prime Minister Sanae Takaichi took office in October 2025",
         "Japan lifted its long-standing ban on exporting lethal weapons on 21 April 2026",
-        "Takaichi became prime minister in October 2025",
-        "The 2015 security bill under Shinzo Abe allowed limited collective self-defence and support for allies under attack",
-        "The Hiroshima and Nagasaki bombings killed some 200,000 people by the end of 1945",
-        "Protests have spread to Tokyo, Osaka, Kyoto, and Fukuoka and are described as the largest anti-war protests in decades"
+        "The article says these are Japan’s largest anti-war protests in decades",
+        "Protests have spread beyond Tokyo to Osaka, Kyoto, and Fukuoka",
+        "The 2015 security bill under Shinzo Abe expanded Japan’s ability to support allies under attack",
+        "World War Two atomic bombings of Hiroshima and Nagasaki killed some 200,000 people by the end of 1945"
+      ]
+    },
+    {
+      "id": "ba96b30a7aff",
+      "title": "Trump’s Iran War Triggers Transatlantic Energy Shock and Forces Germany Into Fiscal Downside",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T18:13:11Z",
+      "category": "IR",
+      "region": "Germany / United States / Iran / Europe",
+      "background": "Germany’s finance minister Lars Klingbeil said Donald Trump’s war in Iran has caused a “global energy shock” and forced Berlin to cut projected tax revenues for 2026-2030 by around €70bn ($82bn). The article says the US and Israel launched the war against Iran on 28 February, and that hostilities have raised global fuel prices while disrupting shipping through the Strait of Hormuz, through which about 20% of the world’s oil and LNG usually passes. The dispute has also strained US-Germany ties, with Trump threatening to withdraw thousands of US troops from Germany after Chancellor Friedrich Merz criticized the US strategy.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s war in Iran is economically self-defeating because it exports instability into allied economies, weakens Europe’s fiscal position, and damages the transatlantic security order.",
+          "mechanisms": [
+            "First, the war creates an energy-price shock that immediately hits industrial economies like Germany. This is because (1) roughly 20% of global oil and LNG usually passes through the Strait of Hormuz, (2) hostilities have already sent fuel prices soaring, and (3) Germany is especially exposed because its economy has been stagnant for years and already suffers from high energy costs.",
+            "Second, the war forces governments to revise fiscal expectations downward and reduces room for domestic stabilization. Three reasons: one, Germany has already cut projected tax revenues for 2026-2030 by around €70bn, two, weaker revenues constrain public investment and social spending, and three, that makes it harder for coalition governments to respond to recessionary pressure without debt or austerity.",
+            "Third, the war fractures alliance politics and makes Europe less willing to align with Washington on broader security goals. This matters because (1) Merz has already said a “deep divide” has opened between Europe and the US, (2) Trump’s troop-withdrawal threats turn security guarantees into bargaining chips, and (3) once allies see the US as reckless, they hedge, reduce cooperation, and become less reliable partners in future crises."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s Iran war can be defended as a necessary security move that prevents nuclear proliferation and may ultimately stabilize energy and alliance politics if it succeeds quickly.",
+          "mechanisms": [
+            "First, the war can be framed as a preemptive nonproliferation strategy. One, Trump argues Iran must not obtain a nuclear weapon, two, military pressure can force concessions when diplomacy stalls, and three, preventing a nuclear-armed Iran may avert a much larger future war and long-term regional instability.",
+            "Second, short-term economic pain may be outweighed by the strategic benefit of reopening the Strait of Hormuz and restoring market confidence. One, the article says the US is trying to open the strait so nearly 2,000 stranded ships can pass safely, two, if the ceasefire holds and shipping resumes, energy prices could normalize, and three, markets often price in expected resolution faster than governments can adjust tax forecasts.",
+            "Third, Germany’s slowdown is not solely caused by the war, so blaming Trump overstates causality. One, the article itself says Germany has been stagnant for years, two, high energy costs and weak export demand were already major problems, and three, that means the war may be an accelerant rather than the root cause of Germany’s fiscal weakness."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war is a temporary security shock or a durable strategic rupture. Prop wins if it proves the energy and alliance costs are immediate, measurable, and hard to reverse; opp wins if it can show the war meaningfully constrains Iran and the economic damage is mostly pre-existing or short-lived.",
+      "stock_connections": [
+        "Security dilemma",
+        "Alliance credibility",
+        "Energy shock",
+        "Economic interdependence",
+        "Blowback",
+        "Preemptive war",
+        "Moral hazard",
+        "Great power overreach",
+        "Fiscal squeeze",
+        "Trade disruption"
+      ],
+      "motion_areas": [
+        "TH, as Germany, would distance itself from the United States over the Iran war",
+        "THBT NATO allies should reduce dependence on the United States",
+        "THP a world where major powers can use military force to secure energy routes",
+        "THBT preemptive war against nuclear aspirants is justified",
+        "TH, as the EU, would impose economic costs on the US for destabilizing the Middle East"
+      ],
+      "data_points": [
+        "Germany cut projected tax revenues for 2026-2030 by around €70bn ($82bn; £60.52bn)",
+        "About 20% of the world’s oil and LNG usually passes through the Strait of Hormuz",
+        "The US military deployment in Germany is about 12,000 troops",
+        "The US planned to withdraw 5,000 troops from Germany",
+        "Germany has about 12,000 US troops on its soil, compared with about 12,000 in Italy and 10,000 in the UK",
+        "Nearly 2,000 ships are stranded in the Gulf since February",
+        "The war in Iran was launched by the US and Israel on 28 February"
+      ]
+    },
+    {
+      "id": "156f8acfa7f4",
+      "title": "Russia’s Symbolic Victory Day Retreat Signals a War of Attrition It Cannot Easily Win",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T16:00:05Z",
+      "category": "IR",
+      "region": "Russia and Ukraine",
+      "background": "Russia’s 9 May Victory Day parade in Moscow is being scaled back for the first time in nearly two decades, with no tanks, ballistic missiles, or other military hardware on Red Square. The BBC reports this is happening as Ukraine’s long-range drones and missiles increasingly reach Russian territory, including a strike on Cheboksary that killed 2 people and wounded more than 30, and a drone that hit a high-rise apartment block about 6 km from the Kremlin. The war, launched by Russia in February 2022, has now lasted more than four years and has outlasted the Soviet Union’s 1941-45 war against Nazi Germany, which is central to Putin’s national mythology.",
+      "prop_args": [
+        {
+          "thesis": "The scaled-back parade is evidence that Russia is strategically losing the war of endurance because Ukraine can now impose costs on the Russian heartland and force visible concessions.",
+          "mechanisms": [
+            "First, the parade downgrade is a direct signal that Russia has lost uncontested control over its own security environment. This is because (1) Ukraine can now strike deep inside Russia with drones and missiles, (2) the Kremlin must divert air defenses and hardware away from ceremonial display to battlefield and homeland defense, and (3) even symbolic state rituals now have to be organized around fear of attack rather than confidence.",
+            "Second, this erodes regime legitimacy by puncturing Putin’s core narrative of invulnerability and victory. Three reasons: one, Victory Day is the centerpiece of Putin’s state ideology, so any visible weakness lands harder than ordinary battlefield losses; two, the absence of tanks makes the war look costly and unresolved to domestic audiences; three, repeated internet shutdowns and security restrictions create everyday reminders that the war is harming ordinary Russians, not just Ukrainians.",
+            "Third, the longer the war drags on, the more Russia’s strategic position deteriorates relative to Ukraine and its backers. This matters because (1) attritional warfare rewards the side that can sustain pressure without collapsing politically, (2) Ukraine’s ability to hit Moscow and other Russian cities shows escalation is not one-sided, and (3) if Russia cannot convert military superiority into a decisive victory after four years, the conflict becomes a drain on manpower, equipment, and political capital."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The parade reduction does not prove Russia is losing; it shows the Kremlin is adapting its optics to a drone-threat environment while preserving the core war effort.",
+          "mechanisms": [
+            "First, the absence of tanks is a tactical and symbolic choice, not a battlefield collapse. One, Russia says the hardware is needed at the front, which is consistent with prioritizing combat over ceremony; two, the parade still takes place with soldiers and state rituals intact, so the regime’s narrative machinery remains operational; three, scaling back a parade is far cheaper than scaling back a war, so the signal is weak compared with actual military capacity.",
+            "Second, domestic control remains strong enough that visible inconvenience does not translate into political defeat. One, state polling still shows Putin with substantial approval even if it is falling; two, the Kremlin can frame internet restrictions and security measures as protection against Ukrainian attacks, not as weakness; three, Russian public reaction in the article is mixed, with some citizens accepting the tradeoff between safety and display.",
+            "Third, symbolic pressure on Moscow does not necessarily change the war’s strategic outcome. One, Russia can absorb drone strikes and continue operations because it has a larger military-industrial base than Ukraine; two, retaliatory missile threats and homeland defense measures can deter further escalation; three, wars are ultimately decided by battlefield attrition and external support, not by whether a parade includes tanks."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolism translates into strategic weakness. Prop wins if they show that Victory Day is not just pageantry but the regime’s legitimacy core, so visible retreat indicates a war that is bleeding into the homeland and undermining Putin’s narrative; Opp wins if they frame the parade as a low-cost optics adjustment that does not materially affect Russia’s ability to keep fighting.",
+      "stock_connections": [
+        "Regime legitimacy",
+        "War fatigue",
+        "Attrition warfare",
+        "Homeland insecurity",
+        "Symbolic politics",
+        "Authoritarian resilience",
+        "National mythmaking",
+        "Escalation dynamics"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize long-range strikes on Russian territory",
+        "THBT symbolic military displays matter in wartime",
+        "THP a world where states can be forced to scale back national celebrations due to enemy strikes",
+        "TH, as NATO, would increase support for Ukraine’s deep-strike capabilities"
+      ],
+      "data_points": [
+        "First Victory Day parade in nearly two decades with no military hardware on Red Square",
+        "Russia’s war on Ukraine has lasted more than four years and is longer than the Soviet Union’s 1941-45 war against Nazi Germany",
+        "Ukrainian strike on Cheboksary killed 2 people and wounded more than 30",
+        "Drone strike hit a luxury apartment building about 4 miles (6 km) from the Kremlin",
+        "Russia says mobile internet restrictions will be imposed in Moscow on Victory Day for security reasons",
+        "The Soviet Union lost 27 million citizens in the Great Patriotic War"
+      ]
+    },
+    {
+      "id": "3644af34b8c9",
+      "title": "Gaza Ceasefire Collapses Into Disarmament Deadlock, Raising Risk of Renewed War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T14:22:20Z",
+      "category": "IR",
+      "region": "Israel / Gaza Strip / United States / Qatar / Egypt / Turkey",
+      "background": "Ceasefire talks between Israel and Hamas have stalled amid disputes over whether Hamas must disarm before Israel completes other ceasefire obligations. The BBC reports that Israeli strikes on Gaza killed at least six people this week, including Azzam al-Hayya, son of Hamas chief negotiator Khalil al-Hayya, while Palestinian sources say negotiations in Cairo have reached deadlock. Since the ceasefire began on 10 October, the Hamas-run health ministry says at least 846 people have been killed in Gaza, while Israel says five soldiers have died in the same period. The dispute now centers on President Trump's 20-point plan, endorsed by a UN Security Council resolution, which requires Hamas to decommission weapons and have no future role in Gaza governance.",
+      "prop_args": [
+        {
+          "thesis": "Forcing Hamas disarmament before reconstruction and political normalization is the only credible way to prevent Gaza from becoming a permanent armed enclave and to make any ceasefire durable.",
+          "mechanisms": [
+            "First, disarmament removes Hamas's ability to credibly threaten renewed violence, which is the core enforcement mechanism behind every ceasefire violation. This is because (1) armed groups can always re-enter conflict if they retain rockets, explosives, and assault rifles; (2) Israel will not accept a long-term withdrawal or open borders while Hamas can rearm; and (3) donors will not finance rebuilding if the same actors can destroy it again.",
+            "Second, sequencing disarmament before full political concessions prevents Hamas from using humanitarian relief as cover to entrench itself. Three reasons: one, Hamas is already reasserting authority through taxes and police; two, aid and reconstruction money can be diverted into state-like capacity for the group; three, an armed Hamas inside a rebuilt Gaza would recreate the October 2023 security environment.",
+            "Third, the threat of renewed war is actually reduced by a hard disarmament line because it creates a clear compliance test for mediators and guarantors. This matters because a vague ceasefire with no enforcement simply delays the next round of fighting, whereas a weapons decommissioning process tied to withdrawal, aid, and reconstruction gives Qatar, Egypt, Turkey, and the Board of Peace leverage to condition benefits on compliance."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pushing disarmament before Israel fully meets ceasefire and humanitarian obligations is a recipe for deadlock, renewed bombardment, and the collapse of civilian protection in Gaza.",
+          "mechanisms": [
+            "First, Hamas has no incentive to disarm while Israeli military pressure continues, because surrendering weapons without guarantees is strategically suicidal. One, Israel is still conducting strikes and incursions; two, Gaza remains under partial Israeli military control through the 'Yellow Line'; three, Hamas believes Israel is using the disarmament demand to extract unilateral concessions without ending the siege.",
+            "Second, sequencing the process this way makes the ceasefire non-credible because it asks one side to give up its only deterrent before the other side delivers aid, reconstruction, and withdrawal. This is because (1) Hamas can point to unmet humanitarian commitments, restricted aid, and blocked movement through Rafah; (2) local civilians then experience the agreement as continued war by other means; and (3) the result is political collapse for moderates and empowerment of hardliners on both sides.",
+            "Third, the practical effect is to prolong war rather than end it, because deadlock gives Israel a pretext to resume operations and Hamas a pretext to rearm and resist. This matters because the article already shows both sides accusing the other of breach, which means the disarmament-first model is not stabilizing the conflict but institutionalizing escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether disarmament is a prerequisite for peace or an impossible demand that collapses the ceasefire. Pro side has the structural advantage on long-term security and donor credibility, but opposition wins if the round is about immediate feasibility and civilian harm, because a failed sequencing strategy can itself trigger the war it is meant to prevent.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Credible Commitment Problem",
+        "Disarmament, Demobilization, and Reintegration (DDR)",
+        "Spoilers to Peace Processes",
+        "State-Building Under Occupation",
+        "Humanitarian Access as Leverage",
+        "Collective Punishment",
+        "Peacekeeping and Stabilization"
+      ],
+      "motion_areas": [
+        "TH, as the US-led Board of Peace, would condition Gaza reconstruction on Hamas disarmament",
+        "THBT ceasefire agreements in asymmetric conflicts should require militant disarmament before political concessions",
+        "THP a world where international donors refuse to fund post-war reconstruction until armed groups are fully decommissioned"
+      ],
+      "data_points": [
+        "Ceasefire began on 10 October 2025",
+        "At least 846 people have been killed in Gaza since the ceasefire began, according to the Hamas-run health ministry",
+        "Israel says five of its soldiers have been killed in the same period",
+        "The Hamas-led attack on 7 October 2023 killed about 1,200 people and saw 251 taken hostage, according to Israeli authorities",
+        "Israel's offensive has killed 72,628 people in Gaza, according to Gaza's health authority",
+        "Israel says it controls roughly 60% of Gaza through the so-called 'Yellow Line' during the ceasefire",
+        "Trump's 20-point plan is endorsed by a UN Security Council resolution",
+        "The Board of Peace says Gulf financing for reconstruction depends on conditions that ensure 'no return to war'"
+      ]
+    },
+    {
+      "id": "ae035ac4a761",
+      "title": "South Africa’s Anti-Immigration Backlash Risks Turning a Domestic Protest Wave Into Continental Diplomatic Friction",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21g3vl63zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T13:25:14Z",
+      "category": "IR",
+      "region": "South Africa; Ghana; Nigeria; Kenya; Malawi; Lesotho; Zimbabwe; African Union",
+      "background": "South Africa’s government has rejected claims that a recent wave of online videos showed xenophobic attacks on foreign nationals, calling them “fake videos and images” intended to damage the country’s reputation. The dispute comes amid protests in major South African cities against illegal immigration, with demonstrators demanding mass deportations of undocumented foreign nationals and citing jobs, housing, and crime. Ghana has formally written to the African Union asking for a discussion and a fact-finding mission, while Nigeria has offered to repatriate its nationals and Kenya, Malawi, Lesotho, and Zimbabwe have warned citizens to be cautious.",
+      "prop_args": [
+        {
+          "thesis": "South Africa’s failure to credibly police anti-immigrant violence and disinformation is now imposing regional diplomatic costs, so stronger AU scrutiny is justified.",
+          "mechanisms": [
+            "First, the state’s denial strategy does not resolve the underlying security problem. This is because (1) even if some videos are fake, the protests and vigilante harassment are real enough to trigger foreign-government warnings, (2) the government itself admits foreigners have been victims of general criminality, and (3) weak enforcement signals to both mobs and victims that protection is inconsistent.",
+            "Second, the issue spills beyond domestic politics into regional trust and mobility. Three reasons: one, Ghana’s AU letter and call for a fact-finding mission internationalize the dispute; two, Nigeria’s offer to repatriate nationals shows states are already treating South Africa as a risk environment; three, travel warnings from Kenya, Malawi, Lesotho, and Zimbabwe create a chilling effect on labor migration, trade, and people-to-people ties.",
+            "Third, AU intervention can deter escalation and force accountability before violence becomes entrenched. This matters because (1) South Africa has a history of deadly xenophobic outbreaks, (2) early verification and monitoring can separate misinformation from genuine abuse, and (3) continental pressure raises the political cost of tolerating anti-foreigner rhetoric while preserving African solidarity norms."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is primarily a domestic law-and-order and misinformation problem, not evidence of systemic xenophobic persecution requiring continental escalation.",
+          "mechanisms": [
+            "First, the factual basis for the panic is contested. One, the government says the circulated material is fake and intended to undermine South Africa internationally; two, the current protests have been largely peaceful with no official reports of looting or violence against undocumented migrants; three, conflating online clips with verified state-backed abuse risks overreaction.",
+            "Second, South Africa has a legitimate sovereign interest in managing illegal immigration and public order. One, protesters are raising real concerns about jobs, housing, and crime; two, governments are entitled to police borders and deport undocumented migrants; three, external pressure can delegitimize necessary enforcement and make compromise politically harder.",
+            "Third, AU involvement may worsen tensions rather than solve them. One, it encourages diplomatic grandstanding instead of evidence-based investigation; two, it can entrench a narrative of South Africa as uniquely xenophobic, harming its reputation and regional leadership; three, it may provoke nationalist backlash inside South Africa and reduce cooperation on migration reform."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the situation is treated as a verified pattern of xenophobic harm or as a politically charged mix of protest, criminality, and misinformation. Prop wins if the round prioritizes preventive regional norms and the costs of inaction; opp wins if the bench accepts that the evidence is contested and that sovereign migration control should not be internationalized too quickly.",
+      "stock_connections": [
+        "Xenophobia",
+        "Misinformation / Disinformation",
+        "Securitization of Migration",
+        "State Sovereignty vs Human Rights",
+        "Regional Integration",
+        "Collective Security",
+        "Moral Panic",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as the African Union, would investigate allegations of xenophobic violence in South Africa",
+        "THBT African states should publicly condemn South Africa’s anti-immigration protests",
+        "THP a world where regional bodies can intervene in member states over alleged hate crimes against migrants",
+        "THBT governments should prioritize border enforcement over protecting undocumented migrants",
+        "TH, as South Africa, would crack down on anti-immigration vigilante groups"
+      ],
+      "data_points": [
+        "Ghana has formally asked the African Union for a discussion and a fact-finding mission",
+        "Nigeria has offered to repatriate its nationals amid fears of attacks",
+        "Kenya, Malawi, Lesotho, and Zimbabwe have all warned citizens in South Africa to be cautious",
+        "Thousands of South Africans have protested in major cities in recent days",
+        "South Africa’s government says there have been no xenophobic attacks and that foreigners have instead been victims of general criminality",
+        "South Africa has a long history of occasional deadly xenophobic attacks"
+      ]
+    },
+    {
+      "id": "b7c2e29b207d",
+      "title": "Xi’s Anti-Corruption Purge Tightens Civilian Control but Deepens Elite Fear Inside the PLA",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T12:24:55Z",
+      "category": "IR",
+      "region": "China",
+      "background": "China has sentenced two former defence ministers, Wei Fenghe and Li Shangfu, to suspended death sentences for bribery, according to state media. Both were given death sentences with a two-year reprieve, meaning the punishment will be commuted to life imprisonment after two years, with no possibility of parole or sentence reduction; all personal assets were confiscated. Wei served as defence minister from 2018 to 2023, while Li replaced him in March 2023 and was dismissed in October 2023 after disappearing from public view. The move follows a broader anti-corruption crackdown that has also removed other senior military figures, and Xi Jinping publicly described the PLA in February as having undergone 'revolutionary tempering' in the fight against corruption.",
+      "prop_args": [
+        {
+          "thesis": "The crackdown strengthens regime control by making the PLA more disciplined, less corrupt, and more personally loyal to Xi.",
+          "mechanisms": [
+            "First, it raises the expected cost of disloyalty and graft at the very top of the military. This is because (1) two former defence ministers are being punished publicly, (2) the sentence is severe enough to signal that even elite status does not protect you, and (3) confiscation of assets plus a no-parole life term makes the punishment credible rather than symbolic.",
+            "Second, it improves command integrity by removing networks built on patronage and bribery. Three reasons: one, corruption in personnel appointments distorts promotions and creates incompetent commanders; two, purges of senior figures break these clientelist chains; three, a cleaner chain of command reduces the risk of factionalism inside the PLA.",
+            "Third, it increases Xi’s ability to mobilize the military for external and internal objectives. This matters because (1) a leadership that fears punishment is more likely to comply with central directives, (2) Xi can use anti-corruption as a loyalty test to identify unreliable elites, and (3) tighter civilian control reduces the chance of military autonomy becoming a challenge to the party-state."
+          ]
+        },
+        {
+          "thesis": "The purge can be defended as necessary state capacity-building that improves long-run governance even if it is painful in the short term.",
+          "mechanisms": [
+            "First, it attacks a real governance failure: corruption in the defense establishment. This is because (1) bribery in personnel arrangements and procurement wastes resources, (2) it undermines operational readiness by rewarding connections over competence, and (3) it creates public and elite cynicism about the state’s ability to police itself.",
+            "Second, it can deter lower-level corruption through a cascading example effect. Three reasons: one, senior cases are more visible than routine discipline cases; two, the severity of punishment makes the deterrent salient across the bureaucracy; three, officials who might otherwise treat corruption as a normal cost of office are forced to recalibrate.",
+            "Third, it helps Xi consolidate a more coherent anti-corruption narrative that sustains legitimacy. This matters because (1) the party can present itself as self-correcting, (2) popular support for punishing graft can offset concerns about elite churn, and (3) a cleaner military can be framed as essential to national rejuvenation and security."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The crackdown is less about clean governance and more about political consolidation, which makes the PLA more fearful, less professional, and more brittle.",
+          "mechanisms": [
+            "First, selective anti-corruption enforcement creates uncertainty and incentivizes obedience over competence. One, if senior officers believe charges can be politically manufactured, they will prioritize personal survival over honest reporting; two, this suppresses internal dissent and bad-news delivery; three, militaries that punish candor become less effective in crisis.",
+            "Second, purges destroy institutional continuity and trust. One, removing multiple top figures in quick succession disrupts mentorship and command networks; two, officers become risk-averse and avoid initiative; three, the PLA becomes more centralized around Xi personally, which can slow decision-making and reduce adaptability.",
+            "Third, the spectacle of suspended death sentences can backfire by signaling elite insecurity rather than strength. One, extreme punishment suggests the leadership sees corruption as endemic and uncontrollable; two, it may encourage factional maneuvering as officials seek protection through patronage; three, it can deepen paranoia inside the military and make coups or collective resistance less likely in the short term but more dangerous in the long run if grievances accumulate."
+          ]
+        },
+        {
+          "thesis": "Even if corruption is real, this style of purge can weaken military effectiveness and state capacity more than it improves them.",
+          "mechanisms": [
+            "First, it risks substituting loyalty screening for professional military management. This is because (1) promotions become more about political reliability than expertise, (2) officers spend time signaling loyalty instead of training and planning, and (3) the best talent may self-select out or become politically cautious.",
+            "Second, it can worsen morale and institutional trust. Three reasons: one, when top leaders are abruptly disappeared and then sentenced, lower ranks infer that no one is safe; two, fear reduces initiative and honest feedback; three, a military that operates under suspicion is less cohesive and less capable in wartime.",
+            "Third, it may not actually solve corruption if the underlying incentives remain. One, defense procurement and personnel systems still generate rents; two, if anti-corruption is used episodically as a purge tool, officials learn to hide rather than stop bribery; three, corruption can become more opaque and harder to detect, not less prevalent."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the purge is a genuine institutional cleanup or a political weapon. Prop wins if you prioritize deterrence and centralized control; opp wins if you think militaries need trust, autonomy, and truthful reporting to remain effective, because fear-based discipline can look strong while quietly degrading readiness.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Authoritarian Consolidation",
+        "Principal-Agent Problems",
+        "Elite Purges",
+        "Civil-Military Relations",
+        "State Capacity",
+        "Moral Hazard",
+        "Patronage Networks"
+      ],
+      "motion_areas": [
+        "TH, as Xi Jinping, would intensify anti-corruption purges within the PLA",
+        "THBT authoritarian regimes are better off using high-profile purges to discipline the military",
+        "THP a world where senior military corruption is punished with extreme mandatory sentences"
+      ],
+      "data_points": [
+        "Wei Fenghe served as China’s defence minister from 2018 to 2023",
+        "Li Shangfu was defence minister for only about 7 months, from March 2023 to October 2023",
+        "Both former ministers received suspended death sentences with a two-year reprieve, after which the sentence becomes life imprisonment without parole or sentence reduction",
+        "All personal assets of both men were confiscated",
+        "Xi publicly said in February 2026 that the PLA had undergone 'revolutionary tempering' in the fight against corruption",
+        "The crackdown follows the removal of several top military figures, including the country’s top military general, Zhang Youxia, according to the article"
+      ]
+    },
+    {
+      "id": "5ba9c6f22f6f",
+      "title": "Tshisekedi’s Third-Term Signals Risk Turning DR Congo’s Eastern War Into a Constitutional Crisis",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202dkkk70po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T10:06:39Z",
+      "category": "IR",
+      "region": "DR Congo (Kinshasa; North and South Kivu) / Rwanda",
+      "background": "On 7 May 2026, DR Congo President Félix Tshisekedi said he may seek a third term in 2028 if \"the people\" approve it in a referendum, despite the constitution allowing only two terms. He also said elections may have to be delayed because of the war in the east, where M23 rebels seized parts of North and South Kivu, including Goma and Bukavu, last year. The US sanctioned some Rwandan army commanders in March 2026 over the conflict, while a Washington-brokered peace deal has still not stopped fighting.",
+      "prop_args": [
+        {
+          "thesis": "Delaying elections and opening the door to a referendum is a necessary wartime stabilization measure that prevents a broken vote from legitimizing state collapse.",
+          "mechanisms": [
+            "First, postponement can preserve basic electoral integrity. This is because (1) voting cannot credibly be organized in territories controlled or contested by M23, (2) forcing elections without North and South Kivu would disenfranchise millions and create a result that half the country views as invalid, and (3) an invalid election in a fragile state can trigger mass protests, parallel claims to legitimacy, and elite fragmentation.",
+            "Second, a referendum route can be defended as democratic rather than authoritarian if it is genuinely popular. Three reasons: one, the constitution already allows amendment through referendum, so the dispute is over procedure rather than outright abolition of democracy; two, a public vote gives Tshisekedi a higher legitimacy threshold than a parliamentary maneuver alone; three, in a context where war has distorted normal politics, asking the electorate directly can be framed as re-authorizing the state under emergency conditions.",
+            "Third, keeping the incumbent in place may improve the odds of a negotiated settlement with Rwanda and M23. This matters because (1) leadership turnover during active conflict can weaken bargaining continuity, (2) a sitting president with a fresh mandate can credibly commit to security-sector coordination and diplomacy, and (3) if the alternative is a rushed succession crisis, armed groups gain more room to exploit institutional chaos."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Tshisekedi’s referendum talk is a classic incumbency entrenchment strategy that weaponizes insecurity to bypass term limits and erode democratic legitimacy.",
+          "mechanisms": [
+            "First, the war justification is self-serving because (1) insecurity is being used to delay the very accountability mechanism that could remove him, (2) once a leader normalizes postponement, each delay becomes easier to extend, and (3) opposition groups will read the move as proof that elections are being subordinated to regime survival rather than national security.",
+            "Second, changing term limits through a referendum in a polarized environment is not neutral democracy but a power grab. Numbered reasons: one, incumbents control state media, patronage, and administrative machinery, so the referendum is not held on a level playing field; two, the March 2026 bill already signals institutional preparation for constitutional revision, which strengthens suspicions of premeditation; three, once term limits become negotiable, future presidents inherit the precedent that constitutions are temporary obstacles, not binding rules.",
+            "Third, this risks worsening the conflict rather than solving it. This is because (1) opposition mobilization against a perceived constitutional coup can create unrest in Kinshasa and the provinces, (2) Rwanda and M23 can exploit domestic instability to justify further escalation or delay talks, and (3) international partners may reduce support if they see DR Congo sliding toward authoritarian consolidation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether insecurity is a genuine constraint or a convenient pretext. Prop wins if the round is about state survival and electoral feasibility in a war zone; opp wins if the round is about institutional precedent, because once term limits are breached under emergency logic, the democratic norm is much harder to restore.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Constitutional Coup",
+        "Incumbency Advantage",
+        "State Fragility",
+        "Security vs Democracy Tradeoff",
+        "Electoral Legitimacy",
+        "Civil-Military Conflict",
+        "Conflict Spoilers",
+        "Emergency Powers Abuse",
+        "Term Limits"
+      ],
+      "motion_areas": [
+        "TH, as DR Congo, would delay national elections until eastern security is restored",
+        "THBT African constitutions should permit term-limit extensions via referendum during armed conflict",
+        "THP a world where wartime election postponements require direct popular approval",
+        "TH, as an opposition in a fragile state, would reject constitutional amendments that extend incumbent tenure"
+      ],
+      "data_points": [
+        "DR Congo constitution allows a maximum of two presidential terms",
+        "Tshisekedi said on 7 May 2026 he may seek a third term if approved by referendum",
+        "M23 seized Goma and Bukavu in North and South Kivu in 2025",
+        "The US sanctioned some Rwandan army commanders in March 2026 over the conflict",
+        "A bill to organize a referendum was submitted to parliament in March 2026",
+        "Any constitutional amendment requires either a referendum called by the president or a three-fifths parliamentary majority"
+      ]
+    },
+    {
+      "id": "ce06b611b5ad",
+      "title": "West Bengal’s BJP Victory Triggers Post-Poll Violence That Could Normalize Coercive Party Rule",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-07T08:03:55Z",
+      "category": "IR",
+      "region": "India / West Bengal",
+      "background": "After West Bengal’s state election, at least three people were killed in post-poll violence, including Chandranath Rath, the personal assistant to BJP leader Suvendu Adhikari. The BJP won 207 of 294 seats, its first-ever victory in the state, ending 15 years of Trinamool Congress (TMC) rule; Adhikari also defeated Chief Minister Mamata Banerjee in Bhabanipur. Police said they had arrested more than 400 people for violence and intimidation, while both BJP and TMC accused each other of attacks, arson, and vandalism across districts including Murshidabad, Birbhum, Kolkata, and Howrah.",
+      "prop_args": [
+        {
+          "thesis": "The violence shows that political turnover in West Bengal can trigger coercive retaliation, making state power less about democratic competition and more about controlling the street.",
+          "mechanisms": [
+            "First, it creates a winner-takes-all incentive structure. This is because (1) local party workers understand that losing office can mean losing access to protection, jobs, and patronage, (2) the immediate post-election period becomes a high-risk window for revenge attacks, and (3) parties therefore invest in intimidation before and after polling rather than policy competition.",
+            "Second, it weakens the credibility of elections as a peaceful transfer mechanism. Three reasons: one, the killing of a senior leader’s aide signals that even elite political actors cannot guarantee safety; two, 400+ arrests show the scale of disorder is not isolated; three, repeated violence after results teaches voters that ballots do not end conflict, they merely shift who can use force.",
+            "Third, it entrenches a local 'party society' where political identity governs survival. This matters because (1) if livelihoods depend on party loyalty, citizens cannot freely defect, (2) opposition supporters face a rational fear of retaliation, and (3) over time this converts electoral democracy into managed coercion, which is much harder to reverse than one-off riots."
+          ]
+        },
+        {
+          "thesis": "The BJP’s victory may actually intensify instability because a new ruling party has to displace entrenched local networks that previously controlled the state.",
+          "mechanisms": [
+            "First, regime replacement threatens existing patronage structures. One, TMC-linked local actors lose access to influence and resources; two, they have incentives to sabotage the transition through violence; three, the new BJP administration then inherits a hostile bureaucracy and street-level resistance.",
+            "Second, the transition invites pre-emptive escalation by both sides. One, BJP supporters interpret victory as permission to retaliate and celebrate aggressively; two, TMC cadres see the result as existential and may strike before being marginalized; three, this mutual fear produces spirals of arson, vandalism, and targeted killings.",
+            "Third, central and state-level polarization makes law enforcement politically contested. This matters because (1) each side accuses police of bias, (2) that reduces trust in neutral enforcement, and (3) when people do not trust institutions, they arm themselves or rely on party muscle instead."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The violence is serious but not evidence of democratic collapse; it is a familiar, containable symptom of West Bengal’s long-standing partisan culture.",
+          "mechanisms": [
+            "First, the article itself says violence after elections is not uncommon in West Bengal. One, that means this is a recurring local pathology rather than a new systemic breakdown; two, recurring violence can be managed through policing and prosecutions; three, the fact that elections still occurred and power changed hands shows the democratic process remains intact.",
+            "Second, the state and national institutions are already responding. One, police arrested more than 400 people; two, the Election Commission directed immediate monitoring of law and order; three, a court-monitored investigation has been demanded, which gives the state tools to deter escalation and restore order.",
+            "Third, the scale is politically significant but not necessarily strategically transformative. One, deaths are lower than in previous election cycles; two, most incidents are localized to specific districts rather than a statewide civil conflict; three, once the new government is sworn in, incentives for street mobilization usually fall as the transition stabilizes."
+          ]
+        },
+        {
+          "thesis": "The BJP’s win can reduce long-term violence by breaking an entrenched one-party local order and forcing accountability.",
+          "mechanisms": [
+            "First, alternation in power can weaken the old 'party society'. One, it disrupts monopolies over local patronage; two, it gives opposition supporters a route into state institutions; three, it reduces the sense that one party can permanently dominate rural life.",
+            "Second, a new government can improve law and order if it has the political will. One, the BJP is already framing violence as a policing failure and promising restoration; two, a fresh administration can replace compromised local officials; three, visible enforcement after a landslide victory can deter future intimidation.",
+            "Third, the public backlash against violence can strengthen democratic norms. One, both parties publicly condemned the killing; two, media attention increases the reputational cost of overt political murder; three, if voters punish violent actors, parties have incentives to shift from coercion toward electoral competition."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the violence is a temporary transition shock or evidence of a durable coercive political order. Prop is stronger if the round is about democratic quality and state legitimacy, because repeated killings and intimidation directly undermine free political choice; Opp is stronger if the round is about immediate governability, because arrests, institutional monitoring, and a change in government can contain the crisis.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Political Violence",
+        "State Capacity",
+        "Patronage Networks",
+        "Winner-Takes-All Politics",
+        "Electoral Intimidation",
+        "Security Dilemma",
+        "Transition Instability"
+      ],
+      "motion_areas": [
+        "TH, as the BJP, would prioritize aggressive law-and-order crackdowns in West Bengal after victory",
+        "THBT electoral alternation in deeply polarized states does more harm than good",
+        "THP a world where local party machines are dismantled after elections",
+        "THBT democracies should ban parties from holding victory rallies immediately after contested elections"
+      ],
+      "data_points": [
+        "At least 3 people killed in post-poll violence since Monday",
+        "Police said more than 400 people were arrested for violence and intimidation",
+        "BJP won 207 of 294 seats in West Bengal",
+        "The BJP has never previously won West Bengal before this election",
+        "Suvendu Adhikari defeated Mamata Banerjee in Bhabanipur",
+        "Violence has been recurring after elections in West Bengal for years",
+        "Chief Election Commissioner Gyanesh Kumar directed police and district administration to monitor law and order and act immediately against violence or vandalism"
       ]
     }
   ]

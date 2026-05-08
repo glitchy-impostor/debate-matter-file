@@ -16,6 +16,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+import dedupe as dedupe_mod
 import pipeline
 import utils
 
@@ -41,6 +42,15 @@ def main() -> int:
         action="store_true",
         help="Use existing state.json instead of starting empty (resume mode).",
     )
+    parser.add_argument(
+        "--dedup-threshold",
+        type=float,
+        default=dedupe_mod.DEFAULT_THRESHOLD,
+        help=(
+            "Jaccard threshold for cross-source dedup (default 0.55). "
+            "Lower = more aggressive merging. 1.0 disables dedup."
+        ),
+    )
     parser.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args()
 
@@ -61,6 +71,7 @@ def main() -> int:
         initial_state=initial_state,
         max_articles=args.max_articles,
         api_delay=args.api_delay,
+        dedup_threshold=args.dedup_threshold,
     )
     log.info("backfill summary: %s", summary)
     return 0

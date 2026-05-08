@@ -1,279 +1,360 @@
 {
   "date": "2026-05-08",
-  "last_updated": "2026-05-08T08:11:08Z",
+  "last_updated": "2026-05-08T08:22:08Z",
   "cards": [
     {
+      "id": "43be1a786212",
+      "title": "Iran War Windfall Exposes How Conflict Transfers Wealth to Energy, Finance, Defence and Clean-Tech Winners",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-08T08:13:07Z",
+      "category": "Econ",
+      "region": "Middle East / Global energy markets",
+      "background": "The BBC reports that the US-Israel war in Iran and the effective closure of the Strait of Hormuz have pushed up global energy prices and triggered major volatility across financial markets. Around a fifth of the world’s oil and gas normally moves through the Strait, and shipments effectively ground to a halt at the end of February 2026. The article says this has raised costs for households and governments while boosting profits for oil majors, banks, defence contractors and some renewable-energy firms.",
+      "prop_args": [
+        {
+          "thesis": "War-induced market volatility creates concentrated windfall gains for firms with trading, pricing power, or state-backed demand, so conflict redistributes wealth upward rather than just destroying it.",
+          "mechanisms": [
+            "First, the shock to the Strait of Hormuz tightens supply and spikes prices, which directly increases revenue for incumbent energy producers. This is because (1) roughly one-fifth of global oil and gas normally transits the Strait, (2) the article says shipments effectively ground to a halt at the end of February, and (3) European majors with trading arms can profit from sharp price swings rather than just higher volumes.",
+            "Second, financial intermediaries monetise uncertainty through higher trading activity and flight-to-safety flows. Three reasons: one, investors rebalance away from risky assets into cash and safer instruments; two, volatility increases turnover and fee income for banks’ trading desks; three, the article cites JP Morgan’s trading arm making a record $11.6bn in revenue in Q1 2026 and the Big Six banks earning $47.7bn overall.",
+            "Third, conflict expands demand for defence and resilience spending, creating durable revenue streams beyond the immediate battlefield. This matters because (1) governments replenish depleted stockpiles, (2) the war exposes air-defence and counter-drone gaps, and (3) it also accelerates investment into renewables and EVs as states and consumers hedge against fossil-fuel shocks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The apparent winners are narrow, temporary, and politically fragile, while the broader economy absorbs the real costs of war through inflation, supply disruption, and overvaluation risk.",
+          "mechanisms": [
+            "First, higher profits in a few sectors do not offset economy-wide losses from energy inflation. One, households and firms face higher transport and input costs; two, governments face larger subsidy and welfare bills; three, the article explicitly says the conflict is hitting the budgets of firms, families and governments.",
+            "Second, conflict profits are unstable because they depend on exceptional volatility, not sustainable fundamentals. One, oil and bank gains come from price swings that can reverse quickly; two, defence shares have already fallen back since mid-March amid overvaluation fears; three, even the US oil majors saw earnings fall year-on-year because supply disruption hurts production and operations.",
+            "Third, the war can accelerate substitution away from the very sectors that benefit from it. One, high petrol prices boost EV demand and solar/heat-pump sales; two, investors and governments treat energy security as a reason to diversify away from fossil fuels; three, that means the conflict may permanently erode future demand for oil-linked profits."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term sectoral windfalls and economy-wide welfare losses. This argument wins because the gains are concentrated in a few capital-intensive firms, while the costs are diffuse, immediate, and borne by households, importers, and governments across the global economy.",
+      "stock_connections": [
+        "War Profiteering",
+        "Inflation",
+        "Volatility Arbitrage",
+        "Dutch Disease",
+        "Energy Security",
+        "Substitution Effects",
+        "Moral Hazard",
+        "Military Keynesianism",
+        "Resource Curse"
+      ],
+      "motion_areas": [
+        "TH, as governments, would impose windfall taxes on firms that profit from wartime volatility",
+        "THBT states should treat energy security as a national security issue and subsidise rapid diversification away from fossil fuels",
+        "THP a world where major conflicts trigger automatic redistribution of excess profits from oil and finance to consumers",
+        "TH, as the EU, would accelerate defence and renewable industrial policy in response to Middle East supply shocks"
+      ],
+      "data_points": [
+        "Around one-fifth of the world’s oil and gas normally transits the Strait of Hormuz",
+        "Shipments through the Strait effectively ground to a halt at the end of February 2026",
+        "BP first-quarter 2026 profits more than doubled to $3.2bn, driven by an 'exceptional' trading performance",
+        "Shell first-quarter profits rose to $6.92bn",
+        "TotalEnergies first-quarter 2026 profits rose almost a third to $5.4bn",
+        "JP Morgan’s trading arm made a record $11.6bn in revenue in Q1 2026",
+        "The Big Six US banks reported $47.7bn in profits in the first three months of 2026",
+        "BAE Systems expects strong growth in sales and profits this year",
+        "Lockheed Martin, Boeing and Northrop Grumman each reported record order backlogs at the end of Q1 2026",
+        "Octopus Energy said UK solar panel sales rose 50% since the end of February",
+        "NextEra Energy shares were up 17% so far this year",
+        "Defence shares have fallen back since mid-March amid overvaluation fears"
+      ]
+    },
+    {
       "id": "429c1b34d7f7",
-      "title": "Fragile US-Iran Ceasefire Keeps Strait of Hormuz as a Global Oil Shock Trigger",
+      "title": "Fragile US-Iran Ceasefire Keeps Strait of Hormuz as the World’s Most Dangerous Oil Chokepoint",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-08T07:04:24Z",
       "category": "Econ",
-      "region": "Strait of Hormuz / US / Iran / Global",
-      "background": "Oil prices rose on Friday after the US and Iran exchanged fire in the Strait of Hormuz, the key waterway through which more than a fifth of the world's oil and gas usually passes. Brent crude briefly rose almost 3% to nearly $103 a barrel before easing back to around $100, up from about $70 before the conflict began. The US said it carried out self-defence strikes after 'unprovoked' Iranian attacks on US ships leaving the Gulf, while Iran said the US had violated a ceasefire and attacked its vessels and coastline. President Donald Trump said the ceasefire was still in place and that negotiations with Iran were ongoing.",
+      "region": "Strait of Hormuz / Global oil markets / United States / Iran",
+      "background": "Oil prices rose on Friday after the US and Iran exchanged fire in the Strait of Hormuz, a waterway through which more than a fifth of the world’s oil and gas usually passes. Brent crude briefly climbed almost 3% to nearly $103 a barrel before easing back to around $100, compared with about $70 before the conflict began. The US military said it carried out self-defence strikes after Iranian attacks on US ships, while Iran said the US had violated the ceasefire; President Donald Trump insisted the ceasefire still held and said negotiations with Tehran were ongoing.",
       "prop_args": [
         {
-          "thesis": "The exchange shows that even limited military friction in the Strait of Hormuz creates immediate global energy price shocks, so de-escalation and diplomatic management are economically necessary.",
+          "thesis": "The exchange shows why even limited military escalation around Hormuz justifies aggressive deterrence and pressure on Iran, because the global economy cannot tolerate repeated energy blackmail.",
           "mechanisms": [
-            "First, the Strait of Hormuz is a single-point chokepoint for global energy flows. This is because (1) more than one-fifth of the world's oil and gas usually passes through it, (2) traders price in even small risks of disruption immediately, and (3) any threat to tanker movement forces markets to add a war-risk premium within hours.",
-            "Second, the conflict transmits directly into inflation and growth pressures across importing economies. Three reasons: one, Brent jumped almost 3% to nearly $103 a barrel before settling around $100; two, oil was already around $70 before the conflict, so the shock is a large upward reset rather than a marginal move; three, higher fuel costs feed transport, food, and industrial input prices, squeezing households and firms.",
-            "Third, a fragile ceasefire is economically preferable to continued brinkmanship because it preserves market confidence. This matters because traders are already treating the truce as unstable, meaning every new exchange of fire compounds uncertainty, discourages investment, and raises hedging costs for shipping and energy firms."
+            "First, the threat of force protects the credibility of the chokepoint. This is because (1) Iran’s leverage comes from being able to disrupt a route carrying more than 20% of global oil and gas, (2) even a brief clash pushed Brent up almost 3% to nearly $103, and (3) if Iran learns that harassment produces no cost, it has every incentive to keep using calibrated disruption as bargaining power.",
+            "Second, military pressure can force faster diplomacy by raising the cost of stalling. Three reasons: one, Trump is already coupling strikes with negotiations and explicit nuclear demands, two, Iran’s leadership faces domestic and economic strain from higher wartime risk and blocked exports, and three, markets respond immediately to uncertainty, so credible coercion can create urgency that sanctions alone often fail to produce.",
+            "Third, protecting Hormuz is a systemic economic interest, not just a bilateral dispute. This matters because (1) oil moved from around $70 before the conflict to around $100 during the crisis, (2) sustained price spikes feed inflation, shipping costs, and recession risk globally, and (3) a hard line signals to other revisionist states that weaponizing energy corridors will trigger real retaliation."
           ]
         }
       ],
       "opp_args": [
         {
-          "thesis": "The market reaction is a temporary risk premium, not a structural oil crisis, so the world can absorb the shock if the ceasefire holds and production routes remain open.",
+          "thesis": "The exchange proves that militarized brinkmanship around Hormuz is economically self-defeating, and de-escalation plus diplomacy is the only durable way to stabilize oil markets.",
           "mechanisms": [
-            "First, prices can spike without long-term supply collapse. One, Brent rose to nearly $103 but then fell back to around $100, showing traders still expect flows to continue; two, the US and Iran both publicly downplayed escalation, which signals that neither side wants a full closure of the strait; three, if the waterway remains open, the shock is mostly speculative rather than physical.",
-            "Second, the US still has tools to contain escalation and reassure markets. One, Trump said the ceasefire remains in place and negotiations are ongoing; two, US Central Command said it was not seeking to escalate the conflict; three, visible signaling from both sides can stabilize expectations and prevent panic buying.",
-            "Third, oil markets are resilient enough to price in geopolitical risk without causing systemic collapse. One, the world has strategic reserves and diversified supply chains; two, traders routinely absorb Middle East tensions as a premium rather than a permanent shortage; three, if the conflict stays limited to isolated exchanges, the macro impact is manageable compared to a true supply cutoff."
+            "First, military action itself amplifies the very volatility it claims to prevent. One, the market reacted immediately with Brent jumping almost 3%, two, traders described the ceasefire as 'fragile' and priced in renewed disruption even after both sides downplayed the clash, and three, every additional strike raises the probability of miscalculation in a narrow chokepoint where a single incident can affect global supply.",
+            "Second, coercion entrenches Iranian incentives to retaliate rather than comply. One, Iran framed the US as the ceasefire violator, two, if Tehran believes its ships and coastline are under attack it has domestic and strategic reasons to answer force with force, and three, that creates a cycle where each side’s 'limited' response becomes the other side’s justification for escalation.",
+            "Third, the economic damage from instability is borne globally, so the rational policy is confidence-building, not escalation. One, oil was already up from around $70 to around $100, two, more than a fifth of global oil and gas flows through Hormuz, and three, even temporary interruptions hit importers, consumers, and emerging markets far beyond the US-Iran dyad."
           ]
         }
       ],
-      "weighing": "The biggest delta in this debate is whether the Strait of Hormuz is treated as a temporary headline risk or a durable supply chokepoint. Prop wins if they prove that even brief military exchanges create repeated price shocks and inflationary spillovers; Opp wins if they show the ceasefire is credible enough that markets are only pricing a short-lived premium, not a sustained shortage.",
+      "weighing": "The biggest delta in this debate is whether short-term coercive credibility is worth the risk of accidental escalation in a chokepoint that moves over 20% of global oil and gas. Prop wins if you prioritize deterrence and market discipline; opp wins if you think the main structural fact is that every military exchange increases the probability of a supply shock that no side can fully control.",
       "stock_connections": [
-        "Chokepoint leverage",
-        "Commodity price shocks",
-        "Inflation pass-through",
-        "Risk premium",
-        "Energy security",
-        "Geopolitical instability",
-        "Market panic",
-        "Supply chain disruption"
+        "Chokepoint Vulnerability",
+        "Energy Security",
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Moral Hazard",
+        "Commodity Price Volatility",
+        "Inflation Spillovers",
+        "Brinkmanship",
+        "Miscalculation Risk"
       ],
       "motion_areas": [
-        "TH, as an oil-importing country, would prioritize de-escalation with Iran over punitive containment",
-        "THBT global markets are too dependent on the Strait of Hormuz",
-        "THP a world where major energy chokepoints are protected by multilateral guarantees"
+        "TH, as the United States, would use military force to protect global shipping lanes in the Strait of Hormuz",
+        "THBT states should prioritize deterrence over diplomacy when adversaries threaten energy chokepoints",
+        "THP a world where major oil chokepoints are secured by international naval patrols"
       ],
       "data_points": [
         "Brent crude rose almost 3% to nearly $103 a barrel before falling back to around $100",
         "Oil was trading at around $70 a barrel before the conflict began",
-        "More than a fifth of the world's oil and gas usually passes through the Strait of Hormuz",
-        "The US said three destroyers were involved in the latest exchange of fire",
-        "The conflict has effectively blocked the Strait of Hormuz since the start of the US-Israel war with Iran"
+        "More than a fifth of the world’s oil and gas usually passes through the Strait of Hormuz",
+        "Trump said three US destroyers were involved in the latest exchange of fire",
+        "The US said it carried out self-defence strikes after Iranian attacks on US ships",
+        "The conflict began on 28 February when the US and Israel attacked Iran"
       ]
     },
     {
       "id": "dea332603c6f",
-      "title": "Fragile US-Iran Ceasefire Collapses Into Strait of Hormuz Brinkmanship",
+      "title": "Fragile US-Iran Ceasefire Holds Only on Paper as Strait of Hormuz Clash Risks Wider Regional War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-08T05:57:08Z",
       "category": "IR",
-      "region": "US / Iran / Strait of Hormuz / UAE",
-      "background": "On 8 May 2026, the BBC reported that the US and Iran exchanged fire in the Strait of Hormuz even as Donald Trump insisted a ceasefire was still in place. The US said Iranian forces launched missiles, drones and small boats at three US warships, while Iran said the US struck an Iranian oil tanker and coastal areas near Bandar Khamir, Sirik and Qeshm Island. The UAE’s Ministry of Defence also said its air defences were actively engaging an Iranian missile and drone attack, underscoring the regional spillover risk. The flare-up came as Tehran was reportedly considering a US proposal for a 14-point memorandum of understanding and as both sides publicly threatened further escalation if their conditions were not met.",
+      "region": "United States / Iran / Strait of Hormuz / United Arab Emirates",
+      "background": "On 8 May 2026, Donald Trump said a ceasefire with Iran was still in place after a clash in the Strait of Hormuz between Iranian forces and US naval destroyers. The US said Iran launched missiles, drones and small boats at three warships, while Iran alleged the US struck an Iranian oil tanker and coastal sites near Bandar Khamir, Sirik and Qeshm Island. The UAE said its air defences were actively engaging a missile and drone attack from Iran, and the exchange came a day after Iran said it was considering a US proposal for ending the war.",
       "prop_args": [
         {
-          "thesis": "The US should use overwhelming coercive pressure in the Strait of Hormuz to force Iran into a deal before the conflict widens.",
+          "thesis": "The US should keep military pressure on Iran because coercion is the only thing forcing Tehran toward a deal and preventing it from using ceasefire talks to buy time.",
           "mechanisms": [
-            "First, hard pressure creates bargaining leverage because (1) Iran’s economy and military posture are highly exposed to maritime chokepoints, (2) the regime needs sanctions relief and de-escalation more than the US needs a quick settlement, and (3) visible punishment raises the cost of continued delay, making compromise more attractive than brinkmanship.",
-            "Second, limited but forceful retaliation can restore deterrence. Three reasons: one, it signals that attacks on US ships will be met immediately; two, it reduces the incentive for Iran to use deniable proxies and small-boat harassment; three, it reassures Gulf partners like the UAE that the US security umbrella still functions.",
-            "Third, escalation now can prevent a larger war later because a ceasefire that is already being violated is not stable. This matters because if Iran learns that it can probe US resolve without major consequences, it will keep testing red lines until a much bigger crisis forces a worse and less controlled response."
+            "First, sustained force creates bargaining leverage. This is because (1) Iran is only engaging through Pakistani mediators after battlefield pressure, (2) Trump is explicitly tying future bombing to whether Iran signs a deal, and (3) the reported US strikes on missile, drone, and ISR nodes show Washington can still impose costs faster than diplomacy can deliver concessions.",
+            "Second, a hard line deters opportunistic escalation in the Strait of Hormuz. Three reasons: one, the strait is a chokepoint where even limited attacks can threaten global shipping; two, Iran's use of small boats, drones, and missiles suggests asymmetric harassment is its preferred tool; three, visible retaliation raises the expected cost of future attacks for both the IRGC and any proxy actors.",
+            "Third, coercion can lock in a better nuclear outcome. This matters because (1) Iran's nuclear programme remains the core sticking point, (2) a weak ceasefire without enforcement lets Tehran preserve enrichment capacity while extracting sanctions relief or political recognition, and (3) a credible threat of renewed strikes is what makes a 14-point memorandum or follow-on nuclear framework more than a symbolic pause."
           ]
         }
       ],
       "opp_args": [
         {
-          "thesis": "The US should avoid military escalation and prioritize a negotiated settlement because force in the Strait of Hormuz is more likely to produce regional war than compliance.",
+          "thesis": "The US should de-escalate and prioritize diplomacy because military pressure in the Strait of Hormuz is more likely to trigger a regional war than to produce a durable nuclear settlement.",
           "mechanisms": [
-            "First, military pressure can backfire by hardening Iranian resolve. One, it strengthens Iranian hardliners who argue the US cannot be trusted; two, it makes compromise look like surrender domestically; three, it reduces the space for moderates or mediators like Pakistan to sell a deal.",
-            "Second, escalation risks immediate economic and security spillovers. One, the Strait of Hormuz is a global energy chokepoint, so even short disruptions can spike oil prices and hurt allies; two, attacks on UAE territory show the conflict can widen beyond the bilateral US-Iran track; three, once ships and coastal sites are hit, miscalculation becomes much more likely than controlled signaling.",
-            "Third, diplomacy is the only route to a durable outcome because the core dispute is the nuclear file, not just the naval clash. One, airstrikes cannot verify or cap Iran’s nuclear program; two, a memorandum of understanding can create sequencing and monitoring; three, a ceasefire that survives only through threats is inherently unstable."
+            "First, escalation is structurally hard to control. One, both sides are already blaming each other for the same incident, which makes accidental retaliation likely; two, the UAE is already being pulled in through incoming missiles and drones, so the conflict is spreading beyond the bilateral channel; three, once shipping and regional bases are hit, domestic pressure in both countries pushes leaders to answer force with force.",
+            "Second, coercion undermines the credibility of any ceasefire or negotiation track. One, Iran's parliament is already calling the US proposal a 'wish list' and warning it has 'its finger on the trigger'; two, Trump's public threats about bombing 'a lot harder' make concessions politically toxic for Tehran; three, if talks are seen as cover for strikes, mediators like Pakistan lose leverage and the window for a negotiated nuclear framework closes.",
+            "Third, military pressure can backfire strategically by strengthening Iranian hardliners. One, external attack lets them frame compromise as surrender; two, it reduces space for moderates who were considering the proposal; three, it can accelerate rather than slow nuclear hedging because Tehran concludes only a nuclear deterrent can prevent future US attacks."
           ]
         }
       ],
-      "weighing": "The biggest delta in this debate is whether coercion produces compliance or collapse. Pro wins if you believe Iran is strategically vulnerable and deterrable; Opp wins if you think the Strait of Hormuz makes any show of force too economically and militarily contagious to control.",
+      "weighing": "The biggest delta in this debate is whether coercion produces compliance or collapse. The proposition has the stronger short-term leverage story, but the opposition has the better structural claim that repeated strikes in a chokepoint create escalation spirals and harden Iranian decision-making, making a durable settlement less likely.",
       "stock_connections": [
         "Deterrence",
-        "Brinkmanship",
+        "Coercive Diplomacy",
         "Security Dilemma",
-        "Escalation Ladder",
-        "Credibility",
-        "Miscalculation",
-        "Energy Security",
-        "Chokepoint Politics",
-        "Negotiation Under Coercion"
+        "Escalation Spiral",
+        "Credible Commitment Problem",
+        "Nuclear Proliferation",
+        "Proxy War",
+        "Chokepoint Security",
+        "Regional Spillover"
       ],
       "motion_areas": [
         "TH, as the United States, would maintain military pressure on Iran despite a fragile ceasefire",
-        "THBT the US should prioritize coercive deterrence over immediate diplomacy in the Strait of Hormuz crisis",
-        "THP a world where great powers respond to ceasefire violations with immediate limited force"
+        "THBT the US should prioritize coercive diplomacy over immediate de-escalation in negotiations with Iran",
+        "THP a world where ceasefires in the Middle East are enforced by continued military strikes on violations"
       ],
       "data_points": [
-        "Exchange of fire occurred in the Strait of Hormuz between US naval destroyers and Iranian forces on 8 May 2026",
-        "US Central Command said Iranian forces launched 'multiple missiles, drones and small boats' at three US warships",
-        "Centcom said it targeted missile and drone launch sites, command and control locations, and ISR nodes in response",
-        "The UAE Ministry of Defence said its air defences were 'actively engaging' an Iranian missile and drone attack",
-        "Trump said the US had destroyed multiple small boats and warned Iran the US would hit it 'a lot harder, and a lot more violently' if no deal was signed",
+        "Exchange of fire occurred in the Strait of Hormuz, a critical global shipping chokepoint",
+        "US said Iran launched missiles, drones and small boats against three US warships",
+        "Centcom said it targeted missile and drone launch sites, command and control locations, and ISR nodes",
+        "UAE Ministry of Defence said its air defences were actively engaging a missile and drone attack from Iran",
+        "Iranian foreign ministry said it was considering a US proposal and would respond via Pakistani mediators",
         "Axios reported the White House believed it could be close to a 14-point memorandum of understanding with Iran",
-        "Iranian parliament spokesman Ebrahim Rezaei said Iran 'has its finger on the trigger' and would respond harshly if the US did not 'surrender'",
-        "The article identifies the Strait of Hormuz as the site of the clash, a key global oil transit chokepoint"
+        "Trump warned that if Iran did not agree to a deal, 'the bombing starts' at a 'much higher level and intensity'",
+        "Iranian parliament spokesman Ebrahim Rezaei said Iran 'has its finger on the trigger'"
       ]
     },
     {
       "id": "fa5b70c36e49",
-      "title": "Australia’s IS Returnees Force a Clash Between Repatriation, Justice, and Counterterrorism",
+      "title": "Australia’s ISIS Repatriation Program Triggers Accountability vs Reintegration Clash",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cdrpx8pl36vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-08T05:07:55Z",
       "category": "IR",
       "region": "Australia / Syria",
-      "background": "Three Australian women with links to the Islamic State were formally charged after returning from Syria. Kawsar Ahmad, 53, and her daughter Zeinab Ahmad, 31, were arrested at Melbourne airport and charged with crimes against humanity; police allege Kawsar was complicit in the purchase of a female slave for US$10,000 and both women knowingly kept a slave in their home. In Sydney, Janai Safar, 32, was charged with entering and remaining in a declared conflict zone and joining IS. The three are part of a larger cohort of 34 Australian women and children who had been living at the al-Roj camp in Syria since 2019, and the Australian government had previously refused to assist their return.",
+      "background": "Three Australian women with links to Islamic State were charged after returning from Syria and arriving in Australia on Thursday, 7 May 2026. Kawsar Ahmad, 53, and her daughter Zeinab Ahmad, 31, were arrested at Melbourne airport and charged with crimes against humanity; police allege Kawsar helped buy a female slave for US$10,000 and both women knowingly kept her in their home. Janai Safar, 32, was charged in Sydney with entering and remaining in a declared conflict zone and joining IS, with a separate allegation of membership in a terrorist organisation. The women were part of a larger cohort of 34 Australian women and children who had been living at the al-Roj camp in Syria since 2019; the group left the camp in February but was returned there for 'technical reasons' after the Australian government refused assistance.",
       "prop_args": [
         {
-          "thesis": "Australia should aggressively prosecute returning IS-linked nationals to signal that citizenship does not shield atrocity crimes and to deter future foreign-fighter participation.",
+          "thesis": "Australia should aggressively prosecute returning ISIS-linked women because repatriation without accountability creates impunity for atrocity crimes and weakens counterterrorism deterrence.",
           "mechanisms": [
-            "First, prosecution restores deterrence and raises the expected cost of joining extremist groups. This is because (1) foreign-fighter travel often relies on the assumption that women and family members will be treated leniently, (2) visible arrests at the airport show that return does not equal impunity, and (3) long prison terms — up to 25 years for crimes against humanity — create a credible threat that can shape future decisions by would-be recruits and facilitators.",
-            "Second, it protects domestic security by incapacitating people who may still hold extremist networks, ideology, or facilitation capacity. Three reasons: one, returnees can act as nodes for radicalization inside diaspora communities; two, some may have logistical knowledge about recruitment, financing, and travel routes; three, the state reduces monitoring burdens by moving the highest-risk cases into custody and the criminal justice system.",
-            "Third, prosecution is necessary for justice and legitimacy because the alleged conduct involves slavery and membership in a genocidal organization. This matters because (1) victims of IS crimes need recognition that their abuse is treated as serious international criminal conduct, (2) failure to prosecute would create a perception of double standards between domestic offenders and overseas atrocity perpetrators, and (3) a court process creates evidentiary records that can support broader accountability for IS crimes."
+            "First, prosecution restores the rule of law against transnational atrocity networks. This is because (1) crimes against humanity are not 'foreign war' conduct but universally condemnable offences, (2) letting returnees walk free signals that gender, family status, or distance from the battlefield can shield perpetrators, and (3) formal charges create a documented evidentiary record that can be used against wider facilitation networks.",
+            "Second, it deters future travel, support, and recruitment into jihadist enclaves. Three reasons: one, the threat of 10-25 year sentences raises the expected cost of joining IS or maintaining its household economy; two, public arrests at the airport show that return does not equal amnesty, which matters for would-be facilitators and spouses; three, it undermines the narrative that women and family members are 'non-combatants' who can safely support extremist governance.",
+            "Third, it protects domestic security by forcing individualized screening and incapacitating high-risk actors. This matters because (1) al-Roj returnees may include radicalized adults with social ties to extremist networks, (2) custody and court supervision reduce the chance of re-engagement or clandestine support, and (3) the state can separate culpable adults from children while still preserving the option of child welfare interventions."
           ]
         }
       ],
       "opp_args": [
         {
-          "thesis": "Australia should prioritize repatriation, rehabilitation, and child protection over high-profile prosecutions that may be symbolically satisfying but strategically counterproductive.",
+          "thesis": "Australia should prioritize managed repatriation and rehabilitation over punitive prosecutions because blanket criminalization is legally weak, operationally costly, and risks creating a permanent radicalization problem.",
           "mechanisms": [
-            "First, criminal prosecution can be a blunt tool that does little to reduce long-term extremism. One, many returnees are family members rather than frontline combatants, so blanket punishment risks overestimating individual culpability; two, prison can harden identities and reinforce extremist narratives of persecution; three, incarceration without deradicalization may simply delay the security problem rather than solve it.",
-            "Second, the state has a duty to manage the children and family members in these cohorts humanely and pragmatically. One, children cannot be treated as responsible for parental affiliations and need education, healthcare, and social reintegration; two, keeping families in limbo in camps like al-Roj creates a humanitarian and security vacuum where radicalization is more likely; three, controlled repatriation allows authorities to monitor, support, and separate risk profiles more effectively than abandonment abroad.",
-            "Third, overreliance on prosecutions can weaken rule-of-law credibility if evidence is thin or politically charged. One, crimes committed in Syria are hard to prove to domestic criminal standards years later; two, selective enforcement can look like punishment driven by public outrage rather than individualized guilt; three, if cases collapse or appear unfair, the government loses legitimacy and strengthens extremist propaganda about Western injustice."
+            "First, prosecution may be evidentially fragile and therefore overstates accountability. One, many alleged acts occurred in a war zone where chain-of-custody, witness availability, and corroboration are weak; two, if the state cannot prove individual mens rea beyond reasonable doubt, high-profile cases can collapse and legitimize claims of selective justice; three, broad suspicion of all returnees can punish association rather than conduct.",
+            "Second, harsh treatment can worsen long-term security by entrenching grievance and underground networks. One, if families perceive the state as permanently excluding them, they are more likely to self-isolate and rely on extremist social circles; two, children repatriated into a punitive environment may inherit stigma and become more vulnerable to radicalization; three, rehabilitation and monitoring are more effective than prison for reducing recidivism among peripheral supporters.",
+            "Third, repatriation is necessary to solve the humanitarian and sovereignty problem created by offshore camps. One, leaving citizens in al-Roj effectively outsources justice to unstable Kurdish-administered detention sites with poor conditions; two, bringing them home allows Australia to control detention, prosecution, child protection, and deradicalization under its own legal system; three, refusing assistance while later arresting returnees looks politically expedient rather than principled, undermining trust in state policy."
           ]
         }
       ],
-      "weighing": "The biggest delta in this debate is between short-term punitive signaling and long-term security management. Prosecution wins if you think deterrence and accountability are the priority; repatriation wins if you think the real problem is preventing future radicalization and managing children and low-risk family members in a controlled environment.",
+      "weighing": "The biggest delta in this debate is between immediate accountability and long-term security management. Prosecution wins if you think atrocity crimes require visible punishment to preserve deterrence and rule-of-law legitimacy; rehabilitation wins if you think weak evidence and mass stigma make courtroom punishment less effective than controlled reintegration and monitoring.",
       "stock_connections": [
         "Counterterrorism",
-        "Foreign Fighters",
-        "Collective Punishment",
         "Rule of Law",
-        "Rehabilitation vs Incapacitation",
+        "Transitional Justice",
+        "Rehabilitation vs Punishment",
+        "Collective Punishment",
         "Radicalization",
-        "State Legitimacy",
+        "State Capacity",
         "Humanitarian Responsibility",
-        "Accountability for Atrocity Crimes"
+        "Due Process"
       ],
       "motion_areas": [
-        "TH, as Australia, would prosecute all returning IS-linked nationals to the fullest extent of the law",
-        "THBT states should repatriate citizens from foreign ISIS camps and process them domestically",
-        "THP a world where women and family members of foreign fighters are treated as full security risks rather than presumed dependents"
+        "TH, as Australia, would prosecute all returning ISIS-linked nationals to the fullest extent of the law",
+        "THBT states should repatriate citizens from overseas terrorist camps and try them at home",
+        "THP a world where membership in a terrorist organization is treated as a serious domestic crime regardless of where it occurred"
       ],
       "data_points": [
-        "Kawsar Ahmad, 53, faces four charges of crimes against humanity; maximum sentence: 25 years",
-        "Zeinab Ahmad, 31, faces two crimes-against-humanity charges; maximum sentence: 25 years",
-        "Janai Safar, 32, faces charges of entering and remaining in a declared conflict zone and joining IS; maximum penalty up to 10 years",
-        "The cohort includes 34 Australian women and children who had been living at al-Roj camp in Syria since 2019",
-        "Police allege Kawsar Ahmad was complicit in the purchase of a female slave for US$10,000",
-        "The women returned to Australia after leaving al-Roj in February, but were sent back for 'technical reasons' after the government refused assistance",
-        "One member of the cohort was subject to a temporary exclusion order preventing return for up to two years"
+        "Three Australian women were charged after arriving from Syria on 7 May 2026",
+        "Kawsar Ahmad faces four charges of crimes against humanity, with a maximum sentence of 25 years",
+        "Zeinab Ahmad faces two crimes-against-humanity charges, also carrying up to 25 years",
+        "Janai Safar faces charges of entering and remaining in a declared conflict zone and joining IS, each carrying up to 10 years",
+        "The cohort included 34 Australian women and children living at al-Roj camp in Syria since 2019",
+        "The group left al-Roj in February 2026 but was returned there after the Australian government refused assistance",
+        "One member was subject to a temporary exclusion order barring return for up to two years",
+        "Kawsaw Ahmad allegedly helped buy a female slave for US$10,000 and knowingly kept her in the home"
       ]
     },
     {
       "id": "c50fb7700bc8",
-      "title": "Trump-Lula Rapprochement Masks Deep US-Brazil Frictions Over Trade, Crime, and Bolsonaro",
+      "title": "Trump-Lula Detente Masks Deep U.S.-Brazil Frictions Over Trade, Crime, and Bolsonaro",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c8r8gxjxz10o?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-08T03:45:06Z",
       "category": "IR",
-      "region": "US / Brazil",
-      "background": "US President Donald Trump and Brazilian President Luiz Inácio Lula da Silva met privately at the White House for around three hours on Thursday. Trump later called the meeting \"very good\" and Lula said he left \"very satisfied,\" but there was no joint Oval Office press appearance, which observers read as a sign that major disputes remain unresolved. The two governments still disagree over trade tariffs, organised crime, the US war in Iran, possible American interference in Brazil's October elections, and Trump's push for Lula to drop charges against former president Jair Bolsonaro, who was convicted last year of an attempted coup and sentenced to 27 years in prison.",
+      "region": "United States / Brazil",
+      "background": "US President Donald Trump and Brazilian President Luiz Inácio Lula da Silva met privately at the White House for around three hours on Thursday, but did not hold a joint Oval Office press appearance. Trump later called the meeting \"very good\" and described Lula as \"dynamic,\" while Lula said he left \"very satisfied.\" The two governments still disagree on trade, crime, the US war in Iran, possible American interference in Brazil’s October elections, and Trump’s demand that Lula drop charges against former president Jair Bolsonaro, who was convicted last year of attempting a coup and sentenced to 27 years in prison.",
       "prop_args": [
         {
-          "thesis": "A quiet, pragmatic reset between Trump and Lula is the best outcome for both countries because it reduces escalation risk without requiring immediate agreement on every dispute.",
+          "thesis": "A quiet, private meeting is the rational way to reduce escalation between two asymmetric powers when public confrontation would only harden disputes.",
           "mechanisms": [
-            "First, de-escalation lowers the probability of a self-reinforcing diplomatic spiral. This is because (1) public humiliation or press theatrics would harden domestic audiences on both sides, (2) once leaders are boxed into nationalist postures they have fewer off-ramps on tariffs, crime cooperation, and election interference, and (3) a private channel preserves bargaining space for later concessions.",
-            "Second, the meeting creates a working relationship that is especially valuable under Trump-style personal diplomacy. Three reasons: one, Trump responds more to personal rapport than to institutional process, two, a three-hour private meeting signals direct leader-to-leader access that can bypass bureaucratic deadlock, and three, it allows Lula to manage friction without publicly conceding on Bolsonaro or sovereignty.",
-            "Third, avoiding public conflict is itself a strategic win for Brazil in an asymmetric relationship. This matters because (1) the US is more important to Brazil than vice versa, (2) Brazil can preserve trade and security channels while waiting for a more favorable negotiating window, and (3) with elections looming in both countries, neither side wants to hand opponents a visible diplomatic crisis."
+            "First, private diplomacy lowers the domestic audience cost of compromise. This is because (1) Lula can avoid looking weak before Brazil’s October election, (2) Trump can avoid creating a public loss on trade or Bolsonaro, and (3) both leaders can test concessions without being trapped by live media commitments.",
+            "Second, the format preserves the bilateral relationship even when substantive disagreements remain. Three reasons: one, the absence of a joint press conference prevents symbolic humiliation; two, a three-hour meeting signals continued channel access; three, cordial messaging after the fact reduces the chance that either side escalates through retaliation or public insults.",
+            "Third, de-escalation itself is the strategic win in an unequal relationship. This matters because the United States has more leverage over Brazil than vice versa, so Brazil benefits more from preventing new friction points than from chasing an unrealistic grand bargain."
+          ]
+        },
+        {
+          "thesis": "Lula gains from this meeting because it normalises the relationship without forcing Brazil into immediate concessions on trade, security designations, or Bolsonaro.",
+          "mechanisms": [
+            "First, Lula gets the optics of respect and parity. This is because (1) he was received at the White House with full protocol, (2) Trump publicly praised him, and (3) the lack of a public clash helps Lula avoid being framed as isolated or subordinate.",
+            "Second, Brazil buys time on the hardest issues. Three reasons: one, the proposed 30-day working group on trade delays confrontation; two, sensitive demands like classifying groups as terrorist organisations were not resolved; three, postponement is valuable when elections are imminent and both governments want to avoid negative headlines.",
+            "Third, the meeting reduces the risk of U.S. punitive action. This matters because if Trump had used the encounter to attack Lula publicly, it could have triggered tariffs, diplomatic retaliation, or a broader anti-Brazil line in Washington."
           ]
         }
       ],
       "opp_args": [
         {
-          "thesis": "The meeting is mostly cosmetic because the core disputes are structural and will keep generating conflict regardless of cordial optics.",
+          "thesis": "The meeting is mostly cosmetic because the core disputes remain unresolved and the White House is still using pressure tactics on Brazil.",
           "mechanisms": [
-            "First, the underlying policy disagreements are too deep to be solved by personal diplomacy. One, the sides remain far apart on trade and tariffs, two, the US and Brazil disagree on crime and on whether Brazil should classify certain groups as terrorist organisations, and three, Trump is still pressuring Lula on Bolsonaro, which directly collides with Brazilian judicial sovereignty.",
-            "Second, the absence of a joint press appearance suggests both leaders know there is no substantive breakthrough. One, if the meeting had produced real concessions, both sides would have wanted to showcase them publicly, two, the lack of a joint statement implies unresolved bargaining, and three, the private format may simply be damage control to avoid exposing failure.",
-            "Third, the asymmetry of power means Brazil may be forced into concessions later even if the meeting looked friendly. One, the US can use tariffs, diplomatic pressure, and security leverage, two, Brazil has fewer tools to retaliate without harming its own economy, and three, election timing may delay rather than resolve the dispute, making the current calm temporary."
+            "First, the absence of a joint Oval Office appearance is itself evidence of unresolved conflict. One, Trump usually uses such meetings for public theatre and deal-signalling; two, skipping it suggests the sides could not agree on a shared narrative; three, unresolved disputes are more likely to resurface once the cameras are gone.",
+            "Second, the substantive agenda is structurally hostile. One, the two sides remain far apart on trade and tariffs; two, Trump is pushing Lula on Bolsonaro, which is a direct interference issue in Brazilian sovereignty; three, the US is also pressing Brazil on crime and terrorist designations, which are politically toxic for Lula.",
+            "Third, election timing makes the relationship more fragile, not less. One, both leaders have incentives to posture for domestic audiences; two, that increases the chance of future public clashes once campaign pressures intensify; three, any temporary calm can quickly unravel when either side needs a nationalist issue."
+          ]
+        },
+        {
+          "thesis": "This meeting may actually entrench U.S. leverage over Brazil by normalising pressure without extracting concessions.",
+          "mechanisms": [
+            "First, Trump can frame the encounter as proof that Brazil needs access to Washington. One, the U.S. market and diplomatic weight matter more to Brazil than the reverse; two, Lula’s need to avoid escalation signals dependence; three, that asymmetry encourages future U.S. demands.",
+            "Second, the meeting does not solve the underlying coercive agenda. One, Trump has not dropped the Bolsonaro demand; two, trade disputes remain open; three, if Brazil keeps seeking quiet talks, Washington may learn it can push hard without paying reputational costs.",
+            "Third, private diplomacy can weaken Brazil’s ability to mobilise external support. One, there is no public record of U.S. concessions; two, domestic critics cannot easily verify what was traded away; three, that opacity can reduce accountability and make Brazil more vulnerable to one-sided bargaining."
           ]
         }
       ],
-      "weighing": "The biggest delta in this debate is whether diplomacy is judged by immediate policy wins or by preventing escalation. Prop wins if the round is about crisis management and preserving bargaining space; opp wins if the round is about whether the meeting actually changed the underlying balance of power, because the structural disputes over trade, sovereignty, and Bolsonaro remain intact.",
+      "weighing": "The biggest delta in this debate is whether you value short-term de-escalation or long-term structural leverage. Prop wins if the round is about avoiding immediate crisis and preserving channels; Opp wins if the round is about whether the meeting actually changed the underlying balance of power, because the core disputes on trade, sovereignty, and Bolsonaro remain untouched.",
       "stock_connections": [
         "Great Power Asymmetry",
-        "Diplomatic Signaling",
-        "Personalist Diplomacy",
-        "Trade Conflict",
+        "Audience Costs",
+        "Backchannel Diplomacy",
         "Election Interference",
-        "Sovereignty vs Intervention",
-        "Transactional Foreign Policy",
-        "Damage Control"
+        "Sovereignty",
+        "Trade War",
+        "Personalist Diplomacy",
+        "Conflict De-escalation",
+        "Transactional Foreign Policy"
       ],
       "motion_areas": [
-        "TH, as Brazil, would prioritize quiet diplomacy with the United States over public confrontation",
-        "THBT middle powers should avoid public escalation with more powerful states even when core disputes remain unresolved",
-        "THP a world where leaders resolve bilateral disputes through private meetings rather than public summits"
+        "TH, as the United States, would pursue private diplomacy over public confrontation with Brazil",
+        "THBT Brazil should prioritise de-escalation with the United States over extracting immediate concessions",
+        "THP a world where major bilateral disputes are handled through closed-door meetings rather than public summits"
       ],
       "data_points": [
-        "The Oval Office meeting lasted around three hours",
-        "No joint Oval Office press appearance was held after the meeting",
-        "Lula said Brazil proposed a working group to negotiate trade disagreements within 30 days",
-        "Jair Bolsonaro was convicted last year of an attempted coup and sentenced to 27 years in prison",
-        "Brazil faces presidential elections in October; the US faces midterm elections in November",
-        "The article notes the US is more important to Brazil than Brazil is to the US"
+        "The leaders met privately for around three hours at the White House",
+        "No joint Oval Office press appearance was held",
+        "Brazil’s October election is approaching, with Lula seeking re-election",
+        "The US midterms are in November",
+        "Jair Bolsonaro was convicted last year of attempting a coup and sentenced to 27 years in prison",
+        "Brazil proposed a working group to negotiate trade disagreements within 30 days",
+        "The article notes the United States is more important to Brazil than Brazil is to the United States"
       ]
     },
     {
       "id": "de39ea6951ad",
-      "title": "US Passport Revocations Turn Child Support Debt Into a Mobility Sanction",
+      "title": "US Passport Revocations Turn Child Support Enforcement Into a Mobility Sanction",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
       "published": "2026-05-08T02:57:48Z",
       "category": "Econ",
-      "region": "US",
-      "background": "The US State Department said it will begin revoking passports of Americans who owe more than $2,500 in child support debt, using a rarely enforced 1996 federal law. Previously, passport penalties were mainly applied when delinquent parents tried to renew their passports; under the new policy, the government will work with the Department of Health and Human Services to identify debtors and revoke passports proactively. Those whose passports are revoked cannot use them for travel and will not be eligible for a new passport until the debt is paid, though people abroad may seek an emergency travel document from a US embassy or consulate to return home.",
+      "region": "United States",
+      "background": "The US State Department said it will begin revoking passports of Americans who owe significant child support debt, using a rarely enforced 1996 federal law. The threshold cited is more than $2,500 in unpaid child support, and the department said the policy will work with the Department of Health and Human Services to identify delinquent parents. Previously, passport consequences were mainly triggered when people with such debt tried to renew their passports; under the new policy, revocation can happen more directly, and those abroad would need emergency travel documents from a US embassy or consulate to return home.",
       "prop_args": [
         {
-          "thesis": "Revoking passports is an effective coercive tool that increases child support compliance and improves welfare for children who are owed money.",
+          "thesis": "Revoking passports is a high-leverage enforcement tool that increases child support compliance and improves welfare for children who are otherwise owed money.",
           "mechanisms": [
-            "First, it raises the cost of non-payment by targeting a valuable privilege that many debtors cannot easily substitute. This works because (1) international mobility is important for work, family, and emergencies, (2) losing a passport creates immediate personal inconvenience beyond a distant court order, and (3) the threat is credible because the State Department can enforce it directly through existing federal law.",
-            "Second, it improves collection rates by converting a civil debt into a high-salience enforcement mechanism. Three reasons: one, many delinquent parents ignore ordinary arrears notices because the consequences are abstract; two, passport revocation creates a concrete deadline to pay or negotiate; three, the policy can be administered at scale through data-sharing between federal agencies and state child support offices.",
-            "Third, it protects children and custodial parents by prioritizing repayment over debtor convenience. This matters because (1) child support is often used for essentials like housing, food, and school costs, (2) unpaid support disproportionately harms lower-income single-parent households, and (3) the state has a stronger justification to use hard enforcement here than in ordinary consumer debt because the obligation is tied to child welfare."
+            "First, it raises the cost of non-payment in a way ordinary wage garnishment often does not. This is because (1) travel restrictions are immediate and personally salient, (2) they affect mobility, work, and family life, and (3) they create a strong incentive to settle arrears before the state escalates further.",
+            "Second, it improves collection rates by targeting debtors who have the capacity to pay but are choosing not to. Three reasons: one, the policy is aimed at people with more than $2,500 in arrears, which filters out trivial cases; two, passport access is a privilege many middle- and upper-income debtors value highly; three, the threat of losing international travel can push payment plans and compliance faster than slow court enforcement.",
+            "Third, it protects children and custodial parents by converting abstract legal obligations into real cash flow. This matters because (1) child support is often used for rent, food, school costs, and healthcare, (2) delayed payments impose direct welfare losses on children, and (3) stronger enforcement reduces the burden on public assistance systems when private support is not collected."
           ]
         }
       ],
       "opp_args": [
         {
-          "thesis": "Passport revocation is a blunt punishment that is likely to be counterproductive, especially for low-income parents, and may reduce rather than increase child support payments.",
+          "thesis": "Passport revocation is a blunt punishment that can trap families, reduce employment, and create more hardship than it solves.",
           "mechanisms": [
-            "First, it can destroy the debtor's ability to earn and therefore pay. One, many parents need travel for work, especially in jobs involving sales, construction, logistics, or cross-border family obligations; two, taking away mobility can reduce employment opportunities and income; three, lower income means less ability to clear arrears, creating a vicious cycle.",
-            "Second, it is an inequitable enforcement tool that punishes inability to pay as if it were refusal to pay. One, the $2,500 threshold can capture parents with unstable employment or medical shocks rather than deliberate evaders; two, revocation hits hardest on people who already lack legal and financial resources; three, it turns a child-support system into a regressive sanction that may deepen poverty in the very households it is meant to help.",
-            "Third, it creates administrative and humanitarian risks without solving the underlying enforcement problem. One, people abroad may be stranded or forced into emergency consular processes; two, federal-state data matching can produce errors, delays, and due-process disputes; three, aggressive punishment may push parents further underground, making future collection and co-parenting cooperation harder."
+            "First, it can undermine the debtor's ability to earn and pay, especially for workers whose jobs require travel or cross-border movement. One, losing a passport can block business trips, seasonal work, or overseas contracts; two, reduced income lowers future repayment capacity; three, the policy may therefore worsen arrears instead of curing them.",
+            "Second, it risks punishing non-custodial parents who are already financially distressed rather than willfully evasive. One, child support debt can accumulate through unemployment, illness, or informal work; two, a mobility sanction does not distinguish between bad-faith refusal and inability to pay; three, that makes the policy regressive and likely to hit poorer parents hardest.",
+            "Third, it creates administrative and fairness problems because the state is using a travel restriction to collect a civil debt. One, enforcement depends on inter-agency data matching and can generate errors; two, people abroad may face severe disruption just to reenter the US; three, the policy normalizes coercive debt collection without solving the underlying family-court and labor-market issues."
           ]
         }
       ],
-      "weighing": "The biggest delta in this debate is whether the policy changes behavior more than it worsens debtors' ability to pay. Prop wins if the sanction is seen as a targeted, credible nudge against deliberate non-payment; opp wins if the key population is actually cash-strapped parents for whom mobility is economically productive and revocation is self-defeating.",
+      "weighing": "The biggest delta in this debate is whether the policy actually increases net child support payments or simply imposes a punitive mobility penalty. Prop wins if you prioritize deterrence and child welfare from faster compliance; opp wins if you think the sanction is overbroad and self-defeating because it reduces the debtor's ability to earn and pay.",
       "stock_connections": [
         "Moral Hazard",
-        "Punitive vs Incentive-based Enforcement",
-        "Poverty Traps",
-        "Ability to Pay vs Willingness to Pay",
-        "Administrative State / Data Sharing",
-        "Carceral State by Another Name",
-        "Child Welfare",
-        "Regressive Punishment"
+        "Punitive Regulation",
+        "Debt Collection",
+        "Welfare Conditionality",
+        "Access to Mobility",
+        "Regressive Enforcement",
+        "Family Policy",
+        "State Capacity"
       ],
       "motion_areas": [
         "TH, as the US government, would revoke passports of parents with significant child support debt",
-        "THBT states should use mobility restrictions to enforce family court judgments",
-        "THP a world where governments can suspend passports for unpaid civil debts",
-        "THBT child support enforcement should prioritize coercive sanctions over wage garnishment"
+        "THBT states should use mobility restrictions to enforce private debt obligations",
+        "THP a world in which governments can suspend passports for unpaid family support"
       ],
       "data_points": [
-        "$2,500 child support debt threshold for passport revocation",
-        "The policy is authorized by a rarely enforced 1996 federal law",
-        "Previously, passport consequences were mainly triggered only when delinquent parents sought renewal",
-        "The State Department said it will work with the Department of Health and Human Services to identify debtors",
-        "People abroad at the time of revocation may need an emergency travel document from a US embassy or consulate to reenter the US"
+        "Child support debt threshold cited by the State Department: more than $2,500",
+        "Passport revocation for unpaid child support is authorized under a 1996 federal law",
+        "Previously, passport consequences were mainly triggered only when debtors sought to renew their passports",
+        "Those abroad at the time of revocation would need an emergency travel document from a US embassy or consulate to reenter the country"
       ]
     }
   ]
