@@ -1,7 +1,413 @@
 {
   "date": "2026-05-09",
-  "last_updated": "2026-05-09T03:50:35Z",
+  "last_updated": "2026-05-09T08:07:44Z",
   "cards": [
+    {
+      "id": "062cbc13b24d",
+      "title": "Settler Violence in the West Bank Exposes Israel’s Impunity Problem and Accelerates De Facto Annexation",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+      "published": "2026-05-09T07:18:27Z",
+      "category": "IR",
+      "region": "Israel / Occupied West Bank",
+      "background": "On 9 May 2026, Al Jazeera reported that dozens of Israeli settlers raided multiple West Bank locations, setting homes and cars on fire and attacking Palestinians. The incidents included an attack on a father and child in Khirbet Shuweika near Hebron, arson in al-Lubban Asharqiya near Nablus, and vandalism in Abu Falah near Ramallah; Palestinian sources also reported arrests, stun grenades, and tear gas use by Israeli forces in nearby incidents. The article notes that in February 2026 Israel approved a plan to claim large areas of the occupied West Bank as 'state property,' and says more than 700,000 Israelis live in illegal settlements in the West Bank.",
+      "prop_args": [
+        {
+          "thesis": "The settler violence is not isolated lawlessness; it is a governance failure that entrenches occupation, normalizes annexation, and makes a two-state outcome less viable.",
+          "mechanisms": [
+            "First, impunity creates a self-reinforcing cycle of escalation. This is because (1) settlers learn that arson, assault, and intimidation carry little cost, (2) Palestinian communities respond by arming, fleeing, or organizing self-defense, and (3) each retaliatory spiral gives Israeli authorities a pretext for more raids, arrests, and restrictions.",
+            "Second, violence on the ground changes facts faster than diplomacy can reverse them. Three reasons: one, burning homes and cars makes daily life unlivable and pushes Palestinians off strategically located land; two, the February 2026 'state property' designation gives legal cover to absorb territory after coercion has already displaced residents; three, the presence of more than 700,000 settlers creates a large domestic constituency for permanent control.",
+            "Third, this undermines any credible peace process because territorial contiguity and trust collapse simultaneously. This matters because a future Palestinian state needs uninterrupted movement between cities and villages, but repeated raids, road insecurity, and military enforcement fragment the West Bank into isolated enclaves."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "These attacks are serious, but they do not fundamentally alter the strategic reality because the core drivers of the conflict are state-level security calculations and long-running territorial disputes, not only settler misconduct.",
+          "mechanisms": [
+            "First, the Israeli state still controls the decisive levers, so the key variable is official policy rather than rogue settler behavior. (1) If the government chooses to restrain settlers, it can deploy police, military, and administrative tools; (2) if it does not, that reflects broader political incentives, not just local violence; (3) therefore the debate should focus on state strategy, not isolated raids.",
+            "Second, Palestinian political fragmentation limits the immediate diplomatic effect of these incidents. (1) The West Bank and Gaza remain politically divided, (2) weak unified representation makes it harder to convert outrage into a coherent negotiating strategy, and (3) international condemnation often produces rhetoric without changing facts on the ground.",
+            "Third, some Israeli policymakers will argue that settlement expansion and security crackdowns are responses to perceived threats. (1) They frame the West Bank as a security buffer, (2) they use attacks to justify tighter control and more arrests, and (3) this means violence can strengthen hardliners rather than force policy reversal."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether repeated settler violence is merely symptomatic or whether it is the mechanism that makes annexation irreversible. Prop wins if it shows that coercion plus legal cover steadily changes facts on the ground; Opp wins if it proves the Israeli state can still contain or reverse settler behavior and that the conflict is driven more by top-level security politics than by these raids alone.",
+      "stock_connections": [
+        "Settler Colonialism",
+        "Impunity",
+        "De Facto Annexation",
+        "Security Dilemma",
+        "Ethnic Cleansing",
+        "Conflict Escalation",
+        "Peace Process Failure",
+        "State Capture"
+      ],
+      "motion_areas": [
+        "TH, as the Israeli government, would aggressively dismantle illegal West Bank settlements",
+        "THBT the international community should impose sanctions on Israeli settlers and settlement-linked entities",
+        "THP a world where West Bank settlement expansion is treated as annexation rather than a domestic Israeli issue"
+      ],
+      "data_points": [
+        "Dozens of Israeli settlers reportedly stormed multiple West Bank areas in one wave of raids",
+        "A father and child in Khirbet Shuweika, south of Hebron, were attacked with 'sharp instruments' and taken to hospital with head injuries",
+        "A home in al-Lubban Asharqiya, south of Nablus, was torched by settlers",
+        "In Abu Falah, northeast of Ramallah, a vehicle was burned and racist slogans were written on house walls",
+        "More than 700,000 Israelis live in illegal settlements in the occupied West Bank",
+        "In February 2026, Israel approved a plan to claim large areas of the West Bank as 'state property'"
+      ]
+    },
+    {
+      "id": "76fca4f75aa1",
+      "title": "Yemen’s Wage-Arrears Crisis Weakens the State Army and Pushes Fighters Toward Better-Paid Militias",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/economy/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
+      "published": "2026-05-09T07:11:53Z",
+      "category": "Econ",
+      "region": "Yemen",
+      "background": "Yemen’s internationally recognised government has been fighting the Houthi movement since 2014, after the Houthis seized Sanaa and forced the government to relocate to Aden. Army personnel reportedly earn 60,000 to 180,000 Yemeni riyals per month, roughly $38 to $116, but many have not been paid since December, with arrears promised by Eid al-Adha in late May. The army is estimated at 180,000 to 220,000 personnel, with only 30% to 40% on front lines, while the Defence Ministry says it receives about 36 billion riyals per month, or $23.2 million.",
+      "prop_args": [
+        {
+          "thesis": "Regularly paying the state army is essential to preserve command cohesion, prevent defection to militias, and keep Yemen’s remaining governing institutions functioning.",
+          "mechanisms": [
+            "First, wage arrears directly weaken military discipline and retention. This is because (1) soldiers in a war economy cannot survive on $38 to $116 a month when the rial is collapsing, (2) delayed payments force them to borrow, take side jobs, or miss work, and (3) that creates a rational incentive to abandon the formal army for better-paid formations.",
+            "Second, the state loses its best personnel to irregular forces that pay more consistently. Three reasons: one, groups like the Security Belts, Elite Forces, Giants Brigades, and National Resistance reportedly pay up to $320 monthly; two, those units offer more reliable cash flow than the official Ministry of Defence; three, experienced soldiers will migrate toward the employer that can actually meet basic needs, hollowing out the army’s front lines.",
+            "Third, salary payment is not just welfare but state capacity. This matters because (1) soldiers are also local consumers in Marib, Aden, and Taiz, so unpaid wages suppress market activity, (2) the army is one of the few remaining nationwide institutions under government control, and (3) if the state cannot pay its own coercive apparatus, it signals broader fiscal collapse and accelerates political fragmentation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The wage crisis is a symptom of Yemen’s broader fiscal collapse, so simply paying soldiers more or more regularly will not solve the army’s structural weakness.",
+          "mechanisms": [
+            "First, the government lacks the revenue base to sustain reliable payrolls. One, the war has destroyed tax and customs collection by targeting each side’s revenue sources; two, the Defence Ministry itself cites liquidity shortages and declining resources; three, even if salaries are prioritized, arrears will recur unless the underlying budget crisis is fixed.",
+            "Second, the problem is not just pay but fragmented military governance. One, Yemen’s security landscape already contains multiple armed formations outside the Defence and Interior Ministries; two, those groups are often tied to local patrons and political factions rather than the state; three, higher salaries alone cannot reverse the deeper institutional competition that makes the army weak.",
+            "Third, the macroeconomic damage from wage arrears is limited compared with the war’s broader effects. One, the main driver of economic paralysis is the conflict itself, not soldier pay delays; two, the army’s payroll is small relative to the scale of national collapse; three, even perfect salary disbursement would not restore currency stability, public services, or battlefield balance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether salary payment is a marginal fix or a core state-preservation tool. Prop wins if the round is about preventing institutional collapse, because payroll is one of the few levers the government directly controls; opp wins if the round is about root causes, because Yemen’s fiscal fragmentation means wage policy cannot substitute for a functioning state.",
+      "stock_connections": [
+        "State capacity",
+        "Military morale",
+        "Defection incentives",
+        "Civil-military relations",
+        "Fragmented sovereignty",
+        "War economy",
+        "Brain drain",
+        "Informalization of the state",
+        "Fiscal collapse",
+        "Resource scarcity"
+      ],
+      "motion_areas": [
+        "TH, as the Yemeni government, would prioritize paying soldiers over other public expenditures",
+        "THBT conflict states should centralize military payrolls even during fiscal crises",
+        "THP a world where armed forces are paid directly by international trustees in failed states"
+      ],
+      "data_points": [
+        "Yemeni soldiers earn 60,000 to 180,000 riyals per month, roughly $38 to $116",
+        "Army size estimated at 180,000 to 220,000 personnel",
+        "Only 30% to 40% of the regular army reportedly serve on the front lines",
+        "The army receives roughly 36 billion riyals per month, about $23.2 million",
+        "About 17 billion riyals are allocated to the Fourth Military Region in Aden",
+        "Some nonregular formations reportedly pay fighters up to $320 per month",
+        "Soldiers interviewed said their last salary payment was received in December",
+        "The government promised arrears would be paid by Eid al-Adha in late May"
+      ]
+    },
+    {
+      "id": "f714972f9488",
+      "title": "Scottish Politics Fractures as Reform Ties Labour and the SNP Loses Its Dominance",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/09/starmers-unpopularity-was-insurmountable-for-scottish-labour-and-a-boon-for-reform",
+      "published": "2026-05-09T06:50:54Z",
+      "category": "IR",
+      "region": "Scotland (UK) / Holyrood and Westminster dynamics",
+      "background": "In the 2026 Scottish election, the SNP remained the largest party but fell to its lowest constituency vote share since 2007, at 38.3%, and lost ground to the Liberal Democrats and Labour in places like the Western Isles. Scottish Labour, despite heavy investment and a strong 2024 performance, tied for second place with Reform UK, which won 17 regional list seats but no constituency breakthroughs. Turnout fell to 53.1%, around 10 points below 2021, as voters expressed frustration over public service failures, the ferries crisis, the budget gap, and broader dissatisfaction with both Labour and the SNP.",
+      "prop_args": [
+        {
+          "thesis": "Reform’s breakthrough and Labour’s collapse create a more fragmented Holyrood that weakens the old constitutional blocs and makes Scottish politics less governable.",
+          "mechanisms": [
+            "First, Reform entering the second-place tie breaks the traditional pro-union/pro-independence duopoly. This is because (1) it pulls anti-SNP voters away from Labour and the Conservatives, (2) it normalises a hard-right anti-establishment pole in devolved politics, and (3) it forces committee power and parliamentary airtime to be shared with a party that has no governing experience.",
+            "Second, fragmentation makes coalition-building and legislative bargaining harder. Three reasons: one, the second-place tie means Labour and Reform will likely rotate key opposition roles, creating confusion over who can credibly hold government to account; two, the SNP can now exploit divided opposition benches to pass legislation more easily; three, smaller parties like the Greens gain leverage as kingmakers on issue-by-issue votes.",
+            "Third, the result entrenches public cynicism and low turnout, which weakens democratic legitimacy. This matters because (1) turnout already fell to 53.1%, (2) voters were clearly disengaged and frustrated, and (3) a parliament seen as chaotic or captured by protest politics is less able to build consensus on the budget black hole or depopulation crisis."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The election does not destabilise Scotland so much as reset it into a more pluralistic and accountable system that better reflects voter dissatisfaction.",
+          "mechanisms": [
+            "First, Reform’s gains are a symptom of real voter demand, not merely a pathology. One, Labour’s collapse shows Starmer’s brand is toxic in Scotland; two, the SNP’s decline shows incumbents can no longer rely on constitutional identity alone; three, voters are using list seats to punish underperforming parties, which is a normal democratic correction.",
+            "Second, more parties can improve representation and scrutiny. One, the Greens now have MSPs in every area of the country, broadening the policy agenda beyond independence versus unionism; two, Reform’s presence forces mainstream parties to address neglected concerns like public services and migration; three, a fragmented chamber can stop complacent majorities and create more issue-based accountability.",
+            "Third, the SNP still remains the largest force and pro-independence politics still has a majority with the Greens. This means (1) the core constitutional direction of Holyrood is unchanged, (2) Swinney can govern without a formal coalition, and (3) the system still has a stable governing centre even if opposition politics is noisier."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether fragmentation is a democratic correction or a governance crisis. Prop wins if you prioritise institutional functionality: a tied second place with Reform, a 53.1% turnout, and a chamber full of polarising actors all point to weaker legitimacy and harder coalition management.",
+      "stock_connections": [
+        "Fragmentation",
+        "Populism",
+        "Anti-establishment politics",
+        "Democratic legitimacy",
+        "Turnout decline",
+        "Coalition instability",
+        "Representation vs governability",
+        "Protest voting",
+        "Race to the bottom"
+      ],
+      "motion_areas": [
+        "TH, as Scotland, would prefer a more fragmented Holyrood",
+        "THBT proportional representation is better for Scottish democracy than majoritarian stability",
+        "THP a world where Reform becomes a major force in devolved politics",
+        "THBT the rise of Reform in Scotland is good for democracy",
+        "TH, as Scottish Labour, would prioritise distancing itself from Westminster over broad anti-SNP coalitions"
+      ],
+      "data_points": [
+        "SNP constituency vote share fell to 38.3%, its lowest since 2007",
+        "Turnout in the election was 53.1%, down 10 points from 2021",
+        "Scottish Labour tied for second place with Reform UK",
+        "Reform won 17 regional list seats but no constituency seats",
+        "The SNP and Scottish Greens together still hold a pro-independence majority",
+        "One-third of SNP MSPs stood down at the end of the last term"
+      ]
+    },
+    {
+      "id": "bc7c0e6a607d",
+      "title": "Norway’s North Sea Expansion Locks Europe Into Longer Fossil Fuel Dependence",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/09/norway-oil-and-gas-production-shortages-middle-east-ukraine",
+      "published": "2026-05-09T06:00:49Z",
+      "category": "Econ",
+      "region": "Norway / North Sea / Europe",
+      "background": "Norway’s energy minister Terje Aasland said the country will “develop, not dismantle” its continental shelf, announcing that three gasfields off southern Norway will reopen by the end of 2028 after closing in 1998. The move is intended to offset supply disruption from the war in Ukraine and instability in the Middle East, while keeping Norwegian oil and gas output near 2025 levels for the rest of the decade. Norway currently has 97 offshore oilfields, produced about 2 million barrels of oil per day, and supplies gas for roughly one-third of Europe’s consumption. The state owns 67% of Equinor, which says it will invest $6bn annually up to 2035 to sustain production.",
+      "prop_args": [
+        {
+          "thesis": "Norway’s decision to expand and prolong fossil fuel production is a rational energy-security strategy that stabilizes Europe’s supply, prices, and industrial resilience.",
+          "mechanisms": [
+            "First, it reduces Europe’s exposure to external shocks. This is because (1) Russian supply disruption after Ukraine showed how quickly gas dependence becomes a geopolitical vulnerability, (2) Middle East instability can tighten global LNG markets and spike prices, and (3) Norway is a nearby, politically reliable supplier with existing infrastructure, so extra output can reach Europe faster and with lower transport risk than alternative imports.",
+            "Second, it protects European consumers and industry from price volatility. Three reasons: one, stable Norwegian output anchors the regional gas market and dampens winter shortages; two, predictable supply lowers input costs for electricity, heating, and heavy industry; three, avoiding sudden scarcity prevents governments from having to spend on emergency subsidies and crisis procurement.",
+            "Third, it preserves a strategic transition bridge while renewables scale up. This matters because Europe still needs dispatchable energy for decades, and if Norway does not supply it, demand is simply displaced to higher-emitting or less stable producers elsewhere, so the climate gain is limited while the security cost is immediate."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Norway’s expansion of oil and gas is a short-term security fix that entrenches fossil dependence, delays transition investment, and creates long-run climate and economic lock-in.",
+          "mechanisms": [
+            "First, it crowds out the transition by making fossil infrastructure politically and financially sticky. One, reopening fields and investing $6bn annually to 2035 creates sunk costs and lobbying pressure to keep production high; two, state revenues and dividends from Equinor deepen fiscal dependence on hydrocarbons; three, once jobs and tax receipts are tied to extraction, governments become less willing to impose stricter climate policy.",
+            "Second, it undermines Norway’s credibility and the broader European decarbonization agenda. One, ignoring the environment agency’s advice and calling it energy security normalizes greenwashing; two, if a wealthy climate leader expands drilling, it weakens the moral pressure on poorer states to restrain fossil development; three, it signals that even “transition leaders” expect oil and gas demand to persist, which slows private capital reallocation into clean energy.",
+            "Third, it risks locking Europe into a more expensive and vulnerable energy system over time. One, prolonging fossil demand delays electrification and efficiency upgrades that would permanently reduce exposure to geopolitical shocks; two, continued reliance on gas leaves Europe exposed to future price spikes as global supply tightens; three, the climate damages from continued emissions impose larger long-run costs than the temporary security benefits."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you prioritize immediate supply security or long-run transition lock-in. Prop wins if the round is about crisis management and industrial stability; opp wins if the round is about path dependence, because once Norway keeps drilling, the political and financial incentives to decarbonize get materially weaker.",
+      "stock_connections": [
+        "Energy security",
+        "Fossil fuel lock-in",
+        "Path dependence",
+        "Greenwashing",
+        "Dutch Disease",
+        "Resource curse",
+        "Sunk cost fallacy",
+        "Transition risk",
+        "Climate credibility",
+        "Strategic autonomy"
+      ],
+      "motion_areas": [
+        "TH, as Norway, would expand oil and gas production for Europe’s energy security",
+        "THBT developed states should prioritize fossil fuel supply stability over rapid domestic decarbonization",
+        "THP a world where major European energy exporters continue drilling through the 2030s",
+        "THBT climate leaders should not reduce fossil fuel output before global demand falls"
+      ],
+      "data_points": [
+        "Norway currently has 97 offshore oilfields",
+        "Norway produces at least 2 million barrels of oil per day",
+        "Norway supplies gas for about one-third of Europe’s consumption",
+        "Three gasfields off southern Norway will reopen by the end of 2028 after closing in 1998",
+        "Equinor plans to invest $6 billion annually up to 2035",
+        "The Norwegian state owns 67% of Equinor",
+        "Norway’s oil and gas tax rate has been 78% since the 1970s",
+        "The Norwegian state holding in Equinor should yield about £2 billion in dividends this year",
+        "About 210,000 people are employed by Norway’s energy industry"
+      ]
+    },
+    {
+      "id": "325d3524691e",
+      "title": "Netanyahu-Trump War Gamble Turns Into a Mutual Liability Over Iran",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/09/tensions-emerge-bejamin-netanyahu-donald-trump-alliance",
+      "published": "2026-05-09T06:00:49Z",
+      "category": "IR",
+      "region": "Israel / United States / Iran / Gulf",
+      "background": "The article describes growing tension inside the Netanyahu-Trump relationship after the US-Israeli assault on Iran launched on 28 February. Netanyahu had pushed Trump to abandon the 2015 Iran nuclear deal in 2018 and later argued in February 2026 that war would be quick and decisive; instead, Iran retaliated, hit US bases and Gulf monarchies, and helped trigger a global economic crisis through disruption around the Strait of Hormuz. By April, Trump had begun excluding Israel from ceasefire and mediation talks, publicly rebuking Netanyahu over strikes on Iran’s South Pars gasfield and ordering Israel to stop bombing Lebanon.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war exposes the limits of personalized alliance politics: when two leaders tie their legitimacy to a failed war, the alliance becomes a liability that weakens both states’ strategic autonomy.",
+          "mechanisms": [
+            "First, the war creates a credibility trap for both leaders. This is because (1) Netanyahu and Trump publicly sold the conflict as easy and decisive, (2) the failure to produce regime collapse or a quick victory makes any continued coordination look like incompetence, and (3) each leader now has incentives to distance himself from the other, which fractures the alliance from within.",
+            "Second, the conflict reduces each side’s bargaining power with third parties. Three reasons: one, Israel is no longer indispensable if Trump can negotiate directly with Iran and Pakistani mediators; two, Trump’s need to manage China and broader US economic priorities makes him want the war off his agenda; three, Netanyahu’s leverage falls when Washington can threaten to proceed without Israeli input.",
+            "Third, the alliance’s collapse has domestic political consequences that compound the strategic damage. This matters because Trump risks looking like he was manipulated into a costly regional war, while Netanyahu faces an election by October and polling that could end his premiership, so both leaders have incentives to overcompensate with more escalation or face political punishment."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The alliance is not breaking; it is simply entering a more transactional phase in which Trump can discipline Netanyahu while still preserving the core US-Israel partnership.",
+          "mechanisms": [
+            "First, the relationship is structurally asymmetric in America’s favor. One, the US can exclude Israel from talks and force compliance through military and diplomatic leverage; two, Trump’s public rebukes show he can impose costs without ending the alliance; three, Netanyahu still depends on US backing for deterrence, intelligence, and regional freedom of action.",
+            "Second, short-term friction does not eliminate shared strategic interests. One, both leaders still want to contain Iran’s nuclear and missile capabilities; two, both benefit from keeping Gulf states aligned with the US security umbrella; three, even after a ceasefire, they can resume coordination on strikes, sanctions, or covert pressure when attention shifts elsewhere.",
+            "Third, domestic political incentives can actually stabilize the alliance. One, Netanyahu needs Trump’s support to survive politically and avoid isolation; two, Trump can use Israel as a foreign-policy success story for his base; three, both leaders gain from a visible partnership that signals strength to domestic audiences even if private coordination is tense."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war produces a durable rupture or just a temporary public spat. Prop wins if you think failed escalation and exclusion from talks permanently reduce trust and autonomy; opp wins if you think the US-Israel relationship is too institutionally embedded to be broken by one disastrous campaign, especially when both leaders still need each other politically.",
+      "stock_connections": [
+        "Alliance credibility",
+        "Personalist foreign policy",
+        "Diversionary war",
+        "Blowback",
+        "Security dilemma",
+        "Leader entrapment",
+        "Transactional diplomacy",
+        "Domestic audience costs",
+        "Great power distraction"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would publicly distance itself from Israel after the Iran war",
+        "THBT the US should condition military support for Israel on consultation and compliance",
+        "THP a world where leaders cannot unilaterally drag allies into regional wars",
+        "TH, as Israel, would prioritize strategic autonomy over alliance dependence on the United States"
+      ],
+      "data_points": [
+        "The US-Israeli assault on Iran began on 28 February 2026",
+        "Trump and Netanyahu reportedly spoke 'almost daily' during the conflict",
+        "Iran was described as having 450kg of highly enriched uranium",
+        "Iran’s retaliation reportedly hit US bases and Gulf monarchies and helped close the Strait of Hormuz",
+        "A ceasefire was announced on 8 April 2026",
+        "Trump publicly posted on 17 April 2026: 'Israel will not be bombing Lebanon any longer. They are PROHIBITED from doing so by the U.S.A. Enough is enough!!!'",
+        "Netanyahu must hold an election by October 2026",
+        "Trump was scheduled to travel to China on 14 May 2026"
+      ]
+    },
+    {
+      "id": "6bd41522e812",
+      "title": "France’s Fragmented 2027 Presidential Race Risks Letting the Far Right Win by Default",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/09/france-has-a-record-number-of-presidential-hopefuls-will-any-of-them-be-able-to-hold-back-the-far-right",
+      "published": "2026-05-09T05:00:47Z",
+      "category": "IR",
+      "region": "France",
+      "background": "A year before France’s 2027 presidential election, around 30 figures across the political spectrum have expressed interest in running, with most framing their campaigns around stopping the far right. Marine Le Pen’s National Rally (RN) is polling strongly and is now the biggest single opposition party in parliament; if her appeal trial on 7 July upholds her conviction for embezzling European Parliament funds, Jordan Bardella, 30, could replace her as candidate. Emmanuel Macron cannot run for a third consecutive term, and the left, centre, and right are all split among multiple contenders, while the left is trying but struggling to organize a unity primary.",
+      "prop_args": [
+        {
+          "thesis": "France’s presidential fragmentation structurally advantages the far right by splitting anti-RN voters and turning the election into a low-information strategic vote contest.",
+          "mechanisms": [
+            "First, fragmentation splits the anti-RN electorate across too many viable personalities. This is because (1) the left is divided between a unity primary and solo bids from figures like Mélenchon, Glucksmann, and Hollande, (2) the centre has competing Macronsphere candidates like Attal, Darmanin, and Philippe, and (3) the right is also split between Retailleau, Wauquiez, Lisnard, and others, so no single challenger can consolidate the broad anti-RN coalition in time.",
+            "Second, the race becomes about 'who can beat RN' rather than policy competence, which benefits the RN. Three reasons: one, voters default to the most recognizable anti-RN option instead of evaluating platforms; two, the RN can present itself as the only coherent alternative to a chaotic establishment; three, policy scrutiny on healthcare, cost of living, and social security is displaced, letting RN avoid detailed accountability.",
+            "Third, this dynamic creates a self-fulfilling legitimacy boost for the RN. This matters because (1) repeated polling and media focus on RN viability normalize it as a governing force, (2) business elites already meeting RN figures reduce stigma and signal acceptability, and (3) if the anti-RN camp fails to unite, the RN can win with a plurality rather than majority support."
+          ]
+        },
+        {
+          "thesis": "The absence of Macron and the collapse of centrist dominance make the far right the default beneficiary of France’s demand for change.",
+          "mechanisms": [
+            "First, Macron’s exit removes the only figure who previously had enough cross-bloc appeal to block Le Pen. This is because (1) he is constitutionally barred from a third consecutive term, (2) his 2022 victory depended on a runoff dynamic against Le Pen, and (3) no current centrist has comparable national stature or proven runoff resilience.",
+            "Second, public demand for radical change is now high enough that anti-system messaging outcompetes managerial centrism. Three reasons: one, Ipsos found 74% of French voters want either a radical transformation or deep changes; two, voters are frustrated by perceived immobilism since Macron’s second mandate; three, the RN can channel this mood into anti-elite, anti-status quo politics more credibly than fragmented mainstream parties.",
+            "Third, the policy agenda is misaligned with voter concerns, which further helps the RN. This matters because (1) healthcare access, hospital cuts, and cost of living are top concerns, (2) mainstream candidates are still focused on tactical positioning and personality contests, and (3) when voters feel ignored, they become more open to protest voting and outsider alternatives."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A crowded field does not necessarily help the far right because runoff incentives and elite coordination can still consolidate anti-RN voters behind one viable challenger.",
+          "mechanisms": [
+            "First, the French two-round system rewards late consolidation. One, voters can defect in the first round to preferred candidates without wasting the final choice, two, parties can coordinate between rounds around the strongest anti-RN contender, and three, the system has already produced anti-far-right tactical voting before, including Macron’s 2022 win over Le Pen.",
+            "Second, the RN still faces major vulnerabilities that can cap its ceiling. One, Le Pen’s legal troubles and the July 7 appeal create uncertainty around her candidacy, two, Bardella is younger and less tested nationally if he replaces her, and three, the RN remains easier to attack on governing credibility than on protest rhetoric.",
+            "Third, the left and centre can still mobilize around concrete socioeconomic issues that the RN struggles to own. This is because (1) healthcare, social security, and cost of living are bread-and-butter issues where the RN lacks a deep governing record, (2) a policy-focused campaign could expose the RN’s vagueness, and (3) voters may prefer a competent mainstream reformer once the election becomes a real contest of ideas."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether fragmentation merely creates noise or actually prevents anti-RN coordination in a two-round system. Prop wins if you think the first-round splintering and strategic-vote framing lock in the RN as the only coherent pole; opp wins if you think runoff dynamics and elite consolidation can still produce a single blocking candidate.",
+      "stock_connections": [
+        "Vote Splitting",
+        "Strategic Voting",
+        "Fragmentation of the Opposition",
+        "Anti-Incumbency",
+        "Populism",
+        "Democratic Backsliding",
+        "Elite Coordination",
+        "Runoff Incentives"
+      ],
+      "motion_areas": [
+        "TH, as the French left, would prioritize unity over ideological purity in presidential elections",
+        "THBT France’s two-round presidential system benefits anti-establishment parties",
+        "THP a world where mainstream parties coordinate to block the far right",
+        "THBT centrist parties should merge into a single anti-populist bloc"
+      ],
+      "data_points": [
+        "About 30 figures across the political spectrum have expressed interest in running for the 2027 French presidential election",
+        "Marine Le Pen’s National Rally is the biggest single opposition party in the French parliament",
+        "Le Pen’s appeal trial verdict is scheduled for 7 July to decide whether her conviction and public-office ban are upheld",
+        "Jordan Bardella is 30 and would likely replace Le Pen if she is barred",
+        "Ipsos polling last month found 74% of French voters want either a radical transformation or deep changes in France",
+        "In 2022, Emmanuel Macron beat Marine Le Pen in the presidential runoff",
+        "In 2016, François Hollande’s satisfaction rating reportedly fell to 4%, the lowest for a French president since World War II"
+      ]
+    },
+    {
+      "id": "5dd0cf74ab7a",
+      "title": "Trump-Mediated 3-Day Ceasefire Becomes a Test of U.S. Leverage Over Russia and Ukraine",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire",
+      "published": "2026-05-09T04:04:26Z",
+      "category": "IR",
+      "region": "Russia / Ukraine / United States",
+      "background": "On Friday, President Donald Trump said Russia and Ukraine had agreed to his request for a three-day ceasefire running Saturday through Monday, alongside an exchange of 1,000 prisoners by each side. Ukrainian President Volodymyr Zelenskyy and Yuri Ushakov, Vladimir Putin's foreign affairs adviser, both publicly confirmed the arrangement. The pause was announced around Russia's Victory Day holiday on May 9, while U.S. Secretary of State Marco Rubio separately said earlier that day that U.S. mediation efforts had not yet produced a 'fruitful outcome' and had stagnated.",
+      "prop_args": [
+        {
+          "thesis": "A short, U.S.-brokered ceasefire is valuable because it creates a rare diplomatic off-ramp, reduces immediate human costs, and can be used to build verification and bargaining channels for a longer settlement.",
+          "mechanisms": [
+            "First, even a 72-hour pause lowers civilian and military harm. This is because (1) it immediately stops shelling, drone strikes, and artillery fire for a defined window, (2) it creates space for prisoner exchanges that both sides already value, and (3) it gives humanitarian actors a predictable interval to move people and supplies.",
+            "Second, a limited ceasefire can build trust and bargaining infrastructure. Three reasons: one, both sides have now publicly committed to a concrete term, which creates a reputational cost for blatant violation; two, the exchange of 1,000 prisoners each side creates a tangible compliance benchmark; three, a successful pause gives mediators a proof-of-concept for monitoring, sequencing, and escalation control.",
+            "Third, this matters because small ceasefires can become the only realistic pathway to ending entrenched wars. The biggest strategic gain is not that three days end the war, but that they test whether Moscow and Kyiv can sustain reciprocal restraint long enough for talks to move from symbolic diplomacy to enforceable terms."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This ceasefire is mostly performative and risks helping Russia manage optics without changing the underlying war dynamics.",
+          "mechanisms": [
+            "First, the deal is too short and too weakly enforced to alter battlefield incentives. One, a three-day pause does not change Russia's long-term military objectives or Ukraine's survival calculus; two, both sides have already accused each other of violating earlier unilateral ceasefires, showing low trust and weak compliance; three, without robust monitoring, each side can blame the other while preserving escalation capacity.",
+            "Second, the ceasefire can be exploited for strategic messaging rather than peace. One, Russia gets Victory Day optics and a temporary reduction in battlefield pressure during a symbolic holiday; two, Trump gets a headline that overstates progress even though Rubio says talks have stagnated; three, Ukraine may be pressured into concessions or into appearing obstructionist if it resumes fighting after the pause.",
+            "Third, short pauses can entrench a frozen-conflict logic. One, they normalize the idea that temporary humanitarian gestures substitute for settlement; two, they let both sides rearm, reposition, and resume fighting with better information; three, they can reduce external urgency for harder diplomacy, sanctions, or security guarantees that would actually shift the war's trajectory."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the ceasefire is a genuine confidence-building step or just a symbolic pause with no enforcement. Prop wins if you prioritize immediate human relief and the value of creating a first verifiable channel; opp wins if you think the war's incentives are unchanged and the deal mainly serves optics and strategic repositioning.",
+      "stock_connections": [
+        "Peace Process Theory",
+        "Credible Commitment Problem",
+        "Security Dilemma",
+        "Frozen Conflict",
+        "Ceasefire Violation Incentives",
+        "Humanitarian Intervention",
+        "Great Power Mediation",
+        "Diplomatic Signaling",
+        "War Termination"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize short-term ceasefires over comprehensive peace deals in active wars",
+        "THBT third-party mediators should broker temporary ceasefires even when a final settlement is not yet in sight",
+        "THP a world where major wars are first paused through limited humanitarian ceasefires before any negotiations on territory or security guarantees"
+      ],
+      "data_points": [
+        "Three-day ceasefire announced for May 9-11, 2026",
+        "Exchange of 1,000 prisoners by each country",
+        "Russia's Victory Day falls on May 9",
+        "Russia's war against Ukraine began in February 2022",
+        "U.S. Secretary of State Marco Rubio said mediation efforts had 'stagnated' and produced no 'fruitful outcome' so far",
+        "Earlier Russian and Ukrainian unilateral ceasefires had quickly collapsed, with both sides blaming each other"
+      ]
+    },
     {
       "id": "eda8c1890cf8",
       "title": "Australia Reverses CSIRO Hollowing-Out With Emergency Funding, Reviving the Public Science vs Fiscal Austerity Clash",

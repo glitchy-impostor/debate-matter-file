@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "last_updated": "2026-05-09T03:50:35Z",
+  "last_updated": "2026-05-09T08:07:44Z",
   "cards": [
     {
       "id": "33512f684dc5",
@@ -118,6 +118,67 @@
         "The 1942 Sacramento Bee exchange occurred after Executive Order 9066 authorized the internment of more than 120,000 Japanese Americans, most of whom were U.S. citizens.",
         "The article says strict immigration quotas and bans became law in 1924, yet questions about children’s citizenship continued into the 1930s and 1940s.",
         "It notes that conservative calls to renounce birthright citizenship emerged in the 1990s and were later mainstreamed under Donald Trump."
+      ]
+    },
+    {
+      "id": "c1db6a941de1",
+      "title": "America’s Bipartisan Tax Revolt Risks Making the State Unfundable",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/tax-revolt-irs/686926/?utm_source=feed",
+      "published": "2026-04-28T11:00:00Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "In April 2026, the IRS finished collecting 2025 taxes and brought in an estimated $5.2 trillion from businesses and households. The article argues that Congress is spending about $7 trillion a year, while both parties are expanding tax cuts, loopholes, and targeted exemptions. It also notes that the Trump administration has cut 25,000 IRS workers and reduced the agency’s budget by nearly 10%, while new tax provisions now favor tips, overtime, retirement benefits, and owner-operators.",
+      "prop_args": [
+        {
+          "thesis": "Broadening the tax base and restoring the legitimacy of taxation is necessary to preserve state capacity, fiscal sustainability, and any future welfare-state expansion.",
+          "mechanisms": [
+            "First, a broad-based tax system is the only durable way to fund rising mandatory spending. This is because (1) the U.S. is facing an aging population, so Social Security, Medicare, disability insurance, and long-term care costs will rise; (2) interest costs on existing debt are already high; and (3) if revenue keeps eroding through carve-outs and rate cuts, the government will be forced into either borrowing, inflationary money creation, or austerity.",
+            "Second, tax populism destroys compliance by changing how citizens psychologically relate to the state. Three reasons: one, when politicians frame taxes as punishment or theft, taxpayers become more willing to evade, resist, or support anti-IRS politics; two, the article notes a 14-point rise in the share of Americans who think their income tax bill is unfair; three, once tax resistance becomes socially normalized, even legitimate future tax hikes for universal programs become politically impossible.",
+            "Third, targeted tax breaks are a hidden and regressive form of spending that worsens inequality while making the code less efficient. This matters because (1) deductions and exemptions disproportionately benefit higher earners who have more taxable income and better access to tax planning; (2) the article says 60% of the One Big Beautiful Bill’s tax cuts went to the wealthy even though 85% of households got some cut; and (3) a code full of special provisions shifts politics from transparent redistribution to opaque rent-seeking, which is harder to reverse."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Tax cuts and targeted exemptions are politically necessary responses to high living costs and can improve fairness by relieving burdens on workers rather than extracting more from them.",
+          "mechanisms": [
+            "First, lower taxes can function as immediate cost-of-living relief for households facing stagnant wages and high prices. One, the article itself notes that even six-figure households are struggling with child care, rent, groceries, health insurance, and debt; two, exempting tips, overtime, or certain benefits can raise take-home pay without requiring a wage negotiation; three, politically, visible relief is more legible to voters than distant promises of future public goods.",
+            "Second, progressive tax cuts can correct a system that already overtaxes labor relative to capital. One, wages are taxed more heavily than investment income in the U.S.; two, wealth and executive pay have risen much faster than hourly wages; three, if the tax code is already skewed toward capital, then selective relief for workers can be defended as partial rebalancing rather than fiscal irresponsibility.",
+            "Third, broad tax hikes can be economically and politically self-defeating if they hit the middle class before trust in government is restored. One, voters already believe they pay too much and do not see equivalent public benefits; two, raising broad-based taxes in a polarized environment may intensify anti-state backlash and increase evasion; three, if the state cannot credibly show that new revenue will be spent well, then taxing more can reduce legitimacy faster than it increases capacity."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term voter relief and long-term state capacity. Prop wins if the round is about whether a modern welfare state can survive without broad-based taxation; opp wins if the judge prioritizes immediate affordability and political feasibility, because tax systems that people perceive as unfair are hard to sustain even when they are economically necessary.",
+      "stock_connections": [
+        "State capacity",
+        "Fiscal sustainability",
+        "Tax compliance",
+        "Race to the bottom",
+        "Populism",
+        "Redistribution",
+        "Moral hazard",
+        "Hidden taxation",
+        "Inequality",
+        "Austerity"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would broaden the tax base rather than rely on targeted tax cuts",
+        "THBT governments should resist tax revolts even when voters demand relief",
+        "THP a world where income taxes are simpler, broader, and less riddled with exemptions",
+        "THBT the Democratic Party should campaign on higher taxes for the middle class to fund universal welfare programs"
+      ],
+      "data_points": [
+        "$5.2 trillion collected by the IRS from 2025 taxes",
+        "$7 trillion annual federal spending",
+        "Congress is spending about as much fiscal stimulus as during the Great Recession",
+        "A 14 percentage point increase over the past decade in Americans who think their income-tax bill is unfair",
+        "The One Big Beautiful Bill Act cut tax liability for 85% of households, but 60% of the cuts went to the wealthy",
+        "Trump fired 25,000 IRS workers and cut the agency’s budget by nearly 10%",
+        "California is considering a one-time 5% levy on about 200 billionaires in a state of 40 million people",
+        "Jeff Bezos’s net worth rose by $99 billion from 2014 to 2018, while only 0.98% of that went to public coffers",
+        "The article says Trump’s tariffs were the biggest tax hike since 1993",
+        "Bill Clinton raised income taxes on filers making more than $250,000 in today’s dollars; Obama raised them above $284,000 in today’s dollars"
       ]
     }
   ]
