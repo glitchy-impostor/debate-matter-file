@@ -1,7 +1,456 @@
 {
   "date": "2026-05-09",
-  "last_updated": "2026-05-09T13:46:40Z",
+  "last_updated": "2026-05-09T16:01:21Z",
   "cards": [
+    {
+      "id": "4962119e4521",
+      "title": "West Bank Freedom Marathon Turns the Separation Wall Into a Symbol of Occupation and Resistance",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinians-run-west-bank-freedom-marathon-along-separation-wall?traffic_source=rss",
+      "published": "2026-05-09T14:53:02Z",
+      "category": "IR",
+      "region": "West Bank, Israel/Palestine",
+      "background": "On 9 May 2026, Palestinians held a 'freedom marathon' in Bethlehem in the occupied West Bank, running alongside Israel's separation wall. The event was explicitly political, framed by participants as a protest against a structure that they say cuts them off from land, family networks, and access to the sea. The wall remains one of the most visible symbols of the occupation and the territorial fragmentation of Palestinian life.",
+      "prop_args": [
+        {
+          "thesis": "Public acts of resistance like the freedom marathon are valuable because they keep occupation visible, sustain national identity, and generate nonviolent pressure that armed struggle cannot reliably produce.",
+          "mechanisms": [
+            "First, the marathon internationalizes the conflict by turning a local grievance into a visual, media-friendly event. This works because (1) the wall is a concrete image that travels well in global media, (2) the event reframes Palestinians as civilians asserting rights rather than abstract security threats, and (3) repeated coverage keeps the occupation in the public agenda instead of letting it normalize.",
+            "Second, it strengthens Palestinian social cohesion and political identity under fragmentation. Three reasons: one, collective participation creates shared rituals that substitute for the geographic separation imposed by checkpoints and the wall; two, it gives younger Palestinians a nonviolent form of belonging and agency; three, it signals that everyday life itself is a site of resistance, which helps preserve morale in a long conflict.",
+            "Third, nonviolent symbolism can impose reputational costs on the occupying power without escalating battlefield violence. This matters because it shifts the contest onto legitimacy: if the wall is seen as a tool of dispossession rather than security, Israel faces greater diplomatic pressure, civil society scrutiny, and legal contestation, all of which can constrain policy over time."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Symbolic protests like this are politically limited because they do not change material facts on the ground and may even entrench the status quo by substituting performance for leverage.",
+          "mechanisms": [
+            "First, the event has little coercive power over Israeli policy. Numbered reasons: one, it does not impose economic, military, or diplomatic costs comparable to sanctions or armed resistance; two, Israel can absorb symbolic condemnation while maintaining the wall and the broader occupation architecture; three, international audiences often consume such events as moral theatre without translating sympathy into policy change.",
+            "Second, it can be domestically cathartic but strategically distracting. Numbered reasons: one, it channels energy into one-off spectacles rather than institution-building, diplomacy, or mass mobilization; two, it may create the illusion of resistance while the territorial fragmentation remains unchanged; three, it can be easier for elites to endorse symbolic events than to pursue harder political compromises, reducing pressure for real strategy.",
+            "Third, the protest can be framed by opponents as proof that the conflict is already 'managed' rather than urgent. This matters because if the wall continues to function and the marathon proceeds safely, the occupying side can argue that the situation is stable, thereby normalizing the status quo and weakening the urgency of external intervention."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic legitimacy and material leverage. Prop wins if the motion is about narrative, identity, or long-run international pressure; opp wins if the motion is about immediate policy change, because the marathon creates visibility but not direct coercive power.",
+      "stock_connections": [
+        "Nonviolent Resistance",
+        "Symbolic Politics",
+        "Legitimacy Contestation",
+        "Occupation and Self-Determination",
+        "International Attention as Leverage",
+        "Civil Society Mobilization"
+      ],
+      "motion_areas": [
+        "TH, as Palestinians, would prioritize symbolic mass protests over armed resistance",
+        "THBT nonviolent cultural resistance is the most effective tool for stateless peoples",
+        "THP a world where occupied populations use international sporting events as political protest",
+        "THBT the Palestinian struggle is better served by narrative warfare than by military escalation"
+      ],
+      "data_points": [
+        "The marathon was held on 9 May 2026 in Bethlehem, in the occupied West Bank.",
+        "The route ran alongside Israel's separation wall.",
+        "The article states the wall cuts Palestinians off from their land, their families, and even the sea."
+      ]
+    },
+    {
+      "id": "c962b693f905",
+      "title": "Denmark’s Coalition Deadlock Opens the Door to a Rightward Policy Shift on Immigration and EU Alignment",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/09/danish-rightwing-leader-troeld-lund-poulsen-form-government-mette-frederiksen-fails-coalition",
+      "published": "2026-05-09T14:17:25Z",
+      "category": "IR",
+      "region": "Denmark / EU",
+      "background": "After Denmark’s March 2026 parliamentary election, no party won a majority and the Social Democrats won only a plurality, marking their worst result since 1903. Prime Minister Mette Frederiksen failed to assemble a left-leaning coalition, and King Frederik has now asked centre-right leader Troels Lund Poulsen to try to form a government without the Social Democrats or moderates. The Danish People’s Party increased its vote share to 9.1%, tripling its support from the previous election, and is reportedly pushing for a government with the explicit goal of measures leading to a \"Muslim net-exodus\" from Denmark.",
+      "prop_args": [
+        {
+          "thesis": "A rightwing coalition would harden Denmark’s immigration regime and normalize exclusionary politics across the EU.",
+          "mechanisms": [
+            "First, a rightwing government would be structurally dependent on anti-immigration parties for parliamentary support. This is because (1) no bloc has a majority, (2) Poulsen needs smaller rightwing parties to govern, and (3) the Danish People’s Party has already extracted a maximalist demand for a \"Muslim net-exodus,\" meaning policy concessions will move beyond symbolic rhetoric into concrete restrictions.",
+            "Second, Denmark’s policy shift would have spillover effects in Europe by legitimizing tougher migration politics in a highly visible Nordic state. Three reasons: one, Denmark is often treated as a model of efficient welfare-state governance, so its policies are seen as credible rather than fringe; two, mainstream left parties have already adopted stricter immigration controls, showing the Overton window is moving; three, a successful rightward coalition gives other European conservatives a proof-of-concept that hardline migration politics can win and govern.",
+            "Third, the coalition would deepen polarization and institutionalize anti-minority politics. This matters because (1) once parties campaign on ethnic or religious exclusion, they create incentives to keep escalating to satisfy their base, (2) minority communities face greater insecurity and reduced trust in state institutions, and (3) the government’s legitimacy becomes tied to identity-based outbidding rather than policy competence."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A rightwing coalition is more likely to restore governability and reflect voter preferences than produce radical policy change.",
+          "mechanisms": [
+            "First, the coalition may be constrained by Denmark’s fragmented parliament and the need for compromise. One, Poulsen still has to assemble multiple rightwing parties with different priorities; two, the process has already become the longest in Danish history, showing hardliners cannot simply dictate terms; three, coalition bargaining in Denmark usually moderates extreme demands because any partner can walk away.",
+            "Second, the electoral result indicates a real democratic mandate for tougher immigration policy. One, the Social Democrats had their worst showing since 1903, so Frederiksen’s centrist-left approach lost support; two, rightwing parties gained substantially, including the Danish People’s Party rising to 9.1%; three, if mainstream parties absorb some of these concerns, it can reduce the appeal of outright extremists by channeling grievances into the system.",
+            "Third, the policy impact may be limited because Denmark already has some of Europe’s strictest immigration rules. One, there is less room for dramatic tightening than in many other EU states; two, EU law and domestic courts can constrain the most extreme measures; three, the rhetoric may be harsher than the actual legislative output, meaning the practical delta is smaller than the headline suggests."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coalition bargaining moderates the right or whether dependence on anti-immigration parties pulls the whole system further right. Prop wins if you think precedent matters: a successful hardline government in Denmark would normalize exclusionary politics in Europe, while Opp wins if you think institutional constraints and coalition compromise keep the actual policy shift limited.",
+      "stock_connections": [
+        "Populism",
+        "Coalition Bargaining",
+        "Overton Window",
+        "Minority Rights",
+        "Democratic Mandate",
+        "Race to the Bottom",
+        "Europeanization of Migration Policy",
+        "Right-Wing Backlash"
+      ],
+      "motion_areas": [
+        "TH, as Denmark, would form a rightwing coalition government",
+        "THBT mainstream parties should adopt stricter immigration policies to neutralize the far right",
+        "THP a world where coalition governments are required in fragmented democracies"
+      ],
+      "data_points": [
+        "Social Democrats won the plurality in March 2026 but their worst electoral result since 1903",
+        "The Danish People’s Party tripled its vote share to 9.1%",
+        "Denmark’s government formation process has already become the longest in Danish history",
+        "Frederiksen attempted to build a left-leaning government with support from Lars Løkke Rasmussen’s moderates before negotiations collapsed",
+        "King Frederik asked Troels Lund Poulsen to lead negotiations to form a government without the Social Democrats or moderates"
+      ]
+    },
+    {
+      "id": "55b79256e42a",
+      "title": "Senegal’s Electoral Amnesty Opens the Door to Sonko’s Return — or Normalizes Impunity for Protest Politics",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/senegal-mps-pass-electoral-reform-clearing-sonko-presidency-bid",
+      "published": "2026-05-09T14:11:32Z",
+      "category": "IR",
+      "region": "Senegal",
+      "background": "Senegalese lawmakers approved an amnesty covering crimes linked to political protests between 2021 and 2024. The move led to the release of opposition figures Ousmane Sonko and Bassirou Diomaye Faye, and the reform is described as clearing the way for Sonko’s presidential bid. The political context is a period of intense confrontation between the state and opposition over arrests, protest violence, and the legal status of anti-government mobilization.",
+      "prop_args": [
+        {
+          "thesis": "Amnesty and electoral reform are necessary to restore political competition in Senegal after years of repression and exclusion.",
+          "mechanisms": [
+            "First, the reform reopens the democratic field by removing legal barriers that were being used to sideline opposition leaders. This is because (1) Sonko and Faye had been detained or prosecuted in the context of protest politics, (2) their exclusion would have made elections look predetermined, and (3) allowing them back in increases the credibility of the ballot as a genuine contest.",
+            "Second, the amnesty can de-escalate conflict by converting street confrontation into institutional competition. Three reasons: one, supporters who believe the system is rigged are more likely to mobilize peacefully if their leaders can run; two, releasing high-profile opposition figures reduces the incentive for retaliatory protest cycles; three, a political settlement is often cheaper than continued repression, arrests, and unrest.",
+            "Third, this strengthens long-term state legitimacy because it signals that Senegal’s institutions can absorb dissent without collapsing. This matters because a government that can tolerate opposition gains more public trust, reduces the risk of radicalization, and creates a precedent that political disputes should be settled through elections rather than force."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The reform rewards political violence and weakens the rule of law by turning protest-linked crimes into a route back to power.",
+          "mechanisms": [
+            "First, the amnesty creates moral hazard for future opposition movements. One, if actors know that mass unrest can later be forgiven, they have weaker incentives to avoid escalation; two, it blurs the line between legitimate dissent and unlawful violence; three, it teaches elites that street pressure can override legal accountability.",
+            "Second, it undermines judicial and institutional credibility by making prosecutions look politically contingent. One, victims of protest violence may see the state as abandoning accountability; two, prosecutors and judges lose authority if major cases are wiped away by parliamentary deal-making; three, future governments may be tempted to use amnesties selectively, deepening politicization of the justice system.",
+            "Third, the reform may deepen polarization rather than resolve it because it can be read as a victory for one faction rather than a national settlement. One, supporters of the ruling camp may view Sonko’s return as impunity; two, opposition supporters may become more emboldened and confrontational; three, the state risks normalizing a cycle where political crises are resolved by concessions after unrest, not by stable institutions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the amnesty is a democratic reset or a precedent for impunity. Prop wins if the round is about restoring competitive elections after repression; opp wins if the judge prioritizes rule-of-law credibility and the long-term incentives created by forgiving protest-linked offenses.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Rule of Law",
+        "Moral Hazard",
+        "Political Amnesty",
+        "State Legitimacy",
+        "Protest Cycles",
+        "Conflict De-escalation",
+        "Institutional Trust"
+      ],
+      "motion_areas": [
+        "TH, as Senegal, would grant amnesty to protest-linked political offenders to restore democratic competition",
+        "THBT governments should prioritize political reconciliation over prosecuting protest-related crimes",
+        "THP a world where opposition leaders can be legally rehabilitated after mass protest movements"
+      ],
+      "data_points": [
+        "Senegal lawmakers approved an amnesty for crimes linked to political protests between 2021 and 2024.",
+        "The amnesty led to the release of Ousmane Sonko and Bassirou Diomaye Faye.",
+        "The reform is described as clearing the way for Sonko’s presidential bid.",
+        "The relevant protest period spans three years: 2021, 2022, 2023, and into 2024."
+      ]
+    },
+    {
+      "id": "d146de28d183",
+      "title": "Israel’s Release of Gaza Flotilla Activists Highlights the Legal and Political Costs of Enforcing the Blockade",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists?traffic_source=rss",
+      "published": "2026-05-09T14:06:55Z",
+      "category": "IR",
+      "region": "Gaza / Israel-Palestine",
+      "background": "Israel said it will release two Gaza-bound flotilla activists, Saif Abu Keshek (Spanish-Palestinian) and Thiago Avila (Brazilian), after detaining them following the interception of the Global Sumud Flotilla in international waters off the coast of Greece. According to Adalah, the other 168 activists on the flotilla were taken to Crete and then released, while the two men were taken to Israel, held in custody, and faced deportation proceedings. The activists were part of a humanitarian mission seeking to deliver aid to Gaza amid Israel’s blockade and the ongoing war; their lawyers said no charges were filed, and an Israeli court had extended their detention until Sunday before the release decision.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s detention of flotilla activists backfires by turning a blockade-enforcement action into a global legitimacy crisis that strengthens the pro-Palestinian cause.",
+          "mechanisms": [
+            "First, the interception creates a clear legal and moral frame for opponents. This is because (1) the activists were in international waters, so the story is not just about Gaza but about jurisdiction and maritime law, (2) the mission was explicitly humanitarian, so detaining unarmed civilians looks disproportionate, and (3) the lack of charges makes the detention appear punitive rather than security-based.",
+            "Second, the case generates international sympathy and mobilization. Three reasons: one, hunger strikes and claims of isolation create emotionally powerful victim narratives, two, the involvement of a Spanish-Palestinian and a Brazilian activist internationalizes the issue beyond the region, and three, rights groups like Adalah can use the case to amplify accusations of unlawful blockade enforcement.",
+            "Third, this weakens Israel’s broader blockade strategy because every enforcement episode becomes evidence for critics. This matters because the blockade depends not only on physical control but also on external tolerance; if each interception produces diplomatic embarrassment, legal scrutiny, and media attention, the long-term cost of enforcement rises and the policy becomes harder to sustain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel’s actions are a defensible security measure because it must prevent unauthorized access to Gaza and deter symbolic provocations that could be exploited by hostile actors.",
+          "mechanisms": [
+            "First, Israel can argue the interception is about controlling a conflict zone, not targeting humanitarianism. Numbered reasons: one, Gaza is under an active blockade and war conditions make maritime access a security risk, two, flotillas can be used to test or undermine enforcement of the blockade, and three, allowing one vessel through could create a precedent for repeated challenges that erode deterrence.",
+            "Second, the detention and deportation process shows restraint rather than escalation. Numbered reasons: one, the other 168 activists were released after processing, which suggests the state is not seeking mass punishment, two, the two detained activists were ultimately set for release to their home countries rather than long-term incarceration, and three, using immigration custody instead of criminal charges allows Israel to avoid a more severe legal confrontation.",
+            "Third, the incident may have limited strategic significance because symbolic activism does not change the underlying war balance. Numbered reasons: one, flotilla missions do not materially alter Gaza’s aid situation at scale, two, Israel’s core security and blockade policy is driven by military considerations rather than PR costs, and three, international criticism is unlikely to force a policy reversal absent stronger state-level pressure."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the flotilla episode is a one-off enforcement action or part of a broader pattern that erodes Israel’s legitimacy. Prop wins if the round is about norms and international opinion; opp wins if the round is about state security and the limited material impact of symbolic activism.",
+      "stock_connections": [
+        "International Law / Freedom of Navigation",
+        "Humanitarian Intervention",
+        "State Sovereignty",
+        "Security vs Civil Liberties",
+        "Legitimacy Costs",
+        "Blockade Enforcement",
+        "Asymmetric Conflict",
+        "Civil Resistance"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would not intercept humanitarian flotillas bound for Gaza",
+        "THBT states should be allowed to intercept civilian aid missions in active conflict zones",
+        "THP a world where humanitarian flotillas can challenge blockades without state interference"
+      ],
+      "data_points": [
+        "2 activists detained: Saif Abu Keshek and Thiago Avila",
+        "168 other flotilla members were taken to Crete and then released",
+        "Flotilla intercepted in international waters off the coast of Greece",
+        "Israeli court extended detention until Sunday despite no charges being filed",
+        "Activists were on a hunger strike; Abu Keshek reportedly refused water since Tuesday",
+        "Adalah said the pair were held in total isolation under punitive conditions"
+      ]
+    },
+    {
+      "id": "3f46da8bc066",
+      "title": "Hormuz Standoff Becomes a War of Attrition Neither Washington Nor Tehran Can Sustain",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/09/neither-us-nor-iran-can-sustain-strait-of-hormuz-standoff-indefinitely",
+      "published": "2026-05-09T14:00:59Z",
+      "category": "IR",
+      "region": "Strait of Hormuz / Iran / United States / Middle East-Gulf / Asia",
+      "background": "The article describes a rapidly escalating US-Iran confrontation over the Strait of Hormuz after US and Israeli strikes on Iran and a subsequent US attempt to secure shipping through a unilateral 'Project Freedom' corridor. That operation collapsed after 50 hours, with Saudi Arabia refusing access to its airspace and bases and only two merchant vessels using the route. More than 1,550 vessels are reportedly trapped in the Gulf, no merchant ships transited the strait on Wednesday and Thursday, and US Central Command has turned back 52 vessels since 13 April. Leaked assessments cited in the article say Iran still retains about 70% of its missiles and 75% of its launchers, while a US intelligence estimate suggests Iran could endure the blockade for three to four months before severe economic hardship.",
+      "prop_args": [
+        {
+          "thesis": "The US can force Iran into strategic retreat by sustaining a naval blockade and selective military pressure until Tehran accepts limits on its nuclear and regional posture.",
+          "mechanisms": [
+            "First, the blockade converts Iran's geographic leverage into an economic liability. This is because (1) Iran cannot export crude through the Strait of Hormuz while US carrier groups and interdictions keep shipping out, (2) the article says more than 1,550 vessels are trapped and US Central Command has already turned back 52 vessels since 13 April, and (3) leaked US intelligence suggests Iran can only endure three to four months before severe economic hardship, meaning time is structurally on Washington's side.",
+            "Second, the US has already demonstrated enough military dominance to make Iranian escalation costly but not symmetrical. Three reasons: one, US and Israeli strikes inflicted minimal casualties while showing comprehensive military superiority; two, Iran has reportedly lost a quarter to a half of its high-end US missile stockpiles on the US side, making renewed bombing less sustainable for Tehran; three, Iran's retained arsenal is still vulnerable to attrition if it keeps firing at shipping and US assets.",
+            "Third, pressure works because Iran lacks strong external backers and cannot easily offset the blockade. This matters because (1) China is only reportedly supplying drone parts and perhaps handheld air defenses, not decisive economic or military rescue, (2) Russia's possible contribution of 5,000 fibre-optic drones is mainly useful against ground troops, not reopening the strait, and (3) without allies or revenue, the regime faces rising inflation, unemployment and unpaid wages, which increases the chance of elite fragmentation or negotiated capitulation."
+          ]
+        },
+        {
+          "thesis": "Even if the standoff is costly, the US can outlast Iran because Washington has more escalation options, more coalition leverage, and less regime survival risk.",
+          "mechanisms": [
+            "First, the US can calibrate force in ways Iran cannot. One, it can keep carrier strike groups and destroyers in place without immediate domestic collapse; two, it can choose between blockade, air strikes, and maritime interdiction; three, it can stop short of full invasion while still imposing pain, whereas Iran's main tools are limited to harassment and disruption.",
+            "Second, US diplomacy can peel off regional actors and prevent Iran from building a counter-coalition. One, Saudi Arabia refused to support Project Freedom only because it feared wider war, showing Gulf states are sensitive to US security framing; two, the US still has leverage over regional airspace and bases when partners cooperate; three, Iran's isolation means it cannot convert the crisis into a durable bloc.",
+            "Third, the political costs of waiting are lower for Washington than for Tehran. This matters because (1) the US can present the crisis as protecting global shipping and oil markets, (2) Iran's economy is already under direct pressure from blocked exports and domestic unrest, and (3) a regime under sanctions and inflation is more likely to crack before a superpower with reserve capacity."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The US cannot sustain this standoff because it lacks the political will, stockpiles, and regional legitimacy for a prolonged confrontation.",
+          "mechanisms": [
+            "First, Washington's military posture is not costless and may be unsustainable. One, the article says high-end US missile stocks are down by anywhere between a quarter and a half during the $25bn Epic Fury campaign; two, Trump is described as fickle and impatient, meaning he may not commit the forces needed for a real regime-dislodging campaign; three, if the US cannot credibly escalate, Iran can wait it out and keep the strait unstable.",
+            "Second, the US is failing to build the coalition required for durable control of Hormuz. One, Saudi Arabia refused access to its airspace and bases because it was not consulted; two, major shipping companies were not briefed and do not trust Project Freedom; three, without commercial and regional buy-in, the US cannot turn military presence into an effective maritime order.",
+            "Third, the economic blowback from the standoff hits the US and its allies globally. One, higher inflation is already affecting large parts of the world economy; two, oil shortages are particularly acute in Asia, which increases pressure on Washington from partners and markets; three, if the US is seen as causing the crisis, it will face diplomatic costs that force de-escalation before Iran does."
+          ]
+        },
+        {
+          "thesis": "Iran can sustain enough disruption to make the strait unusable, so the US cannot translate superiority into strategic dominance.",
+          "mechanisms": [
+            "First, Iran's asymmetric maritime threat is sufficient to deny the US a clean victory. One, the article says Iran retains the ability to threaten and inflict damage on tankers and effectively halt all other shipping; two, no merchant ships transited the strait on Wednesday and Thursday, showing the threat already changes behavior; three, if commerce cannot move, Iran has achieved its core strategic objective even without winning a conventional battle.",
+            "Second, the regime's resilience makes coercion slower than Washington expects. One, assessments say Iran has been entrenched by the bombing campaign rather than weakened; two, it still retains 70% of its missiles and 75% of its launchers, so it can keep retaliating; three, its leadership appears willing to absorb pain because it frames the conflict as national cohesion against foreign pressure.",
+            "Third, the US cannot easily solve the problem militarily without unacceptable escalation. One, a serious attempt to dislodge Iran would require substantial force that Trump is unwilling to commit; two, any move toward ground operations or island seizures would expand the war and raise US casualties; three, because the US is trying to avoid a full war, Iran only needs to keep the standoff going to prevent a decisive American outcome."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive pressure can be sustained long enough to force political concessions before the economic and military costs become intolerable. Pro side wins if you think blockade economics and Iran's isolation make time a weapon for Washington; opposition wins if you think US impatience, coalition failure, and Iran's ability to deny shipping mean strategic dominance never materializes.",
+      "stock_connections": [
+        "War of Attrition",
+        "Coercive Diplomacy",
+        "Deterrence Failure",
+        "Security Dilemma",
+        "Economic Sanctions",
+        "Asymmetric Warfare",
+        "Alliance Politics",
+        "Energy Security",
+        "Regime Survival",
+        "Escalation Dominance"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would maintain a naval blockade of Iran despite global oil price shocks",
+        "THBT regional powers should refuse to support unilateral US security operations in the Strait of Hormuz",
+        "THP a world where states can interdict maritime chokepoints to coerce nuclear negotiations",
+        "THBT the West should prioritize economic coercion over full-scale military intervention against Iran",
+        "TH, as Iran, would continue disrupting shipping in the Strait of Hormuz despite domestic economic pain"
+      ],
+      "data_points": [
+        "More than 1,550 vessels remain trapped in the Gulf",
+        "No merchant ships transited the Strait of Hormuz on Wednesday and Thursday",
+        "US Central Command has turned back 52 vessels since 13 April",
+        "Project Freedom collapsed after 50 hours",
+        "Project Freedom deployed more than 100 fighter jets and several naval destroyers",
+        "Leaked CIA assessments suggest Iran retains 70% of its missiles and 75% of its launchers",
+        "Iran may retain half of its Shahed attack drones",
+        "US high-end missile stocks are down by anywhere between a quarter and a half after the $25bn Epic Fury campaign",
+        "A leaked US intelligence assessment says Iran could endure three to four months before severe economic hardship",
+        "Oil shortages are particularly acute in Asia"
+      ]
+    },
+    {
+      "id": "b5dffa6da9b5",
+      "title": "Bahrain’s Anti-IRGC Crackdown Turns Gulf Security Into a Domestic Loyalty Purge",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
+      "published": "2026-05-09T13:53:00Z",
+      "category": "IR",
+      "region": "Bahrain, Iran, Gulf",
+      "background": "Bahrain’s Interior Ministry said on May 9, 2026 that it had arrested 41 people over alleged links to a group connected to Iran’s Islamic Revolutionary Guard Corps (IRGC). The ministry said the arrests relate to earlier espionage investigations and to expressions of support for Iranian attacks during a war launched against Iran in late February by Israel and the United States. Bahrain had already made earlier arrests in March for alleged IRGC spying and, in late April, stripped citizenship from 69 people accused of sympathising with Iran and “colluding with foreign entities.”",
+      "prop_args": [
+        {
+          "thesis": "Bahrain’s crackdown is a necessary counterintelligence response that reduces the risk of Iranian infiltration and deters future proxy activity in the Gulf.",
+          "mechanisms": [
+            "First, it disrupts operational networks before they can be used for sabotage or espionage. This is because (1) the arrests target alleged members of an IRGC-linked group, (2) Bahrain has already alleged prior spying cases in March, and (3) removing suspected facilitators raises the cost of coordinating attacks, intelligence collection, or logistics inside a small state with limited strategic depth.",
+            "Second, it creates deterrence against public and private collaboration with Iran. Three reasons: one, Bahrain has explicitly warned that glorifying or supporting Iranian attacks can be prosecuted; two, the late-April citizenship revocations show that the state is willing to impose severe penalties; three, visible enforcement signals that neutrality is no longer a safe cover for active alignment with a hostile foreign power.",
+            "Third, it protects regional security architecture by preventing Bahrain from becoming a permissive node in a wider Gulf conflict. This matters because Bahrain hosts US military sites, Iran’s missiles and drones already reached Gulf neighbours during the war, and even limited internal leakage can have outsized consequences in a theater where intelligence, basing, and maritime security are tightly linked."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The crackdown is more likely to entrench sectarian repression and authoritarian overreach than to solve a genuine security threat.",
+          "mechanisms": [
+            "First, the state is using vague security allegations to justify mass repression. One, the ministry did not specify charges against the 41 detainees; two, it has already stripped citizenship from 69 people on the basis of alleged sympathy and “collusion”; three, this lowers the evidentiary threshold for punishment and makes political dissent easier to recast as espionage.",
+            "Second, the policy can backfire by radicalising communities and expanding Iran’s recruitment pool. One, collective punishment and citizenship stripping create grievance among targeted populations; two, people who fear arbitrary arrest have stronger incentives to disengage from the state and seek protection through informal or transnational networks; three, that social alienation makes actual infiltration and covert support more plausible over time.",
+            "Third, it damages rule of law and Bahrain’s international legitimacy. One, rights groups like the Bahrain Institute for Rights and Democracy have already called the citizenship revocations dangerous and unlawful; two, repeated arrests without transparent charges weaken due process norms; three, once security policy becomes indistinguishable from political loyalty testing, external partners may tolerate it short-term but domestic trust erodes permanently."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the threat is real enough to justify exceptional measures. Prop wins if you prioritize immediate counterintelligence in a small, exposed state; opp wins if you think the absence of specific charges and the scale of citizenship stripping show a broader authoritarian consolidation that creates more long-run insecurity than it removes.",
+      "stock_connections": [
+        "Counterterrorism vs civil liberties",
+        "Authoritarian consolidation",
+        "Sectarian repression",
+        "Collective punishment",
+        "Security dilemma",
+        "Proxy conflict",
+        "Rule of law erosion",
+        "Radicalisation through repression"
+      ],
+      "motion_areas": [
+        "TH, as Bahrain, would aggressively crack down on alleged pro-Iran networks",
+        "THBT Gulf monarchies should prioritize internal security over civil liberties in response to Iranian threats",
+        "THP a world where states can revoke citizenship for foreign-aligned activity",
+        "THBT small states facing proxy threats should adopt pre-emptive mass arrests"
+      ],
+      "data_points": [
+        "41 people arrested by Bahrain’s Interior Ministry on May 9, 2026",
+        "69 people stripped of citizenship in Bahrain in late April 2026",
+        "Earlier arrests in March 2026 over alleged IRGC spying",
+        "Iran fired thousands of missiles and drones at Gulf neighbours during the war, including Bahrain",
+        "A fragile US-Iran ceasefire agreed on April 8 remains in effect",
+        "The UAE said on April 20 it uncovered an Iran-linked group and arrested dozens of members"
+      ]
+    },
+    {
+      "id": "4f17b9d4dc7a",
+      "title": "AOC’s 2028 Ambition Signals a Battle Over Whether the Democratic Future Is Populist or Technocratic",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/alexandria-ocasio-cortez-presidential-run",
+      "published": "2026-05-09T13:52:12Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "Alexandria Ocasio-Cortez told a political forum in Chicago on Friday that her “ambition is to change the country,” after being asked whether she would run for higher office in 2028. The New York congresswoman said she was focused on “single-payer healthcare,” a “living wage,” and “workers’ rights,” while avoiding a direct commitment to a presidential or Senate run. Her comments came amid early Democratic jockeying for 2028, with a Harvard CAPS/Harris poll in April showing Kamala Harris at 24% among Democratic voters, Gavin Newsom at 12%, and Pete Buttigieg and Ocasio-Cortez both at 9%.",
+      "prop_args": [
+        {
+          "thesis": "AOC’s rise is good for the Democratic Party because it forces a clearer, more economically populist agenda that can mobilize nonvoters and working-class voters.",
+          "mechanisms": [
+            "First, she shifts the party away from elite-managed triangulation and toward a mass-politics message. This is because (1) her brand is explicitly about wages, healthcare, and labor rather than donor-friendly moderation, (2) that gives voters a sharper contrast with Republicans on material issues, and (3) clearer ideological differentiation is often what increases turnout among disengaged voters who do not respond to technocratic language.",
+            "Second, she expands the coalition by making the party feel less captured by establishment insiders. Three reasons: one, younger voters and renters are more likely to see her as authentic than as another career politician; two, that authenticity helps Democrats compete in an era of anti-elite sentiment; three, a candidate who can speak in moral terms about inequality can unify progressives, unions, and lower-income voters around a common economic story.",
+            "Third, her prominence can force policy change even if she does not win the presidency. This matters because a strong left-wing standard-bearer can move the Overton window on healthcare, wages, and taxation, making future Democratic platforms more redistributive and therefore more responsive to inequality."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AOC’s prominence is electorally risky because it gives Republicans an easy target to frame Democrats as radical, anti-business, and out of touch with swing voters.",
+          "mechanisms": [
+            "First, her rhetoric about billionaires, corporations, and single-payer healthcare is highly attackable in suburban and swing-state politics. One, Republicans can portray her as hostile to markets and small business; two, that framing is especially potent in states where voters fear tax increases and disruption to existing healthcare; three, even if her policy ideas are popular in the abstract, the label of 'socialist' can depress persuasion among undecided voters.",
+            "Second, she can deepen internal Democratic factionalism. One, establishment Democrats may resist a nominee associated with the party’s left flank; two, that creates resource-draining primary conflict instead of general-election unity; three, the party then spends time defending ideological purity fights rather than building a broad coalition against Republicans.",
+            "Third, her ascent may not translate into governing power because the US system rewards moderation and institutional compromise. One, Congress, the Senate, and the presidency all impose veto points; two, sweeping redistributive promises are hard to enact without majorities that Democrats often lack; three, if she becomes the face of a movement that cannot deliver, the backlash can be worse than the original enthusiasm."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether political authenticity and economic populism expand the Democratic coalition more than they alienate swing voters. Pro-AOC wins if the round is about long-term party realignment and turnout; opposition wins if the judge prioritizes immediate electability and the structural difficulty of turning left-populist rhetoric into durable governing majorities.",
+      "stock_connections": [
+        "Populism vs Technocracy",
+        "Left-Wing Realignment",
+        "Anti-Elite Sentiment",
+        "Electoral Backlash",
+        "Overton Window Shift",
+        "Coalition Management",
+        "Primary Polarization",
+        "Governing vs Campaigning"
+      ],
+      "motion_areas": [
+        "TH, as the Democratic Party, would embrace AOC-style populism",
+        "THBT the Democratic Party should nominate a progressive populist in 2028",
+        "THP a world where major US parties are led by anti-establishment figures"
+      ],
+      "data_points": [
+        "A Harvard CAPS/Harris poll in April 2026 showed Kamala Harris at 24% among Democratic voters, Gavin Newsom at 12%, and Pete Buttigieg and Alexandria Ocasio-Cortez each at 9%",
+        "The remarks were made at a political forum in Chicago hosted by David Axelrod at the University of Chicago’s Institute of Politics",
+        "Ocasio-Cortez explicitly endorsed 'single-payer healthcare,' a 'living wage,' and 'workers’ rights' as permanent goals"
+      ]
+    },
+    {
+      "id": "fbea260d1596",
+      "title": "Hungary’s Regime Change Opens a High-Stakes Bargain Between EU Re-Integration and Domestic Economic Repair",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/9/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power?traffic_source=rss",
+      "published": "2026-05-09T13:38:10Z",
+      "category": "Econ",
+      "region": "Hungary / European Union",
+      "background": "Peter Magyar was sworn in as Hungary’s prime minister after his Tisza party won 141 of 199 seats in last month’s parliamentary election, ending Viktor Orban’s 16 years in power. Magyar campaigned on reversing years of economic stagnation, repairing ties with the EU, and tackling a budget deficit that had already reached almost three-quarters of its full-year target by April. The new government also wants to unlock about $20bn in frozen EU funding that was withheld over rule-of-law and human-rights concerns under Orban.",
+      "prop_args": [
+        {
+          "thesis": "Magyar’s victory is economically positive because it gives Hungary a credible path back to EU capital, institutional trust, and policy stability.",
+          "mechanisms": [
+            "First, the new government can unlock frozen EU funds, which immediately improves Hungary’s fiscal position. This is because (1) around $20bn is currently withheld, (2) Hungary’s deficit had already reached almost three-quarters of its full-year target by April, and (3) external funding reduces the need for emergency borrowing or distortionary domestic cuts.",
+            "Second, regime change can reduce the risk premium on Hungarian assets and investment. Three reasons: one, investors price in lower political and regulatory uncertainty when a government is seen as pro-EU; two, restored rule-of-law credibility makes long-term projects safer; three, better relations with Brussels can improve access to markets and financing channels.",
+            "Third, re-aligning with the EU improves Hungary’s medium-term growth prospects because it restores policy coordination and administrative capacity. This matters because the previous regime had spent years politicizing institutions, so a government that can rebuild bureaucratic competence and cooperate with EU partners is better placed to attract investment, absorb funds efficiently, and reverse stagnation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Magyar’s change in leadership will not automatically fix Hungary’s economy because the structural damage from Orban’s era and the constraints of coalition governance will persist.",
+          "mechanisms": [
+            "First, the inherited state apparatus can blunt reform. One, Orban spent 16 years reshaping the bureaucracy, so key institutions may remain staffed by loyalists or embedded with old incentives; two, that slows implementation of any new economic agenda; three, it creates a gap between symbolic change and actual delivery.",
+            "Second, EU money is not a free economic cure. One, the $20bn is frozen for compliance reasons, so release may be conditional and slow; two, even if unlocked, funds can be absorbed inefficiently if administrative capacity is weak; three, one-off transfers do not solve underlying problems like stagnation, deficits, and weak productivity.",
+            "Third, Magyar’s own ideological positioning limits how transformative he can be. One, he is still on the right, so he may not break with the growth model that produced concentration and stagnation; two, he needs to maintain a huge parliamentary majority and broad support, which encourages compromise over deep reform; three, if expectations are too high, disappointment can quickly erode political capital and economic confidence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether political turnover translates into real institutional and fiscal change. The proposition wins if you think EU re-integration and funding unlocks create immediate macro relief and a durable credibility shock; the opposition wins if you think Hungary’s problems are structural, because then leadership change mostly alters symbolism while the same administrative and economic constraints remain.",
+      "stock_connections": [
+        "Rule of Law Conditionality",
+        "Institutional Credibility",
+        "Risk Premium",
+        "State Capacity",
+        "Democratic Backsliding",
+        "EU Integration",
+        "Fiscal Crisis",
+        "Path Dependence",
+        "Elite Capture"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would fully restore funding to Hungary upon Magyar’s election",
+        "THBT regime change in semi-authoritarian states is more likely to improve economic performance than gradual reform",
+        "THP a world where the EU conditions structural funds on rule-of-law compliance",
+        "THBT developing nations should prioritize institutional credibility over short-term fiscal autonomy",
+        "TH, as Hungary, would pursue rapid re-integration with the European Union"
+      ],
+      "data_points": [
+        "Tisza won 141 of 199 seats in Hungary’s parliament",
+        "Hungary’s budget deficit had reached almost three-quarters of its full-year target by April",
+        "Around $20bn in EU funding is frozen over rule-of-law and human-rights concerns",
+        "Orban governed Hungary for 16 years before being replaced by Magyar",
+        "The EU flag had been removed from Hungary’s parliament under Orban and was reinstated on Magyar’s first day"
+      ]
+    },
     {
       "id": "0156714e4c15",
       "title": "Trump’s Oil Blockade Cripples Cuba’s Private Sector While Forcing Market Liberalisation",
@@ -457,6 +906,66 @@
         "A last-minute ceasefire was brokered by US President Donald Trump",
         "Kyiv agreed not to attack the parade",
         "BBC reported fewer guests and fewer reporters than usual, with only a small number of foreign journalists admitted"
+      ]
+    },
+    {
+      "id": "e5163b84053d",
+      "title": "Oil Shock Turns Summer Travel Into a Cost-of-Living Crisis, Wiping Out Budget Airlines and Raising Prices Across the US",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel",
+      "published": "2026-05-09T12:00:56Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "US oil prices have jumped more than 30% since the closing of the Strait of Hormuz at the start of the war in Iran, pushing the national average gas price to $4.56 per gallon, more than $1 above last year. In some states, average gas prices have breached $6 per gallon. Spirit Airlines shut down operations on 2 May, citing the shock of higher jet fuel prices, and passengers on affected routes are now paying more as competition falls.",
+      "prop_args": [
+        {
+          "thesis": "The oil shock is a regressive tax on mobility that hits lower-income Americans hardest and forces them to cut back on travel, consumption, and work-related movement.",
+          "mechanisms": [
+            "First, higher fuel prices act like a direct tax on household budgets. This is because (1) driving and flying become more expensive immediately, (2) low-income households spend a larger share of income on transport, and (3) they have less savings to absorb the shock, so the same price increase causes a much larger welfare loss.",
+            "Second, the shock destroys the cheapest travel options, making mobility less accessible. Three reasons: one, Spirit’s shutdown removes a low-cost carrier that served budget travelers; two, reduced competition on dozens of routes lets remaining airlines raise fares; three, people who cannot pay more are forced into slower alternatives like buses, trains, or no travel at all.",
+            "Third, the broader economic spillovers are negative because households reallocate spending away from productive or discretionary consumption. This matters because higher gas and airfare prices crowd out spending on food, rent, and local services, while also increasing credit-card debt as families finance vacations and essential trips over time."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The travel squeeze is painful but manageable, and the market will adapt through substitution, pricing, and temporary demand shifts rather than a lasting economic crisis.",
+          "mechanisms": [
+            "First, consumers can substitute across modes and timing. One, some travelers will drive, take buses, or use Amtrak instead of flying; two, others will shorten trips or travel fewer days; three, many will simply delay booking until prices stabilize, smoothing demand rather than eliminating it.",
+            "Second, the airline market and broader travel sector can absorb part of the shock. One, major carriers like United and Delta can cut routes, add fees, and adjust capacity to protect margins; two, demand for vacations remains 'really strong,' so firms still have revenue; three, higher prices can reduce excess demand and restore balance without permanent harm.",
+            "Third, the long-run effect on consumers may be limited because energy shocks are temporary and politically reversible. One, if the Iran conflict de-escalates, oil and jet fuel prices can fall; two, governments can provide targeted support if needed; three, once supply normalizes, competition and travel demand will recover."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the shock is a temporary inconvenience or a structural loss of affordable mobility. Prop wins if it proves that the disappearance of budget carriers and the pass-through of fuel costs permanently raise the floor on travel prices for lower-income households; opp wins if it shows consumers can substitute and that the macro pain fades once oil markets stabilize.",
+      "stock_connections": [
+        "Cost-push inflation",
+        "Regressive taxation",
+        "Market concentration",
+        "Consumer surplus",
+        "Elasticity of demand",
+        "Substitution effects",
+        "Credit card debt",
+        "Energy shock",
+        "Competition policy",
+        "Welfare loss"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would subsidize budget airlines during energy shocks",
+        "THBT governments should cap fuel prices during wartime",
+        "THP a world where low-cost carriers receive emergency state support in crises",
+        "TH, as a consumer protection regulator, would intervene to preserve low-cost travel options"
+      ],
+      "data_points": [
+        "US oil prices have risen more than 30% since the Strait of Hormuz was closed",
+        "National average gas price is $4.56 per gallon",
+        "Some US states have average gas prices above $6 per gallon",
+        "Spirit Airlines shut down operations on 2 May",
+        "Frontier and Avelo sought a $2.5bn government assistance package for low-cost carriers",
+        "Spirit had reportedly been in talks over a $500m deal with the White House",
+        "Flixbus reported more than a 30% increase in passengers across 130 routes that mirror Spirit’s",
+        "Flixbus reported a 20% year-over-year increase in online search activity",
+        "Blackmore’s Spirit fare was $500 round trip, later replaced by $800 in Southwest tickets"
       ]
     },
     {
