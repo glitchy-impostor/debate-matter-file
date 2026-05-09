@@ -1,7 +1,187 @@
 {
   "date": "2026-05-09",
-  "last_updated": "2026-05-09T19:17:01Z",
+  "last_updated": "2026-05-09T21:55:42Z",
   "cards": [
+    {
+      "id": "860eebca7f8a",
+      "title": "Middle East War Deepens Sri Lanka’s Human-Wildlife Conflict Through Food and Fuel Shocks",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/09/nx-s1-5809389/mideast-war-worsens-conflict-between-elephants-and-villagers-in-sri-lanka",
+      "published": "2026-05-09T21:09:43Z",
+      "category": "IR",
+      "region": "Sri Lanka / Middle East",
+      "background": "NPR reports that conflict between farmers and elephants in Sri Lanka has worsened as food and fuel become scarcer because of the war in the Middle East. The article links an external geopolitical shock to local livelihood pressures, implying that imported shortages are changing how villagers farm, travel, and defend crops. The immediate issue is not the war itself, but how disruptions to global supply chains and energy markets are amplifying an existing human-wildlife conflict.",
+      "prop_args": [
+        {
+          "thesis": "External wars can produce cascading humanitarian and ecological harms far beyond the battlefield, so states should treat food and fuel security as core national-security issues.",
+          "mechanisms": [
+            "First, the war transmits into Sri Lanka through supply-chain and price shocks. This is because (1) fuel scarcity raises transport and irrigation costs, (2) food scarcity pushes farmers to intensify land use and encroach on elephant habitat, and (3) households facing higher prices have less capacity to invest in fencing, guards, or crop protection.",
+            "Second, scarcity changes local behavior in ways that increase direct conflict. Three reasons: one, farmers spend more time in fields and less time on preventive measures because they need to protect every harvest; two, elephants are pushed closer to settlements when natural forage is disrupted or farmland becomes more attractive; three, weak state capacity means villagers substitute informal deterrence, which is often violent and ineffective.",
+            "Third, the broader impact is that distant wars create non-linear instability in vulnerable states. This matters because a single external conflict can worsen poverty, food insecurity, and rural displacement at the same time, turning a local wildlife issue into a governance and humanitarian crisis."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The real driver of the elephant-villager conflict is domestic land-use mismanagement, so blaming the Middle East war overstates external causation.",
+          "mechanisms": [
+            "First, the conflict predates the current war and is rooted in Sri Lanka’s own agricultural expansion. One, farmers have long cleared or fragmented elephant corridors; two, weak land-use planning places settlements on migration routes; three, poor enforcement makes coexistence rules ineffective regardless of global shocks.",
+            "Second, scarcity may worsen conditions at the margin, but it is not the decisive cause. One, elephants and villagers would still clash in a dense rural economy even with stable fuel prices; two, local governance failures determine whether mitigation tools like fencing, compensation, and early-warning systems work; three, external price shocks are temporary, while habitat loss is structural.",
+            "Third, overemphasizing the war can misdirect policy away from durable solutions. This matters because the best interventions are domestic: corridor protection, compensation schemes, and land-use reform, not geopolitical blame-shifting."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war is a primary cause or just an aggravating factor. Prop wins if it shows that external shocks meaningfully worsen an already fragile system and produce real humanitarian spillovers; Opp wins if it proves the conflict is fundamentally domestic and that the war only changes the timing, not the underlying dynamics.",
+      "stock_connections": [
+        "Global Supply Chain Shock",
+        "Food Security",
+        "Energy Price Shock",
+        "Environmental Security",
+        "Human-Wildlife Conflict",
+        "State Capacity",
+        "Vulnerability to External Shocks",
+        "Rural Poverty"
+      ],
+      "motion_areas": [
+        "TH, as a developing country, would prioritize domestic food and fuel resilience over geopolitical alignment",
+        "THBT external wars are a major driver of instability in the Global South",
+        "THP a world where states are held responsible for the spillover effects of their wars on third countries"
+      ],
+      "data_points": [
+        "The article states that conflict between farmers and elephants in Sri Lanka has grown worse as food and fuel are scarcer due to war in the Middle East.",
+        "Sri Lanka is explicitly presented as a case where a distant war is affecting local livelihoods through scarcity of food and fuel.",
+        "The piece links scarcity to increased pressure on farmers and greater conflict with elephants, implying a causal chain from war to local insecurity."
+      ]
+    },
+    {
+      "id": "f6e3ac2b8d1c",
+      "title": "A Cabinet Secretary’s Reality-TV Branding Exposes the Costs of Populist Governance in a Transport Crisis",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/09/sean-duffy-great-american-road-trip-reality-show",
+      "published": "2026-05-09T20:25:24Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "US transportation secretary Sean Duffy revealed that he took his family on a seven-month cross-country road trip that was filmed for an upcoming reality TV program, 'The Great American Road Trip'. The disclosure came amid criticism over recent transport-sector crises, including a partial government shutdown between February and April that caused TSA staffing shortages and long airport queues, a fatal April collision at New York’s LaGuardia airport involving an Air Canada jet and a fire truck, and rising gas and jet fuel prices linked in part to the US-Israel war with Iran. Duffy said the trip was meant to lean into America’s 250th birthday, while critics argued it was tone-deaf and potentially taxpayer-adjacent; his wife said production costs were covered by a nonprofit and that filming happened in short stops over seven months. The project also drew ethics concerns because Boeing was among the sponsors, despite ongoing safety investigations involving the company.",
+      "prop_args": [
+        {
+          "thesis": "Turning a senior public official into a reality-TV brand undermines trust, weakens crisis governance, and normalizes a politics of spectacle over competence.",
+          "mechanisms": [
+            "First, it erodes institutional credibility. This is because (1) transport policy depends on public confidence in safety oversight, (2) a secretary who is publicly associated with entertainment and self-branding looks less like a neutral administrator and more like a partisan performer, and (3) that makes it harder to persuade the public and frontline workers that decisions are being made on merit rather than optics.",
+            "Second, it creates a bad governance incentive structure. Three reasons: one, officials spend time optimizing for media narratives instead of operational fixes; two, agencies start prioritizing symbolic gestures over boring but necessary tasks like staffing, maintenance, and contingency planning; three, it rewards future politicians who are better at content creation than administration, which degrades state capacity over time.",
+            "Third, it is especially damaging in a sector already under stress. This matters because transport crises are high-salience and safety-critical: when there are TSA shortages, airport incidents, and fuel-price shocks, the public needs visible seriousness and rapid coordination, not a ministerial vanity project that signals detachment from the scale of the problem."
+          ]
+        },
+        {
+          "thesis": "Even if privately financed, the project still represents a misuse of public office because it leverages state authority, access, and symbolism for personal and political gain.",
+          "mechanisms": [
+            "First, the line between private and public benefit is blurred. One, the secretary’s title and access make the show marketable in a way ordinary families cannot replicate; two, the trip is framed around his official role and national identity, so the publicity accrues to the office as much as to the family; three, that creates an unfair conversion of public status into private media value.",
+            "Second, sponsor relationships raise conflict-of-interest concerns. One, Boeing and other industry actors have direct stakes in transport regulation and safety oversight; two, appearing in a feel-good project alongside a regulator can soften scrutiny and create reputational cover; three, even absent explicit quid pro quo, the appearance of capture weakens confidence in enforcement.",
+            "Third, it normalizes soft corruption and ethical slippage. This matters because democratic accountability depends not only on legal compliance but on public perceptions that officials are not monetizing office-adjacent visibility; once that norm is broken, future officeholders can justify increasingly blatant self-promotion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The backlash is overblown because the project is privately funded, culturally resonant, and can be defended as a communications strategy rather than a governance failure.",
+          "mechanisms": [
+            "First, there is no clear evidence of direct taxpayer misuse. (1) Duffy’s wife says production costs were paid by a nonprofit, (2) filming occurred in small one- and two-day stops over seven months rather than a single extended official excursion, and (3) without proof of public funds being diverted, the strongest corruption claim is speculative.",
+            "Second, public-facing storytelling can be politically useful. (1) Transportation is an abstract portfolio for many voters, so a road-trip format can humanize policy and make infrastructure issues legible; (2) the 250th-birthday framing ties the department to national identity and civic pride; (3) officials often need media formats that reach beyond policy insiders to build broader support for transport investment.",
+            "Third, critics are selectively outraged because the same behavior is tolerated when done by other politicians. (1) Both parties use personal branding and media appearances to shape public narratives; (2) the real issue is partisan hypocrisy, not uniquely bad conduct by Duffy; (3) if the standard is that officials may never engage in any nontraditional outreach, then modern political communication becomes impossible."
+          ]
+        },
+        {
+          "thesis": "The real problem is transport-sector dysfunction and external shocks, not a secretary’s family media project.",
+          "mechanisms": [
+            "First, the substantive crises are driven by structural factors. (1) TSA shortages followed a government shutdown and unpaid work, (2) fuel prices were pushed up by geopolitical conflict and market conditions, and (3) the LaGuardia incident is under federal investigation and cannot be reduced to one official’s media habits.",
+            "Second, holding one symbolic project responsible distracts from policy accountability. (1) Airport delays, airline failures, and fuel volatility require budgetary and regulatory responses, (2) outrage over optics can crowd out debate on staffing, safety, and supply chains, and (3) the opposition gains a cheap scandal while avoiding the harder question of what concrete transport reforms are needed.",
+            "Third, the public may actually benefit from more visible, relatable leadership. (1) A secretary who travels the country can gather first-hand information, (2) family-centered storytelling can make infrastructure politics less technocratic and more accessible, and (3) if the trip encourages road travel and civic engagement, it may have soft public-interest value rather than being pure vanity."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the project is treated as harmless communications or as a symptom of state-capacity decay. Prop wins if the round prioritizes institutional trust and ethical norms in a safety-critical portfolio; Opp wins if they can show there was no public-money misuse and that the real transport failures came from shutdowns, fuel shocks, and existing operational problems rather than the show itself.",
+      "stock_connections": [
+        "Populism",
+        "Political Spectacle",
+        "Institutional Trust",
+        "State Capacity",
+        "Conflict of Interest",
+        "Soft Corruption",
+        "Democratic Accountability",
+        "Privatization of Public Office",
+        "Media-Driven Politics"
+      ],
+      "motion_areas": [
+        "TH, as a senior cabinet official, would ban reality TV projects about their private family life",
+        "THBT public officials should be prohibited from monetizing their office-adjacent visibility through entertainment media",
+        "THP a world where cabinet ministers are expected to maintain strict separation between public office and personal branding",
+        "TH, in times of national crisis, would prioritize technocratic seriousness over political storytelling"
+      ],
+      "data_points": [
+        "Sean Duffy said the family road trip lasted seven months and was filmed for an upcoming reality TV program, 'The Great American Road Trip'.",
+        "The trip was framed around America’s 250th birthday, according to Duffy.",
+        "A partial government shutdown between February and April caused TSA agents to quit in droves over unpaid work, producing long airport wait times.",
+        "An Air Canada jet collided with a fire truck at LaGuardia airport in April, killing two pilots; the incident remains under federal investigation.",
+        "Rising gas and jet fuel prices, linked in part to the US-Israel war with Iran, contributed to Spirit Airlines’ collapse.",
+        "Rachel Campos-Duffy said production costs were paid by a nonprofit, The Great American Road Trip Inc.",
+        "Boeing was listed among the sponsors, despite ongoing safety investigations involving the company."
+      ]
+    },
+    {
+      "id": "b7ac5d004afe",
+      "title": "War-Driven Energy Shocks Export Inflation From Asia and Europe Into the US Consumer Economy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/inflation-drumbeat-persists-for-unnerved-us-consumer",
+      "published": "2026-05-09T20:00:00Z",
+      "category": "Econ",
+      "region": "United States / Asia / Europe",
+      "background": "Bloomberg reports that fuel inflation has already been building for weeks across Asia and Europe, and that higher pump prices are now beginning to intensify in the United States as war-driven energy shocks continue. The article is dated 2026-05-09 and uses a Seattle Chevron gas station photo from April 30, 2026 to illustrate the pressure on US consumers. The core factual claim is that energy-price inflation is no longer regionally contained and is spreading into the US consumer economy.",
+      "prop_args": [
+        {
+          "thesis": "Persistent war-driven energy shocks justify aggressive government intervention because inflation is now a cross-regional contagion, not a temporary local spike.",
+          "mechanisms": [
+            "First, governments should treat energy inflation as a systemic macro shock rather than a normal market fluctuation. This is because (1) fuel is a universal input into transport, food, and manufacturing, (2) higher pump prices quickly pass through to consumer baskets, and (3) once expectations adjust upward, firms pre-emptively raise prices and workers demand higher wages.",
+            "Second, coordinated intervention can prevent the shock from becoming self-reinforcing. Three reasons: one, targeted subsidies or strategic reserve releases can blunt the immediate price spike; two, monetary authorities can avoid overreacting to a supply shock if fiscal policy absorbs part of the burden; three, international coordination can reduce panic buying and speculative hoarding across regions.",
+            "Third, the political economy of inflation makes inaction especially costly. This matters because sustained fuel inflation erodes real incomes, hits lower-income households hardest, and creates voter backlash that can destabilize governments and empower anti-market or nationalist actors."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Governments should avoid heavy-handed intervention because energy inflation is primarily a supply-side shock that policy cannot fully fix and may worsen if distorted.",
+          "mechanisms": [
+            "First, intervention often treats the symptom rather than the cause. One, if war-driven supply disruptions are the root problem, subsidies do not create more oil or shipping capacity; two, price controls can suppress signals that encourage conservation and alternative supply; three, fiscal support can simply delay adjustment and leave the economy more vulnerable later.",
+            "Second, intervention can create long-run inefficiency and fiscal stress. One, broad subsidies are expensive and tend to be captured by higher-income consumers who use more fuel; two, deficit financing can add to inflationary pressure or crowd out other spending; three, once introduced, emergency measures are politically hard to remove, creating dependency and bad precedent.",
+            "Third, markets and consumers can adapt better than governments can micromanage prices. One, firms can reroute supply chains and hedge energy exposure; two, households can substitute toward public transport, efficiency, or lower consumption; three, allowing prices to rise speeds the transition to more resilient energy systems."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether inflation is treated as a temporary external shock or as a structural threat to living standards and political stability. Prop wins if it shows that energy prices are a universal input with fast pass-through and high distributional harm, while Opp wins if it proves intervention mainly delays adjustment and creates fiscal and market distortions.",
+      "stock_connections": [
+        "Inflation spiral",
+        "Cost-push inflation",
+        "Supply shock",
+        "Pass-through effects",
+        "Real income squeeze",
+        "Regressive taxation",
+        "Energy security",
+        "Strategic reserves",
+        "Market distortion",
+        "Fiscal burden"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would subsidize fuel prices during war-driven energy shocks",
+        "THBT central banks should not raise interest rates in response to supply-driven energy inflation",
+        "THP a world where governments cap retail fuel prices during geopolitical crises",
+        "TH supports coordinated international intervention to stabilize energy prices",
+        "THBT developing economies should prioritize consumer protection over market price signals during imported inflation"
+      ],
+      "data_points": [
+        "Fuel inflation had already been rising for weeks across Asia and Europe before intensifying in the US",
+        "The article is dated 2026-05-09 and describes war-driven energy shocks as showing little sign of abating",
+        "The US example used is a Chevron gas station in Seattle, Washington, photographed on 2026-04-30",
+        "The article explicitly links higher pump prices to broader consumer inflation pressure in the United States"
+      ]
+    },
     {
       "id": "4ed3eaf98e98",
       "title": "Iran’s World Cup Participation Turns Into a Test of FIFA’s Power Over Host-State Politics",
