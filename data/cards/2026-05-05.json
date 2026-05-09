@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "last_updated": "2026-05-08T22:31:03Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
     {
       "id": "2992303dca6a",
@@ -638,6 +638,139 @@
         "Jerome Powell is described as the outgoing chair of the US Federal Reserve Board in May 2026",
         "The article explicitly frames Powell’s defining battle as resisting President Donald Trump’s attacks on Fed independence",
         "The Fed’s independence is presented as a core institutional safeguard for US economic governance"
+      ]
+    },
+    {
+      "id": "16c9f63e7d5d",
+      "title": "Supreme Court Ruling Supercharges U.S. Gerrymandering Into Near-Total House Entrenchment",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/politics/2026/05/supreme-court-callais-gerrymandering/687062/?utm_source=feed",
+      "published": "2026-05-05T11:00:00Z",
+      "category": "IR",
+      "region": "United States (South; nationwide implications)",
+      "background": "On May 5, 2026, The Atlantic reported that the Supreme Court’s ruling in Louisiana v. Callais narrowed Section 2 of the Voting Rights Act so that partisan gerrymanders are only illegal when racial discrimination is explicit. The article says this could let Republican-controlled legislatures in the South redraw maps to eliminate most or all remaining blue House districts, with Louisiana, Alabama, and Tennessee already moving quickly and some deadlines already passed in other states. It also notes that the broader effect would likely matter more for 2028 and beyond than for the immediate midterms.",
+      "prop_args": [
+        {
+          "thesis": "The ruling accelerates a winner-take-all redistricting arms race that makes the House less representative and more structurally anti-democratic.",
+          "mechanisms": [
+            "First, it removes the main legal brake on partisan map-drawing. This is because (1) states no longer need to justify minority-diluting maps as racial discrimination, (2) legislatures can now claim partisan intent instead, and (3) courts lose the easiest basis for blocking aggressive maps.",
+            "Second, it triggers reciprocal escalation across both parties. Three reasons: one, Republicans can maximize seats in the South and other red states; two, Democrats then face pressure to abandon independent commissions in blue states like California, New York, New Jersey, Colorado, and Washington; three, once one side defects, the other side cannot credibly disarm without unilateral losses.",
+            "Third, it converts the House into a chamber of safe seats with weak accountability. This matters because (1) if more than 400 seats become uncontestable, incumbents answer only to primary voters, (2) general-election competition disappears so representatives have less incentive to moderate or bargain, and (3) the chamber begins to function like an Electoral College-style ratification body rather than a responsive legislature."
+          ]
+        },
+        {
+          "thesis": "The decision disproportionately empowers Southern Republican legislatures to erase Black and Democratic representation, worsening racial and partisan exclusion at the same time.",
+          "mechanisms": [
+            "First, it targets the few remaining blue districts in the South. This is because (1) Louisiana may eliminate one or both majority-Black Democratic districts, (2) Alabama is already moving to redraw its maps, and (3) Tennessee may follow, creating a regional pattern of seat erasure.",
+            "Second, it weakens minority voting power by making it easier to crack or pack Black voters without overt racial language. Three reasons: one, mapmakers can claim partisan optimization rather than racial intent; two, majority-minority districts become easier to dismantle; three, the practical effect is fewer Black representatives and less descriptive representation.",
+            "Third, it entrenches regional asymmetry in national power. This matters because (1) red states often lack independent commissions, (2) blue states with commissions face higher institutional hurdles to retaliate, and (3) the South can move faster and more aggressively than the opposition."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The ruling does not guarantee maximal gerrymandering because political, legal, and mathematical constraints will still limit how far states can go.",
+          "mechanisms": [
+            "First, incumbents often prefer safer-but-not-extreme districts. One, members do not want to trade a 20-point cushion for a 5-point one; two, overdrawn maps create more fundraising and campaign pressure; three, legislators have incentives to preserve their own seats rather than maximize the party’s theoretical total.",
+            "Second, extreme gerrymanders can backfire through the dummymander problem. One, if a party spreads its voters too thin, it can lose all the seats it tried to create; two, states like North Carolina are statewide competitive enough that overreach is risky; three, mapmakers may stop short of the maximum to avoid future electoral blowback.",
+            "Third, state-level institutions and timing still constrain the scale of change. One, some deadlines have already passed in deep-red states; two, referenda, commissions, and state-court challenges can slow or block redraws; three, the immediate midterm effects are likely modest compared with the longer-term scenario."
+          ]
+        },
+        {
+          "thesis": "Even if gerrymandering intensifies, it may produce clearer political accountability and eventually force national reform.",
+          "mechanisms": [
+            "First, hyper-partisan maps can make party responsibility more visible. One, voters know exactly which party controls each safe seat; two, parties can no longer hide behind swing-district ambiguity; three, this may sharpen blame for poor governance.",
+            "Second, the crisis could generate pressure for federal reform. One, the article itself notes Congress could ban partisan gerrymandering; two, the escalation may make reform more salient to the public; three, once the costs become obvious, bipartisan disarmament becomes more politically plausible.",
+            "Third, some reform alternatives remain available. One, independent commissions can still be adopted or strengthened in blue states; two, proportional or multimember systems could reduce the payoff to map manipulation; three, courts and academics still provide institutional and technical pathways out of the arms race."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term seat gains and long-term regime quality. Pro wins if the question is whether the House becomes less representative and more captured by incumbents, because the structural incentives point toward escalation; Opp wins only if they can show that institutional, mathematical, and political constraints stop the system from reaching the article’s worst-case scenario.",
+      "stock_connections": [
+        "Democratic backsliding",
+        "Electoral entrenchment",
+        "Minority vote dilution",
+        "Race to the bottom",
+        "Incumbency advantage",
+        "Legislative capture",
+        "Institutional decay",
+        "Federalism and state-level competition",
+        "Representation vs accountability"
+      ],
+      "motion_areas": [
+        "TH, as the Supreme Court, would prohibit partisan gerrymandering nationwide",
+        "THBT the United States should adopt independent redistricting commissions in all states",
+        "THP a world where House districts are drawn by proportional representation rather than single-member districts",
+        "THBT blue states should retaliate with aggressive gerrymanders when red states do so",
+        "TH, as Democrats, would scrap nonpartisan redistricting commissions to maximize seat parity"
+      ],
+      "data_points": [
+        "Louisiana v. Callais narrowed Section 2 of the Voting Rights Act to require explicit racial discrimination for a gerrymander to be illegal",
+        "The article says Republicans could potentially eliminate blue House districts in Mississippi, Alabama, South Carolina, and Tennessee, and take another district or two in Georgia",
+        "VoteHub head of data science Zachary Donnini estimated a possible outcome of 206 safe Republican seats and 203 safe Democratic seats, leaving only 26 competitive districts out of 435",
+        "Terri Sewell said she would take '52 seats from California and 17 seats from Illinois' meaning all 52 and all 17",
+        "The article says more than 400 House seats could become safe and essentially uncontestable in a maximum-gerrymandering scenario",
+        "On Thursday after the ruling, Louisiana suspended its primary election to redraw its map",
+        "On Friday, Alabama Governor Kay Ivey announced a special legislative session to redraw the state’s maps",
+        "Trump claimed he had the Tennessee governor’s promise to call a special session as well"
+      ]
+    },
+    {
+      "id": "dc4468f136db",
+      "title": "Algorithmic Rage-Bait Turns Political Disagreement Into a Violence Pipeline",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/politics/2026/05/whcd-journalism-political-violence-algorithms/687040/?utm_source=feed",
+      "published": "2026-05-05T11:00:00Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "The article responds to the alleged late-April 2026 assassination attempt on President Trump by Cole Tomas Allen, who is said to have consumed and reposted highly polarized political content online. It argues that social media algorithms, podcasts, and news incentives increasingly reward outrage, conspiracism, and dehumanizing language, turning nuanced reporting into viral rage-bait. The piece cites a string of recent politically motivated attacks and alleged attackers, including Luigi Mangione, Tyler Robinson, Daniel Moreno-Gama, Vance Boelter, Elias Rodriguez, Robert Bowers, Payton Gendron, and Patrick Crusius, to illustrate a broader pattern of radicalization.",
+      "prop_args": [
+        {
+          "thesis": "Algorithm-driven media ecosystems materially increase the risk of political violence by converting ordinary political disagreement into dehumanizing, emotionally escalatory narratives.",
+          "mechanisms": [
+            "First, algorithms reward outrage over accuracy, which means the most emotionally charged framing gets amplified far beyond the original article. This is because (1) engagement metrics prioritize anger, fear, and moral disgust; (2) users are shown the most reactive version of a story, not the most contextual one; and (3) repeated exposure normalizes the idea that opponents are existential threats rather than political rivals.",
+            "Second, the system creates a radicalization ladder where users move from grievance to justification to action. Three reasons: one, people start with nonviolent contempt language like 'traitor' or 'sociopathic mob boss'; two, that language lowers the moral cost of imagining violence; three, communities then reinforce the belief that violence is a rational response to a broken system.",
+            "Third, this directly degrades democratic safety by shrinking trust and public access. This matters because when journalists, officials, and corporate leaders anticipate being targeted, they reduce visibility, harden security, and limit contact with the public, which widens the gap between the governed and the powerful and makes democratic accountability weaker."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Political violence is driven primarily by preexisting extremism and personal pathology, not by media algorithms, so blaming platforms overstates their causal role.",
+          "mechanisms": [
+            "First, the decisive cause is usually the actor's underlying ideology or mental instability. One, many attackers already hold violent beliefs before they encounter any particular article; two, the article or post is just a post hoc justification; three, removing algorithmic amplification would not eliminate the underlying willingness to kill.",
+            "Second, algorithms mostly amplify what already exists in society rather than create it. One, polarization, distrust, and partisan hatred predate social media; two, platforms are reactive distribution tools, not the origin of grievance; three, similar violence has occurred in low-tech eras, showing that the causal chain is broader than the medium.",
+            "Third, restricting or overblaming algorithms risks chilling legitimate political speech and journalism. One, outrage and criticism are often necessary for accountability; two, attempts to suppress 'harmful' content can become censorship or selective enforcement; three, the cure may weaken democratic contestation more than it reduces rare acts of violence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether algorithms are a meaningful upstream cause of violence or merely a megaphone for existing extremism. Prop wins if it proves the medium systematically lowers the cost of dehumanization and increases the probability of escalation across many actors, while Opp needs to show the causal link is too indirect and too confounded by ideology and mental illness.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Dehumanization",
+        "Radicalization",
+        "Polarization",
+        "Echo Chambers",
+        "Information Cascades",
+        "Democratic Backsliding",
+        "Free Speech vs Harm",
+        "Media Incentives",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as democratic governments, would regulate social media algorithms that maximize engagement",
+        "THBT major news organizations should stop optimizing for social-media virality",
+        "THP a world where political content is not algorithmically personalized",
+        "THBT the state should impose liability on platforms for amplifying extremist political content",
+        "THBT journalists should prioritize accuracy over reach even at the cost of audience loss"
+      ],
+      "data_points": [
+        "The article lists at least 8 recent politically motivated attackers or alleged attackers as examples of the pattern",
+        "Allen allegedly posted on Bluesky-style platforms before the attempted assassination and later described attendees as 'complicit'",
+        "The piece says Politico produced nine separate headlines from a single 2009 CNN interview with Dick Cheney to capture different audience segments",
+        "The article notes that the White House Correspondents’ Dinner attack occurred four days before the author co-wrote a Trump history-comparison piece that was then widely rage-shared",
+        "It references the January 6, 2021 riot as an example of radicalization emerging from algorithmic information systems",
+        "The author argues that social media prioritizes engagement metrics that track anger and emotional arousal rather than factual fidelity"
       ]
     },
     {

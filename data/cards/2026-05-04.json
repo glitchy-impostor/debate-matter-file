@@ -1,7 +1,126 @@
 {
   "date": "2026-05-04",
-  "last_updated": "2026-05-08T22:31:03Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
+    {
+      "id": "ac180289159d",
+      "title": "ICE-Brand Politics Collides With Ohio’s Affordability Vote in a Key GOP Primary",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/politics/2026/05/ohio-ice-dhs-madison-sheahan/687049/?utm_source=feed",
+      "published": "2026-05-04T20:01:00Z",
+      "category": "IR",
+      "region": "United States / Ohio Ninth Congressional District",
+      "background": "Madison Sheahan, the former ICE deputy director and a close ally of DHS Secretary Kristi Noem, entered Ohio’s 9th Congressional District race after less than a year at ICE. The district, which includes Toledo and northwest Ohio, was redrawn twice since 2022 and now favored Trump by nearly 11 points in 2024; Marcy Kaptur has held the seat since 1982 and has raised more than $3 million for the general election. A mid-April poll of 600 likely GOP primary voters had Sheahan in third place at 10%, behind Derek Merrin at 33% and Josh Williams at 14%, with 40% undecided.",
+      "prop_args": [
+        {
+          "thesis": "Running an ICE-branded hardliner in a Trump-leaning district can still mobilize the GOP base and convert immigration salience into turnout.",
+          "mechanisms": [
+            "First, immigration remains a high-salience identity issue for the Republican primary electorate. This is because (1) voters at the Toledo MAGA forum were visibly responsive to pro-ICE messaging like 'YES to ICE' and 'NO to Sanctuary Cities,' (2) Merrin opened by centering illegal immigration to avoid being outflanked, and (3) Trump’s border crackdown is still treated by many activists as a signature victory worth rewarding.",
+            "Second, Sheahan’s ICE role gives her a unique authenticity signal on the party’s core issue. Three reasons: one, she can credibly claim operational experience rather than generic rhetoric; two, her ads and endorsements from figures like Urban Meyer, Ted Nugent, and Jeff Landry reinforce a law-and-order brand; three, in a low-information primary, a simple 'tough on immigration' identity can outperform policy nuance.",
+            "Third, even if she is not the frontrunner, her candidacy can shift the agenda rightward and help the eventual nominee. This matters because (1) she normalizes deportation politics as the district’s defining issue, (2) she forces rivals to compete on enforcement rather than moderation, and (3) that can improve Republican turnout and reduce ticket-splitting in a district Republicans need to win to offset losses elsewhere."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "ICE branding is a weak electoral asset here because Ohio voters are prioritizing authenticity and affordability over immigration theater.",
+          "mechanisms": [
+            "First, the district’s Republican electorate is issue-shifting toward the economy, not immigration. One, voters at the forum repeatedly raised gas prices, inflation, property taxes, and data-center expansion; two, Williams explicitly said affordability is the No. 1 issue and that immigration is 'not that huge of an issue'; three, when the salience of immigration falls, Sheahan’s one-dimensional brand stops being an advantage.",
+            "Second, Sheahan is structurally vulnerable to outsider and incompetence attacks. One, she has no immigration background and spent less than a year at ICE; two, local activists repeatedly described her as a dilettante, carpetbagger, or someone they had 'zero perception' of; three, in a primary where name recognition matters, being unknown plus perceived as inauthentic is a major liability.",
+            "Third, her association with Noem-era DHS controversy and sensational media coverage can depress support among persuadable Republicans. One, the article notes Democratic strategists would attack waste, incompetence, and corruption at ICE rather than immigration policy itself; two, the Daily Mail story about her alleged relationship and the lack of a Trump endorsement weaken her elite backing; three, if the race becomes about competence and character, Merrin’s existing lead becomes much harder to overcome."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether immigration remains the dominant voting cue or gets crowded out by affordability and authenticity. Prop wins if you think identity politics and Trump-style enforcement branding still mobilize low-information primary voters; Opp wins because the article shows Republican voters already treating Sheahan as an outsider while moving toward pocketbook concerns, which structurally favors the better-known local candidates.",
+      "stock_connections": [
+        "Issue salience",
+        "Identity politics",
+        "Outsider backlash",
+        "Authenticity politics",
+        "Primary electorate polarization",
+        "Agenda setting",
+        "Law-and-order politics",
+        "Candidate quality"
+      ],
+      "motion_areas": [
+        "TH, as the Republican Party, would prioritize immigration hawks over local economic moderates in primary selection",
+        "THBT parties should reward candidates with strong enforcement credentials even if they are outsiders",
+        "THP a world where immigration is the dominant issue in US swing-district elections",
+        "TH, as a Republican primary voter in Ohio, would support a former ICE official over a local legislator"
+      ],
+      "data_points": [
+        "Sheahan was in third place in a mid-April poll of 600 likely GOP primary voters with 10% support",
+        "Merrin led with 33% and Josh Williams had 14%, while 40% were undecided",
+        "The district voted for Trump in 2024 by nearly 11 percentage points",
+        "Kaptur has represented the district for 43 years and has raised more than $3 million for the general election",
+        "Sheahan has been at ICE for less than a year and is 28 years old",
+        "Government statistics cited in the article show about 400,000 ICE deportations last year, contradicting Sheahan’s ad claim of 2.5 million",
+        "The forum in Toledo was attended by about 50 Republicans, mostly older and white",
+        "Republicans have redrawn the district’s boundaries twice since 2022"
+      ]
+    },
+    {
+      "id": "fd9246121860",
+      "title": "Wall Street Keeps Rallying as War, Inflation, and Consumer Pain Fail to Dent Corporate Profits",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/economy/2026/05/stock-market-iran-war-bullish/687041/?utm_source=feed",
+      "published": "2026-05-04T16:38:00Z",
+      "category": "Econ",
+      "region": "United States / Iran / global oil markets",
+      "background": "The article describes a military stalemate between the United States and Iran that is disrupting global oil flows, pushing gas prices up and inflation back above 3 percent. Despite this, the S&P 500 has risen 29 percent over the past 12 months and is up 13 percent in the last 30 days, hitting an all-time high last week. The piece argues that the market is being driven by strong corporate earnings, especially from the Magnificent Seven tech firms, with Alphabet on track for more than $120 billion in annual profits, Nvidia also above $120 billion, and Meta’s latest quarterly earnings up 61 percent year over year.",
+      "prop_args": [
+        {
+          "thesis": "Stock markets can rationally rise during geopolitical and consumer downturns when corporate profit growth remains strong, so investors are not necessarily irrational or disconnected from reality.",
+          "mechanisms": [
+            "First, equity prices track expected future earnings, not household sentiment. This is because (1) stock valuations are discounted cash-flow claims on corporate profits, (2) the article says nearly 80 percent of reporting S&P 500 firms beat expectations, and (3) the average S&P 500 profit margin is at a 15-year high, which mechanically supports higher valuations even when consumers feel worse off.",
+            "Second, concentrated profit growth in the largest firms can pull the whole index upward. Three reasons: one, the Magnificent Seven dominate index weightings; two, Alphabet and Nvidia are each on pace for more than $120 billion in annual profit, while Meta’s earnings rose 61 percent year over year; three, these firms collectively are expected to make more than half a trillion dollars in profit this year, which can outweigh weakness in energy-sensitive sectors.",
+            "Third, markets can distinguish between temporary macro pain and durable earnings power. This matters because (1) investors are already punishing firms that miss sales or earnings, like Nike falling more than 15 percent in a day after weak revenue guidance, (2) they are also pricing in future threats such as AI-driven margin pressure in software, and (3) that selective discipline suggests the rally is based on profit fundamentals rather than blind optimism."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The rally is a dangerous mispricing because war-driven inflation, energy shocks, and speculative AI enthusiasm are inflating asset prices beyond what the real economy can sustain.",
+          "mechanisms": [
+            "First, the market is ignoring the consumer-side damage from the oil shock. One, the war is taking about $4 billion a month out of American consumers' pockets; two, gas prices are soaring and inflation is back above 3 percent; three, weaker consumer spending should eventually hit revenues across retail, travel, and discretionary sectors, making current valuations fragile.",
+            "Second, index-level gains are being distorted by speculative concentration and narrative trading. One, a handful of tech giants are carrying the market while the broader public feels economic pain; two, Allbirds' stock reportedly septupled overnight after it pivoted to AI, showing how meme-like enthusiasm can overwhelm fundamentals; three, retail investors have normalized 'buying the dip' regardless of geopolitical risk, which can create a self-reinforcing bubble.",
+            "Third, current profit strength may be cyclical rather than sustainable. One, high margins are partly driven by inflation and market consolidation, which can reverse if demand weakens; two, the AI build-out requires massive capex in data centers and chips that only pays off if demand materializes; three, if AI monetization disappoints or the war keeps energy prices elevated into the summer, earnings expectations will fall and the market will reprice sharply."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether current earnings strength is durable enough to justify record valuations. Prop wins if the question is about market rationality in the short run; Opp wins if the question is about whether the rally is built on fragile consumer demand, speculative AI pricing, and an oil shock that will eventually hit profits.",
+      "stock_connections": [
+        "Efficient Market Hypothesis",
+        "Price-to-Earnings Valuation",
+        "Moral Hazard",
+        "Speculative Bubble",
+        "Buy the Dip Culture",
+        "Asset-Real Economy Disconnect",
+        "Concentration Risk",
+        "Inflation Pass-Through",
+        "Corporate Pricing Power",
+        "AI Hype Cycle"
+      ],
+      "motion_areas": [
+        "TH, as an investor, would continue buying the S&P 500 during geopolitical shocks",
+        "THBT stock markets are a better indicator of economic health than consumer sentiment",
+        "THP a world where equity valuations are driven primarily by corporate earnings rather than macro conditions",
+        "TH, as the Federal Reserve, would prioritize inflation control over protecting equity markets",
+        "THBT the current AI investment boom is justified by fundamentals"
+      ],
+      "data_points": [
+        "S&P 500 up 29 percent over the past 12 months and 13 percent in the last 30 days",
+        "Inflation back above 3 percent amid the U.S.-Iran oil disruption",
+        "War-related energy prices are taking about $4 billion a month out of American consumers' pockets",
+        "Alphabet is on track for more than $120 billion in profits this year",
+        "Nvidia is on pace to earn more than $120 billion in profits this year",
+        "Meta's latest quarterly earnings rose 61 percent year over year",
+        "Close to 80 percent of S&P 500 companies reporting so far have beaten expectations",
+        "Average profit margin for S&P 500 companies is at its highest point in 15 years",
+        "Nike stock fell more than 15 percent in a day after it expected revenues to drop",
+        "Allbirds' stock septupled overnight after announcing an AI pivot"
+      ]
+    },
     {
       "id": "d27110cd799b",
       "title": "ASEAN’s Myanmar Consensus Becomes Cover for Junta Rule, Forcing a Choice Between Principle and Non-Interference",
@@ -619,6 +738,66 @@
         "The Bell reported in July 2025 that Sberbank routed client funds to European bank accounts using Central Asian banks as intermediaries",
         "Dushanbe City Bank was founded in 2007 under the Avesto Group, described as closely tied to Tajikistan’s ruling family",
         "The EU’s 19th package took effect on November 12, 2025; the 20th package was announced April 23, 2026"
+      ]
+    },
+    {
+      "id": "f134b6b64525",
+      "title": "New York’s Pied-à-Terre Tax Tests Whether Cities Can Tax Wealth Without Driving Capital Away",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/mamdani-property-tax-new-york/687031/?utm_source=feed",
+      "published": "2026-05-04T11:00:00Z",
+      "category": "Econ",
+      "region": "United States (New York City)",
+      "background": "New York City Mayor Zohran Mamdani and Governor Kathy Hochul announced a proposed pied-à-terre tax in early May 2026, aimed at second homes valued above $5 million. The article argues the tax would apply to fixed property rather than mobile income or wealth, making it harder for ultra-rich owners to avoid without selling their homes. The proposal is framed against a broader trend of wealthy residents relocating from blue cities to Florida, especially Miami, while keeping business ties elsewhere.",
+      "prop_args": [
+        {
+          "thesis": "A tax on luxury second homes is one of the few progressive taxes cities can raise without triggering a large capital flight response.",
+          "mechanisms": [
+            "First, the tax targets a fixed asset rather than a mobile tax base. This works because (1) the owner cannot simply change residency to eliminate the liability, (2) the only avoidance route is selling the property, and (3) many ultra-wealthy buyers value the home for access, status, and convenience more than the tax cost.",
+            "Second, the tax is small relative to the wealth of the target group, so the behavioral incentive to leave is weak. Three reasons: one, the proposal is estimated to raise up to $500 million annually, implying a limited per-owner burden; two, the article notes that comparable income or wealth taxes would cost billionaires hundreds of millions or even billions more; three, for many owners the property is a lifestyle asset, not an investment they will liquidate over a surcharge.",
+            "Third, the policy can improve city finances without worsening the tax base. This matters because (1) it extracts revenue from people who are already attached to the city, (2) it avoids taxing labor or business activity that is more elastic, and (3) it lets the city fund services without relying on broad-based taxes that hit ordinary residents."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Even a property-based tax can backfire politically and economically if it signals hostility to the wealthy and encourages broader exit.",
+          "mechanisms": [
+            "First, the rich are not purely immobile anymore, so symbolic pressure can matter. One, remote work and digital business have weakened the old link between company location and owner residence; two, wealthy households can increasingly choose Florida or other low-tax hubs; three, once a tax is framed as punitive, owners may decide the emotional cost of staying is no longer worth it.",
+            "Second, the policy can deter marginal investment and high-end real estate demand. One, buyers may avoid purchasing second homes in the city if they anticipate recurring surcharges; two, reduced demand can weaken luxury property markets and related sectors like brokerage, construction, and maintenance; three, if enough wealthy households exit, the city loses not just tax revenue but also philanthropic and consumption spillovers.",
+            "Third, the political framing can turn a narrow tax into a broader anti-business signal. One, public shaming of named billionaires can provoke retaliation from firms and investors; two, large employers may interpret the move as part of a hostile regulatory environment; three, that can affect headquarters decisions, hiring, and long-run confidence in the city."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between taxing a fixed luxury asset and taxing mobile income or wealth. Prop wins if the question is whether cities can raise revenue from the rich with limited flight; opp wins if the question is whether hostile politics and broader signaling effects still erode the tax base over time.",
+      "stock_connections": [
+        "Tax Incidence",
+        "Capital Flight",
+        "Elasticity of Tax Base",
+        "Race to the Bottom",
+        "Progressive Taxation",
+        "Local Public Goods",
+        "Urban Decline",
+        "Fiscal Federalism",
+        "Symbolic Politics",
+        "Wealth Tax"
+      ],
+      "motion_areas": [
+        "TH, as New York City, would impose a tax on luxury second homes above $5 million",
+        "THBT cities should tax fixed assets rather than income to fund public services",
+        "THP a world in which local governments rely more on property-based taxes than wealth taxes",
+        "THBT progressive cities should prioritize taxing immobile luxury consumption over mobile capital"
+      ],
+      "data_points": [
+        "New York City’s pied-à-terre tax is estimated to raise up to $500 million annually",
+        "Under a previous proposal, Ken Griffin’s Central Park South penthouse would have generated about a $9 million annual surcharge",
+        "Jeff Bezos sold about $8.5 billion in Amazon stock in 2024 after becoming a Florida resident",
+        "The article says a Washington State capital-gains tax would have cost Bezos about $600 million if he had still been living in Seattle",
+        "A proposed California Billionaire Tax would have cost Larry Page roughly $14 billion had he not left the state",
+        "Miami-Dade County had the third-largest loss of domestic population of any county in the U.S. last year",
+        "The Miami Herald reported that people leaving Miami have annual incomes about half those of new arrivals, on average",
+        "Citadel moved its headquarters from Chicago to Miami after disputes over taxes and crime",
+        "Florida has no state capital-gains tax"
       ]
     },
     {

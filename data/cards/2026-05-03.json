@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "last_updated": "2026-05-08T22:31:03Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
     {
       "id": "4e0f29eed18a",
@@ -156,6 +156,82 @@
         "Vietnamese exports to the United States were valued at $178 billion in 2025",
         "Vietnam’s 'Four Nos' are: no military alliances, no siding with one country against another, no foreign military bases, and no use of Vietnamese territory to oppose other countries",
         "The new China-Vietnam '3+3' strategic dialogue covers foreign affairs, defense, and public security"
+      ]
+    },
+    {
+      "id": "126b0d3ebc46",
+      "title": "Trump’s DOJ Turns Prosecution Into Patronage, Eroding Rule-of-Law Credibility",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/justice-department-blanche-ballroom-prosecutions/687036/?utm_source=feed",
+      "published": "2026-05-03T11:00:00Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "In early May 2026, the Atlantic reported that the Justice Department under acting Attorney General Todd Blanche had launched a series of highly politicized actions, including an indictment of the Southern Poverty Law Center (SPLC), a motion in White House ballroom litigation written in Trump-like language, and a new indictment of former FBI Director James Comey. The article says Blanche replaced Pam Bondi after Trump was dissatisfied with her failure to secure legal wins against his enemies, and that DOJ filings increasingly mirror Trump’s personal rhetoric. The piece argues the cases are legally weak and may be designed to satisfy Trump rather than withstand judicial review.",
+      "prop_args": [
+        {
+          "thesis": "A politicized Justice Department destroys institutional credibility, making law enforcement less effective even when it is pursuing legitimate cases.",
+          "mechanisms": [
+            "First, it collapses trust in DOJ’s factual claims. This is because (1) judges and juries begin treating every filing as potentially strategic rather than evidentiary, (2) defense lawyers can more easily frame prosecutions as retaliatory, and (3) even strong cases get dragged into credibility fights over motive rather than merits.",
+            "Second, it weakens deterrence against real wrongdoing. Three reasons: one, if targets believe prosecutions are selective, they are less likely to comply voluntarily; two, allies of the administration learn that loyalty matters more than legality, which incentivizes further abuse; three, prosecutors inside the department become less willing to resist bad cases when career advancement depends on pleasing the president.",
+            "Third, it normalizes executive capture of law enforcement. This matters because (1) once the DOJ is seen as a personal weapon, future presidents inherit the precedent, (2) the line between state power and partisan revenge blurs, and (3) democratic accountability deteriorates when the legal system is used to punish opponents rather than enforce neutral rules."
+          ]
+        },
+        {
+          "thesis": "These prosecutions are likely to backfire by collapsing in court and strengthening the very enemies Trump wants to punish.",
+          "mechanisms": [
+            "First, the cases appear legally flimsy. This is because (1) the SPLC indictment allegedly relies on conduct that may not be criminal, such as paying informants, (2) the Comey case rests on a vague social-media post that may not meet First Amendment threat standards, and (3) weak indictments create a high chance of dismissal, acquittal, or sanctions.",
+            "Second, failed prosecutions create martyrdom effects. Three reasons: one, defendants can claim vindication and political persecution; two, the public learns the administration is overreaching, which boosts sympathy for the target; three, each collapse becomes evidence that Trump’s DOJ is incompetent or corrupt.",
+            "Third, the administration wastes finite prosecutorial capacity on symbolic cases. This matters because (1) senior DOJ time is diverted from genuine national-security and public-safety threats, (2) lower-level prosecutors are pulled into politically useful but low-value cases, and (3) the backlog and institutional distraction reduce overall enforcement quality."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A more aggressive DOJ can be justified as a corrective to elite impunity and selective enforcement against conservatives.",
+          "mechanisms": [
+            "First, it can restore symmetry in a system many supporters see as biased. One, if prior DOJ leadership was perceived as lenient toward left-leaning institutions and hostile to Trump allies, aggressive prosecution signals that no faction is above the law; two, high-profile indictments can deter activist organizations and bureaucrats from operating with impunity; three, visible action may rebuild public confidence among voters who think institutions have been captured.",
+            "Second, some of these targets may genuinely warrant scrutiny. One, the SPLC case alleges concealed payments and shell companies, which could implicate fraud or bank-related offenses if proven; two, the Comey post, while arguably protected speech, can still be investigated if prosecutors believe it crossed into a true threat; three, even controversial cases can uncover broader misconduct or establish legal boundaries.",
+            "Third, political pressure can increase enforcement intensity without necessarily eliminating legality. One, prosecutors often need leadership willing to take on powerful actors; two, a more combative DOJ may be better at confronting entrenched networks; three, public-facing toughness can deter future wrongdoing even if some cases are ultimately dismissed."
+          ]
+        },
+        {
+          "thesis": "The real issue is not aggressiveness but whether courts remain capable of filtering out weak cases.",
+          "mechanisms": [
+            "First, judicial review can absorb executive overreach. One, judges can dismiss defective indictments, as allegedly happened in the earlier Comey case; two, appellate review and evidentiary standards constrain bad prosecutions; three, grand juries and courts provide procedural checks even when DOJ leadership is politicized.",
+            "Second, selective bad cases do not necessarily poison the whole department. One, many routine prosecutions continue to be handled by career lawyers under normal standards; two, institutional norms can survive leadership churn; three, the public often distinguishes between headline-grabbing political cases and ordinary criminal enforcement.",
+            "Third, the administration may be responding to a genuine legitimacy crisis. One, if prior elites weaponized law against Trump and his allies, reciprocal toughness may be politically and institutionally demanded; two, visible enforcement can satisfy a public desire for accountability; three, the alternative may be perceived impunity for powerful institutions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether politicized enforcement is a temporary correction or a permanent degradation of state capacity. Prop wins if you think credibility is an asset that, once spent, makes all future law enforcement less effective; Opp wins if you think courts and procedure can contain the damage while restoring perceived symmetry against elite bias.",
+      "stock_connections": [
+        "Rule of Law",
+        "Institutional Capture",
+        "Selective Enforcement",
+        "Politicization of Bureaucracy",
+        "Democratic Backsliding",
+        "Executive Overreach",
+        "Moral Hazard",
+        "State Capacity",
+        "Weaponization of Justice",
+        "Trust in Institutions"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would depoliticize the Justice Department by insulating it from presidential control",
+        "THBT democracies should prohibit prosecutors from pursuing cases against political opponents without independent review",
+        "THP a world where attorney general appointments require bipartisan confirmation and fixed non-renewable terms",
+        "TH, as a liberal democracy, would prioritize institutional neutrality over aggressive anti-corruption prosecutions",
+        "THBT the executive should not be allowed to direct criminal investigations into public criticism of the president"
+      ],
+      "data_points": [
+        "Pam Bondi was reportedly pushed out in April 2026 after Trump was unhappy with her failure to secure legal victories against his enemies",
+        "Todd Blanche is described as the acting attorney general during this phase",
+        "DOJ filed an indictment against the Southern Poverty Law Center and a separate new indictment against former FBI Director James Comey",
+        "The Comey case concerns an Instagram post reading '86 47,' which Trump allies interpreted as a threat against the 47th president",
+        "The article says the SPLC alleges it shared informant-derived information with the FBI ahead of the 2017 Charlottesville Unite the Right rally",
+        "The ballroom litigation filing reportedly called the plaintiffs 'very bad for our Country' and said they 'suffer from Trump Derangement Syndrome'",
+        "The article notes Supreme Court precedent requires threat prosecutions to show both that observers would read the statement as threatening and that the defendant knew or recklessly disregarded that interpretation",
+        "The earlier Comey case mentioned in the article was tossed by a judge in November 2025"
       ]
     }
   ]

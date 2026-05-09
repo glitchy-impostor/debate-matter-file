@@ -1,7 +1,186 @@
 {
   "date": "2026-05-08",
-  "last_updated": "2026-05-08T22:31:03Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
+    {
+      "id": "cbcb1e8a667a",
+      "title": "GM’s Data-Broker Sales Turn Connected Cars Into a Privacy and Consumer-Trust Liability",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/08/general-motors-settlement-driving-location",
+      "published": "2026-05-08T23:51:02Z",
+      "category": "Business",
+      "region": "United States / California",
+      "background": "General Motors agreed to pay $12.75m to settle California claims that it sold drivers’ location and driving-behavior data to data brokers Verisk Analytics and LexisNexis Risk Solutions. California Attorney General Rob Bonta said the data covered hundreds of thousands of Californians from 2020 to 2024 and included names, contact information, geolocation data, and driving behavior collected through GM’s OnStar system. The state said GM had previously reassured drivers it would not sell such data, and the settlement also imposes restrictions on GM’s use of consumer-driving data plus a five-year ban on selling such data to any data broker.",
+      "prop_args": [
+        {
+          "thesis": "Strict limits on automakers’ sale of driver data are justified because connected-car business models create a consent gap that consumers cannot realistically police.",
+          "mechanisms": [
+            "First, the information is uniquely sensitive and hard to anonymize. This is because (1) precise geolocation reveals home, work, school, church, and routine movements, (2) once sold to brokers it can be repackaged across multiple downstream buyers, and (3) consumers cannot meaningfully track or revoke every later use of the data.",
+            "Second, the market fails on informed consent. Three reasons: one, GM allegedly told drivers it would not sell driving or location data, two, the data was collected through a subscription/security service that consumers may not understand as a monetization pipeline, and three, privacy policies are too complex for ordinary users to monitor or bargain over.",
+            "Third, enforcement protects trust in the broader digital economy. This matters because if consumers believe cars are covert surveillance devices, they reduce adoption of connected services, which forces firms to compete on privacy rather than hidden extraction and prevents a race to the bottom in data monetization."
+          ]
+        },
+        {
+          "thesis": "The settlement shows that data sales by automakers impose real harms even when insurers cannot directly use the data for pricing.",
+          "mechanisms": [
+            "First, the harm is not limited to insurance premiums. This is because (1) location and driving data can expose intimate habits and associations, (2) brokers can sell it onward to advertisers, investigators, or other actors, and (3) the consumer loses control once the data enters the broker ecosystem.",
+            "Second, legal restrictions on one use do not eliminate misuse. Three reasons: one, data can be combined with other datasets to re-identify people, two, downstream buyers may operate in jurisdictions with weaker rules, and three, the mere existence of a market incentivizes more collection than consumers expect.",
+            "Third, penalties create deterrence. This matters because GM reportedly made about $20m from the sales, so a $12.75m settlement plus a five-year ban signals that privacy violations are not a costless revenue stream."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Allowing automakers to monetize driving data can improve products and lower costs, and the real problem is weak disclosure rather than data commercialization itself.",
+          "mechanisms": [
+            "First, data collection can create consumer benefits. One, it helps improve vehicle safety and diagnostics, two, it supports theft recovery and emergency services through systems like OnStar, and three, aggregated data can help firms design better products and maintenance systems.",
+            "Second, banning sales may simply shift costs onto consumers. One, if data is a revenue source, firms may raise subscription or vehicle prices, two, smaller firms may struggle to fund connected-car features, and three, consumers who value lower prices may prefer opt-in monetization.",
+            "Third, the appropriate remedy is transparency, not prohibition. One, informed consent rules can force clearer opt-outs, two, targeted enforcement can punish deceptive privacy policies without banning all data markets, and three, overbroad restrictions risk freezing innovation in connected vehicles."
+          ]
+        },
+        {
+          "thesis": "The practical harms are overstated because California already blocks insurers from using this data to set rates, so the settlement is more symbolic than economically necessary.",
+          "mechanisms": [
+            "First, the most obvious downstream harm is already legally constrained. This is because (1) California insurers are prohibited from using driving data to set premiums, (2) that removes the clearest direct financial exploitation channel, and (3) the remaining harms are harder to prove and quantify.",
+            "Second, the state can regulate brokers directly instead of punishing manufacturers. One, data brokers are the entities that aggregate and resell information, two, broker-focused rules can better target downstream misuse, and three, this avoids chilling legitimate in-car data services.",
+            "Third, the settlement may be a one-off compliance event rather than evidence of systemic abuse. One, the conduct was investigated from 2023 and settled in 2026, two, firms can adapt privacy policies and consent flows after enforcement, and three, the civil penalty is modest relative to GM’s scale."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between privacy as a non-recoverable harm and monetization as a recoverable business benefit. Prop wins if the round is framed around irreversible loss of control over sensitive location data and the inability of consumers to meaningfully consent; Opp wins if they persuade that the issue is disclosure and regulation, not the existence of data markets themselves.",
+      "stock_connections": [
+        "Privacy Rights",
+        "Information Asymmetry",
+        "Consumer Protection",
+        "Market Failure",
+        "Consent and Autonomy",
+        "Regulatory Capture",
+        "Race to the Bottom",
+        "Data Monetization",
+        "Corporate Accountability"
+      ],
+      "motion_areas": [
+        "TH, as regulators, would ban automakers from selling driver location data to third-party brokers",
+        "THBT companies should be prohibited from monetizing consumer data collected through essential services",
+        "THP a world where consumers must give explicit opt-in consent before connected devices can sell personal data"
+      ],
+      "data_points": [
+        "$12.75m civil settlement",
+        "GM reportedly made approximately $20m from selling the data",
+        "Hundreds of thousands of Californians were affected",
+        "Data was sold from 2020 to 2024",
+        "Five-year ban on GM selling consumer-driving data to any data broker",
+        "Two data brokers named: Verisk Analytics and LexisNexis Risk Solutions",
+        "California already prohibits insurers from using driving data to set rates"
+      ]
+    },
+    {
+      "id": "e7fcdc31c657",
+      "title": "Trump Pushes Public Lands Toward Hunting Access, Setting Up Safety and Conservation Backlash",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/08/trump-administration-hunting-national-parks",
+      "published": "2026-05-08T23:09:10Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "In January 2026, Interior Secretary Doug Burgum ordered federal land agencies to remove what he called “unnecessary regulatory or administrative barriers” to hunting and fishing on Department-managed lands. The policy applies to 55 National Park Service sites in the lower 48 states, and managers have already begun loosening rules on hunting stands, dog training, vehicle retrieval of animals, and hunting along trails. Hunting is currently allowed across about 51 million NPS acres at 76 sites, while fishing is allowed at 213 sites; only about 4.2% of the US population identified as hunters in 2024.",
+      "prop_args": [
+        {
+          "thesis": "Relaxing hunting restrictions on federal lands improves access, strengthens rural conservation finance, and aligns management with the actual user base of public lands.",
+          "mechanisms": [
+            "First, it expands access for a shrinking but politically important outdoor constituency. This is because (1) only about 4.2% of Americans identified as hunters in 2024, so existing rules often reflect a narrow set of administrative preferences rather than broad public demand; (2) more permissive rules lower the transaction costs of participation by allowing practical activities like vehicle retrieval, dog training, and longer seasons; and (3) easier access helps prevent hunting from becoming a niche activity concentrated among older, wealthier, or more rural users.",
+            "Second, it improves conservation funding and wildlife management incentives. Three reasons: one, hunters generate revenue through license sales and excise taxes on guns and ammunition, which state wildlife agencies rely on; two, if hunting participation falls, agencies face a funding squeeze that weakens habitat management and enforcement; three, allowing more hunting on public lands gives hunters a direct stake in maintaining healthy game populations and ecosystems.",
+            "Third, it supports rural economies and a use-based model of public land stewardship. This matters because (1) hunting trips drive spending on lodging, fuel, equipment, and guides in rural communities; (2) public lands are meant to serve multiple recreational uses, not just preservation for urban visitors; and (3) a default-open policy forces agencies to justify restrictions with concrete safety or ecological evidence, which is a better governance standard than inherited bans."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The administration is weakening science-based land management by prioritizing access over safety, wildlife protection, and public legitimacy.",
+          "mechanisms": [
+            "First, it increases the risk of avoidable harm in mixed-use public spaces. One, parks and refuges contain visitor centers, trails, bathrooms, and parking lots where hunting-related activity creates direct safety risks; two, loosening rules like hunting near trails or cleaning kills in bathrooms normalizes behavior that shocks ordinary visitors and reduces park usability; three, even if actual incidents are rare, the perception of danger suppresses non-hunting visitation and undermines the public purpose of these lands.",
+            "Second, it erodes conservation and ecological management by replacing local expertise with blanket political pressure. One, park managers previously set rules through stakeholder consultation and site-specific judgment; two, the new order flips the presumption so restrictions must be specially defended, which can override science-based limits on species, seasons, and sensitive habitats; three, wildlife management is not one-size-fits-all, so a national directive will inevitably misfit places like Cape Cod, Lake Meredith, and Jean Lafitte.",
+            "Third, it damages institutional trust and public legitimacy. One, the policy was pushed quietly with little public outreach, so communities feel rules are being changed without consent; two, it privileges a small minority of hunters over the broader public that uses parks for recreation, education, and family visits; three, once the public sees parks as politically captured spaces, support for conservation agencies and compliance with rules declines."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether public lands should be governed by default access or by site-specific risk management. Prop wins if the round is about rural access and conservation finance; opp wins if the judge prioritizes safety, legitimacy, and the fact that these are shared public spaces where a small user group should not override everyone else.",
+      "stock_connections": [
+        "Public Goods",
+        "Tragedy of the Commons",
+        "Regulatory Capture",
+        "Democratic Backsliding",
+        "Rural-Urban Divide",
+        "Environmental Governance",
+        "Minority Rights vs Majority Use",
+        "State Capacity",
+        "Conservation Finance"
+      ],
+      "motion_areas": [
+        "TH, as the US federal government, would relax hunting restrictions on national parks and refuges",
+        "THBT public lands should default to open access for hunting unless specifically restricted",
+        "THP a world where national park managers must justify hunting bans rather than hunting permissions"
+      ],
+      "data_points": [
+        "Interior Secretary Doug Burgum issued the order in January 2026",
+        "The policy applies to 55 National Park Service sites in the lower 48 states",
+        "Hunting is allowed across about 51 million NPS acres at 76 sites",
+        "Only about 4.2% of the US population identified as a hunter in 2024",
+        "Fishing is allowed at 213 National Park Service sites",
+        "Only about 8 million of the 51 million hunting-allowed NPS acres are in the contiguous United States"
+      ]
+    },
+    {
+      "id": "d27b979be55f",
+      "title": "US Strikes on Iranian Oil Tankers Escalate the Strait of Hormuz Into Open Maritime Conflict",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/pentagon-releases-video-of-strikes-on-iranian-oil-tankers?traffic_source=rss",
+      "published": "2026-05-08T22:31:37Z",
+      "category": "IR",
+      "region": "Strait of Hormuz / Iran / United States / Gulf of Oman",
+      "background": "On 8 May 2026, the Pentagon released footage showing US strikes on two Iranian oil tankers in the Strait of Hormuz. The US military said the vessels were disabled after overnight exchanges of fire with Iranian forces and that the strikes prevented the tankers from reaching ports in the Gulf of Oman. The incident took place in one of the world’s most strategically sensitive shipping lanes, through which a large share of global oil exports pass.",
+      "prop_args": [
+        {
+          "thesis": "Direct military interdiction of Iranian oil shipping is necessary to deter escalation and preserve freedom of navigation in a chokepoint that the global economy cannot afford to lose.",
+          "mechanisms": [
+            "First, it raises the immediate cost of Iranian maritime harassment. This is because (1) tanker strikes signal that attacks on commercial shipping will be met with kinetic retaliation, (2) Iran loses the ability to use deniable proxy pressure without risking visible asset destruction, and (3) future interdictions become less attractive if each incident can trigger a US response.",
+            "Second, it protects the credibility of the international shipping order. Three reasons: one, the Strait of Hormuz is a narrow chokepoint where even limited disruption can create outsized insurance and freight shocks; two, if the US does not enforce passage, private shipping firms and Gulf states will assume the route is no longer reliably protected; three, that expectation alone can reroute trade and embolden further coercion.",
+            "Third, it prevents a broader regional spillover by demonstrating escalation dominance early. This matters because (1) a weak response invites tit-for-tat attacks on tankers, ports, and energy infrastructure, (2) early force can compress the conflict before allies are dragged into a wider Gulf war, and (3) markets and regional actors are more likely to de-escalate when the US shows it can impose costs quickly."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Striking Iranian tankers is strategically reckless because it normalizes escalation in the world’s most dangerous energy chokepoint and increases the odds of a wider war.",
+          "mechanisms": [
+            "First, it creates a retaliation spiral. One, Iran can answer asymmetrically through mines, drones, cyberattacks, or proxy strikes rather than symmetrical naval combat; two, each response raises pressure on the US to escalate further to preserve credibility; three, the result is a ladder of escalation where neither side can easily back down.",
+            "Second, it damages the global economy more than it protects it. One, even a short-lived conflict in the Strait of Hormuz can spike oil prices and insurance premiums; two, energy-importing states and Gulf allies bear the costs of uncertainty regardless of who is 'right'; three, markets punish instability faster than they reward deterrence, so the net effect can be worse trade disruption.",
+            "Third, it undermines legal and diplomatic norms around maritime security. One, unilateral strikes on commercial vessels blur the line between law enforcement and warfare; two, that precedent can be used by other states to justify attacks on shipping under vague security claims; three, it weakens multilateral mechanisms for deconfliction and makes future crisis management harder."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether deterrence through force actually stabilizes a chokepoint or instead locks both sides into a retaliation cycle. Prop has the advantage if the round is about immediate freedom of navigation and credibility; opp has the structural advantage on long-run escalation risk because once violence enters the Strait of Hormuz, every actor has incentives to respond asymmetrically.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Escalation Spiral",
+        "Security Dilemma",
+        "Freedom of Navigation",
+        "Energy Security",
+        "Great Power Signaling",
+        "Retaliation Dynamics",
+        "Maritime Chokepoint Vulnerability"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use military force to protect freedom of navigation in the Strait of Hormuz",
+        "THBT states should prioritize kinetic deterrence over diplomatic restraint in maritime chokepoints",
+        "THP a world where major powers are willing to strike state-linked commercial shipping in response to attacks on trade routes"
+      ],
+      "data_points": [
+        "The Strait of Hormuz is one of the world’s most important oil chokepoints, with roughly one-fifth of global petroleum liquids consumption passing through it in recent years.",
+        "The US military said it struck two Iranian oil tankers and disabled them after overnight exchanges of fire.",
+        "The tankers were reportedly prevented from reaching ports in the Gulf of Oman.",
+        "The Pentagon publicly released video footage of the strikes on 8 May 2026."
+      ]
+    },
     {
       "id": "32e1a2d40cbc",
       "title": "Reform UK’s Local Breakthrough Signals a Populist Realignment in England’s Deprived Heartlands",
@@ -302,6 +481,115 @@
       ]
     },
     {
+      "id": "92c434cf14b3",
+      "title": "Supreme Court Weakening of Voting Rights Triggers a Southern GOP Gerrymandering Blitz",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/politics/2026/05/gerrymandering-gop-louisiana-tennessee-vra/687107/?utm_source=feed",
+      "published": "2026-05-08T20:37:11Z",
+      "category": "IR",
+      "region": "United States (Louisiana, Tennessee, Memphis)",
+      "background": "On May 8, 2026, Tennessee enacted a new congressional map that splits Memphis across three districts, effectively dismantling Tennessee’s Ninth Congressional District, which had long enabled Black voters in Memphis to elect a representative. The move came days after the Supreme Court’s 6–3 ruling in Louisiana v. Callais weakened enforcement of the Voting Rights Act, prompting Republican-led states including Louisiana, Alabama, South Carolina, and Florida to move quickly on new maps. In Louisiana, Governor Jeff Landry even used emergency powers to suspend already-underway House primaries, after more than 42,000 voters had already cast ballots, to allow redistricting.",
+      "prop_args": [
+        {
+          "thesis": "Weakening federal voting-rights enforcement predictably unleashes a partisan and racial power grab that entrenches one-party rule and strips minority communities of meaningful representation.",
+          "mechanisms": [
+            "First, it removes the legal constraint that had forced states to preserve majority-minority districts. This is because (1) Section 2 enforcement had been the main tool preventing dilution of Black voting power, (2) once the Court signals that race-conscious district protection is no longer required, state legislatures can justify cracking up Black communities, and (3) the article shows immediate imitation effects in Tennessee, Louisiana, Alabama, South Carolina, and Florida.",
+            "Second, it converts map-drawing into a direct seat-maximization strategy for Republicans. Three reasons: one, splitting Memphis among three districts all but guarantees an extra GOP House seat; two, carving up Black Democratic districts in New Orleans, Baton Rouge, and potentially South Carolina reduces Democratic representation without needing to win new voters; three, this helps Republicans protect a narrow House majority in the midterms.",
+            "Third, it normalizes election manipulation and administrative chaos, which further suppresses turnout and trust. This matters because (1) Louisiana halted House primaries after 42,000 votes had already been cast, (2) voters and election workers are confused by mixed messages and last-minute changes, and (3) repeated disruption makes participation more costly for ordinary voters while advantaging highly mobilized partisan actors."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "States are simply exercising constitutional redistricting power in response to a changed legal environment, and the political effects are uncertain rather than deterministically anti-democratic.",
+          "mechanisms": [
+            "First, the Supreme Court ruling changes the legal baseline, so legislatures are responding to what they believe is now permissible rather than inventing a new abuse. Numbered reasons: one, the Court directly invalidated Louisiana’s map and narrowed enforcement standards; two, states like Tennessee and Florida are acting under the assumption that race-based district protections are weaker; three, if the law no longer requires certain district configurations, elected legislatures can claim democratic legitimacy for redrawing maps.",
+            "Second, the electoral payoff is not guaranteed and may backfire. Numbered reasons: one, aggressive redistricting can create legal challenges and delay implementation, as seen in the uncertainty around Tennessee and Alabama; two, carving up safe Black districts can also put adjacent GOP-held seats at risk in a Democratic wave; three, public backlash over election suspension and blatant power grabs can mobilize opposition and increase salience of voting-rights issues.",
+            "Third, the broader system still contains checks that limit the worst outcomes. Numbered reasons: one, federal courts can still review intentional racial discrimination under the new standards; two, some states like Alabama remain under injunctions until the 2030 Census; three, state constitutional provisions and supreme courts, as in Virginia and Florida, can still alter or block maps depending on local legal structures."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate partisan seat gains and long-term democratic legitimacy. Prop wins if you prioritize structural minority disenfranchisement and the cascading national precedent; Opp wins only if you think legal uncertainty and backlash substantially blunt the practical effect of the maps.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Minority Rights",
+        "Race to the Bottom",
+        "Partisan Gerrymandering",
+        "Voter Suppression",
+        "Institutional Capture",
+        "Federalism",
+        "Legitimacy Crisis"
+      ],
+      "motion_areas": [
+        "TH, as the Supreme Court, would maintain strong enforcement of the Voting Rights Act",
+        "THBT states should be prohibited from redrawing congressional maps mid-decade",
+        "THP a world where majority-minority districts are constitutionally protected",
+        "THBT courts should prioritize racial vote dilution over partisan intent in redistricting cases"
+      ],
+      "data_points": [
+        "Tennessee’s Ninth Congressional District had existed for more than 40 years before being dismantled",
+        "More than 42,000 voters had already cast ballots in Louisiana’s May 16 primaries before House races were suspended",
+        "Louisiana’s governor used emergency powers usually reserved for natural disasters to pause the election",
+        "Tennessee’s new map splits Memphis among three districts",
+        "The Supreme Court’s Louisiana v. Callais ruling was 6–3, authored by Justice Samuel Alito and joined by the Court’s five other conservatives",
+        "Florida Republicans were already voting on a new map before Callais was decided",
+        "Alabama remains under a federal court order not to redraw its congressional districts until the 2030 Census",
+        "Republicans are targeting districts in New Orleans, Baton Rouge, and potentially James Clyburn’s South Carolina seat"
+      ]
+    },
+    {
+      "id": "1938c5121012",
+      "title": "Trump’s New Global Tariffs Reopen the Fight Over Executive Trade Power",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-08/trump-s-tariffs-will-keep-fueling-trade-debates-and-disputes",
+      "published": "2026-05-08T20:33:11Z",
+      "category": "Econ",
+      "region": "United States / Global",
+      "background": "On May 8, 2026, Bloomberg reported that President Donald Trump is facing a major legal challenge to the global tariffs he imposed the previous month. The challenge follows a Supreme Court ruling that struck down his earlier sweeping duties, creating a new dispute over whether the president can use executive authority to impose broad trade barriers. The legal fight is expected to take months to resolve and comes as tariffs continue to affect US trade flows and global supply chains.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s tariff strategy is economically and institutionally damaging because it weaponizes trade policy for short-term leverage while creating long-term uncertainty for firms and allies.",
+          "mechanisms": [
+            "First, the tariffs raise costs across the supply chain. This is because (1) importers face immediate duty increases, (2) firms pass those costs on to consumers through higher prices, and (3) downstream manufacturers lose competitiveness when inputs become more expensive.",
+            "Second, the policy creates massive regulatory uncertainty. Three reasons: one, companies cannot plan investment when tariffs can be imposed or struck down by courts within months; two, firms delay hiring, sourcing, and capital expenditure because future trade costs are unclear; three, legal instability makes the US look like an unreliable market compared with jurisdictions with more predictable trade rules.",
+            "Third, the tariffs weaken the US’s bargaining position internationally. This matters because (1) allies and trading partners respond with retaliation or hedging, (2) repeated unilateral action normalizes tit-for-tat trade conflict, and (3) the US loses credibility when it demands rule-based trade from others while bypassing domestic and international constraints itself."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s tariffs can be defended as a necessary tool for protecting domestic industry and forcing a rebalancing of trade relationships that have long disadvantaged the United States.",
+          "mechanisms": [
+            "First, tariffs can shield strategic sectors from foreign competition. One, they give domestic producers breathing room to scale up and invest; two, they reduce dependence on foreign supply chains in politically sensitive industries; three, they can preserve jobs in regions hit hardest by import competition.",
+            "Second, tariffs improve bargaining leverage in trade disputes. One, the threat of market access restrictions gives the US a credible coercive tool; two, trading partners may concede on market opening or industrial policy to avoid broader economic pain; three, even if some tariffs are temporary, they can force negotiations that otherwise would not happen.",
+            "Third, the legal fight itself does not negate the policy rationale. One, executive trade authority has historically been used aggressively in emergencies; two, courts may still leave room for narrower or differently structured tariffs; three, the uncertainty is a price worth paying if the policy corrects persistent trade imbalances."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate economic pain and long-run strategic leverage. Prop wins if the round is about systemic uncertainty and institutional damage, because repeated tariff shocks impose diffuse costs on consumers, firms, and allies, while Opp needs to prove the gains are concentrated, durable, and worth the legal and market instability.",
+      "stock_connections": [
+        "Protectionism",
+        "Trade War",
+        "Executive Overreach",
+        "Institutional Uncertainty",
+        "Supply Chain Resilience",
+        "Retaliation Spiral",
+        "Industrial Policy",
+        "Comparative Advantage"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would impose broad tariffs on imports to protect domestic industry",
+        "THBT governments should prioritize tariff-based industrial policy over free trade commitments",
+        "THP a world where executives can impose emergency tariffs with limited judicial review"
+      ],
+      "data_points": [
+        "Trump imposed global tariffs in April 2026, according to the article",
+        "The Supreme Court had already struck down his earlier sweeping duties before this new tariff round",
+        "The legal challenge to the new tariffs could take months to resolve",
+        "The article references container traffic at the Port of Newark, indicating direct exposure of US import channels to tariff policy"
+      ]
+    },
+    {
       "id": "0a376c74ddce",
       "title": "China’s Pressure on Zambia Exposes How Debt and Aid Can Silence Human Rights Platforms",
       "source": "NPR",
@@ -534,6 +822,57 @@
       ]
     },
     {
+      "id": "6c7bced95ff2",
+      "title": "Trump Pressures Tehran Into a High-Stakes Nuclear Deal or Escalation Cycle",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/balance-of-power-early-edition-5-8-2026-video",
+      "published": "2026-05-08T19:47:38Z",
+      "category": "IR",
+      "region": "Iran; United States; Middle East",
+      "background": "Bloomberg's 'Balance of Power: Early Edition' on 2026-05-08 centers on Donald Trump's demand for a deal from Tehran amid renewed Middle East tensions. The segment features discussion with Bloomberg Washington Correspondent Kailey Leinz and several political and foreign-policy commentators. The article text provided does not include the substance of any specific proposal, but the framing indicates a U.S.-Iran bargaining moment with nuclear, sanctions, and escalation implications.",
+      "prop_args": [
+        {
+          "thesis": "Forcing Tehran into a deal is the best way to prevent a nuclear breakout and reduce the risk of a wider Middle East war.",
+          "mechanisms": [
+            "First, coercive diplomacy raises the immediate cost of delay for Iran. This is because (1) sanctions and military pressure make time work against Tehran's economy and regime stability, (2) the threat of escalation narrows the space for indefinite hedging, and (3) a credible deadline forces elites to choose between concessions now or worse terms later.",
+            "Second, a deal creates verifiable restraints that unilateral pressure cannot. Three reasons: one, inspections and caps on enrichment are more reliable than hoping deterrence alone prevents breakout; two, formal commitments reduce the chance of miscalculation by both sides; three, a negotiated framework gives regional actors clearer red lines and lowers the probability of accidental escalation.",
+            "Third, even a limited agreement buys strategic time and de-escalation. This matters because it slows nuclear progress, reduces the chance of Israeli or U.S. preemptive strikes, and creates a diplomatic off-ramp that can be expanded later into broader regional stabilization."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pressuring Tehran into a deal is likely to backfire by hardening Iranian resistance, accelerating nuclear hedging, and increasing the odds of war.",
+          "mechanisms": [
+            "First, maximum pressure strengthens Iranian hardliners. One, it lets the regime frame compromise as capitulation to foreign coercion; two, it weakens moderates who would sell diplomacy domestically; three, it incentivizes the leadership to prove resolve through defiance rather than concession.",
+            "Second, coercion can speed up proliferation rather than stop it. One, if Iran believes a deal will be unstable or unenforceable, it has more reason to expand enrichment as leverage; two, pressure reduces trust in future U.S. commitments, making any agreement less durable; three, a cornered Iran may use nuclear advancement as deterrence against attack.",
+            "Third, escalation risks spill over into the wider region. One, pressure can trigger proxy retaliation against U.S. forces, Gulf shipping, or Israel; two, regional allies may interpret U.S. threats as a green light for unilateral strikes; three, once violence starts, it becomes harder to contain than a flawed but functioning status quo."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion produces compliance or entrenchment. The prop side wins if you believe Iran is still sensitive to economic and military pressure; the opp side wins if you think regime survival logic makes external threats more likely to accelerate nuclear hedging and regional retaliation than to produce a durable bargain.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Deterrence",
+        "Nuclear Proliferation",
+        "Escalation Spiral",
+        "Regime Security",
+        "Maximum Pressure",
+        "Miscalculation",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue a coercive deal with Iran",
+        "THBT the United States should prioritize nuclear diplomacy over maximum pressure on Iran",
+        "THP a world where major powers use sanctions and threats to force nuclear agreements"
+      ],
+      "data_points": [
+        "Article published 2026-05-08T19:47:38Z",
+        "Bloomberg segment focuses on 'Trump Demands Deal From Tehran'",
+        "The discussion features Bloomberg Washington Correspondent Kailey Leinz and foreign-policy commentators including Holly Dagres"
+      ]
+    },
+    {
       "id": "0e6b7a6bc5e6",
       "title": "California’s Free-Newborn-Diaper Program Turns Early-Childhood Welfare Into a State Subsidy Fight",
       "source": "Guardian",
@@ -589,6 +928,116 @@
         "Baby2Baby says its manufacturing system can produce diapers at 80% less than retail price",
         "Tennessee provides 100 diapers per month for children under two through Medicaid pharmacies",
         "Delaware provides up to 80 diapers and one pack of wipes per week for the first 12 weeks of life"
+      ]
+    },
+    {
+      "id": "fe8957715cac",
+      "title": "Australia’s Refusal to Repatriate IS Families Turns Counterterrorism Into a Citizenship Test",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cedplx04ew0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-08T19:21:12Z",
+      "category": "IR",
+      "region": "Australia / Syria (Al-Roj camp) / UK (comparative)",
+      "background": "Four Australian women linked to Islamic State returned from Syria to Australia this week, after years detained in the Al-Roj camp; three were swiftly arrested and one remained under scrutiny. Australia has resisted repatriating dozens of its citizens from Syrian camps for years, despite legal rights of return and repeated pressure from advocates. The issue has become more politically charged after a December mass shooting at a Jewish event in Bondi Beach that killed 15 people and was allegedly inspired by IS. Twenty-one Australians remain in Al-Roj, including seven women and 14 children.",
+      "prop_args": [
+        {
+          "thesis": "Australia should repatriate IS-linked women and children because keeping them in Syrian camps is both less secure and less just than bringing them home under law-enforcement control.",
+          "mechanisms": [
+            "First, repatriation improves security management. This is because (1) Australian authorities can monitor, arrest, and prosecute returnees under domestic law, (2) Syrian camps like Al-Roj are described as incubators for radicalisation and violence, and (3) indefinite detention in a collapsing camp environment leaves states with no real oversight while the risk profile worsens.",
+            "Second, repatriation protects children from becoming a second generation of extremists. Three reasons: one, many of the children have never lived outside the camps and are being socialised in a closed, trauma-heavy environment; two, the longer they remain, the more entrenched their psychological, educational, and ideological deprivation becomes; three, Australia can pair return with integration and countering violent extremism programmes, giving a better chance of de-radicalisation than abandonment in Syria.",
+            "Third, the rule-of-law and citizenship principles are stronger on the prop side. This matters because (1) citizens have a legal right to return, (2) punishing children for the alleged crimes of their parents creates collective punishment logic, and (3) if the state can selectively deny return based on public anger, it sets a dangerous precedent that political fear overrides legal rights."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Australia should block or minimise repatriation because returning IS-linked families creates immediate domestic security, political, and social harms that outweigh abstract legal duties.",
+          "mechanisms": [
+            "First, return can create a direct security risk. One, some returnees may still be ideologically committed or capable of facilitating extremist networks; two, intelligence on individuals from Syrian camps is often incomplete, making risk assessment unreliable; three, even a small number of failures has catastrophic downside in a country already traumatised by an IS-inspired attack.",
+            "Second, repatriation imposes severe social and political costs. One, survivors of IS atrocities, especially Yazidi refugees and other victims, may experience renewed trauma and fear encountering returnees; two, public trust in government drops when leaders appear to prioritise suspected extremists over victims; three, the backlash can strengthen anti-immigrant and anti-Muslim politics, making the broader social environment less stable.",
+            "Third, refusing return is a deterrence and responsibility signal. One, it tells would-be foreign fighters and their families that joining a terrorist entity has lasting consequences; two, it reduces incentives for future radical travel by making state rescue less likely; three, it avoids rewarding choices that were made voluntarily, or at least perceived by the public as voluntary, which is politically important for maintaining legitimacy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term domestic risk and long-term state control. Prop wins if the judge prioritises actual manageability: once people are home, the state can arrest, monitor, and rehabilitate them, whereas leaving them in Al-Roj only externalises the problem and worsens children’s outcomes. Opp wins if the judge thinks one serious security failure or victim-trauma event outweighs the benefits of legal consistency.",
+      "stock_connections": [
+        "Rule of Law",
+        "Collective Punishment",
+        "Counterterrorism",
+        "Radicalisation",
+        "Rehabilitation vs Incapacitation",
+        "Public Backlash",
+        "Citizenship Rights",
+        "Trauma Politics",
+        "Security vs Liberty"
+      ],
+      "motion_areas": [
+        "TH, as Australia, would repatriate citizens linked to foreign terrorist organisations",
+        "THBT states should not strip or effectively abandon the citizenship of women and children associated with ISIS fighters",
+        "THP a world in which governments are legally required to repatriate nationals from foreign detention camps",
+        "TH, as a counterterrorism agency, would prioritise rehabilitation over permanent exclusion for low-level terror affiliates"
+      ],
+      "data_points": [
+        "Three of the four returning women were arrested on arrival in Australia",
+        "Twenty-one Australians remain in Al-Roj camp: seven women and 14 children",
+        "Australia previously repatriated a group of orphans in 2019 and 17 women and children in 2022",
+        "A February repatriation attempt involving 13 people was turned back within hours due to 'technical issues'",
+        "Bondi Beach mass shooting in December allegedly inspired by IS left 15 dead",
+        "Al-Roj hosts about 2,000 people from dozens of countries",
+        "One unnamed woman was barred from returning in February on national security advice, but the legal threshold is high",
+        "The UK is cited as a comparator state also wrestling with the same repatriation dilemma"
+      ]
+    },
+    {
+      "id": "ba3edd25eb89",
+      "title": "Iran’s Hormuz Leverage Turns a Ceasefire Into a Global Economic Hostage Crisis",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/iran-still-has-a-strangle-on-the-world-s-economy-dagres-video",
+      "published": "2026-05-08T19:07:45Z",
+      "category": "IR",
+      "region": "Iran / Strait of Hormuz / Middle East / Global",
+      "background": "On 8 May 2026, Bloomberg reported that the US expected Iran to respond imminently to its latest proposal to end the war, while clashes in the Strait of Hormuz threatened to fracture a monthlong ceasefire. The Strait of Hormuz remains one of the world’s most important energy chokepoints, carrying a large share of globally traded oil and liquefied natural gas. The article frames the situation as both a military standoff and an economic pressure point, with any escalation immediately affecting global markets and regional security.",
+      "prop_args": [
+        {
+          "thesis": "Iran’s control over Hormuz gives it disproportionate leverage over the global economy, making coercion and escalation more effective than conventional battlefield gains.",
+          "mechanisms": [
+            "First, Hormuz creates a chokepoint veto over energy flows. This is because (1) a large share of seaborne oil and LNG must pass through the strait, (2) even short-lived disruption raises insurance, freight, and futures prices immediately, and (3) markets price in risk faster than states can physically reroute supply.",
+            "Second, Iran can weaponize uncertainty without needing full closure. Three reasons: one, intermittent harassment of shipping is cheaper than sustained war; two, ambiguity forces firms and states to overreact through precautionary stockpiling and rerouting; three, the economic pain is global while the military cost is concentrated and manageable for Iran.",
+            "Third, this leverage translates into diplomatic bargaining power. This matters because the threat to energy markets pressures import-dependent states, splits coalition unity, and gives Iran a way to extract concessions even when it cannot win a conventional war."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Hormuz is a powerful pressure point, but it is not an unlimited trump card because Iran’s own economy and military position make prolonged disruption self-defeating.",
+          "mechanisms": [
+            "First, escalation through Hormuz imposes severe blowback on Iran itself. One, Iran also depends on regional trade, smuggling routes, and stable oil revenue; two, prolonged conflict invites harsher sanctions, interdiction, and retaliation; three, any spike in global prices can accelerate international coordination against Tehran.",
+            "Second, the world has adapted to Hormuz risk better than before. One, states maintain strategic petroleum reserves and diversified supply chains; two, producers outside the Gulf can partially offset shocks over time; three, shipping and naval protection reduce the chance that Iran can sustain a total blockade.",
+            "Third, coercion through chokepoints is limited because it is hard to control outcomes. One, markets may absorb short disruptions without forcing political concessions; two, allies and rivals may harden rather than compromise; three, if Iran overplays its hand, it risks turning a bargaining chip into a casus belli."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether leverage requires durable control or just the credible threat of disruption. Prop wins if the round is about immediate economic vulnerability and bargaining power; opp wins if the round is about sustainability, because Iran’s leverage is strongest precisely when it is not fully used.",
+      "stock_connections": [
+        "Chokepoint Diplomacy",
+        "Energy Security",
+        "Economic Coercion",
+        "Mutually Assured Disruption",
+        "Escalation Dominance",
+        "Sanctions and Counter-Sanctions",
+        "Security Dilemma",
+        "Commodity Price Shocks"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize de-escalation with Iran even at the cost of concessions",
+        "THBT states should treat control of maritime chokepoints as a form of economic warfare",
+        "THP a world where regional powers can credibly threaten global shipping lanes to gain diplomatic leverage"
+      ],
+      "data_points": [
+        "The Strait of Hormuz is one of the world’s most important energy chokepoints, carrying a large share of globally traded oil and LNG",
+        "The ceasefire referenced in the article had lasted one month before clashes threatened to fracture it",
+        "The US said it expected Iran to respond imminently to its latest proposal to end the war",
+        "The article links renewed clashes in Hormuz directly to global economic fracture risk"
       ]
     },
     {
@@ -702,6 +1151,58 @@
       ]
     },
     {
+      "id": "a9d2d24428ca",
+      "title": "New York’s Pied-à-Terre Tax Exposes the Limits of Taxing Wealth Without Driving Capital Flight",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/nyc-tax-plan-that-angered-rich-proving-hard-to-design-video",
+      "published": "2026-05-08T18:25:03Z",
+      "category": "Econ",
+      "region": "United States (New York City; New York State)",
+      "background": "On 2026-05-08, Bloomberg reported that New York officials were still trying to design Governor Kathy Hochul’s proposed pied-à-terre tax, a levy aimed at taxing non-primary residences in New York City. The report said major questions about how the tax would work remained unresolved, and that the issue was feeding broader Democratic discord over the state budget. The proposal has already angered wealthy property owners and is being discussed in the context of New York’s wider fiscal politics.",
+      "prop_args": [
+        {
+          "thesis": "A well-designed pied-à-terre tax is a legitimate way to raise progressive revenue from luxury real estate without materially harming ordinary New Yorkers.",
+          "mechanisms": [
+            "First, it targets a narrow, high-ability-to-pay base rather than broad consumption or payroll. This is because (1) second-home owners are disproportionately wealthy and can absorb a modest levy, (2) the tax can be structured to hit only high-value non-primary residences, and (3) it avoids raising taxes on renters and middle-income homeowners who are more price-sensitive.",
+            "Second, it improves allocative efficiency by discouraging underused speculative housing demand. Three reasons: one, luxury apartments held as stores of wealth sit vacant or lightly used, two, taxing them raises the carrying cost of speculation, and three, that nudges capital toward productive investment or owner-occupied housing.",
+            "Third, it can help stabilize state finances and reduce reliance on regressive revenue tools. This matters because (1) New York faces recurring budget pressure, (2) progressive property taxation is harder to evade than income shifting for some high-net-worth actors, and (3) earmarking or visibly linking the tax to public services increases legitimacy for the broader tax system."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The pied-à-terre tax is politically attractive but economically and administratively fragile, so it is likely to underperform or backfire.",
+          "mechanisms": [
+            "First, the tax is hard to design and enforce without creating loopholes and litigation. One, defining 'primary residence' versus 'pied-à-terre' is administratively messy, two, wealthy owners can restructure ownership through trusts, LLCs, or residency claims, and three, complexity raises compliance costs that eat into revenue.",
+            "Second, it risks capital flight and reduced high-end investment in New York real estate. One, mobile wealthy buyers can shift purchases to Miami, Florida, or other low-tax jurisdictions, two, luxury property markets depend on a small number of marginal buyers so even a modest tax can change behavior, and three, lower demand can weaken construction, brokerage, and related service sectors.",
+            "Third, it may intensify intra-party conflict and reduce the chance of coherent fiscal reform. One, Democrats are already split over the state budget, two, a controversial tax can become a bargaining chip that crowds out broader reforms, and three, symbolic taxes on the rich can substitute for more durable but politically harder revenue solutions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic fairness and actual fiscal yield. Proponents win if they prove the tax is narrow, enforceable, and revenue-positive; opponents win if they show that complexity and avoidance make the policy more politics than policy, with the structural advantage on the opposition because high-end taxpayers are unusually mobile and legally sophisticated.",
+      "stock_connections": [
+        "Capital Flight",
+        "Tax Incidence",
+        "Progressive Taxation",
+        "Regulatory Arbitrage",
+        "Race to the Bottom",
+        "Administrative Burden",
+        "Rent-Seeking",
+        "Fiscal Federalism"
+      ],
+      "motion_areas": [
+        "TH, as New York State, would implement a pied-à-terre tax on luxury second homes",
+        "THBT cities should tax underused luxury housing to fund public services",
+        "THP a world where wealthy non-residents are heavily taxed for owning urban property"
+      ],
+      "data_points": [
+        "Article date: 2026-05-08T18:25:03Z",
+        "Policy target: pied-à-terre tax proposed by Governor Kathy Hochul",
+        "The report says 'significant questions about how the levy would work' remain unresolved",
+        "The issue is occurring amid 'broader Democratic discord over the state budget'"
+      ]
+    },
+    {
       "id": "d9e8e5d685f8",
       "title": "Mystery Sea Drone in Greek Waters Raises Stakes in the Ukraine-Russia Maritime Shadow War",
       "source": "BBC",
@@ -808,6 +1309,137 @@
         "Disney was ordered to apply early to renew eight local station licenses, despite renewals not being due until 2028 at the earliest and 2031 at the latest",
         "Disney settled a Trump lawsuit in late 2024 for $15 million",
         "Senate Democrats sent Carr a letter on Thursday urging him to rescind the early-renewal order"
+      ]
+    },
+    {
+      "id": "84f1e345f76c",
+      "title": "Malaysia’s Rare Earth Hub Becomes a Battleground Over Military Supply Chains and Great-Power Alignment",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/why-an-australia-us-rare-earth-deal-sparked-backlash-in-malaysia/",
+      "published": "2026-05-08T17:19:00Z",
+      "category": "Econ",
+      "region": "Malaysia / Australia / United States",
+      "background": "A coalition of 57 Malaysian civil society organizations issued a memorandum on April 14 opposing an approximately $96 million rare earths supply deal between Australia’s Lynas Corporation and the U.S. Department of Defense. The deal would reportedly involve Lynas processing rare earth materials at its Gebeng facility in Pahang for supply to the U.S. defense sector. The backlash comes as Malaysia is also facing broader trade uncertainty after the U.S. Supreme Court ruled in February 2026 that tariffs imposed under the International Emergency Economic Powers Act (IEEPA) were unconstitutional, undermining the Malaysia-U.S. Agreement on Reciprocal Trade (ART) signed in October 2025.",
+      "prop_args": [
+        {
+          "thesis": "Malaysia should resist becoming a processing node in foreign military supply chains because the economic upside is outweighed by legal, reputational, and strategic costs.",
+          "mechanisms": [
+            "First, the deal creates direct complicity risk. This is because (1) rare earth oxides are essential inputs in advanced weapons systems, (2) processing occurs on Malaysian soil under Malaysian licensing and regulatory approval, and (3) Article 16 of ARSIWA makes states liable if they knowingly aid another state’s internationally wrongful acts, so the government cannot plausibly claim neutrality once it authorizes the chain.",
+            "Second, it damages Malaysia’s foreign-policy brand as a non-aligned middle power. Three reasons: one, Malaysia has long claimed to oppose the use of force in international relations; two, being tied to U.S. defense procurement weakens its credibility when criticizing conflicts involving Palestine, Iran, or other flashpoints; three, reputational damage reduces Malaysia’s ability to act as an honest broker in ASEAN and multilateral forums.",
+            "Third, it increases long-run strategic vulnerability rather than resilience. This matters because the more Malaysia specializes in politically sensitive supply chains, the more it becomes exposed to coercion, sanctions risk, and domestic backlash, which can scare off broader investment and make future industrial policy harder to execute."
+          ]
+        },
+        {
+          "thesis": "Malaysia is better off using rare earths for domestic industrial upgrading than exporting strategic leverage to great powers.",
+          "mechanisms": [
+            "First, domestic processing captures more value than raw or semi-processed export. This is because (1) rare earths are strategically important but Malaysia’s reserves are relatively modest, so the real gain is in downstream processing and capability-building, (2) local value-add supports jobs, skills, and industrial clustering, and (3) keeping the sector for domestic use prevents foreign actors from extracting the strategic rents.",
+            "Second, a domestic-first strategy reduces dependence on volatile external demand. Three reasons: one, U.S. tariff policy has become legally and politically unstable after the IEEPA ruling; two, firms are already delaying investment and procurement because of tariff unpredictability; three, a home-market anchor gives Malaysia a more predictable base for planning and financing.",
+            "Third, it strengthens bargaining power in a fragmented global economy. This matters because if Malaysia becomes indispensable in semiconductors, EV batteries, and other high-tech supply chains, it can raise the cost of coercion from both Washington and Beijing while preserving room for multi-alignment."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Malaysia should allow the deal because integrating into trusted non-Chinese supply chains brings investment, industrial upgrading, and strategic diversification.",
+          "mechanisms": [
+            "First, the deal helps Malaysia move up the value chain. One, rare earth processing is capital-intensive and technologically demanding, so foreign-linked contracts can transfer know-how; two, participation in defense-adjacent supply chains can attract higher-quality industrial investment; three, it helps Malaysia build credibility as a reliable processing hub outside China.",
+            "Second, refusing the deal risks leaving Malaysia stuck in low-value, politically irrelevant production. One, rare earth reserves are modest, so the country cannot rely on scale alone; two, if Malaysia over-prioritizes symbolism, it may miss the chance to monetize a scarce strategic asset; three, other states will simply capture the market if Malaysia hesitates.",
+            "Third, the backlash overstates legal exposure and underestimates state discretion. One, supplying processed materials is not the same as directly participating in military operations; two, ARSIWA complicity requires knowledge and a sufficiently proximate causal link, which governments can manage through licensing and compliance safeguards; three, clear regulation can preserve neutrality while still allowing commercial benefit."
+          ]
+        },
+        {
+          "thesis": "Malaysia should deepen economic ties with the U.S. and its partners because diversification away from China is a hedge against coercion.",
+          "mechanisms": [
+            "First, the global supply chain environment is already weaponized. One, China has used rare earths as a geopolitical tool; two, U.S. trade policy is volatile but still offers access to a huge market and advanced technology; three, spreading exposure across multiple blocs reduces the risk that any single power can choke Malaysia’s exports.",
+            "Second, the economic cost of disengagement is immediate and concrete. One, exporters are already facing tariff uncertainty and cutting costs; two, businesses need stable external demand to sustain employment and investment; three, rejecting U.S.-linked opportunities could worsen uncertainty at a time when Malaysia is already exposed to trade fragmentation.",
+            "Third, strategic neutrality is more credible when backed by capability and partnerships. One, a country with no leverage is not truly neutral but merely vulnerable; two, participation in multiple frameworks like IPEF, RCEP, and defense-adjacent industrial networks increases Malaysia’s options; three, more options mean more autonomy in a great-power rivalry."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the rare earth deal is treated as a narrow commercial transaction or as a strategic alignment choice with legal and reputational spillovers. Prop wins if the round is about complicity, neutrality, and long-run sovereignty; Opp wins if the round is about industrial upgrading, hedging, and the reality that Malaysia cannot afford to sit out strategic supply chains.",
+      "stock_connections": [
+        "Dependency Theory",
+        "Resource Curse",
+        "Race to the Bottom",
+        "Moral Hazard",
+        "Great Power Competition",
+        "Strategic Autonomy",
+        "Supply Chain Resilience",
+        "Dutch Disease",
+        "Non-Alignment"
+      ],
+      "motion_areas": [
+        "TH, as Malaysia, would block foreign military-linked rare earth processing on its territory",
+        "THBT middle powers should refuse participation in defense supply chains of major powers",
+        "THP a world where strategic minerals are treated as national-security assets rather than tradable commodities",
+        "THBT developing nations should prioritize domestic processing of critical minerals over export contracts",
+        "TH supports multi-alignment over bloc alignment in a fragmented global economy"
+      ],
+      "data_points": [
+        "$96 million rare earths supply deal between Lynas and the U.S. Department of Defense",
+        "57 Malaysian civil society organizations signed the April 14 memorandum opposing the deal",
+        "Malaysia’s ART with the U.S. was signed in October 2025",
+        "In February 2026, the U.S. Supreme Court ruled IEEPA tariffs unconstitutional, undermining the legal basis of the ART",
+        "Malaysia was the first country to publicly declare the ART no longer valid",
+        "The Lynas processing facility named in the article is the Gebeng plant in Pahang",
+        "The Trump administration has shifted to Section 301 investigations against multiple countries, including Malaysia"
+      ]
+    },
+    {
+      "id": "4d3fb75a6a5c",
+      "title": "China’s Dual-Use Cyber Campaign Turns Espionage Into Transnational Repression Across Asia and NATO Space",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/1-campaign-2-targets-chinas-cyber-operations-hit-asian-governments-and-dissidents-abroad/",
+      "published": "2026-05-08T17:13:00Z",
+      "category": "IR",
+      "region": "Pakistan; Thailand; Malaysia; India; Myanmar; Sri Lanka; Taiwan; Poland; broader Asia-Europe",
+      "background": "On May 1, Trend Micro disclosed Shadow-Earth-053, a China-aligned espionage campaign active since at least December 2024. It targeted government and defense networks in Pakistan, Thailand, Malaysia, India, Myanmar, Sri Lanka, Taiwan, and Poland, while also phishing Uyghur, Tibetan, Taiwanese, and Hong Kong critics plus journalists. The campaign used unpatched Microsoft Exchange and IIS servers, including ProxyLogon vulnerabilities, and separate phishing operations tracked as Glitter Carp and Sequin Carp began in April and June 2025. The article says nearly half the targets were also hit by Shadow-Earth-054, and notes a Dutch military intelligence assessment that China has reached parity with the United States in offensive cyber capability.",
+      "prop_args": [
+        {
+          "thesis": "China’s cyber operations are becoming a strategic threat multiplier because they combine intelligence collection with transnational repression, weakening both state security and democratic information ecosystems.",
+          "mechanisms": [
+            "First, the campaign gives Beijing classic intelligence advantages against governments and defense ministries. This is because (1) access to ministries and contractors in countries like India, Taiwan, and Poland can reveal military planning, procurement, and alliance coordination; (2) compromising Exchange and IIS servers allows long-term persistence, so the intelligence yield compounds over time; and (3) targeting edge devices and servers creates broad access to internal networks rather than isolated files.",
+            "Second, the same infrastructure is used to silence diaspora critics and journalists. Three reasons: one, phishing with tracking pixels identifies when and where targets open messages, making surveillance and intimidation more precise; two, stealing credentials and tokens lets attackers monitor dissidents’ communications and source networks; three, by targeting exiled communities abroad, Beijing extends domestic censorship beyond its borders and deters future speech.",
+            "Third, this matters because it erodes alliance trust and the open information environment at the same time. This matters because (1) states become less willing to share sensitive data if they believe their networks are penetrated; (2) host governments face pressure to protect residents from foreign political policing, creating diplomatic friction with China; and (3) repeated exposure normalizes the idea that cyber coercion is a low-cost tool of statecraft, making deterrence harder."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This campaign is serious, but it is not strategically transformative because most of the damage is limited to espionage and harassment rather than decisive coercion or physical disruption.",
+          "mechanisms": [
+            "First, the operational effects are constrained by the nature of cyber espionage. One, stealing information does not automatically translate into battlefield advantage if the intelligence is stale, incomplete, or already compartmentalized; two, many governments rotate credentials and patch systems after disclosure, reducing long-term value; three, espionage campaigns are common enough that targets build institutional resilience and do not fundamentally alter foreign policy.",
+            "Second, transnational repression through phishing has limited reach compared with broader political control tools. One, only a subset of activists and journalists are vulnerable to targeted spearphishing; two, victims can migrate to encrypted platforms, burner accounts, and stronger operational security; three, the campaign’s effects are mostly chilling rather than eliminative, so opposition networks often adapt rather than collapse.",
+            "Third, the geopolitical response can absorb this without major escalation. One, NATO and Quad states already treat China as a persistent cyber threat, so disclosure reinforces existing threat models rather than creating a new one; two, sanctions or defensive coordination can raise costs without changing the overall balance of power; three, because cyber attribution is often deniable and incremental, Beijing can keep operating but also cannot convert these campaigns into durable coercive leverage."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether cyber operations are just another form of espionage or a durable tool of political control. Prop wins if the round is about cumulative erosion: repeated access, repression of diaspora voices, and alliance distrust create structural damage that is hard to reverse. Opp wins if the judge prioritizes immediacy and magnitude, because the article shows broad intrusion but not a decisive kinetic or economic shock.",
+      "stock_connections": [
+        "Transnational Repression",
+        "Cyber Deterrence",
+        "Gray-Zone Conflict",
+        "Information Warfare",
+        "Alliance Friction",
+        "Soft Power Erosion",
+        "Surveillance State Export",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as NATO, would impose stronger collective sanctions on states engaging in transnational cyber repression",
+        "THBT the Quad should treat cyber operations against diaspora communities as a core security threat",
+        "THP a world where states can retaliate economically for cyber-enabled political repression",
+        "TH, as democratic host states, would prioritize protection of exiled dissidents over diplomatic neutrality with China"
+      ],
+      "data_points": [
+        "Shadow-Earth-053 has been active since at least December 2024",
+        "Targets included Pakistan, Thailand, Malaysia, India, Myanmar, Sri Lanka, Taiwan, and Poland",
+        "Two related phishing campaigns, Glitter Carp and Sequin Carp, began in April and June 2025",
+        "Nearly half of Shadow-Earth-053 targets were also hit by Shadow-Earth-054",
+        "China’s 2026 defense budget rose 7 percent to approximately $275 billion",
+        "The Netherlands’ military intelligence service said China has reached parity with the United States in offensive cyber capability",
+        "Roughly 90 percent of military aid shipments to Ukraine pass through Poland",
+        "The U.S. Intelligence Community’s 2026 Annual Threat Assessment says China remains the most active and persistent cyber threat to the U.S. government, private sector, and critical infrastructure"
       ]
     },
     {
@@ -1299,6 +1931,57 @@
         "The China-U.S. Strategic Economic Dialogue was rebranded twice and the Comprehensive Economic Dialogue, announced in 2017, met only once before being scrapped",
         "The article argues that headquarters, ownership structure, founder location, prior operations, cloud systems, data flows, investors, employees, and code can all become relevant in security review",
         "The proposed Board of Trade would cover customs, standards, subsidies, state-owned enterprises, payments, supply-chain continuity, export controls, sanctions compliance, technology restrictions, and investment review"
+      ]
+    },
+    {
+      "id": "152636ca4122",
+      "title": "Bitcoin Lobby Fails to Force Swiss National Bank Into Crypto Reserves",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/bitcoin-campaign-to-force-snb-holdings-has-failed-reuters-says",
+      "published": "2026-05-08T15:09:17Z",
+      "category": "Business",
+      "region": "Switzerland",
+      "background": "A Bitcoin campaign aimed at pressuring the Swiss National Bank (SNB) to hold Bitcoin on its balance sheet has failed, Reuters reported and Bloomberg summarized on May 8, 2026. The debate centered on whether Switzerland’s central bank should diversify reserves into crypto assets, with the SNB ultimately not moving to adopt Bitcoin holdings. The article’s accompanying context notes Bitcoin had been highly volatile in 2026, including an Asia trading session selloff that briefly left the token more than 50% below its October peak.",
+      "prop_args": [
+        {
+          "thesis": "The failure of the Bitcoin campaign is a rational victory for central-bank credibility and reserve safety over speculative political pressure.",
+          "mechanisms": [
+            "First, the SNB protects balance-sheet stability by refusing an asset with extreme volatility. This is because (1) reserve assets must preserve value during stress, (2) Bitcoin can lose more than half its value in a short window, and (3) mark-to-market losses would directly weaken the bank’s perceived competence and independence.",
+            "Second, rejecting Bitcoin prevents a dangerous precedent of politicized reserve management. Three reasons: one, once a central bank yields to a popular asset narrative, future lobbying groups can demand gold, equities, commodities, or other ideological holdings; two, reserve policy becomes a referendum on retail sentiment rather than macroeconomic judgment; three, this preserves technocratic insulation from short-term market hype.",
+            "Third, the decision avoids contagion from crypto-market instability into the sovereign financial system. This matters because the SNB’s credibility is not just about returns; if a reserve asset collapses, it can amplify scrutiny of the currency regime, trigger reputational damage, and create unnecessary volatility in a country that relies on monetary trust."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The failure to add Bitcoin shows central banks are missing a diversification opportunity and are over-conservative in a world where reserve assets themselves are politically and financially risky.",
+          "mechanisms": [
+            "First, Bitcoin could function as a hedge against fiat debasement and geopolitical reserve concentration. One, traditional reserves are heavily exposed to dollar and euro policy; two, crypto offers an asset outside state control; three, even a small allocation could improve long-run portfolio diversification.",
+            "Second, refusing Bitcoin may leave the SNB behind structural financial innovation. One, crypto adoption is expanding across payments, custody, and institutional finance; two, central banks that ignore new asset classes risk becoming less relevant to future monetary infrastructure; three, early participation can build expertise before the asset matures further.",
+            "Third, the campaign’s failure reflects institutional inertia rather than sound economics. One, central banks are often biased toward the status quo because losses are more visible than forgone upside; two, this creates asymmetric decision-making that systematically underweights innovation; three, the result is a missed chance to modernize reserve management."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether reserve management should prioritize safety and institutional credibility or diversification and innovation. Prop has the structural advantage because central banks are judged on downside risk, and a volatile asset like Bitcoin creates immediate, visible losses that are much harder to justify than the abstract upside of a small allocation.",
+      "stock_connections": [
+        "Risk Aversion",
+        "Central Bank Independence",
+        "Reserve Diversification",
+        "Moral Hazard",
+        "Financial Speculation",
+        "Technocratic Governance",
+        "Policy Capture",
+        "Innovation vs Stability"
+      ],
+      "motion_areas": [
+        "TH, as the Swiss National Bank, would not hold Bitcoin in its reserves",
+        "THBT central banks should not allocate reserves to cryptocurrencies",
+        "THP a world where sovereign reserve managers can invest in Bitcoin"
+      ],
+      "data_points": [
+        "Bitcoin briefly fell to more than 50% below its October 2025 peak during an Asia trading session selloff",
+        "The campaign sought to force the Swiss National Bank to hold Bitcoin on its balance sheet",
+        "Article date: 2026-05-08"
       ]
     },
     {
@@ -2266,6 +2949,57 @@
       ]
     },
     {
+      "id": "d11371b03cf5",
+      "title": "Iran War-Driven Energy Shock Forces Asian States to Choose Between Market Discipline and Price Protection",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-08/new-oil-shock-prompts-asian-governments-to-intervene-in-markets",
+      "published": "2026-05-08T11:00:02Z",
+      "category": "Econ",
+      "region": "Japan; Asia; global energy markets",
+      "background": "The article reports that the war in Iran has triggered a new oil and gas shock across Asia, prompting governments to intervene in energy markets. In Japan, Trade Minister Ryosei Akazawa said consumers may begin to feel the impact on electricity and natural gas bills from around June 2026. The photo caption references LNG storage tanks operated by Osaka Gas in Himeji, underscoring Japan's exposure to imported gas and the pass-through from global energy prices to household bills.",
+      "prop_args": [
+        {
+          "thesis": "Asian governments should intervene in energy markets to shield households and firms from a geopolitical supply shock that private markets cannot absorb quickly.",
+          "mechanisms": [
+            "First, intervention prevents a sudden cost-of-living spike from cascading into broader economic contraction. This is because (1) energy is a universal input into transport, heating, and manufacturing, (2) households cannot easily substitute away in the short run, and (3) a rapid bill shock reduces real disposable income and consumer demand across the economy.",
+            "Second, state action buys time for adjustment when the shock is exogenous and temporary. Three reasons: one, the war in Iran is a supply-side geopolitical event rather than a domestic policy failure; two, firms need time to renegotiate contracts, diversify suppliers, and hedge exposure; three, governments can smooth prices while infrastructure and procurement adapt.",
+            "Third, intervention protects strategic industries and prevents second-round inflation. This matters because energy-intensive sectors face margin compression, layoffs, and production cuts if input costs spike, while pass-through into food, transport, and utilities can entrench inflation expectations and force harsher monetary tightening."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Asian governments should avoid intervening heavily because price controls and subsidies distort markets, worsen fiscal burdens, and delay the transition to resilient energy systems.",
+          "mechanisms": [
+            "First, intervention weakens price signals that are necessary for efficient allocation. One, artificially suppressing prices encourages overconsumption at exactly the moment supply is scarce; two, it reduces incentives for firms and households to conserve energy; three, it blunts investment in efficiency, storage, and diversification.",
+            "Second, subsidies and compensation schemes create large fiscal and political costs. One, governments must either borrow more or reallocate spending away from health, education, and infrastructure; two, once introduced, energy support is politically hard to remove; three, repeated shocks normalize permanent state dependence and expose budgets to future volatility.",
+            "Third, non-intervention accelerates structural adaptation and energy security. One, higher prices push consumers toward conservation and substitution; two, firms diversify supply chains and hedge more aggressively; three, governments are forced to invest in domestic renewables, grid resilience, and strategic reserves rather than repeatedly cushioning fossil-fuel dependence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the shock is treated as a temporary emergency or a signal to let markets reprice risk. Prop wins if the round prioritizes immediate welfare and macro stability under an exogenous war shock; opp wins if it can prove intervention becomes a long-run subsidy trap that entrenches vulnerability and fiscal waste.",
+      "stock_connections": [
+        "Price Controls",
+        "Subsidy Dependence",
+        "Moral Hazard",
+        "Inflation Pass-Through",
+        "Energy Security",
+        "Market Distortion",
+        "Cost of Living Crisis",
+        "Strategic Reserves"
+      ],
+      "motion_areas": [
+        "TH, as Asian governments, would intervene in energy markets during geopolitical supply shocks",
+        "THBT governments should cap household energy prices during wartime supply disruptions",
+        "THP a world where states heavily subsidize fuel and electricity during global energy crises"
+      ],
+      "data_points": [
+        "Japanese Trade Minister Ryosei Akazawa said consumers may begin to feel the impact on electricity and natural gas bills from around June 2026.",
+        "The article links the shock to the war in Iran, indicating a geopolitical supply disruption rather than a normal market fluctuation.",
+        "The caption references LNG storage tanks operated by Osaka Gas Co. in Himeji, Japan, highlighting Japan's dependence on imported LNG and exposure to global gas prices."
+      ]
+    },
+    {
       "id": "7b057524d94d",
       "title": "U.S.-Iran Blockade Escalation Turns the Strait of Hormuz Into a De Facto War Zone",
       "source": "NPR",
@@ -2508,6 +3242,57 @@
         "A Tomahawk cruise missile was reportedly fired from a civilian airport during the drills, with a dummy warhead, landing on a military reservation",
         "China responded by sending its own naval task force to conduct live-fire drills east of Luzon",
         "The exercises involved the U.S., the Philippines, Japan, France, Canada, Australia, and New Zealand"
+      ]
+    },
+    {
+      "id": "219f8e5fbcd2",
+      "title": "Reform UK’s Local Surge Exposes a Fragmenting British Party System",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/london-vote-offers-snapshot-of-fractured-and-fractious-uk",
+      "published": "2026-05-08T10:17:25Z",
+      "category": "IR",
+      "region": "United Kingdom",
+      "background": "In the first counts from UK local elections on 8 May 2026, Nigel Farage’s Reform UK recorded sweeping gains, while voters continued to turn away from Prime Minister Keir Starmer’s Labour government. The article frames the result as a snapshot of a more fractured and harder-to-govern UK political landscape. The result comes amid growing dissatisfaction with the main governing party and a broader shift away from the traditional two-party system.",
+      "prop_args": [
+        {
+          "thesis": "Reform UK’s breakthrough is a rational voter revolt that can force accountability and reset a stagnant political system.",
+          "mechanisms": [
+            "First, the surge creates a credible electoral punishment mechanism. This is because (1) voters who feel ignored by Labour can now credibly defect to a viable alternative, (2) local election losses signal to national elites that policy failure has immediate political costs, and (3) the threat of further losses forces the governing party to respond to public anger rather than rely on party loyalty.",
+            "Second, fragmentation can improve representation by breaking the duopoly of the main parties. Three reasons: one, it gives voice to voters whose preferences are not captured by Labour or the Conservatives; two, it reduces the incentive for mainstream parties to take their base for granted; three, it can push debate toward issues that were previously suppressed or treated as politically inconvenient.",
+            "Third, a shock to the system can be healthy if it exposes weak governance early. This matters because it can trigger policy correction before national elections, prevent complacency in office, and force coalition-building or issue-by-issue bargaining that better reflects the electorate’s actual preferences."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Reform UK’s gains deepen governability problems by fragmenting the electorate without offering a stable governing alternative.",
+          "mechanisms": [
+            "First, fragmentation makes it harder to build durable governing coalitions. One, more parties means fewer clear majorities and more bargaining friction; two, local surges do not automatically translate into coherent national policy platforms; three, the result incentivizes short-term protest voting over long-term responsibility.",
+            "Second, the rise of a protest party can worsen policy volatility and institutional paralysis. One, mainstream parties may chase Reform’s voters by hardening positions, making compromise harder; two, governments facing constant electoral threat become more risk-averse and reactive; three, public trust erodes when voters see repeated punishment but no stable alternative for governing.",
+            "Third, the shift can normalize anti-establishment politics that undermines legitimacy. One, if voters conclude that all mainstream parties are interchangeable, they disengage from constructive participation; two, rhetoric centered on grievance can intensify polarization; three, weakened legitimacy makes it harder for any government to implement unpopular but necessary reforms."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether fragmentation is a corrective mechanism or a governability crisis. Prop wins if the round is about accountability and representation; Opp wins if the round is about state capacity, because the structural advantage lies with the side that can show how a more fractured party system makes coherent national governance harder over time.",
+      "stock_connections": [
+        "Political Fragmentation",
+        "Populism",
+        "Anti-Establishment Backlash",
+        "Democratic Accountability",
+        "Governability Crisis",
+        "Party System Dealignment",
+        "Protest Voting",
+        "Legitimacy Erosion"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would reform the electoral system to reduce protest-party fragmentation",
+        "THBT the rise of Reform UK is good for British democracy",
+        "THP a world where local election results significantly constrain national governments"
+      ],
+      "data_points": [
+        "Reform UK made sweeping gains in the first counts of the UK local elections on 8 May 2026",
+        "The article describes the UK as increasingly 'ungovernable'",
+        "The result came as British voters continued to turn away from Prime Minister Keir Starmer’s Labour Party"
       ]
     },
     {

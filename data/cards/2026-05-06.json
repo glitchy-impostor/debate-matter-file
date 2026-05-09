@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "last_updated": "2026-05-08T22:31:03Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
     {
       "id": "6b13974888d4",
@@ -1063,6 +1063,61 @@
         "South Korea pledged $350 billion in U.S. investment and $25 billion in military equipment purchases by 2030",
         "The U.S. and South Korea agreed to certify a key milestone in transferring wartime operational control by the end of 2026",
         "In February, U.S. F-16s launched from Osan Air Base approached China’s ADIZ over the Yellow Sea, prompting Chinese fighter scrambles"
+      ]
+    },
+    {
+      "id": "82d01562ca36",
+      "title": "FBI Leak Probe Into Reporter Signals Escalation From Accountability to Press Intimidation",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/politics/2026/05/kash-patel-investigation-atlantic/687072/?utm_source=feed",
+      "published": "2026-05-06T14:50:05Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "On May 6, 2026, MS NOW reported that the FBI had launched a criminal leak investigation focused on Atlantic reporter Sarah Fitzpatrick after her April 17 story on FBI Director Kash Patel’s alleged drinking and absences. The Atlantic said the article was based on interviews with more than two dozen current and former officials and other sources; Patel denied the allegations and sued The Atlantic and Fitzpatrick for defamation, seeking $250 million. The FBI spokesperson denied any such investigation, while The Atlantic’s editor in chief called the reported probe an attack on the First Amendment.",
+      "prop_args": [
+        {
+          "thesis": "If true, the reported FBI probe is a politically motivated attempt to chill investigative journalism and protect a powerful official from scrutiny.",
+          "mechanisms": [
+            "First, it creates direct deterrence against source-based reporting. This is because (1) journalists now face the risk that their phone records, contacts, notes, or source networks will be targeted, (2) sources inside government will fear exposure and stop speaking, and (3) reporters will self-censor on sensitive stories involving national security or law enforcement.",
+            "Second, it converts a leak inquiry into retaliation against the messenger. Three reasons: one, leak investigations are normally aimed at identifying the official who disclosed information, not the journalist who published it; two, starting with the reporter reverses the usual First Amendment-protective process; three, it signals that criticism of the FBI director can trigger institutional punishment rather than rebuttal.",
+            "Third, it degrades democratic accountability by insulating the FBI from oversight. This matters because (1) the underlying story concerns the conduct and fitness of a senior law-enforcement official, (2) press scrutiny is often the only effective check on internal misconduct, and (3) if agencies can intimidate reporters after publication, future abuses are less likely to be exposed."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A leak investigation is a legitimate effort to protect classified or sensitive information and does not necessarily amount to press intimidation.",
+          "mechanisms": [
+            "First, the state has a real interest in identifying unauthorized disclosures. One, leak probes can be necessary to protect operational security and personnel safety; two, journalists are not above the law if they possess unlawfully obtained material; three, investigating a leak does not automatically mean seizing reporter materials without judicial approval.",
+            "Second, the reported probe may be overblown or false. One, the FBI publicly denied that Fitzpatrick is being investigated; two, the article itself says it is unclear what steps, if any, investigators took; three, media reports based on anonymous sources can mischaracterize routine internal review as a crackdown.",
+            "Third, even if there is scrutiny, it may be narrowly targeted and legally constrained. One, warrants require judicial approval for communications content; two, the government can pursue leakers without suppressing publication; three, isolated investigations do not prove a systemic assault on press freedom."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the probe is treated as a narrow leak inquiry or as a broader signal that the FBI will punish adverse coverage. Prop wins if it can show the chilling effect on sources and future reporting is systemic; opp wins if it can frame this as a disputed, legally bounded investigation with no proven press harm.",
+      "stock_connections": [
+        "Press Freedom",
+        "Chilling Effect",
+        "Democratic Backsliding",
+        "Abuse of Power",
+        "Institutional Capture",
+        "Retaliation",
+        "Accountability Journalism",
+        "Rule of Law"
+      ],
+      "motion_areas": [
+        "TH, as a democratic government, should prohibit law enforcement from investigating journalists’ records in leak cases absent evidence of criminal conspiracy",
+        "THBT the state should not prioritize leak prosecutions over protecting press sources",
+        "THP a world where public officials cannot use internal security agencies to retaliate against critical reporting"
+      ],
+      "data_points": [
+        "MS NOW reported the FBI had 'launched a criminal leak investigation' focused on Atlantic reporter Sarah Fitzpatrick",
+        "The Atlantic said Fitzpatrick interviewed more than two dozen current and former officials for the April 17 story",
+        "Patel sued The Atlantic and Fitzpatrick for defamation, seeking $250 million in damages",
+        "The FBI spokesperson Ben Williamson said: 'This is completely false. No such investigation like this exists and the reporter you mention is not being investigated at all.'",
+        "In January, FBI agents searched Washington Post reporter Hannah Natanson’s home and seized her phone and other devices",
+        "In March, the FBI reportedly investigated New York Times reporter Elizabeth Williamson over a story about Patel",
+        "A federal judge dismissed Patel’s defamation suit against former FBI official Frank Figliuzzi on April 21"
       ]
     },
     {

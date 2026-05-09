@@ -1,7 +1,261 @@
 {
   "date": "2026-04-29",
-  "last_updated": "2026-05-08T22:01:01Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
+    {
+      "id": "43c0426ab8ac",
+      "title": "Supreme Court Rewrites Voting Rights Act Into a License for Partisan Racial Disenfranchisement",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/vra-supreme-court-callais-decision/686997/?utm_source=feed",
+      "published": "2026-04-29T21:39:03Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "In Louisiana v. Callais, the U.S. Supreme Court upheld a Louisiana redistricting map challenge in a way that the article argues effectively guts Section 2 of the Voting Rights Act. Louisiana’s 2022 map had created 1 majority-Black congressional district out of 6 in a state that is about one-third Black; after civil-rights groups sued and won, the state drew a second Black-majority district, which was then challenged by opponents as an unconstitutional racial gerrymander. Justice Samuel Alito wrote for the majority that courts should treat partisan advantage as a race-neutral criterion, while Justice Elena Kagan dissented that Congress had amended the VRA in 1982 specifically to prohibit voting rules with discriminatory effects, not just discriminatory intent.",
+      "prop_args": [
+        {
+          "thesis": "The decision functionally legalizes voter suppression by allowing states to disguise racial disenfranchisement as partisan map-drawing.",
+          "mechanisms": [
+            "First, it creates a clean legal workaround for discriminatory intent claims. This is because (1) lawmakers can now say they were pursuing partisan advantage rather than race, (2) Black voters in the South are heavily correlated with Democratic voting, and (3) courts will struggle to distinguish 'partisan' from racial motive when the practical effect is identical.",
+            "Second, it revives the exact loophole Congress tried to close in 1982. Three reasons: one, Congress amended the VRA after City of Mobile v. Bolden because intent-based standards let officials evade liability; two, Section 2 was designed to capture discriminatory effects, not just explicit racism; three, the Court’s new standard reopens that loophole and makes enforcement far harder.",
+            "Third, it will reduce Black and minority representation in Congress and state legislatures. This matters because (1) packing and cracking dilute voting power even without formal disfranchisement, (2) fewer minority representatives means fewer institutional veto points against anti-minority policy, and (3) once the targeted group loses political power, there is little electoral cost to escalating discrimination."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The ruling is a legitimate anti-gerrymandering correction that prevents courts from turning the VRA into a race-based districting mandate.",
+          "mechanisms": [
+            "First, it restores a race-neutral constitutional baseline. One, the Court can argue that districts should not be sorted primarily by race; two, treating partisan advantage as a permissible criterion avoids forcing states to use racial classifications; three, this limits judicial overreach into redistricting decisions that are normally political.",
+            "Second, it prevents the VRA from being weaponized into permanent racial entrenchment. One, if race is always the controlling factor, states may be locked into rigid district designs; two, that can incentivize identity-based politics and reduce cross-racial coalition building; three, a narrower reading of Section 2 can be defended as preserving equal citizenship rather than group quotas.",
+            "Third, the practical effect may be less dramatic than critics claim because partisan sorting already explains most modern maps. One, many districts are drawn to maximize party advantage regardless of race; two, courts still retain tools against the most extreme dilution cases; three, the decision may mainly shift litigation strategy rather than immediately eliminate minority representation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether 'partisan' is a meaningful distinction from racial discrimination in a polarized electorate. Prop wins if you think the ruling gives states a durable legal cover to dilute Black voting power; opp wins only if you think courts can still police the worst abuses and that the decision mainly narrows doctrine without changing outcomes much.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Minority Rights",
+        "Race to the Bottom",
+        "Judicial Overreach",
+        "Structural Racism",
+        "Gerrymandering",
+        "Voter Suppression",
+        "Colorblind Racism"
+      ],
+      "motion_areas": [
+        "TH, as the Supreme Court, would prioritize race-neutrality over race-conscious remedies in voting rights cases",
+        "THBT the U.S. Supreme Court has done more harm than good to minority political rights",
+        "THP a world where partisan gerrymandering is treated as a constitutional violation when it disproportionately harms racial minorities"
+      ],
+      "data_points": [
+        "Louisiana’s 2022 congressional map created 1 majority-Black district out of 6 seats in a state that is about one-third Black",
+        "Half of the Black American population resides in the South",
+        "The Voting Rights Act was reauthorized in 1982 to cover discriminatory effects, not just discriminatory intent",
+        "Shelby County v. Holder (2013) began dismantling the VRA’s preclearance regime",
+        "Justice Samuel Alito wrote that courts must treat partisan advantage like any other race-neutral aim",
+        "Trump’s former campaign manager Brad Parscale posted that if states are aggressive, Republicans could see a healthy majority in the House perpetually"
+      ]
+    },
+    {
+      "id": "ad2899a85202",
+      "title": "Florida’s Gerrymander Fight Shows How Anti-Partisan Map Rules Collapse When Courts Stop Enforcing Them",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/politics/2026/04/florida-redistricting-supreme-court/686987/?utm_source=feed",
+      "published": "2026-04-29T19:49:17Z",
+      "category": "IR",
+      "region": "United States (Florida)",
+      "background": "Florida Republicans approved a new congressional map that could give them as many as four additional House seats, potentially pushing the GOP to 24 of Florida’s 28 seats. The move comes as Florida’s constitution bans partisan gerrymandering and the state’s 2010 Fair Districts Amendment also bans racial gerrymandering, but Republicans are betting on a favorable Florida Supreme Court and on a recent 6–3 U.S. Supreme Court ruling that voided a Louisiana majority-Black district as an unconstitutional racial gerrymander. The map was drawn and rolled out with unusual secrecy, and DeSantis’s office admitted in testimony that mapmakers used partisan voter data.",
+      "prop_args": [
+        {
+          "thesis": "Florida’s redistricting fight proves that anti-gerrymandering rules only matter when courts are willing to enforce them, so partisan actors will keep exploiting legal gray zones to entrench power.",
+          "mechanisms": [
+            "First, the incentive structure rewards concealment and technical compliance over genuine neutrality. This is because (1) Florida Republicans cannot openly say they are drawing maps for partisan advantage without risking invalidation, (2) that forces them to use coded justifications like population growth and census correction, and (3) it turns redistricting into a litigation game where the side with better lawyers and friendlier judges wins rather than the side with the stronger democratic claim.",
+            "Second, judicial signals at the federal level create a permissive environment for aggressive mapmaking. Three reasons: one, the Supreme Court’s Louisiana ruling weakens Section 2 enforcement and makes it easier to eliminate minority-opportunity districts; two, GOP-led states can now coordinate around that precedent to strip seats from Democrats under the cover of race-neutral redistricting; three, once one state succeeds, others copy the strategy, accelerating a national race to the bottom.",
+            "Third, the practical effect is durable partisan entrenchment even if the exact seat gain is uncertain. This matters because (1) Republicans already hold more than 70 percent of Florida House seats despite Trump winning 56 percent statewide, (2) even a partial gain changes control of the U.S. House in a closely divided Congress, and (3) the mere threat of aggressive redistricting forces the opposition to spend money and organize defensively, compounding the incumbent advantage."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Aggressive gerrymandering is politically risky and legally unstable, so it often backfires or produces far less advantage than its architects expect.",
+          "mechanisms": [
+            "First, overpacking and overextending the map can create unintended competitive districts. One, Florida Democrats are concentrated in Central Florida and southeast Florida, so trying to squeeze out four extra GOP seats may simply shift Democratic voters around rather than eliminate them; two, if Republicans draw lines too thin, they expose current GOP seats to midterm backlash; three, analysts cited in the article argue the party may already have maximized its advantage, meaning the plan could yield zero net gain.",
+            "Second, the legal challenge is real because Florida’s own constitution bans partisan gerrymandering and the Fair Districts Amendment bans both partisan and racial gerrymandering. This is because (1) Democrats can sue in state court immediately after enactment, (2) the governor’s office has already acknowledged using partisan voter data, which is damaging evidence, and (3) a Republican-appointed court still has to preserve some institutional legitimacy, especially when the legislature openly bypasses public debate.",
+            "Third, the backlash can strengthen the opposition rather than weaken it. Three reasons: one, secrecy and obfuscation make the process look illegitimate and mobilize reform coalitions; two, Democrats can frame the map as a power grab and use it to drive turnout in Florida and nationally; three, if the map is perceived as a dummymander, it can become a symbol of Republican overreach that hurts them in a midterm environment already expected to favor Democrats."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between structural entrenchment and execution risk. Pro wins if the judge thinks the real story is the erosion of anti-gerrymandering norms and the national copycat effect; opp wins if the judge thinks Florida’s map is legally vulnerable and strategically overdrawn, making the expected seat gain much smaller than advertised.",
+      "stock_connections": [
+        "Gerrymandering",
+        "Democratic Backsliding",
+        "Institutional Capture",
+        "Race to the Bottom",
+        "Judicialization of Politics",
+        "Minority Representation",
+        "Electoral Entrenchment"
+      ],
+      "motion_areas": [
+        "TH, as a state supreme court, would strike down partisan gerrymanders even absent explicit federal enforcement",
+        "THBT states should be allowed to redraw congressional maps for partisan advantage",
+        "THP a world where redistricting must be approved by voters rather than legislatures",
+        "THBT courts should prioritize racial representation over partisan neutrality in redistricting disputes"
+      ],
+      "data_points": [
+        "Florida Republicans could gain as many as 4 House seats under the new map",
+        "Florida has 28 House seats; Republicans currently hold more than 70% of them",
+        "Trump won Florida by 56% in the most recent presidential election",
+        "Florida Republicans have 1.5 million more registered voters than Democrats, according to DeSantis",
+        "The U.S. Supreme Court issued a 6–3 ruling voiding a Louisiana map with a new majority-Black district",
+        "The Fair Districts Amendment (2010) bans both partisan and racial gerrymandering",
+        "Democrats argue they could win 3 to 5 additional seats if turnout matches 2018 and 2020 levels",
+        "An analysis by the Civic Data & Research Institute said Republicans had already maximized their advantage and would get 'zero net gain' from more aggressive redistricting"
+      ]
+    },
+    {
+      "id": "e9c157c6e116",
+      "title": "Trump’s Anglo-Saxon Nationalism Gives White Identity Politics Presidential Cover",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/trump-king-charles-speech-white-house/686996/?utm_source=feed",
+      "published": "2026-04-29T19:11:16Z",
+      "category": "IR",
+      "region": "United States / United Kingdom",
+      "background": "On April 28, 2026, President Donald Trump welcomed King Charles III to the White House and used the occasion to deliver a speech framing America as an Anglo-Saxon nation rooted in shared blood, culture, and heritage rather than universal founding ideals. The Atlantic argues the remarks aligned Trump more explicitly with national conservatives, a faction associated with J.D. Vance, Stephen Miller, and Heritage Foundation president Kevin Roberts. The article links this rhetoric to Trump’s broader second-term agenda, including attacks on birthright citizenship, aggressive immigration enforcement, and pressure on political and media opponents.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s rhetoric normalizes ethnonationalism at the highest level of the American state, making exclusionary politics more legitimate and more durable.",
+          "mechanisms": [
+            "First, presidential language sets the boundary of acceptable political identity. This is because (1) elites and voters use presidential cues to infer what is mainstream, (2) once the head of state frames nationhood in blood-and-heritage terms, fringe white-nationalist ideas become socially laundered, and (3) that shifts the Overton window so future politicians can openly target immigrants and minorities without paying the same reputational cost.",
+            "Second, the speech gives institutional cover to policies that treat immigrants as permanently alien. Three reasons: one, if Americanness is defined by ancestry, then legal status and assimilation stop mattering; two, that makes restrictive immigration policy feel like cultural self-defense rather than discrimination; three, it encourages bureaucrats and activists to interpret enforcement more harshly because they believe they are protecting the 'real' nation.",
+            "Third, this rhetoric accelerates democratic backsliding by creating a hierarchy of political legitimacy. This matters because (1) if only 'heritage Americans' are seen as the true owners of the state, opponents become less entitled to equal rights, (2) it becomes easier to justify intimidation of media, courts, and opposition parties as defense of the nation, and (3) it reduces the norm that power must be exercised for all citizens rather than one ethnic in-group."
+          ]
+        },
+        {
+          "thesis": "Trump’s embrace of Anglo-Saxon nationalism strengthens a transatlantic far-right ecosystem that can coordinate anti-immigrant and anti-liberal politics across the US and UK.",
+          "mechanisms": [
+            "First, symbolic alignment between Trump and King Charles’s visit creates a prestige bridge for nationalist actors on both sides of the Atlantic. This is because (1) British and American conservatives borrow legitimacy from each other, (2) a White House endorsement of heritage politics can be repackaged by UK and European right-wing movements as proof that their ideas are winning globally, and (3) that lowers the cost of coalition-building among anti-immigration parties and activists.",
+            "Second, the speech strengthens the narrative that liberal universalism is a failed elite project. Three reasons: one, it presents national identity as organic rather than civic, two, it casts immigration and multiculturalism as civilizational decline, and three, it gives right-wing parties a simple emotional frame that outcompetes technocratic arguments about labor, growth, or rights.",
+            "Third, the international effect is policy contagion. This matters because (1) when a major power normalizes ethnonational rhetoric, smaller states and allied parties imitate it, (2) it encourages harder border regimes and more suspicion of asylum and citizenship, and (3) it makes multilateral cooperation on migration and minority rights harder by injecting identity politics into diplomacy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The speech is mostly symbolic rhetoric, and its practical impact on American institutions and policy is limited by law, bureaucracy, and electoral backlash.",
+          "mechanisms": [
+            "First, rhetoric does not automatically translate into durable state change. One, the Constitution, courts, and federalism still constrain who can be excluded from citizenship or equal protection; two, bureaucracies and civil society can resist overtly discriminatory implementation; three, media outrage can mobilize opposition and make the rhetoric politically costly outside the base.",
+            "Second, Trump’s comments may be read as red meat for a narrow faction rather than a broad national realignment. One, many Republicans still prefer civic nationalism and economic conservatism over explicit ethnonationalism; two, business interests and suburban voters often dislike overt racial politics; three, if the rhetoric becomes too extreme, it can hurt the coalition in elections and force moderation.",
+            "Third, emphasizing heritage can also be defended as a benign statement about shared culture and assimilation. One, every nation relies on some common language and civic norms; two, concern about rapid immigration is not identical to racism; three, critics may overstate the ideological coherence of Trump’s remarks, which could simply reflect his improvisational style rather than a serious governing doctrine."
+          ]
+        },
+        {
+          "thesis": "A stronger national identity can improve social cohesion and state capacity, especially in an era of fragmented immigration politics and low trust.",
+          "mechanisms": [
+            "First, civic fragmentation is a real governance problem, and appeals to common identity can reduce it. One, shared identity can increase willingness to pay taxes and obey laws; two, it can make redistribution and public goods more politically sustainable; three, it can reduce the sense among native-born voters that the state is indifferent to their cultural concerns.",
+            "Second, stricter assimilationist rhetoric can be politically useful even if the language is blunt. One, it signals that newcomers must adopt core norms; two, it reassures voters who fear uncontrolled migration; three, it can prevent backlash that would otherwise empower even more extreme anti-immigrant forces.",
+            "Third, the article may conflate nationalism with white supremacy. One, not all heritage-based nationalism is racial hierarchy; two, countries routinely celebrate historical continuity without endorsing racial exclusion; three, the debate should distinguish between ugly rhetoric and actual policy discrimination."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether elite rhetoric meaningfully shifts institutions or merely signals to a base that already agrees. Prop wins if you believe presidential language laundered through state power makes exclusionary politics more legitimate and durable; opp wins if you think courts, elections, and coalition constraints keep the speech mostly symbolic.",
+      "stock_connections": [
+        "Ethnonationalism",
+        "White Nationalism",
+        "Overton Window",
+        "Democratic Backsliding",
+        "Minority Rights",
+        "Race to the Bottom",
+        "Immigration Backlash",
+        "Elite Cueing",
+        "State Legitimacy",
+        "Civic vs Ethnic Nationalism"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would reject ethnic nationalism in official state rhetoric",
+        "THBT democratic leaders should never frame national identity in heritage or blood terms",
+        "THP a world where states define citizenship purely through civic values rather than ancestry",
+        "TH, as a liberal democracy, would prioritize civic nationalism over cultural nationalism"
+      ],
+      "data_points": [
+        "Trump said America was defined by 'Anglo-Saxon courage' and 'an English faith in standing firm for what is right, good, and true'",
+        "He said, 'America is merely an idea' is wrong, arguing the cause of freedom did not 'simply appear as an intellectual invention of 1776'",
+        "The article links Trump’s remarks to J.D. Vance, Stephen Miller, Michael Knowles, and Heritage Foundation president Kevin Roberts",
+        "Trump has previously referred to immigrants from 'shithole countries,' said some immigrants should go back to 'their' countries, and claimed immigrants commit crimes at higher rates due to 'bad genes'",
+        "The article says Trump’s second term has combined challenges to birthright citizenship with aggressive immigration enforcement and efforts to entrench power and intimidate opponents"
+      ]
+    },
+    {
+      "id": "3be9a3c3377b",
+      "title": "America’s Violence-Prone Populists Are Becoming a Cross-Ideological Anti-System Party",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/blood-populists-political-violence-ideology/686995/?utm_source=feed",
+      "published": "2026-04-29T18:05:00Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "The article argues that political violence in the United States should be understood less as a left-right issue and more as a distinct belief system the author calls \"Blood Populism.\" It cites a 2024 Violence Prevention Research Program survey at UC Davis finding that as many as 25% of Americans view violence as \"usually or always justified\" for at least one political objective, up to 3% are willing to engage in political violence themselves, and that a month before the first Trump assassination attempt in Butler, Pennsylvania, there was already a concerning belief in the likelihood and necessity of civil war. The piece also claims 2025 was the first year in more than three decades in which left-wing terror plots outnumbered right-wing ones, while emphasizing that right-wing violence has historically been deadlier in the U.S.",
+      "prop_args": [
+        {
+          "thesis": "Treating political violence as a cross-ideological anti-system movement is the right framework because it identifies the real threat: a shared willingness to use force against democratic institutions, regardless of partisan label.",
+          "mechanisms": [
+            "First, this reframes the problem around behavior rather than ideology. This is because (1) violent actors often borrow from multiple traditions, (2) their immediate goal is not policy but coercion, and (3) partisan labels obscure the fact that the same anti-democratic logic can appear on both left and right.",
+            "Second, this improves prevention and enforcement. Three reasons: one, law enforcement can target networks, rhetoric, and mobilization patterns instead of chasing partisan narratives; two, it reduces the incentive for politicians to weaponize isolated incidents for base mobilization; three, it makes it easier to identify people who are radicalizing toward violence before they commit attacks.",
+            "Third, the scale of the problem is already large enough to justify a new category. This matters because if up to a quarter of Americans say violence is sometimes justified and up to 3% are willing to do it themselves, then the issue is not fringe pathology but a durable constituency that can be activated during crises."
+          ]
+        },
+        {
+          "thesis": "Political violence is self-reinforcing, and the current environment of polarization, conspiracy thinking, and economic insecurity makes escalation more likely unless elites actively de-escalate.",
+          "mechanisms": [
+            "First, perceived victimhood and conspiracism create a feedback loop. This is because (1) people who think the other side cheated or staged events become more open to retaliation, (2) each attack is interpreted as proof that institutions are illegitimate, and (3) that interpretation lowers the moral barrier to future violence.",
+            "Second, structural stressors widen the recruitment pool. Three reasons: one, visible wealth disparity makes the system look rigged; two, rapid demographic change and identity-based polarization intensify zero-sum thinking; three, AI and economic uncertainty can amplify paranoia and grievance narratives.",
+            "Third, elite rhetoric matters because it signals permission. This matters because when leaders describe opponents as enemies or subhuman, they normalize the idea that ordinary political competition is no longer sufficient and that extraordinary force is justified."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The article overstates the novelty of a unified \"Blood Populism\" and risks flattening distinct forms of violence into one category that is analytically neat but politically misleading.",
+          "mechanisms": [
+            "First, left-wing and right-wing violence are driven by different motives and targets. One, right-wing violence often centers on anti-government, racial, or status-preservation grievances; two, left-wing violence more often emerges from anti-capitalist or anti-authoritarian protest milieus; three, collapsing them into one label can hide the specific interventions each requires.",
+            "Second, the data may not support a single growing bloc. One, survey willingness to justify violence does not equal actual participation; two, the article itself notes that right-wing violence has historically been deadlier even if incidents fluctuate; three, a temporary rise in left-wing plots does not prove a stable cross-ideological movement.",
+            "Third, overbroad framing can backfire politically. One, it can be used by incumbents to delegitimize dissent and protest generally; two, it may encourage securitized responses that punish speech rather than violence; three, it can deepen mistrust by making ordinary opposition look like extremism."
+          ]
+        },
+        {
+          "thesis": "The bigger driver of political violence is elite polarization and institutional failure, not a standalone ideology of violence, so the solution is democratic repair rather than reclassification.",
+          "mechanisms": [
+            "First, violence often follows incentives created by institutions. One, winner-take-all politics raises the stakes of losing; two, weak trust in courts, media, and elections makes people think peaceful channels are futile; three, when institutions fail to punish incitement consistently, violent actors feel protected.",
+            "Second, the article underweights the role of political entrepreneurs. One, leaders can radicalize supporters by rewarding outrage; two, media ecosystems amplify grievance for attention and fundraising; three, this means violence is downstream of elite strategy, not an autonomous mass party.",
+            "Third, if the problem is institutional legitimacy, then the fix is to reduce zero-sum conflict. One, electoral reform and anti-corruption measures matter more than new labels; two, civic trust-building can lower the appeal of violence; three, treating violence as a separate ideology may distract from the structural reforms that actually reduce it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether violence is best understood as a distinct political constituency or as a symptom of broader institutional decay. The prop framing wins if you think prevention requires identifying the shared behavioral logic of extremists; the opp framing wins if you think the label is too blunt and risks obscuring the specific drivers and remedies for each side.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Political Polarization",
+        "Conspiracy Theory Radicalization",
+        "Elite Cues",
+        "Security vs Liberty",
+        "Moral Panic",
+        "Institutional Trust Collapse",
+        "Zero-Sum Politics"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would treat political violence as a cross-ideological extremist movement rather than a partisan problem",
+        "THBT governments should classify domestic political violence as an anti-system ideology rather than left-wing or right-wing extremism",
+        "THP a world where political violence is policed primarily through network-based extremism frameworks rather than partisan threat labels",
+        "THBT democratic states should prioritize elite de-escalation over punitive crackdowns in response to political violence"
+      ],
+      "data_points": [
+        "Up to 25% of Americans in a 2024 UC Davis Violence Prevention Research Program survey said violence is \"usually or always justified\" to advance at least one political objective",
+        "Up to 3% of Americans in the same survey expressed a willingness to engage in political violence themselves",
+        "A 2021 American Enterprise Institute survey found 9% of Americans \"completely agree\" with the necessity of violence in response to political failures",
+        "2025 was the first year in more than three decades in which left-wing terror plots outnumbered right-wing ones, according to the article",
+        "The article says the 2024 UC Davis survey was conducted about a month before the first Trump assassination attempt in Butler, Pennsylvania",
+        "Gallup found late last year that ages 18 to 29 were the strongest predictor of support for political violence",
+        "The article says OpenAI CEO Sam Altman survived two separate attacks in recent weeks, including a Molotov cocktail thrown at his house and a drive-by shooting"
+      ]
+    },
     {
       "id": "800b4681b2b1",
       "title": "UAE Exit from OPEC Weakens Cartel Discipline and Reorders Global Oil Power",

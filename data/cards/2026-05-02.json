@@ -1,7 +1,60 @@
 {
   "date": "2026-05-02",
-  "last_updated": "2026-05-08T22:31:03Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
+    {
+      "id": "7e545ab5a62c",
+      "title": "U.S. Supreme Court Effectively Ends Voting Rights Act Enforcement Against Racial Vote Dilution",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/requiem-voting-rights-act/687037/?utm_source=feed",
+      "published": "2026-05-02T11:00:00Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "On Wednesday, the U.S. Supreme Court’s conservative majority in Louisiana v. Callais sharply limited the use of race in congressional redistricting and made it much harder for minority voters to challenge discriminatory maps. The article says this follows a 13-year rollback of the Voting Rights Act, building on Shelby County v. Holder (2013) and a 2019 ruling that federal courts cannot police partisan gerrymandering. In Louisiana, where roughly one-third of residents are Black and the state has six House seats, the litigation centered on whether a map that packed Black voters into one district and split them elsewhere unlawfully diluted Black voting power.",
+      "prop_args": [
+        {
+          "thesis": "The ruling entrenches minority disenfranchisement by making race-conscious remedies for vote dilution practically impossible.",
+          "mechanisms": [
+            "First, it raises the evidentiary bar so high that most discriminatory maps will survive review. This is because (1) modern suppression is usually disguised as 'partisan' line-drawing rather than explicit racial intent, (2) the Court now says race can only be considered when 'present-day intentional racial discrimination' is proved, and (3) plaintiffs rarely get smoking-gun evidence when legislatures use facially neutral language.",
+            "Second, it lets states weaponize the partisan/race overlap in the South to evade liability. Three reasons: one, white voters in many southern states vote differently from Black voters, two, Republican mapmakers can claim they are pursuing partisan advantage rather than racial dilution, and three, that distinction collapses the main legal tool used to protect Black representation.",
+            "Third, it destroys the practical enforcement mechanism of the Voting Rights Act, not just its symbolism. This matters because courts can no longer reliably create or preserve majority-Black districts, so states can rapidly re-gerrymander Louisiana, Alabama, Georgia, Mississippi, South Carolina, and Tennessee without meaningful federal constraint."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The decision restores constitutional neutrality by preventing courts from using race as a permanent basis for districting.",
+          "mechanisms": [
+            "First, it reduces race-based sorting in politics. One, the Court can argue that districts should not be drawn by racial quotas or assumptions, two, this avoids treating voters primarily as members of racial blocs, and three, it pushes states toward race-neutral criteria like compactness and geography.",
+            "Second, it preserves democratic legitimacy by limiting judicial overreach. One, elected legislatures—not federal judges—should draw maps in the first instance, two, the Court can claim it is preventing courts from micromanaging political boundaries, and three, this may reduce endless litigation over every redistricting cycle."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether formal race-neutrality is worth the predictable loss of minority political power. Pro side wins because the article shows the legal standard now tracks the reality of discriminatory outcomes only after the harm is already locked in, while the opposition relies on an abstract constitutional principle that does not solve the practical problem of vote dilution.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Minority Rights",
+        "Judicial Overreach",
+        "Gerrymandering",
+        "Institutional Capture",
+        "Race to the Bottom",
+        "Structural Discrimination",
+        "Voter Suppression"
+      ],
+      "motion_areas": [
+        "TH, as the U.S. Supreme Court, would prioritize race-neutral districting even at the cost of minority representation",
+        "THBT federal courts should be able to mandate race-conscious redistricting to prevent vote dilution",
+        "THP a world where the Voting Rights Act’s protections are enforced through automatic preclearance",
+        "THBT the U.S. should adopt independent redistricting commissions to replace partisan map-drawing"
+      ],
+      "data_points": [
+        "Louisiana has 6 House seats and roughly one-third of its residents are Black",
+        "The article says the Supreme Court’s conservative majority spent 13 years narrowing the Voting Rights Act before Callais",
+        "The Congressional Black Caucus now has more than 60 members",
+        "After Shelby County v. Holder in 2013, the VRA’s preclearance formula was struck down as outdated",
+        "In 2019, the Court held that federal courts cannot rule against partisan gerrymandering"
+      ]
+    },
     {
       "id": "801ac06f8ac0",
       "title": "North Korea’s Five-Year Plan Normalizes Nuclear Permanence and Strategic Waiting",

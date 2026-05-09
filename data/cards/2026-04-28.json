@@ -1,0 +1,124 @@
+{
+  "date": "2026-04-28",
+  "last_updated": "2026-05-09T03:50:35Z",
+  "cards": [
+    {
+      "id": "33512f684dc5",
+      "title": "New York City’s School Spending Ratchet Turns Shrinking Enrollment Into a Budget Crisis",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/new-york-city-schools-budget/686971/?utm_source=feed",
+      "published": "2026-04-28T11:00:00Z",
+      "category": "Econ",
+      "region": "United States / New York City",
+      "background": "New York City faces a projected $5 billion budget deficit in 2026, while its Department of Education costs about $40 billion a year, roughly one-third of the city budget. The city spends north of $40,000 per pupil, more than twice the median district, even as enrollment falls from just over 1 million students in 2019–20 to 884,000 in preliminary 2025–26 figures. The article argues that state and city rules, including hold-harmless funding and Maintenance of Effort laws, prevent education spending from falling with enrollment.",
+      "prop_args": [
+        {
+          "thesis": "New York City should be able to cut or restructure school spending because the current system is fiscally unsustainable and misallocates scarce public resources.",
+          "mechanisms": [
+            "First, the current funding formula creates a ratchet effect that locks in spending even as enrollment falls. This is because (1) hold-harmless rules keep school budgets from declining with student numbers, (2) state Maintenance of Effort rules prevent the city from appropriating less for education year-on-year unless revenues fall proportionately, and (3) this means the city is forced to spend more per pupil every year even when the student population shrinks.",
+            "Second, cutting excess education spending would free up money for higher-value city services and reduce the tax burden. Three reasons: one, DOE already consumes about $40 billion, or a third of the city budget; two, the city faces a $5 billion deficit and cannot sustainably fund every program at current levels; three, diverting funds from a shrinking school system to transit, housing, or general services is more efficient than protecting an oversized bureaucracy.",
+            "Third, the status quo is not delivering commensurate educational returns, so marginal dollars have low social value. This matters because (1) NYC spends over $40,000 per pupil, nearly 50 percent more than Los Angeles and Chicago and 150 percent more than Miami, (2) only about one-third of fourth graders are proficient in math and 28 percent in reading, and (3) if spending does not improve outcomes, then preserving it is politically popular but economically wasteful."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "New York City should preserve high education spending because schools are a core public good and the apparent inefficiency is driven by legitimate service needs, not simple waste.",
+          "mechanisms": [
+            "First, high spending reflects the real cost of serving a large, diverse, high-need student population. One, 22 percent of NYC students are classified as disabled versus 15 percent nationally, which requires more staff, specialists, and accommodations; two, the city has a 1:9 pupil-to-teacher ratio including counselors and speech pathologists because many students need individualized support; three, cutting budgets mechanically would reduce services for the most vulnerable students rather than eliminate genuine waste.",
+            "Second, many of the biggest cost drivers are legally and politically constrained entitlements, so 'cuts' are not as easy as they sound. This is because (1) parents can win reimbursement for private services under disability law, with average payouts around $102,000 per student last year, (2) the state class-size mandate requires smaller classes and therefore more teachers, and (3) reducing funding risks lawsuits, protests, and compliance failures that can be more expensive than maintaining spending.",
+            "Third, education spending has long-run fiscal and social returns that are not captured by short-term test scores. Three reasons: one, smaller classes and more support can improve safety, attendance, and student well-being even if NAEP scores remain average; two, underinvestment in schools can accelerate out-migration of families, worsening the city’s demographic decline; three, public education is a redistributive service, so protecting it can be justified even when the budget is tight."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether education spending is treated as protected social investment or as a rigid, low-return cost center. The prop side wins if the clash is about fiscal sustainability and opportunity cost; the opp side wins if the round centers on the legitimacy of disability services and the political danger of cutting core public goods.",
+      "stock_connections": [
+        "Public Goods",
+        "Opportunity Cost",
+        "Bureaucratic Inefficiency",
+        "Fiscal Austerity",
+        "Moral Hazard",
+        "Rent-Seeking",
+        "Principal-Agent Problems",
+        "Redistribution",
+        "State Capacity",
+        "Demographic Decline"
+      ],
+      "motion_areas": [
+        "TH, as New York City, would cut education spending in response to falling enrollment",
+        "THBT cities should be allowed to reduce school budgets proportionally when enrollment declines",
+        "THP a world where public school funding is tied strictly to per-pupil enrollment rather than protected by hold-harmless rules",
+        "THBT state governments should be able to override local school funding mandates in fiscal emergencies"
+      ],
+      "data_points": [
+        "$40 billion annual NYC Department of Education budget",
+        "More than $40,000 spent per pupil in New York City",
+        "NYC DOE is about one-third of the city budget",
+        "Projected NYC budget deficit of $5 billion",
+        "NYC public school enrollment fell from just over 1 million in 2019–20 to 884,000 in preliminary 2025–26 figures",
+        "NYC spending on instructor compensation was 61 percent of the education budget in 2023",
+        "Starting NYC teacher salary is about $69,000; Seattle starting teacher salary is $74,730",
+        "NYC pupil-to-teacher ratio is about 1 instructor for every 9 pupils",
+        "Share of NYC students classified as disabled rose from 11 percent in 2000 to 22 percent today",
+        "Average reimbursement for private disability services was $102,000 per student last year",
+        "Preliminary budget for next year allocates $1.5 billion for private service reimbursements",
+        "About a quarter of NYC schools were below 60 percent capacity by 2022–23",
+        "Fourth-grade NAEP proficiency in NYC: 33 percent in math, 28 percent in reading",
+        "NYC’s per-pupil spending is nearly 50 percent higher than Los Angeles’s and Chicago’s and 150 percent higher than Miami’s"
+      ]
+    },
+    {
+      "id": "48135f7acced",
+      "title": "Trump’s Attack on Birthright Citizenship Collides With a Century of Public Legal Consensus",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/newspapers-history-birthright-citizenship/686946/?utm_source=feed",
+      "published": "2026-04-28T11:00:00Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "The article argues that for more than a century, American newspapers consistently answered questions about the Fourteenth Amendment the same way: children born in the United States are citizens regardless of their parents’ nationality or immigration status. It cites examples from 1894, 1904, 1913, 1914, 1925, 1926, 1937, 1940, 1942, and 1959, showing that editors and immigration officials repeatedly treated birthright citizenship as settled law. The piece is written in the context of Trump v. Barbara, a Supreme Court case challenging birthright citizenship, and notes that conservative efforts to narrow the doctrine gained traction in the 1990s and under Donald Trump.",
+      "prop_args": [
+        {
+          "thesis": "Defending birthright citizenship preserves a long-settled constitutional rule that underpins legal certainty, social integration, and equal membership in the state.",
+          "mechanisms": [
+            "First, preserving the rule protects legal certainty and administrative simplicity. This is because (1) the standard is bright-line—birth on U.S. soil equals citizenship, (2) it avoids case-by-case litigation over parents’ status, and (3) it prevents bureaucratic burden on hospitals, schools, courts, and immigration agencies that would otherwise have to verify lineage for every child.",
+            "Second, it prevents the creation of a hereditary underclass. Three reasons: one, children do not choose their parents’ legal status; two, denying citizenship to U.S.-born children would punish them for their family background; three, it would create a large population of people raised as Americans but treated as outsiders, which weakens civic cohesion and increases exploitation.",
+            "Third, the historical record shows this is not a novel activist reading but a widely understood norm across generations. This matters because (1) courts and the public rely on settled interpretation to preserve legitimacy, (2) overturning a century-plus consensus would signal that constitutional rights can be rewritten by political pressure, and (3) it would normalize selective constitutionalism where rights are stable only when politically convenient."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Restricting birthright citizenship is justified if the state believes the current rule creates incentives for irregular migration and weakens democratic control over membership.",
+          "mechanisms": [
+            "First, opponents can argue the rule creates a pull factor for migration. One, if birth on U.S. soil guarantees citizenship, some families may be incentivized to enter or remain unlawfully to secure status for children; two, this can increase pressure on border and asylum systems; three, governments may see this as undermining immigration enforcement and public confidence in the rule of law.",
+            "Second, they can argue citizenship should reflect a stronger link to political community than mere geography. One, citizenship confers voting rights and access to state benefits, so states have an interest in defining membership tightly; two, they may claim the Fourteenth Amendment was never meant to cover children of temporary or unauthorized migrants; three, narrowing the rule could be framed as restoring democratic control over who joins the polity."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between administrative clarity and perceived sovereignty costs. Prop wins if the round is about rule-of-law stability and equal treatment, because birthright citizenship is a bright-line norm with massive reliance interests; opp only wins if they can prove the migration deterrence benefit is large enough to justify creating a permanent class of U.S.-born noncitizens.",
+      "stock_connections": [
+        "Rule of Law",
+        "Equal Citizenship",
+        "Legal Certainty",
+        "Underclass Creation",
+        "Nativism",
+        "Migration Pull Factors",
+        "State Capacity",
+        "Democratic Legitimacy",
+        "Historical Precedent",
+        "Institutional Trust"
+      ],
+      "motion_areas": [
+        "TH, as the Supreme Court, would uphold birthright citizenship for all U.S.-born children",
+        "THBT the United States should preserve unconditional birthright citizenship",
+        "THP a world where citizenship is determined by birthplace rather than parental status"
+      ],
+      "data_points": [
+        "The article cites repeated newspaper answers from 1894, 1904, 1913, 1914, 1925, 1926, 1937, 1940, 1942, and 1959 all affirming that U.S.-born children are citizens.",
+        "The 1942 Sacramento Bee exchange occurred after Executive Order 9066 authorized the internment of more than 120,000 Japanese Americans, most of whom were U.S. citizens.",
+        "The article says strict immigration quotas and bans became law in 1924, yet questions about children’s citizenship continued into the 1930s and 1940s.",
+        "It notes that conservative calls to renounce birthright citizenship emerged in the 1990s and were later mainstreamed under Donald Trump."
+      ]
+    }
+  ]
+}

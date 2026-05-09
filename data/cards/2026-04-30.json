@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "last_updated": "2026-05-08T22:31:03Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
     {
       "id": "13d08baba985",
@@ -350,6 +350,62 @@
         "Pakistan has integrated the LY-80(N) surface-to-air missile into its fleet",
         "Pakistan has inducted a Sea Sultan Long-Range Maritime Patrol Aircraft to improve ISR",
         "Pakistan tested loitering munitions and inducted an unmanned surface vehicle in naval exercises earlier in 2026"
+      ]
+    },
+    {
+      "id": "15c215ae0c5a",
+      "title": "Copyrighting AI Output Could Decide Whether Creative Labor Survives the Generative AI Shock",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/creative-labor-ai-copyright/687000/?utm_source=feed",
+      "published": "2026-04-30T11:58:29Z",
+      "category": "Business",
+      "region": "United States / Global creative industries",
+      "background": "The article argues that the more important AI-creative labor fight is not whether AI firms infringed copyright by training on human works, but whether AI-generated works can themselves receive copyright protection. In Thaler v. Perlmutter (2024), the D.C. Circuit held that an autonomously AI-generated work cannot be copyrighted because copyright requires a human author; the Supreme Court declined review in March 2026. More than 90 lawsuits have been filed by creators against AI companies over training-data infringement, while major entertainment firms like Netflix and publishers such as Hachette have issued or enforced policies limiting AI use in core creative output.",
+      "prop_args": [
+        {
+          "thesis": "Denying copyright to AI-generated works preserves the economic model that keeps human creators employed in film, music, publishing, and television.",
+          "mechanisms": [
+            "First, it preserves the licensing value of intellectual property. This is because (1) studios, labels, and publishers make money by selling exclusive rights across streaming, adaptation, merchandising, and franchising; (2) if AI output is uncopyrightable, firms cannot reliably exclude competitors from copying it; and (3) without exclusion, the entire business case for paying humans to create original works weakens.",
+            "Second, it forces firms to keep humans in the production chain. Three reasons: one, companies need copyrightable human authorship to maintain enforceable IP; two, they can use AI only as a tool rather than a substitute for writers, actors, illustrators, and musicians; three, this creates a structural incentive to retain labor even when AI is cheaper.",
+            "Third, it slows the race to fully automated content production. This matters because (1) if AI content cannot become commercially viable IP, firms have less reason to invest billions in replacing creative workers; (2) the cost of licensing and clearing rights for AI-heavy works rises; and (3) the market keeps rewarding human-made content that audiences still prefer and that intermediaries can curate."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Allowing AI-generated works to be copyrighted would unlock innovation and reduce the risk that copyright law becomes an artificial barrier to new creative tools.",
+          "mechanisms": [
+            "First, it gives firms and creators a usable incentive structure for investing in AI-assisted production. One, if AI output can never be protected, companies may underinvest in high-quality generative tools; two, they may avoid releasing products that rely on AI because competitors can free-ride immediately; three, this could slow productivity gains in creative sectors.",
+            "Second, it avoids overprotecting incumbents and locking in legacy gatekeepers. One, major studios and publishers already have market power, so tying copyright to human authorship can entrench them further; two, independent creators using AI may need copyright to monetize their work at all; three, a rigid rule may favor large firms with legal teams over small innovators.",
+            "Third, it is difficult to draw a clean line between human and machine authorship in practice. One, prompting, editing, selection, and curation can be genuinely creative acts; two, a bright-line ban may be arbitrary and underinclusive; three, courts may struggle to enforce a standard that treats substantial human direction as non-authorship."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether copyright law should optimize for preserving human labor or for maximizing AI-enabled production. Prop has the structural advantage because copyright is the gatekeeper to monetization in these industries: if AI output cannot be owned, firms have a direct incentive to keep humans in the loop, whereas Opp mostly relies on speculative innovation gains that do not solve the immediate displacement problem.",
+      "stock_connections": [
+        "Technological unemployment",
+        "Creative destruction",
+        "Race to the bottom",
+        "Monopoly power",
+        "Intellectual property incentives",
+        "Labor displacement",
+        "Moral hazard",
+        "Platform enshittification"
+      ],
+      "motion_areas": [
+        "TH, as the US Copyright Office, would refuse copyright protection for AI-generated works absent substantial human authorship",
+        "THBT courts should require a high threshold of human involvement before AI-assisted works are copyrightable",
+        "THP a world where AI-generated content cannot receive copyright protection",
+        "THBT governments should prioritize human authorship requirements over training-data compensation in AI regulation"
+      ],
+      "data_points": [
+        "More than 90 lawsuits have been filed by creators against AI companies over copyright infringement",
+        "Thaler v. Perlmutter (D.C. Circuit, 2024) held that autonomously AI-generated works cannot be copyrighted because copyright requires a human author",
+        "The Supreme Court declined to review Thaler in March 2026",
+        "Netflix production guidelines reportedly bar creators from using AI to generate main characters, key visual elements, or fictional settings central to the story without written approval",
+        "Hachette pulled the book Shy Girl after allegations that portions were AI-written",
+        "OpenAI announced a licensing agreement with Disney for Sora at the end of 2025, then pulled the plug on Sora a few months later",
+        "The article notes that stock photography is especially vulnerable because firms can generate adequate images instead of licensing from companies like Getty"
       ]
     }
   ]

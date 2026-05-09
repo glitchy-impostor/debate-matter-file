@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "last_updated": "2026-05-08T22:31:03Z",
+  "last_updated": "2026-05-09T03:50:35Z",
   "cards": [
     {
       "id": "d39fbe25878a",
@@ -555,6 +555,64 @@
         "Russia will finance 85% of the estimated $15 billion cost of the first nuclear plants as a loan",
         "The World Bank says Kazakhstan’s river flows have decreased by 27% over time",
         "Uzbekistan’s water demand exceeds supply by 23%, highlighting regional water stress"
+      ]
+    },
+    {
+      "id": "c78c7d86ae45",
+      "title": "AI Revenue Surge Makes the Bubble Thesis Harder to Sustain",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/?utm_source=feed",
+      "published": "2026-05-01T11:00:00Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The article argues that the AI sector has moved from a speculative build-out to a revenue-backed boom. Anthropic’s annualized revenue reportedly rose from $14 billion to $30 billion in just two months, while OpenAI, Google, Microsoft, Amazon, CoreWeave, and Micron all reported strong AI-linked growth. The piece cites new coding tools like Claude Code, Codex, and Cursor as the key driver, alongside studies showing AI now speeds up some software tasks by about 20 percent and can complete 65 percent of certain white-collar tasks that previously took humans three to four hours.",
+      "prop_args": [
+        {
+          "thesis": "The AI boom is increasingly grounded in real productivity gains, so the market is more likely to be a durable industrial expansion than a pure speculative bubble.",
+          "mechanisms": [
+            "First, AI has crossed from novelty into measurable labor substitution. This is because (1) coding tasks are highly trainable and objectively verifiable, (2) newer agentic tools like Claude Code can complete tasks with minimal human edits, and (3) firms immediately see output gains, which converts hype into willingness to pay.",
+            "Second, revenue growth is now being pulled by actual enterprise demand rather than investor storytelling. Three reasons: one, paid AI subscriptions among U.S. businesses reportedly rose from about a quarter in early 2025 to over half by today; two, Goldman Sachs found some software firms are already spending up to 10 percent of engineering labor costs on AI tools; three, cloud providers like Google, Microsoft, and Amazon are seeing AI-driven revenue growth of 48 percent, 39 percent, and 24 percent respectively.",
+            "Third, the supply constraint itself shows this is a real demand shock, not a fake bubble. This matters because (1) Anthropic has had to limit use during peak hours, (2) OpenAI scrapped a video app to free compute, and (3) chip prices rising even for Nvidia’s 2022 fourth-best chip indicates scarce inputs are being bid up by genuine usage."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The AI sector still looks bubble-like because revenue growth is concentrated in a narrow use case and is being financed by massive upfront capex that may never pay back.",
+          "mechanisms": [
+            "First, the current demand surge may be overfit to coding rather than the broader economy. One, coding has unusually rich training data and objective verification, so it is easier to automate than law, marketing, or consulting; two, if adoption outside software stalls, then the market for AI tools is much smaller than current infrastructure plans assume; three, data centers built today could become stranded assets once the coding wave saturates.",
+            "Second, the business model remains structurally fragile because the leading firms are still unprofitable. One, Anthropic expects profit only in 2028 and OpenAI in 2030; two, both firms are spending revenue plus more on model development and compute; three, if growth slows even modestly, the long payback period turns current valuations into a classic speculative mismatch between near-term costs and uncertain future cash flows."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI demand is broad-based enough to justify the enormous infrastructure build-out. Prop wins if it proves coding is the leading edge of a wider automation wave; Opp wins if it shows the current revenue spike is too narrow and too capital-intensive to sustain. The structural advantage on Prop is that it has concrete present-day revenue and productivity data, while Opp relies more on extrapolation and sector concentration risk.",
+      "stock_connections": [
+        "Speculative Bubble",
+        "Overinvestment",
+        "Stranded Assets",
+        "Winner-Take-All Markets",
+        "Creative Destruction",
+        "Labor Substitution",
+        "Productivity Shock",
+        "Capital Deepening",
+        "Technological Diffusion",
+        "Dutch Disease"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would heavily subsidize AI infrastructure build-out",
+        "THBT investors should treat the AI sector as a long-term industrial transformation rather than a bubble",
+        "THP a world in which AI coding tools become widely adopted across white-collar work"
+      ],
+      "data_points": [
+        "Anthropic annualized revenue reportedly rose from $14 billion to $30 billion in two months",
+        "U.S. businesses with a paid subscription to at least one AI tool or service rose from about 25% in early 2025 to over 50% today",
+        "Goldman Sachs interviews found some software firms spending up to 10% of total engineering labor costs on AI tools",
+        "Anthropic expects to turn a profit in 2028; OpenAI in 2030",
+        "MIT study: leading AI models completed 65% of selected white-collar tasks by mid-2025, up from 50% in mid-2024",
+        "Model Evaluation & Threat Research found developers were 20% slower with older AI tools, but almost 20% faster with the latest coding tools",
+        "Google cloud revenue up 48%, Microsoft up 39%, Amazon up 24% year-on-year in February, largely driven by AI firms",
+        "CoreWeave annual revenue grew 168% last year; Micron’s revenue nearly tripled",
+        "Nvidia’s fourth-best AI chip from 2022 reportedly costs more today than it did three years ago"
       ]
     },
     {
