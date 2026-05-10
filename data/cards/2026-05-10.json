@@ -1,7 +1,137 @@
 {
   "date": "2026-05-10",
-  "last_updated": "2026-05-10T04:02:02Z",
+  "last_updated": "2026-05-10T08:20:28Z",
   "cards": [
+    {
+      "id": "e3d0ce9687b8",
+      "title": "UK Pension IHT Reform Creates a New Scam Market for Fraudsters Exploiting Tax Anxiety",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/money/2026/may/10/pension-scams-inheritance-tax-loopholes-iht-rules-savings",
+      "published": "2026-05-10T06:00:18Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "The UK will bring unused defined contribution pensions into the inheritance tax net from April 2027, affecting most workplace and all private pensions. The basic tax-free threshold for an estate remains £325,000, but pension providers say the rule change is already creating confusion among savers. Standard Life has warned that criminals are using this uncertainty to pitch fake overseas schemes, often via cold calls, emails, or messages, promising inheritance tax loopholes, pension liberation, or high returns.",
+      "prop_args": [
+        {
+          "thesis": "The pension IHT reform is economically justified even if it creates some short-term scam risk, because the long-run gains in tax fairness and revenue outweigh the transitional costs.",
+          "mechanisms": [
+            "First, the reform closes a major avoidance channel and broadens the tax base. This is because (1) defined contribution pensions were increasingly being used as inheritance vehicles rather than retirement income, (2) bringing them into IHT aligns them with other forms of wealth that already face estate taxation, and (3) a broader base allows the state to raise revenue with less distortion than hiking taxes on labour or consumption.",
+            "Second, the policy improves intergenerational fairness. Three reasons: one, it reduces the advantage of households wealthy enough to accumulate large pension pots; two, it prevents tax planning from disproportionately benefiting already-asset-rich families; three, it makes the system more progressive by taxing inherited wealth rather than only earned income.",
+            "Third, the existence of scams is an argument for better regulation, not for preserving a loophole. This matters because (1) fraud risk can be mitigated through FCA warnings, provider checks, and anti-scam enforcement, (2) leaving the loophole open to avoid criminal exploitation creates a perverse incentive where policy is hostage to fraudsters, and (3) the state can pair reform with consumer education without abandoning the underlying tax change."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The reform is badly timed and predictably increases consumer harm because it creates confusion that criminals can exploit, imposing real costs on ordinary savers.",
+          "mechanisms": [
+            "First, the policy shock expands the scam market by creating uncertainty around a complex rule change. One, people do not understand how pensions, IHT thresholds, and beneficiary taxation interact; two, scammers can weaponize that confusion with fake 'loophole' offers; three, the article shows criminals already use pressure tactics like deadlines and coached responses to defeat provider safeguards.",
+            "Second, the reform may push people into worse financial decisions even when they are not directly scammed. One, savers may rush to transfer money into unsuitable products to avoid perceived tax exposure; two, they may pay fees, lose protections, or lock money into illiquid schemes; three, the resulting losses can exceed any tax revenue the government hopes to collect from a small subset of estates.",
+            "Third, the policy disproportionately harms older and less financially literate households. One, those with larger pension pots are more likely to be targeted because the potential payoff is bigger; two, retirees are more vulnerable to fear-based sales tactics and time pressure; three, the state is effectively imposing a complex compliance burden on people least equipped to navigate it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between structural tax fairness and immediate consumer harm. Prop wins if the round is about whether the state should close avoidance routes and can manage the transition; opp wins if the judge prioritizes the predictable exploitation of confused savers and the real-world losses from scam-driven panic.",
+      "stock_connections": [
+        "Tax avoidance",
+        "Moral Hazard",
+        "Consumer Protection",
+        "Information Asymmetry",
+        "Regulatory Failure",
+        "Progressive Taxation",
+        "Intergenerational Inequality",
+        "Fraud and Scams"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would bring unused pensions into inheritance tax",
+        "THBT governments should prioritize closing tax loopholes even when doing so creates short-term consumer confusion",
+        "THP a world where pension wealth is taxed like other inherited assets"
+      ],
+      "data_points": [
+        "Unused defined contribution pensions will be pulled into the UK inheritance tax net from April 2027",
+        "The basic tax-free threshold for an estate remains £325,000",
+        "Cold calling about pensions is illegal in the UK",
+        "Standard Life says scams exploiting the rule change are likely to become more common before April 2027",
+        "Common scam phrases include 'pension liberation', 'loan', 'loophole', 'savings advance', 'one-off investment' and 'cashback'"
+      ]
+    },
+    {
+      "id": "db34502baa89",
+      "title": "Iranian Tanker War Threatens US Gulf Bases and Reopens the Strait of Hormuz Pressure Point",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/iran-threatens-us-sites-in-middle-east-if-tankers-come-under-fire",
+      "published": "2026-05-10T05:54:28Z",
+      "category": "IR",
+      "region": "Middle East (Gulf of Oman, Qatar, Persian Gulf)",
+      "background": "Iran’s Revolutionary Guards said any attack on Iranian tankers or commercial vessels would trigger strikes on “one of the American centres in the region” and enemy ships. The warning came after US fighter jets reportedly disabled two Iranian-flagged tankers in the Gulf of Oman on Friday, and after a ship caught fire off Qatar on Sunday morning, 23 nautical miles north-east of Doha. The episode sits inside a wider war that began 10 weeks ago with US-Israeli strikes on Iran, with the Strait of Hormuz again becoming a central flashpoint for oil shipping and regional escalation.",
+      "prop_args": [
+        {
+          "thesis": "US pressure on Iranian shipping will backfire by pushing Tehran toward asymmetric retaliation against American bases and Gulf infrastructure, making escalation more likely rather than deterring it.",
+          "mechanisms": [
+            "First, coercing Iranian tankers creates a direct retaliation ladder. This is because (1) Iran can respond without matching US naval power ship-for-ship, (2) it has pre-positioned proxies and missile/drone capabilities near US assets in Qatar and elsewhere, and (3) the regime can frame retaliation as defensive, which lowers the domestic political cost of escalation.",
+            "Second, attacks on commercial shipping weaponize the Strait of Hormuz and convert an economic dispute into a regional security crisis. Three reasons: one, Hormuz is a narrow chokepoint where even limited disruption raises insurance and freight costs; two, Gulf states hosting US forces become exposed as collateral targets; three, once shipping is threatened, every incident becomes a test of resolve, making de-escalation politically harder for both sides.",
+            "Third, the policy undermines diplomacy by convincing Iranian elites that negotiations are cover for coercion. This matters because (1) Araghchi explicitly linked the escalation to doubts about US seriousness, (2) if Tehran believes talks are a trap, moderates lose leverage inside the regime, and (3) the result is a harder Iranian line on ceasefires, inspections, and maritime access."
+          ]
+        },
+        {
+          "thesis": "The crisis strengthens Iran’s leverage because it can use maritime disruption to extract concessions from the US and its allies without needing a conventional battlefield victory.",
+          "mechanisms": [
+            "First, Iran can impose disproportionate economic pain through a few chokepoint incidents. This works because (1) Hormuz carries a major share of global oil flows, (2) even temporary closure or uncertainty spikes prices and insurance premiums, and (3) the US and Gulf monarchies bear the political cost of market instability even if Iran’s own exports are already constrained.",
+            "Second, threatening US sites in Qatar and the wider Gulf raises the cost of continued US military involvement. Three sub-reasons: one, it forces Washington to spend more on air defense and force protection; two, it creates domestic pressure in Gulf partners to distance themselves from US operations; three, it makes any future strike on Iran look like a trigger for wider regional war.",
+            "Third, the threat can split the US coalition by making allies prioritize stability over maximalist containment. This matters because (1) Qatar is already acting as an intermediary, (2) European and regional actors prefer a truce that keeps shipping open, and (3) once allies push for restraint, Washington’s bargaining position weakens."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "US strikes and maritime interdiction are necessary deterrence: they signal that Iran cannot use shipping coercion to blackmail the region without paying a cost.",
+          "mechanisms": [
+            "First, hitting or disabling tankers raises the expected cost of Iranian escalation. Numbered reasons: (1) it shows the US can interdict Iranian maritime assets despite distance and defenses; (2) it forces Iran to spend scarce resources on convoying, concealment, and retaliation planning; (3) it deters commercial actors from helping Iran move oil, tightening the economic squeeze.",
+            "Second, a hard line protects the principle of freedom of navigation. Numbered reasons: (1) if Iran is allowed to threaten Hormuz, every revisionist power learns that chokepoints are bargaining chips; (2) Gulf shipping routes are global public goods, so failure to defend them invites wider disorder; (3) visible enforcement reassures allies like Qatar and Saudi Arabia that the US security umbrella still functions.",
+            "Third, coercion can force Iran back into negotiations from a weaker position. Numbered reasons: (1) the regime is already under pressure from oil export disruption and infrastructure vulnerability, including the apparent slick near Kharg Island; (2) if tanker attacks fail to break the blockade, Iran loses credibility with domestic hardliners and external partners; (3) a credible threat of further strikes can make Tehran accept a truce extension or settlement terms it would otherwise reject."
+          ]
+        },
+        {
+          "thesis": "Iran’s threats are mostly signaling and are constrained by its own vulnerability, so the risk of full-scale escalation is lower than the rhetoric suggests.",
+          "mechanisms": [
+            "First, Iran has strong incentives not to cross the line into a direct war with the US. Numbered reasons: (1) its economy depends on oil export infrastructure such as Kharg Island; (2) direct attacks on US bases would invite overwhelming retaliation; (3) the regime can gain domestic legitimacy from threats without necessarily carrying them out.",
+            "Second, the Gulf security environment contains escalation through intermediaries and diplomacy. Numbered reasons: (1) Pakistan is mediating, (2) Qatar is actively coordinating with Washington, and (3) both sides have reasons to preserve a channel for a truce extension rather than slide into open conflict.",
+            "Third, the incidents may be isolated maritime events rather than a strategic turning point. Numbered reasons: (1) the ship fire off Qatar was caused by an unknown projectile and was quickly extinguished; (2) the reported oil slick off Kharg Island may have been infrastructure leakage rather than deliberate attack; (3) without clear attribution, neither side can easily justify a major escalation without risking international backlash."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion restores deterrence or creates a retaliation spiral. Prop is stronger if the round is about crisis stability because the structure of Hormuz, proxy reach, and US base exposure makes escalation cheap for Iran and costly for everyone else; Opp is stronger if the round is about long-run enforcement because credible interdiction can make maritime blackmail less attractive over time.",
+      "stock_connections": [
+        "Security dilemma",
+        "Deterrence theory",
+        "Escalation ladder",
+        "Freedom of navigation",
+        "Chokepoint leverage",
+        "Coercive diplomacy",
+        "Proxy warfare",
+        "Regional arms race",
+        "Energy security",
+        "Negotiation under duress"
+      ],
+      "motion_areas": [
+        "TH, as the US, would use force to stop Iranian tanker movements in the Gulf",
+        "THBT states should prioritize freedom of navigation over de-escalation in the Strait of Hormuz",
+        "THP a world where Gulf shipping chokepoints are militarily enforced by external powers",
+        "THBT the US should not negotiate with Iran while it threatens maritime commerce"
+      ],
+      "data_points": [
+        "US fighter jet fired on and disabled two Iranian-flagged tankers on Friday",
+        "Iran threatened to hit “one of the American centres in the region” if its tankers are attacked",
+        "A ship caught fire 23 nautical miles (43km) north-east of Doha, Qatar, after being hit by an unknown projectile",
+        "The apparent oil slick off Kharg Island covered more than 20 square miles (52 square kilometres)",
+        "Kharg Island is described as a key oil export terminal and a linchpin of Iran’s battered economy",
+        "Iran largely closed the Strait of Hormuz after the war began on 28 February, driving up oil prices and turmoil in global markets",
+        "The US later imposed a blockade of Iranian ports and then abandoned a short-lived naval operation to reopen the strait",
+        "The war was launched 10 weeks ago by US-Israeli strikes on Iran",
+        "Qatar hosts a major US airbase and is acting as a key intermediary in talks",
+        "At least nine people were killed in Israeli strikes in southern Lebanon on Saturday"
+      ]
+    },
     {
       "id": "8e2dee7f2b66",
       "title": "Australia’s Budget Bets $2bn on Housing Infrastructure to Unlock Supply, But Risks Subsidising State Bottlenecks",
@@ -327,6 +457,59 @@
         "A US-brokered ceasefire reduced the risk of Ukrainian drone attacks on the parade",
         "The ceasefire deal included a planned 1,000-prisoner swap from each side",
         "Putin said he would meet Zelensky only after a final peace treaty had already been agreed"
+      ]
+    },
+    {
+      "id": "249b0e8337cc",
+      "title": "One Nation’s First Seat Signals Far-Right Normalization in Australia’s Rural Politics",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/far-right-australian-party-wins-seat-in-first-election-victory",
+      "published": "2026-05-10T00:27:45Z",
+      "category": "IR",
+      "region": "Australia",
+      "background": "On May 9, 2026, One Nation won the Farrer by-election in Albury, marking the party’s first election victory. The contest was triggered by Sussan Ley’s resignation after she was ousted as Liberal leader by Angus Taylor in February, and it became a rare four-cornered race involving the Liberals, the Nationals, an independent, and One Nation. Polling had suggested the minor party could win as much as 29% of the primary vote in the sprawling rural electorate.",
+      "prop_args": [
+        {
+          "thesis": "One Nation’s breakthrough shows that far-right parties can convert rural discontent into durable electoral power, forcing mainstream parties to shift right and hardening Australian politics.",
+          "mechanisms": [
+            "First, the victory normalizes the far right as a legitimate governing contender. This is because (1) winning a seat turns protest voting into a credible pathway to power, (2) rural voters see that backing a fringe party is no longer wasted, and (3) media and donor attention then follow the winner rather than the traditional parties.",
+            "Second, it pressures the Liberals and Nationals to adopt One Nation’s agenda to stop further leakage. Three reasons: one, the seat was won in a rural electorate where migration, culture-war, and anti-elite messaging are already salient; two, a 29% primary vote ceiling means the party can repeatedly threaten Coalition-held seats; three, once mainstream parties copy the rhetoric, the policy center of gravity moves right even if One Nation never governs nationally.",
+            "Third, the broader democratic cost is polarization and weaker coalition-building. This matters because the four-cornered race shows fragmentation of the conservative vote, and when parties compete by mobilizing grievance rather than broad appeal, it becomes harder to sustain compromise on climate, immigration, and social policy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "One Nation’s seat is a local protest outcome, not a structural realignment, and Australia’s preferential system plus entrenched major parties will limit any long-term far-right breakthrough.",
+          "mechanisms": [
+            "First, the win may reflect unique by-election conditions rather than national momentum. One, the contest was triggered by Sussan Ley’s resignation, so the seat was already destabilized; two, four-cornered races split the anti-One Nation vote and can produce anomalous results; three, by-elections often reward low-turnout protest voting that does not replicate in general elections.",
+            "Second, Australia’s electoral institutions cap far-right translation into power. One, preferential voting means minor parties still need broader second-preference flows to win outside favorable seats; two, the Liberals and Nationals retain stronger organizational networks, fundraising, and candidate pipelines; three, even a seat win does not give One Nation the numbers to shape national policy without coalition partners.",
+            "Third, mainstream parties can absorb the issue without conceding to extremism. This is because (1) they can target rural grievances through economic and regional development policies, (2) they can differentiate on competence and stability rather than ideology, and (3) voters often return to major parties once the protest signal has been registered."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether this is a one-off protest win or the start of a durable far-right coalition realignment. Prop wins if you think symbolic victories change incentives and move the policy center; Opp wins if you think Australia’s electoral system and major-party dominance prevent a single seat from becoming structural power.",
+      "stock_connections": [
+        "Far-right normalization",
+        "Populism",
+        "Protest voting",
+        "Political fragmentation",
+        "Mainstreaming extremism",
+        "Electoral system effects",
+        "Rural-urban divide",
+        "Party realignment"
+      ],
+      "motion_areas": [
+        "TH, as Australia, would treat far-right minor parties as a greater threat to democracy than left-wing populists",
+        "THBT mainstream conservative parties should refuse preference deals with far-right parties",
+        "THP a world where minor far-right parties can win seats in rural by-elections",
+        "TH, as a major party, would adopt a cordon sanitaire against far-right challengers"
+      ],
+      "data_points": [
+        "One Nation won the Farrer by-election on May 9, 2026",
+        "The contest was a rare four-cornered race involving the Liberals, the Nationals, an independent, and One Nation",
+        "Polling suggested One Nation could secure as much as 29% of the primary vote in the electorate",
+        "The by-election was triggered by Sussan Ley’s resignation after she was ousted as Liberal leader by Angus Taylor in February 2026"
       ]
     },
     {
