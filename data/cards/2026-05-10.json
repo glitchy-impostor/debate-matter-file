@@ -1,7 +1,195 @@
 {
   "date": "2026-05-10",
-  "last_updated": "2026-05-10T13:47:21Z",
+  "last_updated": "2026-05-10T16:01:43Z",
   "cards": [
+    {
+      "id": "05d5275c1287",
+      "title": "Hormuz Disruption Exposes How Fragile Global Supply Chains Still Are Despite Pandemic Lessons",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/10/degree-complacency-supply-chains-prepared-impact-iran-war",
+      "published": "2026-05-10T14:00:27Z",
+      "category": "Econ",
+      "region": "Iran / Strait of Hormuz; Europe; US; Asia",
+      "background": "Since late February, Iran has throttled shipping through the Strait of Hormuz after US-Israeli attacks, triggering warnings of a major energy shock, jet fuel shortages within weeks, and even a global recession. Ten weeks into the conflict, markets have remained relatively calm because stockpiles have cushioned the immediate hit, but companies are increasingly warning that inventories are being drawn down. Firms in Europe and the US report limited direct disruption so far, while Asian countries more dependent on Gulf oil have already moved to conserve energy or ration it.",
+      "prop_args": [
+        {
+          "thesis": "A prolonged Hormuz disruption will eventually force a broad inflation shock and production slowdown because global supply chains are still too opaque and too inventory-dependent to absorb a sustained choke on energy and industrial inputs.",
+          "mechanisms": [
+            "First, the shock works through inventory depletion. This is because (1) oil, gas, and key inputs like chemicals and metals are being buffered by emergency stocks right now, (2) those stockpiles are finite and analysts warn OECD inventories could reach 'operational stress levels' as soon as next month, and (3) once inventories run down, firms cannot smooth the interruption and must either cut output or pay much higher spot prices.",
+            "Second, the disruption spreads beyond fuel into manufacturing bottlenecks. Three reasons: one, the article identifies fertiliser, aluminium, and chemicals such as ammonia, methanol, ethylene, caustic soda, and solvents as exposed inputs; two, these are upstream goods used across packaging, metals processing, and industrial production, so shortages cascade into many sectors; three, some damage is physical and logistical, meaning even if Hormuz reopens, chemicals may take months and aluminium longer to normalise.",
+            "Third, the crisis is amplified by weak supply-chain visibility. This matters because (1) many large companies still do not know their tier-three and tier-four dependencies, (2) that ignorance creates false confidence and delays hedging or rerouting, and (3) when shortages finally hit, firms are forced into abrupt production stoppages rather than gradual adjustment, making the macro shock non-linear."
+          ]
+        },
+        {
+          "thesis": "The war will hit Europe and lower-income consumers hardest through inflation, even if headline GDP does not immediately collapse.",
+          "mechanisms": [
+            "First, commodity scarcity transmits directly into consumer prices. This is because (1) global commodities become more expensive as supply diminishes, (2) Europe is not seeing the same outright supply interruptions as Asia but still must bid up prices to secure scarce supply from elsewhere, and (3) higher petrol, diesel, utility, and chemical costs feed through into transport, packaging, and household bills.",
+            "Second, the burden is regressive and politically destabilising. Three reasons: one, less well-off consumers are hurt first because energy and food are necessities; two, governments can only partially shield households through temporary bill support; three, prolonged inflation erodes living standards and creates pressure for compensation spending, which worsens fiscal strain.",
+            "Third, even without a formal recession, stagnation is economically damaging. This matters because (1) firms face margin compression from higher input costs, (2) demand destruction follows when consumers cut discretionary spending, and (3) sectors like chemicals and autos can enter a slow-burn downturn even if aggregate markets remain superficially calm."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The global economy is more resilient than alarmists suggest, so Hormuz disruption will mostly cause temporary price spikes rather than a systemic recession.",
+          "mechanisms": [
+            "First, firms and governments have built real shock absorbers since COVID. One, businesses have diversified suppliers and mapped more of their supply chains than before; two, governments and consumers in Asia have already conserved energy or rationed, reducing immediate panic; three, stockpiles of oil and inputs are still cushioning the first-order shock.",
+            "Second, the macro impact is uneven and therefore contained. One, the US is still buoyed by the AI boom and remains 'doing OK'; two, Europe has seen higher prices but not market collapse; three, if the Strait reopens soon, economists expect stagnation rather than recession, which means the shock is painful but not system-breaking.",
+            "Third, market and policy responses can absorb much of the damage. One, central banks can tighten to contain inflation; two, governments can target subsidies or bill support to the worst-hit households; three, firms can reroute sourcing and pass through some costs over time, preventing a sudden stop in production."
+          ]
+        },
+        {
+          "thesis": "The conflict’s economic effects will be self-limiting because the most exposed actors have incentives to adapt quickly and because the worst-case scenarios depend on a prolonged closure that may not materialise.",
+          "mechanisms": [
+            "First, businesses respond faster than states do. One, companies are already eking out supplies, adjusting production, and seeking alternative inputs; two, the most exposed firms, like Lucid, can revise plans or shift sourcing rather than collapse; three, the fact that major carmakers still report only limited impact suggests adaptation is working.",
+            "Second, the worst outcomes require duration, not just disruption. One, shortages become severe only if the chokehold persists long enough to exhaust inventories; two, the article itself notes that if the Strait reopens soon the economy likely avoids recession; three, political pressure on all sides creates incentives to restore shipping before full systemic damage occurs.",
+            "Third, some sectors and countries benefit, offsetting losses elsewhere. One, shale producers in the US gain from higher energy prices; two, commodity exporters and firms with inventory can profit from scarcity; three, these winners partially cushion the aggregate economic hit and reduce the likelihood of a universal downturn."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether inventory buffers and corporate adaptation can outrun the depletion curve. Prop wins if the closure persists long enough for stockpiles to run out and second-order manufacturing bottlenecks to hit; opp wins if the shock stays temporary and mostly redistributes costs rather than destroying output. The structural advantage is slightly with prop because the article repeatedly stresses finite inventories, weak visibility, and non-linear shortages once the system crosses a threshold.",
+      "stock_connections": [
+        "Supply chain fragility",
+        "Inflation shock",
+        "Demand destruction",
+        "Recession risk",
+        "Inventory depletion",
+        "Globalisation backlash",
+        "Energy security",
+        "Unequal burden of inflation",
+        "Dutch Disease",
+        "Shock absorber theory"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would impose emergency industrial rationing in response to the Hormuz crisis",
+        "THBT governments should prioritise energy stockpiling over market liberalisation in strategic sectors",
+        "THP a world where global supply chains are required to disclose tier-four dependencies",
+        "THBT central banks should tolerate higher inflation rather than crush demand during geopolitical supply shocks",
+        "TH, as a major manufacturing economy, would subsidise domestic reshoring of critical inputs"
+      ],
+      "data_points": [
+        "The Strait of Hormuz has been throttled since the end of February, following US-Israeli attacks 10 weeks ago",
+        "JP Morgan analyst Natasha Kaneva warned OECD oil inventories could reach 'operational stress levels' as soon as next month",
+        "Lucid Motors said the conflict had 'disrupted the supply of materials critical in our manufacturing processes' and could cause 'substantial increases' in raw material and component prices",
+        "The article says jet fuel shortages could emerge 'within weeks' if the chokehold persists",
+        "UK chemical industry members are seeing a 'slow burn' of higher prices for solvents, caustic soda, ammonia, methanol and ethylene",
+        "Tim Figures of BCG said Europe is facing higher prices even without outright shortages because firms must pay more to secure scarce supply",
+        "Neil Shearing of Capital Economics said Europe could face 'a period of stagnation through this year' if the Strait reopens soon, but non-linear shortages emerge if the conflict is prolonged",
+        "Dhaval Joshi of BCA Research said the US is 'doing OK' and that a global recession is hard to see at present"
+      ]
+    },
+    {
+      "id": "79829a573676",
+      "title": "Trump Tariff Refunds Create a Cash-Flow Windfall for Importers — and a New Fight Over Who Keeps the Money",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/10/trump-tariff-refunds-small-business",
+      "published": "2026-05-10T14:00:27Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The US Supreme Court struck down Donald Trump’s tariffs imposed under the International Emergency Economic Powers Act (IEEPA), triggering a refund process for affected importers. Roughly 330,000 importers are estimated to have paid more than $166bn in tariff fees, and federal agencies began processing refunds in late April 2026. The refund system requires the original importer of record or customs broker to file electronically through the ACE Secure Data Portal, with the first phase covering shipments liquidated within the past 80 days and some unliquidated entries. Freight and logistics firms say refunds are already being filed, with some businesses expecting payment in 60 to 90 days.",
+      "prop_args": [
+        {
+          "thesis": "The refund process is a pro-business correction that restores liquidity to firms hit by an unlawful tax and prevents a permanent transfer from importers to the state.",
+          "mechanisms": [
+            "First, it returns working capital to firms that had to front tariff costs. This is because (1) tariffs functioned like an immediate tax on imports, (2) many small and mid-sized importers operate on thin margins and borrow to finance inventory, and (3) a refund of even a fraction of the $166bn collected improves cash flow, inventory replenishment, and hiring capacity.",
+            "Second, it reduces the deadweight and compliance losses created by the original tariff regime. Three reasons: one, the tariffs distorted sourcing decisions and raised landed costs; two, the refund process partially unwinds those distortions by making firms whole; three, the existence of a functioning administrative pathway lowers uncertainty for future trade disputes because firms know unlawful collections can be clawed back.",
+            "Third, it is politically and economically important that the state does not keep revenue from an invalidated policy. This matters because (1) retaining the money would reward overreach and create a moral hazard for future executives, (2) refunds preserve trust in the rule of law and customs administration, and (3) firms can pass some of the recovered value through to consumers if competitive pressure exists."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The refund system is too limited and uneven to meaningfully repair the damage, while creating new administrative and distributional problems.",
+          "mechanisms": [
+            "First, access is bottlenecked through the original importer of record and customs broker. One, businesses that changed brokers or lost records face delays or exclusion; two, brokers can charge fees for filing claims, eating into the refund; three, firms with weaker administrative capacity are least likely to recover money, so the process favors large, organized importers.",
+            "Second, the refunds do not undo the real economic harm caused by the tariffs. One, businesses already absorbed higher financing costs, lost sales, and supply-chain disruption during the tariff period; two, many passed costs on to consumers or cut investment, and those losses are not fully reversible; three, some refunds will be taxable in 2026, reducing the net benefit and creating accounting complexity.",
+            "Third, the process may create windfalls and unfairness rather than broad relief. One, large firms like FedEx, UPS, and DHL can operationalize refunds quickly while smaller firms struggle; two, companies may keep refunds instead of passing them to customers, especially if they already raised prices; three, the state is effectively redistributing money based on paperwork capacity rather than economic need."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between nominal reimbursement and real economic repair: prop wins if the question is whether firms should pursue refunds, while opp wins if the question is whether the policy meaningfully fixes the tariff shock. Prop has the structural advantage on legality and liquidity, but opp has the stronger claim on incidence because the original losses, compliance burdens, and unequal access are only partially reversed.",
+      "stock_connections": [
+        "Rule of Law",
+        "Moral Hazard",
+        "Deadweight Loss",
+        "Liquidity Constraints",
+        "Administrative Burden",
+        "Regressive Incidence",
+        "State Capacity",
+        "Trade Protectionism",
+        "Small Business Vulnerability",
+        "Windfall Gains"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would prioritize refunding unlawfully collected tariffs to importers",
+        "THBT governments should automatically reimburse businesses for taxes collected under later-invalidated trade policies",
+        "THP a world where customs refunds are processed quickly and administratively by the state",
+        "THBT small businesses should pursue tariff refunds even when the process is bureaucratically burdensome"
+      ],
+      "data_points": [
+        "Roughly 330,000 importers paid more than $166bn in Trump tariff fees under IEEPA",
+        "Refund claims began processing in late April 2026",
+        "The first phase covers shipments liquidated within the past 80 days, with some unliquidated entries also being processed",
+        "Businesses are being told to expect refunds in 60 to 90 days",
+        "FedEx, UPS, and DHL have pledged to return tariff refunds to customers",
+        "Refunds made in 2026 will be taxable if the original tariff payments were deducted in 2025"
+      ]
+    },
+    {
+      "id": "b8887afeb09d",
+      "title": "London Hate-Attack Wave Forces Counter-Terror Policing Expansion and Interfaith Security Politics",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/10/two-arrested-arson-attack-former-synagogue-east-london",
+      "published": "2026-05-10T13:49:16Z",
+      "category": "IR",
+      "region": "UK / London / Whitechapel",
+      "background": "Two people were arrested on Sunday by counter-terrorism officers over an arson attack at the former East London Central Synagogue in Whitechapel. Police said CCTV indicated the fire, reported at 5.16am on Tuesday, was deliberately started; only minor damage was caused to gates and a lock and no one was injured. The building was in the process of being sold to a local Somali Muslim organisation. The Metropolitan Police said it has now made 33 arrests in counter-terrorism investigations linked to recent attacks on Jewish, Israeli and Iranian sites, with eight charges so far, and has announced a new dedicated community protection team of 100 extra officers.",
+      "prop_args": [
+        {
+          "thesis": "The state should respond to targeted communal arson as a security threat first, because visible enforcement is necessary to prevent escalation and restore trust across vulnerable communities.",
+          "mechanisms": [
+            "First, a counter-terror framing raises the expected cost of copycat attacks. This is because (1) arson against religious sites is often opportunistic and imitation-prone, (2) rapid arrests and publicized investigations signal that perpetrators will be identified, and (3) higher enforcement risk deters both lone actors and organized networks from treating minority sites as soft targets.",
+            "Second, a dedicated protection posture reduces communal panic and retaliatory spirals. Three reasons: one, minority communities interpret repeated attacks as evidence that the state is absent; two, visible patrols and intelligence-led policing reassure residents and reduce self-protective escalation; three, reassurance matters especially in mixed-faith areas like Tower Hamlets, where one attack can be read as a threat to multiple communities.",
+            "Third, the policy protects social cohesion by preventing a single incident from becoming a broader intercommunal conflict. This matters because (1) the synagogue was being sold to a Somali Muslim organisation, so the attack risks being misread as a sectarian message rather than a criminal act, (2) that ambiguity can fuel suspicion between Jews and Muslims locally, and (3) proactive policing and public messaging can stop extremists from exploiting the incident to widen division."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Over-securitizing hate incidents can backfire by inflaming fear, misclassifying local tensions, and giving extremists the publicity they want.",
+          "mechanisms": [
+            "First, a terrorism lens can deepen communal alienation. One, communities under surveillance may feel collectively suspected rather than protected; two, heavy policing around religious sites can normalize the idea that interfaith spaces are inherently dangerous; three, that can harden mistrust between minorities and the state, especially if the attack was isolated rather than part of a broader campaign.",
+            "Second, the state may overreact to symbolic incidents at the expense of better prevention. One, resources spent on visible patrols can crowd out intelligence work on actual perpetrators; two, treating every attack as part of a coordinated wave can encourage threat inflation and political theater; three, this can produce bad policy that responds to headlines rather than underlying drivers like local grievance, online radicalization, or opportunistic vandalism.",
+            "Third, securitization can worsen intercommunal narratives by turning a local crime into a civilizational story. One, extremists on all sides can use the arrest and police response to claim persecution or victimhood; two, that can intensify polarization between Jewish, Muslim, and wider London communities; three, the result is more identity-based mobilization rather than the quiet normalization needed for coexistence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether visible counter-terror enforcement prevents escalation faster than it creates fear and polarization. Prop has the structural advantage if the round prioritizes immediate protection of vulnerable communities, because the costs of under-enforcement are concrete and fast, while Opp’s harms depend on a longer chain of mistrust and misclassification.",
+      "stock_connections": [
+        "Hate crime deterrence",
+        "Securitization",
+        "Community policing",
+        "Collective punishment",
+        "Minority protection",
+        "Intercommunal tension",
+        "Copycat crime",
+        "Radicalization"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would expand counter-terror policing for hate attacks on religious sites",
+        "THBT states should treat arson attacks on places of worship as terrorism when there is evidence of targeted intimidation",
+        "THP a world where police visibly protect minority religious sites after hate incidents"
+      ],
+      "data_points": [
+        "Two arrests were made on Sunday over the Whitechapel synagogue arson investigation",
+        "The fire was reported at 5.16am on Tuesday at the former East London Central Synagogue",
+        "Only minor damage was caused to a set of gates and a lock; no injuries were reported",
+        "The Met said 33 people have been arrested in counter-terrorism investigations linked to recent attacks on Jewish, Israeli and Iranian sites",
+        "Eight people have been charged out of those 33 arrests",
+        "The Met announced a new dedicated community protection team of 100 extra officers",
+        "The synagogue was in the process of being sold to a local Somali Muslim organisation"
+      ]
+    },
     {
       "id": "96da319af345",
       "title": "US-Israeli Strike on Iran Pushes Tehran Into Existential Security Bargaining",
@@ -402,6 +590,64 @@
       ]
     },
     {
+      "id": "6e5aa07c1a11",
+      "title": "Cape Verde’s Tech-Driven State Strategy Could Reverse Diaspora Brain Drain — Or Create a Subsidy-Dependent Digital Bubble",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/cape-verde-tech-brain-drain",
+      "published": "2026-05-10T06:00:18Z",
+      "category": "Econ",
+      "region": "Cape Verde / West Africa / Portuguese-speaking Africa",
+      "background": "Cape Verde, a 10-island archipelago of about 529,000 people, created a digital economy ministry in 2021 with a goal of making the sector 25% of GDP by 2030. The government has expanded digital governance, internet penetration has reached 75% (about double the African average), and TechParkCV — a £44.78m facility backed largely by an African Development Bank loan — has attracted around two dozen companies. The country also has a diaspora estimated at three to four times its resident population, and the government says the digital push is partly aimed at reducing one of the world’s highest emigration rates relative to population.",
+      "prop_args": [
+        {
+          "thesis": "A state-led digital hub strategy can convert Cape Verde’s diaspora from a source of permanent emigration into a source of return migration, remote work, and high-value domestic job creation.",
+          "mechanisms": [
+            "First, it lowers the economic penalty of staying or returning. This is because (1) digital services and remote-work infrastructure let skilled Cape Verdeans earn global wages without relocating, (2) the special economic zone and TechParkCV reduce startup costs through tax incentives and shared facilities, and (3) the government can create a credible local market for talent by anchoring demand through public digital services.",
+            "Second, it turns the diaspora into an asset rather than a loss. Three reasons: one, a diaspora estimated at three to four times the resident population is a huge network for capital, mentorship, and market access; two, returnees like Jessica Sanches Tavares bring foreign experience and credibility that can upgrade local ecosystems; three, diaspora-facing digital governance makes it easier to maintain economic ties, invest, and launch firms from abroad.",
+            "Third, it creates a path to structural diversification away from tourism dependence. This matters because (1) tourism shocks like Covid exposed how fragile the old model was, (2) tech exports and services are less exposed to island geography than physical industries, and (3) if the sector reaches even part of the 25% of GDP target by 2030, it can generate a new middle class and reduce the incentive to emigrate."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Cape Verde’s tech strategy is likely to remain a narrow, state-subsidized enclave that fails to solve brain drain and may even deepen inequality and dependency.",
+          "mechanisms": [
+            "First, the model may not scale beyond government support. One, up to 100 startup founders are reportedly receiving state funding to cover salaries for at least six staff members, which suggests firms are not yet commercially viable; two, fully subsidized attendance at foreign tech events indicates the ecosystem still depends on public money for basic market access; three, if subsidies fall, many firms may collapse or relocate.",
+            "Second, structural constraints limit whether tech can absorb enough workers to matter. One, Cape Verde’s population is only about 529,000, so the domestic talent pool and local market are small; two, poor air connectivity to Africa makes regional integration and business travel costly; three, a digital hub can create a few high-skill jobs but not enough broad-based employment to reverse one of the world’s highest emigration rates.",
+            "Third, the strategy may reproduce postcolonial dependency rather than end it. One, the country is borrowing heavily — TechParkCV was financed mainly by an African Development Bank loan — so the state is taking on debt for uncertain returns; two, the model is explicitly benchmarked on foreign examples like Estonia and depends on external cables, foreign clients, and global capital; three, if the best talent is trained for export-oriented remote work, the country may simply become a talent feeder for richer markets rather than a true innovation base."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the policy changes the underlying incentives to leave or merely creates a small elite sector on top of a weak economy. Prop wins if the focus is on retention, diaspora linkage, and diversification; opp wins if the round is about scale, fiscal sustainability, and whether a tiny island state can build a self-sustaining tech ecosystem.",
+      "stock_connections": [
+        "Brain Drain",
+        "Dependency Theory",
+        "State-led Development",
+        "Dutch Disease",
+        "Subsidy Dependence",
+        "Economic Diversification",
+        "Diaspora Capital",
+        "Comparative Advantage",
+        "Postcolonial Development"
+      ],
+      "motion_areas": [
+        "TH, as a small developing state, would prioritize building a digital services hub over traditional industrial policy",
+        "THBT African governments should subsidize return migration of skilled diaspora workers",
+        "THP a world where small states can compete for global tech services through special economic zones",
+        "THBT development policy should focus on retaining talent rather than maximizing short-term GDP growth"
+      ],
+      "data_points": [
+        "Cape Verde has about 529,000 residents across 10 islands",
+        "The Cape Verdean diaspora is estimated at three to four times the resident population",
+        "Internet penetration in Cape Verde is 75%, roughly double the African average",
+        "The digital economy ministry was created in 2021 with a target of making the sector 25% of GDP by 2030",
+        "TechParkCV cost £44.78m and is backed largely by an African Development Bank loan",
+        "TechParkCV has attracted about two dozen companies so far",
+        "Up to 100 startup founders are reportedly receiving government funding to cover salaries for at least six staff members",
+        "Cape Verde will host the Web Summit in December, its first appearance on the African continent since the event began in 2009"
+      ]
+    },
+    {
       "id": "db34502baa89",
       "title": "Iranian Tanker War Threatens US Gulf Bases and Reopens the Strait of Hormuz Pressure Point",
       "source": "Guardian",
@@ -476,6 +722,69 @@
         "The war was launched 10 weeks ago by US-Israeli strikes on Iran",
         "Qatar hosts a major US airbase and is acting as a key intermediary in talks",
         "At least nine people were killed in Israeli strikes in southern Lebanon on Saturday"
+      ]
+    },
+    {
+      "id": "8b06d8a6c6ca",
+      "title": "Europe’s Push for Defence Sovereignty Risks Trading US Dependence for a Fragile Start-Up Arms Race",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones",
+      "published": "2026-05-10T04:00:15Z",
+      "category": "IR",
+      "region": "Europe / UK / Ukraine",
+      "background": "Europe is accelerating defence spending after Russia’s war in Ukraine and Donald Trump’s wavering commitment to Nato sharpened fears of overreliance on the US. The EU has promised €800bn for defence over four years, while the UK is under pressure to raise spending and publish a delayed defence investment plan amid a reported £28bn funding gap. The article focuses on a new wave of European defence startups building cheap drones and interceptors for Ukraine and Nato, including Tekever, Helsing, Quantum Systems, Stark Defence, Frankenburg, and Skycutter.",
+      "prop_args": [
+        {
+          "thesis": "Europe should prioritise defence sovereignty by building its own low-cost weapons ecosystem, because it is the only way to match the drone age, reduce strategic dependence on the US, and create a faster-adapting military-industrial base.",
+          "mechanisms": [
+            "First, domestic production solves the new economics of war. This is because (1) cheap drones and interceptors are now the decisive battlefield technology, (2) Europe’s legacy systems are too expensive to trade efficiently against mass Shahed-style attacks, and (3) startups like Skycutter and Frankenburg can produce interceptors for roughly $2,000 to low five figures, compared with Patriot interceptors costing millions, so Europe can finally fight cost-imposing wars instead of bleeding money on air defence.",
+            "Second, sovereignty reduces geopolitical vulnerability. Three reasons: one, buying off-the-shelf from the US cedes control over supply, upgrades, and wartime access; two, Trump’s wavering on Nato shows that American guarantees are no longer fully reliable; three, dependence on foreign parts, especially from China, creates a supply-chain choke point that adversaries can exploit in sanctions, export controls, or wartime disruption.",
+            "Third, a homegrown ecosystem is structurally better suited to the pace of modern conflict. This matters because (1) drone warfare changes weekly through jamming and counter-jamming, (2) companies embedded with Ukrainian units can iterate dozens or even 100+ times in a few years, and (3) long procurement cycles from traditional primes are too slow, so Europe needs industrial capacity that can scale and adapt in real time rather than buying one-off platforms that are obsolete on delivery."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Europe’s defence-sovereignty push is likely to waste money, fragment procurement, and produce politically convenient but militarily unproven duplication of capabilities already available from the US.",
+          "mechanisms": [
+            "First, sovereignty can become an expensive industrial policy rather than a military solution. One, Europe is pouring money into startups with many promises still unproven; two, duplicating US capabilities means paying twice for similar systems instead of pooling demand for the best available kit; three, fragmented national procurement across the UK, Germany, France, and others prevents scale economies and keeps unit costs high.",
+            "Second, the new ecosystem may be too unstable for serious defence planning. One, many of these firms are venture-backed unicorns that depend on future demand rather than guaranteed contracts; two, if governments delay funding, firms like Skycutter may relocate to countries that pay faster, undermining domestic industrial goals; three, rapid iteration in wartime does not automatically translate into reliable mass production, maintenance, and sustainment for peacetime militaries.",
+            "Third, anti-US sovereignty rhetoric can backfire strategically. One, Europe still depends on American intelligence, logistics, and high-end systems for deterrence; two, politicising procurement around anti-Trump or anti-Palantir sentiment risks excluding effective suppliers for symbolic reasons; three, if Europe weakens transatlantic interoperability, Nato becomes less effective exactly when Russia remains the primary threat."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether sovereignty actually increases usable military capability or just creates a more expensive, slower, and more fragmented procurement system. Prop wins if the judge believes the drone revolution has made speed, scale, and supply-chain control more important than legacy alliances; Opp wins if they think Europe’s real problem is not dependence but underinvestment and procurement dysfunction, which sovereignty alone cannot fix.",
+      "stock_connections": [
+        "Strategic Autonomy",
+        "Military-Industrial Complex",
+        "Arms Race",
+        "Dependency Theory",
+        "Supply Chain Security",
+        "Technological Diffusion",
+        "Procurement Failure",
+        "Alliance Reliability",
+        "Security Dilemma",
+        "Industrial Policy"
+      ],
+      "motion_areas": [
+        "TH, as Europe, would prioritise defence sovereignty over transatlantic procurement",
+        "THBT European states should subsidise domestic drone and missile startups over established US defence firms",
+        "THP a world where Nato members are required to source critical weapons components domestically",
+        "THBT the EU should treat defence manufacturing as a strategic sovereignty sector akin to energy"
+      ],
+      "data_points": [
+        "EU has promised €800bn for defence over four years",
+        "UK defence investment plan is months overdue amid an alleged £28bn funding gap",
+        "Gen Sir Roly Walker wants UK equipment to be 20% survivable, 40% attritable, and 40% consumable",
+        "Shahed drones are estimated to cost about $30,000 each",
+        "Skycutter says its cheapest ground-to-air interceptors cost about $2,000",
+        "Frankenburg’s guided missiles are understood to cost in the low five figures (USD)",
+        "Tekever has 1,200 people and has created more than 100 iterations of its main product in the first three years of the Ukraine war",
+        "Skycutter has 15 people in the UK and 50 contractors in Ukraine",
+        "BAE Systems warned work on a next-generation fighter jet would stop in June without more funding",
+        "Tekever reached a billion-dollar valuation last year",
+        "Helsing, Quantum Systems, Stark Defence, and Tekever are among the European defence-tech unicorns",
+        "Palantir is backed by Peter Thiel; Anduril’s Palmer Luckey hosted a Trump fundraiser"
       ]
     },
     {
