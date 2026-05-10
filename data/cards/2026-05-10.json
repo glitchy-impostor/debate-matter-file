@@ -1,7 +1,297 @@
 {
   "date": "2026-05-10",
-  "last_updated": "2026-05-10T10:21:17Z",
+  "last_updated": "2026-05-10T13:47:21Z",
   "cards": [
+    {
+      "id": "96da319af345",
+      "title": "US-Israeli Strike on Iran Pushes Tehran Into Existential Security Bargaining",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/iran-submitted-response-to-us-peace-plan-proposal-irna-reports",
+      "published": "2026-05-10T12:33:53Z",
+      "category": "IR",
+      "region": "Iran / United States / Israel",
+      "background": "IRNA reported that Iran has submitted a response to a US peace plan proposal. The article’s context notes that an unprecedented US and Israeli attack on Iran on Saturday has already gone beyond prior strike-and-retaliation cycles. Bloomberg says Tehran is treating the conflict as an existential threat, indicating that any negotiation is occurring under acute military pressure rather than routine diplomacy.",
+      "prop_args": [
+        {
+          "thesis": "The US-Israeli attack makes a negotiated response more likely to produce de-escalation than continued confrontation, because it forces Iran to trade short-term concessions for regime survival.",
+          "mechanisms": [
+            "First, the strike changes Iran's bargaining calculus from prestige-maximization to survival-maximization. This is because (1) the attack is described as unprecedented, so Tehran cannot assume escalation will remain bounded, (2) existential-threat framing increases the value of ceasefire and sanction relief relative to symbolic resistance, and (3) when leaders fear regime vulnerability, they are more willing to accept imperfect deals to buy time.",
+            "Second, a peace-plan response can interrupt the strike-retaliation spiral. Three reasons: one, it creates a diplomatic off-ramp that reduces the need for immediate military signaling; two, it gives the US and Israel a channel to claim deterrence has worked without further escalation; three, it lowers the risk of miscalculation from rapid tit-for-tat attacks that can accidentally widen into regional war.",
+            "Third, even limited engagement can stabilize the wider region. This matters because (1) Gulf states, shipping lanes, and energy markets are highly exposed to Iran-Israel conflict spillover, (2) a pause in hostilities reduces incentives for proxy activation by allied militias, and (3) de-escalation preserves the possibility of later verification, inspections, or prisoner/sanctions exchanges that are impossible during active war."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The attack makes meaningful peace less likely because it hardens Iranian resolve, delegitimizes moderates, and incentivizes retaliation over compromise.",
+          "mechanisms": [
+            "First, coercive strikes can backfire by strengthening hardliners. One, external attack allows the regime to frame compromise as capitulation to foreign aggression; two, moderates who advocate diplomacy lose credibility when they cannot protect sovereignty; three, nationalist backlash makes public acceptance of concessions politically costly.",
+            "Second, the conflict environment makes any proposal unreliable. One, if Iran believes the US and Israel can strike while talks are ongoing, it has less reason to trust future commitments; two, without credible enforcement guarantees, Tehran may view a deal as a trap to extract concessions before another attack; three, this pushes both sides toward hedging and rearmament rather than durable settlement.",
+            "Third, the most likely immediate effect is escalation management, not peace. One, Iran may respond to restore deterrence and domestic legitimacy; two, Israel and the US may interpret any Iranian move as proof that pressure is working, encouraging further coercion; three, once both sides are locked into signaling strength, the diplomatic window closes quickly."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion creates leverage for compromise or destroys the trust needed for any deal. Prop wins if the round is about immediate conflict termination under existential pressure; Opp wins if the judge prioritizes long-run credibility, because strikes can permanently poison negotiations and entrench hardliners.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Security Dilemma",
+        "Rally Around the Flag",
+        "Hardliner Empowerment",
+        "Credible Commitment Problem",
+        "Escalation Spiral",
+        "Deterrence Failure",
+        "Regional Spillover"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue peace negotiations with Iran after a military strike",
+        "THBT coercive military pressure is more effective than sanctions in forcing adversaries to negotiate",
+        "THP a world where nuclear-armed states are forced into immediate post-strike diplomacy"
+      ],
+      "data_points": [
+        "Bloomberg describes the US and Israeli attack on Iran as 'unprecedented'",
+        "The article says the conflict has already surpassed previous strike-and-retaliation cycles",
+        "Tehran is treating the conflict as an 'existential threat'",
+        "IRNA reported that Iran submitted a response to the US peace plan proposal"
+      ]
+    },
+    {
+      "id": "2e9cc8c641de",
+      "title": "Starmer’s Local Election Collapse Accelerates Britain’s Fragmentation Into a Five-Party System",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green",
+      "published": "2026-05-10T12:27:36Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "In local elections held across Britain last week, Labour lost more than 1,100 seats out of roughly 5,000 contested across 136 councils, while Reform UK gained more than 1,400 seats. The Conservatives also lost over 500 seats, while the Greens gained more than 300 and the Liberal Democrats more than 150. The results triggered renewed calls for Prime Minister Keir Starmer to resign, though he said he intends to lead Labour into the next general election, due before May 2029.",
+      "prop_args": [
+        {
+          "thesis": "Labour’s collapse is evidence that Britain’s political center cannot deliver economic stability, making fragmentation and policy volatility more likely unless a new governing coalition emerges.",
+          "mechanisms": [
+            "First, the loss of over 1,100 Labour seats signals that voters are no longer rewarding the party most associated with governing competence. This matters because (1) weak local results usually foreshadow national punishment, (2) investors and businesses read that as a sign the government lacks a durable mandate, and (3) a leader under internal revolt has less room to make unpopular but necessary fiscal choices.",
+            "Second, the rise of Reform UK and the Greens shows that economic dissatisfaction is now being translated into multi-directional protest voting rather than a simple swing back to the Conservatives. Three reasons: one, Reform channels anti-establishment anger into anti-immigration and anti-tax politics, two, the Greens capture voters who want more redistribution and public investment, and three, the collapse of both major parties makes coalition-building and legislative bargaining harder.",
+            "Third, this matters because fragmented party systems produce weaker economic governance. The biggest effect is that governments become more likely to delay reforms, rely on short-term giveaways, and avoid politically costly spending cuts or tax rises, which increases uncertainty for markets, local authorities, and public services."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The local election losses are a midterm protest vote, not proof that Britain is structurally ungovernable or that Labour’s economic agenda has failed.",
+          "mechanisms": [
+            "First, local elections are a low-stakes venue for punishment. One, voters often use them to express frustration without changing national policy preferences, two, turnout is lower and more volatile than in general elections, and three, local issues and candidate quality can distort the result away from a clean verdict on the government.",
+            "Second, Labour still has time to recover before the next general election. One, the vote is not until before May 2029, two, Starmer can still reset the agenda with economic improvements or visible delivery, and three, opposition fragmentation may actually help Labour by splitting anti-government votes among Reform, Conservatives, Greens, and nationalists.",
+            "Third, the rise of multiple parties does not automatically create instability. One, Britain’s electoral system still rewards concentrated national support, two, Labour can still win with a plurality if the opposition remains divided, and three, a fragmented opposition can make it easier for the governing party to hold power even with mediocre approval ratings."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether these results are a temporary protest signal or the start of durable party-system realignment. Prop wins if you think fragmentation itself raises the cost of governing and makes economic policy less credible; opp wins if you think the next election is still far away and the electoral system will convert opposition fragmentation into Labour survival.",
+      "stock_connections": [
+        "Midterm punishment",
+        "Party system fragmentation",
+        "Protest voting",
+        "Electoral volatility",
+        "Coalition instability",
+        "Anti-incumbency",
+        "Populism",
+        "Nationalism",
+        "Left-populist backlash",
+        "Legitimacy crisis"
+      ],
+      "motion_areas": [
+        "TH, as the Labour Party, would prioritize governing competence over ideological purity",
+        "THBT Britain should move to a proportional representation system",
+        "THP a world where local elections are treated as binding indicators of national legitimacy",
+        "THBT center-left parties should adopt tougher immigration and fiscal discipline to defeat populists",
+        "THBT the rise of multi-party politics is good for the United Kingdom"
+      ],
+      "data_points": [
+        "Labour won just over 1,000 of roughly 5,000 contested council seats and lost more than 1,100 seats it previously held",
+        "Reform UK gained more than 1,400 seats in the local elections",
+        "The Conservatives lost over 500 seats",
+        "The Green Party gained more than 300 seats",
+        "The Liberal Democrats gained more than 150 seats",
+        "Labour lost the most seats of any party across 136 council elections",
+        "The next U.K. general election must be held before May 2029",
+        "Reform took control of Essex county council, Havering, and Sunderland",
+        "Plaid Cymru won the most seats across Wales, while the SNP won the most seats in Scotland for the fifth election in a row"
+      ]
+    },
+    {
+      "id": "a027a19dde3e",
+      "title": "US World Cup Security Becomes a Test of Counter-Terror Capacity Under Iran Tensions",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/football/2026/may/10/fifa-world-cup-terrorism-risk-iran-war",
+      "published": "2026-05-10T12:00:26Z",
+      "category": "IR",
+      "region": "United States; Iran; Israel",
+      "background": "The 2026 FIFA World Cup will run for about six weeks across the US, Canada and Mexico, with 104 matches in total and 78 hosted in the United States across 11 cities. US authorities have designated only the final at MetLife Stadium in East Rutherford, New Jersey as a national special security event (NSSE), while the other matches will be SEAR 1 or 2 events, the two highest risk rankings. Counter-terror experts cited heightened concern over homegrown violent extremists, soft targets like fan festivals and transport hubs, and the strain on federal law enforcement capacity amid the US-Israel conflict with Iran.",
+      "prop_args": [
+        {
+          "thesis": "The World Cup will force the US to expose a large, symbolically valuable event to unacceptable security risk because the tournament’s scale overwhelms normal counter-terror architecture.",
+          "mechanisms": [
+            "First, the tournament creates a dispersion problem. This is because (1) there are 78 US matches across 11 cities, (2) security must cover not just stadiums but hotels, transport links, fan festivals, and watch parties, and (3) threat actors only need one weak point in a long chain to succeed.",
+            "Second, the threat environment is unusually hard to police because lone actors and small cells are difficult to detect in advance. Three reasons: one, radicalization can happen online without operational communications; two, soft targets are crowded but lightly screened compared to stadiums; three, drones and other low-cost tools lower the barrier to attack.",
+            "Third, the event becomes a magnet for geopolitical spillover from the Iran conflict. This matters because (1) Iran-linked plots historically rely on criminal intermediaries and opportunistic targets, (2) high-profile matchups like a possible Iran v US game create symbolic incentives, and (3) the presence of foreign elites and rival national groups increases the payoff of disruption."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The US can secure the World Cup because it has the institutional experience, federal resources, and layered event-security tools to absorb the risk.",
+          "mechanisms": [
+            "First, the US already has a mature playbook for mega-events. One, it has secured Super Bowls and other mass gatherings before; two, the final alone gets NSSE-level protection with Secret Service, FBI, FEMA, flight restrictions, and counter-drone systems; three, SEAR 1 and 2 still trigger federal law-enforcement deployment for other matches.",
+            "Second, the most dangerous threats are not the ones tied to Iran, but ordinary domestic extremists whose plots are not uniquely worsened by the tournament. One, the article itself says sleeper-cell fears may be overblown; two, Iran lacks the personnel to mount large-scale direct attacks in the US; three, many Iran-linked plots are amateurish and dependent on intermediaries, making them harder to operationalize than the rhetoric suggests.",
+            "Third, the security burden is manageable because authorities can prioritize hardening the highest-value nodes rather than every crowd. One, stadiums are already hard targets with screening and perimeters; two, intelligence-sharing can focus on the most likely venues and travel corridors; three, the existence of a visible security posture itself deters opportunistic attackers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a high-consequence but low-probability attack environment and the state’s ability to reduce risk through layered security. Prop wins if it proves that the number of venues and soft targets creates unavoidable exposure; Opp wins if it frames the threat as manageable because the US can concentrate resources on the most important nodes and the Iran link is overstated.",
+      "stock_connections": [
+        "Soft Targets",
+        "Lone Wolf Terrorism",
+        "Security Overstretch",
+        "Intelligence Failure",
+        "Counter-terrorism Capacity",
+        "Spillover from Regional Conflict",
+        "Deterrence",
+        "Risk Concentration"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize hosting the World Cup despite elevated terror risks",
+        "THBT major sporting events should be protected through centralized federal security rather than local autonomy",
+        "THP a world where states cancel or downgrade mass events when counter-terror capacity is stretched",
+        "THBT the security risks of mega-events are more likely to come from domestic extremists than foreign state actors"
+      ],
+      "data_points": [
+        "2026 World Cup will have 104 matches across the US, Canada and Mexico",
+        "The US will host 78 matches in 11 cities",
+        "Only the final at MetLife Stadium is designated an NSSE",
+        "FEMA has allocated $625m for World Cup security and emergency preparedness",
+        "East Rutherford, New Jersey is about 10 miles from Manhattan",
+        "The article cites the 2024 Trump assassination attempt in Butler, Pennsylvania and the 6 January 2022 Capitol siege as examples of communications breakdowns",
+        "A 1 January 2025 New Orleans attack killed 14 people and injured dozens, with an Isis flag later found in the vehicle",
+        "In March, an attacker with a prior Isis-support conviction killed one instructor and injured two cadets at Old Dominion University"
+      ]
+    },
+    {
+      "id": "d4e4268e287b",
+      "title": "JP Morgan Proxy Fight Pits Founder-Like CEO Power Against Board Independence",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/10/advisers-urge-jp-morgan-investors-to-vote-to-split-chair-and-ceo-positions",
+      "published": "2026-05-10T12:00:25Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "ISS and Glass Lewis have urged JP Morgan shareholders to back a resolution at the bank’s annual general meeting on 19 May 2026 that would split the chair and CEO roles into two separate offices. Jamie Dimon has held both roles since 2005/2006, and the bank is America’s largest lender; Dimon is estimated to be worth $2.6bn. JP Morgan opposes the proposal, arguing there is no evidence independent chairs improve performance and pointing to its long record of outperformance versus peers.",
+      "prop_args": [
+        {
+          "thesis": "Separating the chair and CEO roles at JP Morgan would improve oversight, reduce conflicts of interest, and strengthen long-term shareholder protection.",
+          "mechanisms": [
+            "First, an independent chair creates a real check on management power. This is because (1) the board can no longer be led by the same person it is supposed to supervise, (2) agenda-setting power shifts away from the CEO, and (3) directors are more willing to challenge risky decisions when the chair is not also the executive whose performance is under review.",
+            "Second, splitting the roles improves succession and institutional resilience. Three reasons: one, it prevents the company from becoming dependent on a single dominant figure; two, it makes leadership transitions less chaotic when Dimon eventually steps down; three, it reduces the risk that a temporary vacuum turns into a governance crisis if the chair-CEO role is vacated unexpectedly.",
+            "Third, the governance gains matter more than short-term performance claims. This matters because (1) strong recent returns do not prove the structure is optimal, only that Dimon has been effective, (2) shareholders need protection against future underperformance or misconduct after he exits, and (3) at a bank of JP Morgan’s size and complexity, even small oversight failures can create outsized systemic and reputational harm."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Keeping the chair and CEO roles combined preserves strategic clarity, speed, and the proven leadership structure that has delivered strong returns for JP Morgan.",
+          "mechanisms": [
+            "First, dual-hatting can improve decision-making in a complex financial institution. One, it avoids duplication and internal turf wars between chair and CEO; two, it allows faster responses in crises and market shocks; three, it keeps accountability concentrated in one person who can be clearly rewarded or removed by shareholders.",
+            "Second, the current structure has evidence of success. One, JP Morgan says the arrangement has overseen long-term strong financial performance and outperformance versus peers; two, the bank argues there is no demonstrated link between independent chairs and better results; three, forcing a change because of abstract governance norms risks damaging a model that has worked in practice.",
+            "Third, the proposal can weaken orderly succession rather than improve it. One, the board has already indicated it intends to separate the roles after Dimon steps down, so the issue is timing rather than principle; two, imposing an immediate split may constrain flexibility in a transition period; three, a lead independent director can provide oversight without disrupting leadership continuity."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between ex ante governance safeguards and ex post performance evidence. Prop wins if they prove that concentrated power at a systemically important bank creates unacceptable tail risk, while Opp wins if they frame this as unnecessary interference in a proven leadership model with no clear evidence of better outcomes.",
+      "stock_connections": [
+        "Principal-agent problem",
+        "Corporate governance",
+        "Board independence",
+        "Managerial entrenchment",
+        "Key person risk",
+        "Institutional resilience",
+        "Shareholder primacy",
+        "Regulatory capture"
+      ],
+      "motion_areas": [
+        "TH, as a shareholder, would vote to split the chair and CEO positions at major banks",
+        "THBT large public companies should be required to separate the roles of chair and CEO",
+        "THP a world where proxy advisers have stronger influence over corporate governance votes"
+      ],
+      "data_points": [
+        "JP Morgan shareholders vote on the resolution at the annual general meeting on 19 May 2026",
+        "Jamie Dimon has held the CEO role since 2005 and the chair role since 2006",
+        "Dimon is estimated to be worth $2.6bn (£1.9bn)",
+        "JP Morgan is America’s largest bank",
+        "ISS said the size and complexity of JP Morgan makes it difficult for one person to run both the company and the board",
+        "Glass Lewis said an independent chair would be better able to oversee executives and set a pro-shareholder agenda",
+        "Trump signed an executive order in December 2025 aimed at reining in ISS and Glass Lewis",
+        "JP Morgan said its asset management arm now uses an internal AI-powered platform to decide proxy votes instead of ISS and Glass Lewis"
+      ]
+    },
+    {
+      "id": "d3bbb7a50220",
+      "title": "Trump’s Overdose Policy Mix Undermines Harm Reduction While Expanding Enforcement Tech",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/10/trump-administration-overdose-prevention-policies",
+      "published": "2026-05-10T12:00:25Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "In April 2026, the Substance Abuse and Mental Health Services Administration (Samhsa) said it would stop funding fentanyl and adulterant test strips, which are used to identify dangerous drugs before consumption. At the same time, the Trump administration proposed budget cuts that could remove $10bn from addiction and overdose prevention and research, even as it unveiled a National Drug Control Strategy in May that says it wants to expand naloxone access, treatment, interdiction technology, and wastewater surveillance. Experts quoted in the article say the policies are internally inconsistent and would weaken harm-reduction infrastructure just as overdose risks remain high and the drug supply is becoming more volatile, including with ultra-potent nitazines.",
+      "prop_args": [
+        {
+          "thesis": "The Trump administration’s contradictory overdose policy will increase preventable deaths because it removes the cheapest, most immediate tools that let users avoid contaminated drugs.",
+          "mechanisms": [
+            "First, banning funding for fentanyl test strips cuts off a low-cost prevention layer before consumption. This is because (1) users can identify fentanyl or adulterants before taking a dose, (2) they can then choose not to use, use less, or use with someone present, and (3) that directly reduces overdose incidence rather than merely treating overdoses after they happen.",
+            "Second, the policy weakens the entire harm-reduction chain by removing complementary interventions one by one. Three reasons: one, CDC messaging on 'never use alone' was already blocked, two, naloxone only works after an overdose has begun, and three, removing test strips means the system loses the only tool that can prevent the overdose in the first place.",
+            "Third, the budget cuts make the strategy operationally impossible and therefore politically performative. This matters because (1) a proposed $10bn cut would gut addiction and overdose prevention and research, (2) Medicaid cuts are already expected to close hospitals and reduce treatment availability, and (3) a national strategy without funding cannot scale treatment, surveillance, or interdiction in any meaningful way."
+          ]
+        },
+        {
+          "thesis": "The administration’s approach will make the drug market more dangerous because it substitutes aggregate surveillance for individual drug checking in a rapidly changing supply.",
+          "mechanisms": [
+            "First, wastewater surveillance is a poor substitute for personal drug-checking tools. Three reasons: one, wastewater is an aggregate signal and cannot tell an individual user what is in their specific dose, two, drugs like nitazines may disappear in urine and therefore not show up reliably, and three, the drug supply changes hour to hour even within the same location.",
+            "Second, the policy creates false confidence in outdated enforcement technology. This happens because (1) wastewater and interdiction tech are described by experts as cutting-edge a decade ago, (2) the White House is prioritizing systems that track the market after exposure rather than preventing exposure, and (3) that misallocates scarce public-health resources away from precision tools like test strips and mass spectrometry.",
+            "Third, the policy can perversely help cartels and adulterators. This is because (1) if users cannot test products, they are less able to detect contamination, (2) dealers receive less feedback about dangerous batches, and (3) the market has weaker incentives to remove or dilute lethal adulterants."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Restricting test strips and emphasizing surveillance can still be justified because the state should prioritize treatment, naloxone, and supply-side disruption over normalizing drug use.",
+          "mechanisms": [
+            "First, opponents can argue harm-reduction tools may entrench use rather than reduce it. Numbered reasons: one, easy access to test strips can create a perception of safety that lowers caution, two, governments may prefer to fund prevention tools that do not directly facilitate consumption, and three, shifting resources to treatment and naloxone may better address addiction as a medical condition.",
+            "Second, enforcement and surveillance can target the upstream drug market more effectively than user-facing tools. Numbered reasons: one, wastewater and interdiction tech can identify hotspots and trafficking patterns, two, that information can guide raids and seizures, and three, disrupting supply may save more lives at scale than helping individual users test each dose.",
+            "Third, the administration can claim the apparent contradiction is just a sequencing problem, not a policy failure. Numbered reasons: one, the strategy can expand naloxone and treatment while Congress debates budget levels, two, different agencies may be pursuing different parts of the same overall goal, and three, a tougher budget posture may be intended to force efficiency rather than eliminate all overdose prevention."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between preventing an overdose before exposure and responding after the fact. Prop has the structural advantage because test strips and other harm-reduction tools are cheap, immediate, and targeted to the actual point of decision, while the administration’s preferred mix relies on aggregate surveillance and underfunded treatment systems that cannot substitute for individual-level prevention.",
+      "stock_connections": [
+        "Harm Reduction",
+        "Public Health Externalities",
+        "Moral Hazard",
+        "War on Drugs",
+        "State Capacity",
+        "Budget Cuts and Service Collapse",
+        "Information Asymmetry",
+        "Precision Medicine",
+        "Punitive vs Preventive Policy"
+      ],
+      "motion_areas": [
+        "TH, as the US federal government, would prioritize harm-reduction over drug enforcement in combating overdoses",
+        "THBT governments should fund fentanyl test strips and other drug-checking services",
+        "THP a world where overdose prevention policy is run by public health agencies rather than law enforcement",
+        "THBT budget cuts that undermine addiction treatment are incompatible with a serious drug strategy"
+      ],
+      "data_points": [
+        "$10bn in proposed cuts to addiction and overdose prevention and research, according to the Drug Policy Alliance",
+        "Samhsa’s April 2026 letter said it would no longer fund fentanyl and adulterant test strips intended for people using drugs",
+        "CDC moved in January 2026 to block 'never use alone' messaging while still considering support for fentanyl test strips",
+        "The National Drug Control Strategy was announced in May 2026 despite simultaneous proposed cuts",
+        "Nitazines are ultra-potent synthetic opioids that have become more common in the drug supply after international crackdowns on fentanyl",
+        "Wastewater surveillance captures aggregate drug-use signals but not the specific contents of an individual user’s dose"
+      ]
+    },
     {
       "id": "55d8e2277cde",
       "title": "Shaky U.S.-Iran Ceasefire Turns Persian Gulf Shipping Into a Pressure Point",
