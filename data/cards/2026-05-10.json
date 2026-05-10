@@ -1,7 +1,320 @@
 {
   "date": "2026-05-10",
-  "last_updated": "2026-05-10T19:16:27Z",
+  "last_updated": "2026-05-10T21:57:07Z",
   "cards": [
+    {
+      "id": "770bf70a773f",
+      "title": "Australia’s Budget-Backed Approval Fast-Track Trades Environmental Scrutiny for Housing and Investment Speed",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/11/australia-politics-live-federal-budget-jim-chalmers-cost-of-living-deficit-farrer-byelection-coalition-one-nation-ntwnfb",
+      "published": "2026-05-10T21:42:24Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Ahead of its fifth budget, the Albanese government announced $500m in new funding to speed up environmental approvals for housing, energy and critical minerals projects. The package includes $105.9m over four years to improve access to environmental data, including using AI, and additional funding for states and territories to accelerate assessments. The government says the changes build on last year’s reforms to the Environment Protection and Biodiversity Conservation Act (EPBC), which it argues have been slowed by compliance costs and long approval times.",
+      "prop_args": [
+        {
+          "thesis": "Fast-tracking environmental approvals is a pro-growth reform that unlocks housing supply, investment, and productivity without abandoning environmental protection.",
+          "mechanisms": [
+            "First, it reduces the time cost of capital deployment. This is because (1) housing, energy, and critical minerals projects are highly sensitive to approval delays, (2) faster yes/no decisions lower financing and holding costs, and (3) projects that would otherwise be shelved become viable, increasing total investment.",
+            "Second, it improves supply-side responsiveness in the housing market. Three reasons: one, quicker approvals let builders start sooner and bring dwellings to market earlier; two, the bottleneck is often regulatory rather than physical capital, so reform directly targets the constraint; three, more supply eases price pressure and helps younger Australians access home ownership.",
+            "Third, it can be framed as better environmental governance rather than deregulation. This matters because faster approvals can still preserve standards while reducing uncertainty, meaning the state allocates scarce bureaucratic capacity to genuinely high-risk projects instead of making all projects wait in the same queue."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Speeding up approvals risks weakening environmental safeguards and creating a pro-developer bias that imposes long-term social and ecological costs.",
+          "mechanisms": [
+            "First, it increases the chance of under-enforcement. One, when agencies are pressured to move faster, they have less time for consultation and impact review; two, rushed assessments are more likely to miss cumulative or site-specific harms; three, once damage is approved, it is often irreversible, especially for biodiversity and water systems.",
+            "Second, it can worsen distributional inequality. One, faster approvals tend to benefit large developers and resource firms with the capacity to move quickly; two, communities near projects bear the environmental and health externalities; three, the political promise of 'faster homes' may not translate into affordable housing if supply is captured by investors or land banking.",
+            "Third, it may create a false productivity gain. One, approvals are only one constraint among labour shortages, infrastructure bottlenecks, and financing costs; two, if those remain binding, the reform mostly shifts paperwork rather than output; three, the government risks spending $500m on administrative acceleration with limited real-economy payoff."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether approval delays are the main binding constraint on growth or whether environmental scrutiny is the real safeguard against irreversible harm. Government has the structural advantage if the round is about housing scarcity and investment bottlenecks; opposition wins if it can show the reform mainly accelerates approvals for projects that would have failed proper scrutiny.",
+      "stock_connections": [
+        "Red Tape",
+        "Regulatory Capture",
+        "Trade-off Between Growth and Environment",
+        "Housing Supply Constraint",
+        "State Capacity",
+        "Public Goods Underprovision",
+        "Intergenerational Equity"
+      ],
+      "motion_areas": [
+        "TH, as Australia, would fast-track environmental approvals for housing and resource projects",
+        "THBT governments should prioritise economic productivity over lengthy environmental assessment processes",
+        "THP a world where major infrastructure projects receive accelerated regulatory approval"
+      ],
+      "data_points": [
+        "$500m in new funding for faster approvals for housing, energy and critical minerals projects",
+        "$105.9m over four years for better access to environmental information, including AI tools",
+        "The package follows major EPBC Act changes passed by Labor last year",
+        "The government says sluggish approval times are a key area of delays across the economy"
+      ]
+    },
+    {
+      "id": "447eeaf6dd8a",
+      "title": "Jerome Powell’s Fed Legacy Raises the Stakes of Central Bank Independence vs. Political Control",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/federal-reserve-chair-jerome-powell-s-term-ends-examining-his-legacy",
+      "published": "2026-05-10T20:08:05Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "Jerome Powell’s term as Federal Reserve chair is ending, prompting a reassessment of his record and the broader role of the Fed. During the COVID-19 shock, Powell said the Fed would use its lending powers “forcefully, proactively and aggressively” until the economy was on a solid road to recovery. The article is framed around his legacy at a moment when the Fed’s crisis-response toolkit, inflation management, and political independence are all under scrutiny.",
+      "prop_args": [
+        {
+          "thesis": "Powell’s tenure is a case for preserving an independent, activist central bank that can stabilize the economy in shocks without waiting for Congress.",
+          "mechanisms": [
+            "First, crisis lending and rapid monetary intervention prevent panic from becoming a depression. This is because (1) the Fed can create liquidity immediately when private credit freezes, (2) it can backstop key markets faster than fiscal legislation can pass, and (3) it reduces the risk of fire sales and bank runs spreading across the economy.",
+            "Second, independence improves credibility in both directions: the Fed can cut aggressively in recessions and tighten when inflation rises without being trapped by electoral cycles. Three reasons: one, politicians have incentives to delay painful tightening before elections; two, markets price in lower inflation risk when the central bank is insulated from short-term pressure; three, a credible Fed lowers long-run borrowing costs by anchoring expectations.",
+            "Third, Powell’s legacy shows that technocratic discretion can absorb shocks that would otherwise require blunt, socially costly policy. This matters because a central bank that can stabilize employment, credit, and inflation quickly reduces the need for mass layoffs, bankruptcies, and emergency bailouts later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Powell’s legacy also shows the dangers of giving unelected central bankers too much power over distributional and political choices.",
+          "mechanisms": [
+            "First, Fed activism can blur the line between monetary policy and fiscal policy. One, large-scale lending and asset purchases effectively choose which sectors get rescued; two, this can socialize losses while privatizing gains; three, it creates moral hazard by teaching markets that the Fed will always step in.",
+            "Second, central bank independence can become democratic insulation rather than neutral expertise. One, interest-rate decisions directly affect jobs, mortgages, and wages; two, these choices have winners and losers across class and generation; three, leaving them to technocrats weakens accountability for policies with major social consequences.",
+            "Third, aggressive post-crisis intervention can worsen inflation or asset inequality if the Fed stays too loose for too long. This matters because (1) easy money can inflate housing and equity prices, (2) higher inflation disproportionately hurts lower-income households, and (3) the political backlash from these outcomes can ultimately undermine trust in both the Fed and the broader economic system."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you prioritize crisis stabilization or democratic control over macroeconomic outcomes. Prop wins if the round is about systemic resilience and the Fed’s unique ability to act quickly; Opp wins if the judge cares more about accountability, moral hazard, and the distributional costs of technocratic power.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Technocracy vs Democracy",
+        "Moral Hazard",
+        "Too Big to Fail",
+        "Inflation vs Employment Tradeoff",
+        "Asset Bubbles",
+        "Crisis Management",
+        "Institutional Credibility"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would preserve strong central bank independence",
+        "THBT central banks should have broad emergency lending powers",
+        "THP a world where monetary policy is insulated from electoral politics",
+        "THBT governments should prioritize inflation targeting over short-term employment gains"
+      ],
+      "data_points": [
+        "Powell said on April 29, 2020 that the Fed would use its lending powers 'forcefully, proactively and aggressively' until recovery was secure",
+        "The article is published on 2026-05-10, marking the end of Powell’s chair term and a legacy review moment",
+        "The Fed’s emergency response during COVID-19 included large-scale lending and market backstops, making it a central actor in the U.S. recovery"
+      ]
+    },
+    {
+      "id": "a859ed21d6b5",
+      "title": "Unidentified Strike on Korean Cargo Ship Raises Escalation Risks in the Strait of Hormuz",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/south-korea-says-ship-was-struck-by-unidentified-flying-objects-in-hormuz?traffic_source=rss",
+      "published": "2026-05-10T19:12:52Z",
+      "category": "IR",
+      "region": "Strait of Hormuz / Iran / South Korea",
+      "background": "South Korea said it is investigating an incident that occurred on May 4, 2026, when two unidentified objects struck a Korean-operated cargo ship in the Strait of Hormuz. The strike caused a fire and damaged the vessel’s stern. The Strait of Hormuz is one of the world’s most strategically important chokepoints for oil and shipping, with incidents there often triggering wider regional and market concerns. The report does not identify the attacker or the type of objects involved.",
+      "prop_args": [
+        {
+          "thesis": "Ambiguous attacks on commercial shipping in the Strait of Hormuz justify stronger maritime security coordination and deterrence against regional spoilers.",
+          "mechanisms": [
+            "First, the incident shows that commercial shipping is vulnerable to low-cost, deniable attacks. This is because (1) the strike used unidentified objects, which makes attribution slow and uncertain, (2) the target was a civilian cargo ship rather than a military asset, and (3) the attack caused a fire and stern damage, demonstrating that even limited strikes can impose real costs.",
+            "Second, ambiguity itself increases escalation risk, so states need a firmer security posture. Three reasons: one, when attackers are unidentified, victims cannot rely on quiet diplomacy alone; two, uncertainty encourages worst-case assumptions and miscalculation; three, repeated incidents normalize harassment in a chokepoint that carries a huge share of global energy trade.",
+            "Third, deterrence protects not just one ship but the credibility of the entire shipping regime. This matters because if states fail to respond, insurers raise premiums, reroute traffic, and reward the actor using deniable violence, which gradually turns the Strait into a zone where coercion is cheaper than restraint."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The incident should not be used to justify escalation or militarization because attribution is unclear and overreaction could worsen regional instability.",
+          "mechanisms": [
+            "First, the lack of attribution makes punitive responses dangerous. One, the report only says 'unidentified flying objects,' so the attacker may be unknown or the event may be mischaracterized; two, retaliating without proof risks hitting the wrong actor and creating a broader conflict; three, ambiguity is exactly why crisis management and investigation are preferable to immediate coercion.",
+            "Second, militarizing the Strait can backfire by increasing the frequency and severity of incidents. One, more naval assets create more points of contact and accidental confrontation; two, regional rivals may interpret deployments as preparation for blockade or coercion; three, hardening the chokepoint can incentivize asymmetric retaliation against civilian shipping rather than reducing it.",
+            "Third, the structural problem is political conflict, not the absence of force. One, if the underlying Iran-Gulf tension remains unresolved, ships remain exposed regardless of patrols; two, security theater can crowd out diplomacy and de-escalation channels; three, long-term stability comes from reducing incentives to target shipping, not just escorting ships through a dangerous lane."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate deterrence and escalation control. Prop wins if the round is about protecting a vital global chokepoint from deniable attacks; Opp wins if the judge prioritizes attribution uncertainty and the risk that overreaction turns a contained incident into a wider regional crisis.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Escalation Spiral",
+        "Deterrence",
+        "Attribution Problem",
+        "Freedom of Navigation",
+        "Maritime Chokepoints",
+        "Asymmetric Warfare",
+        "Risk of Miscalculation"
+      ],
+      "motion_areas": [
+        "TH, as South Korea, would push for stronger multinational naval escorts in the Strait of Hormuz",
+        "THBT states should retaliate against unidentified attacks on commercial shipping only after public attribution",
+        "THP a world where commercial shipping in strategic chokepoints is protected by collective security arrangements"
+      ],
+      "data_points": [
+        "Incident occurred on May 4, 2026, and was reported by South Korea on May 10, 2026",
+        "Two unidentified objects struck the vessel",
+        "The strike caused a fire and damaged the ship’s stern",
+        "The incident took place in the Strait of Hormuz, a critical global shipping chokepoint"
+      ]
+    },
+    {
+      "id": "dc7052e7e743",
+      "title": "Rebuilding Gaza’s Civilian Infrastructure Becomes a Symbolic Battle Over Post-War Sovereignty",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/gaza-volunteers-plant-olive-trees-at-devastated-al-shifa-hospital?traffic_source=rss",
+      "published": "2026-05-10T19:01:20Z",
+      "category": "IR",
+      "region": "Gaza / Israel",
+      "background": "On 10 May 2026, volunteers at al-Shifa Hospital in Gaza cleared rubble and planted olive trees in the courtyard as a symbolic act of recovery. The hospital, once Gaza’s largest medical complex, was heavily damaged by repeated Israeli attacks and sieges during the war on Gaza. The article says more than 500 bodies were recovered from mass graves at the site, underscoring the scale of destruction and civilian death associated with the hospital.",
+      "prop_args": [
+        {
+          "thesis": "Symbolic reconstruction of Gaza’s hospitals is politically and strategically important because it restores civilian legitimacy, public morale, and the institutional basis for post-war governance.",
+          "mechanisms": [
+            "First, rebuilding a site like al-Shifa restores the social contract between civilians and the state-like institutions that serve them. This is because (1) hospitals are among the most visible markers of whether life can continue, (2) restoring them signals that governance is returning to normal rather than remaining in permanent emergency, and (3) visible reconstruction helps prevent despair from turning into social fragmentation or radicalization.",
+            "Second, reconstruction creates a platform for humanitarian and administrative recovery. Three reasons: one, medical infrastructure is a prerequisite for treating war injuries, disease outbreaks, and displacement-related health crises; two, functioning hospitals anchor broader service delivery like water, sanitation, and referrals; three, rebuilding a major facility helps attract aid coordination and international attention to wider recovery needs.",
+            "Third, the symbolism itself matters in asymmetric conflict because it contests the narrative of total destruction. This matters because (1) planting olive trees and clearing rubble communicates permanence and return, (2) it strengthens local resilience against forced displacement by making return materially and psychologically possible, and (3) it preserves Palestinian claims to continuity, memory, and sovereignty over civilian space."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Highly symbolic reconstruction can be premature or even counterproductive if it diverts scarce resources from immediate survival needs and exposes civilians to renewed destruction.",
+          "mechanisms": [
+            "First, rebuilding a marquee site like al-Shifa may misallocate limited post-war resources. One, Gaza faces acute shortages of shelter, food, medicine, and clean water, so funds spent on symbolic landscaping or partial reconstruction may have higher opportunity costs; two, visible projects can be politically attractive while less visible but more urgent needs remain unmet; three, incomplete rebuilding can create false reassurance without real service capacity.",
+            "Second, reconstruction can become strategically fragile if the security environment is unresolved. One, if hostilities resume, rebuilt infrastructure is likely to be destroyed again, wasting labor and materials; two, concentrated civilian assets can become repeated military targets in a contested zone; three, rebuilding before a durable ceasefire or protection regime may lock civilians into a cycle of rebuild-and-destroy.",
+            "Third, the symbolism can be exploited by competing actors. One, different factions may use reconstruction to claim legitimacy without delivering security; two, external donors may use it to launder political responsibility for the underlying war; three, highly visible recovery efforts can obscure accountability for mass death and the destruction of medical infrastructure."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolic reconstruction meaningfully advances civilian recovery or merely prettifies devastation. Prop wins if the round is about post-war legitimacy and resilience; opp wins if the focus is on opportunity cost and the fragility of rebuilding under ongoing insecurity.",
+      "stock_connections": [
+        "Post-conflict reconstruction",
+        "State legitimacy",
+        "Humanitarian aid allocation",
+        "Collective memory",
+        "Forced displacement",
+        "Asymmetric warfare",
+        "Civilian protection",
+        "Opportunity cost"
+      ],
+      "motion_areas": [
+        "TH, as the Palestinian Authority, would prioritize rebuilding major civilian infrastructure in Gaza before pursuing broader political settlement",
+        "THBT post-conflict societies should invest in symbolic reconstruction of destroyed public institutions",
+        "THP a world where international aid to Gaza is conditioned on civilian infrastructure restoration"
+      ],
+      "data_points": [
+        "More than 500 bodies were recovered from mass graves at al-Shifa Hospital",
+        "al-Shifa was once Gaza’s largest medical complex",
+        "The hospital was devastated by repeated Israeli attacks and sieges during the war on Gaza",
+        "The article is dated 10 May 2026"
+      ]
+    },
+    {
+      "id": "0810d7d0ddf0",
+      "title": "Israel’s Intensifying Lebanon Campaign Turns a Ceasefire Into a De Facto War of Attrition",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours?traffic_source=rss",
+      "published": "2026-05-10T19:01:09Z",
+      "category": "IR",
+      "region": "Lebanon / Israel",
+      "background": "The Lebanese Health Ministry said Israeli attacks killed 51 people in Lebanon in the past 24 hours, including two medical workers. Al Jazeera reported that since March 2, when Israel began a new military operation, 2,846 people have been killed across Lebanon, and since the U.S.-brokered ceasefire took effect on April 16, 552 people have still been killed. The UN says at least 103 Lebanese medical workers have been killed and 230 injured in more than 130 Israeli strikes, while more than 1.2 million Lebanese people have been displaced since March 2.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s continued strikes after a ceasefire prove that limited military pressure is the only language that can coerce armed actors and reshape security conditions in southern Lebanon.",
+          "mechanisms": [
+            "First, sustained strikes degrade Hezbollah’s operational environment and reduce its freedom of movement. This is because (1) repeated attacks force militants to disperse and hide, (2) they disrupt logistics, communications, and local support networks, and (3) they make it harder to maintain a stable frontline or launch coordinated attacks.",
+            "Second, the campaign signals credible resolve to both Hezbollah and its backers. Three reasons: one, if Israel stops after a ceasefire while attacks continue, it rewards non-compliance; two, visible costs on Lebanon increase the price of tolerating armed groups near the border; three, the pattern creates deterrence by showing that violations will be met with immediate punishment.",
+            "Third, the humanitarian toll is tragic but strategically relevant because it can force political pressure for a stronger settlement. This matters because (1) 1.2 million displaced people create domestic demand to end the conflict, (2) high casualties can push Lebanon and external mediators to restrain armed actors, and (3) in asymmetric conflicts, civilian suffering often becomes the lever that changes bargaining positions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel’s strikes are strategically self-defeating because they violate humanitarian norms, radicalize the local population, and make a durable settlement less likely.",
+          "mechanisms": [
+            "First, killing medics and repeatedly striking after a ceasefire destroys Israel’s legitimacy and increases diplomatic isolation. One, attacks on protected medical personnel create clear international-law violations; two, this weakens support from allies and mediators; three, it gives opponents a powerful narrative of indiscriminate aggression.",
+            "Second, the campaign fuels recruitment and entrenchment rather than compliance. One, civilian deaths and mass displacement create revenge incentives; two, local communities become more dependent on armed groups for protection and services; three, every strike makes compromise politically harder for Lebanese actors who are seen as capitulating under fire.",
+            "Third, the operation creates a long-term security trap for Israel. One, destroying infrastructure and healthcare capacity makes governance collapse more likely in southern Lebanon; two, failed governance creates a vacuum that armed groups can exploit; three, the result is an endless cycle where Israel must keep intervening because its own attacks prevent stabilization."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion through force produces compliance or permanent escalation. Prop wins if you prioritize immediate deterrence and battlefield leverage; opp wins if you think legitimacy, recruitment, and post-war governance determine whether the conflict actually ends.",
+      "stock_connections": [
+        "Collective Punishment",
+        "Asymmetric Warfare",
+        "Deterrence Theory",
+        "Security Dilemma",
+        "War Crimes / International Humanitarian Law",
+        "Radicalization",
+        "Failed State Dynamics",
+        "Civilian Protection"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would continue military strikes in southern Lebanon despite a ceasefire",
+        "THBT states should prioritize coercive military pressure over ceasefire compliance when facing non-state armed groups",
+        "THP a world where violations of ceasefires are met with immediate retaliatory force"
+      ],
+      "data_points": [
+        "51 people killed in Israeli attacks in the past 24 hours",
+        "2 medical workers killed in direct strikes on Health Authority points in Qalawiya and Tibnin",
+        "2,846 people killed in Lebanon since March 2",
+        "552 killed since the ceasefire started on April 16",
+        "At least 103 Lebanese medical workers killed and 230 injured in more than 130 Israeli strikes",
+        "More than 1.2 million Lebanese people displaced since March 2"
+      ]
+    },
+    {
+      "id": "d6064bb010ed",
+      "title": "War-Driven Energy Shocks Reignite U.S. Inflation Just as the Fed Enters a Post-Powell Transition",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/bond-traders-brace-for-inflation-data-as-fed-s-powell-era-ends",
+      "published": "2026-05-10T19:00:00Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "Bloomberg reports that U.S. bond traders are bracing for upcoming inflation data as the Federal Reserve approaches the end of Jerome Powell’s tenure. The article says fuel inflation has already been building across Asia and Europe, and higher pump prices are now intensifying in the United States as war-driven energy shocks continue. The immediate market concern is whether fresh inflation prints will force the Fed to stay tighter for longer during a leadership transition.",
+      "prop_args": [
+        {
+          "thesis": "Energy-driven inflation justifies a more hawkish Fed transition because it prevents premature easing and protects long-run price credibility.",
+          "mechanisms": [
+            "First, higher pump prices feed directly into headline inflation and then into broader expectations. This is because (1) fuel is a visible, high-frequency price that households observe immediately, (2) firms pass transport and input costs through into goods and services, and (3) repeated inflation surprises make wage-setters and consumers expect persistent inflation rather than a temporary spike.",
+            "Second, a hawkish stance during the Powell transition anchors market confidence. Three reasons: one, bond traders price future policy credibility, so a clear anti-inflation signal reduces volatility; two, a new chair inherits legitimacy problems if the Fed looks politically or institutionally soft; three, maintaining restrictive policy now lowers the risk of a second inflation wave later.",
+            "Third, the macro cost of tolerating energy inflation is larger than the short-term pain of tighter policy. This matters because inflation is regressive, erodes real wages, and can force more aggressive tightening later, which would create a deeper recession than a measured response today."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Fed should avoid overreacting to an energy shock because supply-side inflation is temporary and tighter policy would mainly punish growth without fixing the underlying problem.",
+          "mechanisms": [
+            "First, energy inflation is not the same as demand-driven overheating. One, the shock comes from war and supply disruption rather than excess U.S. spending; two, rate hikes do not produce more oil or lower geopolitical risk; three, treating every price spike as a monetary problem risks overtightening into a slowdown.",
+            "Second, a hawkish response can amplify the real-economy damage. One, higher rates raise borrowing costs for households and firms already facing expensive fuel; two, weaker demand can trigger layoffs and credit stress; three, the burden falls disproportionately on lower-income consumers who spend a larger share on energy and transport.",
+            "Third, the Fed’s credibility is better preserved by looking data-dependent rather than reflexively restrictive. One, markets understand that central banks should distinguish temporary relative-price shocks from persistent inflation; two, overreaction can make the Fed appear politically driven by headline panic; three, if inflation later cools naturally, the Fed will have sacrificed output for no durable gain."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether energy inflation is a transient supply shock or the start of a broader inflation regime. Prop wins if it proves expectations and second-round effects are already spreading; Opp wins if it shows the Fed cannot and should not use rates to solve a war-driven price shock. Structural advantage lies with Prop on credibility and expectations, but Opp has the cleaner causation on real-economy harm.",
+      "stock_connections": [
+        "Inflation expectations",
+        "Supply shock vs demand shock",
+        "Central bank credibility",
+        "Phillips curve",
+        "Stagflation",
+        "Regressive inflation",
+        "Tight monetary policy",
+        "Policy overreaction"
+      ],
+      "motion_areas": [
+        "TH, as the Federal Reserve, would prioritize inflation control over growth during energy shocks",
+        "THBT central banks should remain hawkish in response to war-driven inflation",
+        "THP a world where the Fed targets core inflation and ignores temporary energy spikes"
+      ],
+      "data_points": [
+        "Published on 2026-05-10T19:00:00Z",
+        "Fuel inflation had already been rising across Asia and Europe before intensifying in the United States",
+        "Higher pump prices are now starting to intensify in the U.S. as war-driven energy shocks continue",
+        "The article is framed around bond traders bracing for inflation data during the end of Jerome Powell’s Fed era"
+      ]
+    },
     {
       "id": "5f685550bc19",
       "title": "Drone Incursions Expose Latvia’s Security Gaps and Raise Pressure for Deeper NATO/EU Defense Integration",
