@@ -1,7 +1,63 @@
 {
   "date": "2026-05-10",
-  "last_updated": "2026-05-10T08:20:28Z",
+  "last_updated": "2026-05-10T10:21:17Z",
   "cards": [
+    {
+      "id": "55d8e2277cde",
+      "title": "Shaky U.S.-Iran Ceasefire Turns Persian Gulf Shipping Into a Pressure Point",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar",
+      "published": "2026-05-10T09:10:23Z",
+      "category": "IR",
+      "region": "Persian Gulf / Qatar / Strait of Hormuz / Iran / United States",
+      "background": "A cargo ship caught fire on Sunday after being hit by an unknown projectile 23 nautical miles northeast of Doha, Qatar, according to the UK Maritime Trade Operations Centre. The incident comes about a month into a fragile ceasefire between the U.S. and Iran, which has been repeatedly strained by Iranian restrictions on traffic through the Strait of Hormuz and a U.S. blockade of Iranian ports. The U.N. nuclear agency says Iran still holds more than 440 kilograms of uranium enriched up to 60% purity, while the U.S. and Iran remain deadlocked over a deal to reopen the strait and roll back Iran's nuclear program.",
+      "prop_args": [
+        {
+          "thesis": "The ceasefire is too fragile to stabilize the Gulf, so the U.S. should treat maritime pressure and limited strikes as necessary leverage to force a durable settlement.",
+          "mechanisms": [
+            "First, coercive pressure is the only language both sides are already using, and that makes it the only credible bargaining tool. This is because (1) Iran is restricting traffic through the Strait of Hormuz to extract concessions, (2) the U.S. is already blockading Iranian ports and striking tankers, and (3) the latest ship attack shows that low-level escalation is continuing anyway, so restraint does not buy peace.",
+            "Second, controlling maritime chokepoints creates immediate negotiating leverage over Iran's core economic lifeline. Three reasons: one, the Strait of Hormuz is a strategic waterway for global oil flows, two, Iranian oil exports and port access are among the few remaining pressure points after sanctions and war damage, and three, forcing Iran to reopen shipping directly ties de-escalation to concrete compliance rather than vague promises.",
+            "Third, a hard line is necessary to prevent Iran from using the ceasefire to preserve its nuclear breakout capacity. This matters because Iran still has more than 440 kilograms of uranium enriched to 60%, which is technically close to weapons-grade, and if the U.S. does not maintain pressure now, Tehran can stall talks while protecting a latent nuclear deterrent."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Further coercion will backfire by widening the conflict, so the priority should be de-escalation and a negotiated maritime-security deal.",
+          "mechanisms": [
+            "First, every new strike or blockade increases the risk of accidental regional escalation. One, the latest attack occurred near Qatar, which hosts major U.S. interests and bases in the region, two, Iran has already threatened 'heavy assault' on U.S. bases and enemy ships if its vessels are hit, and three, once commercial shipping is militarized, even a small incident can trigger a spiral into open war.",
+            "Second, coercion worsens the very shipping disruption it is meant to solve. One, attacks on tankers and port blockades raise insurance costs and deter commercial traffic, two, Iran has already shown it can restrict the Strait of Hormuz and thereby affect global energy markets, and three, the result is higher fuel prices and broader market shock rather than a clean path to compliance.",
+            "Third, a negotiated deal is more likely to secure nuclear constraints than indefinite pressure. One, Iran's stockpile at Isfahan and elsewhere is vulnerable but not eliminated by maritime strikes, two, the U.N. nuclear issue is a bargaining problem that requires verification and access, and three, a ceasefire-linked agreement can trade reopening the strait for limits on enrichment in a way military pressure cannot."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion produces compliance or escalation. Prop has the structural advantage on immediate leverage because the Strait of Hormuz is a chokepoint and Iran is already using it as bargaining power, but Opp wins if they frame the main risk as uncontrolled regional escalation and global energy shock from tit-for-tat attacks.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Deterrence Theory",
+        "Escalation Ladders",
+        "Chokepoint Diplomacy",
+        "Economic Coercion",
+        "Nuclear Proliferation",
+        "Moral Hazard",
+        "Energy Security",
+        "Regional Arms Race"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would maintain maritime pressure on Iran to enforce a ceasefire",
+        "THBT states should prioritize coercive leverage over diplomatic concessions in ceasefire negotiations",
+        "THP a world where control of strategic shipping lanes is used as bargaining leverage in nuclear negotiations"
+      ],
+      "data_points": [
+        "Cargo ship hit 23 nautical miles northeast of Doha, Qatar, causing a small fire that was extinguished",
+        "UKMTO reported no casualties and no claim of responsibility",
+        "Iran has more than 440 kilograms of uranium enriched up to 60% purity, according to the U.N. nuclear agency",
+        "The Strait of Hormuz is a strategic waterway key to the global flow of oil",
+        "The U.S. struck two Iranian oil tankers on Friday after alleging they were trying to breach the blockade of Iranian ports",
+        "Iran's Revolutionary Guard navy warned that attacks on Iranian oil tankers or commercial vessels would be met with a 'heavy assault' on U.S. bases and enemy ships",
+        "The ceasefire is described as month-old and 'shaky' after the U.S.-Iran war that began with joint strikes on Feb. 28"
+      ]
+    },
     {
       "id": "e3d0ce9687b8",
       "title": "UK Pension IHT Reform Creates a New Scam Market for Fraudsters Exploiting Tax Anxiety",
