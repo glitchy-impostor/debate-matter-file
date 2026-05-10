@@ -1,7 +1,111 @@
 {
   "date": "2026-05-10",
-  "last_updated": "2026-05-10T16:01:43Z",
+  "last_updated": "2026-05-10T19:16:27Z",
   "cards": [
+    {
+      "id": "5f685550bc19",
+      "title": "Drone Incursions Expose Latvia’s Security Gaps and Raise Pressure for Deeper NATO/EU Defense Integration",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/latvian-defense-minister-spruds-resigns-after-drone-incursions",
+      "published": "2026-05-10T17:20:33Z",
+      "category": "IR",
+      "region": "Latvia / EU-NATO / Baltic region",
+      "background": "Latvia’s defense minister Andris Spruds resigned after drone incursions highlighted vulnerabilities in the country’s airspace and broader security posture. The episode comes amid heightened Baltic security concerns following Russia’s war in Ukraine and repeated NATO debates over burden-sharing and air defense readiness. Separately, ECB Governing Council member Martins Kazaks has argued that the EU should pool defense spending and consider a common budget financed by jointly issued debt.",
+      "prop_args": [
+        {
+          "thesis": "Drone incursions prove that fragmented national defense systems are too slow and too thin, so Latvia and the EU should move toward pooled air defense and common defense financing.",
+          "mechanisms": [
+            "First, pooled procurement and shared command structures improve response speed. This is because (1) drones and other low-cost aerial threats exploit gaps between national radar, air-defense, and command systems, (2) a common architecture reduces duplication and coordination delays, and (3) Baltic states individually cannot afford full-spectrum coverage against persistent hybrid threats.",
+            "Second, common EU financing spreads the cost of deterrence across the bloc instead of forcing frontline states to underinvest. Three reasons: one, the Baltics face a disproportionate threat from Russia relative to their GDP; two, joint debt lowers the marginal fiscal burden on small states with limited borrowing capacity; three, collective funding makes long-term air-defense investment politically sustainable rather than crisis-driven.",
+            "Third, visible integration strengthens deterrence by signaling that attacks on one member trigger a coordinated European response. This matters because adversaries test seams, and when the response is unified, the payoff from probing incursions falls while the credibility of NATO/EU security guarantees rises."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The resignation shows that the real problem is not lack of EU pooling, but weak national preparedness and political accountability, so centralization risks creating bureaucracy without fixing frontline defense.",
+          "mechanisms": [
+            "First, national control preserves speed and local expertise. One, Latvia understands its own airspace, terrain, and threat patterns better than a distant EU-level body; two, centralized procurement can be slower and more politicized; three, frontline states need flexible, rapid adaptation rather than one-size-fits-all systems.",
+            "Second, joint debt and pooled budgets create moral hazard and burden-sharing conflict. One, wealthier states may resist underwriting permanent security costs for the East; two, smaller states may rely on EU funds instead of making hard domestic spending choices; three, common financing can become a bargaining chip that delays urgent capability upgrades.",
+            "Third, the political signal of a minister’s resignation is accountability, not proof that sovereignty should be diluted. This matters because replacing leaders, tightening rules of engagement, and investing directly in national air defense can address the failure without creating a permanent supranational defense bureaucracy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the drone incursions are best understood as a coordination failure or a capability failure. Prop wins if it shows the threat is inherently cross-border and therefore structurally favors pooled defense; opp wins if it argues the immediate fix is faster national adaptation, not deeper EU centralization.",
+      "stock_connections": [
+        "Collective Security",
+        "Burden Sharing",
+        "Security Dilemma",
+        "Deterrence",
+        "Moral Hazard",
+        "Bureaucratic Inefficiency",
+        "Small State Security",
+        "Hybrid Warfare"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would create a common defense budget financed by joint debt",
+        "THBT NATO should centralize air defense procurement for frontline states",
+        "THP a world where small frontline states pool sovereignty over air defense"
+      ],
+      "data_points": [
+        "Latvia’s defense minister Andris Spruds resigned after drone incursions, signaling a political consequence of airspace vulnerability",
+        "The article references ECB Governing Council member Martins Kazaks backing pooled EU defense spending and jointly issued debt",
+        "Latvia is a frontline Baltic NATO state bordering Russia and facing persistent hybrid-security pressure"
+      ]
+    },
+    {
+      "id": "cd5f1a6aa379",
+      "title": "India’s Push to Cut Fuel Use Exposes Its Vulnerability to Hormuz Oil Shocks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/modi-urges-indians-to-conserve-fuel-curb-costly-oil-imports",
+      "published": "2026-05-10T17:15:03Z",
+      "category": "Econ",
+      "region": "India / Middle East / Strait of Hormuz",
+      "background": "On 10 May 2026, Bloomberg reported that Indian Prime Minister Narendra Modi urged Indians to conserve fuel and reduce costly oil imports. The piece comes as oil prices had been rising on renewed attacks in the Middle East and as traders weighed a US plan to insure and escort tankers through the Strait of Hormuz, where traffic was described as all but halted. India is one of the world’s largest crude importers and remains highly exposed to disruptions in Gulf shipping routes.",
+      "prop_args": [
+        {
+          "thesis": "India should treat fuel conservation as a strategic economic necessity because reducing oil demand is the fastest way to insulate the economy from external supply shocks and import-bill inflation.",
+          "mechanisms": [
+            "First, lower domestic fuel consumption reduces exposure to global price spikes. This is because (1) India imports most of its crude, so every marginal barrel saved directly lowers the import bill, (2) when the Strait of Hormuz is disrupted, spot prices rise immediately and pass through to transport and food costs, and (3) conservation is a demand-side tool that can be deployed faster than building new refineries, pipelines, or alternative energy capacity.",
+            "Second, conservation improves macroeconomic stability by narrowing the current account deficit. Three reasons: one, oil is a major component of India’s import basket, two, a smaller import bill reduces pressure on the rupee and foreign reserves, and three, lower external financing needs give the central bank more room to manage inflation without triggering a currency crisis.",
+            "Third, the policy has strategic value because it weakens the leverage of hostile suppliers and chokepoint disruptions. This matters because (1) if Gulf shipping is intermittently blocked, India’s economy becomes hostage to events it cannot control, (2) lower demand gives the government more bargaining power in long-term procurement, and (3) conservation signals to markets that India can absorb shocks without panic buying, which dampens speculative price surges."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Fuel conservation is a weak response to an oil shock because it shifts the burden onto consumers and businesses without solving India’s underlying dependence on imported energy.",
+          "mechanisms": [
+            "First, demand restraint imposes immediate domestic costs. One, higher effective fuel scarcity raises transport and logistics costs for firms, two, poorer households bear a larger welfare hit because fuel and food inflation are regressive, and three, reduced mobility can slow consumption and industrial activity at the exact moment the economy needs resilience.",
+            "Second, conservation does little against a supply-side crisis caused by Hormuz disruption. One, if traffic through the strait is already all but halted, India cannot conserve its way out of missing barrels, two, the country still needs fuel for aviation, freight, agriculture, and power backup, and three, the real solution is diversification of supply, strategic reserves, and accelerated electrification rather than exhortations to use less.",
+            "Third, the policy can create false confidence and delay structural reform. One, leaders may substitute symbolic appeals for hard investments in renewables, public transit, and storage, two, businesses may underprepare for future shocks if they assume conservation alone is sufficient, and three, repeated emergency messaging normalizes crisis management instead of building long-term energy security."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term shock absorption and long-term structural dependence. Prop wins if the round is about immediate macro stability under a Hormuz disruption; opp wins if they prove conservation is mostly symbolic and that only supply diversification can materially change India’s vulnerability.",
+      "stock_connections": [
+        "Energy security",
+        "Import dependence",
+        "Current account deficit",
+        "Inflation pass-through",
+        "Currency vulnerability",
+        "Strategic autonomy",
+        "Chokepoint risk",
+        "Demand-side management"
+      ],
+      "motion_areas": [
+        "TH, as India, would prioritize fuel conservation over subsidizing consumption during oil shocks",
+        "THBT developing nations should respond to energy crises by reducing domestic demand rather than expanding strategic subsidies",
+        "THP a world where major oil importers publicly campaign for citizens to use less fuel during geopolitical disruptions"
+      ],
+      "data_points": [
+        "India is one of the world’s largest crude importers",
+        "The Strait of Hormuz is described as a vital waterway for global oil flows",
+        "Traffic in the Strait of Hormuz was reported as 'all but halted' amid fresh attacks in the Middle East",
+        "A US plan was being weighed to insure and escort tankers passing through the Strait of Hormuz",
+        "The article is dated 2026-05-10 and frames oil gains as driven by Middle East attacks and shipping disruption"
+      ]
+    },
     {
       "id": "05d5275c1287",
       "title": "Hormuz Disruption Exposes How Fragile Global Supply Chains Still Are Despite Pandemic Lessons",
