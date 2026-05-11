@@ -1,7 +1,79 @@
 {
   "date": "2026-05-10",
-  "last_updated": "2026-05-11T04:13:33Z",
+  "last_updated": "2026-05-11T15:40:34Z",
   "cards": [
+    {
+      "id": "e442c91ef57c",
+      "title": "Rapid Alcohol Delivery Apps Remove Friction and Intensify Problem Drinking in the UK",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd9pn581xzwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-10T23:38:30Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "A BBC report on 10 May 2026 highlighted campaigners calling for tighter regulation of alcohol sales through delivery apps such as Deliveroo, Just Eat and Uber Eats. The push follows the 2023 death of 35-year-old Zoe Hughes in Lincoln, after her sister said she was spending between £1,000 and £1,500 a month on alcohol via apps and drinking five to seven bottles of wine, gin or vodka a day. Alcohol Change UK, the charity behind Dry January, says the Licensing Act 2003 has not kept up with rapid online delivery, while the government says it is reviewing how licensing rules apply to these services.",
+      "prop_args": [
+        {
+          "thesis": "The state should restrict or ban rapid alcohol delivery because it materially lowers the barriers that keep addicted and vulnerable people from escalating consumption.",
+          "mechanisms": [
+            "First, apps collapse the time and social friction that normally interrupts impulsive drinking. This is because (1) the customer can order in minutes rather than having to travel to a shop, (2) delivery can happen at any hour, including early morning, and (3) the transaction happens privately, so family, shop staff, and peers are less able to notice and intervene.",
+            "Second, the platform model enables repeated, high-volume purchasing that is hard to replicate in a physical store. Three reasons: one, a user can place multiple orders across different apps and retailers; two, delivery firms can keep accounts active unless a concern is formally raised; three, the ease of one-click reordering turns alcohol into an on-demand product rather than a consciously planned purchase.",
+            "Third, tighter safeguards reduce severe harm at the margin even if they do not solve addiction entirely. This matters because the article describes a case where a person was spending £1,000 to £1,500 a month on alcohol and drinking five to seven bottles a day; if regulation prevents even a small number of such spirals, it avoids deaths, injuries, hospitalisations, and downstream costs to the NHS and social care."
+          ]
+        },
+        {
+          "thesis": "Regulating alcohol delivery is a proportionate consumer-protection measure, not an attack on personal freedom, because the market already fails to screen for intoxication and dependency effectively.",
+          "mechanisms": [
+            "First, the current system relies on self-policing by firms whose incentives are to maximise sales. This is because (1) platforms earn revenue from more orders, (2) riders can only make a quick visual sobriety check at the door, and (3) account blocks are reactive rather than preventive, so harm is often discovered only after it has already happened.",
+            "Second, targeted restrictions can be designed to preserve ordinary adult choice while limiting abuse. Three reasons: one, caps on quantity per 24 hours stop extreme binge ordering; two, time restrictions reduce late-night and early-morning consumption; three, opt-out or self-exclusion registers protect people who know they are at risk without affecting everyone else.",
+            "Third, the policy aligns with existing alcohol law rather than creating a new moral regime. This matters because the Licensing Act already prohibits selling alcohol to drunk people; updating enforcement for app-based delivery simply makes the law workable in a digital environment."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Banning or heavily restricting alcohol delivery apps would mostly inconvenience responsible adults while doing little to solve addiction, because the real problem is dependency, not the delivery channel.",
+          "mechanisms": [
+            "First, addicted users can substitute to other sources of alcohol if apps are restricted. One, they can buy from shops, pubs, or corner stores; two, they can ask others to purchase for them; three, they can stockpile alcohol when they do have access, so the harm is displaced rather than eliminated.",
+            "Second, the policy is blunt and paternalistic relative to the scale of the problem. Three reasons: one, most app users are not dependent drinkers and use delivery for convenience; two, the article itself notes firms already conduct age and sobriety checks and can block accounts; three, a blanket ban punishes low-risk consumers for the failures of a minority.",
+            "Third, enforcement is likely to be weak and inconsistent. This is because (1) apps operate across multiple retailers and platforms, (2) quantity caps and time bans are easy to evade by splitting orders, and (3) regulators will struggle to monitor every delivery in real time, so the policy may create paperwork without meaningfully reducing harm."
+          ]
+        },
+        {
+          "thesis": "The better response is targeted treatment and support, because coercive platform restrictions can push vulnerable drinkers into less visible and potentially more dangerous patterns.",
+          "mechanisms": [
+            "First, self-exclusion and support services are more effective than blanket restrictions for people with addiction. This is because (1) they address the underlying dependency, (2) they can be tailored to the severity of the problem, and (3) they avoid creating a false sense that the state has solved alcohol harm by changing one sales channel.",
+            "Second, over-regulation may reduce visibility rather than harm. Three reasons: one, if people cannot order through tracked apps, they may shift to unrecorded purchases or informal supply; two, family members and services may lose the digital trail that helps identify risky behaviour; three, making access harder can increase shame and secrecy, which delays intervention.",
+            "Third, the economic and administrative costs of new rules are non-trivial. This matters because platforms, small retailers, and enforcement agencies would all face compliance burdens, while the public-health gains are uncertain and may be smaller than investments in addiction treatment, outreach, and mental health support."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the delivery channel is a meaningful causal driver of harm or just a convenient substitute for existing alcohol access. Prop wins if it shows apps uniquely remove friction, enable extreme binge ordering, and make intervention harder; Opp wins if it reframes the issue as addiction that will simply route around the platform, making blanket restrictions low-yield and overbroad.",
+      "stock_connections": [
+        "Paternalism",
+        "Harm Reduction",
+        "Regulatory Failure",
+        "Market Externalities",
+        "Addiction and Self-Control",
+        "Nudge Theory",
+        "Consumer Protection",
+        "Digital Platform Regulation"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would ban alcohol sales through delivery apps",
+        "THBT governments should impose quantity caps and time restrictions on alcohol delivery platforms",
+        "THP a world in which alcohol delivery apps are subject to self-exclusion registers and mandatory welfare checks",
+        "THBT the state should treat rapid alcohol delivery like gambling rather than ordinary retail"
+      ],
+      "data_points": [
+        "Zoe Hughes was reportedly spending between £1,000 and £1,500 a month on alcohol via Deliveroo, Just Eat and Uber Eats",
+        "Alex Hughes said Zoe was drinking five to seven bottles of wine, gin or vodka a day before her death in 2023",
+        "Zoe could order alcohol at 6:00 a.m., according to her sister",
+        "Delivery could arrive in as quick as 20 minutes",
+        "The Licensing Act 2003 already makes it an offence to sell alcohol to someone who is drunk",
+        "Deliveroo, Just Eat and Uber Eats all say they have account-blocking or exclusion processes for alcohol sales",
+        "The government said it is looking at how licensing rules apply to rapid online alcohol delivery services"
+      ]
+    },
     {
       "id": "ab7c2c9ef40f",
       "title": "Ransomware Escalates Into Violence-as-a-Service, Blurring Cybercrime and Street Crime",
