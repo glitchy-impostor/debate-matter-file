@@ -1,7 +1,303 @@
 {
   "date": "2026-05-10",
-  "last_updated": "2026-05-10T21:57:07Z",
+  "last_updated": "2026-05-11T04:13:33Z",
   "cards": [
+    {
+      "id": "ab7c2c9ef40f",
+      "title": "Ransomware Escalates Into Violence-as-a-Service, Blurring Cybercrime and Street Crime",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-10T23:34:59Z",
+      "category": "Econ",
+      "region": "United States / United Kingdom / Europe / Global",
+      "background": "The BBC reports that cybercrime is increasingly accompanied by threats of physical violence, including home-delivered warnings, doxxing, kidnapping, and attacks on family members. In the US, reported cyber incidents rose from 288,012 in 2015 to 1,008,597 in 2025, with financial losses reaching $20.8bn in 2025, up from $16.6bn in 2024, according to FBI figures. Semperis says physical threats appeared in 40% of global ransomware attacks in 2025 and in 46% of US cases, while the FBI says such threats more than doubled last year. The article also cites Europol and FBI warnings about online-linked criminal networks offering 'violence as a service,' including the US-based 'In Real Life Com' network.",
+      "prop_args": [
+        {
+          "thesis": "The rise of violence-backed cybercrime makes extortion dramatically more effective, so governments and firms must treat cyber defense as a physical security problem rather than a purely digital one.",
+          "mechanisms": [
+            "First, violence increases the expected payoff of ransomware. This is because (1) victims are no longer only weighing data loss and downtime, but also the risk of kidnapping, assault, or harm to family members; (2) that raises the cost of refusing payment far beyond what standard cybersecurity controls can absorb; and (3) criminals therefore face weaker resistance and higher ransom collection rates, which incentivizes more attacks.",
+            "Second, it expands the attack surface from systems to people. Three reasons: one, hackers can use stolen home addresses, social security numbers, and personal contacts to intimidate staff; two, they can target employees' families or physical workplaces to bypass corporate firewalls; three, even low-skill criminals can outsource violence to third parties, making enforcement harder and the threat more scalable.",
+            "Third, this trend justifies stronger deterrence and integrated security spending. This matters because (1) firms in hospitals, manufacturing, and crypto are now exposed to injury and death, not just financial theft; (2) public authorities need joint cyber-police, intelligence, and physical protection responses; and (3) if the state does not adapt, the market will underinvest in prevention while overpaying ransoms, normalizing a more violent criminal ecosystem."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The violence angle is alarming, but it does not fundamentally change the economics of cybercrime because most attacks still depend on anonymity, low-cost scaling, and weak enforcement rather than physical coercion.",
+          "mechanisms": [
+            "First, physical threats are still a minority tactic and remain operationally constrained. One, the article says most cybercrime is still standard data theft and lockout extortion; two, many threats are indirect or outsourced, which means they are harder to execute reliably than digital attacks; three, the need to recruit or coordinate street-level violence increases friction and reduces scalability.",
+            "Second, the real driver of cybercrime remains the same incentive structure. One, attackers still target organizations because the expected return from ransomware is high relative to the cost; two, the growth in incidents is driven by broader digitization, weak security, and payment incentives, not violence per se; three, even if threats rise, the core policy response is still better cyber hygiene, backups, and law enforcement, not a new paradigm.",
+            "Third, overemphasizing violence can create panic and inefficient policy. One, firms may spend on visible physical security while neglecting patching, segmentation, and incident response; two, governments may over-criminalize or militarize responses without reducing attack volume; three, the best way to reduce violence is to reduce ransom payments and improve attribution, so the issue is secondary to the underlying cybercrime market."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether violence changes the payoff structure of ransomware or is just a more frightening wrapper around the same extortion model. Prop wins if it proves that physical threats raise compliance rates and force a new security paradigm; opp wins if it shows the tactic is still niche, costly to execute, and not the main driver of cybercrime growth.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Organized Crime Adaptation",
+        "Escalation Spiral",
+        "Deterrence Failure",
+        "Security Dilemma",
+        "Regulatory Capture",
+        "Crime Displacement",
+        "Low-Skill Criminalization",
+        "Ransomware Economics",
+        "Doxxing and Privacy Harms"
+      ],
+      "motion_areas": [
+        "TH, as governments, would treat ransomware as a violent crime rather than a cybercrime",
+        "THBT companies should be allowed to pay ransoms in cases involving threats of physical violence",
+        "THP a world where cyber insurers refuse coverage for ransom payments",
+        "THBT law enforcement should prioritize doxxing and physical protection of executives over digital forensics in ransomware cases",
+        "THBT the state should regulate cryptocurrency publicity to reduce violent extortion"
+      ],
+      "data_points": [
+        "US reported cyber incidents rose from 288,012 in 2015 to 1,008,597 in 2025",
+        "US financial losses from cybercrime reached $20.8bn in 2025, up from $16.6bn in 2024",
+        "Semperis found physical threats in up to 40% of global ransomware attacks in 2025",
+        "Semperis found physical threats in 46% of US ransomware cases",
+        "FBI data shows physical threats from cybercriminals more than doubled last year",
+        "One European report counted more than 18 crypto-related kidnapping/extortion cases in Europe, including the UK, in 2025",
+        "The FBI warned last summer about 'In Real Life Com' and violence-as-a-service networks",
+        "The article cites a French kidnapping case in which the victim had one finger cut off"
+      ]
+    },
+    {
+      "id": "32e8f976f2a4",
+      "title": "Greece’s Selective Border Flexibility Exposes the EU’s Tradeoff Between Free Movement and Tourism Throughput",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn5pxyr9xr7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-10T23:33:43Z",
+      "category": "IR",
+      "region": "Greece; European Union/Schengen; United Kingdom",
+      "background": "On 10 May 2026, Greece’s tourism minister Olga Kefalogianni told the BBC that British holidaymakers would not face biometric checks at Greek borders during the summer season, despite the EU’s new Entry-Exit System (EES) having been fully introduced in April. The EES requires short-term non-EU/EEA visitors to register fingerprints and a facial scan on first entry, with checks on subsequent crossings; the system has already caused severe queues in some airports, including delays of up to three hours and missed flights in Milan. Greece had already suspended biometric checks on UK visitors in early April after long queues at Corfu airport, while the European Commission said it was in contact with Greece to clarify the situation and remind it of the rules.",
+      "prop_args": [
+        {
+          "thesis": "Greece’s temporary relaxation of biometric checks is a justified, pragmatic exception that protects tourism revenue and border functionality without meaningfully undermining Schengen.",
+          "mechanisms": [
+            "First, it prevents immediate economic losses from bottlenecked airports. This is because (1) tourism is highly time-sensitive and even short delays can cause missed flights, (2) missed connections and queue horror stories deter future bookings, and (3) Greece’s economy is heavily exposed to summer visitor flows, so preserving throughput matters more than rigidly enforcing a new admin procedure.",
+            "Second, it is a proportionate operational response to a rollout problem, not a rejection of EU rules. Three reasons: one, the EU framework already allows EES checks to be suspended briefly when airports become congested; two, Greece is not creating a permanent nationality-based carve-out but managing peak-load pressure; three, the state is still implementing the system elsewhere, so this is a targeted capacity fix rather than non-compliance.",
+            "Third, it protects the broader legitimacy of border reform by avoiding visible chaos. This matters because (1) if first-contact implementation produces three-hour queues and missed flights, public backlash will frame the EES as dysfunctional, (2) a smoother summer preserves political support for digital border modernization, and (3) tourists who experience efficient entry are less likely to associate Schengen with friction and more likely to keep traveling."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Greece’s decision creates a dangerous precedent that weakens EU border rules and incentivizes selective non-compliance by member states under pressure.",
+          "mechanisms": [
+            "First, it erodes the credibility of a common EU system by normalizing ad hoc exemptions. One, if Greece can suspend biometric checks for UK visitors whenever queues rise, other states will demand the same flexibility; two, the EES becomes unevenly applied across Schengen, undermining the idea of a single external border; three, enforcement becomes politically negotiable rather than rule-based.",
+            "Second, it creates operational and security risks by reducing the consistency of identity screening. One, biometric registration is meant to establish a reliable entry record and deter overstays; two, suspending checks for a large tourist nationality creates gaps in the database and weakens traceability; three, once exceptions are tolerated, border authorities face pressure to prioritize throughput over compliance in future crises.",
+            "Third, it shifts the burden of system failure onto the EU rather than fixing the underlying capacity problem. One, airports and border posts that cannot process the EES should be upgraded instead of bypassed; two, temporary suspensions remove incentives to invest in staffing and infrastructure; three, repeated workarounds lock in a low-capacity equilibrium where the EU keeps announcing reforms but never fully implements them."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term economic efficiency and long-term institutional credibility. The prop side wins if the round is about immediate tourism throughput and avoiding visible chaos; the opp side wins if the clash is about whether Schengen can survive selective enforcement without becoming a patchwork of exceptions.",
+      "stock_connections": [
+        "Free movement vs border control",
+        "Institutional credibility",
+        "Race to the bottom",
+        "Regulatory arbitrage",
+        "Implementation gap",
+        "Tourism dependency",
+        "EU rule of law",
+        "Security vs efficiency tradeoff"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would allow member states to temporarily suspend biometric border checks during peak tourism periods",
+        "THBT Schengen should prioritize throughput over strict biometric enforcement at external borders",
+        "THP a world where member states can exempt specific nationalities from new border procedures during rollout crises"
+      ],
+      "data_points": [
+        "The EU completed introduction of the Entry-Exit System in April 2026",
+        "EES requires short-term visitors from outside the EU and EEA to register fingerprints and a facial scan on first entry",
+        "Some passengers have experienced queues of up to three hours under the new system",
+        "More than 100 people missed an EasyJet flight to Manchester from Milan’s Linate airport last month after passport queues",
+        "Ryanair passengers at Milan Bergamo also missed flights to Manchester because of passport control delays",
+        "Greece suspended biometric checks on UK visitors in early April after long queues at Corfu airport",
+        "The European Commission said last week that Portugal and Italy do not plan to exempt British nationals from EES checks"
+      ]
+    },
+    {
+      "id": "7804c7111a8f",
+      "title": "Settler Violence in the West Bank Escalates Into Open Control Over Palestinian Civilian Life and Death",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/10/nx-s1-5817496/israeli-settlers-palestinian-exhume-grave-west-bank-jenin",
+      "published": "2026-05-10T23:26:27Z",
+      "category": "IR",
+      "region": "West Bank (Jenin/Ramallah); Israel/Palestine",
+      "background": "On Friday, Israeli settlers in the occupied West Bank dug up the grave of 85-year-old Palestinian Hussein Asasa and forced his family to remove his body from a cemetery in Asasa village, south of Jenin. The family said settlers, armed with weapons and spades, threatened to use a bulldozer if they did not comply; Israeli soldiers were present, confiscated digging tools, and said they stayed to 'prevent further friction.' The incident came after Netanyahu's government allowed the return of the Sa-Nur settlement to an area evacuated in 2005, placing settlers about 300 meters from the village cemetery. The UN Human Rights Office said the attack reflected a 'new level of dehumanization' and a failure by the Israeli military to protect Palestinians under international law.",
+      "prop_args": [
+        {
+          "thesis": "This incident proves that tolerating settler expansion without enforcement turns the occupation into a system of arbitrary domination, not mere security management.",
+          "mechanisms": [
+            "First, it normalizes impunity for civilian violence. This is because (1) settlers can physically override burial rights even after a permit was obtained, (2) soldiers on the scene did not remove the settlers despite being present, and (3) the absence of punishment signals to future attackers that escalation carries little cost.",
+            "Second, it destroys Palestinian trust in any legal or administrative process. Three reasons: one, the family complied with the permit regime and still lost access to the grave; two, the state-controlled access rules become meaningless if armed civilians can veto them; three, once people believe permits do not protect them, they stop seeing institutions as a channel for redress and instead see force as the only language that works.",
+            "Third, it deepens radicalization and long-run instability. This matters because (1) humiliation around death and burial is a uniquely inflammatory grievance, (2) it strengthens narratives that coexistence is impossible under current Israeli control, and (3) it increases the likelihood of retaliatory violence, making the conflict harder to contain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is an abuse by extremists, not proof that Israeli policy as such is designed to target Palestinians, so the broader strategic debate should not be reduced to one horrific incident.",
+          "mechanisms": [
+            "First, the relevant decision-makers may not be the same actors. One, the settlers who carried out the act are not identical to the Israeli state; two, the military did confiscate tools and said it was trying to prevent further friction; three, isolated failures in enforcement do not automatically prove a deliberate policy of desecration.",
+            "Second, the state can argue it is trying to manage competing claims in a volatile area. One, the family had coordinated the burial in advance with security forces, showing some procedural access still exists; two, the return of Sa-Nur reflects a broader territorial and security agenda rather than a specific anti-cemetery policy; three, in a conflict zone, the state may claim it is balancing civilian access, settlement security, and the risk of clashes."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether this is treated as an isolated atrocity or as evidence of a broader governance pattern. Prop wins if it can show that repeated non-enforcement by the military turns individual settler acts into a structural regime of coercion; Opp wins if it can successfully separate extremist behavior from state intent and argue the incident does not by itself determine the legitimacy of the wider occupation policy.",
+      "stock_connections": [
+        "Impunity",
+        "State Failure",
+        "Occupation",
+        "Dehumanization",
+        "Collective Punishment",
+        "Security Dilemma",
+        "Radicalization",
+        "Settler Colonialism",
+        "Rule of Law Erosion"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would impose stricter controls on settlers in the West Bank",
+        "THBT international actors should condition support to Israel on enforcement against settler violence",
+        "THP a world where military authorities are obliged to physically remove civilian settlers from disputed areas during Palestinian access disputes"
+      ],
+      "data_points": [
+        "Hussein Asasa was about 85 years old",
+        "The cemetery is in Asasa village, south of Jenin, in the occupied West Bank",
+        "Sa-Nur settlement is located about 300 meters from the village cemetery",
+        "The family said they were given 30 minutes to bury Hussein Asasa",
+        "The Israeli military said the family had coordinated the burial in advance with security forces",
+        "The UN Human Rights Office described the incident as a 'despicable' example of 'new level of dehumanization'",
+        "The article says settler attacks on Palestinians in the West Bank have risen drastically since October 2023"
+      ]
+    },
+    {
+      "id": "f76b76a6c2b3",
+      "title": "U.S.-Iran Ceasefire Collapse Risks a Hormuz Oil Shock and Wider Regional War",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/10/nx-s1-5817605/trump-rejects-iran-ceasefire-proposal",
+      "published": "2026-05-10T22:18:22Z",
+      "category": "IR",
+      "region": "United States / Iran / Pakistan (mediators) / Strait of Hormuz",
+      "background": "On May 10, 2026, President Trump rejected Iran's latest response to a U.S. ceasefire proposal, calling it \"TOTALLY UNACCEPTABLE!\" Iran had sent its reply through Pakistani mediators, according to Iranian state media. Tehran's reported demands included an end to hostilities, lifting U.S. sanctions on Iranian oil sales, ending the U.S. blockade on Iranian ports, and unfreezing Iranian assets. The war began on Feb. 28, and since Iran closed the Strait of Hormuz to almost all shipping, the U.S. has imposed a blockade on Iranian ports, disrupting global oil flows and raising fuel prices.",
+      "prop_args": [
+        {
+          "thesis": "Rejecting Iran's terms preserves U.S. leverage and prevents a bad ceasefire that would lock in Iranian gains while leaving the underlying security threat intact.",
+          "mechanisms": [
+            "First, accepting Iran's offer now would reward coercive escalation. This is because (1) Iran has already used the Strait of Hormuz as a pressure tool, (2) it is demanding sanctions relief and port access before making durable security concessions, and (3) conceding under those conditions teaches Tehran that hostage-taking of global energy routes pays.",
+            "Second, a premature ceasefire would fail to solve the core strategic problems the U.S. says it is fighting over. Three reasons: one, Washington's stated goals include ending Iran's nuclear program, reducing missile capabilities, and cutting support for proxies; two, Iran's response focuses on ending hostilities and reciprocal Hormuz opening rather than those capabilities; three, a ceasefire without disarmament simply gives Iran time to reconstitute.",
+            "Third, keeping pressure on Iran can force a broader settlement later. This matters because (1) the blockade and sanctions create real economic pain, (2) Iran's own demand for oil sanctions relief shows it is feeling the squeeze, and (3) bargaining from a position of strength is more likely to produce verifiable concessions on missiles, proxies, and nuclear activity."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Rejecting the proposal prolongs a war that is already causing global economic damage and risks a wider regional escalation that neither side can control.",
+          "mechanisms": [
+            "First, continued conflict keeps the Strait of Hormuz crisis alive. One, almost all shipping through the strait has already been disrupted; two, that chokepoint carries a major share of global oil shipments; three, prolonged closure sustains higher fuel prices and shocks import-dependent economies worldwide.",
+            "Second, escalation creates a ladder of retaliation with no clear off-ramp. One, the U.S. blockade on Iranian ports invites further Iranian countermeasures; two, Iran can widen the conflict through proxies or attacks on regional infrastructure; three, each side's public hardening makes accidental escalation more likely than controlled bargaining.",
+            "Third, a ceasefire is the only realistic way to stop immediate civilian and economic harm. One, the war has already been running since Feb. 28; two, sanctions and blockades punish ordinary civilians through inflation and shortages before they change elite behavior; three, even an imperfect pause can create space for later negotiations on nuclear and regional issues."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term stabilization and long-term leverage. Prop wins if you prioritize preventing a bad deal that entrenches Iranian coercion; Opp wins if you think the immediate oil shock and escalation risk are so severe that any ceasefire is better than continued war.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Moral Hazard",
+        "Security Dilemma",
+        "Energy Security",
+        "Chokepoint Politics",
+        "Sanctions Efficacy",
+        "Escalation Ladders",
+        "Proxy War",
+        "Deterrence Failure"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would reject Iran's ceasefire terms",
+        "THBT states should not negotiate ceasefires with actors who control global chokepoints under coercion",
+        "THP a world where the U.S. prioritizes leverage over immediate de-escalation in the Iran conflict"
+      ],
+      "data_points": [
+        "War began on Feb. 28, 2026",
+        "Iran's response was delivered through Pakistani mediators",
+        "Iran demanded lifting of U.S. sanctions on Iranian oil sales, ending the blockade on Iranian ports, and unfreezing assets",
+        "The U.S. says its war aims include ending Iran's nuclear program, reducing missile capabilities, and ending support for proxies such as Hezbollah",
+        "Iran closed the Strait of Hormuz to almost all shipping",
+        "The U.S. blockade on Iranian ports has cut off a key route for global oil shipments and caused higher fuel prices worldwide"
+      ]
+    },
+    {
+      "id": "9096aff24f14",
+      "title": "UK Four-Day Week Debate Gains Health Case as Long Work Hours Correlate With Higher Obesity",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/10/experts-call-for-uk-four-day-week-as-study-links-long-work-hours-to-obesity",
+      "published": "2026-05-10T22:01:37Z",
+      "category": "Econ",
+      "region": "United Kingdom / OECD countries",
+      "background": "A study presented at the European Congress on Obesity in Istanbul compared working patterns and obesity prevalence across 33 OECD countries from 1990 to 2022. It found that countries with longer annual working hours, including the US, Mexico and Colombia, also tended to have higher obesity rates; the authors estimated that a 1% reduction in annual working hours was associated with a 0.16% decrease in obesity rates. The article says this has renewed calls from campaigners and some academics for a UK four-day week, while the UK government says it will not mandate a four-day week for five days’ pay.",
+      "prop_args": [
+        {
+          "thesis": "A four-day week is a plausible public-health intervention that reduces obesity by lowering time poverty, stress, and the reliance on processed food.",
+          "mechanisms": [
+            "First, it directly increases the time available for healthy behavior. This is because (1) people with longer hours have less time to cook, shop, exercise, and sleep; (2) the article explicitly links long hours to time poverty and convenience eating; and (3) even modest time gains can shift daily routines toward lower-calorie, less processed meals.",
+            "Second, it reduces stress-driven weight gain. Three reasons: one, the study’s authors link longer hours to higher cortisol, which increases fat storage; two, overwork raises chronic stress and sleep deprivation, both of which worsen appetite regulation and impulse control; three, a shorter week improves recovery and makes healthy habits more sustainable over time.",
+            "Third, it can improve population health at scale without requiring coercive lifestyle regulation. This matters because (1) obesity is a major long-run driver of NHS costs and lost productivity; (2) a working-time reduction changes the environment rather than blaming individuals; and (3) the policy already has real-world precedent, with about 200 companies and South Cambridgeshire council using the model."
+          ]
+        },
+        {
+          "thesis": "The UK should treat working-time reduction as a productivity-and-wellbeing reform, not just a labor perk, because it can improve retention, morale, and output quality.",
+          "mechanisms": [
+            "First, shorter weeks can improve worker efficiency by reducing burnout. This is because (1) exhausted workers make more mistakes and have lower concentration; (2) compressed work can force firms to cut low-value tasks and meetings; and (3) better-rested employees are more likely to stay engaged and productive during working hours.",
+            "Second, it can improve labor market participation and retention. Three reasons: one, better work-life balance makes jobs more attractive in tight labor markets; two, workers with caring responsibilities especially benefit from extra non-work time; three, lower turnover reduces recruitment and training costs for firms.",
+            "Third, the policy has a credible implementation pathway. This matters because (1) the article notes more than 200,000 workers have already switched to a four-day week since Covid-19; (2) local pilots like South Cambridgeshire provide evidence and administrative precedent; and (3) gradual adoption allows firms to adapt rather than imposing a sudden economy-wide shock."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A four-day week is a blunt and economically risky tool because the obesity link is correlational, not causal, and the policy may reduce output or raise costs.",
+          "mechanisms": [
+            "First, the evidence base is weak for a nationwide mandate. One, the study itself does not prove causation; two, richer countries may have lower obesity for reasons unrelated to hours, such as healthcare, education, or food environments; three, the correlation could be driven by income and occupational structure rather than working time.",
+            "Second, a mandated four-day week can impose real economic costs. One, many sectors still require continuous coverage, so firms may need overtime or extra hiring; two, if full pay is preserved, labor costs rise unless productivity jumps enough to offset them; three, small firms and frontline services have less flexibility than office-based employers.",
+            "Third, the policy may not meaningfully reduce obesity if the underlying drivers are diet and inequality. This is because (1) processed food, cheap calories, and sedentary lifestyles are broader structural causes; (2) people may use extra time for unpaid work, childcare, or second jobs rather than exercise; and (3) obesity policy is more efficiently targeted through food regulation, urban design, and public health interventions."
+          ]
+        },
+        {
+          "thesis": "The better response is flexible working, not a universal four-day week, because it preserves choice while avoiding one-size-fits-all disruption.",
+          "mechanisms": [
+            "First, flexibility lets workers tailor schedules to their actual needs. This is because (1) some workers benefit more from remote work, staggered hours, or compressed weeks than from a fixed four-day model; (2) parents and carers may need different patterns than single workers; and (3) voluntary arrangements avoid forcing unsuitable schedules onto sectors with low adaptability.",
+            "Second, it avoids unfair distributional effects. One, high-income office workers are most able to capture the benefits, while shift workers and service workers may be left behind; two, if employers cut hours without increasing pay, workers may lose income; three, if employers keep pay constant, the policy may be subsidized by consumers through higher prices.",
+            "Third, the government already has a less disruptive path. This matters because (1) the article notes ministers are expanding flexible working requests through the Employment Rights Act; (2) incremental reform is easier to scale across the economy; and (3) it can deliver some of the same wellbeing gains without a politically contentious mandate."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a population-level health gain and the economic cost of imposing a uniform labor reform. Prop wins if it frames the four-day week as a low-cost structural fix for time poverty and stress; opp wins if it shows the evidence is correlational and that a mandate risks productivity losses and unequal access to benefits.",
+      "stock_connections": [
+        "Time Poverty",
+        "Work-Life Balance",
+        "Public Health Externalities",
+        "Productivity vs Welfare Tradeoff",
+        "Behavioral Economics",
+        "Labor Market Flexibility",
+        "Paternalism",
+        "Inequality in Access to Health"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would mandate a four-day work week",
+        "THBT governments should reduce the standard working week to improve public health",
+        "THP a world where firms are incentivized to adopt four-day weeks on full pay",
+        "THBT flexible working requests are a better policy than a universal four-day week"
+      ],
+      "data_points": [
+        "Study compared working patterns and obesity prevalence across 33 OECD countries from 1990 to 2022",
+        "A 1% reduction in annual working hours was associated with a 0.16% decrease in obesity rates",
+        "The article cites about 200 companies already using a four-day week for employees",
+        "Office for National Statistics data shows more than 200,000 workers have switched to a four-day week since the Covid-19 pandemic",
+        "South Cambridgeshire district council has introduced a four-day week for all staff",
+        "The UK government says it will not mandate a four-day work week for five days’ pay"
+      ]
+    },
     {
       "id": "770bf70a773f",
       "title": "Australia’s Budget-Backed Approval Fast-Track Trades Environmental Scrutiny for Housing and Investment Speed",
