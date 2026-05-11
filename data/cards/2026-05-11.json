@@ -1,7 +1,486 @@
 {
   "date": "2026-05-11",
-  "last_updated": "2026-05-11T20:05:14Z",
+  "last_updated": "2026-05-11T22:15:48Z",
   "cards": [
+    {
+      "id": "2f9f32e4b257",
+      "title": "Hormuz Closure Becomes the Dominant Lever on U.S. Gasoline Prices, Exposing Energy Markets to Geopolitical Shock",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/strait-only-lever-on-gas-prices-kloza-video",
+      "published": "2026-05-11T22:00:55Z",
+      "category": "Econ",
+      "region": "Middle East (Strait of Hormuz) / United States",
+      "background": "Tom Kloza, Chief Energy Advisor at Gulf Oil, said reopening the Strait of Hormuz is \"the only lever you can pull that has a major impact\" on fuel prices. He warned that if the strait remains closed, U.S. gasoline could hit $5 per gallon or higher this summer. He also said pausing federal gasoline taxes would have limited effect and could be hard to reverse once implemented, while hurricane disruptions could push prices to \"an apoplectic level.\"",
+      "prop_args": [
+        {
+          "thesis": "Keeping the Strait of Hormuz closed creates a severe, immediate energy-price shock that no domestic policy can offset quickly.",
+          "mechanisms": [
+            "First, the strait is a chokepoint for global oil flows, so closure directly constrains supply at the source. This is because (1) the market cannot easily substitute away from lost barrels in the short run, (2) shipping rerouting is limited by geography and tanker availability, and (3) oil inventories are too small to fully absorb a sustained disruption.",
+            "Second, the price pass-through to U.S. consumers is rapid and politically salient. Three reasons: one, gasoline is a daily necessity with very inelastic demand, two, refiners and wholesalers reprice expectations immediately when crude risk spikes, and three, a jump toward $5 per gallon hits household budgets in a visible way that can trigger broader inflation anxiety.",
+            "Third, this strengthens the case that geopolitical control of chokepoints matters more than domestic tax tweaks. This matters because pausing gasoline taxes only trims a small portion of the pump price, whereas reopening Hormuz restores the underlying supply balance and therefore has the largest structural effect on prices."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The U.S. and global market have more tools than the article suggests, so Hormuz is not the only meaningful lever on gasoline prices.",
+          "mechanisms": [
+            "First, governments and producers can partially cushion the shock through strategic and market responses. One, strategic petroleum reserves can bridge short-term shortages, two, OPEC+ and non-OPEC producers can increase output if prices spike enough, and three, demand destruction from high prices can reduce consumption and cap further increases.",
+            "Second, domestic policy can still matter even if it is imperfect. One, suspending gasoline taxes lowers the retail price directly, two, subsidies or targeted relief can reduce the political pressure of high fuel costs, and three, regulatory or logistical measures can improve refinery throughput and distribution at the margin.",
+            "Third, the market may price in closure risk before actual shortages fully materialize, limiting the marginal effect of reopening. One, futures markets can overreact to headlines and then normalize, two, consumers and firms adapt through conservation and substitution, and three, if the closure is temporary, the price spike may be sharp but not durable."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a true supply chokepoint and second-order domestic fixes. This argument wins because Hormuz affects the physical availability of crude at the global level, while tax pauses and relief measures mostly redistribute pain rather than remove it.",
+      "stock_connections": [
+        "Energy security",
+        "Supply shock",
+        "Price elasticity of demand",
+        "Inflation pass-through",
+        "Strategic reserves",
+        "Chokepoint geopolitics",
+        "Market panic / expectations"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize reopening the Strait of Hormuz over domestic fuel tax relief to lower gasoline prices",
+        "THBT governments should treat maritime chokepoints as critical infrastructure for energy security",
+        "THP a world where oil transit through strategic straits is guaranteed by international enforcement"
+      ],
+      "data_points": [
+        "Tom Kloza warned U.S. gasoline could reach \"$5 a gallon or higher\" this summer if the Strait of Hormuz stays closed",
+        "Kloza said reopening the Strait of Hormuz is \"the only lever you can pull that has a major impact\" on fuel prices",
+        "He said pausing federal gasoline taxes would have \"limited impact\" and could be difficult to reinstate once halted",
+        "He warned hurricane disruptions could push prices to \"an apoplectic level\""
+      ]
+    },
+    {
+      "id": "da6d4b6383d2",
+      "title": "Trump’s Iran Crisis Hands Russia an Oil Windfall While Weakening Ukraine’s Defenses",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/11/iran-war-russia-putin-trump-ukraine-oil/",
+      "published": "2026-05-11T21:51:10Z",
+      "category": "IR",
+      "region": "United States / Iran / Russia / Ukraine / Gulf",
+      "background": "The article argues that the U.S.-Iran standoff is producing spillover effects that directly benefit Russia. Carnegie Russia Eurasia Center director Alexander Gabuev says every $10 increase in crude prices adds roughly $100 million a month to Russia’s oil intake, and Russian authorities said April oil revenue reached $9 billion, about double pre-invasion levels. The piece also says the U.S. and partners have used more Patriot interceptors in the Gulf war than Ukraine has received since 2022, while Washington’s attention has shifted away from sanctions pressure on Russia.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s Iran crisis materially strengthens Russia’s war economy and strategic position, making Moscow a major beneficiary even if it is not the only one.",
+          "mechanisms": [
+            "First, higher crude prices directly increase Russian state revenue. This is because (1) Russia is a major oil exporter, (2) Gabuev cites a rule of thumb that every $10/barrel increase adds roughly $100 million per month to 'Russia Inc.', and (3) Russian officials reported $9 billion in oil revenue in April, which the article says is double pre-invasion levels.",
+            "Second, the conflict diverts scarce Western military resources away from Ukraine. Three reasons: one, Patriot interceptors are being consumed in the Gulf at a rate that exceeds Ukraine’s cumulative U.S./allied deliveries since 2022; two, Patriots are described as the only efficient defense against Russian ballistic missiles; three, a tighter Ukrainian interceptor stockpile increases the payoff of any future Russian missile campaign against infrastructure and cities.",
+            "Third, the U.S. national security agenda is being pulled away from Ukraine and sanctions enforcement. This matters because (1) Washington’s bandwidth is finite, (2) the article says more Russia sanctions pressure could have happened absent the Iran war, and (3) reduced attention gives Moscow more room to sustain its offensive and weaken Western coordination."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Russia is only a secondary beneficiary because the same crisis also creates serious constraints and even opportunities for Ukraine.",
+          "mechanisms": [
+            "First, Russia’s ability to materially assist Iran is limited, so the geopolitical upside is capped. One, the article says Russia is not a treaty ally of Iran and has no Article 5-style obligation; two, Russia itself needs air defenses and cannot spare large quantities; three, Iran’s air-defense bubble was already badly damaged, making Russian support too little, too late to change the battlefield.",
+            "Second, the crisis can strengthen Ukraine’s defense ecosystem rather than Russia’s. One, Kyiv is using the new demand for anti-drone and air-defense solutions to market its own battlefield-tested technology; two, Ukrainian operators are training Gulf militaries; three, joint ventures and Gulf investment could expand Ukrainian production capacity and offset some of Russia’s advantages.",
+            "Third, Russia still faces severe battlefield and domestic-security vulnerabilities. One, Ukrainian long-range strikes threaten refineries, export terminals, and strategic bombers; two, the article says Russia needed Trump’s help to secure the Victory Day parade and even shut down mobile internet in Moscow; three, these constraints show that any oil windfall does not translate into strategic security."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term economic windfalls and long-term strategic outcomes. Pro wins if the round is about immediate material benefit: Russia gets more cash, more distraction, and a weaker Ukrainian air-defense outlook. Opp wins if the benchmark is decisive strategic gain, because Russia’s support to Iran is limited and Ukraine may actually convert the crisis into industrial and diplomatic gains.",
+      "stock_connections": [
+        "War economy",
+        "Resource curse",
+        "Opportunity cost",
+        "Diversion of attention",
+        "Arms race / munitions depletion",
+        "Alliance entrapment",
+        "Strategic overstretch",
+        "Sanctions evasion",
+        "Military-industrial capacity"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize containing Iran even at the cost of reduced pressure on Russia",
+        "THBT external crises that raise energy prices are net beneficial to authoritarian petro-states",
+        "THP a world where U.S. military aid stockpiles are globally pooled rather than nationally reserved",
+        "THBT Russia is the main beneficiary of the Iran crisis",
+        "TH, as Ukraine, would exploit Middle East wars to seek defense-industrial partnerships with Gulf states"
+      ],
+      "data_points": [
+        "Every $10 increase in oil prices adds roughly $100 million per month to Russia's revenue, according to Sergey Vakulenko as cited in the article",
+        "Russia's oil revenue in April was reported at $9 billion, described as double pre-invasion levels",
+        "The article says the U.S. and partners in the Gulf used more Patriot interceptors in the first week of the Iran war than Ukraine had received from the U.S. and allies since 2022",
+        "Russia is described as having more tanks, artillery pieces, artillery shells, missiles, and fighter jets than Ukraine",
+        "The article says Russia is gaining ground, but at steep cost in materiel and personnel",
+        "Ukraine's Operation Spider's Web is cited as a drone strike on Russian strategic bombers carrying missiles used against Ukrainian cities"
+      ]
+    },
+    {
+      "id": "62398ecebbac",
+      "title": "Trump-Xi Talks Risk Turning Taiwan Into a Negotiating Chip in a Weakened U.S. Strategic Position",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/taiwan-not-a-bargaining-chip-rep-tokuda-video",
+      "published": "2026-05-11T21:40:19Z",
+      "category": "IR",
+      "region": "Taiwan / China / United States",
+      "background": "Rep. Jill Tokuda, a Democrat on the House Armed Services Committee and House China Select Committee, said Taiwan \"must not be a bargaining chip\" ahead of expected talks between President Donald Trump and President Xi Jinping. She argued that Beijing has been closely watching U.S. military deployments and that the Iran conflict has left Washington in a \"weakened position\" before the meeting. Tokuda also said the war \"has never stopped\" despite ceasefire claims and called for another congressional war powers vote when Congress returns next week.",
+      "prop_args": [
+        {
+          "thesis": "Any U.S.-China deal that treats Taiwan as negotiable would weaken deterrence, embolden Beijing, and increase the odds of coercion or conflict in the Taiwan Strait.",
+          "mechanisms": [
+            "First, bargaining over Taiwan signals to Beijing that U.S. commitments are conditional rather than strategic. This is because (1) China learns that pressure can extract concessions, (2) allies and partners infer that U.S. security guarantees are tradable, and (3) deterrence depends on the belief that the U.S. will absorb costs rather than auction off core interests.",
+            "Second, it incentivizes incremental Chinese coercion short of war. Three reasons: one, Beijing can test red lines through military drills, air and naval incursions, and economic pressure; two, each successful probe normalizes a higher baseline of coercion; three, Taiwan faces a worse security environment even if no formal invasion occurs.",
+            "Third, it damages U.S. alliance credibility across Asia. This matters because Japan, South Korea, the Philippines, and others calibrate their own defense posture based on whether Washington will stand firm under pressure, and any perception of transactional abandonment pushes them toward hedging, rearmament, or accommodation with China."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Using Taiwan as leverage in broader U.S.-China talks could reduce immediate great-power tensions and buy time for crisis management without necessarily sacrificing Taiwan's long-term security.",
+          "mechanisms": [
+            "First, linkage diplomacy can create incentives for restraint on both sides. One, if China wants trade, tech, or sanctions relief, it has reason to moderate military pressure; two, the U.S. can trade limited concessions for concrete de-escalation measures; three, crisis bargaining can lower the chance of accidental escalation in the near term.",
+            "Second, the U.S. may have limited capacity to defend Taiwan in a simultaneous multi-theater environment. One, the Iran conflict and broader force commitments strain attention, munitions, and readiness; two, signaling flexibility can preserve bandwidth for higher-priority contingencies; three, a calibrated deal may be preferable to overpromising and failing to deliver.",
+            "Third, Taiwan's security may be better served by managed ambiguity than maximalist rhetoric. One, ambiguity can deter both unilateral Taiwanese moves and Chinese overreaction; two, it keeps diplomatic off-ramps open; three, it avoids forcing Beijing into a corner where domestic nationalism makes compromise harder."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether transactional diplomacy lowers immediate risk or destroys long-run deterrence. Prop wins if you believe credibility is hard to rebuild and that any hint of bargaining over Taiwan permanently shifts Beijing's expectations; Opp wins if you think the U.S. is overextended and that limited flexibility can de-escalate without conceding sovereignty.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Credibility and Signaling",
+        "Alliance Politics",
+        "Security Dilemma",
+        "Transactional Diplomacy",
+        "Great Power Competition",
+        "Crisis Escalation",
+        "Hedging"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would never bargain over Taiwan in talks with China",
+        "THBT the United States should prioritize deterrence over diplomatic flexibility in the Taiwan Strait",
+        "THP a world where major powers cannot trade the security of smaller allies for broader geopolitical deals"
+      ],
+      "data_points": [
+        "Rep. Jill Tokuda is a member of the House Armed Services Committee and House China Select Committee",
+        "Tokuda said Beijing \"has been watching\" U.S. military deployments",
+        "Tokuda argued the Iran conflict has put America in a \"weakened position\" ahead of U.S.-China talks",
+        "The interview aired on Bloomberg's \"Balance of Power\" on 2026-05-11"
+      ]
+    },
+    {
+      "id": "e35954506ea9",
+      "title": "A Fragile U.S.-Iran Ceasefire Exposes the Limits of Deterrence and Diplomatic Signaling",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/balance-of-power-early-edition-5-11-2026-video",
+      "published": "2026-05-11T21:25:06Z",
+      "category": "IR",
+      "region": "United States / Iran",
+      "background": "Bloomberg’s \"Balance of Power: Early Edition\" on 2026-05-11 discussed the latest White House position after Donald Trump said the Iran ceasefire was weakened. The segment featured Bloomberg Washington correspondents Joe Mathieu and Kailey Leinz, alongside Heather Conley, Rick Davis, Jeanne Sheehan Zaino, and Brandon Pugh. The article itself is a program listing rather than a detailed policy report, so the core factual hook is that the U.S.-Iran ceasefire was publicly described by Trump as under strain on 11 May 2026.",
+      "prop_args": [
+        {
+          "thesis": "A weakened ceasefire shows that partial de-escalation without enforceable guarantees is unstable, so the U.S. should treat Iran diplomacy as a coercive bargaining problem rather than a trust-based peace process.",
+          "mechanisms": [
+            "First, the ceasefire becomes fragile when neither side believes the other is locked in. This is because (1) each side expects the other to rearm or reposition during the pause, (2) ambiguous terms create room for accusations of violation, and (3) domestic hardliners can frame restraint as weakness and push leaders back toward escalation.",
+            "Second, public U.S. signaling that the ceasefire is weakened can restore deterrence by clarifying costs. Three reasons: one, it tells Iran that Washington is monitoring compliance and will respond to opportunistic violations; two, it reassures allies and regional partners that the U.S. is not accepting a fait accompli; three, it reduces the chance that Iran misreads American restraint as strategic fatigue.",
+            "Third, the strategic value of calling out weakness is that it preserves bargaining leverage for the next round of talks. This matters because a ceasefire that is visibly unraveling without consequences teaches the other side that brinkmanship works, whereas a firm response makes future agreements more credible and lowers the expected payoff from cheating."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Publicly emphasizing that the ceasefire is weakened can itself accelerate collapse by signaling uncertainty, encouraging spoilers, and reducing the credibility of U.S. commitments.",
+          "mechanisms": [
+            "First, public doubt weakens deterrence if it makes the U.S. look divided or unwilling to enforce the deal. One, Iran may conclude Washington lacks appetite for escalation; two, regional proxies may interpret the statement as permission to test boundaries; three, allies may hedge independently, increasing the chance of miscalculation.",
+            "Second, the ceasefire is more likely to survive if diplomacy is quiet and face-saving. One, leaders need room to de-escalate without appearing to capitulate; two, public blame games empower domestic hawks on both sides; three, once a ceasefire is framed as failing, each side has incentives to preempt the other before being blamed for the breakdown."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether public hardening of the U.S. line stabilizes or destabilizes a brittle ceasefire. Prop wins if the key problem is opportunism and cheating; Opp wins if the key problem is signaling and escalation spirals. Structural advantage usually sits with Opp because fragile ceasefires often depend on ambiguity and face-saving, so public declarations of weakness can become self-fulfilling.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Signaling Theory",
+        "Escalation Spiral",
+        "Commitment Problems",
+        "Spoilers in Peace Processes",
+        "Face-Saving Diplomacy",
+        "Brinkmanship"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would publicly harden its line when a ceasefire with Iran weakens",
+        "THBT states should avoid public commentary that undermines fragile ceasefires",
+        "THP a world where ceasefires are enforced through explicit deterrent threats rather than diplomatic ambiguity"
+      ],
+      "data_points": [
+        "Bloomberg segment aired on 2026-05-11 at 21:25:06 UTC",
+        "The discussion centered on Trump’s statement that the Iran ceasefire was weakened",
+        "The panel included former officials and analysts from AEI, Stonecourt Capital, Harvard Kennedy School, and the U.S. Army’s cyber advisory sphere"
+      ]
+    },
+    {
+      "id": "dfbdac90ec6d",
+      "title": "Trump Targets Beef and Fuel Prices as Inflation Pressures Threaten the US Economy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/trump-takes-aim-at-beef-fuel-prices-as-inflation-risks-mount",
+      "published": "2026-05-11T21:16:26Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The article is about President Donald Trump focusing on beef and fuel prices amid mounting inflation risks in the US. It was published on 2026-05-11, during a period when inflation concerns were again becoming politically salient for the administration. The provided text does not include the article body, so the only concrete facts available are the headline framing and publication details.",
+      "prop_args": [
+        {
+          "thesis": "Targeted pressure on beef and fuel prices can reduce headline inflation quickly and protect household purchasing power.",
+          "mechanisms": [
+            "First, these are highly visible, high-frequency consumption items, so even small price reductions have outsized effects on consumer sentiment and inflation expectations. This is because (1) households notice gas and grocery prices immediately, (2) lower expectations can reduce wage-price spirals, and (3) political credibility on inflation depends disproportionately on these categories.",
+            "Second, intervention here can break specific supply bottlenecks rather than relying on broad, blunt anti-inflation policy. Three reasons: one, food and fuel prices often reflect concentrated market or logistics shocks; two, targeted action can increase supply or reduce markups faster than economy-wide tightening; three, it avoids unnecessarily suppressing demand in sectors not driving inflation.",
+            "Third, if the administration can credibly show it is acting on the cost of living, that stabilizes consumption and reduces recession risk. This matters because lower real household stress supports spending, prevents panic-driven retrenchment, and gives the government more room to manage inflation without overcorrecting."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Attacking beef and fuel prices is mostly political theater that risks distorting markets while doing little to solve underlying inflation.",
+          "mechanisms": [
+            "First, these prices are driven by structural and global factors that executive pressure cannot easily fix. One, beef prices depend on herd cycles, feed costs, and climate shocks; two, fuel prices depend on global oil markets, refining capacity, and geopolitical supply; three, short-term intervention cannot sustainably change these fundamentals.",
+            "Second, trying to suppress prices in politically salient sectors can create worse medium-term distortions. One, producers may cut investment if margins are squeezed; two, artificial price pressure can reduce supply and worsen shortages; three, it encourages ad hoc intervention instead of credible macro policy, which weakens long-run inflation management.",
+            "Third, if the administration uses populist price attacks instead of coherent policy, it may worsen inflation expectations. One, markets may read this as fiscal or regulatory unpredictability; two, businesses may preemptively raise prices or hold back supply; three, voters may get temporary relief but face higher volatility later."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the government can actually move these prices in a meaningful and durable way. Prop wins if the question is immediate relief and political stabilization; opp wins if the standard is structural inflation control, because beef and fuel are symptoms of deeper supply and market conditions rather than the core cause.",
+      "stock_connections": [
+        "Populism",
+        "Cost of Living Crisis",
+        "Inflation Expectations",
+        "Price Controls",
+        "Market Distortion",
+        "Supply Shocks",
+        "Political Economy of Inflation"
+      ],
+      "motion_areas": [
+        "TH, as the US President, would prioritize direct intervention in food and fuel prices to fight inflation",
+        "THBT governments should target politically salient consumer prices rather than broad monetary tightening during inflation spikes",
+        "THP a world where elected leaders are judged primarily on their ability to lower everyday living costs"
+      ],
+      "data_points": [
+        "Published by Bloomberg on 2026-05-11T21:16:26Z",
+        "Headline explicitly links beef and fuel prices to mounting inflation risks in the US",
+        "The article is framed around President Donald Trump and the US cost-of-living debate"
+      ]
+    },
+    {
+      "id": "1ea4e8fb4aae",
+      "title": "Virginia Redistricting Fight Could Decide Control of a Narrowly Divided US House",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/11/virginia-democrats-supreme-court-electoral-map",
+      "published": "2026-05-11T21:04:19Z",
+      "category": "IR",
+      "region": "United States (Virginia)",
+      "background": "Virginia Democrats asked the US supreme court on Monday to revive a congressional map designed to help Democrats flip four Republican-held House seats in the November midterms. The Virginia supreme court struck down the map on 8 May in a 4-3 ruling, saying Democratic lawmakers had not followed proper procedure when they rushed a ballot measure through last year. The dispute comes amid a broader mid-decade redistricting battle, after Donald Trump pushed Texas Republicans to redraw maps that could flip up to five Democratic seats, with control of Congress potentially at stake.",
+      "prop_args": [
+        {
+          "thesis": "Federal courts should allow voter-approved redistricting changes when they reflect a legitimate democratic choice, because blocking them entrenches partisan manipulation and distorts representation.",
+          "mechanisms": [
+            "First, reviving the map protects voter sovereignty. This is because (1) the map was approved by voters in an April ballot measure, (2) invalidating it on procedural grounds overrides a direct democratic mandate, and (3) letting courts nullify popular redistricting reforms signals that elite legal process can defeat mass participation.",
+            "Second, it prevents one-sided partisan entrenchment in a mid-decade arms race. Three reasons: one, Republicans already have an advantage because Texas is redrawing maps to flip up to five Democratic seats; two, if only one side can use aggressive mapmaking, the other side is locked into permanent disadvantage; three, allowing Virginia to respond restores symmetry and deters unilateral gerrymanders.",
+            "Third, the stakes are institutional, not just local. This matters because (1) the House majority may hinge on a handful of seats, (2) a narrowly divided Congress means district design can determine national policy on budgets, immigration, and oversight, and (3) courts that freeze maps mid-cycle can preserve a status quo that no longer reflects current political preferences."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The court should block the map because procedural and constitutional limits on redistricting matter more than partisan advantage, and allowing rushed mid-decade remaps invites abuse.",
+          "mechanisms": [
+            "First, the map was invalidly enacted, so restoring it would reward procedural shortcutting. One, the Virginia supreme court found lawmakers rushed the referendum without following proper procedure; two, if parties can cure bad process by appealing to partisan necessity, then legal safeguards become optional; three, that weakens rule-of-law constraints on election administration.",
+            "Second, mid-decade redistricting creates a permanent escalation cycle. One, once one party redraws outside the census cycle, the other side is incentivized to retaliate in every state it controls; two, this turns districting into a continuous partisan arms race rather than a stable representation system; three, voters face constant uncertainty and less accountability because district lines become tools of immediate partisan warfare.",
+            "Third, partisan maps reduce democratic legitimacy even when they help the 'right' side. One, maps drawn to flip seats prioritize party control over community representation; two, that can dilute local interests and minority cohesion; three, if courts bless openly partisan remaps, they normalize a system where elections are engineered rather than contested on persuasion."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between democratic responsiveness and institutional restraint. Prop wins if the judge prioritizes preventing one-sided partisan entrenchment in a national midterm fight; opp wins if the judge thinks procedural legitimacy and stable election rules are the higher-order value.",
+      "stock_connections": [
+        "Gerrymandering",
+        "Partisan entrenchment",
+        "Rule of law",
+        "Democratic legitimacy",
+        "Escalation / arms race",
+        "Voter suppression",
+        "Minority representation",
+        "Judicial overreach"
+      ],
+      "motion_areas": [
+        "TH, as the US Supreme Court, would uphold voter-approved mid-decade redistricting maps",
+        "THBT courts should allow partisan redistricting as a response to opponent gerrymanders",
+        "THP a world where states can redraw congressional maps outside the census cycle by popular referendum"
+      ],
+      "data_points": [
+        "Virginia supreme court ruled 4-3 on 8 May to strike down the map",
+        "The proposed map was designed to flip four Republican-held US congressional seats to Democrats",
+        "Texas Republicans are redrawing maps that could flip up to five Democratic-held seats to Republicans",
+        "The US Supreme Court has a 6-3 conservative majority",
+        "The 2023 Supreme Court ruling warned state courts may not 'arrogate to themselves the power vested in state legislatures to regulate federal elections'",
+        "The ballot measure was approved by Virginia voters in April"
+      ]
+    },
+    {
+      "id": "a3ee6d455091",
+      "title": "EU Sanctions Expose Russia’s Child-Abduction Campaign as a Genocidal War Crime",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/11/eu-sanctions-russia-abductions-ukraine-children/",
+      "published": "2026-05-11T21:04:17Z",
+      "category": "IR",
+      "region": "European Union / Ukraine / Russia",
+      "background": "On Monday, the European Union imposed sanctions on 16 individuals accused of helping Russia abduct Ukrainian children and deport them to Russia or occupied territories. The EU Council says Russia has abducted nearly 20,500 minors since its full-scale invasion began in February 2022, and around 2,200 children have been returned so far. The sanctions add to more than 130 people and entities already under EU travel bans and asset freezes; the ICC issued an arrest warrant for Vladimir Putin in March 2023 over the abductions.",
+      "prop_args": [
+        {
+          "thesis": "Targeted sanctions are a necessary first step to raise the cost of child abduction, disrupt the machinery of forced assimilation, and keep the issue alive in international law and diplomacy.",
+          "mechanisms": [
+            "First, sanctions disrupt the operational network that makes the abductions possible. This is because (1) the policy is not just one-off kidnapping but a system involving camp heads, military officers, and government representatives, (2) asset freezes and travel bans make it harder for these actors to coordinate, move money, and maintain international legitimacy, and (3) expanding the sanctions list to 130+ people and entities signals that the EU is mapping the chain of responsibility rather than treating this as isolated abuse.",
+            "Second, sanctions strengthen the legal and political case that Russia is committing a grave international crime. Three reasons: one, the Genocide Convention explicitly treats forcible transfer of children as a genocidal act; two, the ICC arrest warrant against Putin already frames this as personal and command responsibility; three, EU sanctions create documentary and diplomatic pressure that helps future prosecutions, reparations claims, and third-party state cooperation.",
+            "Third, sanctions matter because they protect Ukrainian national continuity, not just individual children. This works because (1) the abductions are designed to erase language, identity, and family ties, (2) even if only a fraction of the 20,500 children are returned, each return undermines Russia’s assimilation project, and (3) keeping the issue salient increases pressure on neutral states, humanitarian groups, and mediators to prioritize child repatriation in any cease-fire or peace talks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "EU sanctions are symbolically important but materially weak, and they risk substituting performative punishment for the hard bargaining needed to actually recover the children.",
+          "mechanisms": [
+            "First, sanctions do little to change Russia’s behavior on the ground. One, the people targeted are already embedded in a wartime state apparatus that can ignore EU travel bans; two, the abductions are happening inside occupied territory and Russia, where EU leverage is limited; three, the article itself shows the core problem is identification and reunification, not just punishment.",
+            "Second, sanctions can harden Russia’s bargaining position and reduce cooperation on returns. One, Moscow can frame the measures as proof the EU is not a neutral interlocutor; two, it can retaliate by slowing or blocking child repatriations and humanitarian access; three, the more the issue is securitized and criminalized, the less room there is for pragmatic prisoner-swap-style deals that have historically produced the 2,200 returns.",
+            "Third, the broader war context means sanctions may not be the binding constraint. One, the cease-fire is already fragile and fighting continues despite U.S.-brokered arrangements; two, as long as the war continues, children remain vulnerable to further transfers and indoctrination; three, without battlefield pressure or a durable settlement, sanctions alone cannot reverse a mass population-transfer policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between moral/legal condemnation and actual child recovery. Pro side wins if the round is about norm-setting and long-run accountability; opposition wins if the judge prioritizes immediate leverage, because the abductions are embedded in an active war zone where sanctions have weak direct coercive power.",
+      "stock_connections": [
+        "War Crimes Accountability",
+        "Genocide Convention",
+        "Coercive Diplomacy",
+        "Sanctions Efficacy",
+        "Humanitarian Intervention",
+        "Identity Erasure",
+        "Population Transfer",
+        "International Law Enforcement"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would impose targeted sanctions on officials involved in child abductions during wartime",
+        "THBT international institutions should prioritize sanctions over negotiations when states commit mass child deportations",
+        "THP a world where war crimes against children trigger automatic multilateral sanctions"
+      ],
+      "data_points": [
+        "Around 20,500 Ukrainian minors have been abducted since February 2022",
+        "Around 2,200 children have been returned to Ukraine so far",
+        "More than 130 people and entities are now under EU travel bans and asset freezes",
+        "The EU sanctions announced on Monday targeted 16 individuals and 7 Russian centers",
+        "The ICC issued an arrest warrant for Vladimir Putin in March 2023 over the abductions",
+        "Under the Genocide Convention, forcibly transferring children of a group to another group can qualify as genocide"
+      ]
+    },
+    {
+      "id": "f87dff7d18e6",
+      "title": "Amazon’s Ebike Crackdown Exposes the Tradeoff Between Platform Growth and Consumer Safety Enforcement",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/11/amazon-stops-sales-high-speed-ebikes-california",
+      "published": "2026-05-11T21:00:51Z",
+      "category": "Business",
+      "region": "United States (California)",
+      "background": "Amazon said it will stop selling certain high-speed electric bicycles in California after a series of fatal crashes and a consumer alert from California Attorney General Rob Bonta and county district attorneys. The alert said vehicles that can exceed 28 mph with pedal assist or 20 mph with throttle are mopeds or motorcycles, not ebikes, and therefore require age limits and special licensing. In one April incident, 81-year-old Ed Ashman was killed in Orange County after a teenager illegally riding an e-motorcycle struck him; the teen’s mother has been charged with involuntary manslaughter. KCRA 3 reported finding listings on Amazon for vehicles marketed as ebikes that could exceed 40 mph, and Amazon said it would remove noncompliant listings and require third-party sellers to follow state law.",
+      "prop_args": [
+        {
+          "thesis": "Amazon’s removal of illegal high-speed ebikes is justified because platform enforcement is the fastest way to reduce preventable consumer harm in a market where sellers have been mislabeling dangerous vehicles.",
+          "mechanisms": [
+            "First, platform-level delisting is the most immediate enforcement tool. This is because (1) Amazon can remove thousands of listings at once, (2) third-party sellers have weak incentives to self-regulate when faster vehicles are more attractive to buyers, and (3) state regulators cannot easily police every online listing in real time.",
+            "Second, stricter marketplace rules reduce information asymmetry and misrepresentation. Three reasons: one, consumers often cannot tell from a product page whether a vehicle is legally an ebike or actually a moped/motorcycle; two, sellers have been marketing vehicles that can exceed 40 mph as ebikes; three, clearer compliance rules force sellers to disclose speed, licensing, and age requirements.",
+            "Third, this materially improves public safety and liability outcomes. This matters because (1) the article cites more than 100 deaths nationwide from ebike and e-motorcycle crashes, (2) injuries in southern California have increased 430% over the last four years, and (3) stopping illegal sales reduces the number of unlicensed riders on sidewalks, parks, and streets."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Amazon’s crackdown is an overcorrection that shifts responsibility from negligent riders and manufacturers onto a marketplace, while doing little to solve the underlying safety problem.",
+          "mechanisms": [
+            "First, the policy may punish legitimate commerce and reduce consumer choice. One, not all high-speed electric two-wheelers are inherently unsafe if used by licensed adults on appropriate roads; two, blanket delistings can remove lawful products alongside illegal ones; three, smaller sellers may be unable to navigate complex state-by-state compliance rules and exit the market.",
+            "Second, marketplace enforcement is a blunt substitute for actual regulation and education. One, the core problem is illegal riding by minors and misuse on sidewalks and streets, which delisting alone does not stop; two, manufacturers can simply relabel products or move to other platforms; three, state and local governments still need targeted enforcement, licensing, and public awareness campaigns to change rider behavior.",
+            "Third, the policy may create a false sense of safety while leaving dangerous products available elsewhere. One, consumers can still buy similar vehicles from other online retailers or direct-to-consumer sellers; two, enforcement on one platform can displace sales rather than eliminate them; three, the most reckless users are least likely to be deterred by a listing removal."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether platform enforcement meaningfully reduces harm faster than it distorts lawful commerce. Prop has the structural advantage on immediacy and scale because Amazon can cut off illegal listings instantly, but Opp can win if it proves the root cause is rider behavior and fragmented regulation rather than marketplace availability alone.",
+      "stock_connections": [
+        "Consumer Protection",
+        "Information Asymmetry",
+        "Platform Regulation",
+        "Duty of Care",
+        "Moral Hazard",
+        "Regulatory Arbitrage",
+        "Public Safety vs Market Access"
+      ],
+      "motion_areas": [
+        "TH, as Amazon, would remove all high-speed ebikes that do not clearly comply with state licensing and speed rules",
+        "THBT online marketplaces should be held liable for illegal vehicle listings sold through third-party vendors",
+        "THP a world where major e-commerce platforms proactively delist potentially illegal consumer products before regulators act"
+      ],
+      "data_points": [
+        "Vehicles exceeding 28 mph with pedal assist or 20 mph with throttle are classified as mopeds or motorcycles under California law",
+        "KCRA 3 found listings marketed as ebikes that could exceed 40 mph (65 km/h)",
+        "More than 100 deaths across the United States have resulted from ebike and e-motorcycle crashes",
+        "Injuries from ebike and e-motorcycle crashes have increased 430% in the last four years in southern California",
+        "An 81-year-old man died in Orange County after being struck by a teenager illegally riding an e-motorcycle",
+        "The teen’s mother has been charged with involuntary manslaughter in connection with the death",
+        "California Attorney General Rob Bonta and several county district attorneys issued a consumer alert last month warning retailers about mislabeling high-speed vehicles as ebikes"
+      ]
+    },
+    {
+      "id": "c0107a59bd76",
+      "title": "Trump Administration’s Fast-Tracked Deportation of Mahmoud Khalil Turns Immigration Enforcement Into a Speech-Suppression Tool",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/11/mahmoud-khalil-doj-case-fast-tracked",
+      "published": "2026-05-11T20:53:36Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "Mahmoud Khalil, a lawful permanent resident and married to a US citizen, was arrested in New York in March 2025 over his pro-Palestinian activism at Columbia University and held for 104 days in ICE detention in Louisiana. In April 2026, the Board of Immigration Appeals issued a final removal order in just nine days after final briefing, far faster than the years such cases usually take; internal documents reported by the New York Times said the case had been flagged as high priority and expedited. Khalil’s lawyers argue the process was preordained, while the administration has said his activism created adverse foreign policy consequences and later alleged omissions in his green card application.",
+      "prop_args": [
+        {
+          "thesis": "Fast-tracking Khalil’s removal shows how immigration law can be weaponized to punish dissent, so the state should be constrained from using deportation as a political tool.",
+          "mechanisms": [
+            "First, expedited removal turns ordinary legal process into selective repression. This is because (1) the government can prioritize politically inconvenient people while leaving similar cases to languish, (2) the speed of the process reduces meaningful judicial scrutiny and factual testing, and (3) the appearance of preordination chills other activists who see that lawful speech can trigger immigration consequences.",
+            "Second, the case undermines rule-of-law legitimacy by collapsing the separation between adjudication and executive preference. Three reasons: one, the BIA is legally required to act independently but internal documents suggest it was flagged as a high-priority case; two, multiple judge recusals and a nine-day post-briefing decision create the appearance of outcome-shopping; three, once the public believes immigration courts are politically managed, compliance with the broader system falls because people treat it as arbitrary rather than neutral.",
+            "Third, the broader impact is a chilling effect on minority and protest speech, especially among noncitizens. This matters because (1) noncitizens are already more vulnerable to retaliation through visa, detention, and removal tools, (2) the threat of deportation is uniquely severe compared to ordinary criminal penalties because it separates families and expels people from their community, and (3) if the state can target a visible activist like Khalil, it deters others from participating in protests on Palestine, immigration, or foreign policy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The government is entitled to use immigration enforcement quickly and aggressively when it believes a noncitizen’s conduct implicates national interests, foreign policy, or eligibility for residency.",
+          "mechanisms": [
+            "First, expedited processing is not proof of illegality; it is a legitimate administrative response to a case the government deems high priority. One, immigration systems routinely triage cases based on urgency and public interest, two, the BIA still issued a formal order rather than an extrajudicial punishment, and three, the administration can argue that foreign-policy-sensitive cases require faster resolution to avoid prolonged uncertainty.",
+            "Second, the state has stronger authority over noncitizens than over citizens, so the speech-chilling claim is weaker here. One, permanent residency is conditional and can be challenged if the government alleges omissions or statutory ineligibility, two, the executive has broad discretion in immigration and foreign-affairs matters, and three, the relevant legal question is not whether Khalil is sympathetic but whether he satisfies the standards for remaining in the country.",
+            "Third, prioritizing a high-profile case can serve deterrence and enforcement consistency. One, if the government believes activist conduct crosses into material support or foreign-policy harm, swift action signals that legal status does not immunize misconduct, two, it prevents strategic delay by litigants who might otherwise use years of appeals to remain in the US, and three, it reassures the public that immigration law is being enforced rather than selectively ignored."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether speed here is evidence of abuse or simply evidence of enforcement priority. Prop wins if they prove the process was structurally preordained, because that turns a single deportation case into a broader rule-of-law and chilling-speech story; Opp wins if they frame this as ordinary executive discretion over a noncitizen in a national-security-adjacent case.",
+      "stock_connections": [
+        "Rule of Law",
+        "Democratic Backsliding",
+        "Chilling Effect",
+        "Minority Suppression",
+        "Executive Overreach",
+        "Due Process",
+        "Immigration Discretion",
+        "National Security vs Civil Liberties"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would prohibit the use of immigration enforcement to punish political speech",
+        "THBT courts should more aggressively review deportation cases involving protected speech",
+        "THP a world where noncitizens cannot be deported for political activism absent criminal conviction",
+        "THBT the executive should not be able to fast-track immigration cases on foreign policy grounds",
+        "TH, as a liberal democracy, would bar deportation of lawful permanent residents for protest activity"
+      ],
+      "data_points": [
+        "Khalil was held in ICE detention for 104 days after his March 2025 arrest in New York",
+        "The Board of Immigration Appeals issued a final removal order within nine days of final briefing",
+        "Typical BIA appeals decisions take years, according to the article",
+        "Khalil is a lawful permanent resident married to a US citizen",
+        "A federal judge previously found his detention unconstitutional and said he was neither a flight risk nor a community threat",
+        "The administration alleged his activism posed 'adverse foreign policy consequences'",
+        "A separate federal judge described the administration’s deportation policy toward pro-Palestinian scholars as 'an unconstitutional conspiracy to pick off certain people'"
+      ]
+    },
     {
       "id": "ce34de25db89",
       "title": "Secret ICE Deportation Flights Turn Immigration Enforcement Into a Due-Process and Oversight Battle",
@@ -4917,6 +5396,62 @@
         "The article says global temperatures are likely to surpass 1.5°C of warming by the end of the decade",
         "The UNFCCC has been the annual climate summit process since 1995, and the Paris Agreement was adopted in 2015",
         "The U.S. is described as absent from the Paris Agreement, the IPCC, and the UNFCCC as of January 2027"
+      ]
+    },
+    {
+      "id": "4b502bf87c71",
+      "title": "Trump’s Rejection of Iran Talks Keeps Hormuz Shut and Forces the World Into a Higher-Oil-Price Equilibrium",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/11/oil-prices-climb-trump-dismisses-iran-response-us-peace-plan",
+      "published": "2026-05-11T08:49:46Z",
+      "category": "Econ",
+      "region": "Middle East / Global",
+      "background": "Oil prices rose after Donald Trump called Iran’s response to a US peace proposal “totally unacceptable,” with Brent crude jumping as much as 4% intraday to $105.50 a barrel before closing at $103.50. The US proposal, reportedly a 14-point memorandum of understanding, was meant to reopen the Strait of Hormuz and create a framework for further talks on Iran’s nuclear programme, while Iran’s counter-proposal reportedly demanded a shorter moratorium and rejected dismantling its facilities. The article says the Strait of Hormuz, through which about one-fifth of the world’s oil and gas supply normally passes, remains effectively closed and the crisis is now in its 11th week.",
+      "prop_args": [
+        {
+          "thesis": "Keeping pressure on Iran is necessary to prevent a bad deal that would entrench nuclear risk and reward coercion, even if it means higher oil prices in the short run.",
+          "mechanisms": [
+            "First, refusing to accept Iran’s counter-proposal preserves bargaining leverage. This is because (1) Tehran’s offer reportedly kept its facilities intact, (2) a shorter moratorium would let Iran wait out the pressure and resume the same leverage later, and (3) conceding early would signal that closing Hormuz is an effective way to extract concessions.",
+            "Second, a hard line reduces the chance of a weak, unenforceable agreement. Three reasons: one, the US proposal was tied to reopening Hormuz, so accepting a partial Iranian response without verification would leave the core security problem unresolved; two, dismantlement demands matter because enrichment capacity is the central proliferation concern; three, a visibly firm US stance reassures allies that Washington will not trade away regional security for temporary price stability.",
+            "Third, the oil-price shock is painful but manageable relative to the strategic cost of appeasement. This matters because (1) markets can adapt to constrained supply over time, (2) higher prices create incentives for non-OPEC production and demand restraint, and (3) the long-run cost of a nuclear-armed or emboldened Iran would be far greater than a temporary Brent spike above $100."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s rejection is economically self-defeating because it prolongs a supply shock that hurts consumers, inflation, and global growth more than it improves US leverage.",
+          "mechanisms": [
+            "First, keeping Hormuz effectively closed locks in a global energy tax. One, about 20% of the world’s oil and gas supply normally passes through the strait; two, Brent already jumped to $105.50 before settling at $103.50, showing how quickly markets price in scarcity; three, sustained high prices feed directly into transport, food, and manufacturing costs.",
+            "Second, the inflation spillover constrains monetary policy and raises borrowing costs. One, the article notes UK government borrowing costs rose on fears of higher inflation; two, higher inflation makes it harder for central banks to cut rates; three, that slows investment and consumer spending across multiple economies, not just in the Middle East.",
+            "Third, escalation is more likely to backfire than to coerce Iran. One, rejecting the counter-proposal hardens Tehran’s domestic politics and reduces room for compromise; two, the longer the crisis lasts, the more both sides normalize confrontation and accidental escalation; three, even if a major reignition of war is less likely, the persistent supply constraint still imposes large welfare losses on the rest of the world."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term strategic leverage and immediate global economic harm. The opposition is stronger on magnitude and certainty because the oil shock is already visible in prices, inflation, and borrowing costs, while the proposition’s claim that pressure produces a better deal depends on uncertain future compliance.",
+      "stock_connections": [
+        "Energy security",
+        "Inflationary shock",
+        "Supply shock",
+        "Coercive diplomacy",
+        "Moral hazard",
+        "Deterrence",
+        "Sanctions leverage",
+        "Global interdependence"
+      ],
+      "motion_areas": [
+        "TH, as the US, would refuse to compromise with Iran over reopening the Strait of Hormuz",
+        "THBT governments should prioritize geopolitical leverage over short-term energy price stability",
+        "THP a world where major oil chokepoints are kept open through coercive diplomacy rather than concessions"
+      ],
+      "data_points": [
+        "Brent crude rose as much as 4% intraday to $105.50 a barrel before settling at $103.50",
+        "The Strait of Hormuz normally carries about one-fifth of the world’s oil and gas supply",
+        "The crisis is now in its 11th week",
+        "UK 30-year gilt yields rose by as much as 7 basis points to 5.64%",
+        "UK 10-year gilt yields rose 5 basis points to 4.96%",
+        "FTSE 100 opened 0.2% higher, with BP and Shell among the top risers",
+        "France’s CAC 40 fell 0.5% and Germany’s Dax fell 0.9%",
+        "Japan’s Nikkei fell 0.4%, Hong Kong’s Hang Seng fell 0.3%, Shanghai Composite rose about 1%, and South Korea’s Kospi rose 4.3%"
       ]
     },
     {
