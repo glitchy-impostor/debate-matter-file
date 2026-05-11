@@ -1,7 +1,986 @@
 {
   "date": "2026-05-11",
-  "last_updated": "2026-05-11T04:13:33Z",
+  "last_updated": "2026-05-11T10:00:29Z",
   "cards": [
+    {
+      "id": "f1814c41817a",
+      "title": "UK Nationalises British Steel to Prevent Industrial Collapse and Foreign Asset Exit",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T09:44:55Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "On 11 May 2026, Prime Minister Keir Starmer said the UK government would bring forward legislation this week to give it powers to take full ownership of British Steel, subject to a public interest test. The announcement follows the government seizing control of British Steel’s Scunthorpe steelworks from its Chinese owner Jingye in April 2025 to stop the possible closure of the site’s blast furnaces. Starmer said talks with Jingye had failed to produce a commercial sale, making public ownership the next step.",
+      "prop_args": [
+        {
+          "thesis": "Nationalisation is justified because steel is a strategic industrial input where market failure and foreign ownership create unacceptable risks to jobs, supply chains, and national resilience.",
+          "mechanisms": [
+            "First, public ownership prevents a sudden collapse of a strategically important firm. This is because (1) steel is an upstream input for construction, defence, transport, and infrastructure, (2) private owners facing losses have incentives to shut blast furnaces quickly rather than absorb long-term losses, and (3) once heavy industrial capacity is lost, it is extremely expensive and slow to rebuild.",
+            "Second, nationalisation protects domestic employment and the wider local economy. Three reasons: one, Scunthorpe jobs are directly tied to the plant; two, supplier and service firms depend on the steelworks, so closure multiplies unemployment beyond the site itself; three, preserving the plant avoids a regional shock that would otherwise hit tax revenues, housing demand, and local public services.",
+            "Third, state ownership secures bargaining power over a critical asset that foreign owners may not treat as a national priority. This matters because the government can keep production running while restructuring the business, preventing a fire-sale closure and ensuring the UK retains sovereign control over a sector with national security and industrial policy implications."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Nationalisation is a costly bailout that entrenches inefficiency, politicises industrial policy, and sets a precedent for state rescue of failing firms.",
+          "mechanisms": [
+            "First, state ownership weakens incentives to innovate and cut costs. One, managers under public ownership are less exposed to profit-and-loss discipline; two, political pressure often keeps uncompetitive plants open longer than economically justified; three, this can lock in low productivity and delay necessary restructuring.",
+            "Second, it imposes fiscal costs and opportunity costs on taxpayers. One, the government must cover operating losses, capital upgrades, and environmental compliance; two, those funds could otherwise support higher-return investments like skills, infrastructure, or new industries; three, repeated bailouts create moral hazard by signalling that politically important firms will be rescued regardless of performance.",
+            "Third, it can deter future foreign investment and worsen UK credibility on property rights. One, investors may fear that strategic assets can be taken over when politically convenient; two, this increases perceived sovereign risk and raises the cost of capital; three, it may reduce the willingness of international firms to invest in UK manufacturing or enter joint ventures."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether British Steel is a normal failing firm or a strategic asset with irreversible spillovers if it closes. Prop wins if the round prioritises industrial resilience and local economic devastation; opp wins if the round prioritises long-run efficiency, fiscal discipline, and the precedent set for state intervention.",
+      "stock_connections": [
+        "Strategic Industries",
+        "Moral Hazard",
+        "Industrial Policy",
+        "State Ownership",
+        "Bailouts",
+        "Deindustrialisation",
+        "National Security",
+        "Foreign Ownership"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would nationalise British Steel",
+        "THBT governments should nationalise strategically important failing industries",
+        "THP a world where states can take over critical industrial assets from foreign owners"
+      ],
+      "data_points": [
+        "UK government announced legislation on 11 May 2026 to enable full ownership of British Steel",
+        "The government seized control of British Steel’s Scunthorpe steelworks in April 2025",
+        "The intervention was aimed at preventing closure of the site’s blast furnaces",
+        "British Steel was owned by Jingye, a Chinese company, before the takeover process"
+      ]
+    },
+    {
+      "id": "9a82fad7a070",
+      "title": "Starmer Bets on EU Re-Engagement and Steel Nationalisation to Rescue Labour’s Economic Credibility",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
+      "published": "2026-05-11T09:40:03Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "On 11 May 2026, Keir Starmer used a speech amid renewed Labour leadership speculation to argue that incremental change was no longer enough and that his government needed a bigger economic reset. He announced legislation would be brought forward this week to give the government powers, subject to a public interest test, to take full public ownership of British Steel after commercial sale talks in Scunthorpe failed. He also said Labour would set a new direction with the EU at the next summit, including an ambitious youth experience scheme and deeper economic, trade, and defence cooperation.",
+      "prop_args": [
+        {
+          "thesis": "Starmer’s shift toward industrial intervention and closer EU ties is the right economic response to Britain’s stagnation because it restores strategic capacity, lowers trade frictions, and signals a break from failed Brexit-era policy.",
+          "mechanisms": [
+            "First, nationalising British Steel protects a strategic input that private markets have failed to secure. This is because (1) steel is a core upstream industry for defence, infrastructure, and manufacturing, (2) a failed commercial sale in Scunthorpe shows the asset is not being allocated efficiently by the market, and (3) public ownership prevents a disorderly collapse that would destroy skilled jobs and local supply chains.",
+            "Second, rebuilding ties with the EU improves growth by reducing post-Brexit friction. Three reasons: one, closer alignment can cut trade barriers for exporters and importers, two, a youth mobility scheme and restored Erasmus-style links improve labour-market matching and human capital, and three, stronger cooperation with Europe supports investment confidence by making Britain look less isolated and more predictable.",
+            "Third, this strategy is politically and economically necessary because the status quo has already failed to deliver on Brexit promises. This matters because if voters believe Brexit made Britain poorer and weaker, then a government that refuses to adapt looks captured by ideology rather than focused on living standards, which depresses business confidence and weakens long-run growth."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Starmer’s interventionist turn risks worsening Britain’s economic problems by increasing state exposure, politicising industry, and offering symbolic Europe policy rather than material growth.",
+          "mechanisms": [
+            "First, nationalising British Steel may create a costly precedent for state bailouts. One, it shifts commercial risk onto taxpayers if the sector remains uncompetitive, two, it weakens incentives for private investment if firms expect future rescue, and three, it can crowd out spending on higher-return public goods like skills, infrastructure, or energy transition.",
+            "Second, a warmer EU relationship may deliver limited economic upside while reopening politically toxic Brexit conflict. One, the UK is outside the single market and customs union, so gains from a youth scheme or summit rhetoric are marginal compared with full market access, two, regulatory concessions may be politically costly without guaranteed growth, and three, the government risks spending scarce political capital on symbolic Europe policy instead of domestic productivity reforms.",
+            "Third, the speech itself signals weakness rather than a credible growth plan. One, it is framed as a leadership defence against internal doubters, which undermines confidence in execution, two, broad claims about 'stories' and 'hope' do not substitute for concrete supply-side reform, and three, markets and voters may read this as reactive politics rather than a coherent economic strategy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether state intervention and EU re-engagement are seen as pragmatic fixes to structural underperformance or as expensive symbolism that distracts from deeper productivity reform. Prop wins if the round is about strategic capability and trade friction; opp wins if the focus is fiscal risk, weak marginal gains, and the danger of politicising economic policy.",
+      "stock_connections": [
+        "State Intervention",
+        "Industrial Policy",
+        "Nationalisation",
+        "Trade Friction",
+        "Post-Brexit Adjustment",
+        "Strategic Autonomy",
+        "Moral Hazard",
+        "Crowding Out",
+        "Dependency Theory",
+        "Economic Nationalism"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would nationalise failing strategic industries",
+        "THBT the UK should pursue closer economic integration with the EU",
+        "THP a world where governments prioritise strategic industrial capacity over market efficiency",
+        "THBT Labour should make rejoining European youth mobility schemes a central economic priority"
+      ],
+      "data_points": [
+        "Starmer said legislation would be brought forward this week to give the government powers to take full public ownership of British Steel, subject to a public interest test.",
+        "The steel plant in question is in Scunthorpe; Starmer said commercial sale negotiations had not been possible.",
+        "Starmer said the next EU summit would set a 'new direction for Britain' and that Labour would seek an 'ambitious youth experience scheme'.",
+        "He said Labour had already restored the Erasmus scheme.",
+        "Starmer claimed NHS waiting lists are coming down, child poverty is coming down, and immigration is coming down.",
+        "He said Brexit had promised Britain would be 'stronger' and 'richer' but that those promises had 'proved to be false'."
+      ]
+    },
+    {
+      "id": "ff3137ba6274",
+      "title": "Starmer’s Reset Speech Signals a High-Stakes Battle Over Labour’s Economic Credibility",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/uk-s-starmer-says-he-will-prove-his-doubters-wrong-video",
+      "published": "2026-05-11T09:31:08Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "On 11 May 2026, UK Prime Minister Keir Starmer gave a speech aimed at resetting his premiership after Labour’s poor performance in the local elections held the previous week. He said he took responsibility for the result and declared that he knew he had “doubters” and would “prove them wrong.” The remarks come amid pressure on Labour to demonstrate competence, stability, and a credible governing agenda after early electoral setbacks.",
+      "prop_args": [
+        {
+          "thesis": "Starmer’s willingness to publicly own Labour’s setbacks and reset his premiership strengthens the government by restoring credibility and creating room to govern effectively.",
+          "mechanisms": [
+            "First, public accountability rebuilds trust with swing voters and markets. This is because (1) it signals that the government is responsive rather than defensive, (2) it reduces the perception of chaos or denial after a bad election result, and (3) it gives undecided voters a reason to believe the leadership can learn and adapt.",
+            "Second, a reset allows Labour to re-anchor the agenda around competence instead of internal party drama. Three reasons: one, it shifts media attention away from local election losses and toward policy delivery; two, it helps the government discipline its own backbenchers by setting a clear line; three, it improves the odds of passing difficult economic reforms because investors and civil servants value predictability.",
+            "Third, proving doubters wrong matters because governing parties are judged on trajectory, not just one electoral setback. This matters because (1) local elections are often low-salience protest votes, (2) early course correction can prevent a temporary dip from becoming a long-term collapse in support, and (3) a more credible leadership image can preserve Labour’s ability to implement unpopular but necessary fiscal choices."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Starmer’s reset is mostly performative and will not solve the deeper political and economic problems driving Labour’s weakness.",
+          "mechanisms": [
+            "First, a speech cannot fix structural voter dissatisfaction. One, local election losses usually reflect real anger over living standards, public services, and trust; two, simply saying 'I will prove them wrong' does not change household finances or policy outcomes; three, if the government lacks a clear economic dividend, rhetoric will be read as empty branding.",
+            "Second, the reset may expose weakness rather than strength. One, publicly admitting the need to prove doubters wrong invites more scrutiny and frames the premiership as already on the back foot; two, it can embolden internal critics and opposition parties by signaling vulnerability; three, if the government keeps changing tone, it risks looking directionless rather than decisive."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether political credibility can be rebuilt through leadership signalling or only through material economic improvement. Prop wins if you think early course correction prevents a spiral of distrust; opp wins if you think voters and markets care far more about delivery than messaging.",
+      "stock_connections": [
+        "Political Capital",
+        "Retrospective Voting",
+        "Credibility",
+        "Leadership Signalling",
+        "Incumbency Advantage",
+        "Populist Backlash",
+        "Austerity Politics",
+        "Electoral Punishment"
+      ],
+      "motion_areas": [
+        "This House believes that governments should publicly reset their mandate after early electoral setbacks",
+        "This House would prioritize political credibility over short-term popularity in economic governance",
+        "This House believes that admitting weakness is the best way for a government to regain trust"
+      ],
+      "data_points": [
+        "Starmer’s speech was delivered on 11 May 2026, one week after Labour’s local election losses",
+        "Starmer explicitly said: 'I know I have my doubters, and I know I need to prove them wrong, and I will'",
+        "The speech was framed as a reset of his premiership after poor local election performance"
+      ]
+    },
+    {
+      "id": "1572021e3ae2",
+      "title": "Impeachment of Sara Duterte Becomes a Fight Over Dynastic Succession and Marcos Control of the Philippine State",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T09:28:53Z",
+      "category": "IR",
+      "region": "Philippines",
+      "background": "The Philippine House of Representatives voted on Monday to impeach Vice-President Sara Duterte for a second time, sending the case to the Senate for trial. If convicted, Duterte would be disqualified from holding public office and could be blocked from running for president in 2028. The case centers on alleged misuse of public funds and public threats against President Ferdinand Marcos Jr., his wife, and his cousin, House Speaker Martin Romualdez. Duterte was impeached on the same grounds in 2025, but the Supreme Court blocked that attempt on a technicality before trial.",
+      "prop_args": [
+        {
+          "thesis": "Impeaching Sara Duterte is necessary to enforce accountability and prevent a dynastic, anti-institutional politician from capturing the presidency.",
+          "mechanisms": [
+            "First, it restores the credibility of formal accountability institutions. This is because (1) Duterte is accused of misuse of public funds, (2) she publicly threatened political violence against top state figures, and (3) failing to punish that behavior signals that elite officeholders are above the law.",
+            "Second, it blocks a high-risk succession path for a politician who already has mass support and institutional leverage. Three reasons: one, she is leading early presidential surveys by 17 points, two, she has a national platform as vice-president, and three, allowing her to run unchallenged would normalize impunity as a viable electoral strategy.",
+            "Third, it reduces the chance that the Philippines becomes trapped in a personalized vendetta politics cycle. This matters because the Marcos-Duterte split has already turned state institutions into weapons in a family feud, and a successful impeachment creates a deterrent against future executives using public office as a shield for patronage and intimidation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The impeachment is politically motivated elite warfare that weakens democratic legitimacy and risks turning institutions into tools for factional elimination.",
+          "mechanisms": [
+            "First, the process looks like selective prosecution rather than neutral rule enforcement. One, the case was revived after a prior impeachment was blocked on a technicality, two, the House is dominated by Marcos allies who have incentives to sideline a rival, and three, Duterte herself claims the hearings were politically motivated and refused to participate.",
+            "Second, removing Duterte may backfire by deepening polarization and strengthening her martyr narrative. One, she already has a 17-point lead in March polling, two, dynastic politics means her base is highly loyal and can interpret impeachment as persecution, and three, that can consolidate anti-Marcos sentiment ahead of 2028 rather than eliminate it.",
+            "Third, the move destabilizes elite bargains that keep Philippine politics governable. One, the Marcos-Duterte alliance won by a landslide in 2022 and then collapsed, two, impeachment escalates the conflict from electoral competition into institutional warfare, and three, in a patronage-based system that can encourage retaliatory use of state power whenever coalitions change."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether impeachment is a genuine anti-corruption safeguard or a factional purge dressed up as legality. Prop wins if you prioritize institutional deterrence and the need to stop a likely future president from normalizing impunity; opp wins if you think the process itself is so politicized that it damages democratic legitimacy and creates a martyr with even stronger electoral appeal.",
+      "stock_connections": [
+        "Rule of Law",
+        "Democratic Backsliding",
+        "Dynastic Politics",
+        "Patronage Politics",
+        "Elite Capture",
+        "Political Polarization",
+        "Impunity",
+        "Institutional Weaponization"
+      ],
+      "motion_areas": [
+        "TH, as the Philippine Senate, would convict Sara Duterte",
+        "THBT democracies should bar candidates facing serious corruption allegations from running for office",
+        "THP a world where impeachment can be used to remove vice-presidents before they can run for president",
+        "THBT anti-corruption institutions should prioritize elite accountability over political stability"
+      ],
+      "data_points": [
+        "255 of 290 lawmakers in attendance voted to impeach Duterte in the House",
+        "A conviction in the 24-member Senate would disqualify Duterte from holding public office",
+        "Duterte led her nearest rival by 17 points in a March survey by Manila pollster WR Numero",
+        "The House previously impeached Duterte in 2025, but the Supreme Court blocked the case on a technicality",
+        "Rodrigo Duterte is detained at The Hague awaiting trial for crimes against humanity over the drug war"
+      ]
+    },
+    {
+      "id": "84f05f0b7c7c",
+      "title": "Iran War Shock Forces India to Ration Fuel Consumption and Reopen Energy Security Tradeoffs",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss",
+      "published": "2026-05-11T09:26:43Z",
+      "category": "Econ",
+      "region": "India",
+      "background": "On 11 May 2026, Indian Prime Minister Narendra Modi urged Indians to reduce their use of petrol and diesel and to re-adopt conservation habits from the COVID-19 period. The appeal came as the US-Israeli war on Iran drove steep increases in global fuel prices. India is highly exposed to imported energy and therefore faces immediate inflationary pressure when oil prices spike.",
+      "prop_args": [
+        {
+          "thesis": "External energy shocks prove India must aggressively reduce fuel dependence and accelerate domestic conservation and transition policies.",
+          "mechanisms": [
+            "First, the price shock transmits directly into household and business costs. This is because (1) India imports most of its crude, so global war-driven spikes hit domestic pump prices quickly, (2) higher diesel and petrol costs raise transport, food, and logistics prices across the economy, and (3) the government then has to choose between inflation and fiscal subsidies.",
+            "Second, conservation creates immediate macroeconomic resilience. Three reasons: one, lower demand reduces import bills and protects the current account, two, it gives the state more room to manage inflation without massive subsidies, and three, it reduces vulnerability to future geopolitical shocks from the Gulf.",
+            "Third, the crisis strengthens the case for structural energy transition. This matters because repeated oil shocks make renewables, public transport, and efficiency upgrades not just climate policy but national security policy; over time, that lowers India’s exposure to coercion and supply disruption."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Fuel conservation is a temporary coping measure that cannot solve India’s deeper energy vulnerability and may impose unnecessary economic pain.",
+          "mechanisms": [
+            "First, demand restraint does not change the underlying supply problem. One, India still needs oil for transport, industry, and agriculture, two, conservation cannot replace the volumes required for a large economy, and three, the state remains exposed to global price swings until it secures alternative supply or substitutes.",
+            "Second, austerity-style conservation can slow growth and hurt the poor. One, higher effective energy costs reduce mobility and consumption, two, small firms and informal workers are hit hardest because they cannot hedge fuel costs, and three, the burden falls disproportionately on lower-income households that spend more on transport and essentials.",
+            "Third, the better response is diversification, not rationing. One, India can expand strategic reserves and import diversification, two, it can negotiate long-term contracts and invest in refining and renewables, and three, those tools reduce volatility without asking citizens to absorb immediate sacrifices."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term crisis management and long-term structural resilience. Prop wins if the round is about what states should do when geopolitical shocks hit an import-dependent economy; Opp wins if they can show conservation is mostly symbolic and shifts costs onto consumers without fixing supply dependence.",
+      "stock_connections": [
+        "Energy security",
+        "Inflation",
+        "Current account deficit",
+        "Import dependence",
+        "Supply shock",
+        "Strategic autonomy",
+        "Austerity",
+        "Cost of living crisis"
+      ],
+      "motion_areas": [
+        "TH, as India, would prioritize fuel conservation over shielding consumers from price increases during external oil shocks",
+        "THBT developing nations should treat energy conservation as a national security policy",
+        "THP a world where major import-dependent economies are forced to cut fuel demand during geopolitical crises"
+      ],
+      "data_points": [
+        "India is urging citizens to reduce petrol and diesel use in response to war-driven fuel price increases",
+        "The appeal explicitly references re-adopting conservation measures used during COVID-19",
+        "The shock is linked to the US-Israeli war on Iran, indicating a geopolitical rather than domestic supply cause"
+      ]
+    },
+    {
+      "id": "10ccf81c2d86",
+      "title": "Trump-Xi Truce Talks Expose How Much Leverage China Still Holds Over US Trade Policy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T09:26:33Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "Beijing has confirmed that US President Donald Trump will visit China from 13-15 May 2026, his first trip to China as president and the first by a US president in nearly a decade. The visit comes after a 2025 tariff escalation in which the US and China imposed tariffs on each other that at one point topped 100%, before a truce was reached after Trump and Xi met in South Korea in October 2025. The current agenda includes trade, Chinese purchases of US goods such as soybeans and aircraft parts, advanced semiconductor restrictions, and the wider geopolitical backdrop of the Iran war.",
+      "prop_args": [
+        {
+          "thesis": "Trump's visit will likely produce another temporary bargain, but it will not resolve the structural US-China rivalry because China now has enough economic leverage to force Washington into partial concessions.",
+          "mechanisms": [
+            "First, China can absorb pressure better than in 2018 because it has diversified its export markets and built industrial capacity that reduces dependence on the US market. This is because (1) Beijing has pushed exports to record levels by finding new trading partners, (2) its manufacturing base is large enough that firms can redirect output abroad, and (3) domestic weakness makes external sales politically necessary, so China has strong incentives to keep bargaining rather than capitulating.",
+            "Second, China holds asymmetric supply-chain leverage in strategic sectors, especially rare earths and industrial inputs. Three reasons: one, it has a near-monopoly over rare earth supplies used in smartphones and fighter jets; two, US firms cannot quickly substitute these inputs without major cost and delay; three, this forces Trump to soften tariffs or export controls whenever American business pain becomes visible.",
+            "Third, the meeting incentivizes transactional side deals rather than durable settlement, which means the truce is inherently fragile. This matters because Trump is under legal and political pressure after the Supreme Court struck down his Liberation Day tariffs and a US trade court also ruled the latest global tariffs unjustified, so he needs short-term wins like soybean purchases and aircraft deals more than a comprehensive framework."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump's China visit can still extract meaningful concessions because the US remains the world's most important consumer market and China is more exposed to export dependence than it wants to admit.",
+          "mechanisms": [
+            "First, China still needs access to US demand to sustain employment and avoid deeper economic stress. One, its domestic consumption remains weak; two, unemployment and the property crisis are already weighing on growth; three, export-oriented firms cannot easily replace the scale of US purchasing power, so Beijing has to negotiate to protect jobs.",
+            "Second, the US can credibly punish China in high-value sectors even if tariffs are imperfect. One, Washington can restrict advanced semiconductors and technology transfers that China still needs for frontier innovation; two, it can target firms like Huawei and TikTok-style assets to raise compliance costs; three, it can use tariffs and export controls together to keep pressure on Beijing's industrial upgrading.",
+            "Third, Trump can exploit China's need for stable external markets and force visible concessions that matter politically at home. One, Beijing has already agreed to suspend export controls and buy US farm goods in prior talks; two, Chinese agricultural purchases directly help Trump's voter base and create a domestic political win; three, that makes China more likely to trade real economic concessions for tariff relief."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether leverage is now structurally symmetric or still tilted toward the US. This argument wins because the article shows both sides need a deal, but China has more credible economic insulation and sectoral choke points, while Trump is constrained by courts and by the need for quick wins rather than a durable grand bargain.",
+      "stock_connections": [
+        "Trade War",
+        "Economic Coercion",
+        "Interdependence as Deterrence",
+        "Supply Chain Vulnerability",
+        "Decoupling",
+        "Great Power Rivalry",
+        "Protectionism",
+        "Weaponized Interdependence",
+        "Relative Gains"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue a trade truce with China",
+        "THBT the United States should prioritize economic decoupling from China over managed competition",
+        "THP a world where major powers use tariffs as bargaining tools in strategic rivalry",
+        "THBT China should retaliate against US tariffs with export controls on critical minerals",
+        "TH, as a developing economy, would align with China rather than the US in a renewed trade war"
+      ],
+      "data_points": [
+        "Trump and Xi are scheduled to meet in China from 13-15 May 2026",
+        "US-China tariffs reportedly topped 100% during the 2025 escalation",
+        "Trump imposed 20% tariffs on China in 2025 over fentanyl allegations",
+        "Trump's 'Liberation Day' tariffs added a 34% levy on Chinese goods",
+        "China's export figures have hit record levels despite weaker ties with the US",
+        "China is described as having a near-monopoly on global rare earth supplies",
+        "The US Supreme Court struck down Trump's Liberation Day tariffs",
+        "A US trade court ruled last week that the latest global tariffs were not justified",
+        "China remains the biggest buyer of Iranian oil",
+        "Trump and Xi last met face-to-face in South Korea in October 2025"
+      ]
+    },
+    {
+      "id": "53792fc3cf41",
+      "title": "Trump’s Rejection of Iran’s Deal Response Risks Reigniting a Wider Gulf War Over Hormuz and Nuclear Limits",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+      "published": "2026-05-11T09:22:35Z",
+      "category": "IR",
+      "region": "Middle East (Iran, Israel, Lebanon, Strait of Hormuz)",
+      "background": "On 11 May 2026, Donald Trump called Iran’s response to a US peace proposal “totally unacceptable,” after Tehran demanded an end to the war, a lifting of the US blockade, and the release of frozen Iranian assets. The US proposal reportedly included a 20-year moratorium on Iranian enrichment, overseas transfer of Iran’s highly enriched uranium stockpile, and dismantling of nuclear facilities; Iran’s counter-proposal offered a shorter moratorium, partial export and dilution of HEU, but rejected dismantlement. The ceasefire that began in April has been repeatedly strained by continued Israeli strikes in Lebanon, Iranian threats to retaliate against new US attacks, and an effective Iranian closure of the Strait of Hormuz, which normally carries about 20% of global oil shipments.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s rejection makes escalation more likely because it removes the only credible off-ramp and rewards hardliners on all sides.",
+          "mechanisms": [
+            "First, it destroys bargaining space. This is because (1) Iran’s offer already contained concessions on the HEU stockpile and a shorter enrichment pause, (2) the US response signals that even partial compromise will not be accepted, and (3) negotiators inside Iran now have less ability to argue that diplomacy can protect regime interests.",
+            "Second, it strengthens military factions. Three reasons: one, Netanyahu has publicly framed the war as continuing until Iran’s nuclear material is removed, two, Trump’s language aligns Washington with maximalist Israeli demands, and three, Iranian leaders can now justify retaliation as the only way to deter future strikes and preserve credibility.",
+            "Third, it increases the probability of a regional spillover through Hormuz and Lebanon. This matters because continued conflict keeps the Strait of Hormuz effectively closed, threatens foreign warships, and sustains Israeli-Hezbollah exchanges despite the ceasefire, so the crisis expands from a nuclear dispute into a broader regional war."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Rejecting Iran’s proposal is necessary because conceding now would entrench a dangerous nuclear and coercive precedent.",
+          "mechanisms": [
+            "First, accepting a weak deal would preserve Iran’s leverage. One, Iran would keep some or all of its HEU and infrastructure, two, it would learn that threatening Hormuz can force sanctions relief, and three, other states would infer that nuclear brinkmanship pays.",
+            "Second, the US and allies need verifiable dismantlement, not temporary pauses. One, a short moratorium does not eliminate enrichment capacity, two, buried facilities under mountains are hard to monitor reliably, and three, without dismantlement Iran can reconstitute the programme quickly once pressure eases."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether pressure produces capitulation or escalation. Prop wins if the key issue is that maximalist rejection collapses diplomacy and makes war self-fulfilling; opp wins if the key issue is that only hard pressure can stop Iran from preserving a latent nuclear capability and coercive leverage over Hormuz.",
+      "stock_connections": [
+        "Deterrence",
+        "Brinkmanship",
+        "Security Dilemma",
+        "Nuclear Proliferation",
+        "Coercive Diplomacy",
+        "Escalation Dominance",
+        "Energy Security",
+        "Regional Proxy War"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would reject Iran’s counterproposal to end the war",
+        "THBT the West should prioritize coercive pressure over compromise in nuclear negotiations with Iran",
+        "THP a world where states can close strategic shipping lanes to force diplomatic concessions"
+      ],
+      "data_points": [
+        "The Strait of Hormuz carries about 20% of global oil shipments and significant amounts of gas and fertiliser products.",
+        "The US military says it has turned back 61 commercial vessels and disabled four since blockading Iranian ports on 13 April.",
+        "The US proposal reportedly included a 20-year moratorium on Iranian enrichment, overseas transfer of Iran’s highly enriched uranium stockpile, and dismantling of nuclear facilities.",
+        "Iran’s counterproposal reportedly offered a shorter moratorium, export of part of the HEU stockpile, dilution of the rest, and refusal to dismantle facilities.",
+        "The ceasefire began in April 2026 but has been repeatedly strained by continued strikes in Lebanon and the Strait of Hormuz.",
+        "Iran has executed five people on espionage charges since the beginning of the US-Israeli war in late February.",
+        "The UK and France are hosting a meeting of defence ministers from 40 countries to discuss restoring trade flows through Hormuz."
+      ]
+    },
+    {
+      "id": "e3c21c7c3975",
+      "title": "Iran’s Treatment of Narges Mohammadi Turns a Prisoner-Health Crisis Into a Test of Regime Legitimacy",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/11/g-s1-121365/nobel-laureate-mohammadi-transferred-to-a-tehran-hospital",
+      "published": "2026-05-11T09:00:52Z",
+      "category": "IR",
+      "region": "Iran",
+      "background": "Nobel Peace Prize laureate and women’s rights activist Narges Mohammadi was transferred to a Tehran hospital after collapsing in prison and spending more than a week in critical condition. Her foundation said she had been imprisoned since December in Zanjan prison and was granted a sentence suspension on bail, though it was unclear how long it would last. Her family says she has multiple serious health issues, including a lung blood clot requiring blood thinners, a March heart attack, and blood pressure swings severe enough that she could not talk and needed oxygen. Iranian medical examiners reportedly concluded she needed treatment outside prison under her own medical team, but authorities had previously blocked transfer; she still faces 18 years remaining on her sentence.",
+      "prop_args": [
+        {
+          "thesis": "Keeping Mohammadi in prison is strategically self-defeating because it converts a domestic dissident into a global symbol of repression and weakens the regime’s legitimacy at home and abroad.",
+          "mechanisms": [
+            "First, the state’s refusal to provide adequate medical care creates a clear martyrdom narrative. This is because (1) Mohammadi is a Nobel Peace Prize laureate, so any deterioration in her health is instantly legible to international media and human rights networks; (2) the facts are emotionally simple — a prisoner with a known lung clot, heart attack, and oxygen dependence being denied treatment — which makes the regime look cruel rather than security-minded; and (3) once the story becomes about survival rather than politics, it broadens her appeal beyond activists to ordinary citizens who may not otherwise mobilize.",
+            "Second, the case damages regime legitimacy by exposing internal contradictions in Iran’s coercive apparatus. Three reasons: one, government-appointed medical examiners reportedly said she needed treatment outside prison, so continued detention looks like the intelligence services overriding even the state’s own experts; two, the suspension on bail shows the regime is already conceding that prison conditions are untenable, which undercuts the image of control; three, repeated reversals and delays signal that the state is not governed by predictable law but by factional security politics, which erodes trust in institutions.",
+            "Third, the political cost compounds because the regime cannot easily punish the international attention this case generates. This matters because (1) Nobel institutions, foreign governments, and rights groups can keep the issue alive for months, creating sustained reputational pressure; (2) Iran’s treatment of a globally recognized woman activist reinforces the broader women-life-freedom repression frame, linking this case to a wider anti-regime movement; and (3) every new medical update becomes fresh evidence of abuse, meaning the regime pays recurring costs while gaining little durable deterrence."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The transfer shows the regime can absorb international pressure while preserving coercive control, so this is more likely to be a managed concession than a meaningful political defeat.",
+          "mechanisms": [
+            "First, the state can separate humanitarian optics from political surrender. One, moving her to a Tehran hospital and granting a temporary suspension lets authorities claim compliance with medical necessity without releasing her; two, because the suspension is on bail and not a dismissal of charges, the regime retains the option to re-incarcerate her later; three, this allows Iran to defuse immediate outrage while keeping the underlying punishment intact.",
+            "Second, the broader repression architecture remains unchanged, so one high-profile case does not meaningfully alter state behavior. One, Mohammadi has been imprisoned repeatedly throughout her career, showing the regime has already weathered prior backlash; two, the security services can continue detaining other activists even if they make an exception here; three, authoritarian systems often use selective concessions to isolate prominent dissidents while preventing collective mobilization.",
+            "Third, the case may even reinforce deterrence by signaling that resistance is costly and only exceptional fame buys relief. This is because (1) ordinary prisoners will not receive Nobel-level attention, so the regime can still intimidate the broader opposition; (2) the fact that she remained in prison for over a week after collapsing shows the state’s willingness to endure reputational damage; and (3) by controlling the timing and scope of the transfer, authorities demonstrate that they, not activists, decide when pressure becomes tolerable."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the transfer is a genuine concession or just damage control. Prop wins if you weigh symbolic politics and regime legitimacy, because the case is globally legible and repeatedly refreshes the repression narrative; Opp wins if you weigh immediate coercive control, because Iran still keeps the sentence, the charges, and the ability to re-detain her.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Authoritarian Legitimacy",
+        "State Repression",
+        "Martyrdom Effect",
+        "Human Rights Signaling",
+        "Selective Concession",
+        "International Naming and Shaming"
+      ],
+      "motion_areas": [
+        "TH, as an authoritarian regime, would release high-profile political prisoners facing medical crises",
+        "THBT states should prioritize international reputational costs over domestic coercive control in handling dissidents",
+        "THP a world where Nobel laureates and other global icons receive special protection from imprisonment",
+        "THBT naming and shaming is an effective tool against authoritarian human rights abuses"
+      ],
+      "data_points": [
+        "Narges Mohammadi is a 2023 Nobel Peace Prize laureate",
+        "She has 18 years remaining on her sentence, according to her foundation",
+        "She was imprisoned since December in Zanjan prison",
+        "She collapsed in prison, lost consciousness twice, and was transferred to a local hospital on May 1 before being moved to Tehran",
+        "Her family says she has a blood clot in her lung, had a heart attack in March, and needs blood thinners and monitoring",
+        "Her blood pressure reportedly swung between extremely low and extremely high, and she needed oxygen and could not talk",
+        "Iranian medical examiners reportedly said she needed treatment outside prison under supervision of her own medical team"
+      ]
+    },
+    {
+      "id": "0c8c7f4f48bb",
+      "title": "Decentralized Climate Governance Beats White-House-Driven Climate Policy in the United States",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/11/climate-policy-united-states-government-democrats/",
+      "published": "2026-05-11T08:56:54Z",
+      "category": "Econ",
+      "region": "United States / International climate governance",
+      "background": "The article argues that U.S. federal climate policy has effectively collapsed under the Trump administration, which has withdrawn from the Paris Agreement, the IPCC, and the UNFCCC (officially as of January 2027), while dismantling offices such as the State Department’s Special Presidential Envoy for Climate, DOE’s Office of Energy Efficiency and Renewable Energy, and the White House Climate Policy Office. It contrasts this with the Biden administration’s whole-of-government approach, which created a White House Climate Policy Office, obligated more than $97 billion under the Inflation Reduction Act, and launched measures including tighter vehicle standards, methane rules, and a Climate Corps employing 15,000 young people. The piece’s core claim is that climate change is now too broad and cross-cutting to be treated as a single policy domain, and that future administrations should decentralize climate action into agency-specific mandates.",
+      "prop_args": [
+        {
+          "thesis": "Climate action is more durable and effective when embedded across agencies rather than centralized as a single high-salience White House climate agenda.",
+          "mechanisms": [
+            "First, decentralization makes policy harder to reverse. This is because (1) agency-level procurement, standards, and grant rules are less visible than a single executive order, (2) later administrations must identify and unwind dozens of separate decisions instead of one headline initiative, and (3) climate policy becomes administratively routine rather than politically symbolic, reducing the incentive for repeal.",
+            "Second, agency specialization improves policy quality. Three reasons: one, the EPA, DOE, DOT, USDA, and Treasury each control different emissions levers; two, domain experts can target the specific source of emissions in their sector rather than forcing one White House team to micromanage every file; three, agencies can set measurable targets that fit their own toolkits, which is more realistic than a one-size-fits-all climate platform.",
+            "Third, this approach better survives political backlash and cost-of-living politics. This matters because (1) voters often prioritize prices, security, and jobs over climate branding, (2) climate measures framed as ordinary governance are less likely to trigger culture-war resistance, and (3) low-profile integration into existing policy areas can preserve emissions cuts even when explicit climate rhetoric becomes unpopular."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A centralized climate policy is necessary because climate change is a collective-action problem that requires visible coordination, political prioritization, and rapid mobilization.",
+          "mechanisms": [
+            "First, centralization solves coordination failures. One, emissions come from nearly every sector, so without White House leadership agencies free-ride or pursue conflicting goals; two, a central office can force trade-offs across transportation, energy, agriculture, and finance; three, only the presidency can align the bureaucracy around a single national emissions target.",
+            "Second, explicit climate policy creates political salience and accountability. One, a named climate agenda signals seriousness to voters, markets, and foreign governments; two, it creates a clear target for advocacy and coalition-building, which helps sustain pressure for ambitious action; three, hiding climate inside generic agency work risks underinvestment because it competes with each agency’s core mission.",
+            "Third, decentralization can weaken ambition and enable greenwashing. One, agencies may treat climate as a secondary objective and do the minimum necessary; two, without a central arbiter, agencies can define success in incompatible ways and claim progress without aggregate emissions cuts; three, the White House is uniquely positioned to overcome bureaucratic inertia and push politically costly reforms that agencies alone will avoid."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is durability versus ambition: the proposition wins if the key problem is rollback and administrative fragility, while the opposition wins if the key problem is coordination and scale. The structural advantage on Prop is that climate policy is highly vulnerable to partisan reversal; the structural advantage on Opp is that without central leadership, the state may never generate enough coordinated pressure to move emissions fast enough.",
+      "stock_connections": [
+        "Collective Action Problem",
+        "Principal-Agent Problem",
+        "Bureaucratic Inertia",
+        "Policy Feedback",
+        "Regulatory Capture",
+        "Path Dependence",
+        "Greenlash",
+        "Policy Diffusion",
+        "Climate Governance",
+        "Administrative State"
+      ],
+      "motion_areas": [
+        "TH, as a future Democratic administration, would decentralize climate policy across federal agencies",
+        "THBT governments should abandon centralized climate ministries in favor of sectoral climate mandates",
+        "THP a world where climate action is embedded into ordinary bureaucratic processes rather than branded as a standalone agenda"
+      ],
+      "data_points": [
+        "The Biden administration obligated more than $97 billion of federal funds to clean energy, electric vehicles, conservation, and other IRA provisions",
+        "The Department of Energy may have spent as little as 39% of its IRA funding before Biden left office",
+        "The DOE Loan Programs Office ended the administration with more than 160 outstanding loan applications worth more than $200 billion",
+        "The Biden administration employed 15,000 young people in the first-ever Climate Corps",
+        "Trump reversed fuel economy standards, repealed the coal power plants rule, nullified the emissions reduction target, stopped enforcing methane regulations, canceled $2.5 billion of DOE clean energy awards, and attempted to halt wind farm development",
+        "The article says global temperatures are likely to surpass 1.5°C of warming by the end of the decade",
+        "The UNFCCC has been the annual climate summit process since 1995, and the Paris Agreement was adopted in 2015",
+        "The U.S. is described as absent from the Paris Agreement, the IPCC, and the UNFCCC as of January 2027"
+      ]
+    },
+    {
+      "id": "107f16e6126b",
+      "title": "US-China AI Talks Turn Artificial Intelligence Into a Strategic Bargaining Chip",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5812681/ai-on-the-agenda-as-trump-heads-to-china",
+      "published": "2026-05-11T08:42:53Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "NPR reports that artificial intelligence is on the agenda for President Trump’s upcoming meeting with Chinese President Xi Jinping. The article is very short and does not specify the exact policy proposals, but it establishes that AI will be discussed at the highest level of US-China diplomacy. The meeting comes amid broader strategic competition between Washington and Beijing over advanced technologies, export controls, and military applications of AI.",
+      "prop_args": [
+        {
+          "thesis": "Putting AI directly on the US-China summit agenda is a necessary step toward preventing an uncontrolled strategic race in frontier technology.",
+          "mechanisms": [
+            "First, summit-level engagement creates a channel for crisis management before AI competition hardens into irreversible escalation. This is because (1) both states have incentives to interpret the other's AI progress as a military threat, (2) direct leader-to-leader talks can establish red lines around autonomous weapons, cyber operations, and model deployment, and (3) early dialogue reduces the chance that bureaucracies or militaries lock in worst-case assumptions.",
+            "Second, AI diplomacy can produce limited but meaningful guardrails even when broader trust is low. Three reasons: one, the US and China can still agree on narrow confidence-building measures like incident hotlines or transparency on military AI testing; two, both sides have an interest in avoiding accidental escalation from misread system failures or cyber incidents; three, partial cooperation is often enough to slow the most dangerous forms of arms-race dynamics.",
+            "Third, making AI a top-tier diplomatic issue signals that the technology is not just commercial but existentially strategic. This matters because it shifts incentives inside both governments: agencies, firms, and militaries are more likely to treat safety, export controls, and verification as serious policy questions rather than leaving the field to pure competition."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Elevating AI in bilateral talks will mostly be symbolic and may even worsen strategic competition by legitimizing AI as a zero-sum arena.",
+          "mechanisms": [
+            "First, the summit is unlikely to generate enforceable commitments because the core conflict is structural, not technical. One, the US and China both see AI as central to military advantage and economic dominance; two, neither side wants verifiable constraints that could freeze its own capabilities; three, without enforcement, any agreement becomes a public-relations exercise.",
+            "Second, high-profile AI diplomacy can intensify suspicion and accelerate the arms race. One, each side may interpret the other's willingness to talk as evidence that AI is strategically decisive; two, talks can be used to probe the opponent's capabilities and red lines; three, the resulting uncertainty encourages more spending, more secrecy, and faster deployment rather than restraint."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit diplomacy can actually change state behavior or merely publicize an existing rivalry. Prop wins if you believe even modest guardrails matter in a high-risk technology domain; opp wins if you think the strategic logic of US-China competition overwhelms any diplomatic signaling.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Arms Race",
+        "Confidence-Building Measures",
+        "Technological Decoupling",
+        "Great Power Competition",
+        "Escalation Risk",
+        "Dual-Use Technology"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue summit-level AI agreements with China",
+        "THBT major powers should negotiate bilateral AI guardrails before deploying frontier systems",
+        "THP a world where AI competition between the US and China is managed through formal diplomatic channels"
+      ],
+      "data_points": [
+        "The article states that artificial intelligence is on the agenda for President Trump’s upcoming meeting with President Xi Jinping.",
+        "The meeting is between the leaders of the world’s two largest strategic competitors in advanced technology.",
+        "The article frames AI as a topic of direct presidential-level diplomacy rather than a lower-level technical discussion."
+      ]
+    },
+    {
+      "id": "76d765fbb7fc",
+      "title": "Israeli Interdiction of Gaza Aid Flotillas Turns Maritime Law Into a Test of Western Complicity",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss",
+      "published": "2026-05-11T08:40:03Z",
+      "category": "IR",
+      "region": "Israel / Gaza / Eastern Mediterranean / Greece-Turkey maritime zone",
+      "background": "The Global Sumud Flotilla (GSF) says Israeli forces intercepted part of its aid mission in international waters about 600 nautical miles (1,100 km) from Israel’s coast. The article says at least 30 activists were injured, four reported sexual assault, and two activists, Saif Abu Keshek and Thiago Ávila, were taken to Israel and faced terrorism charges before later being released after hunger strikes. The flotilla says 22 of its vessels were targeted and that it is regrouping in Marmaris, Turkey, while sailing eastward through the contested Aegean maritime space involving Greek and Turkish jurisdictional disputes.",
+      "prop_args": [
+        {
+          "thesis": "The flotilla is strategically valuable because Israeli interdiction backfires by internationalizing the conflict, delegitimizing Israel’s conduct, and increasing pressure on states to constrain it.",
+          "mechanisms": [
+            "First, interception in international waters creates a clear legal and moral violation that broadens the audience beyond Gaza itself. This is because (1) it shifts the story from a distant humanitarian crisis to a direct attack on neutral activists, (2) it gives governments, media, and civil society a concrete incident to condemn, and (3) it makes Israel look like a state willing to project force far beyond its borders, which is easier to mobilize against than abstract allegations of blockade policy.",
+            "Second, the flotilla creates cumulative diplomatic pressure by forcing third states to react. Three reasons: one, Greece, Turkey, and other coastal states are pulled into questions about search-and-rescue obligations and port access; two, the incident exposes whether Western governments will defend maritime law or tolerate violations by an ally; three, repeated interceptions turn each new mission into evidence of a pattern, making it harder for Israel to frame the issue as isolated security enforcement.",
+            "Third, the mission matters because it changes the cost-benefit calculation around Gaza policy. This matters because (1) it keeps humanitarian access and civilian suffering in the headlines, (2) it creates reputational costs for states enabling the blockade or arms support, and (3) it can contribute to ceasefire pressure by showing that Israel’s tactics are generating wider instability rather than compliance."
+          ]
+        },
+        {
+          "thesis": "The flotilla is a legitimate form of nonviolent resistance that exposes and contests the normalization of siege and occupation.",
+          "mechanisms": [
+            "First, it reframes humanitarian aid as a political test of whether international law has any force. This is because (1) the mission is openly civilian and nonviolent, (2) Israel’s violent response makes the asymmetry visible, and (3) the contrast between aid workers and armed interception strengthens the moral claim that the blockade itself is the underlying abuse.",
+            "Second, the flotilla helps build transnational solidarity and keeps Palestinian suffering politically salient. Three reasons: one, it gives activists, journalists, and ordinary citizens a concrete action to rally around; two, it creates a shared international constituency that is harder to suppress than local protest; three, it prevents the issue from being reduced to a bilateral Israel-Palestine security frame by inserting third-country actors and legal norms.",
+            "Third, even if the boats do not reach Gaza, the mission still produces impact by contesting the 'new facts' Israel is trying to create at sea. This matters because (1) repeated challenges prevent the blockade from becoming normalized, (2) they preserve the idea that maritime access to Gaza is politically contestable, and (3) they keep open future pathways for humanitarian corridors or escorted aid missions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The flotilla is mostly symbolic and counterproductive because it does not materially relieve Gaza while giving Israel security justifications and escalation opportunities.",
+          "mechanisms": [
+            "First, the mission is unlikely to deliver meaningful aid at scale. One, a few boats carrying limited supplies cannot substitute for sustained land-based humanitarian access; two, interception before arrival means the aid never reaches civilians; three, the resources spent on flotilla logistics could be redirected into higher-yield advocacy, legal action, or negotiated relief channels.",
+            "Second, the flotilla can strengthen Israel’s security narrative and harden domestic support for interdiction. One, Israel can portray the mission as a provocation or a cover for hostile actors; two, any presence of activists from multiple countries allows Israel to frame the issue as an international stunt rather than a humanitarian emergency; three, if violence occurs, the resulting disorder can be used to justify tighter maritime enforcement and broader restrictions.",
+            "Third, repeated confrontations risk normalizing dangerous escalation at sea. One, foreign navies and coastguards may become more willing to use force in contested waters; two, the mission can create accidental clashes involving Greece, Turkey, or other regional actors; three, if activists knowingly enter a high-risk zone, states may conclude that deterrence requires harsher preemption, worsening the humanitarian environment rather than improving it."
+          ]
+        },
+        {
+          "thesis": "The flotilla undermines serious diplomacy by turning Gaza relief into a performative confrontation that polarizes rather than resolves the conflict.",
+          "mechanisms": [
+            "First, it incentivizes spectacle over negotiation. One, activists gain attention from dramatic interception rather than from durable policy gains; two, governments are pushed into public condemnation instead of quiet mediation; three, the media cycle rewards confrontation, which can crowd out practical discussions about ceasefires, inspections, and aid corridors.",
+            "Second, it can alienate potential swing states and moderate audiences. One, states that might support humanitarian access may hesitate to endorse a mission they see as politically aligned with one side; two, the framing of Israel as uniquely illegitimate can make compromise politically costly for intermediaries; three, if the mission is associated with anti-Israel activism, it may reduce the credibility of broader humanitarian advocacy.",
+            "Third, the mission risks entrenching a zero-sum frame. One, Israel sees it as a sovereignty challenge, not an aid request; two, activists see any interception as proof of genocide and bad faith, reducing room for de-escalation; three, once both sides treat the sea as a theater of contestation, each new flotilla becomes another trigger for crisis rather than a route to relief."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolic pressure can translate into real-world constraints on Israeli behavior. Prop has the structural advantage if the round is about norms, legitimacy, and third-party pressure; Opp is stronger if the bench can prove the flotilla materially fails to aid civilians and instead worsens escalation dynamics.",
+      "stock_connections": [
+        "International law and norm erosion",
+        "Civil resistance / nonviolent protest",
+        "Performative activism",
+        "Security dilemma",
+        "Humanitarian access and blockade politics",
+        "Third-party complicity",
+        "Delegitimization",
+        "Escalation spiral",
+        "Maritime sovereignty disputes"
+      ],
+      "motion_areas": [
+        "TH, as an international activist movement, would send humanitarian flotillas to Gaza",
+        "THBT states should not intercept civilian aid ships in international waters even during armed conflict",
+        "THP a world where civil society can directly challenge blockades at sea",
+        "THBT Western states should publicly support humanitarian flotillas to Gaza",
+        "TH, as the Palestinian solidarity movement, would prioritize maritime direct action over diplomatic lobbying"
+      ],
+      "data_points": [
+        "Israeli forces allegedly intercepted flotilla boats about 600 nautical miles (1,100 km) from Israel’s coast",
+        "At least 30 activists were reportedly injured in the interception",
+        "At least 4 activists reportedly alleged sexual assault after the interception",
+        "Two activists, Saif Abu Keshek and Thiago Ávila, were taken to Israel and faced terrorism charges",
+        "The flotilla says 22 of its vessels were targeted",
+        "The mission regrouped in Marmaris, Turkey",
+        "The article says the flotilla had previously contributed to pressure around a ceasefire announced days after an earlier interception"
+      ]
+    },
+    {
+      "id": "8480bdeea829",
+      "title": "Trump’s Capture of the Fed Threatens Central Bank Independence and US Monetary Credibility",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
+      "published": "2026-05-11T08:00:49Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The US Senate is expected to confirm Kevin Warsh as chair of the Federal Reserve this week, with the vote likely split along party lines. Warsh previously served on the Fed board from 2006 to 2011 and was known as an inflation hawk during the 2008 financial crisis, but he has recently aligned with Donald Trump’s view that interest rates are too high. Trump has publicly attacked Jerome Powell and the Fed for not cutting rates, and the administration even triggered a criminal investigation into Powell over cost overruns in Fed headquarters renovations before the Justice Department ended it.",
+      "prop_args": [
+        {
+          "thesis": "Confirming Warsh entrenches a politically independent Fed and restores policy responsiveness to real economic conditions rather than institutional inertia.",
+          "mechanisms": [
+            "First, a new chair can recalibrate monetary policy away from the status quo. This is because (1) Warsh has a track record as an inflation hawk, so markets know he is not reflexively dovish, (2) he has publicly argued the Fed’s leadership is \"broken,\" which creates room for internal reform, and (3) a leadership change can reset expectations that the Fed will respond to labor-market weakness and high borrowing costs rather than preserve overly tight policy for its own sake.",
+            "Second, Warsh can improve accountability inside a central bank that has become too insulated from democratic pressure. Three reasons: one, the Fed’s decisions affect mortgages, jobs, and credit conditions across the economy; two, if the institution is perceived as unresponsive to elected officials, it risks a legitimacy crisis; three, a chair who is willing to engage with the White House can reduce the chance of open institutional warfare and repeated public clashes.",
+            "Third, a chair aligned with lower rates can support growth and financial stability in the short run. This matters because (1) high interest rates raise mortgage and business borrowing costs, (2) easing can prevent an unnecessary slowdown if inflation is already moderating, and (3) markets often prefer clarity and a predictable easing path over prolonged uncertainty about when relief will come."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Warsh’s confirmation politicizes the Fed, undermines credibility, and creates long-term inflation and market instability.",
+          "mechanisms": [
+            "First, the appointment normalizes White House control over monetary policy. One, Trump has already pushed past the usual boundaries between the presidency and the Fed; two, Warsh has publicly echoed Trump’s rate-cut demands, so markets will read him as politically captured; three, once the chair is seen as a presidential proxy, future administrations will face weaker constraints on pressuring the central bank.",
+            "Second, a compromised Fed chair weakens inflation expectations and raises borrowing costs over time. One, central bank independence is what convinces investors that rate decisions are based on macroeconomic data rather than election cycles; two, if credibility falls, lenders demand higher risk premiums on Treasuries, mortgages, and corporate debt; three, that can offset any short-term benefit from lower rates by making long-term financing more expensive.",
+            "Third, politicized monetary policy increases the risk of policy error. One, a chair under pressure may cut rates too early and reignite inflation; two, the Fed may hesitate to tighten when needed because it fears political backlash; three, this creates boom-bust cycles that hurt workers, savers, and businesses more than a cautious independent central bank would."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term stimulus and long-term institutional credibility. Pro wins if the round is about immediate relief from high rates; opp wins if the round is about the compounding damage of politicizing the world’s benchmark central bank, because credibility losses are harder to reverse than one rate cycle.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Institutional Capture",
+        "Democratic Backsliding",
+        "Moral Hazard",
+        "Inflation Expectations",
+        "Credibility Trap",
+        "Executive Overreach",
+        "Politicization of Technocracy"
+      ],
+      "motion_areas": [
+        "TH, as the US Senate, would confirm Kevin Warsh as Federal Reserve chair",
+        "THBT central bank independence should be subordinated to elected governments in times of economic stagnation",
+        "THP a world where the US president can directly influence interest-rate decisions",
+        "THBT the Federal Reserve should prioritize growth over inflation in the current US economy"
+      ],
+      "data_points": [
+        "Warsh served on the Federal Reserve Board of Governors from 2006 to 2011",
+        "The Senate vote is expected to be split along party lines",
+        "Trump has publicly attacked the Fed for not lowering interest rates",
+        "Powell said the Fed has had to resort to the courts to enforce its ability to make monetary policy without political considerations",
+        "The Justice Department ended its investigation into Powell after a Republican senator said he would hold up Warsh’s nomination",
+        "Warsh called the Fed’s leadership \"broken\" in a Wall Street Journal op-ed last November"
+      ]
+    },
+    {
+      "id": "1e72ed72f827",
+      "title": "Supply Shocks Expose the Limits of Central Bank Demand Management",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/audio/2026-05-11/odd-lots-boe-s-greene-on-a-world-of-supply-shocks-podcast",
+      "published": "2026-05-11T08:00:00Z",
+      "category": "Econ",
+      "region": "UK / Global",
+      "background": "The podcast discusses how, since Covid-19, central banks have repeatedly faced inflation and growth shocks driven by supply-side disruptions rather than excess demand. It cites supply chain disruptions, the war in Ukraine, and the war in Iran as examples of shocks that monetary policy can only partially address. The core issue is that central banks are built to manage demand through interest rates, but these newer shocks are changing prices and output through production, logistics, and energy channels.",
+      "prop_args": [
+        {
+          "thesis": "Central banks should prioritize 'looking through' temporary supply shocks rather than over-tightening and damaging growth.",
+          "mechanisms": [
+            "First, supply shocks are not primarily caused by overheated demand, so rate hikes do little to fix the underlying problem. This is because (1) higher rates cannot reopen ports, restore energy supplies, or end wars, (2) tightening mainly suppresses consumption and investment, and (3) the inflation pressure from the shock often fades once the disruption normalizes.",
+            "Second, overreacting to supply-driven inflation creates avoidable recession risk. Three reasons: one, monetary policy works with long lags, so by the time inflation falls the economy may already have slowed sharply; two, firms facing higher borrowing costs cut hiring and capex, amplifying unemployment; three, households with mortgages and variable-rate debt absorb the shock disproportionately, reducing aggregate demand further.",
+            "Third, central banks preserve credibility better by distinguishing between temporary relative-price changes and persistent demand inflation. This matters because if they treat every price spike as a demand problem, they end up tightening into every geopolitical event, making policy procyclical and increasing the chance of stagflation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Central banks cannot afford to 'look through' supply shocks because they can become embedded in inflation expectations and wage-setting.",
+          "mechanisms": [
+            "First, even if the initial shock is supply-side, households and firms respond to higher prices by expecting more inflation. One, workers demand higher wages to protect real incomes; two, firms preemptively raise prices to preserve margins; three, these second-round effects make a temporary shock persistent.",
+            "Second, central banks must act to anchor credibility because inflation psychology is forward-looking. One, if markets believe the bank will tolerate repeated overshoots, long-term borrowing costs rise; two, currency depreciation can import more inflation; three, the bank loses the ability to stabilize future shocks without harsher intervention later."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether supply shocks are temporary disturbances or the start of a persistent inflation regime. Prop wins if the main harm is needless recession from using the wrong tool; opp wins if repeated shocks unanchor expectations and force even harsher tightening later. The structural advantage usually sits with prop when shocks are clearly exogenous and time-limited, because monetary policy cannot repair supply and only adds collateral damage.",
+      "stock_connections": [
+        "Stagflation",
+        "Monetary Policy Limits",
+        "Phillips Curve",
+        "Inflation Expectations",
+        "Second-round Effects",
+        "Procyclical Policy",
+        "Credibility of Central Banks",
+        "Cost-push Inflation"
+      ],
+      "motion_areas": [
+        "TH, as a central bank, would look through temporary supply shocks",
+        "THBT central banks should prioritize growth over inflation when inflation is driven by supply shocks",
+        "THP a world where monetary policy is not used to respond to geopolitical supply disruptions"
+      ],
+      "data_points": [
+        "Since Covid-19, central banks have faced repeated supply-side shocks rather than purely demand-driven inflation",
+        "The article explicitly cites supply chain disruptions, the war in Ukraine, and the war in Iran as examples of supply shocks",
+        "Monetary policy is described as having 'limited value' against these shocks because it is designed to modulate demand"
+      ]
+    },
+    {
+      "id": "c92e5e846b43",
+      "title": "Iran War Fallout Exposes How Gulf Disruption Rewires Global Aviation Hubs and Raises UK Travel Costs",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/11/heathrow-passenger-numbers-dip-as-demand-for-international-travel-ebbs-amid-iran-war-fallout",
+      "published": "2026-05-11T07:23:11Z",
+      "category": "Econ",
+      "region": "United Kingdom / Gulf / Global travel routes",
+      "background": "Heathrow said about 6.7 million passengers used the airport in April 2026, down 5% year-on-year and its biggest annual fall since March 2025. The airport said the drop reflected the Iran conflict and short-term changes to travel plans, while transfer passengers rose 10% as travellers rerouted to Asia and Oceania via Heathrow instead of Gulf hubs like Dubai and Doha. The International Air Transport Association said jet fuel averaged $181 a barrel in the week to 1 May, roughly double the average price last year, after the effective closure of the Strait of Hormuz, which normally carries more than a fifth of global oil flows. Heathrow plans to update its 2026 forecast next month; its latest estimate was 85 million passengers this year.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war is a structural shock to global aviation that will raise UK travel costs and shift traffic away from Gulf hubs toward more resilient but more expensive routing networks.",
+          "mechanisms": [
+            "First, the conflict raises fuel and operating costs across the entire aviation chain. This is because (1) jet fuel prices have already averaged $181 a barrel in the week to 1 May, roughly double last year, (2) airlines must absorb longer detours and delays from disrupted Middle East airspace, and (3) higher input costs are quickly passed through into fares, as British Airways’ owner warned it will try to recover most of a €2bn (£1.7bn) fuel hit through revenue and cost management actions.",
+            "Second, the shock redistributes passenger flows toward alternative hubs, especially Heathrow. Three reasons: one, transfer passengers through Heathrow rose 10% year-on-year in April; two, travellers rerouting to Asia and Oceania are substituting away from Dubai and Doha; three, this creates a hub concentration effect where airports with stronger connectivity capture displaced demand while weaker routes lose volume.",
+            "Third, the long-run impact is higher prices and lower consumer surplus rather than a temporary blip. This matters because (1) airlines are already lobbying to cancel more flights without losing slots, which signals capacity stress, (2) Heathrow is reviewing its 2026 forecast from an already ambitious 85 million passengers, and (3) even if some carriers cut summer fares to stimulate bookings, the underlying fuel shock and route uncertainty make cheap travel less sustainable."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The aviation system is adapting quickly, so the war causes short-term volatility but not a durable collapse in demand or a permanent UK travel crisis.",
+          "mechanisms": [
+            "First, airlines and hubs can reroute around the disruption. One, Heathrow’s transfer passengers rose 10%, showing demand is being redirected rather than destroyed; two, the airport said current fuel supplies are stable; three, the busiest month of the year so far suggests the market is still functioning despite the shock.",
+            "Second, competitive pricing and operational adjustments can cushion consumers. One, some airlines are already cutting summer fares to avoid booking delays; two, the Financial Times found fares for 27 of the top 50 European Mediterranean routes fell between 9 April and 6 May; three, carriers can use revenue management, capacity changes, and slot flexibility to keep planes full even under higher fuel costs.",
+            "Third, the biggest effect is redistribution, not net loss. One, passengers shifting from Gulf hubs to Heathrow may actually strengthen UK aviation and connectivity; two, the 5% April drop is a single-month figure during an acute crisis, not proof of a persistent trend; three, once conflict risk stabilizes, travel demand can rebound because international travel remains a necessity for business, family, and tourism."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the Iran war creates a temporary demand shock or a durable cost-and-routing regime change. Prop wins if it proves fuel prices, airspace disruption, and hub reallocation persist long enough to lock in higher fares and weaker consumer welfare; Opp wins if it shows airlines can absorb, reroute, and discount their way through the shock without a lasting collapse in demand.",
+      "stock_connections": [
+        "Supply shock",
+        "Pass-through inflation",
+        "Market concentration",
+        "Hub-and-spoke network effects",
+        "Trade diversion",
+        "Crisis pricing",
+        "Elasticity of demand",
+        "Operational resilience"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would subsidize airlines facing fuel shocks from Middle East conflict",
+        "THBT major airports should prioritize hub resilience over low-cost consumer fares",
+        "THP a world where Gulf airspace remains intermittently disrupted",
+        "TH, as Heathrow, would raise landing charges to fund resilience investments",
+        "THBT airlines should be allowed greater flexibility to cancel flights without losing airport slots"
+      ],
+      "data_points": [
+        "Heathrow handled 6.7 million passengers in April 2026, down 5% year-on-year",
+        "Transfer passengers through Heathrow rose 10% in April year-on-year",
+        "Heathrow’s latest 2026 forecast was 85 million passengers",
+        "Jet fuel averaged $181 a barrel in the week to 1 May 2026, roughly double the average price last year",
+        "More than a fifth of the world’s oil normally uses the Strait of Hormuz",
+        "British Airways’ owner said it faces a €2bn (£1.7bn) fuel-cost hit this year",
+        "Financial Times analysis found fares for 27 of the top 50 European flight routes to the Mediterranean fell between 9 April and 6 May"
+      ]
+    },
+    {
+      "id": "ddadfd22c2ad",
+      "title": "Trump’s Rejection of Iran Peace Terms Collides With a High-Stakes US–China Reset",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/daybreak-europe-5-11-2026-video",
+      "published": "2026-05-11T07:22:27Z",
+      "category": "IR",
+      "region": "United States / Iran / China / United Kingdom",
+      "background": "Bloomberg reports that US President Donald Trump and Iran have both rejected each other’s latest peace proposals, leaving a fragile ceasefire in a 10-week conflict under strain. At the same time, Beijing has announced the date of Trump’s state visit to China, with Trump set to meet Xi Jinping on Thursday — the first US presidential trip to China in nearly a decade. The segment also notes UK Prime Minister Keir Starmer is facing a politically charged Monday address aimed at preserving his leadership amid internal Labour pressure.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s hard line on Iran is strategically useful because it preserves US leverage, deters future escalation, and prevents a bad peace from locking in Iranian gains.",
+          "mechanisms": [
+            "First, rejecting a weak offer preserves bargaining leverage. This is because (1) a ceasefire reached under pressure often rewards the side that can hold out longer, (2) accepting Iran’s latest terms could signal that limited escalation pays, and (3) keeping the deal open-ended forces Tehran to keep paying the costs of uncertainty.",
+            "Second, firmness deters repeat aggression. Three reasons: one, if Iran sees that missile attacks, proxy warfare, or brinkmanship do not produce concessions, it has less incentive to repeat them; two, US allies in the Gulf and Israel read resolve as reassurance, which reduces their own incentives to act unilaterally; three, deterrence is especially important in a 10-week conflict where both sides are testing red lines.",
+            "Third, a tougher stance improves the quality of any eventual settlement. This matters because a rushed ceasefire can freeze in place the underlying security problem, whereas sustained pressure can force Iran into verifiable limits, stronger monitoring, and concessions on proxies or enrichment rather than a symbolic pause."
+          ]
+        },
+        {
+          "thesis": "The Trump–Xi summit gives Washington a chance to compartmentalize Iran and extract broader strategic concessions from China.",
+          "mechanisms": [
+            "First, the summit creates a venue for issue-linkage. This works because (1) China has leverage over Iran through trade, energy purchases, and diplomatic cover, (2) Trump can signal that cooperation on Iran affects the wider US–China relationship, and (3) Beijing may prefer stability before a major state visit rather than being dragged into a Middle East crisis.",
+            "Second, a visible summit can stabilize markets and alliance expectations. Three reasons: one, investors and allies interpret direct leader-level diplomacy as a sign that escalation is being managed; two, China has incentives to avoid a simultaneous Middle East shock and trade confrontation; three, even limited coordination can reduce the risk of miscalculation around sanctions, shipping, or energy flows.",
+            "Third, keeping Iran separate from the China track avoids overextension. This matters because the US can pursue deterrence in the Gulf while using the summit to manage tariffs, export controls, and Taiwan-related tensions, rather than letting one crisis derail the entire strategic agenda."
+          ]
+        },
+        {
+          "thesis": "The broader diplomatic sequencing matters because Trump can use visible toughness abroad to strengthen his domestic political position and negotiating credibility.",
+          "mechanisms": [
+            "First, public rejection of Iran’s offer signals resolve to domestic audiences. This is because (1) leaders often gain political capital by appearing uncompromising in security crises, (2) a ceasefire seen as too generous can be framed as weakness, and (3) credibility in foreign policy can spill over into perceptions of competence more generally.",
+            "Second, a successful China summit can offset the costs of confrontation. Three reasons: one, if Trump can show he can both pressure Iran and sit down with Xi, he looks like a dealmaker rather than a warmonger; two, the contrast between firmness and diplomacy broadens his appeal across hawks and moderates; three, it reduces the chance that the Iran conflict dominates the news cycle uncontested.",
+            "Third, this sequencing can buy time for the UK and other allies to align. This matters because allied governments facing their own domestic instability — like Starmer’s Labour leadership pressure — are more likely to follow a US lead when Washington appears coherent and in control."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Rejecting Iran’s latest offer risks prolonging a fragile ceasefire and increasing the chance of a wider regional war.",
+          "mechanisms": [
+            "First, failed diplomacy keeps the conflict alive. One, a 10-week war with only a fragile ceasefire means both sides remain on alert; two, if the US and Iran both reject proposals, there is no off-ramp and each side has incentives to prepare for the next round; three, the longer the standoff lasts, the more likely a local incident triggers renewed escalation.",
+            "Second, hard-line bargaining can backfire by empowering Iranian hardliners. One, moderates lose credibility when diplomacy produces nothing; two, Tehran can use US rejection to justify retaliation or proxy activation; three, domestic pressure inside Iran makes compromise politically costlier after public humiliation.",
+            "Third, the US may overestimate its leverage. One, if China is simultaneously being courted for a summit, Beijing may conclude Washington needs de-escalation more than it admits; two, allies may doubt US commitment if the administration is seen as improvising across multiple crises; three, a bad peace is still better than a renewed war that disrupts shipping, energy markets, and regional security."
+          ]
+        },
+        {
+          "thesis": "The Trump–Xi summit could dilute pressure on Iran by encouraging transactional bargaining and signaling that the US is prioritizing China over Middle East stability.",
+          "mechanisms": [
+            "First, China may treat Iran as a bargaining chip rather than a security issue. This is because (1) Beijing can offer symbolic cooperation without changing Iran’s behavior, (2) it may seek concessions on trade or technology in exchange for vague promises on Tehran, and (3) this creates an illusion of progress while the underlying conflict remains unresolved.",
+            "Second, summit optics can weaken deterrence. One, if Trump is eager for a successful state visit, Xi can infer that Washington wants calm more than confrontation; two, Iran can read the summit as evidence that the US is distracted and less willing to escalate; three, adversaries often exploit moments when the US is juggling multiple high-profile diplomatic tracks.",
+            "Third, issue-linkage can poison the China relationship. One, if the US tries to pressure Beijing over Iran during a summit, China may harden on trade and security issues; two, if the summit fails, Trump loses both the Iran channel and the China reset; three, tying the two crises together increases the chance of diplomatic failure on both fronts."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether firmness creates leverage or simply extends an unstable war. Prop wins if you believe the ceasefire is already fragile and only credible pressure can produce a durable settlement; Opp wins if you think every extra week of rejection raises the probability of accidental escalation and regional spillover.",
+      "stock_connections": [
+        "Deterrence",
+        "Credible Commitment",
+        "Moral Hazard",
+        "Escalation Ladder",
+        "Great Power Bargaining",
+        "Issue Linkage",
+        "Alliance Assurance",
+        "Domestic Audience Costs"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would reject Iran’s latest peace proposal",
+        "THBT the US should link Iran de-escalation to broader negotiations with China",
+        "THP a world where major powers use summit diplomacy to manage regional wars",
+        "THBT states should prioritize leverage over rapid peace in fragile ceasefires"
+      ],
+      "data_points": [
+        "10-week conflict between the US and Iran",
+        "Fragile ceasefire currently holding despite mutual rejection of latest peace proposals",
+        "Trump’s first US presidential trip to China in nearly a decade",
+        "Trump and Xi Jinping are scheduled to meet on Thursday",
+        "Beijing publicly announced the date of Trump’s state visit this week",
+        "Keir Starmer is due to make a Monday address aimed at preserving his Labour leadership"
+      ]
+    },
+    {
+      "id": "6477a8b7a2df",
+      "title": "Iran War Oil Shock Forces India Into Austerity Politics As Foreign Exchange And Inflation Come Under Pressure",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8r8e2ne1v6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T07:13:41Z",
+      "category": "Econ",
+      "region": "India",
+      "background": "On 11 May 2026, Prime Minister Narendra Modi urged Indians to revive work-from-home, use public transport, carpool, buy less gold, and limit foreign travel as India faced a surge in global energy prices linked to the war in Iran and the closure of the Strait of Hormuz for more than two-and-a-half months. India imports about 90% of its oil, and officials said the country’s crude bill had risen by several billion dollars, putting pressure on the rupee, inflation, and fuel imports. The appeal came as analysts described it as Modi’s most drastic response so far, while the Sensex fell more than 1,000 points in early trade on Monday amid fears of prolonged disruption.",
+      "prop_args": [
+        {
+          "thesis": "The oil shock justifies temporary state-led austerity because it buys India time to stabilize its external accounts and prevent a broader macroeconomic crisis.",
+          "mechanisms": [
+            "First, demand suppression reduces the immediate foreign exchange bleed. This is because (1) India imports around 90% of its oil, so every marginal cut in fuel use directly lowers the import bill, (2) the rupee is already at record lows, so conserving dollars matters more than usual, and (3) lower discretionary travel and commuting demand can be implemented quickly without waiting for new infrastructure.",
+            "Second, the government can smooth inflation before it becomes politically and socially explosive. Three reasons: one, fuel is an input into transport, fertilizer, and logistics, two, the article says fertilizer shortages are already threatening farm output and food prices, and three, preventing a pass-through into household inflation is cheaper than compensating everyone later through subsidies.",
+            "Third, visible sacrifice can coordinate expectations and reduce panic. This matters because when households and firms believe the state will act, they are less likely to rush into dollar hoarding, speculative fuel buying, or capital flight, which helps contain the self-fulfilling part of a currency crisis."
+          ]
+        },
+        {
+          "thesis": "Modi’s appeal is economically rational because it targets the highest-leverage sectors first rather than imposing blunt economy-wide shutdowns.",
+          "mechanisms": [
+            "First, work-from-home and public transport cut fuel use in dense urban sectors where substitution is easiest. This is because (1) office commuting is a large and immediate source of petrol and diesel demand, (2) metro and carpooling alternatives already exist in major cities, and (3) reducing peak demand lowers pressure on retailers without requiring ration cards or universal price controls.",
+            "Second, limiting foreign travel preserves scarce foreign exchange without hurting core domestic production. Three reasons: one, outbound leisure travel is a discretionary import of services, two, it can be reduced faster than industrial energy demand, and three, it spares export-oriented manufacturing from the worst of the shock.",
+            "Third, the policy can prevent a more damaging forced adjustment later. This matters because if the government waits until reserves are more depleted, it may have to raise fuel prices sharply, cut imports, or impose harsher rationing, all of which would be more recessionary than early voluntary restraint."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is a political cover for policy failure: asking citizens to sacrifice shifts the burden onto households while the government avoids structural energy reform.",
+          "mechanisms": [
+            "First, it externalizes responsibility onto consumers instead of fixing the underlying exposure. One, India’s dependence on imported oil is a long-standing vulnerability, two, the article says opposition leaders see this as proof of poor planning, and three, exhortations to save fuel do nothing to diversify supply, build reserves, or hedge against future shocks.",
+            "Second, austerity harms growth and employment in the short run. One, reduced travel and commuting suppresses demand in transport, retail, and services, two, the article already notes hundreds of thousands of factory jobs are at risk in glass, plastic, and tile industries, and three, a weaker domestic economy can worsen tax revenues and make crisis management harder.",
+            "Third, voluntary restraint is regressive and unevenly distributed. One, middle-class office workers can WFH while informal workers cannot, two, farmers asked to cut fertilizer use may face lower yields and higher food insecurity, and three, the burden falls on those least able to absorb inflation while wealthier households can still shield themselves."
+          ]
+        },
+        {
+          "thesis": "The measures are too small and too late to meaningfully offset a supply shock of this scale.",
+          "mechanisms": [
+            "First, the shock is structural, not behavioral. One, the Strait of Hormuz has been shut for more than two-and-a-half months, two, the IEA has called it the largest supply disruption in history, and three, voluntary conservation cannot replace missing barrels in a globally tight market.",
+            "Second, the macro damage is already being transmitted through prices and markets. One, the rupee is at record lows, two, the Sensex fell more than 1,000 points after the remarks, and three, higher import costs will keep feeding inflation even if households cut some discretionary consumption.",
+            "Third, the policy may create false confidence and delay harder choices. One, it can encourage the government to postpone fuel price revisions or targeted subsidies, two, it may mask the need for strategic reserves and supply diversification, and three, delayed adjustment usually makes the eventual recession deeper."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term stabilization and long-term accountability. Prop wins if the round is about crisis management under an exogenous oil shock; Opp wins if the round is about whether governments should solve structural vulnerability through real policy rather than asking citizens to absorb the pain.",
+      "stock_connections": [
+        "Austerity",
+        "Cost-push inflation",
+        "Foreign exchange crisis",
+        "Dutch Disease",
+        "Government failure",
+        "Moral hazard",
+        "Regressive policy burden",
+        "Supply shock"
+      ],
+      "motion_areas": [
+        "TH, as India, would encourage work-from-home and voluntary austerity during energy crises",
+        "THBT governments should ask citizens to reduce consumption in response to external supply shocks",
+        "THP a world where states respond to oil shocks with public austerity campaigns rather than price controls"
+      ],
+      "data_points": [
+        "India imports about 90% of its oil",
+        "India’s crude bill has risen by several billion dollars since the war in Iran began",
+        "The Strait of Hormuz has been shut for more than two-and-a-half months",
+        "The Sensex fell more than 1,000 points in early trade after Modi’s remarks",
+        "The rupee has hit record lows in recent weeks",
+        "Hundreds of thousands of jobs are at risk in Indian factories making glass, plastic products, and tiles",
+        "The IEA described the disruption as the 'largest supply disruption in history'"
+      ]
+    },
+    {
+      "id": "ee7dbc71a687",
+      "title": "Targeted Heating-Oil Subsidies Shield Rural Households From Energy Price Shocks But Risk Locking In Unequal Energy Support",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy2qw80rqlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T05:09:23Z",
+      "category": "Econ",
+      "region": "United Kingdom / North Lincolnshire",
+      "background": "North Lincolnshire Council has confirmed a £300 payment for households that rely on heating oil, with hundreds of eligible residents expected to receive support directly into their bank accounts. The council says oil users are not protected by Ofgem price caps in the way gas and electricity customers are, and that the scheme is aimed at households facing sharp cost increases after the Iran war pushed up heating oil prices. In March, the UK government announced around £50m of support for households struggling with high heating oil costs.",
+      "prop_args": [
+        {
+          "thesis": "Targeted heating-oil support is justified because it prevents a regressive energy shock from hitting rural and fixed-income households who are structurally excluded from standard price protections.",
+          "mechanisms": [
+            "First, it corrects a market failure in energy protection. This is because (1) Ofgem caps apply to gas and electricity but not heating oil, (2) off-grid households face the same basic heating need without the same regulatory shield, and (3) without intervention they absorb full global price spikes immediately.",
+            "Second, it protects vulnerable households from acute welfare harm. Three reasons: one, older people and residents on fixed incomes are especially exposed to sudden fuel inflation; two, heating is a necessity good, so price shocks translate directly into under-heating, debt, or arrears; three, a one-off £300 payment can bridge a winter liquidity crunch better than abstract long-term promises.",
+            "Third, it prevents rural inequality from hardening into political and social exclusion. This matters because the state signals that off-grid communities are not second-class consumers, which preserves trust in local government and reduces the sense that rural areas are permanently disadvantaged by infrastructure geography."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Heating-oil subsidies are a blunt and unfair use of public money that entrenches fossil-fuel dependence while doing little to solve the underlying affordability problem.",
+          "mechanisms": [
+            "First, the policy is poorly targeted and regressive in practice. One, not all oil users are poor, so some support leaks to households that do not need it; two, a flat £300 payment ignores variation in household income and consumption; three, the scheme rewards continued reliance on a high-emissions fuel rather than incentivising transition.",
+            "Second, it creates fiscal and political moral hazard. One, once councils step in, households and local politicians expect repeated bailouts whenever global prices rise; two, that weakens pressure for structural fixes like insulation, heat pumps, or grid extension; three, it normalises ad hoc crisis spending instead of durable energy policy.",
+            "Third, it may crowd out better uses of scarce public funds. This matters because local and national budgets are finite, and the same money could fund energy efficiency upgrades that permanently reduce bills, lower emissions, and help more households over time."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate welfare protection and long-term policy efficiency. Prop wins if the round is about preventing winter hardship for a clearly vulnerable off-grid population; Opp wins if the clash is framed around whether governments should subsidise consumption or invest in structural decarbonisation and fairness.",
+      "stock_connections": [
+        "Energy poverty",
+        "Regressive taxation",
+        "Moral Hazard",
+        "Dependency on fossil fuels",
+        "Rural inequality",
+        "Cost of living crisis",
+        "Targeted welfare vs universal subsidies"
+      ],
+      "motion_areas": [
+        "TH, as a local council, would provide direct cash support to households facing energy price shocks",
+        "THBT governments should subsidise heating costs for off-grid rural households",
+        "THP a world where local authorities can top up national energy support schemes for vulnerable residents"
+      ],
+      "data_points": [
+        "£300 direct payment per eligible household",
+        "Around £50m of UK government support announced in March for households struggling with high heating oil costs",
+        "Heating oil prices rose sharply following the Iran war",
+        "Ofgem price caps do not apply to households using heating oil",
+        "Hundreds of households in North Lincolnshire are expected to benefit"
+      ]
+    },
     {
       "id": "9cb37b0e8c70",
       "title": "Thailand’s Thaksin Era Ends as Courts and Conservatives Reassert Control Over Pheu Thai",
