@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "last_updated": "2026-05-12T03:58:55Z",
+  "last_updated": "2026-05-12T11:32:58Z",
   "cards": [
     {
       "id": "1816d3618848",
@@ -1224,6 +1224,66 @@
         "The letter asks for records of all ICE air operations since Trump was sworn into office, including origin, destination, and passenger counts",
         "The lawmakers specifically raised concerns about full-body restraints used on deportation flights",
         "The letter references allegations tied to a private detention center in Alexandria, Louisiana"
+      ]
+    },
+    {
+      "id": "46bb738b7917",
+      "title": "Hormuz Disruption Exposes China’s Energy Security as a Geopolitical Liability, Not Just an Import Problem",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/the-hormuz-crisis-and-chinas-energy-security-dilemma/",
+      "published": "2026-05-11T19:21:00Z",
+      "category": "IR",
+      "region": "China / Strait of Hormuz / Iran-Israel-U.S. context",
+      "background": "The article argues that the escalation of the Israel-U.S. war with Iran has disrupted traffic through the Strait of Hormuz, exposing China’s dependence on maritime energy routes it does not control. China says its overall energy self-sufficiency exceeds 80% because of coal and renewables, but it still imports roughly 4 billion barrels of crude annually and relies heavily on Gulf suppliers. Independent estimates suggest Iranian crude alone has accounted for more than 1 million barrels per day in recent years, much of it routed through Shandong teapot refineries and opaque intermediary networks. China’s total crude inventory is estimated at about 1.4 billion barrels, but the article says stockpiles only delay adjustment if Hormuz remains constrained.",
+      "prop_args": [
+        {
+          "thesis": "The Hormuz crisis proves China cannot achieve true energy security without control over the maritime security architecture that carries its oil.",
+          "mechanisms": [
+            "First, the crisis turns China’s dependence on imported oil into a chokepoint vulnerability. This is because (1) roughly two-fifths of China’s crude imports come from Gulf producers, (2) much of that supply must pass through the Strait of Hormuz, and (3) even a shipping-insurance withdrawal or tanker backlog can interrupt flows without a full naval blockade.",
+            "Second, China’s existing buffers only buy time, not autonomy. Three reasons: one, its estimated 1.4 billion barrels of crude inventory can smooth short-term shocks but depletes under prolonged disruption; two, teapot refineries and sanctioned-crude networks are efficient in normal times but fragile under sanctions escalation; three, overland alternatives from Russia, Pakistan, and Myanmar are too small or inflexible to replace maritime volumes.",
+            "Third, the shock has macroeconomic spillovers that make the vulnerability politically costly. This matters because (1) Brent spiking toward $126 per barrel and potentially higher raises import bills, (2) higher energy costs squeeze teapot refiners and energy-intensive industry, and (3) the resulting inflation/deflation mix worsens an already weak property and consumption environment, turning external exposure into domestic instability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China’s energy system is resilient enough that Hormuz disruption is a serious shock, but not a strategic defeat.",
+          "mechanisms": [
+            "First, China has multiple layers of buffering that reduce the chance of immediate crisis. One, overall energy self-sufficiency is said to exceed 80% because coal remains dominant and renewables are expanding; two, strategic and commercial inventories of about 1.4 billion barrels can absorb temporary supply losses; three, Beijing can prioritize allocation to critical sectors if prices spike.",
+            "Second, China can adapt around the shock rather than be trapped by it. One, it can increase purchases from Russia and Central Asia, even if those routes are capped; two, it can accelerate renewable deployment and domestic substitution to reduce future oil dependence; three, it can use state coordination to reroute procurement through intermediaries and maintain access to discounted crude.",
+            "Third, the crisis may be more of a price and logistics problem than a long-term structural one. This is because (1) markets can partially reopen and normalize over months, (2) elevated prices create incentives for supply reallocation and demand reduction, and (3) China’s scale and state capacity make it better able than most importers to ride out volatility."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether energy security means surviving a shock or being insulated from coercion. Prop wins if the standard is strategic autonomy, because China cannot secure the sea lanes it depends on; opp wins only if the standard is short-term resilience, since stockpiles and diversification do blunt immediate damage.",
+      "stock_connections": [
+        "Chokepoint Dependence",
+        "Energy Security",
+        "Strategic Vulnerability",
+        "Maritime Trade Interdependence",
+        "Sanctions Evasion",
+        "Resource Curse",
+        "Great Power Competition",
+        "Economic Statecraft",
+        "Supply Chain Fragility",
+        "Dutch Disease"
+      ],
+      "motion_areas": [
+        "TH, as China, would prioritize control of overseas energy chokepoints over domestic energy self-sufficiency",
+        "THBT developing great powers should build military capacity to secure their trade routes",
+        "THP a world where major energy importers can no longer rely on maritime chokepoints for cheap oil",
+        "TH, as China, would reduce dependence on Gulf oil even at significant economic cost",
+        "THBT energy security is primarily a geopolitical rather than an economic problem"
+      ],
+      "data_points": [
+        "China imports roughly 4 billion barrels of crude annually",
+        "Gulf producers account for roughly two-fifths of China’s crude imports",
+        "Independent estimates suggest Iranian crude has exceeded 1 million barrels per day in recent years",
+        "China’s total crude inventory is estimated at approximately 1.4 billion barrels",
+        "Brent crude peaked at around $126 per barrel in March 2026",
+        "An estimated 10–12 million barrels per day of supply outages occurred during the Hormuz disruption",
+        "Brent may stay above $90 per barrel through 2026 if the geopolitical risk premium persists",
+        "China met its 5 percent GDP growth target in 2024 but still faces weak consumption, deflationary pressure, and a prolonged property downturn"
       ]
     },
     {
