@@ -1,7 +1,587 @@
 {
   "date": "2026-05-11",
-  "last_updated": "2026-05-11T22:15:48Z",
+  "last_updated": "2026-05-12T03:58:55Z",
   "cards": [
+    {
+      "id": "1816d3618848",
+      "title": "US Military Expansion in Greenland Tests NATO Unity While Normalizing Great-Power Arctic Competition",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T23:56:11Z",
+      "category": "IR",
+      "region": "Greenland / Denmark / US / Arctic / North Atlantic",
+      "background": "The US and Denmark have been in regular closed-door talks for several months over expanding America’s military footprint in Greenland, including proposals for three new bases in the territory’s south. The BBC reports that one option under discussion is to designate the bases as US sovereign territory, while using existing infrastructure such as airfields and ports to lower costs. Greenland currently hosts one US base, Pituffik Space Base in the northwest, down from roughly 17 US military facilities at the height of the Cold War. The talks come after Donald Trump said in January that the US should 'own' Greenland to stop Russia or China from taking it, triggering a diplomatic crisis with Denmark and NATO.",
+      "prop_args": [
+        {
+          "thesis": "A negotiated US base expansion in Greenland is the least-bad way to secure the Arctic without forcing a direct sovereignty crisis.",
+          "mechanisms": [
+            "First, it converts a coercive territorial dispute into a rules-based security arrangement. This is because (1) Denmark retains formal approval power under the 1951 pact, (2) Greenlandic and Danish officials can bargain over basing terms rather than face annexation threats, and (3) the US gets operational access without needing to escalate to sanctions, coercion, or military pressure.",
+            "Second, it strengthens deterrence in the GIUK Gap against Russia and China. Three reasons: one, the southern bases improve surveillance of maritime traffic between Greenland, Iceland, and the UK; two, they fill a capability gap because Pituffik is oriented toward missile monitoring rather than maritime tracking; three, visible allied presence raises the cost of gray-zone probing by adversaries.",
+            "Third, it preserves NATO cohesion by channeling Trump-era pressure into a compromise allies can live with. This matters because (1) Denmark has already signaled willingness to discuss more bases, (2) the talks are happening inside an existing decades-old security framework, and (3) avoiding a public rupture reduces the risk that other allies doubt US commitments or start hedging independently."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Even if a deal is reached, expanding US bases in Greenland entrenches militarization and rewards coercive great-power behavior.",
+          "mechanisms": [
+            "First, it normalizes the idea that strategic leverage can be extracted through territorial threats. One, Trump explicitly framed Greenland as something the US should 'own' by the 'easy way' or the 'hard way'; two, if that pressure is followed by a basing deal, future leaders learn that escalation works; three, that weakens the norm against coercive revisionism inside alliances.",
+            "Second, it increases Arctic security competition rather than reducing it. One, new bases in southern Greenland are explicitly aimed at monitoring Russian and Chinese maritime activity, which signals a more contested GIUK Gap; two, Russia and China can respond by hardening their own Arctic posture, increasing patrols, or deepening cooperation; three, the region becomes a more permanent military theater instead of a managed security space.",
+            "Third, it risks alienating Greenlanders and destabilizing Denmark’s domestic politics. One, Greenland is a semi-autonomous territory, so decisions made in Washington-Copenhagen talks can be seen as bypassing local consent; two, the idea of US sovereign territory inside Greenland is politically inflammatory; three, resentment over being treated as a strategic asset can fuel anti-US and pro-sovereignty sentiment, making long-term cooperation harder."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the deal is treated as a stabilizing compromise or as institutionalized coercion. Prop wins if you prioritize immediate deterrence and alliance management; opp wins if you think the precedent of threatening allies to extract basing rights does longer-term damage to the security order.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Alliance Management",
+        "Security Dilemma",
+        "Coercive Diplomacy",
+        "Militarization",
+        "Sovereignty vs Security",
+        "Deterrence Theory",
+        "Alliance Credibility",
+        "Gray-Zone Competition"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would negotiate for new military bases in Greenland",
+        "THBT NATO allies should permit expanded US basing rights in Greenland",
+        "THP a world where Arctic security is managed through bilateral military basing deals",
+        "THBT small strategic territories should be allowed to trade sovereignty for security guarantees"
+      ],
+      "data_points": [
+        "US currently has 1 military base in Greenland: Pituffik Space Base",
+        "US had approximately 17 military facilities in Greenland at the height of the Cold War",
+        "US officials are seeking 3 new bases in southern Greenland",
+        "The GIUK Gap is the North Atlantic corridor between Greenland, Iceland, and the United Kingdom",
+        "The 1951 US-Denmark security pact gives the US a wide berth to expand military operations in Greenland, subject to Danish approval",
+        "The talks have reportedly involved at least 5 meetings since mid-January",
+        "Trump said in January the US should 'own' Greenland to prevent Russia or China from taking it",
+        "One proposed site is Narsarsuaq, on the location of a former US military base and small airport"
+      ]
+    },
+    {
+      "id": "0065006943d7",
+      "title": "Trump-Xi Diplomacy Risks Turning Taiwan and Hormuz Into Bargaining Chips",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/balance-of-power-late-edition-05-11-2026-video",
+      "published": "2026-05-11T23:49:41Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan / Iran / Middle East",
+      "background": "On 11 May 2026, Bloomberg’s Balance of Power: Late Edition discussed the geopolitical stakes ahead of a Trump-Xi meeting. Rep. Jill Tokuda warned that Taiwan “must not be a bargaining chip” in US-China talks. Tom Kloza of Gulf Oil said reopening the Strait of Hormuz is “the only lever you can pull that has a major impact” on fuel prices, warning gasoline could hit $5 a gallon or higher this summer if the strait remains closed. Mara Rudman, a former US Middle East envoy, said there is likely no “near-term” diplomatic solution with Iran.",
+      "prop_args": [
+        {
+          "thesis": "A Trump-Xi summit that treats Taiwan and Iran as tradeable issues would weaken US credibility and incentivize coercive bargaining by adversaries.",
+          "mechanisms": [
+            "First, bargaining over Taiwan signals to Beijing that military pressure works. This is because (1) it reframes sovereignty as a negotiable US preference rather than a red line, (2) it rewards escalation by making the threat of force more valuable than diplomacy, and (3) it reduces the deterrent value of US security commitments to allies watching the exchange.",
+            "Second, tying Iran or Hormuz to broader great-power diplomacy creates a precedent that energy security can be weaponized for concessions. Three reasons: one, it tells regional actors that maritime chokepoints are leverage in US negotiations; two, it encourages Iran to hold the line longer if it believes disruption raises the price of concessions; three, it makes Gulf partners doubt that Washington will prioritize their security over a China deal.",
+            "Third, the domestic and market fallout is immediate and measurable. This matters because if oil markets price in a prolonged Hormuz closure, consumers face higher gasoline prices, inflation expectations rise, and the administration has less room to claim diplomatic success even if it extracts symbolic concessions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Using summit diplomacy to reduce tensions on Taiwan or Iran can stabilize the system and produce concrete economic gains without conceding core US interests.",
+          "mechanisms": [
+            "First, high-level bargaining can lower the risk of accidental escalation. One, direct leader-to-leader talks reduce misperception and signaling errors; two, they can create temporary guardrails on military activity around Taiwan or in the Gulf; three, even limited de-escalation is valuable when the alternative is crisis spirals.",
+            "Second, pragmatic dealmaking can protect consumers and global trade. One, reopening the Strait of Hormuz would immediately reduce oil-price pressure and inflation; two, avoiding a Taiwan crisis preserves semiconductor supply chains and investor confidence; three, the US can trade on issues it values less while preserving its core commitments through formal statements and allied coordination.",
+            "Third, adversaries also have incentives to compromise, so negotiation is not inherently capitulation. One, China wants economic stability and access to US markets; two, Iran faces domestic strain and may prefer sanctions relief or reduced isolation; three, summit diplomacy can exploit these incentives to secure partial wins that are better than stalemate."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit diplomacy is a controlled bargaining tool or a signal of weakness that invites further coercion. Prop wins if you prioritize long-term deterrence and alliance credibility; opp wins if you think immediate crisis prevention and economic stabilization outweigh the reputational costs of negotiation.",
+      "stock_connections": [
+        "Credibility and deterrence",
+        "Alliance abandonment",
+        "Coercive diplomacy",
+        "Hostage bargaining / bargaining with dictators",
+        "Energy security",
+        "Chokepoint leverage",
+        "Escalation management",
+        "Great power competition",
+        "Trade-offs between security and economic stability"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would not bargain over Taiwan in negotiations with China",
+        "THBT the United States should prioritize de-escalation with Iran over maximalist pressure when oil chokepoints are at risk",
+        "THP a world where major powers can use summit diplomacy to trade off regional security issues for economic stability"
+      ],
+      "data_points": [
+        "Rep. Jill Tokuda warned Taiwan 'must not be a bargaining chip' ahead of Trump-Xi talks",
+        "Tom Kloza said reopening the Strait of Hormuz is 'the only lever you can pull that has a major impact' on fuel prices",
+        "Kloza warned gasoline could reach $5 a gallon or higher this summer if the Strait of Hormuz remains closed",
+        "Mara Rudman said there is likely no 'near-term' diplomatic solution with Iran"
+      ]
+    },
+    {
+      "id": "f0cfc56af093",
+      "title": "Trump-Xi Summit Risks Locking In a New Bargaining Order Between the US and China",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T23:20:53Z",
+      "category": "IR",
+      "region": "US / China / Taiwan / Global",
+      "background": "US President Donald Trump is set to visit Beijing for talks with Chinese President Xi Jinping, a banquet, and a visit to the Temple of Heaven. The summit comes amid tensions over Iran, Taiwan, trade, and advanced technology, with the US and China both trying to shape the agenda before any wider escalation. The article notes that Trump has previously imposed tariffs on Taiwan, threatened tariffs on China at times above 100%, and that China has responded by restricting rare earth exports and reducing purchases of US agricultural goods. China now supplies around 90% of the world’s rare earth minerals, while the US has continued restricting exports of high-end microprocessors to China.",
+      "prop_args": [
+        {
+          "thesis": "The summit will entrench a transactional superpower relationship in which both sides trade concessions on trade, tech, and regional security rather than move toward genuine strategic accommodation.",
+          "mechanisms": [
+            "First, the meeting creates a short-term bargaining environment that rewards visible deals over durable commitments. This is because (1) Trump is highly sensitive to optics and personal respect, (2) Xi can use ceremonial treatment and selective concessions to shape Trump’s perception, and (3) both sides have incentives to claim success without resolving core disputes.",
+            "Second, the summit gives each side leverage to extract issue-specific concessions while preserving broader rivalry. Three reasons: one, China can offer rare earth access or cooperation on Iran in exchange for softer US trade enforcement; two, the US can dangle tariff relief or reduced probes in exchange for Chinese agricultural purchases; three, neither side needs to settle Taiwan or AI, so the relationship becomes a managed competition rather than a reset.",
+            "Third, this matters because a transactional equilibrium is still a strategic outcome: it stabilizes the rivalry enough to prevent immediate crisis, but it also normalizes coercive bargaining in every domain. That means future disputes over Taiwan, chips, and maritime security will be handled through threats and side-payments, not rules, which entrenches long-term superpower competition."
+          ]
+        },
+        {
+          "thesis": "The summit will likely strengthen China’s position by showing that Beijing can use economic and geopolitical leverage to force Washington into pragmatic restraint.",
+          "mechanisms": [
+            "First, China enters the talks with concrete leverage over supply chains and market access. This is because (1) it processes around 90% of global rare earth minerals, (2) it can retaliate against US exporters by curbing agricultural purchases, and (3) it remains a critical market for multinational firms whose CEOs are accompanying Trump.",
+            "Second, Beijing can convert regional crises into diplomatic capital. Three reasons: one, it can present itself as useful on Iran by nudging Tehran toward negotiations; two, it can frame itself as a necessary actor in any durable Middle East settlement; three, this allows China to demand reciprocal restraint from the US on tariffs, tech controls, and Taiwan rhetoric.",
+            "Third, this matters because if Washington repeatedly backs away from pressure once China retaliates, allies and rivals infer that US coercion has limits. That weakens deterrence in the Indo-Pacific and encourages Beijing to keep escalating incrementally, confident that the US will ultimately bargain rather than fully confront."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit will not produce a durable breakthrough because the underlying structural conflict between the US and China is too deep and too reversible.",
+          "mechanisms": [
+            "First, any agreement is vulnerable to domestic and personal volatility on the US side. One, Trump can reverse positions quickly through tariffs, sanctions, or social media statements; two, the article notes he has already sent mixed signals on Taiwan and trade; three, this makes Chinese leaders rationally discount any verbal commitment.",
+            "Second, the core disputes are not peripheral but existential. One, Taiwan is a sovereignty issue for China and a security commitment issue for the US; two, advanced technology is tied to military power and industrial dominance; three, neither side can concede on these without undermining long-term national strategy.",
+            "Third, the summit may actually harden rivalry by clarifying red lines. One, the US will continue export controls on chips and scrutiny of Chinese tech theft; two, China will keep using rare earths and market access as coercive tools; three, once both sides see the other’s leverage more clearly, they prepare for decoupling rather than compromise."
+          ]
+        },
+        {
+          "thesis": "The meeting is more likely to intensify competition than reduce it because both leaders will leave with stronger incentives to weaponize interdependence.",
+          "mechanisms": [
+            "First, each side has already learned that the other’s vulnerabilities are exploitable. One, China can hit US farmers and manufacturers through export restrictions and purchasing shifts; two, the US can hit China through chip bans and tariff threats; three, this encourages future tit-for-tat escalation rather than trust-building.",
+            "Second, the summit may create false confidence that can backfire later. One, a smooth visit can mask unresolved disputes; two, temporary calm can delay necessary crisis management; three, when the next Taiwan or trade shock hits, the absence of real settlement makes the rupture sharper.",
+            "Third, this matters because managed rivalry is still rivalry, and the more both sides normalize coercion, the more likely miscalculation becomes. That increases the risk of a future crisis in the Taiwan Strait or a broader economic split, even if the summit itself looks successful."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the summit changes the structure of the relationship or just the tone. Prop wins if you think repeated transactional deals become the new equilibrium; opp wins if you think the core issues are too strategic and reversible for any summit to matter beyond optics.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Interdependence as Leverage",
+        "Decoupling",
+        "Deterrence",
+        "Coercive Diplomacy",
+        "Trade War",
+        "Technological Cold War",
+        "Alliance Signaling",
+        "Miscalculation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue summit diplomacy with China despite unresolved strategic rivalry",
+        "THBT the US should prioritize transactional deals with China over ideological confrontation",
+        "THP a world where US-China relations are managed through bargaining rather than containment",
+        "THBT developing powers should use supply-chain leverage to extract concessions from superpowers"
+      ],
+      "data_points": [
+        "China processes around 90% of the world’s rare earth minerals",
+        "The US announced an $11bn arms deal with Taiwan in December",
+        "Trump previously imposed tariffs on Taiwan of 15%",
+        "US-China tariffs during 2025 reportedly rose to over 100% at times",
+        "China has cut purchases of American agricultural exports in retaliation",
+        "Some Chinese producers saw costs rise by 20% due to higher oil prices linked to the Iran war",
+        "The US has sanctioned a China-based refinery for transporting Iranian oil",
+        "The Trump administration is inviting CEOs from Nvidia, Apple, Exxon, Boeing and other major firms to accompany the visit"
+      ]
+    },
+    {
+      "id": "e2e214e040fc",
+      "title": "Trump Seeks Chinese Help on Iran While Beijing Tries to Trade Concessions for Tariff Relief and Taiwan Wording",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/12/the-big-questions-hanging-over-the-trump-xi-meeting-in-china",
+      "published": "2026-05-11T23:05:07Z",
+      "category": "IR",
+      "region": "United States / China / Middle East (Hormuz)",
+      "background": "Donald Trump is expected to meet Xi Jinping in Beijing on 13-15 May after the summit was postponed by the Iran war. The US-China trade war had previously seen tariffs rise as high as 145% before a truce was agreed in October, and Beijing now wants to prevent those tariffs from returning. The new strategic issue is Iran: China imports about half of its crude oil through the Strait of Hormuz, while the IMF has warned the conflict could trigger a global recession. The US treasury secretary has publicly said Washington wants Beijing to \"step up\" pressure on Iran to reopen the waterway.",
+      "prop_args": [
+        {
+          "thesis": "China can use its leverage over Iran to extract a more stable US-China settlement on trade and Taiwan, making the summit a rare moment where Beijing can convert regional influence into broader strategic gains.",
+          "mechanisms": [
+            "First, China’s influence over Iran gives it bargaining power in a moment where Washington needs help. This is because (1) the US wants Hormuz reopened to stabilize global energy flows, (2) China has channels to Tehran and has reportedly already pushed Iran toward ceasefire talks, and (3) Trump is unusually dependent on Chinese cooperation, which weakens the usual US negotiating advantage.",
+            "Second, Beijing can trade limited cooperation for concrete economic predictability. Three reasons: one, China’s exporters need the tariff truce extended because a return to 145% tariffs would hit a $1.2tn trade surplus model; two, even a vague summit statement can lock in de-escalation and reduce business uncertainty; three, predictability matters more than headline tariff levels for Chinese firms planning investment and supply chains.",
+            "Third, the summit can produce a symbolic but meaningful shift on Taiwan and broader US signaling. This matters because (1) even small wording changes from 'does not support' to 'opposes' Taiwan independence would be a diplomatic win for Beijing, (2) stalled arms sales or softened rhetoric reduce deterrence and normalize China’s preferred framing, and (3) Trump’s softer posture signals to allies that Washington may be less committed, which increases China’s room to maneuver."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China is too economically exposed and strategically constrained to turn the summit into a major win, so the most likely outcome is a shallow truce that preserves US leverage.",
+          "mechanisms": [
+            "First, China needs stability more than the US does. One, about a fifth of China’s GDP comes from exports, so a global recession or prolonged trade disruption would hit Beijing’s growth model hard; two, even though China is insulated from short-term energy shocks, a longer Hormuz disruption becomes problematic; three, this makes China the side under pressure to compromise rather than escalate.",
+            "Second, the US can offer or withhold concessions in ways China cannot fully control. One, arms sales to Taiwan are constrained by Congress and bureaucracy, limiting what Trump can credibly promise; two, Beijing cannot force Washington to abandon Taiwan or fully reverse defense policy, so its leverage is mostly rhetorical; three, the likely result is only an extension of the truce, not a structural settlement.",
+            "Third, cooperation on Iran may not translate into durable gains on trade or Taiwan. One, China helping reopen Hormuz serves its own energy interests as much as US interests, so it is not a clean bargaining chip; two, Trump can pocket Chinese help on Iran while still keeping tariffs and Taiwan pressure in reserve; three, because the summit is driven by immediate crisis management, any deal is likely to be narrow, reversible, and easy for either side to walk back."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether China’s leverage over Iran is enough to convert a crisis into durable strategic gains, or whether Beijing is simply being forced to help stabilize a conflict that already threatens its own economy. This argument wins because the structural asymmetry is still real: the US can demand cooperation without fully conceding on Taiwan or tariffs, while China’s need for trade and energy stability makes it more likely to settle for a limited truce.",
+      "stock_connections": [
+        "Great Power Bargaining",
+        "Coercive Diplomacy",
+        "Interdependence as Leverage",
+        "Trade War Escalation",
+        "Deterrence and Signaling",
+        "Alliance Credibility",
+        "Economic Statecraft",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would trade tariff relief for Chinese pressure on Iran",
+        "THBT China should use its leverage over Iran to secure concessions on Taiwan and trade from the US",
+        "THP a world where major powers can bargain over regional wars through economic interdependence",
+        "TH, as China, would prioritize Hormuz stability over confrontation with the US",
+        "THBT the US should soften its Taiwan rhetoric to secure Chinese cooperation on Middle East de-escalation"
+      ],
+      "data_points": [
+        "Tariffs on Chinese goods reached as high as 145% before the October truce",
+        "China’s trade surplus last year hit a record $1.2tn",
+        "About one-fifth of China’s GDP comes from exports",
+        "Half of China’s crude oil passes through the Strait of Hormuz",
+        "The US Congress approved an $11bn arms sale package to Taiwan last year",
+        "Taiwan’s legislature approved a $25bn special defence budget on Friday",
+        "The IMF has warned the Iran war could trigger a global recession"
+      ]
+    },
+    {
+      "id": "a34e7ea7de50",
+      "title": "Trump’s Iran Deal Collapse Keeps Oil Elevated as Geopolitical Risk Reprices Global Markets",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/bloomberg-businessweek-daily-5-11-2026-video",
+      "published": "2026-05-11T23:02:44Z",
+      "category": "Econ",
+      "region": "United States / Iran / China / Global",
+      "background": "On 11 May 2026, Bloomberg reported that oil prices rose after Donald Trump signaled that hopes for a US-Iran deal were on 'life support.' The segment also noted that markets were still trading higher despite war risk in Iran, while Trump was preparing to travel to Beijing later that week for talks with Chinese President Xi Jinping. The article frames a broader market environment where geopolitical escalation in the Middle East and US-China diplomacy are both feeding into commodity and equity pricing.",
+      "prop_args": [
+        {
+          "thesis": "A failed US-Iran deal strengthens oil prices and gives the US and its allies more leverage over Iran by keeping sanctions, conflict risk, and energy scarcity elevated.",
+          "mechanisms": [
+            "First, the collapse of diplomacy keeps Iranian supply constrained. This is because (1) sanctions remain in place or tighten, limiting legal exports; (2) firms and insurers price in higher shipping and compliance risk, reducing effective supply even beyond formal sanctions; and (3) markets immediately reprice the probability of disruption in the Strait of Hormuz, which affects a large share of global seaborne oil flows.",
+            "Second, higher oil prices improve the bargaining position of oil-exporting and sanction-enforcing states. Three reasons: one, elevated prices increase the revenue value of each barrel for producers outside Iran; two, they make sanctions more painful for Tehran by limiting the upside of any partial export recovery; three, they strengthen the US ability to use energy market volatility as a coercive tool in broader negotiations with Iran and its partners.",
+            "Third, the market shock can deter escalation by making the cost of war visible to all actors. This matters because (1) import-dependent states face inflation and growth hits, creating pressure for restraint; (2) investors and firms lobby for de-escalation once risk premia rise; and (3) Iran and its adversaries both have incentives to avoid actions that would trigger a sustained oil spike and global recession."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Keeping the Iran deal on life support is economically destabilizing because it raises oil prices, worsens inflation, and increases the risk of a broader regional conflict that markets cannot absorb indefinitely.",
+          "mechanisms": [
+            "First, higher oil prices act like a global tax on consumers and firms. One, they raise transport, fertilizer, and petrochemical costs across the economy; two, they feed into headline inflation and can delay interest-rate cuts; three, they disproportionately hurt poorer importing states that spend a larger share of income on energy and food.",
+            "Second, the uncertainty premium is more damaging than the price level alone. One, firms delay investment when they cannot forecast energy costs; two, shipping and insurance markets become more expensive as conflict risk rises; three, financial markets may initially shrug off the shock, but persistent instability eventually hits earnings, credit conditions, and growth expectations.",
+            "Third, the breakdown of diplomacy increases the chance of miscalculation and war. One, without a deal there are fewer communication channels and verification mechanisms; two, each side has stronger incentives to signal resolve through escalation; three, once violence expands, oil markets move from pricing risk to pricing actual supply loss, which is far more disruptive."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether elevated oil prices are a strategic lever or a self-inflicted macroeconomic shock. Prop wins if the key issue is coercive leverage and deterrence; opp wins if the judge prioritizes inflation, growth, and the compounding cost of prolonged uncertainty.",
+      "stock_connections": [
+        "Energy security",
+        "Sanctions effectiveness",
+        "Inflationary shocks",
+        "Geopolitical risk premium",
+        "Moral hazard",
+        "Security dilemma",
+        "Regional escalation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize maximum pressure over a nuclear deal with Iran",
+        "THBT states should tolerate higher oil prices if it increases leverage over adversarial regimes",
+        "THP a world where energy markets are used as tools of coercive diplomacy",
+        "THBT the US should abandon negotiations with Iran when compliance is uncertain"
+      ],
+      "data_points": [
+        "Bloomberg reported oil gains on 11 May 2026 after Trump said the Iran deal was on 'life support'",
+        "The segment explicitly linked market moves to 'war in Iran' risk",
+        "Trump was scheduled to travel to Beijing later that week for a meeting with Xi Jinping",
+        "The article describes stocks continuing to trade higher despite geopolitical risk"
+      ]
+    },
+    {
+      "id": "963ba1b0e86e",
+      "title": "Middle East War Triggers UK Consumer Retrenchment and Renewed Cost-of-Living Fears",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war",
+      "published": "2026-05-11T23:01:07Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "Barclays, which processes nearly 40% of UK credit and debit card transactions, said its data showed card spending fell 0.1% year on year in April 2026, the first annual decline since November 2024. Non-essential spending fell 0.3%, travel spending fell 5.7%, and airline spending fell 8.3%, while fuel spending rose 10.4%, the biggest increase since December 2022. The Bank of England warned last week that inflationary pressure from the Iran war was unavoidable, with typical energy bills expected to rise 16% to £1,900 by summer and food prices to rise 7% by year-end.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war is already transmitting into the UK economy through consumer fear, and that demand shock will slow growth before the inflation shock even fully lands.",
+          "mechanisms": [
+            "First, the conflict raises expected household costs, which causes precautionary saving and immediate spending cuts. This is because (1) 72% of consumers expect Middle East tensions to affect their cost of living throughout 2026, (2) confidence in non-essential spending fell to 49%, its lowest since March 2023, and (3) when households expect higher energy and food bills, they cut discretionary purchases first.",
+            "Second, the spending retrenchment hits the sectors that depend on marginal consumer demand, creating a multiplier effect. Three reasons: one, travel spending fell 5.7% and airlines 8.3%, two, eating and drinking spending flatlined, and three, retail sales were already down 3% in April according to BRC/KPMG, so weaker demand compounds across hospitality, retail, and transport.",
+            "Third, this matters because the UK is entering a stagflationary squeeze where households face both higher prices and weaker real activity. This is because (1) fuel spending rose 10.4% as a direct cost shock, (2) the Bank of England says higher inflation is unavoidable, and (3) if consumers keep pulling back, businesses delay hiring and investment, making the slowdown self-reinforcing."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The spending dip is a temporary confidence wobble, not a structural crisis, because UK households are still broadly able to absorb the shock.",
+          "mechanisms": [
+            "First, the data shows resilience in household balance sheets rather than collapse. One, 52% of consumers say they feel able to manage day-to-day finances without significant stress, two, overall card spending fell only 0.1% year on year, and three, essential spending still rose 0.3%, suggesting people are reallocating rather than stopping consumption.",
+            "Second, the headline retail weakness is partly explained by one-off timing effects, so it should not be overread as war-driven recession risk. One, BRC/KPMG said April sales were skewed by Easter timing, two, food sales comparisons were distorted by the holiday shifting between March and April, and three, some categories like digital content and subscriptions rose 9.2%, showing spending is not collapsing across the board.",
+            "Third, even if inflation rises, the macro effect may be manageable because the shock is supply-side and may not permanently destroy demand. One, households can substitute away from expensive travel and eating out, two, energy-price shocks often fade once markets stabilize, and three, the World Cup and other consumption events can partially offset weak discretionary demand."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war creates a short-lived confidence dip or a persistent cost-of-living spiral. Prop wins if it proves expectations are enough to suppress spending now, because that immediately weakens growth and makes the inflation shock politically and economically harder to absorb.",
+      "stock_connections": [
+        "Cost-push inflation",
+        "Consumer confidence shock",
+        "Precautionary saving",
+        "Stagflation",
+        "Demand destruction",
+        "Recessionary expectations",
+        "Distributional effects of inflation",
+        "Household balance sheet resilience"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would prioritize shielding household demand over fighting inflation in response to external energy shocks",
+        "THBT central banks should tolerate temporary inflation spikes caused by geopolitical conflict",
+        "THP a world where consumers are insulated from energy-price shocks through automatic fiscal transfers"
+      ],
+      "data_points": [
+        "Barclays processes nearly 40% of UK credit and debit card transactions",
+        "UK card spending fell 0.1% year on year in April 2026, the first annual decline since November 2024",
+        "Non-essential spending fell 0.3% in April",
+        "Travel spending fell 5.7% in April; airline spending fell 8.3%",
+        "Fuel spending rose 10.4%, the biggest increase since December 2022",
+        "72% of consumers expect Middle East tensions to affect their cost of living throughout 2026",
+        "Confidence in non-essential spending fell to 49%, the lowest since March 2023",
+        "Typical energy bills are forecast to rise 16% to £1,900 by summer",
+        "Food prices are forecast to rise 7% by the end of 2026",
+        "BRC/KPMG said retail sales fell 3% in April, compared with 7% growth in April 2025",
+        "Food sales fell 2.5% year on year in April, versus 8.2% growth in April 2025",
+        "Digital content and subscriptions spending rose 9.2% year on year"
+      ]
+    },
+    {
+      "id": "84ed22780db6",
+      "title": "UK University Cuts Black Studies MA Expose Tension Between Austerity and Academic Erasure",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/education/2026/may/12/birmingham-city-university-urged-not-to-axe-black-studies-ma",
+      "published": "2026-05-11T23:01:07Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "Birmingham City University (BCU) plans to close its MA in Black studies and global justice from September 2026, only months after the course launched this year. The decision follows the closure of BCU’s undergraduate Black studies course in 2024 and affects five Black staff members, including Prof Kehinde Andrews, who says he and colleagues were given 24 hours’ notice and that no equality impact assessment was completed. The university says the course had only eight students and is being withdrawn after a review of its postgraduate portfolio due to low demand, while current students will be allowed to finish.",
+      "prop_args": [
+        {
+          "thesis": "BCU should keep the MA because closing it so quickly entrenches structural exclusion in higher education and disproportionately removes Black scholarship from the UK academy.",
+          "mechanisms": [
+            "First, the closure creates a chilling effect on Black intellectual production. This is because (1) the programme was only launched this year, so shutting it after a few months signals that Black studies is treated as disposable, (2) prospective students and scholars infer that institutions will not sustain Black-focused programmes long enough for them to mature, and (3) that reduces future recruitment, research output, and pipeline-building in a field already underprovided in the UK.",
+            "Second, the decision reinforces institutional bias even if framed as a neutral cost-cutting measure. Three reasons: one, the university has already closed the undergraduate Black studies course in 2024, so this is a repeated pattern rather than an isolated financial choice; two, five Black staff members are at risk of redundancy, which concentrates harm on a protected and underrepresented group; three, the alleged failure to complete an equality impact assessment suggests the institution did not properly test whether the cuts would disproportionately affect race-related scholarship.",
+            "Third, the broader social value of the MA exceeds its immediate enrolment numbers. This matters because (1) niche disciplines often start small before building demand, (2) Black studies provides a rare space for students to analyse racism, empire, and inequality in a UK context, and (3) universities have a public-interest role in preserving fields that challenge dominant knowledge hierarchies, not just maximising short-term revenue."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "BCU is justified in closing the MA because universities facing a financial crisis must prioritise courses with viable demand and sustainable staffing.",
+          "mechanisms": [
+            "First, the university has a legitimate resource-allocation problem. One, UK universities are in a financial crisis and are already making widespread cuts, two, the MA reportedly had only eight students, and three, keeping very small programmes can be disproportionately expensive per student, crowding out larger courses that serve more people.",
+            "Second, the decision is not necessarily discriminatory if it is based on portfolio management rather than ideology. One, BCU says a review of its postgraduate portfolio identified a small number of courses for withdrawal, two, current students can complete their studies and alternative provision is being explored, and three, the university has opened a consultation with affected staff, which indicates procedural compliance even if the outcome is unpopular.",
+            "Third, protecting every small specialist course would create bad incentives across the sector. One, universities would be forced to preserve low-demand programmes regardless of cost, two, that would worsen financial instability and potentially trigger deeper cuts elsewhere, and three, institutions need flexibility to adapt offerings to student demand rather than locking in courses that are not attracting enough enrolment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Black studies is treated as a normal low-demand course or as a protected field with outsized public and representational value. Prop wins if the round is about structural exclusion and the long-term erosion of minority scholarship; Opp wins if the round is about hard budget constraints and the legitimacy of closing under-enrolled programmes.",
+      "stock_connections": [
+        "Structural discrimination",
+        "Institutional racism",
+        "Austerity",
+        "Race to the bottom",
+        "Minority representation",
+        "Knowledge hierarchy / epistemic injustice",
+        "Public good vs market logic",
+        "Tokenism"
+      ],
+      "motion_areas": [
+        "TH, as a university facing financial crisis, would protect niche minority studies programmes from cuts",
+        "THBT universities should be required to conduct equality impact assessments before closing race-focused courses",
+        "THP a world where universities are funded to preserve low-enrolment but socially valuable courses",
+        "THBT institutions should be allowed to close courses based purely on demand, regardless of subject matter"
+      ],
+      "data_points": [
+        "BCU plans to withdraw the MA from September 2026, only months after it launched",
+        "The MA currently has 8 students",
+        "Five Black staff members are at risk of redundancy",
+        "More than 100 academics, writers and activists signed the open letter",
+        "BCU previously closed its undergraduate Black studies course in 2024",
+        "Andrews says the university admitted it had not completed an equality impact assessment",
+        "The university says the closure follows a review of its postgraduate portfolio and low demand"
+      ]
+    },
+    {
+      "id": "e4d2c2107d07",
+      "title": "US-Iran Nuclear Stalemate Deepens as Diplomacy Moves Further From a Near-Term Deal",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-11/no-magic-bullet-in-iran-war-rudman-video",
+      "published": "2026-05-11T22:24:54Z",
+      "category": "IR",
+      "region": "United States / Iran",
+      "background": "On 2026-05-11, Mara Rudman, a former US State Department Deputy Envoy for Middle East Peace and now a University of Virginia professor, said there is likely no 'near-term' diplomatic solution with Iran. She argued that the US is 'further away' from resolving Iran's nuclear program than it was under the Obama-era nuclear deal. The comments were made on Bloomberg's 'Balance of Power' in the context of ongoing US-Iran tensions over Iran's nuclear file.",
+      "prop_args": [
+        {
+          "thesis": "The collapse of a near-term diplomatic track makes coercive containment and deterrence the only realistic US strategy toward Iran.",
+          "mechanisms": [
+            "First, the absence of a credible negotiating horizon hardens both sides' incentives. This is because (1) Iran has less reason to cap enrichment if sanctions relief is not forthcoming, (2) the US has less reason to offer concessions if diplomacy is seen as futile, and (3) each side interprets the other's delay as evidence that the other is buying time rather than bargaining.",
+            "Second, a stalled diplomatic process pushes the conflict into a more stable but harsher deterrence equilibrium. Three reasons: one, the US can focus on military signaling, sanctions, and regional force posture; two, allies like Israel and Gulf states get clearer reassurance through hard security commitments; three, Iran faces higher costs for escalation if it believes talks are dead and retaliation will be immediate.",
+            "Third, this matters because it reduces the risk of a bad deal that legitimizes Iranian gains without verifiable rollback. The biggest strategic gain is preventing a rushed agreement that leaves Iran closer to breakout while giving Washington the appearance of progress."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The lack of a near-term deal makes war and proliferation more likely, so the US should intensify diplomacy even if success is uncertain.",
+          "mechanisms": [
+            "First, diplomatic absence increases the probability of miscalculation. One, without channels for crisis communication, military incidents at sea or through proxies are more likely to spiral; two, Iran may accelerate nuclear steps to create leverage; three, the US and Israel may preemptively strike if they believe breakout is approaching.",
+            "Second, sanctions-and-deterrence alone can entrench Iranian hardliners. One, external pressure lets Tehran frame the nuclear issue as national resistance, strengthening regime legitimacy; two, economic isolation shifts power toward security institutions that benefit from confrontation; three, it weakens moderates who would otherwise argue for compromise.",
+            "Third, even a partial diplomatic process can buy time and cap escalation. This matters because the key objective is not a perfect settlement but preventing rapid enrichment, preserving inspection access, and keeping open a pathway to de-escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the absence of a near-term deal is a reason to double down on coercion or a warning sign that coercion is failing. Prop has the structural advantage if the round is about immediate policy realism, because it can claim diplomacy is not available; Opp wins if it can show that even imperfect talks reduce breakout risk and crisis instability.",
+      "stock_connections": [
+        "Deterrence theory",
+        "Crisis instability",
+        "Nuclear proliferation",
+        "Sanctions efficacy",
+        "Moral hazard",
+        "Security dilemma",
+        "Hardliners vs moderates",
+        "Preemption"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would abandon near-term nuclear negotiations with Iran",
+        "THBT the US should prioritize deterrence over diplomacy in dealing with Iran",
+        "THP a world where the US no longer seeks a comprehensive nuclear deal with Iran"
+      ],
+      "data_points": [
+        "Mara Rudman said there is likely no 'near-term' diplomatic solution with Iran",
+        "Rudman said the US is 'further away' from addressing Iran's nuclear program than it was under the Obama-era deal",
+        "The article explicitly frames the issue around Iran's nuclear program and the absence of a diplomatic breakthrough"
+      ]
+    },
+    {
+      "id": "a9b8b8ce342f",
+      "title": "India’s Welfare Boom Stops Buying Incumbency as Voters Demand Jobs, Infrastructure and Credible Growth",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn0pwy944pwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T22:12:16Z",
+      "category": "Econ",
+      "region": "India",
+      "background": "Over the past decade, Indian state politics has normalized cash transfers, subsidised services and women-focused schemes as a core electoral tool. The BBC cites India’s Ministry of Finance Economic Survey saying states are expected to spend roughly $18bn on unconditional cash transfers in 2025-26, with more than 2,000 cash transfer programmes now run by state governments. Recent state-level losses for prominent welfare-heavy incumbents include the DMK in Tamil Nadu, the TMC in West Bengal, and the Left Democratic Front in Kerala.",
+      "prop_args": [
+        {
+          "thesis": "Welfare is no longer a reliable electoral moat in India because it has become universal, fiscally constrained, and politically secondary to broader performance signals like jobs and infrastructure.",
+          "mechanisms": [
+            "First, welfare loses distinctiveness once every major party offers it. This is because (1) competitive welfarism means voters no longer see transfers as a unique party brand, (2) parties can easily imitate cash schemes before elections, and (3) the marginal electoral gain from adding another transfer falls as the baseline rises.",
+            "Second, cash transfers are increasingly seen as compensation for state failure rather than proof of competence. Three reasons: one, beneficiaries often interpret them as partial relief from inflation and low wages rather than loyalty-inducing gifts; two, women interviewed across Assam, West Bengal, Tamil Nadu and Karnataka reportedly said they did not vote for incumbents because of cash transfers; three, voters still prioritize jobs, decent work and cost of living over recurring payouts.",
+            "Third, the fiscal trade-off makes welfare politically fragile over time. This matters because (1) states are borrowing to fund recurring payouts, (2) salaries, pensions, subsidies and interest already consume more than 60% of state revenues, and (3) crowding out roads, schools, health and job creation weakens the long-run growth story incumbents need to defend themselves."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Welfare still matters electorally in India, but its effect is indirect: it anchors minimum support, especially among women and poorer households, and incumbents lose only when they fail to combine it with a broader governing coalition.",
+          "mechanisms": [
+            "First, welfare remains a floor rather than a bonus. One, in many states transfers can make up as much as half of monthly consumption expenditure for poorer rural households; two, this creates real dependency and reduces the immediate pain of inflation or income shocks; three, parties that withdraw welfare risk visible backlash even if offering it alone is not enough to guarantee victory.",
+            "Second, welfare can still be decisive when paired with identity, organization and administrative credibility. One, the BJP in Assam combines schemes with women’s self-help groups, roads and an image of efficiency; two, TMC and DMK losses may reflect coalition breakdowns, anti-incumbency or local issues rather than welfare failure; three, welfare remains a necessary component of the winning package in many constituencies.",
+            "Third, women-focused transfers can reshape turnout and party competition over time. One, women’s turnout often exceeds men’s and they are now a decisive bloc; two, direct transfers create a durable expectation that parties must court women voters; three, even if beneficiaries do not openly admit voting for cash, the schemes can still shift margins by improving participation and household-level support."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between welfare as a sufficient cause of victory and welfare as a necessary baseline. Prop wins if the question is whether cash transfers alone can still deliver incumbency; Opp wins if the question is whether welfare remains electorally relevant at all, because the article shows it now works mainly as a floor that must be bundled with jobs, infrastructure and coalition politics.",
+      "stock_connections": [
+        "Competitive populism",
+        "Clientelism",
+        "Political economy of redistribution",
+        "Crowding out",
+        "Fiscal sustainability",
+        "Anti-incumbency",
+        "Women as swing voters",
+        "Patronage politics",
+        "State capacity",
+        "Growth versus redistribution"
+      ],
+      "motion_areas": [
+        "TH, as an Indian state government, would prioritize welfare transfers over infrastructure spending",
+        "THBT welfare politics in developing democracies is electorally overrated",
+        "THP a world where Indian state governments cannot run unconditional cash transfer schemes",
+        "THBT political parties should compete on jobs and public goods rather than cash transfers",
+        "TH, as a ruling party in India, would treat women-focused welfare as a core electoral strategy"
+      ],
+      "data_points": [
+        "India’s state governments are expected to spend roughly $18bn on unconditional cash transfers in 2025-26",
+        "More than 2,000 cash transfer programmes are now run by Indian state governments",
+        "The number of states operating unconditional cash transfer schemes has increased more than fivefold in just three years",
+        "Salaries, pensions, subsidies and interest payments already consume more than 60% of state revenues",
+        "In some states, cash transfers account for as much as half of poorer rural households’ monthly consumption expenditure",
+        "Recent welfare-heavy incumbents losing power include the DMK in Tamil Nadu, the TMC in West Bengal, and the Left Democratic Front in Kerala",
+        "Women’s turnout now often exceeds men’s turnout in Indian elections",
+        "The article notes that since 2021, direct cash transfers to women have become a near-universal campaign promise across parties"
+      ]
+    },
+    {
+      "id": "db82b0feb234",
+      "title": "OpenAI’s For-Profit Pivot Turns Into a Trial Over Founder Trust, Governance, and AI Power",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial",
+      "published": "2026-05-11T22:01:44Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "The Musk v OpenAI trial entered its third week in May 2026, with Elon Musk seeking to unwind OpenAI’s for-profit structure and force the company back toward its nonprofit roots. Musk is asking for the removal of CEO Sam Altman and OpenAI president Greg Brockman, plus $134bn to be redistributed to OpenAI’s nonprofit arm. The case has featured testimony from former OpenAI leaders including Mira Murati, Ilya Sutskever, Helen Toner, Natasha McCauley, and Microsoft CEO Satya Nadella, with much of the evidence focused on Altman’s conduct during the 2023 board crisis when he was briefly fired and then reinstated five days later.",
+      "prop_args": [
+        {
+          "thesis": "OpenAI’s shift from nonprofit mission to profit-maximizing structure is exactly the kind of founder-led governance failure that justifies court intervention and structural remedies.",
+          "mechanisms": [
+            "First, the company’s own insiders describe a repeated honesty and candor problem at the top, which means the board and investors were not making informed decisions. This is because (1) Mira Murati testified Altman had a pattern of saying one thing to one person and the opposite to another, (2) Helen Toner said there was a pattern of behavior related to honesty and candor, and (3) Ilya Sutskever said he believed Altman exhibited a consistent pattern of lying. When the CEO is alleged to manipulate information flows, ordinary corporate oversight fails.",
+            "Second, the 2023 firing-and-reinstatement saga shows the governance structure was already unstable and vulnerable to capture by management and investors. Three reasons: one, the board removed Altman over concerns about misleading conduct; two, employees and Microsoft reportedly feared mass departures, which created pressure to reverse the decision; three, that reversal suggests the company’s formal nonprofit safeguards could not withstand commercial and reputational pressure. That is precisely the kind of situation where courts should restore the original mission rather than defer to the status quo.",
+            "Third, the for-profit pivot creates a classic mission-drift problem in frontier AI, where incentives to scale quickly can override safety and public-interest constraints. This matters because (1) OpenAI controls highly consequential AI infrastructure, (2) profit incentives reward secrecy and speed over caution, and (3) a nonprofit constraint is one of the few mechanisms that can keep a powerful AI lab aligned with broader social goals. In other words, the remedy is not just about Musk; it is about preventing a governance model that structurally rewards dangerous behavior."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Whatever Altman’s flaws, the market and OpenAI’s users are better served by allowing the company’s current structure to stand rather than forcing a court-imposed rollback.",
+          "mechanisms": [
+            "First, the evidence in the article shows internal conflict, but not necessarily legal wrongdoing sufficient to justify dismantling a successful company. One, the board never gave Satya Nadella a clear reason for Altman’s firing; two, the 2023 episode was described as chaotic and unstable rather than as proof of fraud; three, the trial itself looks like a PR war over personalities. That means the case is weak as a basis for radical structural intervention.",
+            "Second, forcing a nonprofit reversion would likely damage OpenAI’s ability to compete, hire, and scale in a global AI race. Three reasons: one, Microsoft was already the largest investor and feared employees would leave en masse; two, the company’s talent base is highly mobile and would likely exit if governance became uncertain; three, slower capital formation would hand advantage to rivals with fewer constraints. In practice, the remedy could reduce innovation without improving safety.",
+            "Third, Musk’s own conduct undermines the credibility of his claim that this is a principled governance case. This matters because (1) OpenAI alleges he is motivated by jealousy and harassment, (2) testimony described him as erratic and threatening, and (3) he allegedly tried to pressure Brockman before trial. If the plaintiff is pursuing a vendetta, courts should be cautious about granting him control over a strategically important AI firm."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between governance legitimacy and operational effectiveness. Prop wins if the key question is whether a frontier AI lab should be allowed to drift away from its founding public-interest constraints under a leader repeatedly accused by insiders of deception; opp wins if the judge prioritizes continuity, talent retention, and the risk that court intervention would destabilize a strategically important company.",
+      "stock_connections": [
+        "Principal-agent problem",
+        "Corporate governance",
+        "Mission drift",
+        "Regulatory capture",
+        "Founder control",
+        "Moral hazard",
+        "Trust and credibility in institutions",
+        "Too big to fail",
+        "Innovation vs regulation"
+      ],
+      "motion_areas": [
+        "TH, as a court, would force OpenAI to revert to a nonprofit structure",
+        "THBT frontier AI labs should be governed by nonprofit or public-interest constraints",
+        "THP a world where major AI firms cannot convert from nonprofit to for-profit structures",
+        "THBT courts should intervene in founder-led tech firms when internal governance collapses"
+      ],
+      "data_points": [
+        "Musk is seeking $134bn to be redistributed to OpenAI’s nonprofit arm",
+        "Altman was briefly removed as CEO in 2023 and reinstated five days later",
+        "Satya Nadella said he was never given a specific reason for Altman’s firing",
+        "Nadella called the OpenAI board’s handling of the episode 'amateur-city'",
+        "Microsoft was OpenAI’s largest investor by a large margin at the time",
+        "Mira Murati left OpenAI in 2024 and testified that Altman said one thing to one person and the opposite to another",
+        "Ilya Sutskever testified that he had said Altman 'exhibits a consistent pattern of lying, undermining his execs and pitting his execs against one another'",
+        "OpenAI employees referred to the 2023 crisis as 'the blip'"
+      ]
+    },
     {
       "id": "2f9f32e4b257",
       "title": "Hormuz Closure Becomes the Dominant Lever on U.S. Gasoline Prices, Exposing Energy Markets to Geopolitical Shock",
@@ -51,6 +631,58 @@
         "Kloza said reopening the Strait of Hormuz is \"the only lever you can pull that has a major impact\" on fuel prices",
         "He said pausing federal gasoline taxes would have \"limited impact\" and could be difficult to reinstate once halted",
         "He warned hurricane disruptions could push prices to \"an apoplectic level\""
+      ]
+    },
+    {
+      "id": "202811d648a3",
+      "title": "US Visa Clampdown Cuts Foreign Student Pipeline, Threatening University Revenue and Talent Supply",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/us-colleges-report-20-drop-in-foreign-students-over-visa-clampdown",
+      "published": "2026-05-11T22:00:00Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "A coalition of education groups reported that new foreign undergraduate enrollment at US colleges fell by an average of 20% this spring compared with the same period a year earlier. The drop is being linked to President Donald Trump’s standoff with higher education and a broader visa clampdown. Foreign students are a major source of tuition revenue and a pipeline for skilled labor into the US economy.",
+      "prop_args": [
+        {
+          "thesis": "Restricting foreign student visas is economically self-defeating because it weakens US universities as export industries and reduces the country’s long-run talent inflow.",
+          "mechanisms": [
+            "First, the policy directly hits university finances. This is because (1) foreign students usually pay full or near-full tuition, (2) many institutions use that revenue to subsidize domestic students and research, and (3) a 20% drop in new enrollments creates immediate budget pressure that can force hiring freezes, program cuts, or higher fees.",
+            "Second, it shrinks the US talent pipeline. Three reasons: one, international students are disproportionately concentrated in STEM and high-skill fields; two, many transition into US graduate programs, startups, and firms after graduation; three, the visa clampdown signals that the US is a less reliable destination, pushing talent toward Canada, the UK, Australia, or China.",
+            "Third, the broader economic spillovers are negative. This matters because universities are local economic anchors: fewer foreign students means less spending on housing, food, transport, and campus jobs, so the shock spreads beyond elite campuses into surrounding city economies."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Tightening foreign student visas can be justified because it protects domestic political priorities and reduces dependence on an expensive, vulnerable international enrollment model.",
+          "mechanisms": [
+            "First, the state can reallocate educational capacity toward domestic students. One, public universities should prioritize citizens and residents when seats are scarce; two, reducing foreign enrollment can ease pressure on admissions and housing in oversubscribed institutions; three, it may force universities to become less reliant on volatile international tuition.",
+            "Second, the policy can improve national security and immigration control. One, visa screening becomes stricter when the government is worried about abuse, overstays, or espionage; two, a tougher regime can deter institutions from acting as backdoor migration channels; three, the political system may value control and public confidence over marginal tuition gains.",
+            "Third, universities may adapt without catastrophic damage. One, elite schools have large endowments and diversified funding; two, they can recruit more domestic students or expand online and professional programs; three, the long-run effect may be a healthier higher-education sector that is less exposed to geopolitical shocks."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether foreign students are a strategic asset or a replaceable revenue stream. Prop wins if the round is about long-run growth and innovation, because talent loss and university underfunding compound over time; opp wins if the motion prioritizes sovereignty, screening, and domestic allocation of scarce educational slots.",
+      "stock_connections": [
+        "Brain Drain",
+        "Human Capital Flight",
+        "Soft Power",
+        "Protectionism",
+        "National Security vs Economic Efficiency",
+        "University Funding Crisis",
+        "Migration Control",
+        "Global Talent Competition"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would liberalize student visas for foreign undergraduates",
+        "THBT countries should prioritize foreign students as a strategic economic asset",
+        "THP a world where universities are financially dependent on international tuition"
+      ],
+      "data_points": [
+        "New foreign undergraduate enrollment at US colleges fell by an average of 20% this spring versus a year earlier",
+        "The decline was reported by a coalition of education groups",
+        "The drop is linked to President Donald Trump’s standoff with higher education and a visa clampdown",
+        "Foreign students are a key source of tuition revenue for US colleges"
       ]
     },
     {
@@ -479,6 +1111,61 @@
         "A federal judge previously found his detention unconstitutional and said he was neither a flight risk nor a community threat",
         "The administration alleged his activism posed 'adverse foreign policy consequences'",
         "A separate federal judge described the administration’s deportation policy toward pro-Palestinian scholars as 'an unconstitutional conspiracy to pick off certain people'"
+      ]
+    },
+    {
+      "id": "b74b43ffe839",
+      "title": "EU Sanctions on Settler Networks Escalate Pressure on Israel Over West Bank Colonisation",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T19:37:17Z",
+      "category": "IR",
+      "region": "EU / Israel / West Bank",
+      "background": "On 11 May 2026, the 27 EU foreign ministers approved new sanctions on Israeli settlers and settler-linked organisations over rising violence against Palestinians in the occupied West Bank. The EU said there had been a surge in settler attacks since the Gaza war began in October 2023; the UN recorded more than 1,800 settler attacks in 2025 causing casualties or property damage across around 280 West Bank communities. Reported targets include Daniella Weiss, and organisations such as Nachala, Regavim, HaShomer Yosh and Amana, though the sanctions still require technical and legal steps before taking effect.",
+      "prop_args": [
+        {
+          "thesis": "Targeted EU sanctions are a necessary and effective tool to raise the cost of settler violence and slow de facto annexation in the West Bank.",
+          "mechanisms": [
+            "First, sanctions disrupt the organisational infrastructure that enables violence and outpost expansion. This is because (1) the listed entities are not random individuals but financing, logistics, and advocacy hubs like Amana, HaShomer Yosh, Nachala, and Regavim; (2) hitting these nodes makes it harder to coordinate land seizures, fundraising, and legal cover for unauthorised outposts; and (3) the EU can impose reputational and financial isolation on actors who rely on transnational legitimacy and donor networks.",
+            "Second, sanctions create deterrence by signalling that settler violence is no longer cost-free. Three reasons: one, the EU is a major trade and diplomatic bloc, so designation carries real social and economic stigma; two, the move breaks the pattern of impunity that has followed more than 1,800 recorded settler attacks in 2025; three, once one major bloc sanctions, other states like the UK and US can more easily coordinate follow-on measures.",
+            "Third, this matters because it preserves the viability of a two-state framework and reduces escalation. The causal chain is that unchecked settler violence drives Palestinian displacement, which fuels retaliation and radicalisation, which then entrenches the Israeli right and makes territorial compromise politically impossible; sanctions interrupt that spiral by constraining the most aggressive actors."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "EU sanctions are largely symbolic and will harden Israeli politics while doing little to change facts on the ground.",
+          "mechanisms": [
+            "First, the sanctions hit peripheral actors rather than the state machinery that actually controls settlement expansion. (1) Israel has built about 160 settlements housing some 700,000 Jews, meaning the underlying project is state-backed and deeply embedded; (2) the sanctioned groups are only a subset of the wider ecosystem, so others can replace them; (3) without US coordination or broader trade measures, the practical economic impact is limited.",
+            "Second, the move can trigger nationalist backlash that strengthens the very coalition driving expansion. (1) Israeli leaders can frame the EU as biased and anti-Israel, as Sa'ar already did by calling the decision 'arbitrary and political'; (2) that narrative helps Netanyahu's pro-settler coalition rally domestic support and delegitimise moderation; (3) external pressure often empowers hardliners who argue concessions only invite more coercion.",
+            "Third, sanctions may worsen diplomatic deadlock by collapsing trust and reducing cooperation on security. (1) Israel may retaliate by limiting EU access or cooperation on West Bank coordination; (2) the EU's parallel sanctioning of Hamas representatives invites Israeli claims of moral equivalence, making compromise politically harder; (3) when both sides feel internationally attacked, incentives shift away from negotiation and toward entrenchment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether external pressure can actually change settlement behaviour or merely symbolically condemn it. Prop wins if you think the EU can target the financial and organisational ecosystem around violence; Opp wins if you think the real driver is Israeli state policy and domestic politics, making sanctions too narrow to matter and potentially counterproductive.",
+      "stock_connections": [
+        "International sanctions",
+        "Deterrence theory",
+        "Collective punishment",
+        "Two-state solution / peace process",
+        "De facto annexation",
+        "Nationalist backlash",
+        "Hardliner empowerment",
+        "Impunity",
+        "Conflict escalation"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would sanction Israeli settlers and settler organisations",
+        "THBT the EU should impose economic sanctions on non-state actors involved in territorial colonisation",
+        "THP a world in which major powers sanction settlement movements in occupied territories"
+      ],
+      "data_points": [
+        "EU foreign ministers from all 27 member states approved the sanctions on 11 May 2026",
+        "UN recorded more than 1,800 settler attacks in 2025 across around 280 West Bank communities",
+        "Israel has built about 160 settlements housing some 700,000 Jews in the West Bank and East Jerusalem",
+        "The Gaza war began after Hamas's 7 October 2023 attack on Israel",
+        "Reported sanctions include Daniella Weiss, plus organisations such as Nachala, Regavim, HaShomer Yosh and Amana",
+        "Hungary had previously blocked EU sanctions plans, but a change in government removed that delay"
       ]
     },
     {
@@ -1280,6 +1967,62 @@
         "DHS funding impasse lasted 75 days before Congress voted to reopen the department",
         "Republicans aim to fund ICE and Customs and Border Protection through 2029",
         "Republicans are using reconciliation, which can pass the Senate with a simple majority and bypass a filibuster"
+      ]
+    },
+    {
+      "id": "738d34aa9c87",
+      "title": "Starmer’s EU Reset Risks Trading Brexit Flexibility for Limited Economic Gains",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-11T17:15:52Z",
+      "category": "IR",
+      "region": "UK / EU",
+      "background": "After poor local election results, UK Prime Minister Keir Starmer used a major speech to signal a closer relationship with the EU, saying Labour would put \"Britain at the heart of Europe\" and build stronger ties on trade, defence, and energy. The article says the concrete agenda remains narrow: a food and drink SPS agreement, a carbon emissions trading linkage, a youth mobility/experience scheme, and possibly closer electricity-market cooperation. Brussels is reportedly receptive on defence and security, but skeptical on economics, and expects any deeper alignment to come with continued EU rule adoption and possible future penalty clauses if a UK government later reverses course.",
+      "prop_args": [
+        {
+          "thesis": "A deeper UK-EU reset is economically rational because the UK gains more from reducing trade frictions with its largest nearby market than from preserving abstract post-Brexit autonomy.",
+          "mechanisms": [
+            "First, closer alignment lowers transaction costs in the sectors that actually matter for growth. This is because (1) SPS alignment reduces border checks and paperwork for food and drink exporters, (2) carbon market linkage reduces compliance duplication for energy- and emissions-intensive firms, and (3) electricity-market cooperation can improve cross-border price stability and supply security.",
+            "Second, the UK’s bargaining position is stronger when it is embedded in a rules-based European framework than when it tries to stand alone. Three reasons: one, the EU is the UK’s nearest major market so friction matters more than distant trade promises; two, sectoral alignment can unlock incremental gains quickly without requiring full membership; three, businesses value predictability, so even partial regulatory certainty can increase investment.",
+            "Third, the political cost of some EU alignment is outweighed by the macroeconomic upside of growth and stability. This matters because (1) the article notes Labour’s current deals are too thin to move the dial, (2) a bigger response could materially improve trade and energy resilience, and (3) the UK can still preserve sovereignty in most domestic policy areas while selectively accepting rules where the gains are highest."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The EU reset is a bad deal because it buys limited economic upside at the cost of regulatory autonomy, trade flexibility, and domestic political backlash.",
+          "mechanisms": [
+            "First, deeper alignment locks the UK into EU rules without giving it meaningful control over them. One, the article says sectoral deals require the UK to accept current and future EU regulations; two, that means rule-taking rather than rule-making; three, Brussels can add penalty clauses, making exit costs higher and sovereignty more expensive to reclaim.",
+            "Second, closer EU alignment reduces the UK’s ability to strike independent trade deals elsewhere. One, if the UK mirrors EU standards in goods, chemicals, and electricity, it narrows the space for bespoke deals with the US and other partners; two, third countries often want regulatory concessions the UK can no longer offer; three, this weakens the core post-Brexit promise of global trade flexibility.",
+            "Third, the politics are unstable because voters were promised red lines on free movement and single-market re-entry. One, any meaningful economic reset likely requires movement on people and regulatory integration; two, that creates a direct clash with Labour’s prior commitments and with immigration-sensitive voters; three, Reform’s gains show a ready-made electoral punishment mechanism if the government is seen as reversing Brexit by stealth."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the economic gains from reduced friction are large enough to justify permanent rule-taking and reduced trade optionality. Prop wins if the judge prioritizes growth and stability from the UK’s largest nearby market; opp wins if they think sovereignty and long-term strategic flexibility are the binding constraints.",
+      "stock_connections": [
+        "Sovereignty vs efficiency",
+        "Regulatory alignment",
+        "Trade diversion",
+        "Rule-taking without representation",
+        "Electoral backlash",
+        "Path dependence",
+        "Credible commitment",
+        "Comparative advantage",
+        "Global Britain vs regional integration"
+      ],
+      "motion_areas": [
+        "TH, as the UK, would pursue a much closer economic relationship with the EU",
+        "THBT the UK should rejoin the EU single market",
+        "THBT the UK should prioritize regulatory alignment with the EU over independent trade deals",
+        "THP a world where post-Brexit states can selectively re-enter EU frameworks without full membership"
+      ],
+      "data_points": [
+        "Starmer’s speech followed major Labour losses in local elections and came ahead of the next EU-UK summit this summer",
+        "The UK’s current discussion with the EU is limited to SPS, carbon emissions trading, youth mobility, and possible electricity-market cooperation",
+        "UK participation in the EU Horizon research programme costs £2.2bn per year",
+        "The UK announced a new sanctions package against Russia on Monday, underscoring continued security cooperation",
+        "The article says any deeper EU market access would likely require acceptance of current and future EU regulations",
+        "The UK’s existing US trade deal under Labour is described as very narrow"
       ]
     },
     {
