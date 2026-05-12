@@ -1,7 +1,1224 @@
 {
   "date": "2026-05-12",
-  "last_updated": "2026-05-12T14:45:08Z",
+  "last_updated": "2026-05-12T17:23:50Z",
   "cards": [
+    {
+      "id": "31607b925c80",
+      "title": "US Tariff Rollback Triggers $35.5 Billion Refund Shock and Reopens the Trade War",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/us-tariff-refunds-of-35-5-billion-cleared-for-importers-so-far",
+      "published": "2026-05-12T17:07:39Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "On May 12, 2026, Bloomberg reported that U.S. tariff refunds totaling $35.5 billion had been cleared for importers so far after the Supreme Court struck down the bulk of tariffs imposed by President Donald Trump the previous year. In response, Trump said he would sign an order imposing a 10% global tariff and pledged new investigations that could authorize additional import taxes. The article is set against a major legal and policy reversal in U.S. trade policy, with importers seeking repayment while the administration looks for new tariff tools.",
+      "prop_args": [
+        {
+          "thesis": "The tariff refund ruling weakens executive trade coercion and restores predictability for firms, lowering costs and reducing the hidden tax burden on consumers.",
+          "mechanisms": [
+            "First, the refunds directly unwind a large distortion in input pricing. This is because (1) importers had already paid tariffs embedded into the cost of goods, (2) those costs were passed through into supply chains and retail prices, and (3) returning $35.5 billion gives firms immediate liquidity to reprice, restock, and invest rather than hoard cash for legal risk.",
+            "Second, the Supreme Court decision reasserts legal constraints on unilateral tariff power. Three reasons: one, it signals that trade policy cannot be used as a purely discretionary executive weapon; two, it forces future tariffs through narrower legal channels and greater scrutiny; three, that predictability reduces the risk premium on U.S. trade and manufacturing decisions.",
+            "Third, the rollback improves welfare even if some domestic producers lose protection. This matters because (1) tariffs act as a regressive consumption tax that disproportionately hurts lower-income households, (2) they raise costs for downstream U.S. manufacturers that rely on imported components, and (3) the net gain from cheaper inputs and lower consumer prices is larger than the concentrated benefit to protected industries."
+          ]
+        },
+        {
+          "thesis": "The refund process and tariff reversal create a strong deterrent against future protectionist overreach by making the fiscal and political costs visible.",
+          "mechanisms": [
+            "First, the scale of the refunds exposes how expensive arbitrary tariff policy is. One, $35.5 billion is large enough to matter to the federal budget and to corporate balance sheets; two, it creates a public record of harm that opponents can cite; three, it makes future tariff threats less credible because markets now know they can be reversed in court.",
+            "Second, the ruling disciplines policymaking by shifting disputes into institutions rather than ad hoc executive action. Three reasons: one, firms can plan around stable rules; two, Congress and courts regain leverage over trade policy; three, allies and trading partners are less likely to retaliate preemptively when they expect legal constraints to hold.",
+            "Third, this reduces the chance of a self-reinforcing trade spiral. This matters because (1) if tariffs are easier to challenge, the administration has less room to escalate, (2) fewer retaliatory measures means less damage to exporters, and (3) the economy avoids the deadweight loss and uncertainty that usually accompany tariff wars."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The refund ruling undermines U.S. industrial policy and weakens the government's ability to defend strategic sectors against foreign competition.",
+          "mechanisms": [
+            "First, removing tariffs can expose vulnerable domestic industries to import competition before they are ready. One, sectors like steel, manufacturing, and politically sensitive supply chains often rely on temporary protection to survive; two, once capacity is lost it is costly and slow to rebuild; three, the U.S. may become more dependent on foreign suppliers in strategically important goods.",
+            "Second, the refund payout and legal defeat reduce deterrence against future trade abuse by foreign firms and states. One, if trading partners know U.S. tariffs can be struck down, they may test the limits of market access; two, domestic firms lose a bargaining chip in negotiations; three, the government becomes less able to use tariffs as leverage in broader security or industrial policy disputes.",
+            "Third, the administration's response shows the ruling may not end protectionism but simply shift it into more chaotic forms. One, Trump immediately pledged a 10% global tariff and new investigations, so the practical effect may be more uncertainty rather than less; two, firms face a moving target as policy oscillates between courts and executive retaliation; three, that instability can be worse than a consistent tariff regime because it discourages long-term investment."
+          ]
+        },
+        {
+          "thesis": "Even if tariffs are economically inefficient, they can be politically necessary to preserve domestic support for globalization and prevent deindustrialization backlash.",
+          "mechanisms": [
+            "First, tariffs can function as compensation for communities harmed by trade shocks. One, import competition concentrates losses in specific regions and sectors; two, those workers often do not benefit immediately from lower consumer prices; three, visible protection can buy time for adjustment and reduce anti-trade populism.",
+            "Second, the refund and rollback may intensify political polarization over trade rather than settle it. One, businesses that benefited from protection will lobby for new barriers; two, workers in protected sectors may see the court as siding with elites and foreign competitors; three, that can fuel more extreme policy swings in future administrations.",
+            "Third, the case may strengthen the argument for more flexible executive trade tools. One, global supply chains move quickly and legislative processes are slow; two, presidents need rapid-response instruments for national security and bargaining; three, stripping those tools entirely may leave the U.S. less able to respond to unfair trade practices."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-run price relief and long-run strategic autonomy. Prop wins if the judge prioritizes rule-of-law, lower consumer costs, and reduced uncertainty; Opp wins if they can show that tariff removal meaningfully weakens industrial capacity and leaves the U.S. less able to respond to strategic competition.",
+      "stock_connections": [
+        "Protectionism",
+        "Trade War",
+        "Deadweight Loss",
+        "Consumer Taxation",
+        "Industrial Policy",
+        "Executive Overreach",
+        "Rule of Law",
+        "Retaliation Spiral",
+        "Deindustrialization",
+        "Comparative Advantage"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would sharply limit presidential tariff powers",
+        "THBT courts should strike down unilateral tariffs imposed without congressional approval",
+        "THP a world where tariff refunds are automatically issued after unlawful trade barriers are removed",
+        "THBT developing economies should resist using tariffs as a primary industrial policy tool"
+      ],
+      "data_points": [
+        "$35.5 billion in tariff refunds had been cleared for importers so far",
+        "The Supreme Court struck down the bulk of tariffs imposed by President Donald Trump last year",
+        "Trump said he would sign an order imposing a 10% global tariff after the ruling",
+        "Trump also pledged a raft of investigations that could allow him to enact more import taxes"
+      ]
+    },
+    {
+      "id": "2b8e02b98da1",
+      "title": "Baltimore Bridge Collapse Charges Turn Maritime Safety Into a Corporate Criminal Liability Test",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cnvpm67ner6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T17:04:18Z",
+      "category": "Business",
+      "region": "United States / Singapore / India",
+      "background": "Federal prosecutors in the United States have charged Synergy Marine, the operator of the cargo ship Dali, and one employee with conspiracy, obstruction and misconduct resulting in death after the ship struck Baltimore’s Francis Scott Key Bridge on 26 March 2024. The collapse killed six construction workers, halted shipping through the port, and left the city facing a reconstruction bill expected to take years and cost billions of dollars. Prosecutors allege the vessel lost power twice in four minutes because of a loose wire and improper fuel-pump use, and that Synergy hid safety problems from the US Coast Guard. In parallel, Maryland announced a $2.25bn civil settlement with Synergy, while the company has already paid more than $100m to the US Justice Department and $350m to Maryland’s insurer in related civil claims.",
+      "prop_args": [
+        {
+          "thesis": "Aggressive criminal and civil liability is necessary to force global shipping firms to internalize safety risks that otherwise get dumped onto workers, cities, and taxpayers.",
+          "mechanisms": [
+            "First, punishment changes incentives in an industry where cost-cutting is structurally rewarded. This is because (1) ship operators face strong pressure to minimize maintenance and downtime, (2) the harms of failure are externalized onto ports, bridge authorities, and local governments, and (3) only large, credible penalties make it rational to invest in redundant safety systems and honest reporting.",
+            "Second, prosecution deters concealment and regulatory gaming. Three reasons: one, the indictment alleges Synergy knew about improper flushing-pump use and hid it; two, if firms can lie to investigators and still treat disasters as ordinary business losses, compliance becomes optional; three, criminal exposure creates personal and corporate consequences that civil settlements alone often do not.",
+            "Third, accountability protects public trust in maritime trade and infrastructure. This matters because the collapse killed six people, shut down a major shipping corridor, and imposed billions in losses; if the state does not visibly punish negligence, communities will see global commerce as a system that privatizes profits while socializing catastrophic risk."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Over-criminalizing a complex industrial accident risks punishing a single operator for systemic failures that should be addressed through regulation, not headline-grabbing prosecutions.",
+          "mechanisms": [
+            "First, maritime disasters usually arise from layered technical and institutional failures, not one bad actor. One, the NTSB identified multiple factors including a faulty cable, a fuel-pump problem, and bridge vulnerability; two, that means liability is diffuse across ship design, maintenance, inspection, and infrastructure standards; three, criminal charges can oversimplify causation and create bad precedent for future accidents.",
+            "Second, heavy-handed liability can distort incentives in the wrong direction. One, firms may become more defensive and less transparent with investigators if every disclosure risks prosecution; two, insurers and operators may pass costs onto trade and consumers, raising shipping prices; three, smaller operators may exit the market, reducing competition without necessarily improving safety.",
+            "Third, civil remedies and targeted safety reform may be more effective than criminal punishment. One, the state has already secured a $2.25bn settlement plus other payments, which directly funds reconstruction and compensation; two, regulators can mandate technical fixes and inspections more precisely than courts can; three, focusing on punishment may satisfy public anger without solving the underlying infrastructure and compliance failures."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether deterrence requires criminalization or whether the same safety gains can be achieved through regulation and civil liability. Prop has the stronger structural story if the round is about externalities and corporate impunity; opp is stronger if they can show causation is diffuse and that over-penalization chills cooperation and trade.",
+      "stock_connections": [
+        "Corporate accountability",
+        "Regulatory capture",
+        "Externalities",
+        "Moral hazard",
+        "Negligence and deterrence",
+        "Too big to fail",
+        "Civil vs criminal liability",
+        "Public infrastructure underinvestment"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would prioritize criminal prosecution of corporations after catastrophic industrial accidents",
+        "THBT governments should impose criminal liability on shipping companies for preventable infrastructure disasters",
+        "THP a world where major transport accidents are treated primarily as corporate crimes rather than civil torts"
+      ],
+      "data_points": [
+        "6 people killed in the Key Bridge collapse",
+        "26 March 2024: the M/V Dali struck Baltimore’s Francis Scott Key Bridge",
+        "$2.25bn civil settlement between Maryland and Synergy Marine",
+        "More than $100m paid to the US Justice Department in a civil claim",
+        "$350m paid to Maryland’s insurance company",
+        "Bridge reconstruction expected to take years and cost billions of dollars",
+        "Prosecutors allege the vessel lost power twice in a four-minute span",
+        "NTSB identified a faulty cable, fuel-pump problems, and bridge vulnerability as contributing factors"
+      ]
+    },
+    {
+      "id": "4e13860f756f",
+      "title": "Israeli Report on 7 October Sexual Violence Hardens the Case for Hamas as a War-Crimes Actor",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T16:58:51Z",
+      "category": "IR",
+      "region": "Israel / Palestinian territories",
+      "background": "An independent Israeli Civil Commission published a 300-page report on 12 May 2026 alleging that Hamas and other Palestinian armed groups used sexual violence systematically during the 7 October 2023 attacks. The report draws on 430 filmed interviews, more than 10,000 photographs and videos, and official records; it says sexual violence was used to “maximize pain and suffering” and continued against hostages in captivity. The attacks killed about 1,200 people and saw 251 taken hostage; the report says the crimes constitute war crimes, crimes against humanity, and genocidal acts under international law.",
+      "prop_args": [
+        {
+          "thesis": "This report strengthens the case that Hamas is not a conventional resistance movement but an actor willing to use atrocity crimes as a deliberate tool of war, which should radically narrow its legitimacy and diplomatic space.",
+          "mechanisms": [
+            "First, it reframes Hamas’s violence as strategic terror rather than battlefield excess. This is because (1) the report alleges sexual violence was systematic and intended to maximize suffering, (2) the abuse extended beyond the initial attack into hostage captivity, and (3) the targeting of family members and civilians shows coercion aimed at social breakdown, not military advantage.",
+            "Second, it increases the credibility and durability of international legal and political pressure on Hamas. Three reasons: one, a 300-page independent archive with 430 interviews and 10,000+ images/videos is harder to dismiss than isolated testimony; two, the report explicitly maps conduct onto war crimes, crimes against humanity, and genocidal acts; three, preserved evidence can be used in future prosecutions, sanctions designations, and travel restrictions.",
+            "Third, it changes the conflict narrative in ways that matter for coalition-building and ceasefire politics. This matters because (1) states and publics are more willing to isolate groups associated with sexual violence than groups framed as insurgents, (2) it weakens sympathy-based diplomatic campaigns for Hamas, and (3) it gives Israel and its allies a stronger moral and legal basis to demand demilitarization or exclusion from post-war governance."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The report will have limited practical effect because the conflict is already driven by entrenched military and political realities, and atrocity documentation does not by itself change Hamas’s incentives or the war’s trajectory.",
+          "mechanisms": [
+            "First, legal condemnation does not equal operational leverage. 1) Hamas is not dependent on Western legitimacy in the way a state is, 2) its core incentives are survival, deterrence, and bargaining over hostages, and 3) groups under existential pressure often become more, not less, willing to absorb reputational costs.",
+            "Second, the report may be politically discounted because the information environment around the war is already heavily polarized. 1) The article notes that some early Israeli claims after 7 October were later found false, 2) that history makes audiences more skeptical of Israeli-linked investigations, and 3) competing narratives about Gaza’s civilian death toll will drown out legal findings in many global forums.",
+            "Third, even strong atrocity evidence can be strategically counterproductive if it hardens maximalist positions. 1) It can deepen Israeli public resolve against concessions, 2) it can reduce space for prisoner exchanges or ceasefire compromises by making compromise look like impunity, and 3) it can entrench a cycle where each side treats the other as beyond negotiation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic/legal delegitimation and actual battlefield or diplomatic change. Prop wins if the motion is about narrative, accountability, or post-conflict governance; opp wins if the question is immediate war termination, because atrocity findings alone do not alter Hamas’s coercive incentives or Israel’s military posture.",
+      "stock_connections": [
+        "War crimes accountability",
+        "Atrocity propaganda",
+        "Legitimacy and recognition",
+        "Conflict narrative framing",
+        "Transitional justice",
+        "Collective punishment",
+        "Security dilemma",
+        "Radicalization through grievance"
+      ],
+      "motion_areas": [
+        "TH, as an international community, would prioritize atrocity documentation over immediate ceasefire diplomacy in conflicts involving non-state armed groups",
+        "THBT states should refuse political engagement with armed groups credibly accused of systematic sexual violence",
+        "THP a world where war crimes evidence can be preserved and used for future prosecutions even when immediate justice is impossible"
+      ],
+      "data_points": [
+        "300-page report by the Israeli Civil Commission",
+        "430 filmed interviews with survivors and witnesses",
+        "More than 10,000 photographs and videos filmed by attackers",
+        "About 1,200 people killed and 251 taken hostage on 7 October 2023",
+        "More than 370 people killed at the Nova music festival",
+        "UN-backed Gaza death toll cited in the article: 72,742 Palestinians killed according to the Hamas-run Health Ministry"
+      ]
+    },
+    {
+      "id": "a74de9cf276f",
+      "title": "Warsh’s Fed Ascension Puts U.S. Monetary Policy Under a More Politicized Chair",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/warsh-confirmed-to-fed-board-vote-on-chair-post-next-video",
+      "published": "2026-05-12T16:56:15Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "On Tuesday, the U.S. Senate confirmed Kevin Warsh to the Federal Reserve Board of Governors by a 51-45 vote, giving him a 14-year term on the central bank’s board. The Senate is expected to hold a separate vote later this week on whether to make him chair of the Federal Reserve, a four-year post that would succeed Jerome Powell. Bloomberg reports that the chair confirmation is likely to pass with similar margins.",
+      "prop_args": [
+        {
+          "thesis": "Confirming Warsh as Fed chair increases the risk of politicized monetary policy and weaker central bank credibility.",
+          "mechanisms": [
+            "First, a chair chosen through a visibly partisan confirmation process weakens the Fed’s perceived independence. This is because (1) markets infer that future rate decisions may be more responsive to White House or Senate preferences, (2) inflation expectations become less anchored when the institution looks politically captured, and (3) even if policy does not immediately change, credibility losses raise the premium investors demand on U.S. assets.",
+            "Second, Warsh’s chairmanship can shift the Fed toward a more growth- or market-friendly bias at the expense of inflation control. Three reasons: one, a chair has agenda-setting power over meetings, communications, and consensus-building; two, the chair’s public signaling shapes market expectations more than any single governor; three, if the chair is seen as more dovish or politically aligned, the Fed may tolerate looser conditions for longer, increasing medium-term inflation risk.",
+            "Third, the structural harm is that a politicized Fed creates a bad precedent for future administrations. This matters because once the chair is treated as a partisan prize, each transition becomes a contest over monetary direction rather than technocratic stewardship, making long-run policy less stable and increasing volatility in rates, currency markets, and investment planning."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Warsh’s confirmation is a normal personnel change that can improve Fed accountability without meaningfully undermining independence.",
+          "mechanisms": [
+            "First, the Fed is institutionally insulated enough that one chair cannot single-handedly hijack policy. (1) The chair still needs majority support from the Board and FOMC, (2) the 14-year governor term outlasts any single administration, and (3) markets care more about actual inflation data and committee votes than about one appointment.",
+            "Second, a more skeptical or reform-minded chair can correct policy drift and improve performance. (1) If the Fed has been too slow to react to inflation or financial imbalances, a new chair can tighten communication and discipline, (2) leadership change can reduce groupthink inside the institution, and (3) clearer accountability can make the Fed more responsive to Congress and the public without eliminating operational independence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the chairmanship meaningfully changes the Fed’s behavior or just its optics. Prop wins if it can show that credibility and expectations are themselves core monetary tools; opp wins if it proves the committee structure and data dependence dominate any individual chair’s preferences.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Politicization of Institutions",
+        "Credibility and Expectations in Monetary Policy",
+        "Moral Hazard",
+        "Technocracy vs Democratic Accountability"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize central bank independence over democratic control",
+        "THBT the Senate should not confirm central bank chairs through partisan votes",
+        "THP a world where central bank governors are appointed by bipartisan supermajorities"
+      ],
+      "data_points": [
+        "Kevin Warsh was confirmed to the Federal Reserve Board by a 51-45 Senate vote",
+        "The Fed Board term is 14 years",
+        "The Fed chair term is 4 years",
+        "The chair confirmation vote is expected later this week, likely Wednesday",
+        "Warsh is expected to be confirmed with similar numbers to the board vote"
+      ]
+    },
+    {
+      "id": "a3e9344f5d48",
+      "title": "Trump-Xi Beijing Summit Tests Whether Personal Diplomacy Can Reset U.S.-China Rivalry",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/what-to-expect-from-the-trump-xi-summit-in-beijing-video",
+      "published": "2026-05-12T16:55:51Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "President Donald Trump is set to visit Beijing on Wednesday, becoming the first US leader to do so in almost a decade. The summit with President Xi Jinping was originally delayed from March because of the Iran war. The meeting is framed as a chance to reset personal ties and seek common ground on trade, technology, and other contentious issues between the world’s two largest economies.",
+      "prop_args": [
+        {
+          "thesis": "A high-level Trump-Xi summit can reduce escalation risk and create a narrow but valuable window for stabilizing the U.S.-China relationship.",
+          "mechanisms": [
+            "First, direct leader-to-leader diplomacy lowers misperception and crisis risk. This is because (1) both sides can clarify red lines without bureaucratic distortion, (2) personal rapport can speed up de-escalation in moments of tension, and (3) summitry creates a visible commitment device that makes sudden policy shocks politically costlier.",
+            "Second, even limited agreements on trade and technology can produce immediate economic spillovers. Three reasons: one, firms on both sides gain more certainty about tariffs and export controls; two, reduced uncertainty encourages investment and supply-chain planning; three, a partial thaw can prevent tit-for-tat measures from broadening into a full economic decoupling.",
+            "Third, symbolic engagement matters because it preserves channels for future bargaining on bigger issues. This matters because a stable baseline of communication is often the difference between managed competition and accidental confrontation, especially when the two largest economies are also strategic rivals."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is more likely to entrench rivalry than resolve it, because the structural drivers of U.S.-China competition overwhelm any personal chemistry between Trump and Xi.",
+          "mechanisms": [
+            "First, the meeting cannot solve the underlying security and technology conflict. One, both states see semiconductors, AI, and advanced manufacturing as core national-power assets; two, domestic political incentives reward toughness rather than compromise; three, any deal that looks like concession risks being reversed after the summit.",
+            "Second, summit diplomacy can create false optimism without changing behavior. One, leaders may issue vague statements to claim success while leaving tariffs, export controls, and military competition intact; two, markets may misread symbolism as substantive détente; three, the gap between rhetoric and policy can make future breakdowns more damaging.",
+            "Third, personal diplomacy can actually worsen bargaining dynamics. One, if Xi believes Trump values a headline deal, China can extract concessions while offering limited structural change; two, if Trump seeks a visible win, he may overstate progress and weaken U.S. leverage; three, the result is a fragile pause rather than durable stabilization."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summitry can change structural incentives or merely paper over them. Prop wins if the round is about crisis management and short-term stability; opp wins if the clash is about durable great-power competition, because the underlying security dilemma and domestic politics give both sides strong reasons to revert.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Great Power Competition",
+        "Summit Diplomacy",
+        "Trade War",
+        "Decoupling",
+        "Technological Containment",
+        "Misperception in IR",
+        "Personalist Diplomacy"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China over coercive containment",
+        "THBT personal diplomacy between rival great powers is more useful than institutional diplomacy",
+        "THP a world where the U.S. and China pursue managed competition through leader-level summits",
+        "THBT the Trump administration should seek a grand bargain with China",
+        "THW prefer direct leader summits over prolonged bureaucratic negotiations in great-power rivalries"
+      ],
+      "data_points": [
+        "Trump will be the first US leader to visit China in almost a decade",
+        "The summit was delayed from March because of the Iran war",
+        "The U.S. and China are described as the world's two largest economies",
+        "The meeting is expected to cover trade, technology, and other contentious topics"
+      ]
+    },
+    {
+      "id": "9340756f011b",
+      "title": "US Political and Commercial Pressure Risks Unravelling Bosnia’s Dayton Settlement",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/12/bosnia-and-herzegovina-vulnerable-policy-clash-us-representative-says",
+      "published": "2026-05-12T16:40:41Z",
+      "category": "IR",
+      "region": "Bosnia and Herzegovina / United States / Western Balkans",
+      "background": "The UN high representative for Bosnia and Herzegovina, Christian Schmidt, warned the UN Security Council that the country’s multi-ethnic constitutional order is under threat after a policy clash with the United States forced him to resign. The high representative post was created by the 1995 Dayton peace agreement, which ended a three-year war that killed more than 100,000 people, and gives wide powers to interpret and amend laws. Schmidt has spent five years in office and has repeatedly clashed with Republika Srpska’s former president Milorad Dodik, whose US sanctions were lifted last year in a move not coordinated with the EU.",
+      "prop_args": [
+        {
+          "thesis": "US interference in Bosnia weakens the Dayton settlement by empowering secessionists and removing the only external actor capable of enforcing constitutional order.",
+          "mechanisms": [
+            "First, it removes enforcement capacity. This is because (1) the high representative is the only actor with authority to override local obstruction and protect state institutions, (2) Bosnia’s two-entity system already incentivises paralysis, and (3) without credible external enforcement, Republika Srpska can ignore constitutional court rulings and state-level decisions with fewer costs.",
+            "Second, it signals to Dodik and other secessionists that the US is no longer committed to Bosnia’s territorial integrity. Three reasons: one, sanctions were lifted on Dodik despite continued secessionist rhetoric; two, the US appears willing to bargain over the post itself; three, commercial actors linked to Trump allies are openly pursuing deals in Republika Srpska, which normalises engagement with anti-state forces.",
+            "Third, this creates a precedent that great-power patronage can override peace architecture. This matters because (1) it encourages local elites to seek foreign sponsors instead of compromise, (2) it makes EU and UN guarantees look reversible, and (3) it raises the risk of renewed constitutional crisis or eventual partition, which is far harder to reverse than short-term instability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Reducing the high representative’s role and allowing a more transactional US approach could improve Bosnia’s stability by lowering nationalist backlash and forcing domestic compromise.",
+          "mechanisms": [
+            "First, the high representative can itself be a source of legitimacy problems. one, Dodik and Republika Srpska already reject Schmidt as lacking legitimacy; two, heavy-handed external intervention lets secessionists frame themselves as defenders of sovereignty; three, removing or weakening the post may deprive them of a rallying cry and reduce mobilisation around anti-state politics.",
+            "Second, US commercial engagement can substitute for coercion by creating material incentives for cooperation. one, energy and infrastructure investment can bind Republika Srpska and the Federation into shared economic interests; two, dependence on US-backed LNG infrastructure may reduce reliance on Russian energy and weaken Moscow-linked patronage; three, development gains can make secession economically less attractive than remaining in a functioning state."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether external pressure is a stabilising guarantor or a delegitimising trigger. Prop wins if the round is about preventing state collapse, because Bosnia’s institutions are structurally fragile and the loss of enforcement power creates immediate security risk; Opp only wins if they prove that the old intervention model was already unsustainable and that transactional investment can credibly replace it.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "State Fragility",
+        "Great Power Competition",
+        "External Guarantees",
+        "Secessionism",
+        "Peacekeeping / Post-Conflict Reconstruction",
+        "Legitimacy vs Effectiveness",
+        "Resource Politics",
+        "Energy Security"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritise commercial engagement over constitutional enforcement in post-conflict states",
+        "THBT international guarantors should retain coercive powers in fragile peace settlements",
+        "THP a world where the Dayton framework is replaced by domestic sovereignty in Bosnia and Herzegovina",
+        "THBT the West should sanction secessionist leaders even at the cost of short-term diplomatic friction"
+      ],
+      "data_points": [
+        "Dayton peace agreement signed in 1995 after a three-year war that killed more than 100,000 people",
+        "Bosnia and Herzegovina is divided into two entities: the Federation of Bosnia and Herzegovina and Republika Srpska",
+        "Schmidt has served as high representative for five years",
+        "Dodik was disqualified from office for six months for failing to comply with Schmidt’s decisions",
+        "US sanctions on Dodik were lifted last year, in a reversal not coordinated with the EU",
+        "AAFS Infrastructure and Energy won a $1.5bn contract to build a pipeline from the Croatian coast into Bosnia without a tender",
+        "Donald Trump Jr visited Banja Luka in April to look for investment opportunities in a region rich in critical minerals",
+        "Michael Flynn’s lobbying register entry says his duties include connecting Dodik with 'decision-makers and influential figures in Washington'"
+      ]
+    },
+    {
+      "id": "36b97ca3ae5e",
+      "title": "South Africa’s Asylum Clampdown Prioritizes Deportability Over Refugee Reassessment",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy42yx1kn90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T16:38:53Z",
+      "category": "IR",
+      "region": "South Africa / Burundi",
+      "background": "South Africa’s Constitutional Court has ruled that foreign nationals cannot reapply for asylum after a rejection, overturning a Supreme Court of Appeal decision in a case brought by two Burundian nationals. The court said unlimited repeat applications could create a \"never-ending cycle\" that blocks deportations and causes administrative chaos. South Africa hosts more than 167,000 refugees and asylum seekers in 2025, mainly from Burundi, the DRC, Somalia, South Sudan, Rwanda and Zimbabwe, while the country is also facing protests and violence targeting undocumented migrants.",
+      "prop_args": [
+        {
+          "thesis": "Limiting repeat asylum claims is necessary to preserve the integrity and enforceability of South Africa’s refugee system.",
+          "mechanisms": [
+            "First, it stops strategic delay tactics that turn asylum into a de facto stay permit. This is because (1) repeated applications can be used to prolong legal presence after a first rejection, (2) that makes deportation functionally impossible even where claims have already been assessed, and (3) the state loses any credible enforcement mechanism, which incentivizes more non-meritorious claims.",
+            "Second, it reduces administrative overload and restores capacity to process genuine cases. Three reasons: one, asylum systems have finite staff, courts, and appeal capacity; two, repeat filings force officials to relitigate the same person instead of clearing backlogs; three, backlogs punish real refugees by delaying protection and work access for everyone else.",
+            "Third, it strengthens public legitimacy for refugee protection by separating genuine asylum from abuse. This matters because (1) South Africa is already facing anti-migrant protests and demands for mass deportations, (2) visible loopholes feed the perception that the system is being gamed, and (3) a tighter process makes it easier for the government to defend refugee protection politically against xenophobic backlash."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Barring repeat applications risks returning people to danger when conditions in their home country materially change after an initial rejection.",
+          "mechanisms": [
+            "First, asylum claims are time-sensitive and country conditions can deteriorate rapidly. One, Burundi experienced major political violence after the 2015 presidential election, including at least 70 deaths; two, a person rejected in 2014 may face a genuinely different risk profile in 2018 or later; three, a blanket bar treats a stale decision as permanently accurate even when facts change.",
+            "Second, the ruling creates a procedural trap for people who lacked a fair or complete first hearing. One, asylum seekers often have weak legal representation, language barriers, or missing documentation; two, a first rejection may reflect evidentiary failure rather than lack of persecution; three, denying any reapplication removes a safety valve for correcting wrongful decisions and increases refoulement risk.",
+            "Third, the policy externalizes burden onto neighboring states and informal survival strategies. One, if people cannot regularize status after conditions worsen, they are pushed into illegality, exploitation, and underground work; two, that makes monitoring and integration harder for the state; three, it can also drive secondary movement to other countries, spreading regional instability rather than solving it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between administrative control and non-refoulement. Prop wins if the core issue is system abuse and state capacity; opp wins if the core issue is whether a rigid procedural bar can safely track changing persecution risks in a volatile region.",
+      "stock_connections": [
+        "Non-refoulement",
+        "Rule of Law",
+        "Administrative Capacity",
+        "Moral Hazard",
+        "State Legibility",
+        "Xenophobia / Scapegoating",
+        "Burden Shifting",
+        "Due Process"
+      ],
+      "motion_areas": [
+        "TH, as South Africa, would bar repeat asylum applications after a final rejection",
+        "THBT states should not allow unlimited reapplication for asylum absent materially new evidence",
+        "THP a world where asylum systems prioritize finality over repeated review"
+      ],
+      "data_points": [
+        "South Africa hosted more than 167,000 refugees and asylum seekers in 2025, according to UNHCR",
+        "The case was brought by two Burundian nationals who reapplied in 2018 after their asylum claims were rejected in 2014",
+        "At least 70 people were killed in unrest after Burundi’s 2015 presidential election crisis",
+        "South Africa has about 2.4 million migrants, just under 4% of the population, according to official figures",
+        "The Constitutional Court is South Africa’s final court of appeal",
+        "South Africa has seen recent protests by thousands demanding mass deportations of undocumented migrants"
+      ]
+    },
+    {
+      "id": "576163d42e91",
+      "title": "UAE’s covert strike on Iran risks turning Gulf hedging into open regional war",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
+      "published": "2026-05-12T16:37:27Z",
+      "category": "IR",
+      "region": "United Arab Emirates / Iran / Kuwait / Gulf states",
+      "background": "Reporting says the UAE secretly launched a major retaliatory attack on Iran during the recent conflict, including a strike on Iran’s Lazan Island just before the 7 April ceasefire. Kuwait separately said at least four IRGC members were captured trying to carry out attacks on Bubiyan Island, while Iran had already targeted UAE facilities earlier in the fighting that began on 28 February. The UAE’s biggest gas plant has reportedly been disrupted by Iranian attacks, with Adnoc Gas saying full repair will not be completed until 2027. The US has also signaled continued support for Gulf defenses, including Iron Dome batteries and personnel sent to the UAE.",
+      "prop_args": [
+        {
+          "thesis": "The UAE’s covert retaliation is strategically necessary because it deters Iranian coercion and prevents Gulf states from becoming passive targets in a widening shadow war.",
+          "mechanisms": [
+            "First, it raises the expected cost of Iranian escalation. This is because (1) Iran can no longer assume Gulf states will only absorb strikes and rely on US protection, (2) covert retaliation creates uncertainty over where and how the next response will come from, and (3) that uncertainty forces Tehran to spend more on defense, dispersion, and counterintelligence.",
+            "Second, it restores deterrence credibility for smaller Gulf states. Three reasons: one, if the UAE does not respond after repeated missile and drone attacks, Iran learns that coercion works; two, visible passivity would invite further strikes on oil, ports, and gas infrastructure; three, retaliation signals to Saudi Arabia, Kuwait, and Qatar that Gulf sovereignty is not cost-free to violate.",
+            "Third, it protects the broader regional balance by preventing Iran from monopolizing escalation. This matters because (1) if only Iran can strike while others abstain, Tehran controls the tempo of conflict, (2) limited Gulf reprisals can be calibrated below the threshold of all-out war, and (3) a credible counter-threat may actually help preserve the ceasefire by making renewed attacks less attractive."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The UAE’s secret attack is reckless because it increases the probability of a direct interstate war that Gulf states are structurally unable to sustain.",
+          "mechanisms": [
+            "First, it collapses the ambiguity that previously insulated Gulf states from becoming formal belligerents. One, once Iran has evidence that the UAE is not neutral, UAE territory becomes a legitimate target in Tehran’s eyes; two, that expands the target set from military assets to oil, desalination, shipping, and civilian infrastructure; three, it makes de-escalation politically harder because each side must now save face after a direct exchange.",
+            "Second, it triggers asymmetric Iranian retaliation that Gulf states cannot absorb. One, Iran can hit ports, gas plants, and shipping lanes far more cheaply than the Gulf can defend them; two, the UAE and Saudi Arabia depend on vulnerable coastal infrastructure and the Strait of Hormuz; three, even limited disruption can create massive economic and humanitarian damage, as shown by the near two-year closure of the UAE’s biggest gas plant.",
+            "Third, it fractures Gulf unity and undermines the very coalition needed to manage Iran. One, Saudi Arabia prefers restraint while the UAE appears more hawkish, so the attack deepens intra-Gulf splits; two, Kuwait’s reported IRGC infiltration shows that even neutral states are now being pulled in; three, once each Gulf state fears being singled out, they hedge individually rather than coordinate collectively, which weakens deterrence and increases the chance of miscalculation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether retaliation restores deterrence or converts a shadow conflict into an overt regional war. Prop wins if you believe limited covert force can raise costs without crossing the threshold of all-out escalation; opp wins if you think Gulf infrastructure is too exposed and Iran’s retaliation capacity is too asymmetric for that gamble to be safe.",
+      "stock_connections": [
+        "Deterrence theory",
+        "Security dilemma",
+        "Escalation spiral",
+        "Miscalculation",
+        "Alliance entrapment",
+        "Regional balance of power",
+        "Asymmetric warfare",
+        "Energy security",
+        "Free-riding",
+        "Collective defense failure"
+      ],
+      "motion_areas": [
+        "TH, as the UAE, would conduct covert retaliatory strikes against Iran",
+        "THBT Gulf states should respond militarily to Iranian attacks rather than rely on US protection",
+        "THP a world where middle powers can conduct limited covert reprisals without public attribution",
+        "THBT Gulf monarchies should prioritize deterrence over diplomatic restraint in dealing with Iran"
+      ],
+      "data_points": [
+        "The UAE’s biggest gas plant has been disrupted by Iranian attacks, with full repair not expected until 2027",
+        "The UAE strike reportedly hit Iran’s Lazan Island just before the 7 April ceasefire",
+        "Kuwait said at least four IRGC members were captured trying to carry out attacks on Bubiyan Island",
+        "The conflict began on 28 February and the ceasefire was reported on 7 April",
+        "Adnoc Gas said the plant’s processing capacity will be restored to 80% by the end of 2026 and full capacity in 2027",
+        "The US ambassador to Israel said Iron Dome batteries and personnel had been sent to improve UAE defenses"
+      ]
+    },
+    {
+      "id": "1ce2c01f7845",
+      "title": "Israel’s War Turns Lebanon’s Education Collapse Into a Long-Term Sectarian and Class Divide",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss",
+      "published": "2026-05-12T16:33:23Z",
+      "category": "IR",
+      "region": "Lebanon",
+      "background": "Israel intensified its war on Lebanon on March 2, 2026, after months of attacks and more than 10,000 reported violations of the November 2024 ceasefire, according to the article. Since then, more than 1.2 million people in Lebanon have been displaced, including 500,000 school-aged children, while UNESCO says 339 schools are in warzones, hundreds more are being used as shelters, and another 100 schools are in high-risk areas. Lebanon’s education system was already under severe strain from the 2019 economic crisis, COVID-19, and currency collapse; teachers’ salaries have fallen by about 80% in real terms and around 30% of the sector has left the country or changed professions since 2019.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s war is not just causing immediate humanitarian harm; it is entrenching a generational education gap that will deepen Lebanon’s instability and weaken national cohesion for years.",
+          "mechanisms": [
+            "First, the war destroys the basic conditions for schooling, so learning loss becomes cumulative rather than temporary. This is because (1) 339 schools are in warzones and hundreds more are shelters, so physical access is gone; (2) 500,000 school-aged children have been displaced, so attendance is interrupted across entire communities; (3) repeated disruption since 2019 means students have already lost multiple years, making catch-up increasingly unrealistic.",
+            "Second, the crisis widens class inequality because only wealthier families can absorb the costs of continuity. Three reasons: one, online or hybrid learning requires internet, electricity, and devices that poor households often lack; two, families must choose between food, transport, heating, and education, so poorer children drop out first; three, those who fall out of school are more exposed to child labour and child marriage, locking in poverty across generations.",
+            "Third, the war undermines Lebanon’s civic fabric by turning education into a survival system rather than a nation-building institution. This matters because (1) schools are where shared civic identity is built in a sectarian society; (2) when citizenship and social studies are dropped in favor of math and science recovery, students lose the common framework that reduces sectarian fragmentation; (3) trauma, displacement, and isolation create a cohort less likely to trust institutions or participate in stable politics."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The education crisis is real, but the war is exposing pre-existing state failure rather than creating a uniquely new lost generation, so the blame and policy focus should stay on Lebanon’s broken institutions.",
+          "mechanisms": [
+            "First, Lebanon’s education system was already collapsing before the current escalation. One, the country had been in economic crisis since 2019; two, the Gini coefficient rose from 0.32 in 2011 to 0.61 in 2023, showing extreme inequality; three, teachers’ salaries had already fallen by about 80%, and 30% of the sector had left, so war is accelerating a pre-existing decline rather than being the root cause.",
+            "Second, the system still has adaptive capacity, so the outcome is not necessarily a permanent lost generation. One, schools and the Ministry are using online learning, multiple shifts, temporary learning centres, and psychosocial services; two, UNESCO and NGOs are coordinating support, meaning there is an external safety net; three, prioritizing core subjects like math and science can preserve human capital even during conflict, limiting long-term scarring.",
+            "Third, the strongest long-term determinant is post-war reconstruction, not the war itself. One, if ceasefire and aid stabilize access, children can re-enter school and recover lost years; two, the real bottleneck is funding and governance, since humanitarian support is under strain and corruption is endemic; three, blaming the war alone risks obscuring the domestic reforms needed to fix Lebanon’s education system."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war creates irreversible scarring or merely intensifies an already fragile system. Prop wins if it proves that displacement, school destruction, and teacher flight convert temporary interruption into permanent inequality; Opp wins if it shows Lebanon’s pre-existing collapse and available stop-gap measures mean the long-term outcome depends more on governance and reconstruction than on the war itself.",
+      "stock_connections": [
+        "Lost generation",
+        "Human capital destruction",
+        "Inequality reproduction",
+        "Brain drain",
+        "State failure",
+        "Sectarian fragmentation",
+        "Trauma and socialization",
+        "Dependency on humanitarian aid",
+        "Education as nation-building"
+      ],
+      "motion_areas": [
+        "TH, as an international organization, would prioritize emergency education funding over other humanitarian aid in active warzones",
+        "THBT post-conflict reconstruction should focus first on restoring schools and teachers before large-scale infrastructure projects",
+        "THP a world where wartime education is delivered primarily through remote and temporary learning systems",
+        "THBT states in civil or interstate conflict should be held internationally responsible for educational destruction"
+      ],
+      "data_points": [
+        "More than 1.2 million people displaced in Lebanon since March 2026",
+        "500,000 school-aged children displaced, according to UNESCO",
+        "339 schools located in warzones in Lebanon",
+        "Another 100 schools in high-risk areas",
+        "Hundreds of schools converted into shelters for displaced people",
+        "Lebanon’s Gini coefficient rose from 0.32 in 2011 to 0.61 in 2023",
+        "Lebanon was in the top 1% of most unequal countries in the world in a 2024 ESCWA study",
+        "Teachers’ salaries decreased by about 80% due to currency devaluation",
+        "About 30% of the education sector left the country or changed professions since 2019"
+      ]
+    },
+    {
+      "id": "26a710ed087b",
+      "title": "US-EU Trade Frictions Become a Growth Drag and Strategic Liability",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/dimon-says-us-europe-have-to-fix-stupid-trade-issues-video",
+      "published": "2026-05-12T16:27:21Z",
+      "category": "Econ",
+      "region": "United States / Europe",
+      "background": "At JPMorgan Chase’s annual Global Markets Conference in Paris on 12 May 2026, CEO Jamie Dimon said the US and Europe need to fix “stupid” trade issues to improve growth. In the same interview, he argued the US would also benefit from a stronger NATO. The article is a short Bloomberg video summary and does not specify the exact trade disputes he was referring to.",
+      "prop_args": [
+        {
+          "thesis": "Reducing US-EU trade frictions is a pro-growth move because it lowers costs, restores investment confidence, and strengthens the transatlantic economic bloc against external shocks.",
+          "mechanisms": [
+            "First, lower trade barriers increase efficiency and reduce input costs. This is because (1) firms on both sides can source from the cheapest/most productive suppliers, (2) supply chains become less fragmented and less exposed to tariff-induced price spikes, and (3) consumers face lower prices, which supports demand and real incomes.",
+            "Second, resolving trade disputes improves business certainty and capital allocation. Three reasons: one, companies are more willing to commit to long-horizon investment when market access is predictable; two, fewer regulatory and tariff disputes reduce compliance and legal costs; three, cross-border mergers, joint ventures, and industrial partnerships become easier to structure.",
+            "Third, a more integrated US-EU economic relationship has strategic spillovers. This matters because a cohesive transatlantic market can coordinate standards, reduce dependence on rival blocs, and create a larger demand base that cushions both economies during global downturns."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trade frictions are not the main constraint on growth, and fixing them may produce limited gains while exposing domestic industries and workers to political backlash.",
+          "mechanisms": [
+            "First, the growth payoff may be modest because the biggest drivers of US and European performance are domestic productivity, monetary conditions, energy prices, and labor-market constraints, not headline trade disputes. One, if the core problem is weak investment or high rates, trade liberalization does little; two, if firms already trade heavily under existing rules, the marginal gain from further fixes is smaller; three, governments may overestimate trade as a cure-all and neglect deeper structural reforms.",
+            "Second, reducing trade barriers can create concentrated losses that outweigh diffuse gains politically. One, import-competing sectors face sharper competition and may cut jobs or wages; two, governments then face pressure to reintroduce protection or subsidies, undermining the reform; three, backlash can fuel populism and make future cooperation harder, especially in sensitive sectors like steel, autos, and digital services."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether trade liberalization is a meaningful growth lever or just a marginal adjustment relative to domestic macro and productivity constraints. Prop wins if the round is about long-run efficiency and strategic bloc-building; opp wins if the judge prioritizes political feasibility and the limited size of the economic gain.",
+      "stock_connections": [
+        "Free Trade vs Protectionism",
+        "Comparative Advantage",
+        "Globalization",
+        "Race to the Bottom",
+        "Industrial Policy",
+        "Populist Backlash",
+        "Economic Interdependence",
+        "Alliance Politics"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize resolving trade disputes with Europe over new protectionist measures",
+        "THBT the US and EU should deepen economic integration despite domestic political backlash",
+        "THP a world where transatlantic trade barriers are significantly reduced"
+      ],
+      "data_points": [
+        "Jamie Dimon made the remarks at JPMorgan Chase’s annual Global Markets Conference in Paris on 12 May 2026",
+        "The article explicitly describes US-EU trade issues as 'stupid' and says fixing them would 'pave the way for better growth'",
+        "Dimon also said the US would benefit from a stronger NATO, linking economic and security cooperation in the same interview"
+      ]
+    },
+    {
+      "id": "05b7c0316620",
+      "title": "Kuwait’s Foiled IRGC Infiltration Turns Gulf Maritime Security Into an Open Iran-Kuwait Confrontation",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss",
+      "published": "2026-05-12T16:26:35Z",
+      "category": "IR",
+      "region": "Kuwait / Iran / Gulf",
+      "background": "Kuwait says it arrested four men it identified as members of Iran’s Islamic Revolutionary Guard Corps (IRGC) after they allegedly tried to infiltrate Bubiyan Island by sea on May 1 and injured a Kuwaiti soldier in the confrontation. Kuwait’s Interior Ministry said the men were aboard a fishing boat chartered to carry out hostile actions and that two other suspects escaped. Bubiyan is Kuwait’s largest island, near key shipping lanes, northern oilfields, and military installations; Kuwait also said it recently intercepted hostile drones and previously blamed Iran for strikes on the Mina al-Ahmadi refinery and a power/desalination plant.",
+      "prop_args": [
+        {
+          "thesis": "Publicly attributing and punishing the IRGC incursion is necessary to deter further Iranian gray-zone attacks and defend Kuwait’s sovereignty.",
+          "mechanisms": [
+            "First, a visible response raises the expected cost of future infiltration attempts. This is because (1) covert maritime raids depend on ambiguity and low attribution, (2) naming the IRGC and summoning Iran’s ambassador reduces deniability, and (3) signaling Article 51 self-defence tells Tehran that small-scale probes can escalate into a broader state response.",
+            "Second, Kuwait must harden the norm that attacks on islands, ports, and energy infrastructure are not tolerable. Three reasons: one, Bubiyan sits near strategic shipping lanes and military sites, so failure to respond invites repeat targeting; two, the region already saw alleged drone and refinery attacks, so silence would normalize escalation; three, Gulf states coordinate through precedent, so Kuwait’s response helps create a collective red line.",
+            "Third, the move protects domestic confidence in the state’s ability to secure water, energy, and trade infrastructure. This matters because Kuwait is only about 80km from Iran’s coast and is highly dependent on desalination, so even limited attacks can create panic, insurance shocks, and pressure on the government to overreact later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Escalating the incident publicly risks feeding a security spiral that makes Kuwait less safe and more vulnerable to retaliation.",
+          "mechanisms": [
+            "First, attribution and retaliation can provoke asymmetric Iranian responses. One, Iran can deny direct involvement and use proxies or cyber tools instead of conventional force; two, public humiliation increases incentives to retaliate to restore deterrence; three, Kuwait’s small size and proximity to Iran make it hard to absorb repeated low-level attacks.",
+            "Second, the incident may be better handled through quiet diplomacy and intelligence cooperation than maximalist confrontation. One, the article says there was no immediate Iranian reaction, so there is still space for de-escalation; two, public escalation can close off backchannels that are essential in Gulf crisis management; three, Kuwait depends on stable maritime routes and energy flows, so a tit-for-tat cycle would impose immediate economic costs.",
+            "Third, over-attributing every attack to Iran can entrench miscalculation and reduce credibility if evidence is incomplete. One, Kuwait has already blamed Iran for earlier refinery and plant strikes, so repeating the claim without transparent proof can look politically motivated; two, if later evidence is weaker than the accusation, Kuwait’s deterrent messaging loses force; three, in a region with multiple armed actors, misattribution can widen the conflict beyond the original incident."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether deterrence or escalation risk dominates. Prop wins if the judge prioritizes sovereignty and the need to stop repeated gray-zone attacks; opp wins if they think Kuwait’s small geographic exposure makes any public confrontation disproportionately dangerous and better handled through covert diplomacy.",
+      "stock_connections": [
+        "Deterrence",
+        "Security Dilemma",
+        "Escalation Spiral",
+        "Gray-Zone Warfare",
+        "Proxy Conflict",
+        "Sovereignty",
+        "Collective Security",
+        "Maritime Security",
+        "Energy Security"
+      ],
+      "motion_areas": [
+        "TH, as Kuwait, would publicly name and punish foreign covert incursions even at the risk of escalation",
+        "THBT small states should respond forcefully to gray-zone attacks rather than rely on quiet diplomacy",
+        "THP a world where Gulf states treat maritime infiltration as an act of war"
+      ],
+      "data_points": [
+        "Kuwait says four men were arrested after an alleged May 1 sea infiltration attempt on Bubiyan Island",
+        "One Kuwaiti service member was wounded in the confrontation",
+        "Bubiyan Island is Kuwait’s largest island and sits near key shipping lanes, northern oilfields, and military installations",
+        "Kuwait is located about 80km (50 miles) from Iran’s coastline",
+        "Kuwait said it intercepted 'a number of hostile drones' earlier in the week",
+        "Kuwait blamed Iran for April strikes on the Mina al-Ahmadi oil refinery and a power and desalination plant",
+        "On March 30, an Indian national was killed in an attack on a Kuwaiti power and desalination plant that Kuwait also attributed to Iran"
+      ]
+    },
+    {
+      "id": "328a9d69cc97",
+      "title": "Microsoft’s Israel Unit Exposes the Corporate Risk of Enabling Military Mass Surveillance",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/12/microsoft-head-israel-step-down",
+      "published": "2026-05-12T16:24:59Z",
+      "category": "Business",
+      "region": "Israel / Gaza / West Bank",
+      "background": "Microsoft’s head of its Israeli subsidiary, Alon Haimovich, is stepping down after an internal inquiry into the company’s dealings with the Israeli military. The inquiry followed a Guardian/+972 Magazine/Local Call investigation that found Unit 8200 used Microsoft’s Azure cloud to store a vast archive of intercepted Palestinian phone calls from Gaza and the West Bank. Microsoft said it found Unit 8200 had violated its terms of service, which prohibit mass surveillance, and cut off the unit’s access to cloud and AI products used for the project.",
+      "prop_args": [
+        {
+          "thesis": "Multinational tech firms should be held accountable when their infrastructure is used for state mass surveillance, because commercial neutrality becomes complicity once they knowingly enable abuse.",
+          "mechanisms": [
+            "First, enforcement of corporate ethics matters because (1) cloud providers are not passive carriers but active enablers with control over storage, compute, and access, (2) once a firm supplies the architecture for surveillance it lowers the cost and scale of abuse, and (3) terminating access creates a real deterrent for other clients and subsidiaries that might hide end-use from headquarters.",
+            "Second, this case shows why internal compliance and transparency are essential. Three reasons: one, local managers can have incentives to maximize revenue and understate risk; two, without independent inquiry headquarters cannot verify whether products are being used for mass rights violations; three, public exposure forces firms to align sales with stated policies, preserving the credibility of their own codes of conduct.",
+            "Third, cutting off abusive military use protects civilians and the company’s long-term legitimacy. This matters because (1) mass surveillance chills speech and movement for millions of Palestinians, (2) reputational damage can trigger employee backlash, investor scrutiny, and regulatory action across other markets, and (3) a hard line against surveillance preserves trust in cloud and AI products, which is essential for business growth."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Punishing a subsidiary over military contracts risks overcorrecting in a way that politicizes business, weakens local operations, and may not meaningfully change state surveillance behavior.",
+          "mechanisms": [
+            "First, the commercial and operational costs can be severe: (1) cutting ties with a major government client can reduce revenue and local market access, (2) it may encourage other states to view the firm as unreliable in sensitive sectors, and (3) it can push the company to retreat from regions where its services are most needed for ordinary business and public infrastructure.",
+            "Second, the policy may have limited impact on the underlying abuse. Three sub-reasons: one, states with strong security imperatives can shift to domestic vendors or other foreign providers; two, surveillance programs are often embedded in intelligence doctrine, so losing one supplier does not end the practice; three, public corporate sanctions can harden the state’s resolve by framing the issue as external interference rather than rights compliance.",
+            "Third, overbroad corporate policing creates governance problems. One, headquarters may lack the expertise to judge intelligence use cases in conflict zones; two, firms may become risk-averse and refuse legitimate security or public-sector contracts; three, a precedent of retroactive punishment can chill investment in politically sensitive markets and make global tech fragmentation worse."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether corporate withdrawal meaningfully constrains abusive surveillance or simply imposes costs on the firm while the state adapts. Prop wins if the round is about accountability and civilian harm; opp wins if the round emphasizes limited leverage, substitution, and the risk of politicizing global business.",
+      "stock_connections": [
+        "Corporate Social Responsibility",
+        "Complicity",
+        "Human Rights vs Profit",
+        "Regulatory Capture",
+        "Principal-Agent Problem",
+        "Information Asymmetry",
+        "Tech Ethics",
+        "Sanctions Evasion",
+        "State Surveillance",
+        "Reputational Risk"
+      ],
+      "motion_areas": [
+        "TH, as a multinational tech company, would refuse all contracts that enable state surveillance",
+        "THBT tech firms should be legally liable for the end-use of their cloud infrastructure in human rights abuses",
+        "THP a world where cloud providers can unilaterally cut off government clients for rights violations",
+        "TH, as a Western corporation, would prioritize human rights compliance over market expansion in conflict zones"
+      ],
+      "data_points": [
+        "Microsoft said Unit 8200 violated terms of service that prohibit using its technology to facilitate mass surveillance",
+        "Unit 8200 used Microsoft Azure to store intercepted calls from Gaza and the West Bank",
+        "The surveillance system allegedly collected and analyzed millions of Palestinian cellular phone calls every day",
+        "Microsoft’s inquiry was commissioned last year after the Guardian investigation",
+        "Microsoft terminated Unit 8200’s access to cloud services and AI products used for the surveillance project",
+        "Alon Haimovich was described as having positioned Israel as 'one of Microsoft’s fastest-growing markets worldwide'",
+        "The relationship between Microsoft Israel and Unit 8200 reportedly developed after a 2021 meeting between Satya Nadella and the unit’s then commander"
+      ]
+    },
+    {
+      "id": "84a00fe0c51f",
+      "title": "Ukraine’s Anti-Corruption Crackdown Risks Weakening Zelensky’s Wartime Coalition and EU Accession Bid",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T16:19:24Z",
+      "category": "IR",
+      "region": "Ukraine",
+      "background": "Andriy Yermak, Volodymyr Zelensky’s former chief of staff and long-time close adviser, appeared in a Kyiv court after Ukraine’s anti-corruption agencies named him a suspect in a money-laundering case. The case is part of a broader probe by SAPO and NABU into an alleged $100m embezzlement scheme in Ukraine’s nuclear energy sector, alongside a separate $10.5m luxury housing project outside Kyiv called “Dynasty.” The scandal has already implicated or touched several figures in Zelensky’s circle, including ex-Deputy Prime Minister Oleksiy Chernyshov, businessman Timur Mindich, and ex-Energy Minister Herman Haluschenko. The allegations come after Zelensky previously had to scrap a law that weakened anti-corruption agencies following protests and EU criticism, and as Ukraine continues to pursue EU membership during Russia’s full-scale invasion.",
+      "prop_args": [
+        {
+          "thesis": "A serious anti-corruption crackdown strengthens Ukraine in the long run by preserving state legitimacy, unlocking EU integration, and improving wartime governance.",
+          "mechanisms": [
+            "First, it restores domestic and international trust in the Ukrainian state. This is because (1) wartime societies tolerate sacrifice only if they believe elites are being held to the same standards, (2) visible prosecutions reduce the perception that aid and reconstruction money are being stolen, and (3) cleaner institutions make it easier for Zelensky to keep public support despite battlefield losses.",
+            "Second, it materially improves Ukraine’s EU accession prospects. Three reasons: one, the EU has repeatedly tied enlargement to judicial independence and anti-corruption enforcement; two, the fact that Zelensky already had to reverse a law weakening NABU and SAPO shows Brussels is watching institutional backsliding closely; three, prosecuting even insiders signals that Ukraine is converging with EU governance norms rather than entrenching oligarchic capture.",
+            "Third, it improves military and economic effectiveness by reducing leakage. This matters because corruption in the nuclear and construction sectors is not abstract: (1) it diverts scarce wartime funds, (2) it weakens procurement and energy resilience, and (3) it creates a cleaner environment for donor states and private investors to continue financing Ukraine’s defense and reconstruction."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The scandal weakens Ukraine because aggressive anti-corruption action during wartime fractures the ruling coalition, distracts leadership, and risks destabilizing the state at the exact moment it needs unity.",
+          "mechanisms": [
+            "First, it creates elite fragmentation and governance paralysis. One, Yermak was Zelensky’s closest adviser and led talks with the US, so removing him disrupts foreign policy coordination; two, repeated raids and resignations signal that the president’s inner circle is under siege, making officials more risk-averse and less effective; three, when key personnel are consumed by legal defense, they cannot focus on war management.",
+            "Second, it can be politically weaponized and erode wartime morale. One, corruption probes against top insiders can be framed by opponents as proof that the entire government is rotten; two, public scandal during wartime can reduce trust in mobilization, taxation, and sacrifice; three, if citizens believe aid is being siphoned off, support for continued resistance and reforms can collapse.",
+            "Third, it may slow EU and donor coordination in practice even if it helps on paper. One, leadership turnover and institutional infighting create uncertainty for Brussels and Washington; two, donors may delay disbursements while waiting for clearer control over corruption risks; three, a state fighting both Russia and internal purges has less bandwidth to negotiate security guarantees, weapons deliveries, and accession benchmarks."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether accountability strengthens resilience or whether wartime instability overwhelms reform gains. Prop wins if the round is about long-run state capacity and EU integration; Opp wins if the round prioritizes immediate wartime cohesion and the risk that elite scandal undermines command, morale, and donor confidence.",
+      "stock_connections": [
+        "Anti-Corruption Reform",
+        "State Capacity",
+        "Institutional Credibility",
+        "Democratic Backsliding",
+        "Elite Capture",
+        "Wartime Governance",
+        "Foreign Aid Conditionality",
+        "EU Accession Criteria",
+        "Principal-Agent Problems"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would aggressively prosecute corruption even during wartime",
+        "THBT wartime governments should prioritize anti-corruption enforcement over elite cohesion",
+        "THP a world where EU accession is conditioned on prosecuting senior wartime officials"
+      ],
+      "data_points": [
+        "$100m alleged embezzlement scheme in Ukraine’s nuclear energy sector",
+        "$10.5m luxury construction project outside Kyiv allegedly linked to laundering",
+        "SAPO asked the Kyiv court for preventive detention or about $4m bail",
+        "Yermak led Ukraine’s talks with the US until his resignation after an anti-corruption raid last November",
+        "Zelensky previously scrapped a law weakening NABU and SAPO after protests and EU criticism",
+        "Six more people were identified as suspects in the Dynasty case",
+        "Russia launched more than 200 drones overnight in the latest attacks, leaving at least one person dead"
+      ]
+    },
+    {
+      "id": "5d34a5fd1a17",
+      "title": "US-Iran War Costs Expose the Tradeoff Between Middle East Escalation and Great-Power Deterrence",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss",
+      "published": "2026-05-12T16:13:28Z",
+      "category": "Econ",
+      "region": "United States / Iran / Israel / Middle East",
+      "background": "The Pentagon told a Senate committee on 12 May 2026 that the US-Israel war with Iran has cost the United States $29bn, up from the $25bn figure it disclosed in late April. Defense Secretary Pete Hegseth said the administration is prepared to both escalate and de-escalate, while President Trump rejected a new Iranian ceasefire proposal and described the pause in fighting as \"on life support.\" The article says fighting has been generally paused since 8 April, but the administration has not disclosed the full damage to US installations or the extent of munitions depletion.",
+      "prop_args": [
+        {
+          "thesis": "The war is an economically irrational commitment that drains US fiscal capacity, raises inflationary pressure, and weakens America’s broader strategic posture.",
+          "mechanisms": [
+            "First, the conflict imposes direct budgetary costs that crowd out other spending. This is because (1) the Pentagon has already revised the bill upward from $25bn to $29bn in less than a month, (2) the department is asking Congress for a historic $1.5tn funding request, and (3) every additional dollar spent on Iran is a dollar not available for readiness, domestic priorities, or Indo-Pacific deterrence.",
+            "Second, the war feeds domestic inflation and political backlash. Three reasons: one, the article links the conflict to rising gasoline prices, with US petrol prices up 5.4 percent in April; two, CPI inflation was 3.8 percent year-on-year, the highest since 2023; three, higher energy prices and war spending together make the administration look economically incompetent, which is especially dangerous ahead of the November midterms.",
+            "Third, the conflict creates strategic overextension by forcing the US to split attention between Iran and China. This matters because the Joint Chiefs explicitly say China remains the top priority, yet the Pentagon must simultaneously manage escalation in the Strait of Hormuz, repair damaged assets, and replenish munitions, meaning the US pays more to get less deterrence in the theater that matters most long-term."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The war is a necessary strategic investment because failing to confront Iran would be costlier in the long run and would undermine US deterrence globally.",
+          "mechanisms": [
+            "First, the spending prevents a larger regional security shock. One, if Iran is allowed to absorb pressure without response, it can close or threaten the Strait of Hormuz and impose far bigger oil and shipping costs on the global economy; two, a limited war today may avert a wider war later; three, visible US commitment reassures Israel and Gulf partners that deterrence still works.",
+            "Second, the munitions and cost concerns are manageable and should not dictate strategy. One, Hegseth claims the Pentagon knows its stockpiles and has \"plenty\" of what it needs; two, the US defense budget is large enough to absorb a $29bn contingency without structural collapse; three, temporary depletion is preferable to allowing an adversary to learn that America will not spend resources to defend core interests.",
+            "Third, backing down would damage credibility more than the war damages the budget. One, if the US pauses under pressure, Iran and other rivals infer that American threats are hollow; two, deterrence failures invite future challenges in the Middle East and beyond; three, the reputational cost of inaction can be more expensive than the immediate fiscal outlay."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term fiscal pain and long-term strategic credibility. Prop wins if you prioritize concrete economic harm and domestic political backlash; opp wins if you think the marginal cost of escalation is smaller than the cost of letting Iran rewrite the regional balance of power and weaken US deterrence.",
+      "stock_connections": [
+        "Opportunity Cost",
+        "Crowding Out",
+        "Inflationary Pressure",
+        "Overextension",
+        "Deterrence Theory",
+        "Credibility",
+        "Security Dilemma",
+        "Energy Shock",
+        "Moral Hazard",
+        "War Economy"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would de-escalate the war with Iran",
+        "THBT the US should prioritize great-power competition over Middle East intervention",
+        "THP a world where states can more easily wind down foreign wars despite alliance commitments"
+      ],
+      "data_points": [
+        "$29bn current Pentagon estimate of US costs for the US-Israel war with Iran",
+        "Pentagon estimate rose from $25bn in late April to $29bn by 12 May 2026",
+        "US CPI rose 3.8 percent year-on-year in April 2026, the highest annual increase since 2023",
+        "US gasoline/petrol prices rose 5.4 percent month-on-month in April 2026",
+        "The Pentagon’s historic funding request is $1.5tn",
+        "Fighting has been generally paused since 8 April 2026, with only a handful of flare-ups",
+        "The war threatens Republican prospects in the November 2026 midterms",
+        "The US says China remains the top Pentagon priority despite the Iran conflict"
+      ]
+    },
+    {
+      "id": "6703a417b4c2",
+      "title": "Lebanon’s ‘Ceasefire’ Fails to Protect Civilians as Israel Keeps Hitting Children and Displacing Families",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss",
+      "published": "2026-05-12T16:12:43Z",
+      "category": "IR",
+      "region": "Lebanon / Israel",
+      "background": "Save the Children said Israeli attacks on Lebanon killed or injured more than four children per day on average during the first 25 days of the ceasefire that began on April 16. Citing Lebanon’s Health Ministry, the group said at least 22 children were killed and 89 injured in that period, bringing the total number of children killed since the renewed escalation on March 2 to almost 200, with about 2,900 people killed overall. More than one million people have been displaced, about 125,000 are living in collective shelters, and 44,800 of those shelter residents are children. Lebanon and Israel are due to hold direct talks in Washington, DC, on Thursday and Friday aimed at ending the war and discussing Hezbollah’s disarmament.",
+      "prop_args": [
+        {
+          "thesis": "A ceasefire that still produces daily child casualties is not a ceasefire in any meaningful sense, and the international community should treat Israel as violating the truce and prioritize civilian protection over vague de-escalation language.",
+          "mechanisms": [
+            "First, the continued strikes destroy the credibility of any negotiated pause. This is because (1) civilians see no practical difference between 'war' and 'ceasefire' when children are still being killed and injured, (2) local compliance with future agreements collapses when one side is perceived to violate the deal with impunity, and (3) mediators lose leverage if they cannot enforce even the most basic civilian protections.",
+            "Second, the humanitarian harm compounds rapidly because displacement does not stop when the shooting slows. Three reasons: one, more than one million people have already been displaced, two, 125,000 people are in overcrowded shelters with poor sanitation, and three, 44,800 children in shelters face higher risks of disease, trauma, and interrupted schooling.",
+            "Third, this creates a political trap that prolongs the conflict. This matters because (1) every civilian death hardens Lebanese public opinion against compromise, (2) Hezbollah can use ongoing attacks to justify retaining its arsenal as 'protection,' and (3) the more the war is framed as existential, the harder it becomes for Washington talks to produce a durable settlement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel’s continued strikes are a necessary part of degrading Hezbollah’s military capacity, and a temporary truce that leaves Hezbollah armed and operational is strategically unstable.",
+          "mechanisms": [
+            "First, the ceasefire may be conditional rather than absolute, so strikes can be justified as enforcement against violations. Numbered reasons: (1) Israel says it has hit more than 1,100 sites since mid-April, claiming Hezbollah is the target, (2) if Hezbollah continues to operate from civilian areas, Israel argues it cannot be expected to absorb attacks passively, and (3) allowing armed groups to reconstitute during a pause can make the next war larger and deadlier.",
+            "Second, pressure on Hezbollah may be the only path to a real settlement. Numbered reasons: (1) Hezbollah has explicitly said it will not surrender its weapons, (2) if negotiations do not change that fact, any ceasefire becomes a mere pause before renewed conflict, and (3) forcing disarmament onto the agenda may be necessary to protect both Israeli and Lebanese civilians in the long run."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether ongoing strikes are a proportionate enforcement tool or proof that the ceasefire is hollow. The prop side wins if the round is about civilian protection and the legitimacy of peace processes; the opp side has structural advantage only if it proves Hezbollah’s military presence makes any pause non-credible and that short-term harm is outweighed by preventing a larger future war.",
+      "stock_connections": [
+        "Civilian Protection",
+        "Proportionality",
+        "Collective Punishment",
+        "Security Dilemma",
+        "Peace Process Credibility",
+        "Spoilers in Negotiations",
+        "Humanitarian Intervention",
+        "Asymmetric Warfare"
+      ],
+      "motion_areas": [
+        "TH, as an international mediator, would prioritize civilian protection over ceasefire enforcement against armed groups",
+        "THBT temporary ceasefires that do not stop civilian casualties should be treated as failed agreements",
+        "THP a world where peace talks require immediate and verifiable protection of civilians before disarmament negotiations"
+      ],
+      "data_points": [
+        "At least 22 children killed and 89 injured in the first 25 days of the ceasefire",
+        "More than four children killed or injured per day on average during the truce",
+        "Almost 200 children killed since the renewed escalation on March 2",
+        "About 2,900 people killed since March 2",
+        "More than one million people displaced",
+        "125,000 people currently living in collective shelters",
+        "44,800 children in collective shelters, equal to 36% of occupants",
+        "Israel says its air force has hit more than 1,100 sites across Lebanon since mid-April"
+      ]
+    },
+    {
+      "id": "b16d7870ef58",
+      "title": "UK Bank Tax Hikes Threaten to Push JPMorgan’s London HQ Investment Offshore",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/dimon-warns-taxes-may-scrap-jpmorgan-s-new-london-hq-video",
+      "published": "2026-05-12T16:11:29Z",
+      "category": "Business",
+      "region": "United Kingdom / London",
+      "background": "Jamie Dimon said that if the UK raises taxes on banks after a change in government, JPMorgan could scrap plans to invest billions of dollars in a new London headquarters in Canary Wharf. The warning came in an interview with Francine Lacqua on Bloomberg Open Interest on 2026-05-12. The article frames the decision as a direct response to the UK tax environment and the political risk of future bank levies.",
+      "prop_args": [
+        {
+          "thesis": "Threatening higher bank taxes can deter large financial-sector investment and push capital formation, jobs, and headquarters functions out of London.",
+          "mechanisms": [
+            "First, higher bank taxes raise the expected post-tax return on long-lived fixed investments, so firms delay or cancel projects. This is because (1) headquarters builds are sunk-cost commitments, (2) banks can compare London against rival hubs like New York, Dublin, Frankfurt, and Paris, and (3) even a small tax increase can flip a marginal location decision when the project is measured in billions.",
+            "Second, the threat of future tax hikes increases policy uncertainty, which is often more damaging than the tax rate itself. Three reasons: one, firms discount jurisdictions where rules can change after an election; two, uncertainty raises the hurdle rate for capital allocation; three, it encourages firms to keep high-value functions mobile rather than anchoring them in the UK.",
+            "Third, losing a flagship HQ has multiplier effects far beyond the building itself. This matters because (1) headquarters concentrate legal, compliance, trading, and executive roles, (2) those roles generate spillovers for local services, contractors, and professional firms, and (3) once a global bank shifts incremental investment elsewhere, London’s ecosystem becomes less attractive for other financial institutions too."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The UK should not let one bank’s relocation threat dictate tax policy, because bank taxes can raise revenue and preserve the state’s bargaining power without causing a mass exodus.",
+          "mechanisms": [
+            "First, banks are relatively immobile compared with the profits they generate, so governments can tax some of the rents without losing the entire industry. One, major banks still need access to London’s legal system, talent pool, time zone, and market infrastructure; two, a headquarters threat may be leverage in negotiations rather than a credible full exit; three, even if one project is delayed, the broader sector may remain because the UK offers unique clustering advantages.",
+            "Second, higher bank taxes can be justified on distributional and fiscal grounds, especially after crises or periods of elevated profits. Three reasons: one, banks benefit from implicit state backstops and systemic support; two, the public bears downside risk when finance destabilizes the economy; three, extra revenue can fund public services or reduce deficits, which may outweigh the loss of one investment project.",
+            "Third, the threat may be overstated because firms often use tax warnings strategically. This is because (1) CEOs have incentives to lobby against future regulation, (2) headline threats can be aimed at shaping political debate rather than reflecting a final capital-allocation decision, and (3) large multinationals usually diversify their footprint, so a cancelled HQ does not necessarily mean a full withdrawal from London."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether bank taxes meaningfully change mobile capital allocation or whether they mainly capture rents from a sector that is still locked into London’s ecosystem. Prop wins if the round is about marginal investment and long-run competitiveness; opp wins if the round is about fiscal sovereignty and the credibility of bank exit threats.",
+      "stock_connections": [
+        "Race to the Bottom",
+        "Tax Competition",
+        "Capital Flight",
+        "Policy Uncertainty",
+        "Regulatory Capture",
+        "Too Big to Fail",
+        "Rent Extraction",
+        "Financial Sector Clustering",
+        "Sunk Cost Fallacy"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would impose higher taxes on banks",
+        "THBT governments should prioritize retaining financial-sector investment over taxing banks more heavily",
+        "THP a world where major financial hubs can credibly threaten to relocate in response to tax policy"
+      ],
+      "data_points": [
+        "Jamie Dimon said JPMorgan could scrap plans to invest billions of dollars in a new London headquarters in Canary Wharf.",
+        "The warning was tied to the possibility of the UK hiking taxes on banks after a change in government.",
+        "The proposed project is a new London headquarters in Canary Wharf, one of the city’s main financial districts."
+      ]
+    },
+    {
+      "id": "9aea8daf1e4e",
+      "title": "US-Iran Ceasefire Collapses Into Coercive Stalemate as Both Sides Reject Concessions",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/iran-war-truce-fragile-as-us-rejects-tehran-latest-offer-video",
+      "published": "2026-05-12T15:45:34Z",
+      "category": "IR",
+      "region": "Iran / United States",
+      "background": "The article reports that the 10-week war between the US and Iran remains in an uneasy ceasefire, but negotiations are stalling. President Donald Trump rejected Iran’s latest offer, calling it a “piece of garbage,” and said the ceasefire was on “life support.” Bloomberg notes that both sides appear unwilling to make concessions, leaving the truce fragile and the conflict unresolved.",
+      "prop_args": [
+        {
+          "thesis": "Rejecting Tehran’s offer is strategically correct because it prevents the US from locking in a weak settlement that rewards escalation and preserves Iranian leverage.",
+          "mechanisms": [
+            "First, refusing a bad deal preserves bargaining power. This is because (1) Iran’s offer likely reflects its current battlefield position, (2) accepting it would signal that violence produces diplomatic gains, and (3) future adversaries would infer that the US can be pressured into concessions under fire.",
+            "Second, a hard line deters repeat coercion. Three reasons: one, it raises the expected cost of using proxies, missiles, or escalation to extract concessions; two, it reassures allies that the US will not trade away security for short-term calm; three, it reduces the risk of a precedent where ceasefires become cover for rearmament.",
+            "Third, maintaining pressure can improve the eventual settlement. This matters because a ceasefire on unfavorable terms can freeze an unstable status quo, whereas sustained leverage may force Iran to accept verifiable limits, inspections, or security guarantees that are actually enforceable."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Rejecting Iran’s offer is reckless because it prolongs a war that neither side can decisively win and increases the risk of regional spillover.",
+          "mechanisms": [
+            "First, prolonging the stalemate increases human and material costs. One, every additional week of conflict creates more civilian casualties and infrastructure damage; two, it deepens economic disruption through shipping, energy, and insurance shocks; three, it makes de-escalation politically harder because leaders become trapped by sunk costs and domestic hawks.",
+            "Second, the refusal weakens the ceasefire architecture. One, if the truce is already on “life support,” public rejection signals that diplomacy is dead; two, that encourages hardliners on both sides to resume attacks as the default bargaining tool; three, it raises the probability of miscalculation, accidental escalation, or third-party involvement.",
+            "Third, the US may be overestimating its leverage. One, if Iran believes it can survive longer than Washington expects, pressure tactics fail; two, allies may not sustain support for an open-ended confrontation; three, a collapsed truce can produce a worse deal later, after more destruction and less trust."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether leverage or escalation risk dominates. Pro wins if the round is about preventing moral hazard and avoiding a capitulation deal; opp wins if the round is about the immediate human and strategic costs of keeping a fragile truce alive while neither side concedes.",
+      "stock_connections": [
+        "Deterrence",
+        "Coercive Diplomacy",
+        "Moral Hazard",
+        "Credibility",
+        "Sunk Cost Fallacy",
+        "Security Dilemma",
+        "Escalation Spiral",
+        "Negotiation Under Fire"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would reject Iran’s latest ceasefire offer",
+        "THBT states should not negotiate with adversaries while active hostilities continue",
+        "THP a world where ceasefires are only accepted if they include enforceable concessions from both sides"
+      ],
+      "data_points": [
+        "The war has lasted 10 weeks",
+        "Trump called Tehran’s response a “piece of garbage”",
+        "Trump said the ceasefire was on “life support”",
+        "The article describes an uneasy stalemate with neither side willing to make concessions"
+      ]
+    },
+    {
+      "id": "97bbfea952de",
+      "title": "Israeli West Bank Violence Normalizes a Weekly Child Death Toll and Deepens Occupation Instability",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says?traffic_source=rss",
+      "published": "2026-05-12T15:23:04Z",
+      "category": "IR",
+      "region": "Occupied West Bank",
+      "background": "On 12 May 2026, Al Jazeera reported UN claims that Israeli military forces and settlers have killed at least one Palestinian child per week on average in the occupied West Bank since the start of 2025. UNICEF official James Elder publicly condemned the trend and urged Israeli authorities to uphold children’s rights. The article frames the issue as part of an escalating toll in the West Bank under occupation, involving both state forces and settlers.",
+      "prop_args": [
+        {
+          "thesis": "The weekly killing of Palestinian children in the West Bank is evidence that occupation has become a self-reinforcing system of dehumanization that will only worsen without external pressure.",
+          "mechanisms": [
+            "First, the pattern normalizes lethal force against civilians, especially minors. This is because (1) repeated killings lower the political and moral cost of violence for soldiers and settlers, (2) the absence of meaningful punishment signals impunity, and (3) civilians adapt by expecting arbitrary force, which makes everyday life more dangerous and unstable.",
+            "Second, it radicalizes the next generation and destroys any remaining trust in legal or diplomatic processes. Three reasons: one, families who lose children are more likely to support resistance or revenge politics; two, children growing up under constant threat internalize the conflict as existential rather than negotiable; three, moderates lose credibility when they cannot protect basic safety.",
+            "Third, the humanitarian toll compounds into long-term political instability. This matters because children killed or traumatized today become a generation with worse education, worse mental health, and fewer economic prospects, which increases recruitment into militant networks and makes a future two-state or negotiated settlement harder to sustain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The reported deaths are tragic, but they do not by themselves prove a strategic shift or justify broad conclusions about the conflict’s trajectory.",
+          "mechanisms": [
+            "First, casualty statistics can be politically contested and context-dependent. One, the UN and media reports may not distinguish clearly between combat situations, crossfire, and deliberate targeting; two, isolated figures do not establish intent or policy; three, the underlying conflict dynamics may be driven more by militant activity, raids, and security operations than by a new doctrine of child targeting.",
+            "Second, external condemnation may have limited leverage over Israeli behavior. One, Israel has strong domestic security incentives and can absorb diplomatic criticism; two, international actors are divided and often unwilling to impose costs; three, without credible enforcement, moral outrage may not change facts on the ground and can even harden positions by strengthening siege mentalities."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether this is treated as an isolated atrocity or as evidence of a broader occupation logic that is producing predictable civilian harm. Prop wins if it can show the pattern is systematic and self-perpetuating; opp wins if it can reframe the numbers as tragic but insufficient to prove policy change or strategic significance.",
+      "stock_connections": [
+        "Occupation and Insurgency",
+        "Impunity",
+        "Radicalization",
+        "Civilian Harm",
+        "Security Dilemma",
+        "Human Rights Enforcement Failure",
+        "Collective Punishment",
+        "Cycle of Violence"
+      ],
+      "motion_areas": [
+        "TH, as the UN, would impose stronger sanctions on Israel over West Bank civilian deaths",
+        "THBT external actors should condition military aid on civilian protection in occupied territories",
+        "THP a world where international institutions can credibly punish child killings in occupied territories"
+      ],
+      "data_points": [
+        "UN reported at least one Palestinian child killed per week on average in the occupied West Bank since the start of 2025",
+        "The report was publicly condemned by UNICEF official James Elder on 12 May 2026",
+        "The article attributes killings to both Israeli military forces and settlers"
+      ]
+    },
+    {
+      "id": "6c18044f2df2",
+      "title": "US Solar Trade Challenge Threatens Ethiopia’s Cleantech Export Strategy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/us-solar-manufacturers-file-trade-dispute-against-ethiopia",
+      "published": "2026-05-12T15:06:54Z",
+      "category": "Business",
+      "region": "United States / Ethiopia",
+      "background": "The article concerns a trade dispute filed by US solar manufacturers against Ethiopia. The only provided text indicates the dispute is about solar panel cells and references US manufacturing in Georgia, a major cleantech hub, suggesting the case is tied to competition in solar supply chains. Ethiopia is being challenged as a trade partner or export destination in a sector where manufacturing, tariffs, and industrial policy are politically sensitive.",
+      "prop_args": [
+        {
+          "thesis": "Allowing Ethiopia to compete in solar manufacturing without challenge would undercut US industrial policy and accelerate a race to the bottom in clean-tech production.",
+          "mechanisms": [
+            "First, it protects domestic manufacturing capacity. This is because (1) solar production is highly price-sensitive, so even small cost advantages can shift orders away from US plants, (2) firms facing cheaper imports cut output and delay investment in new lines, and (3) once factories lose scale, they become less competitive and harder to restart.",
+            "Second, it prevents subsidy or labor-cost arbitrage from hollowing out the sector. Three reasons: one, countries with lower wages or looser compliance costs can dump panels below sustainable production cost; two, US firms then face a structural disadvantage even if they are more productive; three, the result is a classic race to the bottom where the cheapest jurisdiction wins rather than the most efficient or innovative one.",
+            "Third, it preserves strategic resilience in a critical supply chain. This matters because solar is a core energy-transition input, and (1) overreliance on foreign production creates vulnerability to shocks, (2) domestic capacity gives governments leverage in future industrial or climate policy, and (3) keeping production at home supports downstream jobs in logistics, framing, installation, and equipment maintenance."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The trade dispute is economically inefficient because it protects incumbent US producers at the expense of cheaper solar deployment and Ethiopia’s development opportunity.",
+          "mechanisms": [
+            "First, it raises consumer and installer costs. One, imported panels are often cheaper than domestic alternatives, so blocking them increases project costs; two, higher costs slow solar adoption and reduce the pace of decarbonization; three, the burden falls on households, utilities, and public procurement budgets.",
+            "Second, it denies Ethiopia a legitimate industrialization pathway. One, export manufacturing is one of the few scalable routes for low-income countries to move up the value chain; two, challenging that pathway entrenches dependency on raw-material exports and low-productivity sectors; three, it reinforces global inequality by reserving advanced manufacturing for rich states.",
+            "Third, trade remedies often protect politically connected firms rather than genuine competitiveness. One, incumbent producers have incentives to use legal disputes to delay rivals instead of innovating; two, this can lock in inefficient firms and reduce pressure to improve technology or cut costs; three, consumers and climate goals lose while a narrow industry segment gains."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between industrial resilience and consumer/climate efficiency. Prop wins if the round prioritizes strategic supply chains and the long-run survival of domestic manufacturing; opp wins if the judge cares more about cheaper decarbonization and development pathways for poorer states.",
+      "stock_connections": [
+        "Race to the Bottom",
+        "Infant Industry Protection",
+        "Protectionism",
+        "Comparative Advantage",
+        "Dependency Theory",
+        "Industrial Policy",
+        "Green Industrial Policy",
+        "Trade Diversion"
+      ],
+      "motion_areas": [
+        "TH, as the US, would impose trade remedies against low-cost solar imports from developing countries",
+        "THBT developed countries should prioritize domestic clean-tech manufacturing over cheap imports",
+        "THP a world where solar supply chains are protected by aggressive trade enforcement"
+      ],
+      "data_points": [
+        "Hanwha Q Cells operates a solar manufacturing facility in Dalton, Georgia, illustrating the US cleantech manufacturing base at stake",
+        "The article is dated 2026-05-12 and concerns a formal trade dispute filed by US solar manufacturers",
+        "Georgia is described as a hub of cleantech manufacturing and a political swing state, indicating the domestic political salience of solar jobs"
+      ]
+    },
+    {
+      "id": "11e3d8795480",
+      "title": "Australia Uses Bondi Attack Budget to Expand Security Spending, Gun Reform, and Antisemitism Prevention",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/13/australia-federal-budget-2026-funding-for-jewish-security-bondi-ntwnfb",
+      "published": "2026-05-12T15:00:50Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Australia’s 2026 federal budget allocates more than A$604m over five years in response to the December Bondi Beach terror attack, with about A$300m directed to Australia’s Jewish community and affected institutions. The package includes A$124m for the Executive Council of Australian Jewry for security, A$131m for Jewish community projects, A$43m for mental health support, A$68m for the Australian Federal Police, and A$80m for an online counter-terrorism centre. The government also signalled support for a national gun buyback, but did not disclose the amount because negotiations with state governments are still ongoing.",
+      "prop_args": [
+        {
+          "thesis": "The budget response is justified because it converts a mass-casualty hate crime into a long-term security and social cohesion investment rather than treating it as a one-off compensation payment.",
+          "mechanisms": [
+            "First, it reduces the probability of repeat attacks. This is because (1) A$124m for community security directly hardens vulnerable sites, (2) A$68m for AFP investigative capacity improves detection and disruption of extremist networks, and (3) the A$80m online centre targets youth radicalisation before it becomes operational violence.",
+            "Second, it restores trust in state protection for a targeted minority. Three reasons: one, visible funding signals that the government treats antisemitic violence as a national-security threat rather than a private grievance; two, support for victims, charities, and community institutions lowers the burden on civil society to self-fund protection; three, mental health and recovery funding helps communities remain socially and economically active after trauma.",
+            "Third, it can generate broader public goods beyond the Jewish community. This matters because (1) antisemitism prevention campaigns and education programs can reduce hate spillovers against other minorities, (2) gun reform and visa/firearms controls can lower general violent-crime risk, and (3) social cohesion spending can reduce polarization that otherwise imposes long-run governance and policing costs."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The package risks being an inefficient, politically selective use of public funds that over-prioritizes symbolic security spending over universal prevention and equal treatment.",
+          "mechanisms": [
+            "First, it may create distributive unfairness and backlash. One, concentrating A$300m on one community can trigger perceptions of favoritism and deepen intergroup resentment; two, other victims of hate crime or terrorism may be seen as less worthy of state support; three, that resentment can itself undermine social cohesion and make counter-hate policy harder to sustain.",
+            "Second, it may be a low-value substitute for structural reform. One, security hardening treats symptoms rather than the drivers of radicalisation, online hate, and firearm access; two, if gun buyback funding is delayed or politically constrained, the package becomes mostly reactive spending after the fact; three, public money could have higher marginal returns if spent on universal mental health, policing, or youth services rather than bespoke community protection.",
+            "Third, the budget can entrench securitisation and state overreach. One, expanding online monitoring and counter-terror infrastructure risks normalising surveillance of young people and minority communities; two, visa and firearms controls can be applied in ways that are blunt or discriminatory; three, once emergency funding is established, governments may prefer visible security theatre over harder but more effective political solutions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the spending is treated as targeted harm reduction after a specific terror attack or as an inefficient, politicised allocation that crowds out broader prevention. Prop wins if the round prioritises immediate protection and restoring confidence in the state; opp wins if the round emphasizes fairness, marginal returns, and the risk that securitised responses entrench the underlying problem.",
+      "stock_connections": [
+        "Securitisation",
+        "Collective Punishment",
+        "Moral Hazard",
+        "Social Cohesion",
+        "Counter-Radicalisation",
+        "State Capacity",
+        "Distributive Justice",
+        "Surveillance Creep",
+        "Emergency Politics"
+      ],
+      "motion_areas": [
+        "TH, as the Australian government, would allocate targeted post-terror funding to vulnerable communities",
+        "THBT governments should prioritize community security spending over universal anti-hate interventions after terror attacks",
+        "THP a world where states fund counter-radicalisation and online safety centers after domestic terror incidents"
+      ],
+      "data_points": [
+        "A$604m total package over five years from 2025-26",
+        "A$300m for Australia’s Jewish community and directly affected groups",
+        "A$124m for the Executive Council of Australian Jewry, including A$22m from confiscated criminal assets",
+        "A$131m for the Bondi-related royal commission",
+        "A$43m for mental health support",
+        "A$80m for an online counter-terrorism centre",
+        "A$68m for the Australian Federal Police",
+        "A$1m for e-safety commissioner online safety advice on antisemitism",
+        "A$500,000 for Lewis’ Continental Kitchen recovery",
+        "A$200,000 for Bondi surf lifesaving clubs"
+      ]
+    },
+    {
+      "id": "f148aa78d769",
+      "title": "Services, Not Manufacturing, May Be the Better Growth Path for Developing Economies",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/services-not-manufacturing-best-hope-for-developing-countries-by-dani-rodrik-2026-05",
+      "published": "2026-05-12T14:33:09Z",
+      "category": "Econ",
+      "region": "Developing countries (global)",
+      "background": "In a May 12, 2026 Project Syndicate column, Dani Rodrik revisits his earlier argument for industrialization and says he has become more skeptical that manufacturing is the best development path. He argues that manufacturing used to be a strong \"economic escalator\" because it could absorb large numbers of low-skilled workers and required relatively limited governance and infrastructure. The new claim is that services may now be able to deliver the productivity growth needed to sustain a robust middle class.",
+      "prop_args": [
+        {
+          "thesis": "Developing countries should stop treating manufacturing-led industrialization as the default development model and instead prioritize scalable, high-productivity services.",
+          "mechanisms": [
+            "First, services can now generate productivity growth without the old manufacturing preconditions. This is because (1) digitalization allows firms to sell across borders with far lower fixed costs, (2) many service sectors can scale through software and networks rather than heavy capital investment, and (3) governments do not need to build the same level of ports, power, and industrial logistics before firms can expand.",
+            "Second, services can create a more realistic path to middle-class jobs in economies that have already missed the classic manufacturing window. Three reasons: one, global manufacturing is increasingly automated, so late industrializers face weaker labor absorption; two, China and other incumbents make export-led factory growth harder to replicate; three, tradable services like IT, finance, design, and business process outsourcing can still earn foreign exchange and raise wages.",
+            "Third, this strategy can be more inclusive and less vulnerable to premature deindustrialization. This matters because manufacturing no longer guarantees mass employment, whereas service sectors can spread gains through urban labor markets, female employment, and small-firm ecosystems, making growth politically sustainable even if it is less visibly 'industrial.'"
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Manufacturing remains the most reliable engine of structural transformation because it still uniquely combines scale, exportability, and broad-based job creation.",
+          "mechanisms": [
+            "First, manufacturing still has stronger spillovers than most services. One, factory production creates supplier networks in transport, packaging, maintenance, and inputs; two, it transfers know-how through learning-by-doing and managerial upgrading; three, it is easier to measure and tax, which helps states build capacity.",
+            "Second, services are often too skill-intensive or too concentrated in urban elites to solve mass development. One, many tradable services require education and connectivity that poorer countries lack; two, high-productivity services can become enclave sectors with limited employment multipliers; three, they may widen inequality by benefiting already-educated workers and capital owners.",
+            "Third, manufacturing has historically been the main route into global value chains for late developers. This matters because (1) export-oriented factories can discipline firms through international competition, (2) they provide foreign exchange at scale, and (3) they allow countries to climb from simple assembly into more complex production over time."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the world still offers developing countries a realistic manufacturing ladder. Prop wins if the panel believes automation, China, and infrastructure constraints have collapsed that ladder; opp wins if they can show manufacturing still has superior employment multipliers and broader spillovers. The key clash is not 'services good vs manufacturing bad,' but which sector is more scalable for mass development under current global conditions.",
+      "stock_connections": [
+        "Structural Transformation",
+        "Premature Deindustrialization",
+        "Comparative Advantage",
+        "Dutch Disease",
+        "Lewis Model",
+        "Middle-Income Trap",
+        "Global Value Chains",
+        "Informal Economy",
+        "Skill-Biased Technological Change",
+        "Dependency Theory"
+      ],
+      "motion_areas": [
+        "TH, as a developing country, would prioritize services over manufacturing as its main development strategy",
+        "THBT developing nations should abandon industrial policy centered on manufacturing",
+        "THP a world where development finance is redirected from factories to tradable services",
+        "THBT the future of economic convergence lies in services, not industrialization"
+      ],
+      "data_points": [
+        "The article is dated 2026-05-12 and is a reflection on a 15-year-old earlier column titled 'The Manufacturing Imperative.'",
+        "Manufacturing is described as having historically employed large numbers of low-skilled workers while requiring limited governance and infrastructure from low-income countries.",
+        "The author explicitly frames services as potentially capable of delivering the productivity growth needed to support a robust middle class."
+      ]
+    },
+    {
+      "id": "01c0fe70cc09",
+      "title": "Civilian Flotillas Turn Gaza Aid Access Into a Direct Test of Maritime Blockade Legitimacy",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/witness/2026/5/12/the-flotilla-diaries-inside-the-2025-mission-to-break-the-gaza-siege?traffic_source=rss",
+      "published": "2026-05-12T14:30:00Z",
+      "category": "IR",
+      "region": "Gaza / Israel / Palestine; Mediterranean (Barcelona, Tunis, Sicily)",
+      "background": "In September 2025, the Global Sumud Flotilla departed from Barcelona, Tunis, and Sicily with around 50 civilian vessels aiming to deliver aid and open a humanitarian corridor to Gaza. The flotilla included international participants, including Mexican filmmaker Carlos Perez aboard the Hio and Australian filmmaker Juliet Lamont aboard the Wahoo. As the boats approached Gaza, Israel warned they were entering an active combat zone; the flotilla continued anyway. According to the filmmakers' testimony, the vessels were hit by water cannons, some ships disappeared from radar, and crew members were arrested, intimidated, abused, and imprisoned.",
+      "prop_args": [
+        {
+          "thesis": "Blocking or intercepting civilian aid flotillas entrenches the siege, worsens humanitarian suffering, and damages Israel's international legitimacy more than it improves security.",
+          "mechanisms": [
+            "First, the interception directly reduces aid delivery and keeps Gaza's civilian population dependent on a restricted land route. This is because (1) the flotilla was explicitly organized to deliver humanitarian supplies, (2) stopping it prevents even symbolic or partial relief from reaching civilians, and (3) repeated interdictions normalize a system where access to food, medicine, and basic goods is controlled through coercive force rather than humanitarian need.",
+            "Second, the operation creates a global legitimacy cost for Israel by turning a humanitarian mission into a visible confrontation. Three reasons: one, civilian activists and foreign nationals are easier to frame as non-combatants than armed threats; two, footage of water cannons, disappearances from radar, and arrests travels instantly and shapes public opinion; three, the more Israel uses force against aid convoys, the more it reinforces the narrative that the blockade is collective punishment rather than a security measure.",
+            "Third, the crackdown can backfire strategically by expanding the coalition against the blockade. This matters because (1) the presence of international filmmakers and activists internationalizes the issue, (2) arrests and alleged abuse create martyrs and mobilization material for pro-Palestinian networks, and (3) the more states and civil society actors see humanitarian access being criminalized, the more pressure builds for sanctions, investigations, or diplomatic isolation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel is justified in stopping the flotilla because allowing it through would undermine maritime security and create a dangerous precedent for bypassing lawful blockade enforcement.",
+          "mechanisms": [
+            "First, the flotilla can be treated as a security risk in an active war zone. One, Israel had already warned the boats they were entering an active combat zone; two, civilian vessels approaching a blockaded area can be used to smuggle weapons, intelligence, or personnel; three, if the state cannot inspect and control maritime access, the blockade becomes unenforceable in practice.",
+            "Second, permitting the flotilla would incentivize repeated provocations and weaken deterrence. One, activist groups would learn that mass civilian voyages can force political concessions; two, every successful breach would encourage larger or more frequent attempts; three, the result is a permanent cat-and-mouse dynamic that increases the chance of naval confrontation and civilian harm.",
+            "Third, the humanitarian framing does not erase the state's duty to protect itself during conflict. One, aid can be routed through established channels rather than unilateral activist missions; two, if the mission is coordinated outside official mechanisms, the state cannot verify cargo or participants; three, a blockade is most defensible when the state shows it will actually stop unauthorized entries, even if that creates negative optics."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether humanitarian necessity outweighs security control over maritime access. Prop wins if the round is framed around civilian suffering and the symbolic illegitimacy of collective punishment; Opp wins if the judge prioritizes wartime enforcement and the precedent that humanitarian branding cannot nullify a blockade.",
+      "stock_connections": [
+        "Collective Punishment",
+        "Humanitarian Intervention",
+        "Blockade Legitimacy",
+        "Security vs Human Rights Tradeoff",
+        "International Law and Enforcement",
+        "Civil Resistance",
+        "Soft Power and Legitimacy",
+        "Escalation Dynamics"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would allow civilian aid flotillas to reach Gaza",
+        "THBT states should not intercept civilian humanitarian flotillas in active conflict zones",
+        "THP a world where NGOs can bypass state blockades to deliver aid by sea",
+        "THBT humanitarian access should take precedence over maritime blockade enforcement"
+      ],
+      "data_points": [
+        "Global Sumud Flotilla launched in September 2025",
+        "Around 50 civilian vessels participated in the flotilla",
+        "The flotilla departed from Barcelona, Tunis, and Sicily",
+        "Two named participants were Carlos Perez (Mexico) on the Hio and Juliet Lamont (Australia) on the Wahoo",
+        "Israel warned the boats they were entering an active combat zone",
+        "Reported tactics included water cannons, ships disappearing from radar, arrests, intimidation, abuse, and imprisonment"
+      ]
+    },
     {
       "id": "5b79a039f1ec",
       "title": "Trump Uses Ambassadorship to Sideline a Failed Media-Cleanup Appointee and Tighten Political Control Over US Soft Power",
