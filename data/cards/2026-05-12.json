@@ -1,7 +1,1223 @@
 {
   "date": "2026-05-12",
-  "last_updated": "2026-05-12T03:58:55Z",
+  "last_updated": "2026-05-12T08:55:40Z",
   "cards": [
+    {
+      "id": "ec076622f6ef",
+      "title": "Israel’s Military Tribunal for Oct. 7 Suspects Raises the Tradeoff Between Security Justice and Due Process",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5818455/israel-to-hold-military-tribunal-for-palestinians-accused-in-2023-hamas-led-attacks",
+      "published": "2026-05-12T08:43:44Z",
+      "category": "IR",
+      "region": "Israel / Palestinian territories",
+      "background": "Israel is planning a military tribunal to prosecute several hundred Palestinians accused of taking part in the Hamas-led attacks of Oct. 7, 2023. The move comes more than two years after the attacks, which killed roughly 1,200 people in Israel and triggered the Gaza war. The article indicates that the tribunal would be used for suspects linked to one of the most politically and legally sensitive cases in the conflict.",
+      "prop_args": [
+        {
+          "thesis": "A military tribunal is a necessary wartime justice mechanism that allows Israel to punish mass-casualty attackers when ordinary civilian courts are too slow, too vulnerable, or too ill-suited to handle security cases.",
+          "mechanisms": [
+            "First, it improves state capacity to process large numbers of suspects quickly. This is because (1) hundreds of accused individuals create a backlog that civilian courts cannot absorb without years of delay, (2) military courts can centralize evidence from battlefield detention, intelligence, and security agencies, and (3) faster adjudication reduces the chance that dangerous suspects remain in limbo indefinitely.",
+            "Second, it protects national security and witnesses. Three reasons: one, Oct. 7 cases likely involve classified intelligence and operational details that cannot be aired in open civilian proceedings, two, military judges are structurally better placed to handle chain-of-command and terrorism evidence, and three, the tribunal can reduce risks of intimidation, escape, or coordinated obstruction by organized networks.",
+            "Third, it signals deterrence and restores public confidence after a mass atrocity. This matters because (1) victims and the Israeli public need visible accountability, (2) failure to prosecute would create the perception that mass attacks can be committed without consequence, and (3) a formal tribunal helps the state claim it is responding through law rather than pure revenge, which can preserve legitimacy domestically and internationally."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A military tribunal for Palestinians accused of Oct. 7 crimes is likely to become a politicized due-process failure that weakens Israel’s legitimacy and entrenches the conflict rather than delivering justice.",
+          "mechanisms": [
+            "First, military courts structurally lower procedural safeguards. One, defendants are more likely to face restricted access to counsel, evidence, and independent review, two, the same state that was attacked is also the investigator, prosecutor, and judge in practical terms, and three, that creates a high risk of coerced confessions or convictions that are later challenged as illegitimate.",
+            "Second, the tribunal will deepen perceptions of collective punishment and occupation. One, trying hundreds of Palestinians in a military forum blurs the line between individual guilt and group identity, two, it reinforces the idea that Palestinians are governed by a separate and inferior legal regime, and three, that fuels radicalization by strengthening narratives that legal institutions are just tools of domination.",
+            "Third, it may damage Israel’s international standing and long-term security. One, rights groups and foreign governments can cite the tribunal as evidence of unequal justice, two, weak legitimacy makes any convictions harder to defend in international forums and diplomacy, and three, if the process is seen as unfair it can become a recruitment and propaganda win for militant groups rather than a deterrent."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate security throughput and long-term legitimacy. Prop wins if the judge prioritizes rapid incapacitation and wartime governance; opp wins if they show that a tribunal perceived as biased will produce brittle convictions, deepen grievance, and ultimately undermine the very security it claims to protect.",
+      "stock_connections": [
+        "Rule of Law vs Security",
+        "Collective Punishment",
+        "State Legitimacy",
+        "Counterterrorism and Civil Liberties",
+        "Military Justice",
+        "Radicalization",
+        "Transitional Justice",
+        "Due Process"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would prosecute Oct. 7 suspects in military rather than civilian courts",
+        "THBT states should use military tribunals for mass-casualty terrorism cases",
+        "THP a world where wartime atrocities are tried by military courts",
+        "THBT counterterrorism suspects should be tried in special security courts"
+      ],
+      "data_points": [
+        "Israel is planning to prosecute 'several hundred Palestinians' in the tribunal",
+        "The suspects are accused of involvement in the Oct. 7, 2023 Hamas-led attacks",
+        "Oct. 7 attacks killed about 1,200 people in Israel",
+        "The tribunal is being proposed more than two years after the attacks"
+      ]
+    },
+    {
+      "id": "6b788c906eb6",
+      "title": "UK Bond Market Revolt Turns Leadership Crisis Into a Fiscal Credibility Test",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
+      "published": "2026-05-12T08:30:28Z",
+      "category": "Econ",
+      "region": "UK",
+      "background": "UK long-term borrowing costs rose to their highest level since May 1998, with 30-year gilt yields jumping 11 basis points to 5.794% and 10-year yields rising to 5.11%. The move came as more than 70 Labour MPs publicly called for Keir Starmer to quit, cabinet ministers urged him to go, and investors worried that any replacement could loosen fiscal rules and increase public spending. The pound fell 0.5% to $1.354, the FTSE 100 dropped nearly 1%, and bank shares sold off as markets also priced in higher inflation from rising oil prices and renewed geopolitical risk around Iran and the Strait of Hormuz.",
+      "prop_args": [
+        {
+          "thesis": "Political instability in a highly indebted economy rapidly translates into higher borrowing costs, weaker currency performance, and tighter fiscal constraints.",
+          "mechanisms": [
+            "First, leadership uncertainty raises the risk premium on government debt. This is because (1) investors cannot price the next government's fiscal stance, (2) they fear a shift away from fiscal rules toward higher spending, and (3) long-dated bonds are most sensitive to uncertainty about future deficits and inflation.",
+            "Second, higher gilt yields feed directly into a broader macro squeeze. Three reasons: one, the state pays more to refinance debt and issue new borrowing; two, mortgage and corporate borrowing costs tend to follow sovereign yields upward; three, the pound weakens as foreign capital demands a higher return or exits altogether.",
+            "Third, the market reaction disciplines future policy and limits room for populism. This matters because a bond sell-off forces any incoming leadership to choose between credibility and spending promises, making it harder to pursue unfunded expansion without immediate financial punishment."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The market reaction is a short-term panic driven by uncertainty, not proof that a more left-leaning government would necessarily damage the economy.",
+          "mechanisms": [
+            "First, bond markets often overreact to political transitions before any actual policy change. One, traders price headlines and worst-case scenarios immediately; two, yields can normalize once a new leadership team clarifies its fiscal stance; three, a managed exit can reduce uncertainty faster than a prolonged internal party war.",
+            "Second, higher public spending is not automatically fiscally reckless. One, if it is targeted at growth-enhancing investment, it can raise tax receipts over time; two, stronger demand can support employment and revenues in a weak economy; three, the UK’s borrowing costs are also being pushed up by external inflation shocks from energy prices, not just politics.",
+            "Third, the real economic damage may come from austerity and instability, not from a modest shift in fiscal rules. One, underinvestment can depress productivity and growth; two, weaker growth worsens debt dynamics anyway; three, a leadership change that restores political legitimacy could improve medium-term confidence even if markets initially dislike it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether markets are reacting to temporary uncertainty or to a durable shift in fiscal credibility. Prop wins if you think long-dated debt pricing is a forward-looking referendum on future spending and inflation; opp wins if you think the sell-off is mostly a headline shock that fades once a new leader signals discipline.",
+      "stock_connections": [
+        "Bond Vigilantes",
+        "Fiscal Credibility",
+        "Market Confidence",
+        "Capital Flight",
+        "Inflation Expectations",
+        "Political Risk Premium",
+        "Austerity vs Stimulus",
+        "Debt Sustainability",
+        "Currency Crisis"
+      ],
+      "motion_areas": [
+        "TH, as the UK Labour Party, would prioritize fiscal credibility over internal ideological purity",
+        "THBT governments should never loosen fiscal rules during periods of market stress",
+        "THP a world where bond markets can punish governments for political instability",
+        "THBT left-wing parties should moderate their economic agenda to reassure financial markets"
+      ],
+      "data_points": [
+        "30-year UK gilt yield rose 11 basis points to 5.794%, the highest since May 1998",
+        "10-year UK gilt yield rose 11 basis points to 5.11%, near the highest since 2008",
+        "Pound fell 0.5% to $1.354 and 0.3% against the euro to 86.8p",
+        "FTSE 100 fell nearly 1%; Barclays dropped 4%, NatWest and Lloyds fell more than 3%",
+        "More than 70 Labour MPs publicly called for Keir Starmer to quit",
+        "Brent crude rose 2.7% to $106 a barrel; WTI rose to $99.06 a barrel",
+        "About one-fifth of global oil and LNG flows normally pass through the Strait of Hormuz"
+      ]
+    },
+    {
+      "id": "03245899150a",
+      "title": "Starmer Leadership Crisis Tests Whether Political Stability or Renewal Better Serves a Governing Party",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/12/darren-jones-keir-starmer-future-labour-leader",
+      "published": "2026-05-12T08:24:13Z",
+      "category": "IR",
+      "region": "UK",
+      "background": "Miatta Fahnbulleh became the first Labour minister to resign from Keir Starmer’s government, calling on the prime minister to quit and set a timetable for an orderly transition. More than 70 Labour MPs have publicly urged Starmer to stand down after poor local election results across England, Wales and Scotland, while senior cabinet figures including Shabana Mahmood, Yvette Cooper, John Healey and David Lammy reportedly discussed the leadership question with him on Monday. Starmer said on Monday he would not resign and would fight any leadership challenge, while Darren Jones said the king’s speech would still go ahead on Wednesday and the government would continue its legislative programme.",
+      "prop_args": [
+        {
+          "thesis": "Starmer should resign or set a clear transition timetable because a leader who has lost party and public confidence becomes a liability to governing effectiveness and electoral recovery.",
+          "mechanisms": [
+            "First, a leadership reset can restore credibility with voters and MPs. This is because (1) the local election losses created a visible signal that the current brand is failing, (2) public resignations from ministers turn private dissatisfaction into a durable narrative of collapse, and (3) a new leader can credibly claim a break from unpopular decisions without forcing the party to defend the same figure at the next election.",
+            "Second, an orderly transition reduces internal paralysis. Three reasons: one, when over 70 MPs are already publicly calling for a change, the leadership spends time managing rebellion instead of governing; two, cabinet ministers are already split between transition and fight-on camps, which weakens discipline and message control; three, a planned handover is less damaging than a prolonged civil war that bleeds into the king’s speech, policy rollout, and media cycle.",
+            "Third, replacing the leader can improve the party’s strategic positioning in a fragmented five-party system. This matters because a new leader can reframe Labour as responsive and adaptive, blunt the appeal of populist challengers by showing competence, and avoid entering the next election with a damaged incumbent whose personal unpopularity becomes the central issue."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Starmer should stay because leadership stability is necessary to govern, pass legislation, and avoid handing the country a deeper crisis.",
+          "mechanisms": [
+            "First, removing a sitting prime minister creates immediate governing chaos. (1) Labour still has to deliver the king’s speech and a legislative programme, (2) a leadership contest would consume ministerial attention and media bandwidth, and (3) opponents and markets would read the turmoil as proof that Labour cannot govern, which is especially costly during a security and economic crisis.",
+            "Second, the party may recover more through delivery than replacement. (1) The election losses may reflect local protest voting rather than a permanent rejection of Starmer, (2) many MPs still want to focus on implementing Labour policies rather than fighting internally, and (3) a leader change does not guarantee better policy or popularity, but it does guarantee a period of uncertainty that can further damage trust.",
+            "Third, forcing out a prime minister normalizes instability and weakens the party’s long-term authority. (1) Starmer can argue that Labour must not repeat the Conservatives’ pattern of rapid leader turnover, (2) a public ousting rewards factional brinkmanship and encourages future coups, and (3) if the public sees Labour as unable to hold its own leader, it undermines the party’s claim to be the responsible alternative to chaos."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the marginal gain from a leadership reset outweighs the immediate cost of instability. Pro-resignation wins if you think Starmer is already electorally toxic; opposition wins if you think governing competence and continuity matter more than short-term optics, especially with a legislative agenda and crisis management already underway.",
+      "stock_connections": [
+        "Leadership legitimacy",
+        "Party unity",
+        "Political capital",
+        "Electoral mandate",
+        "Incumbency advantage",
+        "Crisis management",
+        "Factionalism",
+        "Governance vs electability"
+      ],
+      "motion_areas": [
+        "TH, as Labour, would replace Keir Starmer before the next general election",
+        "THBT political parties should remove leaders who lose major local elections",
+        "THP a world where governing parties prioritize internal stability over rapid leadership change"
+      ],
+      "data_points": [
+        "More than 70 Labour MPs have publicly called for Starmer to stand down",
+        "Miatta Fahnbulleh became the first minister to resign from Starmer’s government",
+        "The article says Labour has over 400 MPs in the House of Commons",
+        "Starmer said on Monday he would not resign and would fight any leadership challenge",
+        "The king’s speech was due to go ahead on Wednesday despite the crisis",
+        "Cabinet ministers reportedly discussed an orderly transition on Monday, including Shabana Mahmood, Yvette Cooper, John Healey and David Lammy"
+      ]
+    },
+    {
+      "id": "5ced8cda5d2a",
+      "title": "Trump-Xi Summit Tests Whether Great-Power Personal Diplomacy Can Contain a Deepening US-China Rivalry",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/trump-and-xi-a-recap-of-talks-between-two-of-the-worlds-most-powerful-men?traffic_source=rss",
+      "published": "2026-05-12T08:08:56Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan / Iran",
+      "background": "US President Donald Trump is set to visit China this week for a three-day summit with Chinese President Xi Jinping, their seventh face-to-face meeting since 2017 and the first visit by a US leader to China since 2017. The talks are expected to focus on the US-Israel war on Iran, trade, and Taiwan, against the backdrop of a tariff war that previously reached 145 percent US duties and 125 percent Chinese duties before a one-year pause was announced after their October 30, 2025 meeting in Busan. The article reviews six prior encounters, including the 2018-19 trade escalation, the 2019 phase-one deal, and the 2025 truce in which China agreed to ease some rare-earth export controls and resume US agricultural purchases.",
+      "prop_args": [
+        {
+          "thesis": "Direct leader-to-leader engagement reduces the risk of uncontrolled escalation between the US and China by creating a channel for tactical bargains, crisis management, and face-saving de-escalation.",
+          "mechanisms": [
+            "First, personal summits create a rapid crisis-management channel. This is because (1) both sides can negotiate around domestic bureaucratic hardliners, (2) leaders can trade symbolic concessions for immediate stability, and (3) direct contact lowers the chance that ambiguous signals are misread as preparation for coercion or conflict.",
+            "Second, the summit format enables narrow but valuable bargains on high-stakes issues. Three reasons: one, trade disputes can be paused through tariff rollbacks and purchase commitments; two, export controls like rare earth restrictions can be eased in exchange for market access or agricultural purchases; three, even without a grand bargain, temporary truces buy time for firms and militaries to adapt, reducing shock-driven escalation.",
+            "Third, the talks matter because they can compartmentalize Taiwan and Iran rather than letting them contaminate the entire relationship. This matters because a stable overall channel makes it easier to keep disputes bounded, preventing one flashpoint from triggering retaliation across trade, technology, and security domains."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Personal diplomacy between Trump and Xi is mostly performative and cannot resolve the structural drivers of US-China rivalry, while often legitimizing coercive behavior and delaying real adjustment.",
+          "mechanisms": [
+            "First, the meetings do not change underlying incentives. One, the trade war resumed after earlier summits despite 'tremendous progress' rhetoric; two, the 2019 phase-one deal did not produce durable compliance, with China missing purchase commitments; three, both states still use tariffs, export controls, and tech restrictions as strategic tools regardless of summit outcomes.",
+            "Second, leader-level optics can actually entrench bad policy. One, both sides can claim victory at home without making substantive concessions; two, the spectacle of a summit can mask continued escalation in sector-specific tariffs and technology controls; three, personal rapport encourages overreliance on ad hoc deals instead of institutional guardrails, making future breakdowns more likely.",
+            "Third, the summit can worsen security risks by mixing unrelated issues. One, bundling trade with Taiwan and the Iran war invites side payments and coercive bargaining over core sovereignty questions; two, if either side interprets compromise as weakness, it may escalate elsewhere to restore deterrence; three, this creates a precedent that major security disputes are negotiable in exchange for economic relief, which is strategically destabilizing."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term crisis management and long-term structural rivalry. Pro wins if the question is whether summits can prevent immediate escalation; opp wins if the question is whether they can meaningfully alter the trajectory of US-China competition, because the article itself shows repeated deals followed by renewed tariffs and controls.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Transactional Diplomacy",
+        "Deterrence",
+        "Trade War",
+        "Interdependence as Peace",
+        "Summit Diplomacy",
+        "Bargaining Theory",
+        "Credibility and Signaling"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize leader-level summits with China over institutional containment",
+        "THBT direct personal diplomacy between rival superpowers is more effective than bureaucratic negotiation",
+        "THP a world where US-China disputes are managed through recurring leader summits",
+        "THBT the US should trade tariff relief for Chinese cooperation on security flashpoints",
+        "THBT great-power summits do more harm than good in managing strategic rivalry"
+      ],
+      "data_points": [
+        "Trump and Xi have met six times since 2017; the 2026 China visit is their seventh face-to-face meeting",
+        "This is the first trip by a US leader to China since 2017",
+        "The October 30, 2025 Busan meeting followed a tariff war that briefly saw US duties at 145 percent and Chinese duties at 125 percent",
+        "After Busan, the US and China announced a one-year pause in the trade war",
+        "The 2019 phase-one deal included a Chinese pledge to buy $200bn worth of US goods and services",
+        "China imposed tariffs on $110bn worth of US goods during the 2018 escalation",
+        "The Trump administration imposed tariffs on $250bn worth of Chinese goods in 2018",
+        "The 2017 summit produced claims of $250m in 'business deals' spanning energy, agriculture, and technology"
+      ]
+    },
+    {
+      "id": "c199aef9e108",
+      "title": "Labour’s Economic Split Signals a Battle Over Austerity, Borrowing, and the Party’s Growth Model",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/12/labour-economy-mps-tribune-group-keir-starmer",
+      "published": "2026-05-12T08:00:18Z",
+      "category": "Econ",
+      "region": "UK",
+      "background": "On 12 May 2026, a group of influential Labour MPs from the soft-left Tribune faction published essays arguing the party needs an urgent economic reset before the next general election. The essays, published in the Renewal journal, called for higher taxes on wealth, more borrowing for investment, and a rewrite of Rachel Reeves’s fiscal rules from a 5-year debt target to a 10-year target. The intervention comes after Labour’s heavy local election losses and amid open pressure on Keir Starmer to set a departure timetable, with more than 70 Labour MPs reportedly urging him to do so.",
+      "prop_args": [
+        {
+          "thesis": "Labour must loosen fiscal rules and tax wealth more aggressively if it wants to restore growth, credibility, and political legitimacy.",
+          "mechanisms": [
+            "First, a more flexible fiscal framework unlocks productive public investment. This is because (1) a 10-year debt target gives government room to borrow for infrastructure and energy support without being forced into short-term cuts, (2) investment spending has higher long-run multipliers than day-to-day austerity, and (3) markets care more about debt sustainability over time than arbitrary annual targets, so credible long-run rules can coexist with higher near-term borrowing.",
+            "Second, shifting the tax burden toward wealth and property improves both fairness and efficiency. Three reasons: one, wealth and capital gains are less distortionary to tax than labour income and consumption, two, scrapping stamp duty and replacing it with a proportional property tax reduces deadweight losses in housing transactions, and three, higher taxes on unearned gains help Labour show voters it is redistributing from asset-rich households to cash-strapped workers.",
+            "Third, visible cost-of-living intervention is politically necessary to prevent anti-incumbent collapse. This matters because (1) energy bills and transport costs are immediate household pain points, (2) targeted relief like free bus fares and minimum energy guarantees creates tangible gains that voters can feel before the next election, and (3) if Labour cannot show material improvement, it loses the narrative that it is governing for ordinary households rather than fiscal orthodoxy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Labour should keep fiscal discipline and avoid a leftward economic lurch because markets, credibility, and internal coherence matter more than symbolic radicalism.",
+          "mechanisms": [
+            "First, loosening fiscal rules risks spooking bond markets and raising borrowing costs. One, investors already worry about higher debt and inflation after years of macro volatility, two, a visible shift toward more borrowing can trigger higher gilt yields and make every future spending plan more expensive, and three, once debt service rises, the government has less room for the very investment it wants to fund.",
+            "Second, tax-and-spend radicalism may not deliver growth fast enough to matter electorally. One, structural reforms to planning, skills, and productivity take years, two, voters may experience higher taxes before any benefits arrive, and three, if the economy underperforms, Labour will be blamed for breaking promises rather than for being too cautious.",
+            "Third, internal party conflict itself is a major economic cost. One, leadership speculation distracts from policy delivery, two, public factional warfare undermines investor and business confidence, and three, if Labour is seen as unstable, it weakens the government’s ability to pass any serious growth agenda at all."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term political salience and long-term macro credibility. Prop wins if the round is about whether Labour can generate visible growth and voter trust through investment and redistribution; Opp wins if the judge prioritizes market confidence and the risk that fiscal looseness backfires before any benefits materialize.",
+      "stock_connections": [
+        "Austerity vs stimulus",
+        "Fiscal credibility",
+        "Debt sustainability",
+        "Redistribution",
+        "Deadweight loss",
+        "Political legitimacy",
+        "Anti-incumbency",
+        "Growth vs stability",
+        "Internal party cohesion",
+        "Populist backlash"
+      ],
+      "motion_areas": [
+        "TH, as a centre-left government, would loosen fiscal rules to prioritize investment over debt reduction",
+        "THBT left-wing parties should campaign on wealth taxes and expanded public spending even at the risk of market backlash",
+        "THP a world where governments can borrow more aggressively for cost-of-living relief and infrastructure",
+        "THBT Labour should replace short-term fiscal targets with long-term debt sustainability rules"
+      ],
+      "data_points": [
+        "More than 70 Labour MPs have urged Keir Starmer to set out a timetable for his departure",
+        "The Tribune group called for replacing a 5-year debt target with a 10-year debt target",
+        "The essays were published after Labour suffered crushing defeats in local elections across Britain last week",
+        "Haigh proposed scrapping stamp duty and replacing it with a proportional property tax and reformed council tax",
+        "Yang proposed a free minimum energy guarantee modelled on Austria, plus free bus fares for under-25s and universal credit recipients",
+        "The intervention was published in Renewal, overseen by Compass, a progressive thinktank linked to Andy Burnham"
+      ]
+    },
+    {
+      "id": "9e31a28f486b",
+      "title": "Hormuz Closure Turns Middle East Conflict Into a Global Input-Price Shock",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T07:46:47Z",
+      "category": "Econ",
+      "region": "Japan / Middle East (Strait of Hormuz) / Asia",
+      "background": "Japanese snack giant Calbee said it will temporarily switch 14 products, including crisps and prawn crackers, to black-and-white packaging from 25 May because supplies of an ingredient used in ink have been disrupted. The disruption follows the Iran war, after Iran effectively closed the Strait of Hormuz in retaliation for US and Israeli strikes on 28 February. Since then, oil and gas prices have surged, naphtha prices in Asia have almost doubled, and Japanese officials said around 40% of Japan's naphtha had previously been imported from the Middle East.",
+      "prop_args": [
+        {
+          "thesis": "A chokepoint shock in the Strait of Hormuz exposes how dependent modern economies are on fragile Middle Eastern supply chains, forcing firms and governments to diversify away from the region.",
+          "mechanisms": [
+            "First, the war creates a direct input shock that cascades far beyond energy. This is because (1) naphtha is a byproduct of oil refining used in ink and plastics, (2) its price in Asia has almost doubled since the conflict began, and (3) even a snack company like Calbee now has to alter packaging, showing how deeply embedded Gulf-linked inputs are in ordinary manufacturing.",
+            "Second, the disruption incentivizes supply-chain de-risking and regional diversification. Three reasons: one, firms facing repeated bottlenecks will shift procurement to non-Middle Eastern sources to avoid production stoppages; two, governments like Japan are already broadening naphtha supply to include the US; three, once firms pay the fixed cost of diversification, the old dependence becomes harder to justify.",
+            "Third, the shock strengthens the case for strategic stockpiles and industrial policy. This matters because (1) when a single maritime chokepoint can raise costs across food, aviation, autos, and retail, market-only resilience is insufficient, (2) states gain leverage by subsidizing alternative inputs and logistics, and (3) the long-run effect is a more resilient but less Gulf-dependent global economy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The real effect of the Hormuz disruption is not structural diversification but higher costs, inflation, and profit compression that are passed on to consumers and weaker firms.",
+          "mechanisms": [
+            "First, firms cannot quickly substitute away from Gulf-linked inputs. One, naphtha is embedded in plastics, inks, and packaging, so switching suppliers requires changing production processes; two, many Asian economies are already heavily reliant on Middle Eastern energy, so alternative sourcing is limited and expensive; three, the result is immediate margin pressure rather than a clean reconfiguration of supply chains.",
+            "Second, the shock is regressive and broad-based, making it economically damaging even if it is temporary. One, Calbee can absorb a packaging change, but smaller firms may suspend sales or raise prices, as Mizkan already did; two, airlines, carmakers, and retailers are all seeing higher fuel and material costs; three, consumers face inflation across essentials, which reduces real incomes and demand.",
+            "Third, geopolitical instability creates uncertainty that discourages investment. One, companies delay expansion when shipping routes and input prices are volatile; two, governments may spend more on emergency stabilization instead of productive investment; three, even if diversification happens, it is slower and more expensive than the losses created in the meantime."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term economic pain and long-term resilience. Prop wins if the question is about whether crises force structural de-risking; opp wins if the judge prioritizes immediate welfare losses, because the article shows a broad, already-unfolding inflationary shock across food, aviation, autos, and retail.",
+      "stock_connections": [
+        "Supply Chain Resilience",
+        "Chokepoint Vulnerability",
+        "Inflation Shock",
+        "Dutch Disease",
+        "Dependency Theory",
+        "Energy Security",
+        "Strategic Stockpiles",
+        "De-risking / Decoupling"
+      ],
+      "motion_areas": [
+        "TH, as Japan, would diversify away from Middle Eastern energy and petrochemical inputs",
+        "THBT governments should subsidize supply-chain de-risking in critical consumer goods",
+        "THP a world where major economies maintain strategic stockpiles of petrochemical inputs",
+        "THBT companies should be legally required to disclose chokepoint exposure in their supply chains"
+      ],
+      "data_points": [
+        "Calbee will switch 14 products to black-and-white packaging from 25 May",
+        "Iran effectively closed the Strait of Hormuz on 28 February after US and Israeli strikes",
+        "Naphtha prices in Asia have almost doubled since the conflict started",
+        "Around 40% of Japan's naphtha was imported from the Middle East before the war",
+        "Mizkan suspended sales of some products and raised prices for others on 1 May due to polystyrene container shortages",
+        "Toyota and Hyundai have said profits were hit by higher material costs and lower sales",
+        "UK-based Next raised prices by up to 8% in some countries outside Europe due to fuel costs and supply-chain disruption"
+      ]
+    },
+    {
+      "id": "f9d53074aaa4",
+      "title": "Settler Violence and Annexation Politics Push the West Bank Toward De Facto One-State Control",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/palestine-weekly-wrap-israeli-settlers-rampage-through-west-bank-villages?traffic_source=rss",
+      "published": "2026-05-12T07:33:16Z",
+      "category": "IR",
+      "region": "West Bank; Gaza; Israel/Palestine",
+      "background": "In the week covered, Israeli settlers uprooted 3,000 Palestinian-planted trees in the occupied West Bank, while far-right Israeli politicians openly framed the goal as preventing a Palestinian state. On Sunday, an Israeli Knesset ministerial committee backed a bill to formally repeal the 1993 Oslo Accords, which created the Palestinian Authority and divided the West Bank into Areas A, B and C. The article also reports more than 760 settler attacks documented in 2026 so far, with at least 44 Palestinians killed in the West Bank this year, including 13 by settlers, and around 2,000 Palestinians displaced by settler violence and access restrictions.",
+      "prop_args": [
+        {
+          "thesis": "The settler campaign and legal-political escalation are accelerating a de facto annexation that destroys any viable Palestinian state and entrenches permanent Israeli control.",
+          "mechanisms": [
+            "First, territorial facts on the ground become irreversible. This is because (1) settlers seize springs, roads, farmland, and hilltops, (2) outposts are then connected by water, surveillance, and access infrastructure, and (3) each new civilian foothold is later protected by the state, making future rollback politically and militarily costly.",
+            "Second, the legal attack on Oslo removes the last institutional barrier to partition. Three reasons: one, repealing Oslo would erase the framework that created the Palestinian Authority and the Area A/B/C division; two, it normalizes settlement in areas that were supposed to remain under Palestinian administration; three, it signals to bureaucrats, soldiers, and settlers that the state is no longer pretending to preserve a two-state horizon.",
+            "Third, this produces long-term conflict escalation and humanitarian collapse. This matters because (1) land confiscation and tree destruction wipe out livelihoods, pushing displacement and radicalization, (2) repeated settler attacks with weak accountability convince Palestinians that nonviolence cannot protect them, and (3) international condemnation without enforcement leaves Israel with incentives to continue until resistance becomes the only remaining response."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The violence is real, but it does not determine final political outcomes because Israel still has incentives and capacity to contain settlers and preserve diplomatic flexibility.",
+          "mechanisms": [
+            "First, the state can selectively restrain the most destabilizing moves. One, Netanyahu reportedly asked parliament to postpone discussion of the Oslo repeal bill; two, the government can use police, courts, and military administration to slow outpost legalization when international costs rise; three, this means the settler agenda is not automatically the state agenda.",
+            "Second, external pressure can still impose costs without collapsing the system. One, the EU has already sanctioned violent settlers; two, Israel remains sensitive to trade, security, and diplomatic ties with Europe and the US; three, if pressure escalates, the government may trade symbolic restraint for strategic legitimacy rather than pursue outright annexation.",
+            "Third, Palestinian statehood is not eliminated by West Bank violence alone. One, the PA still exists and administers parts of the territory; two, the international legal consensus on occupation remains intact; three, future negotiations can still reimpose borders if regional normalization or domestic Israeli politics change."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether these actions are reversible harassment or irreversible state-building. Prop wins because the combination of land seizure, infrastructure, and legal rollback changes the baseline on the ground faster than diplomacy can restore it, while Opp relies on speculative future restraint that has repeatedly failed to stop expansion.",
+      "stock_connections": [
+        "Annexation",
+        "Facts on the Ground",
+        "Demographic Engineering",
+        "Collective Punishment",
+        "Security Dilemma",
+        "Two-State Solution Erosion",
+        "State Capture by Extremists",
+        "Impunity",
+        "Ethnic Cleansing"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would impose broader sanctions on Israeli settlers and settlement-linked officials",
+        "THBT the international community should treat West Bank settlement expansion as de facto annexation",
+        "THP a world in which the Oslo Accords are formally repealed",
+        "THBT Israel should be denied diplomatic normalization while settlement expansion continues",
+        "THBT Palestinian resistance should prioritize international legal and economic pressure over negotiations"
+      ],
+      "data_points": [
+        "3,000 Palestinian-planted trees uprooted in the occupied West Bank",
+        "More than 760 settler attacks documented in 2026 so far, averaging six per day",
+        "At least 44 Palestinians killed in the West Bank in 2026 so far, including 13 by settlers",
+        "Around 2,000 Palestinians displaced in 2026 by settler violence and access restrictions alone",
+        "EU sanctions agreed on Monday targeting violent Israeli settlers in the West Bank",
+        "The Gaza 'orange line' restricted zone now covers more than 60 percent of the Gaza Strip",
+        "More than 854 Palestinians in Gaza killed by Israel since the October ceasefire",
+        "Cumulative Gaza death toll since October 2023 now more than 72,740",
+        "Bardala greenhouses and water pipelines destroyed, with losses estimated at more than 1 million shekels ($344,610)",
+        "The Knesset ministerial committee backed a bill to formally repeal the 1993 Oslo Accords"
+      ]
+    },
+    {
+      "id": "6d834e046c31",
+      "title": "Pakistan’s Strike on an Afghan Rehab Centre Turns Counterterrorism Into a War-Crime Crisis",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202xrd9gn7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T07:31:14Z",
+      "category": "IR",
+      "region": "Afghanistan / Pakistan",
+      "background": "A BBC investigation, alongside a UN report released on Tuesday, says a Pakistani airstrike on the Omid Drug Rehabilitation Hospital in Kabul killed at least 269 people on 16 March, with the UN warning the real toll is likely higher. The facility, opened in 2016 in a former Camp Phoenix compound, treated drug addicts and was well known to local and international actors; Pakistan says it targeted military and terrorist infrastructure, while the Taliban, UN officials, and Human Rights Watch say the strike hit civilians and may amount to a war crime. The attack comes amid months of cross-border fighting in which Pakistan accuses the Taliban of sheltering militants such as the TTP and BLA, and Kabul denies it.",
+      "prop_args": [
+        {
+          "thesis": "Pakistan’s strike is a textbook example of why states must be punished for indiscriminate counterterrorism: it destroys civilian trust, radicalizes the population, and makes future security cooperation impossible.",
+          "mechanisms": [
+            "First, the strike collapses civilian confidence in state protection. This is because (1) the target was a publicly known rehab hospital operating since 2016, so the message received by Afghans is that even clearly civilian spaces are not safe; (2) the attack killed patients who were already vulnerable and dependent on medical care, so families now associate state power with arbitrary death; and (3) the destruction of patient records and the burning of bodies makes accountability impossible, which deepens the sense that violence can be inflicted without consequence.",
+            "Second, it strengthens militant recruitment and anti-Pakistan mobilization. Three reasons: one, mass civilian casualties create grievance narratives that armed groups can use to portray Pakistan as an aggressor against ordinary Afghans; two, the strike hits exactly the kind of poor, addicted, and socially marginal men whose families already feel abandoned, making revenge politics more persuasive; three, when the state labels a rehab centre a 'suicide bomber training facility' despite local testimony and UN access, it erodes the credibility of all future Pakistani claims about terrorism.",
+            "Third, it worsens regional instability by making de-escalation politically impossible. This matters because the Taliban now faces domestic pressure to respond after a strike in Kabul, Pakistan faces international scrutiny over a possible war crime, and both sides are pushed into a cycle where each new attack justifies the next round of retaliation rather than negotiations."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pakistan’s strike is defensible as part of a broader counterterrorism campaign if it targeted a facility being used to conceal militant infrastructure and prevent imminent attacks.",
+          "mechanisms": [
+            "First, states have a right to strike dual-use or covert militant sites when they are unable to rely on the host government. One, Pakistan alleges the Taliban shelters TTP and BLA elements that have killed hundreds of Pakistani civilians; two, if militants use civilian cover or repurpose former military compounds, the legal and operational distinction becomes murkier; three, in asymmetric conflict, waiting for perfect certainty can mean allowing attacks to continue unchecked.",
+            "Second, the Taliban’s denial is not enough to disprove Pakistan’s intelligence claims. One, the site sits in a former Camp Phoenix compound, so its history makes it plausible that Pakistan viewed it as security-relevant; two, Pakistan says the target was military and terrorist infrastructure, suggesting it believed the facility was being used beyond its stated medical purpose; three, in counterterrorism, states often cannot reveal intelligence sources and methods, so public evidence may lag behind operational assessments."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between civilian protection and counterterrorism necessity. The prop side wins if the round prioritizes the long-term strategic cost of normalizing mass-casualty strikes on clearly civilian sites; the opp side only wins if it can credibly establish that the facility was being used for militant purposes and that Pakistan faced an urgent security threat.",
+      "stock_connections": [
+        "War Crimes",
+        "Civilian Protection",
+        "Counterterrorism Overreach",
+        "Security Dilemma",
+        "Blowback",
+        "Radicalization",
+        "State Sovereignty",
+        "Asymmetric Warfare",
+        "Collective Punishment"
+      ],
+      "motion_areas": [
+        "TH, as Pakistan, would prioritize cross-border strikes against suspected militant infrastructure in Afghanistan",
+        "THBT states should be held internationally liable for civilian casualties caused by counterterrorism operations",
+        "THP a world where governments cannot strike targets in neighboring states without independent verification of military use"
+      ],
+      "data_points": [
+        "At least 269 people were killed in the Omid Drug Rehabilitation Hospital strike, with the UN saying the real toll is likely higher",
+        "The attack took place on 16 March at about 20:50 local time in Kabul",
+        "The facility opened in 2016 and was publicly known; the BBC had access inside in 2023",
+        "The UN says the site was about 1 kilometre from the main UN offices in Kabul",
+        "The UN report says the leading causes of death and injury were shrapnel wounds and burns",
+        "Afghanistan is estimated to have about 3 million people struggling with drug addiction",
+        "Pakistan says militants from Afghan territory, including the TTP and BLA, have caused hundreds of civilian deaths in Pakistan since last year"
+      ]
+    },
+    {
+      "id": "77519cbdff3c",
+      "title": "Iran War Shock Drives Wider Saudi Deficits and Forces GCC Growth Tradeoffs",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/moubayed-saudi-deficit-widening-higher-than-expected-video",
+      "published": "2026-05-12T07:26:04Z",
+      "category": "Econ",
+      "region": "Saudi Arabia / GCC / Middle East",
+      "background": "Bloomberg reports that the economic impact of the Iran war is beginning to show across the Gulf, with uncertainty rising for growth and trade in the region. In an interview on Bloomberg Horizons Middle East and Africa, Jefferies economist Alia Moubayed said Saudi Arabia’s deficit is widening more than expected. The piece frames the war as a regional macro shock affecting GCC economies through trade disruption, higher risk premia, and fiscal pressure.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war exposes the GCC’s vulnerability to external shocks and forces Saudi Arabia into a more painful fiscal adjustment than markets expected.",
+          "mechanisms": [
+            "First, the war widens fiscal deficits through higher security and stabilization spending. This is because (1) governments must absorb direct defense and border-security costs, (2) they often increase subsidies or transfers to cushion households and firms from price spikes, and (3) they lose revenue when trade, tourism, and investment slow.",
+            "Second, the conflict raises uncertainty and suppresses private-sector activity. Three reasons: one, firms delay capex when shipping lanes, insurance costs, and regional demand become unpredictable; two, banks and investors price in higher sovereign and geopolitical risk, raising borrowing costs; three, cross-border trade in the GCC becomes less efficient as firms hold more inventory and reroute logistics.",
+            "Third, the shock matters because it weakens the credibility of diversification agendas. If Saudi Arabia has to prioritize short-term stabilization over Vision-style investment, then long-horizon projects get delayed, non-oil growth slows, and the state becomes more dependent on hydrocarbons exactly when it needs to reduce that dependence."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The war shock is manageable for Saudi Arabia and may even accelerate GCC economic resilience by forcing faster reform and regional reallocation.",
+          "mechanisms": [
+            "First, Gulf states have large fiscal buffers and policy tools. One, Saudi Arabia and its neighbors still have access to sovereign wealth funds and reserves that can smooth temporary deficits; two, they can cut or defer discretionary spending without collapsing core services; three, they can use targeted support instead of broad-based bailouts to contain the fiscal hit.",
+            "Second, higher uncertainty can catalyze diversification and intra-GCC substitution. One, firms may shift supply chains and headquarters activity toward safer Gulf hubs, benefiting the region’s logistics and financial centers; two, governments may accelerate non-oil reforms to reduce war exposure; three, a crisis can strengthen coordination on energy, transport, and security policy within the GCC.",
+            "Third, the macro damage may be overstated relative to the region’s structural strengths. One, hydrocarbon exporters can still benefit from elevated energy prices if the war tightens supply; two, domestic demand in wealthy Gulf economies is less fragile than in emerging markets; three, external actors have strong incentives to keep Gulf trade routes open, limiting the duration of disruption."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war is a temporary shock that rich Gulf states can absorb or a structural break that exposes the limits of their fiscal model. Prop wins if the round is about long-run diversification and state capacity; opp wins if the key comparison is short-run resilience and the ability of reserve-rich governments to smooth volatility.",
+      "stock_connections": [
+        "Fiscal vulnerability",
+        "Dutch Disease",
+        "Resource dependence",
+        "Sovereign wealth fund buffering",
+        "Geopolitical risk premium",
+        "Trade disruption",
+        "Diversification failure",
+        "State capacity",
+        "Crowding out",
+        "Structural dependence on hydrocarbons"
+      ],
+      "motion_areas": [
+        "TH, as Saudi Arabia, would prioritize fiscal consolidation over expansionary spending during regional conflict",
+        "THBT GCC states should deepen economic integration as a response to regional war risk",
+        "THP a world where Gulf economies are more exposed to geopolitical shocks",
+        "THBT oil-rich states should use sovereign wealth funds to stabilize the economy during war-induced downturns"
+      ],
+      "data_points": [
+        "Bloomberg reports Saudi Arabia’s deficit is widening higher than expected",
+        "The article says the impact of the Iran war is starting to emerge across the Gulf",
+        "The piece specifically links the war to uncertainty for growth and trade in the GCC region",
+        "Interviewee: Alia Moubayed, Managing Director for EMEA Economics & Strategy at Jefferies International"
+      ]
+    },
+    {
+      "id": "9c3e932f9c5e",
+      "title": "UK NHS Reliance on Palantir Turns Data Stewardship Into a Security and Sovereignty Fight",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/palantir?traffic_source=rss",
+      "published": "2026-05-12T07:17:21Z",
+      "category": "Business",
+      "region": "United Kingdom / United States",
+      "background": "Palantir won a March 2020 NHS contract during the COVID-19 pandemic for £1, later expanded into a six-year relationship worth nearly £400 million ($546 million) through its Federated Data Platform (FDP). The platform is used by NHS England to manage and analyse health data, but critics say around 100 pages of the contract remain withheld, including key details on how patient data is pseudonymised. The Financial Times reported that NHS England had allowed Palantir employees 'unlimited' access to patient data, while officials are now reportedly considering a 2027 break point in the contract.",
+      "prop_args": [
+        {
+          "thesis": "The UK should reduce or end its dependence on Palantir because the company’s access to sensitive public data creates an unacceptable trust, security, and sovereignty risk.",
+          "mechanisms": [
+            "First, Palantir’s defence-intelligence identity makes it structurally unsuitable as a steward of NHS data. This is because (1) the company openly markets military and AI-weapons ambitions, which creates a credible fear that its incentives are aligned with state surveillance and security uses rather than patient welfare, (2) public trust in healthcare depends on the perception of neutrality and confidentiality, and (3) once patients believe data may be repurposed, they are less likely to share information honestly, which degrades care quality and public health outcomes.",
+            "Second, the contract’s opacity means the UK cannot actually verify compliance, so the state is forced into blind trust. Three reasons: one, roughly 100 pages of the FDP contract remain withheld, especially the pseudonymisation methodology; two, even if audits exist, they mostly test whether controls are in place rather than whether a sophisticated actor is extracting value from data; three, the more proprietary and complex the system, the harder it is for NHS England, parliament, or independent experts to detect misuse before harm is done.",
+            "Third, centralising multiple government datasets through one vendor creates a strategic security risk beyond healthcare. This matters because (1) Palantir already has contracts across at least 10 UK government departments, (2) data aggregation can turn separate low-sensitivity datasets into high-sensitivity intelligence, and (3) if one company becomes the connective tissue of the state, any breach, coercion, or political shift can expose cross-government information and weaken national sovereignty."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The UK should keep using Palantir because the practical benefits of a functioning data platform outweigh speculative fears about misuse.",
+          "mechanisms": [
+            "First, Palantir solves a real administrative problem that the NHS and government need solved now. One, the NHS is a massive, fragmented system that needs interoperability and analytics at scale; two, the FDP is already in use and officials describe it as broadly beneficial; three, alternatives exist but building them in-house takes years, so abandoning Palantir could mean losing operational capacity during a period of intense pressure on the health service.",
+            "Second, the legal and technical safeguards already reduce the risk of abuse to an acceptable level. One, NHS England says Palantir only processes data under NHS instruction and cannot use it for its own purposes; two, Palantir says it is subject to multiple audits and customer validation with the NCSC; three, the company argues each customer engagement is walled off contractually, operationally, and technically, so the feared cross-department aggregation is not how the system is actually designed to work.",
+            "Third, the anti-Palantir case relies on guilt by association rather than demonstrated harm. This is because (1) many major US tech firms also process highly sensitive public-sector data, (2) cybersecurity experts acknowledge that absolute verification is impossible with any large proprietary vendor, not just Palantir, and (3) if the standard is ideological discomfort with a supplier’s rhetoric, the state risks making procurement decisions on politics rather than capability."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between speculative but high-stakes security risk and immediate, measurable administrative utility. Prop wins if it proves that trust and verification are foundational in healthcare and that one vendor concentration creates irreversible downside; opp wins if it frames the concerns as unproven, manageable through audits, and outweighed by the NHS’s need for functioning infrastructure.",
+      "stock_connections": [
+        "Privatisation of public services",
+        "Vendor lock-in",
+        "State surveillance",
+        "National security vs civil liberties",
+        "Public trust in institutions",
+        "Data sovereignty",
+        "Single point of failure",
+        "Regulatory capture",
+        "Dependency on foreign tech firms"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would terminate or severely limit Palantir’s NHS contract",
+        "THBT governments should not outsource sensitive public data infrastructure to defence contractors",
+        "THP a world in which public health systems cannot use vendors with military-intelligence contracts",
+        "THBT the UK should prioritise domestic public-sector data platforms over foreign proprietary providers"
+      ],
+      "data_points": [
+        "Palantir’s NHS relationship began with a £1 contract in March 2020 and expanded into a six-year deal worth nearly £400 million ($546 million)",
+        "The Federated Data Platform contract is valued at about £330 million ($450 million)",
+        "Roughly 100 pages of the FDP contract remain withheld from public scrutiny",
+        "NHS England reportedly allowed Palantir employees 'unlimited' access to patient data, according to the Financial Times",
+        "Palantir’s Foundry platform underpins contracts across at least 10 UK government departments",
+        "NHS Greater Manchester integrated care board has spent six years building its own analytics platform without Palantir"
+      ]
+    },
+    {
+      "id": "3a8033ef7eeb",
+      "title": "Drone-Dependent Frontline Logistics Turn Food Into a Battlefield Constraint in Ukraine’s War of Attrition",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/with-drone-dropped-food-on-ukraines-frontline-do-soldiers-starve?traffic_source=rss",
+      "published": "2026-05-12T07:16:50Z",
+      "category": "IR",
+      "region": "Ukraine / Russia",
+      "background": "In late April 2026, photos and pleas about four emaciated Ukrainian soldiers sparked scrutiny after reports they had gone up to 17 days without food deliveries and had gone months without rotation. The article says Russian drone strikes destroyed bridges linking units across the Oskil River in Donetsk, leaving some positions isolated and forcing both sides to rely increasingly on drones and robotised carts for food, ammunition, medicine, and generators. A Ukrainian Defence Ministry investigation was opened on April 28 after it said insufficient food supply to several units \"must not become systemic.\"",
+      "prop_args": [
+        {
+          "thesis": "Drone-enabled logistics are now essential to sustaining frontline combat power, and whichever side can better adapt its supply chain gains a decisive battlefield advantage.",
+          "mechanisms": [
+            "First, drones prevent frontline isolation from becoming operational collapse. This is because (1) traditional supply routes are now exposed to 24/7 surveillance and suicide drones over a 25km kill zone, (2) bridges and vehicles can be destroyed faster than they can be repaired, and (3) units without food, water, ammunition, and medical supplies lose the ability to hold positions even if they still have manpower.",
+            "Second, drone logistics improve morale and retention, which directly affects combat effectiveness. Three reasons: one, soldiers who receive regular food and water are less likely to desert, panic, or surrender; two, predictable deliveries reduce the psychological exhaustion of being cut off for weeks; three, a functioning resupply system signals that command still has control, which matters in attritional trench warfare.",
+            "Third, this creates a force-multiplier effect because small, cheap systems can substitute for vulnerable heavy logistics. This matters because (1) robotised carts and heavy drones can deliver critical loads without risking crews, (2) the side that scales these systems can keep more units alive with fewer vehicles, and (3) in a war where tanks and pickups are easy drone targets, logistics innovation becomes a strategic advantage rather than a mere support function."
+          ]
+        },
+        {
+          "thesis": "Ukraine’s adaptation to drone logistics demonstrates resilience and can offset Russia’s manpower and firepower advantages.",
+          "mechanisms": [
+            "First, decentralised drone supply allows Ukraine to keep fighting in dispersed, hidden positions that Russia cannot easily overrun. One, the front has become island-like outposts rather than continuous trenches; two, drones can reach positions that trucks cannot; three, this lets Ukraine preserve defensive lines even under bridge destruction and artillery pressure.",
+            "Second, the system can also be used offensively by enabling surrenders, intelligence collection, and battlefield control. One, the article describes a Russian soldier surrendering after receiving a drone-delivered chocolate bar and instructions; two, drone resupply and reconnaissance are linked, so supply missions also map enemy positions; three, this creates asymmetric gains beyond calories, including prisoners, intelligence, and propaganda value.",
+            "Third, the existence of a scalable drone logistics network reduces the chance that isolated incidents become strategic failures. This matters because (1) once command learns to route supplies by air, it can patch gaps faster than Russia can exploit them, (2) the Defence Ministry’s investigation suggests institutional learning rather than denial, and (3) a state that adapts faster in wartime usually outlasts a larger but less flexible opponent."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Drone logistics are too limited and fragile to solve frontline supply problems at scale, so the real effect is exposing systemic military weakness rather than creating a durable advantage.",
+          "mechanisms": [
+            "First, the technology cannot cover the whole army or sustain heavy consumption needs. One, a researcher quoted in the article says no more than 10 percent of the Ukrainian army gets drone-dropped food; two, drones can carry only small payloads compared with trucks or rail; three, ammunition, generators, and water requirements quickly exceed what air drops can reliably provide.",
+            "Second, drone supply is highly vulnerable to interception and disruption. One, the article says Russian forces intercept and shoot down as many drones as possible; two, the same kill zone that makes trucks obsolete also makes drones contested airspace; three, if the enemy can disrupt the supply chain, isolated units can still starve or lose combat effectiveness.",
+            "Third, reliance on drone logistics is a sign of war degradation, not strategic strength. One, it reflects destroyed bridges, cratered roads, and mined terrain; two, it forces soldiers into island-like positions with months without rotation, which is unsustainable; three, even if drones keep some units alive, they do not restore the broader logistics architecture needed for a long war."
+          ]
+        },
+        {
+          "thesis": "The food crisis undermines morale and command credibility enough to weaken Ukraine’s war effort more than it helps adaptation narratives.",
+          "mechanisms": [
+            "First, starvation creates immediate combat failure at the unit level. One, emaciated soldiers cannot fight, patrol, or carry equipment effectively; two, hunger increases fainting, illness, and poor decision-making; three, units that cannot be fed become liabilities rather than assets.",
+            "Second, visible neglect damages trust in military leadership and the state. One, the brigade commander was fired after the incident; two, the Defence Ministry had to launch an investigation, showing the issue was politically embarrassing; three, repeated stories of hungry soldiers can reduce recruitment confidence and public support.",
+            "Third, Russia can exploit these failures for propaganda and battlefield pressure. One, starving troops are easier to isolate, capture, or force into surrender; two, images of emaciated soldiers undermine the narrative of competent Ukrainian defence; three, if the war becomes associated with abandonment, it can erode domestic resilience over time."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether drone logistics are a temporary patch or a durable replacement for conventional supply chains. Prop wins if you think adaptation keeps frontline units alive and preserves combat power; opp wins if you think the 10 percent figure and repeated interception show this is too small, too fragile, and too symptomatic of systemic collapse to matter strategically.",
+      "stock_connections": [
+        "Military innovation",
+        "Asymmetric warfare",
+        "War of attrition",
+        "Logistics as a force multiplier",
+        "State capacity under wartime stress",
+        "Morale and combat effectiveness",
+        "Technological adaptation in conflict",
+        "Propaganda and battlefield legitimacy"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize drone logistics over conventional supply lines",
+        "THBT modern wars are won more by logistics innovation than by battlefield firepower",
+        "THP a world where frontline military resupply is primarily drone-based",
+        "THBT states in high-intensity wars should decentralize military logistics"
+      ],
+      "data_points": [
+        "Some Ukrainian soldiers reportedly went up to 17 days without food deliveries",
+        "The affected soldiers were on the left bank of the Oskil River in Donetsk after Russian bombs destroyed bridges to their brigade",
+        "The frontline kill zone now extends up to 25km from both sides of the line",
+        "A researcher quoted in the article said no more than 10% of the Ukrainian army gets drone-dropped food",
+        "Ukrainian Defence Ministry said on April 28 that insufficient food supply to three nearby units 'must not become systemic'",
+        "The article says Russian forces intercept and shoot down as many drones as possible",
+        "In March 2025, a Russian soldier surrendered after receiving a drone-delivered chocolate bar with instructions written on it",
+        "A Russian soldier described receiving only 'a small bottle of water, two or three very small chocolate bars' while fighting in Luhansk"
+      ]
+    },
+    {
+      "id": "6f2b14148baf",
+      "title": "Trump’s China Tech Diplomacy Signals a US Shift Toward State-Managed AI Control",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/12/trump-china-ai-big-tech-xi-jinping",
+      "published": "2026-05-12T07:00:17Z",
+      "category": "IR",
+      "region": "US-China",
+      "background": "Donald Trump is traveling to China this week with a delegation that includes Tim Cook, Elon Musk, Dina Powell McCormick, Sanjay Mehrotra, Chuck Robbins, and Cristiano Amon. Nvidia CEO Jensen Huang is notably absent, even as the trip is expected to focus on technology and possible semiconductor deals. The article says Trump’s administration is also moving toward a more interventionist AI policy: China already requires AI models to be submitted to Beijing for review, and the White House is considering an executive order that would require US AI companies to submit new models for White House review. The administration has already begun national-security reviews of releases from Google DeepMind, Microsoft, and xAI through the Commerce Department’s CAISI unit.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s China tech outreach will accelerate a US-China model of strategic decoupling where AI and semiconductors become instruments of state power rather than open markets.",
+          "mechanisms": [
+            "First, the trip normalizes the idea that frontier tech is a geopolitical bargaining chip. This is because (1) the delegation is built around CEOs whose firms control chips, devices, cloud, and telecom infrastructure, (2) any deal-making will be read in Beijing and Washington as state-backed industrial policy, and (3) it reduces the space for purely commercial logic in cross-border tech flows.",
+            "Second, the administration’s move toward White House review of AI models creates a direct regulatory mirror of China’s system. Three reasons: one, it signals that the US is willing to treat model releases as national-security events; two, it gives the executive branch leverage over frontier labs; three, it legitimizes China’s claim that its own controls are just a standard sovereign practice rather than authoritarian exceptionalism.",
+            "Third, this strengthens US bargaining power in the short term while hardening bloc formation in the long term. This matters because the more both sides screen chips, models, and partners for security reasons, the more firms re-route supply chains, duplicate ecosystems, and accept permanent fragmentation of the global tech stack."
+          ]
+        },
+        {
+          "thesis": "Trump’s approach may preserve American technological advantage by forcing firms to align innovation with national security and by extracting concessions from China through elite-level bargaining.",
+          "mechanisms": [
+            "First, direct presidential engagement with major CEOs can unlock fast, high-value deals that bureaucratic diplomacy cannot. This is because (1) firms like Apple, Micron, Qualcomm, Cisco, and Tesla can make immediate commercial commitments, (2) China values access to US technology and prestige brands, and (3) Trump can trade market access, licensing, or export flexibility for concrete concessions.",
+            "Second, selective state oversight can prevent strategic leakage without fully killing innovation. Three reasons: one, review mechanisms can target the most sensitive frontier models rather than blanket-banning the sector; two, national-security screening can reduce the risk of dual-use misuse and IP transfer; three, it can reassure allies and domestic voters that AI leadership is not being handed to China or uncontrolled labs.",
+            "Third, the policy may improve US leverage in the AI race by coordinating private-sector power with state power. This matters because if Washington can shape model deployment, chip supply, and overseas sales, it can slow Chinese catch-up while keeping American firms at the center of global standards and procurement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The trip and the new review regime will backfire by politicizing innovation, chilling investment, and pushing China to build a fully independent tech ecosystem.",
+          "mechanisms": [
+            "First, mandatory or quasi-mandatory model review creates uncertainty for firms. One, companies will delay launches to avoid political scrutiny; two, investors will price in regulatory risk and lower funding for frontier labs; three, smaller firms will be disproportionately hurt because they cannot absorb compliance costs.",
+            "Second, the policy incentivizes China to accelerate self-sufficiency rather than compromise. One, Beijing can portray US controls as proof that Washington will weaponize access regardless of Chinese behavior; two, Chinese firms will substitute domestic chips, cloud, and AI stacks; three, this reduces long-run US leverage because dependence is replaced by parallel ecosystems.",
+            "Third, elite diplomacy is a poor substitute for stable rules. One, deals made around a presidential visit are fragile and reversible; two, they create favoritism toward politically connected firms like Apple or Tesla; three, they undermine predictable trade and technology governance, which is what global firms need to invest in long-horizon R&D."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether state involvement in AI is a strategic coordination tool or the start of durable techno-nationalist fragmentation. Prop wins if you think leverage and security screening can be targeted; opp wins if you think the precedent itself is the damage, because once both superpowers treat models and chips as security objects, the global tech system becomes permanently less open and less efficient.",
+      "stock_connections": [
+        "Techno-nationalism",
+        "Decoupling",
+        "Security dilemma",
+        "Race to the bottom",
+        "Industrial policy",
+        "Regulatory capture",
+        "Great power competition",
+        "Dependency theory",
+        "Supply chain resilience",
+        "Dual-use technology"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would subject frontier AI models to national-security review",
+        "THBT the US should pursue techno-economic decoupling from China in strategic sectors",
+        "THP a world where major AI models require government approval before release",
+        "THBT great powers should treat semiconductors and AI as strategic assets rather than commercial goods"
+      ],
+      "data_points": [
+        "Trump is traveling to China with Tim Cook, Elon Musk, Dina Powell McCormick, Sanjay Mehrotra, Chuck Robbins, and Cristiano Amon",
+        "Jensen Huang is not joining the delegation",
+        "Apple’s iPhone 17 has boosted the company’s quarterly earnings to their highest point ever",
+        "Apple still manufactures most of its products in China, though it has shifted a significant percentage to India and Vietnam",
+        "China requires AI companies to submit models to Beijing for review on security and political sensitivity grounds",
+        "The White House is considering an executive order requiring AI companies to submit their newest models for White House review",
+        "CAISI, part of the US Department of Commerce, is conducting national-security reviews of releases from Google DeepMind, Microsoft, and xAI",
+        "The Pentagon is in court with Anthropic over military usage concerns and a supply-chain-risk designation",
+        "JD Vance has asked Anthropic not to expand access to its cybersecurity-focused model Mythos beyond its initial partners"
+      ]
+    },
+    {
+      "id": "703bd6219985",
+      "title": "France Tries to Replace Colonial Leverage With Investment Diplomacy in Kenya",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T06:52:56Z",
+      "category": "IR",
+      "region": "Kenya / Africa / France-Africa relations",
+      "background": "France co-hosted the Africa Forward Summit in Nairobi, Kenya, bringing together more than 30 African leaders, Aliko Dangote, and major French firms. Emmanuel Macron announced $27bn in planned investments across Africa in energy transition, digital and AI, maritime economy, and agriculture, with claims of creating 250,000 jobs in Africa and France. The summit comes as France faces rising anti-French sentiment and shrinking military influence in former colonies in West Africa, where military juntas in Burkina Faso, Mali, and Niger have expelled French troops and turned to Russia. Kenya, a former British colony, is being used as a non-Francophone bridge for France to broaden its partnerships beyond its traditional sphere of influence.",
+      "prop_args": [
+        {
+          "thesis": "France’s pivot from military patronage to investment-led diplomacy is a necessary adaptation that can rebuild influence in Africa without the baggage of colonial control.",
+          "mechanisms": [
+            "First, it reduces the political toxicity of French engagement. This is because (1) military basing and security partnerships are the most visible symbols of neo-colonial control, (2) shifting to trade, infrastructure, and technology makes the relationship look mutually beneficial rather than coercive, and (3) hosting the summit in Kenya rather than a former Francophone colony signals a break from the old patron-client model.",
+            "Second, it expands France’s strategic and economic reach in a more competitive environment. Three reasons: one, France is losing ground in West Africa as coups and anti-French sentiment push states toward Russia and other partners; two, $27bn in announced investment creates a concrete entry point into fast-growing sectors like AI, energy transition, and maritime logistics; three, using Kenya as a bridge into English-speaking Africa diversifies France away from declining traditional markets.",
+            "Third, it can generate real development gains and state capacity in African economies. This matters because the summit targets sectors with high spillovers: renewable energy improves power access, digital investment supports productivity, agriculture raises food security, and maritime investment strengthens trade connectivity. If France’s capital and firms help unlock jobs and infrastructure, African governments gain bargaining power and alternatives to dependence on any single external patron."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "France’s new investment diplomacy is mostly a rebranding exercise that preserves asymmetric influence while failing to solve the underlying problem of dependency and distrust.",
+          "mechanisms": [
+            "First, the shift does not erase the structural legacy of colonial power. One, French firms still enter with superior capital, technology, and EU market access, which lets France shape African development priorities; two, business-led influence can be just as extractive as military influence if contracts, procurement, and supply chains are dominated by French interests; three, the very need to 'move beyond colonial ties' shows the relationship remains defined by colonial history rather than transformed beyond it.",
+            "Second, France lacks credibility in the regions where it most needs trust. One, anti-French sentiment in Burkina Faso, Mali, and Niger reflects not just troop presence but decades of perceived interference and elite capture; two, the absence of those leaders from the summit means France is not actually repairing its most damaged relationships; three, public incidents like Macron interrupting speakers reinforce the image of lecturing rather than partnership.",
+            "Third, investment promises are too weak to offset the rise of alternative powers and domestic African agency. One, $27bn announced across an entire continent is spread thin and may not materialize fully; two, China, Russia, and Turkey already offer financing or security without France’s historical baggage, so African states can shop around; three, African governments increasingly want sovereignty and diversified partners, meaning France is entering a market where it is no longer indispensable."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether economic engagement can genuinely replace coercive influence or merely repackage it. Prop wins if the round is about adaptation and development because France’s old model is already collapsing; opp wins if the round is about trust and structural dependency, since investment alone cannot erase colonial memory or asymmetry.",
+      "stock_connections": [
+        "Neo-colonialism",
+        "Soft Power",
+        "Dependency Theory",
+        "Economic Statecraft",
+        "Great Power Competition",
+        "Post-colonial Backlash",
+        "Development through FDI",
+        "Sovereignty vs Patronage"
+      ],
+      "motion_areas": [
+        "TH, as France, would pivot from military influence to investment-led diplomacy in Africa",
+        "THBT former colonial powers should replace security partnerships with economic partnerships in Africa",
+        "THP a world where great powers compete in Africa primarily through investment rather than military presence"
+      ],
+      "data_points": [
+        "$27bn in announced French investment in Africa",
+        "Macron said the investments could create 250,000 jobs in Africa and France",
+        "More than 30 African leaders attended the Nairobi summit",
+        "France is now Djibouti's last remaining operational military base in Africa",
+        "Burkina Faso, Mali, and Niger have all expelled French troops after coups",
+        "Kenya is France's fourth-largest source of foreign investment"
+      ]
+    },
+    {
+      "id": "49c29ce6a9b4",
+      "title": "Trump’s China Visit Could Unlock a Massive Boeing Deal — or Deepen US-China Industrial Dependence",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/boeing-ceo-to-join-trump-us-delegation-in-china-video",
+      "published": "2026-05-12T06:36:36Z",
+      "category": "Business",
+      "region": "US-China",
+      "background": "Boeing CEO Kelly Ortberg is expected to join the US delegation to China during President Donald Trump’s visit. Ortberg said the trip would be a \"meaningful opportunity\" for Boeing, and Bloomberg reports that China is considering a deal for about 500 Boeing 737 Max jets. The report suggests the visit could be tied to a major commercial aircraft purchase and broader US-China trade diplomacy.",
+      "prop_args": [
+        {
+          "thesis": "A Boeing sale of this scale is a strategic win because it preserves US industrial capacity, supports high-value manufacturing jobs, and gives Washington leverage in a politically sensitive bilateral relationship.",
+          "mechanisms": [
+            "First, the deal sustains a critical domestic industrial base. This is because (1) commercial aircraft production has very high upstream multiplier effects across suppliers, engineering, and maintenance, (2) a 500-jet order stabilizes long production horizons and reduces the risk of layoffs or underinvestment, and (3) Boeing is one of the few US firms capable of competing at scale with Airbus, so losing market share has long-term strategic consequences.",
+            "Second, the sale strengthens US bargaining power with China. Three reasons: one, large purchases create mutual dependence that gives Washington a non-tariff channel of influence; two, aircraft orders are politically visible and can be used to anchor broader trade concessions; three, China’s reliance on US aerospace technology makes outright decoupling costlier and slower.",
+            "Third, the transaction can reduce trade tensions through interdependence. This matters because a high-profile commercial deal creates domestic stakeholders in both countries who benefit from stability, making escalation less attractive and giving both governments a concrete success to point to instead of symbolic confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A Boeing deal with China entrenches strategic vulnerability by making the US more dependent on Chinese demand while giving Beijing leverage over a politically sensitive American champion.",
+          "mechanisms": [
+            "First, the deal increases asymmetric dependence. One, Boeing becomes more exposed to Chinese purchasing decisions and regulatory pressure; two, China can weaponize future orders, delays, or certification issues to extract concessions; three, this weakens the US ability to take hard lines on security or technology disputes without harming a flagship firm.",
+            "Second, the sale can distort US policy toward appeasement. One, large corporate interests lobby for stability over principle, which narrows Washington’s room to confront China on tariffs, Taiwan, or export controls; two, the administration may prioritize headline deals over structural competition; three, this turns trade diplomacy into short-term dealmaking rather than durable strategy.",
+            "Third, the benefits are overstated because the deal may not materially change Boeing’s competitive position. One, a single order does not solve Boeing’s broader quality, certification, and reputation problems; two, Airbus remains a strong competitor and China can diversify suppliers over time; three, if the deal is politically contingent, it may be less stable than it appears and therefore a weak foundation for long-term industrial security."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether interdependence is a source of leverage or vulnerability. Prop wins if the round prioritizes jobs, industrial capacity, and near-term diplomatic stabilization; Opp wins if the round centers on strategic autonomy and the risk that China can convert commercial dependence into political pressure.",
+      "stock_connections": [
+        "Interdependence Theory",
+        "Economic Statecraft",
+        "Strategic Dependence",
+        "Industrial Policy",
+        "Race to the Bottom",
+        "Corporate Capture",
+        "Trade Diplomacy",
+        "Decoupling"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize large commercial deals with China to stabilize bilateral relations",
+        "THBT the US should use major corporate exports as leverage in great power competition with China",
+        "THP a world where US-China relations are managed primarily through high-value trade deals"
+      ],
+      "data_points": [
+        "China is considering a deal for about 500 Boeing 737 Max jets",
+        "Boeing CEO Kelly Ortberg is expected to join the US delegation to China",
+        "Ortberg described Trump’s visit as a 'meaningful opportunity' for Boeing"
+      ]
+    },
+    {
+      "id": "7f4f5cf28fbb",
+      "title": "Starmer Leadership Crisis Threatens Labour’s Governing Mandate and UK Political Stability",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/uk-s-starmer-faces-mounting-pressure-to-step-down-video",
+      "published": "2026-05-12T06:03:26Z",
+      "category": "IR",
+      "region": "UK",
+      "background": "UK Prime Minister Keir Starmer is facing mounting pressure from within his own party after more than 70 of Labour’s 403 MPs called for him to set out a timetable for departure. The rebellion came after last week’s local elections, in which Labour lost control of the Welsh parliament and almost three of every five English council seats it was defending. The article frames this as a leadership crisis inside the governing party rather than a formal resignation or election result.",
+      "prop_args": [
+        {
+          "thesis": "Starmer should step down because prolonged leadership weakness will trap Labour in a legitimacy crisis that makes governing harder and accelerates electoral collapse.",
+          "mechanisms": [
+            "First, a managed resignation restores party discipline and prevents a slow-motion civil war. This is because (1) more than 70 MPs have already broken ranks, (2) the local election losses have created a public narrative of failure, and (3) every week of indecision gives factions more time to coordinate against the leadership.",
+            "Second, replacing a damaged leader can reset the party’s public brand before the next national contest. Three reasons: one, voters often punish perceived incompetence more than policy detail; two, a fresh leader can distance Labour from unpopular decisions without changing the governing programme; three, a clean transition signals that the party is responsive rather than arrogant.",
+            "Third, stepping down now reduces the risk that internal dysfunction spills into policy paralysis. This matters because a government consumed by succession drama struggles to pass legislation, manage media cycles, and enforce cabinet discipline, which in turn weakens its ability to deliver on core promises."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Starmer should stay because forcing out a sitting prime minister after one bad electoral cycle would deepen instability and make Labour look unfit to govern.",
+          "mechanisms": [
+            "First, leadership turnover in government creates immediate institutional disruption. One, ministers and MPs spend time on succession politics instead of governing; two, markets and civil servants face uncertainty over policy direction; three, opponents can exploit the transition to portray Labour as chaotic.",
+            "Second, Starmer’s removal may not solve the underlying problem if the issue is broader dissatisfaction with Labour’s performance. One, local election losses can reflect national anti-incumbent sentiment rather than personal unpopularity; two, a new leader inherits the same fiscal constraints and policy trade-offs; three, changing the face of the party without changing conditions risks only a temporary bounce.",
+            "Third, a forced resignation empowers internal rebels and normalizes coups against elected leaders. This is dangerous because (1) it rewards factional pressure over democratic mandate, (2) it weakens the authority of future prime ministers, and (3) it teaches MPs that public rebellion is the fastest route to policy influence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether leadership change is a reset or a self-inflicted wound. Prop wins if you prioritize electoral credibility and party cohesion; opp wins if you prioritize governing stability and the danger of normalizing internal coups.",
+      "stock_connections": [
+        "Democratic Mandate",
+        "Party Unity",
+        "Leadership Spillover",
+        "Incumbency Advantage",
+        "Political Legitimacy",
+        "Crisis of Confidence",
+        "Factionalism",
+        "Electoral Punishment"
+      ],
+      "motion_areas": [
+        "TH, as a governing party, would replace a leader after a major local election setback",
+        "THBT political parties should force out prime ministers who lose control of their internal caucus",
+        "THP a world where party leadership can be removed by parliamentary rebellion mid-term"
+      ],
+      "data_points": [
+        "More than 70 of 403 Labour MPs have called for Starmer to set out a timetable for departure",
+        "Labour lost control of the Welsh parliament in the local elections",
+        "Labour lost almost three of every five English council seats it was defending",
+        "The governing Labour Party holds 403 MPs in the UK Parliament"
+      ]
+    },
+    {
+      "id": "75bd47f63ea1",
+      "title": "Israel’s Special Oct. 7 Tribunal Risks Normalizing Exception-Based Justice in the Gaza War",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/12/g-s1-121583/israeli-lawmakers-set-up-a-special-tribunal",
+      "published": "2026-05-12T06:02:32Z",
+      "category": "IR",
+      "region": "Israel-Palestinian territories",
+      "background": "On Monday, Israel’s Knesset passed a bill 93-0 creating a special tribunal for Palestinians accused of participating in the Hamas-led Oct. 7, 2023 attack. The tribunal would be able to sentence defendants to death by majority vote, and trials would be livestreamed in Jerusalem; appeals would go to a separate special appeals court rather than regular courts. The bill comes alongside a March law allowing the death penalty for Palestinians convicted of murdering Israelis, and follows the Oct. 7 attack that killed about 1,200 people and took 251 hostages, as well as Israel’s war in Gaza that has killed over 72,628 Palestinians according to the Gaza Health Ministry.",
+      "prop_args": [
+        {
+          "thesis": "A special tribunal for Oct. 7 suspects is a necessary wartime accountability mechanism that restores deterrence and signals that mass atrocities will be punished even when ordinary justice is overwhelmed.",
+          "mechanisms": [
+            "First, it creates credible deterrence against future mass-casualty attacks. This is because (1) militant actors weigh expected punishment when planning operations, (2) a dedicated tribunal lowers the chance that perpetrators evade justice through evidentiary or jurisdictional bottlenecks, and (3) the possibility of capital punishment raises the expected cost of participation for commanders, facilitators, and direct perpetrators.",
+            "Second, it solves the capacity problem of ordinary courts in a post-attack security environment. Three reasons: one, the scale and political sensitivity of Oct. 7 cases would clog regular criminal courts; two, a special bench can centralize evidence, witnesses, and security arrangements for a large terror case; three, livestreamed proceedings can reassure the public that the state is not hiding the process and is visibly delivering justice for victims.",
+            "Third, it strengthens state legitimacy after an existential attack. This matters because (1) the government faces intense domestic pressure to show that mass murder will not be treated as ordinary crime, (2) visible punishment can reduce vigilante retaliation by channeling anger into formal institutions, and (3) in a conflict where Hamas frames itself as resisting impunity, a formal tribunal reasserts monopoly over lawful violence."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The tribunal is a politicized exception that undermines fair trial standards, deepens discrimination, and will likely worsen rather than resolve the conflict.",
+          "mechanisms": [
+            "First, it weakens due process in ways that create wrongful convictions. One, majority-vote death sentences reduce the threshold for the most irreversible punishment; two, a separate appeals structure removes defendants from ordinary judicial safeguards; three, livestreamed proceedings before guilt is established incentivize spectacle over careful evidentiary testing.",
+            "Second, it entrenches a two-tier justice system that will be read as collective punishment. One, the law is explicitly targeted at Palestinians linked to Oct. 7 while Israel already has a separate March death-penalty law for Palestinians convicted of murdering Israelis; two, rights groups can credibly argue this is discriminatory because it is not a neutral reform but a conflict-specific tool; three, that perception fuels radicalization by confirming narratives that Palestinians cannot receive equal treatment under Israeli law.",
+            "Third, it damages Israel’s international standing and bargaining position. One, allies and rights groups will see the tribunal as incompatible with fair-trial norms, especially given allegations that some evidence may come from harsh interrogation; two, the spectacle of death-penalty trials can become propaganda for Hamas and other armed groups; three, it makes future hostage, ceasefire, and postwar governance negotiations harder because it hardens each side’s maximalist demands."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the tribunal is seen as targeted accountability or as politicized exception-making. Prop wins if the judge prioritizes deterrence and public legitimacy after an atrocity; opp wins if they weigh institutional precedent and the irreversible risk of wrongful execution more heavily, since those harms are hard to undo once the state normalizes them.",
+      "stock_connections": [
+        "Rule of Law vs Security",
+        "Collective Punishment",
+        "Due Process",
+        "State Legitimacy",
+        "Counterterrorism Overreach",
+        "Exceptionalism / Emergency Powers",
+        "Radicalization",
+        "International Human Rights Norms",
+        "Transitional Justice"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would establish a special tribunal for Oct. 7 perpetrators",
+        "THBT states should be allowed to create exceptional wartime courts for mass atrocity suspects",
+        "THP a world in which terror suspects can be tried by special tribunals with capital punishment",
+        "THBT accountability for mass atrocities should prioritize deterrence over ordinary criminal procedure"
+      ],
+      "data_points": [
+        "Knesset passed the bill 93-0 in the 120-seat parliament",
+        "The tribunal can sentence defendants to death by majority vote",
+        "Trials must be conducted in a livestreamed Jerusalem courtroom",
+        "Israel’s last execution was Adolf Eichmann, hanged in 1962",
+        "Oct. 7, 2023 attack killed about 1,200 people and took 251 hostages",
+        "Israel’s Gaza offensive has killed over 72,628 Palestinians, including at least 846 since the ceasefire last October",
+        "According to the Public Committee Against Torture in Israel, about 1,300 Palestinians from Gaza are still held without charge",
+        "At least 7,000 Palestinians from Gaza have been held in Israeli custody since Oct. 2023, and 5,000 were later released"
+      ]
+    },
+    {
+      "id": "f4963b140395",
+      "title": "EU Sanctions on Hamas and Israeli Settlers Expose the Limits of Symbolic Pressure on Israel",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/12/g-s1-121581/eu-sanction-hamas-leaders-israeli-settlers",
+      "published": "2026-05-12T05:47:02Z",
+      "category": "IR",
+      "region": "EU / Israel / Palestinian territories",
+      "background": "On May 12, 2026, EU diplomats unanimously agreed in Brussels to impose new sanctions on leaders of Hamas and on leaders and organizations in the Israeli settler movement. The move came amid growing outrage over Gaza and escalating violence in the occupied West Bank, where the UN says at least 40 Palestinians have been killed since the start of the year, including a record 11 by settlers. The EU still has to finalize the sanctions list, and ministers stopped short of stronger economic measures such as banning settlement products or suspending a trade agreement with Israel.",
+      "prop_args": [
+        {
+          "thesis": "Targeted EU sanctions are a necessary first step that raises the cost of extremist violence while preserving coalition unity for broader future pressure.",
+          "mechanisms": [
+            "First, sanctions create direct personal and organizational costs for actors who benefit from impunity. This works because (1) leaders and affiliated groups lose access to travel, finance, and legitimacy in Europe, (2) the designation stigmatizes them domestically and internationally, and (3) it signals that violence against civilians is no longer treated as a cost-free political strategy.",
+            "Second, the move breaks the political deadlock that previously protected Israeli settler actors from EU action. Three reasons: one, unanimity shows the bloc can overcome veto paralysis after Orbán's exit, two, it establishes a usable precedent for future listings and trade measures, and three, incremental sanctions are easier to sustain across 27 states than sweeping measures that would fracture the coalition.",
+            "Third, even limited sanctions matter because they shift the diplomatic baseline. This matters because (1) they validate international-law arguments against settlement expansion and extremist violence, (2) they empower moderates inside Israel and Palestine who want de-escalation, and (3) they create a ladder of escalation the EU can climb if violence continues."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "These sanctions are mostly symbolic and will not change behavior, while distracting from the systemic levers needed to alter Israeli policy or Hamas capacity.",
+          "mechanisms": [
+            "First, the sanctions are too narrow to impose meaningful pressure. One, they target individuals and a few entities rather than the Israeli state, trade flows, or settlement supply chains; two, the article notes the EU rejected stronger measures like banning settlement goods or suspending a trade agreement; three, actors like Daniella Weiss and Regavim openly frame sanctions as a 'badge of honor,' showing low deterrent value.",
+            "Second, the policy risks entrenching polarization and hardening the very actors it seeks to moderate. One, far-right Israeli ministers already denounce the move as 'arbitrary and political,' two, Hamas and settler leaders can use external sanctions to mobilize supporters around victimhood narratives, and three, without coordination with the US or broader coercive tools, the EU lacks leverage over battlefield incentives.",
+            "Third, selective sanctions can crowd out more effective diplomacy. One, they consume political capital that could be used for ceasefire enforcement, humanitarian access, or settlement-product restrictions, two, they let EU states claim action without paying the economic or strategic cost of real pressure, and three, they may reduce incentives for compromise by making the conflict look like a moral contest rather than a bargaining problem."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between expressive diplomacy and material coercion. Pro wins if the question is whether the EU should start building pressure and signaling norms; opp wins if the question is whether this actually changes facts on the ground, because the sanctions stop short of the trade and state-level tools that would bite.",
+      "stock_connections": [
+        "Symbolic Politics",
+        "Sanctions Efficacy",
+        "Coercive Diplomacy",
+        "Collective Action Problems",
+        "International Law Enforcement",
+        "Two-Level Games",
+        "Moral Hazard",
+        "Extremism and Radicalization",
+        "Democratic Backsliding"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would sanction extremist non-state actors and affiliated settler organizations in conflicts involving allied states",
+        "THBT the EU should impose targeted sanctions on Israeli settlers and Hamas leaders",
+        "THP a world where regional blocs use sanctions against both state and non-state actors in asymmetric conflicts",
+        "THBT the EU should prioritize targeted sanctions over broad economic punishment in response to humanitarian crises"
+      ],
+      "data_points": [
+        "EU diplomats unanimously agreed on May 12, 2026 to sanction Hamas leaders and Israeli settler leaders/organizations",
+        "At least 40 Palestinians have been killed since the start of 2026 in the West Bank, including a record 11 killed by settlers, according to OCHA",
+        "The EU did not agree to ban settlement goods or suspend a key trade agreement with Israel",
+        "Hungarian PM Viktor Orbán had blocked earlier attempts to sanction Israeli settlers for 16 years in power; his April election loss paved the way for unanimity",
+        "France said 51 French people were killed in Hamas's Oct. 7 attack, which it described as the worst antisemitic massacre in French history since the Shoah",
+        "The EU has 27 member states; unanimity was required for the sanctions decision"
+      ]
+    },
+    {
+      "id": "31e3153e6cf2",
+      "title": "ASEAN’s Fuel Shock Exposes the Limits of Regional Crisis Management",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/12/southeast-asia-fuel-crisis-asean-cebu-summit/",
+      "published": "2026-05-12T05:00:38Z",
+      "category": "IR",
+      "region": "ASEAN / Southeast Asia",
+      "background": "At ASEAN’s leaders’ summit in Cebu, Philippines, the dominant issue was a regional fuel crisis, but no coordinated bloc-wide response emerged. Philippine President Ferdinand Marcos Jr. said ASEAN should mitigate the shock together, yet most supply deals so far have been bilateral, and the main ASEAN-level proposal is to ratify the ASEAN Petroleum Security Agreement (APSA), first introduced in 1986. The article says all ASEAN states are already facing fuel crises simultaneously, while key implementation questions on funding, stockpile location, and distribution remain unresolved. The summit also discussed a future ASEAN power grid and deeper economic integration, but both face major political and technical barriers.",
+      "prop_args": [
+        {
+          "thesis": "The fuel crisis proves ASEAN needs deeper institutional integration, because ad hoc bilateralism cannot manage simultaneous regional shocks.",
+          "mechanisms": [
+            "First, a shared crisis creates a collective-action problem that bilateral deals cannot solve. This is because (1) every ASEAN state is hit at once, so no single member has spare capacity to stabilize others, (2) bilateral bargaining fragments supply and lets richer states outbid poorer ones, and (3) without a common mechanism, each government hoards fuel domestically instead of pooling risk.",
+            "Second, APSA and a regional stockpile would reduce panic and improve resilience. Three reasons: one, pre-committed rules lower transaction costs during emergencies; two, a reserve system creates predictable access for import-dependent states like the Philippines; three, common standards make future coordination easier than improvising every crisis from scratch.",
+            "Third, integration has long-term economic upside beyond the immediate crisis. This matters because a more connected power grid and deeper trade integration would lower prices, improve energy flexibility, and reduce vulnerability to external supply shocks, especially as renewables expand across the region."
+          ]
+        },
+        {
+          "thesis": "ASEAN should use the crisis to push economic integration, because fragmented national markets are now a structural liability.",
+          "mechanisms": [
+            "First, the crisis exposes how shallow intra-ASEAN interdependence still is. This is because (1) intra-ASEAN trade is still only a little under 25 percent of total trade, roughly where it was two decades ago, (2) national regulatory barriers still block cross-border commerce, and (3) entrenched domestic conglomerates benefit from the status quo and resist reform.",
+            "Second, a regional power grid and trade liberalization would create real comparative advantage gains. Three reasons: one, Laos can export hydropower to energy-hungry Singapore; two, interconnected grids smooth supply volatility and lower prices; three, deeper trade links make the region less dependent on external markets and less exposed to global disruptions.",
+            "Third, crisis politics create the window for reforms that would otherwise stall. This matters because austerity conditions and visible economic pain make governments more willing to accept unpopular coordination measures that would be blocked in normal times."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "ASEAN’s weakness is not lack of institutions but lack of political will, so deeper regional schemes will mostly produce symbolism rather than real crisis relief.",
+          "mechanisms": [
+            "First, the proposed mechanisms are too under-specified to work in practice. One, APSA has existed since 1986 and still lacks agreement on who pays, where the stockpile sits, and how fuel is allocated; two, there is no implementation timeline; three, if every member is in crisis simultaneously, the core premise of mutual backstopping collapses.",
+            "Second, national interests will override regional solidarity. One, governments face domestic pressure to prioritize their own consumers during shortages; two, richer or better-supplied states have little incentive to subsidize others; three, entrenched conglomerates and regulatory barriers make meaningful integration politically costly.",
+            "Third, ASEAN’s consensus model is structurally too slow for emergencies. One, coordination requires unanimity and therefore lowest-common-denominator outcomes; two, the bloc already had to cut its summit from five days to three and move over 600 meetings online, showing limited capacity; three, bilateral deals are faster and more credible than waiting for bloc-wide ratification."
+          ]
+        },
+        {
+          "thesis": "The better response is national adaptation and bilateral supply deals, not grand ASEAN integration.",
+          "mechanisms": [
+            "First, bilateralism matches the actual geography of energy supply. One, fuel contracts are already being struck country by country; two, states have different energy mixes and import dependencies; three, tailored deals can be negotiated faster than a one-size-fits-all regional framework.",
+            "Second, large regional projects like the power grid are long-term and technically messy. One, Indonesia still lacks a fully interconnected national grid, so cross-border integration is even harder; two, political and technical constraints mean progress will be piecemeal; three, immediate crisis management needs quick logistics, not decade-long infrastructure visions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate crisis utility and long-term institutional credibility. Pro wins if the round is about whether ASEAN should deepen integration as a response to repeated shocks; Opp wins if the judge prioritizes feasibility, because the article itself shows ASEAN’s mechanisms are underfunded, undefined, and too slow for simultaneous emergencies.",
+      "stock_connections": [
+        "Collective Action Problem",
+        "Regionalism vs Bilateralism",
+        "Institutional Credibility",
+        "Energy Security",
+        "Interdependence",
+        "Race to the Bottom",
+        "Protectionism",
+        "State Capacity",
+        "Dependency Theory",
+        "Economic Integration"
+      ],
+      "motion_areas": [
+        "TH, as ASEAN, would create a regional fuel reserve and mandatory emergency sharing mechanism",
+        "THBT ASEAN should prioritize deeper economic integration over sovereignty concerns",
+        "THP a world where regional blocs can compel members to pool strategic energy supplies during crises",
+        "THBT developing regional organizations should shift from consensus-based diplomacy to binding crisis-management institutions"
+      ],
+      "data_points": [
+        "ASEAN leaders’ summit in Cebu was cut from five days to three, with more than 600 preparatory meetings moved online to save costs",
+        "APSA was first introduced in 1986",
+        "Intra-ASEAN trade accounts for a little under 25 percent of the bloc’s total trade, about the same as two decades ago",
+        "The Philippines’ Q1 2026 growth was 2.8 percent, below the 3.5 percent Reuters economist forecast",
+        "Household consumption makes up 70 percent of Philippine GDP",
+        "The Philippines grew 4.4 percent in 2025, its slowest pace in five years",
+        "Over 600 preparatory ASEAN meetings were shifted online",
+        "ASEAN has 10 member states, all of which are reportedly experiencing fuel crisis pressures simultaneously"
+      ]
+    },
+    {
+      "id": "6271485057a3",
+      "title": "ICC Enforcement in the Philippines Becomes a Test of Domestic Sovereignty vs International Accountability",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T04:37:03Z",
+      "category": "IR",
+      "region": "Philippines / The Hague (ICC)",
+      "background": "Ronald Dela Rosa, a Philippine senator and former police chief who oversaw Rodrigo Duterte's anti-drug campaign, took refuge inside the Philippine Senate hours before the International Criminal Court unsealed a warrant for his arrest. He is accused of being an indirect co-perpetrator in killings of at least 32 people between 2016 and 2018, while Duterte himself has been in ICC custody in The Hague since March 2025. The Philippine police said they would not arrest Dela Rosa while he remained under Senate custody, and his lawyers have asked the Supreme Court to block any arrest without a Philippine judicial warrant. The case comes amid a wider Duterte-Marcos feud, with the lower house voting to impeach Vice-President Sara Duterte on the same day the Senate elected a new president.",
+      "prop_args": [
+        {
+          "thesis": "Allowing ICC enforcement against powerful domestic actors is necessary to end impunity and make mass atrocity law credible.",
+          "mechanisms": [
+            "First, ICC action breaks the protection racket that domestic elites build around themselves. This is because (1) local police and courts are often captured by the same political networks that ordered or tolerated abuses, (2) senior officials can hide behind procedural delays and jurisdictional disputes, and (3) arrest warrants create a concrete enforcement point that domestic victims cannot generate on their own.",
+            "Second, international prosecution deters future abuse by raising the personal cost for commanders, not just foot soldiers. Three reasons: one, it signals that political office does not erase liability; two, it forces mid-level enforcers to think twice before carrying out unlawful campaigns; three, it weakens the norm that mass killings are an acceptable tool of governance.",
+            "Third, this strengthens long-term state legitimacy and transitional justice. This matters because (1) victims get acknowledgment that the state failed them, (2) future governments inherit a cleaner institutional baseline, and (3) democratic competition becomes less distorted when candidates cannot rely on violent patronage networks to stay untouchable."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "ICC intervention can backfire by turning accountability into a sovereignty crisis that hardens domestic resistance and politicizes justice.",
+          "mechanisms": [
+            "First, external enforcement can trigger nationalist backlash that protects the accused. One, elites can frame the ICC as foreign interference, which is especially potent when the accused claims local courts should decide; two, that narrative mobilizes supporters around sovereignty rather than the underlying crimes; three, it makes cooperation with international institutions politically costly for domestic officials.",
+            "Second, selective or delayed international justice can deepen polarization instead of healing it. One, when prosecutions arrive years later, they are easily read as revenge by rival factions; two, if one camp is targeted while allies escape, the process looks partisan; three, that perception can undermine trust in both the ICC and domestic institutions.",
+            "Third, weak enforcement capacity means warrants may produce spectacle without real accountability. One, if suspects can shelter in legislatures or rely on procedural shields, the ICC cannot compel compliance on its own; two, failed arrests can embolden other perpetrators by showing the limits of international law; three, the gap between legal principle and actual enforcement can reduce deterrence rather than increase it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether international prosecution actually changes behavior or merely creates symbolic confrontation. Prop wins if the round is about ending entrenched impunity; opp wins if the focus is on backlash, selectivity, and the limits of enforcement in a sovereign state with divided institutions.",
+      "stock_connections": [
+        "Impunity",
+        "Transitional Justice",
+        "Sovereignty vs Human Rights",
+        "International Law Enforcement",
+        "Selective Justice",
+        "Nationalism / Backlash Politics",
+        "Elite Capture",
+        "Rule of Law",
+        "Democratic Backsliding"
+      ],
+      "motion_areas": [
+        "TH, as the ICC, would prioritize arrest warrants against sitting and former senior officials in weak democracies",
+        "THBT international courts should be able to override domestic non-cooperation in atrocity cases",
+        "THP a world where alleged mass atrocity perpetrators cannot invoke domestic sovereignty to avoid ICC arrest",
+        "THBT states should cooperate with the ICC even when it targets politically powerful national figures"
+      ],
+      "data_points": [
+        "Dela Rosa is accused of at least 32 killings between 2016 and 2018 as an indirect co-perpetrator",
+        "Duterte has been in ICC custody in The Hague since March 2025",
+        "The ICC Pre-Trial Chamber ruled last month that alleged crimes between 2011 and 2019 fell within its jurisdiction because the Philippines was still a member then",
+        "The Philippines withdrew from the Rome Statute in 2019",
+        "The Philippine Senate has 24 members and is currently dominated by Duterte allies",
+        "The lower house voted to impeach Vice-President Sara Duterte on the same day the Senate elected a new president"
+      ]
+    },
+    {
+      "id": "5d934b41b67c",
+      "title": "India’s Gold Demand Shock Exposes How Fast Household Savings Can Be Redirected",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/india-s-top-jeweler-sees-brief-slowdown-if-gold-buying-curbed",
+      "published": "2026-05-12T04:29:48Z",
+      "category": "Econ",
+      "region": "India",
+      "background": "Bloomberg reports that India’s top jeweler expects only a brief slowdown if gold buying is curbed. The article notes that gold prices have risen nearly 60% this year to record highs, yet demand remains strong in India, China, and Turkey because buyers expect current prices to look cheap in a few months. The photo context places the story in Mumbai’s Zaveri Bazaar ahead of Dhanteras, a major gold-buying festival in India.",
+      "prop_args": [
+        {
+          "thesis": "Curbing gold buying would be a useful short-term policy because it can redirect household savings from unproductive hoarding into more productive financial assets and consumption.",
+          "mechanisms": [
+            "First, restricting or discouraging gold purchases shifts savings into the formal financial system. This is because (1) gold is a low-yield store of value, (2) households often treat it as dead capital rather than investable capital, and (3) moving even a portion of that demand into deposits, bonds, or mutual funds increases credit available for firms and households.",
+            "Second, a curb can reduce external vulnerability. Three reasons: one, India imports large volumes of gold, so demand directly worsens the trade balance; two, lower import demand reduces pressure on the current account and the rupee; three, less import-led outflow gives policymakers more room to stabilize inflation and foreign exchange reserves.",
+            "Third, the policy can be defended as a temporary demand-management tool rather than a permanent cultural ban. This matters because if gold buying is being driven by a speculative rush after a nearly 60% price surge, then even a brief slowdown can break momentum, cool panic buying, and prevent households from chasing an asset at peak prices."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trying to curb gold buying is economically and politically counterproductive because it attacks a deeply embedded household savings behavior without solving the underlying reasons people buy gold.",
+          "mechanisms": [
+            "First, gold demand is a hedge against distrust in financial institutions and macro instability. One, many households prefer a tangible asset they understand; two, gold protects against inflation, currency depreciation, and banking risk; three, if the state suppresses gold demand, savers may simply shift into other informal or unproductive assets rather than into productive finance.",
+            "Second, the policy risks hurting a major retail and jewelry ecosystem. One, India’s jewelry sector depends on festival-driven demand like Dhanteras and wedding-season purchases; two, a curbed market would reduce sales, employment, and working capital for small traders; three, because the article itself says the slowdown would be brief, the economic pain may be immediate while the macro gains are limited.",
+            "Third, gold is not just speculation but a culturally and financially rational savings vehicle for many households. One, families use it for intergenerational wealth storage and emergency liquidity; two, in the absence of universal access to trusted financial products, gold serves as a private insurance mechanism; three, coercive curbs can therefore be regressive, disproportionately affecting middle- and lower-income savers rather than wealthy investors."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether gold demand is treated as wasted capital or as a rational hedge in a low-trust economy. Prop wins if the judge prioritizes macro efficiency and external stability; opp wins if they emphasize household autonomy and the limits of state capacity to re-engineer savings behavior.",
+      "stock_connections": [
+        "Financialization",
+        "Informal Economy",
+        "Household Savings Behavior",
+        "Current Account Deficit",
+        "Currency Stability",
+        "Consumption Smoothing",
+        "Moral Hazard",
+        "Paternalism vs Freedom of Choice"
+      ],
+      "motion_areas": [
+        "TH, as the Indian government, would curb household gold buying",
+        "THBT governments should discourage investment in non-productive stores of value",
+        "THP a world where major economies tax or restrict gold purchases to redirect savings into formal finance"
+      ],
+      "data_points": [
+        "Gold prices have risen nearly 60% this year to a record high",
+        "India’s top jeweler expects only a brief slowdown if gold buying is curbed",
+        "The article situates demand around Dhanteras, a major Indian gold-buying festival",
+        "Bloomberg notes strong gold demand in India, China, and Turkey despite record prices"
+      ]
+    },
+    {
+      "id": "b09c82460f86",
+      "title": "Israel’s 7 October Death-Penalty Tribunal Trades Due Process for Retributive Sovereignty",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T04:11:42Z",
+      "category": "IR",
+      "region": "Israel / Gaza-Palestinian territories",
+      "background": "Israel’s Knesset passed a new law by 93 votes to 0 creating a special legal framework for prosecuting people alleged to have directly participated in the Hamas-led 7 October 2023 attacks and hostage-taking. The law allows for the death penalty and public trials, including filmed opening, verdict, and sentencing hearings broadcast on a dedicated website, and applies to suspects such as members of Hamas’s Nukhba unit captured in Israel. Human rights groups warn the framework may rely on confessions extracted under torture and weaken ordinary criminal safeguards, while supporters frame it as a historic accountability process comparable to the Eichmann trial.",
+      "prop_args": [
+        {
+          "thesis": "Israel should create a special tribunal with capital punishment and public proceedings for 7 October perpetrators because mass atrocity crimes require exceptional accountability that ordinary criminal law cannot deliver.",
+          "mechanisms": [
+            "First, the special tribunal restores deterrence and state credibility after an unprecedented mass-casualty attack. This is because (1) the 7 October assault killed over 1,200 people and involved 251 hostages, so the scale is far beyond ordinary terrorism cases, (2) a bespoke framework signals that mass murder and sexual violence against civilians will trigger the maximum legal response, and (3) public sentencing creates a visible state monopoly on punishment that can reassure a traumatized public and deter copycat atrocities.",
+            "Second, a tailored court is necessary to process an unusually large and complex evidentiary record. Three reasons: one, investigators reportedly reviewed thousands of hours of video and audio plus interrogation material, two, the defendants are alleged to be part of a coordinated military-terror structure rather than isolated offenders, and three, a special military court can adapt procedure to handle classified intelligence, mass victim testimony, and cross-border evidence without collapsing under standard criminal rules.",
+            "Third, public trials serve a truth-telling and victim-healing function that private proceedings cannot. This matters because (1) many families still lack answers about killings and hostage deaths, (2) broadcasting key moments can create a shared historical record and deny perpetrators the ability to hide behind secrecy, and (3) for societies facing atrocity, formal public condemnation can be as important as punishment in restoring moral order and preventing denial."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel should not use a death-penalty special tribunal because it undermines due process, risks wrongful convictions, and turns justice into political theater.",
+          "mechanisms": [
+            "First, the framework weakens evidentiary safeguards and increases the chance of executing the wrong people. One, human rights groups say some detainees have been tortured and that confessions may be coerced, two, the law contemplates hearings where defendants may not even be physically present, and three, once the state lowers procedural protections in a politically charged mass case, the risk of irreversible error becomes unacceptable because death penalty cases cannot be corrected after execution.",
+            "Second, public trials and a special military court incentivize show-trial dynamics rather than neutral adjudication. One, the law was explicitly sold as a spectacle with filmed openings, verdicts, and sentencing, two, coalition politicians have framed it in openly retributive language about making victims look into the eyes of 'murderers, rapists and kidnappers,' and three, that political pressure makes judges more likely to confirm pre-decided outcomes than independently test evidence.",
+            "Third, the law may damage Israel’s international legitimacy and fuel further conflict rather than closure. One, capital punishment is highly controversial and Israel has long been de facto abolitionist, two, executing Palestinians after a mass war will be read by many actors as collective punishment rather than individualized justice, and three, that perception can deepen radicalization, complicate hostage diplomacy, and give Israel’s critics a powerful propaganda tool."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between expressive justice and irreversible legal error. Prop wins if the round is about exceptional atrocity and state legitimacy; opp wins if the judge prioritizes due process, because once the state executes someone, any procedural abuse or mistaken conviction is permanent.",
+      "stock_connections": [
+        "Due Process",
+        "Show Trials",
+        "Rule of Law",
+        "Collective Punishment",
+        "Deterrence",
+        "Retributive Justice",
+        "State Legitimacy",
+        "Transitional Justice",
+        "Terrorism and Counterterrorism",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would establish a special death-penalty tribunal for 7 October perpetrators",
+        "THBT states should allow capital punishment for mass atrocity terrorism cases",
+        "THP a world where war crimes and terror attacks are tried in public special tribunals",
+        "THBT victims of mass atrocities should have a greater role in criminal proceedings than defendants' procedural protections"
+      ],
+      "data_points": [
+        "93-0 Knesset vote in favor of the new law; 27 lawmakers absent or abstained",
+        "7 October 2023 attacks killed over 1,200 people in southern Israel",
+        "251 people were kidnapped and held in Gaza after the attacks",
+        "Israel’s Prison Service holds 1,283 people as 'unlawful combatants' without formal charges",
+        "Reports say roughly 300 to 400 Gazans are held as criminal defendants suspected of involvement in the 7 October attacks",
+        "Gaza war death toll cited by Hamas-run Health Ministry: 72,740 killed to date",
+        "Israel passed a separate Death Penalty for Terrorists Law in March 2026, but it was not retroactive",
+        "Israel previously executed only one person by civil court: Adolf Eichmann in 1962"
+      ]
+    },
     {
       "id": "68634312c4b2",
       "title": "China’s Food and Fertiliser Stockpiling Turns Global Supply Shocks Into a Geopolitical Weapon",
