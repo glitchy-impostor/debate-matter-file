@@ -1,7 +1,538 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-13T17:25:38Z",
+  "last_updated": "2026-05-13T20:09:42Z",
   "cards": [
+    {
+      "id": "adb4726fde30",
+      "title": "Trump’s Iran War Tests Congress’s Power to Stop Unauthorised Military Escalation",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/trump-iran-senate-war-powers",
+      "published": "2026-05-13T19:46:31Z",
+      "category": "IR",
+      "region": "United States / Iran",
+      "background": "On 13 May 2026, the US Senate rejected a war powers resolution by a 49-50 vote, marking the seventh Democratic attempt to force an end to American involvement in the war on Iran since the conflict began in February. All Democrats except John Fetterman supported the measure, and for the first time Alaska Republican Lisa Murkowski voted in favor, joining Rand Paul and Susan Collins as the only Republicans backing it. Congress has not formally authorized the campaign, while the Trump administration argues that a ceasefire with Iran means the 60-day deadline under the 1973 War Powers Act no longer applies.",
+      "prop_args": [
+        {
+          "thesis": "Congress should be able to stop an undeclared war when the executive branch expands a conflict without formal authorization.",
+          "mechanisms": [
+            "First, this restores constitutional checks on war-making. This is because (1) the War Powers Act was designed to stop presidents from unilaterally dragging the country into sustained hostilities, (2) repeated Senate votes show there is no durable legislative consent for the campaign, and (3) forcing a vote creates a public accountability moment that can constrain future executive escalation.",
+            "Second, it reduces the risk of mission creep and strategic overreach. Three reasons: one, once troops and strikes are already underway, presidents have incentives to keep escalating to avoid looking weak; two, Congress is better placed to force a debate on end goals, exit conditions, and costs; three, the absence of an AUMF means the war can continue by inertia rather than by democratic choice.",
+            "Third, it improves long-run US credibility and alliance management. This matters because allies and adversaries both read congressional authorization as a signal of domestic durability; if the war is politically contested at home, a forced stop can prevent the US from committing to an open-ended conflict it may later abandon, which is worse for deterrence than a deliberate pause."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Stopping the war through a war powers resolution would prematurely constrain the president and risk leaving the US without a coherent strategy against Iran.",
+          "mechanisms": [
+            "First, it can undercut active military operations before they achieve their objectives. One, the administration says a ceasefire is in place, so the conflict is in a fluid transition rather than a clean peace; two, pulling support mid-operation can expose US forces and partners to retaliation; three, Congress may not have a workable alternative plan for deterrence, containment, or enforcement.",
+            "Second, it can weaken crisis bargaining and embolden Iran. One, if Tehran sees Congress unwilling to sustain pressure, it may conclude the US lacks resolve; two, adversaries can exploit legislative division to wait out American commitments; three, a premature cutoff may reduce leverage in any follow-on AUMF or ceasefire framework.",
+            "Third, the proper remedy is authorization, not abrupt termination. One, Murkowski and others argue for a future AUMF, which suggests Congress can regularize the war without immediately ending it; two, a tailored authorization can set objectives, limits, and reporting requirements; three, this preserves democratic oversight while avoiding the operational shock of an immediate shutdown."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between democratic control and operational continuity. Prop wins if the round prioritizes constitutional legitimacy and preventing open-ended executive war, while Opp wins if the judge thinks the immediate costs of halting an ongoing conflict outweigh the abstract harm of unauthorized force.",
+      "stock_connections": [
+        "Executive Overreach",
+        "Separation of Powers",
+        "Democratic Accountability",
+        "Mission Creep",
+        "War Weariness",
+        "Credibility and Deterrence",
+        "Authorization for the Use of Military Force (AUMF)",
+        "Checks and Balances"
+      ],
+      "motion_areas": [
+        "TH, as the US Congress, would force an immediate end to military involvement in Iran absent a formal AUMF",
+        "THBT legislatures should be able to terminate ongoing military operations launched without prior authorization",
+        "THP a world where war powers resolutions can automatically suspend undeclared conflicts after 60 days"
+      ],
+      "data_points": [
+        "Senate vote: 49-50 against the war powers resolution",
+        "This was the seventh Democratic attempt to end US involvement in the Iran war since February 2026",
+        "Only three Republicans voted in favor: Lisa Murkowski, Rand Paul, and Susan Collins",
+        "All Democrats except John Fetterman supported advancement of the resolution",
+        "The 1973 War Powers Act includes a 60-day deadline for congressional action on hostilities",
+        "Congress has not formally authorized the US campaign against Iran"
+      ]
+    },
+    {
+      "id": "a6753cfeec46",
+      "title": "US Supreme Court Weakens Voting Rights Act, Triggering a Mid-Decade Gerrymander Arms Race in Georgia and the South",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/georgia-brian-kemp-electoral-maps-session",
+      "published": "2026-05-13T19:10:47Z",
+      "category": "IR",
+      "region": "United States (Georgia)",
+      "background": "Georgia Republican governor Brian Kemp announced a special legislative session starting 17 June to redraw state legislative and congressional maps. The move comes after the US supreme court’s April ruling in Louisiana v Callais, which effectively weakened Section 2 of the Voting Rights Act by striking down districts drawn to protect Black and minority voting power as unconstitutional racial gerrymanders. Georgia is joining a broader mid-decade redistricting wave already seen in Louisiana, Alabama, Tennessee, and other states, with some maps being redrawn before the 2026 elections.",
+      "prop_args": [
+        {
+          "thesis": "The Supreme Court’s ruling and Georgia’s redraw entrench majority rule over minority representation, making the political system less democratic and more durable for one party.",
+          "mechanisms": [
+            "First, the new legal environment lowers the cost of partisan map manipulation. This is because (1) states can now justify aggressive redistricting as compliance with anti-racial-gerrymandering doctrine, (2) Republican-controlled legislatures can move quickly while they still hold unified power, and (3) once maps are locked in, they shape multiple election cycles rather than one contest.",
+            "Second, the redraw can directly eliminate minority-preferred seats and weaken Black political voice. Three reasons: one, the article notes Republicans could draw Democratic Rep. Sanford Bishop, a Black member of Congress since 1993, out of his seat; two, similar moves in Louisiana, Alabama, and Tennessee already targeted Black-majority districts; three, removing such districts reduces the number of candidates who can win by mobilizing minority communities rather than relying on white crossover votes.",
+            "Third, this creates a self-reinforcing partisan arms race that advantages the side with state power. This matters because (1) each redraw pressures the other party to retaliate in kind, (2) the result is a national escalation of mid-decade gerrymandering outside the normal census cycle, and (3) over time the party that controls more state governments can convert temporary electoral advantage into structural House-seat advantage."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Redistricting is a legitimate response to a changed legal framework and can improve representational fairness by aligning maps with current law and population realities.",
+          "mechanisms": [
+            "First, the Supreme Court’s decision forces states to update maps to avoid unconstitutional racial classifications. One, states cannot keep using districts that courts may now strike down; two, redrawing avoids litigation uncertainty and election chaos; three, legislatures have a duty to implement the new legal standard rather than freeze outdated maps in place.",
+            "Second, partisan map changes do not necessarily translate into durable control because aggressive gerrymanders can backfire. One, the article explicitly notes the risk of a 'dummymander' where overreach helps the opposition; two, demographic and turnout shifts can make supposedly safe seats competitive; three, courts, ballot measures, and state-level resistance can still constrain the most extreme plans.",
+            "Third, the process can be defended as restoring accountability in a polarized system. One, if districts are drawn to reflect current political geography, voters get clearer responsibility for outcomes; two, states like South Carolina have shown that not every Republican state will follow Trump-style pressure, so the national effect is not uniform; three, mid-decade redraws may simply be a temporary correction rather than a permanent democratic collapse."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the redraw is treated as lawful compliance or as strategic entrenchment. Prop is stronger on structural impact because once minority districts are removed and maps are locked in, the harm compounds across several election cycles, while Opp mostly relies on uncertainty, legal necessity, and the possibility of a dummymander.",
+      "stock_connections": [
+        "Gerrymandering",
+        "Voter Suppression",
+        "Democratic Backsliding",
+        "Minority Representation",
+        "Race to the Bottom",
+        "Partisan Entrenchment",
+        "Judicial Overreach",
+        "Structural Bias"
+      ],
+      "motion_areas": [
+        "TH, as the US Supreme Court, would preserve Section 2 of the Voting Rights Act",
+        "THBT US states should be allowed to redraw electoral maps mid-decade",
+        "THP a world where independent commissions control all congressional redistricting",
+        "THBT the Democratic Party should respond to Republican gerrymanders in kind"
+      ],
+      "data_points": [
+        "Georgia special session starts on 17 June 2026",
+        "Georgia’s primaries are set for next Tuesday",
+        "Brian Kemp’s term ends next January",
+        "Supreme Court ruling in Louisiana v Callais was issued in April 2026",
+        "Rep. Sanford Bishop has served in Congress since 1993",
+        "Louisiana set aside tens of thousands of ballots already cast after redrawing maps",
+        "Alabama received Supreme Court approval to use a map previously deemed discriminatory to Black voters",
+        "Tennessee authorized new maps eliminating its lone Democratic, Black-majority congressional district"
+      ]
+    },
+    {
+      "id": "1151be1df971",
+      "title": "Warsh’s Narrow Fed Confirmation Raises the Risk of Political Capture at the U.S. Central Bank",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/senate-confirms-warsh-to-lead-fed-video",
+      "published": "2026-05-13T18:58:15Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "On Wednesday, the U.S. Senate confirmed Kevin Warsh as chair of the Federal Reserve by a 54-45 vote, the narrowest confirmation margin ever for a central bank chief. The vote came amid intense partisan polarization and Democratic concern that Warsh will be more willing to cut interest rates quickly in line with President Donald Trump’s demands. The confirmation sets up a major test of the Federal Reserve’s independence at a time when monetary policy remains politically salient.",
+      "prop_args": [
+        {
+          "thesis": "A politically aligned Fed chair undermines monetary credibility, making the U.S. economy more vulnerable to inflation, asset bubbles, and long-run instability.",
+          "mechanisms": [
+            "First, political pressure to cut rates too quickly weakens the Fed’s inflation-fighting credibility. This is because (1) markets start to believe policy is being set for electoral convenience rather than macroeconomic fundamentals, (2) wage- and price-setters then expect higher future inflation and adjust behavior accordingly, and (3) the Fed must eventually tighten harder to restore credibility, causing a sharper slowdown later.",
+            "Second, a chair seen as responsive to the White House lowers borrowing costs in the short term but encourages excess risk-taking. Three reasons: one, cheaper credit inflates equities, housing, and private credit valuations; two, firms and households take on more leverage under the assumption rates will stay artificially low; three, when inflation or financial stress returns, the correction is larger because leverage has built up across the economy.",
+            "Third, preserving central bank independence matters because it is one of the few institutional checks on executive overreach in economic policy. This matters because the Fed can absorb politically unpopular tightening now to prevent a worse recession or inflation spike later, whereas a captured Fed tends to prioritize short-term growth optics over long-term price stability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A more responsive Fed chair can better align monetary policy with real economic conditions and democratic accountability, especially when the central bank has become too insulated from public pressure.",
+          "mechanisms": [
+            "First, the Fed is not politically neutral in practice, so greater responsiveness can correct a bias toward overly tight policy. One, central bankers can become institutionally conservative and overvalue inflation avoidance relative to employment; two, elected leaders face broader macroeconomic mandates from voters, including jobs and growth; three, if the economy is slowing, faster rate cuts can prevent unnecessary unemployment and business failures.",
+            "Second, a chair who can work with the administration may reduce policy gridlock and improve macro coordination. One, fiscal and monetary policy are more effective when they are not pulling in opposite directions; two, clearer alignment can stabilize expectations if markets believe the government is pursuing a coherent growth strategy; three, in a crisis or softening cycle, speed matters more than abstract independence.",
+            "Third, fears of capture may be overstated because the Fed still has institutional constraints and market discipline. One, the FOMC is a committee, not a one-person monarchy; two, bond markets and inflation data punish reckless easing quickly; three, if Warsh cuts too aggressively, rising yields and inflation expectations will force a correction regardless of presidential preferences."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether central bank independence is a hard constraint that prevents macroeconomic abuse, or an elite norm that can be traded off for faster growth and employment. Prop wins if you prioritize credibility and the long-run inflation/unemployment tradeoff; Opp wins if you believe the Fed has become too cautious and that democratic responsiveness improves policy timing without fully eliminating institutional checks.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Political Business Cycles",
+        "Inflation Expectations",
+        "Moral Hazard",
+        "Institutional Capture",
+        "Democratic Accountability",
+        "Short-Termism vs Long-Termism",
+        "Macroprudential Risk",
+        "Credibility Theory"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize central bank independence over democratic responsiveness",
+        "THBT the Federal Reserve should be insulated from presidential influence",
+        "THP a world where central bank chairs are selected primarily for policy alignment with the elected government"
+      ],
+      "data_points": [
+        "Kevin Warsh was confirmed by the Senate in a 54-45 vote",
+        "54-45 is the slimmest confirmation margin ever for a head of the U.S. central bank",
+        "The confirmation comes amid President Donald Trump’s public push for rapid interest rate cuts",
+        "The Federal Reserve chair controls U.S. monetary policy leadership at a time when rate decisions affect inflation, employment, and borrowing costs"
+      ]
+    },
+    {
+      "id": "5a639c06d4cc",
+      "title": "Secret Israel-UAE Wartime Coordination Turns the Abraham Accords Into a De Facto Anti-Iran Security Alliance",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/benjamin-netanyahu-made-secret-trip-to-uae-at-height-of-the-iran-war",
+      "published": "2026-05-13T18:54:05Z",
+      "category": "IR",
+      "region": "Israel / United Arab Emirates / Iran / Middle East-Gulf",
+      "background": "Benjamin Netanyahu revealed he made a secret trip to the UAE on 26 March 2026, meeting UAE president Sheikh Mohamed bin Zayed Al Nahyan in Al Ain during the Iran war. Reuters also reported that Mossad chief David Barnea made at least two visits to the UAE during the conflict to coordinate military actions. On Tuesday, US ambassador Mike Huckabee said Israel had shared its air defence system with the UAE, including Iron Dome batteries and military specialists, while the Wall Street Journal reported the UAE conducted its own strikes on Iran, including an attack on a refinery on Lavan island in early April.",
+      "prop_args": [
+        {
+          "thesis": "The secret Netanyahu visit shows the Abraham Accords are evolving from symbolic normalization into a real regional security bloc that can deter Iran and reduce Gulf states' dependence on the US.",
+          "mechanisms": [
+            "First, the visit institutionalizes intelligence and military coordination between Israel and the UAE. This matters because (1) covert leader-level contact lowers transaction costs for future joint operations, (2) it creates trusted channels for sharing air-defense, targeting, and threat intelligence, and (3) it signals to Iran that retaliation will be met by a coordinated coalition rather than isolated states.",
+            "Second, the alliance gives the UAE hard-security capabilities it could not build alone. Three reasons: one, Israel can provide battle-tested missile defense and operational expertise; two, the UAE gains access to a partner with superior intelligence on Iranian networks and missile threats; three, the UAE can use this relationship to hedge against overreliance on Washington, especially when US commitment becomes uncertain under future administrations.",
+            "Third, this changes the regional balance by normalizing anti-Iran alignment among Arab states. This matters because it raises the cost of Iranian escalation, encourages other states to quietly cooperate with Israel, and makes it harder for Iran to exploit Arab-Israeli divisions to isolate either side."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The visit exposes a fragile, transactional alliance that deepens regional polarization, increases the risk of escalation with Iran, and ties both governments to unpopular war policies and human-rights abuses.",
+          "mechanisms": [
+            "First, covert military coordination makes the UAE a more obvious target for Iranian retaliation. One, secrecy does not prevent detection once strikes or air-defense transfers become public; two, Iran can respond asymmetrically through proxies, cyberattacks, or attacks on energy infrastructure; three, the UAE's economic model depends on stability, so even limited retaliation imposes outsized costs.",
+            "Second, the alliance is politically brittle because it depends on the current US and leadership alignment. One, both Israel and the UAE are vulnerable to a change in Washington's policy direction; two, the relationship is driven by shared threat perception rather than durable public legitimacy; three, once the Iran war ends, domestic and regional pressure may force both sides to distance themselves, limiting long-term strategic value.",
+            "Third, the partnership normalizes impunity by linking two governments accused of grave abuses. One, Israel is under ICC arrest warrants and genocide allegations over Gaza; two, the UAE is widely accused of arming the Rapid Support Forces in Sudan; three, closer cooperation gives both sides diplomatic cover and weakens international accountability norms."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you prioritize immediate deterrence and operational effectiveness or long-term regional stability and legitimacy. Prop wins if the round is about hard security against Iran; opp wins if the clash is about escalation risk, civilian harm, and the fragility of alliances built on secrecy and external patronage.",
+      "stock_connections": [
+        "Balance of Power",
+        "Security Dilemma",
+        "Alliance Politics",
+        "Deterrence Theory",
+        "Transactional Diplomacy",
+        "Regional Hegemony",
+        "Proxy War Escalation",
+        "Democratic Legitimacy / Authoritarian Bargains",
+        "War Crimes / Accountability Erosion"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would deepen covert security cooperation with the UAE against Iran",
+        "THBT the Abraham Accords have made the Middle East more stable",
+        "THP a world where Gulf states form an explicit anti-Iran security bloc with Israel",
+        "THBT states should prioritize covert military alliances over public diplomatic normalization in hostile regions"
+      ],
+      "data_points": [
+        "Netanyahu made a secret trip to Al Ain, UAE, on 26 March 2026, during the Iran war",
+        "Mossad director David Barnea reportedly made at least two visits to the UAE during the war",
+        "US ambassador Mike Huckabee said Israel shared Iron Dome batteries and military specialists with the UAE during the conflict",
+        "The UAE joined the Abraham Accords in 2020 as the first Islamic country to normalize relations with Israel",
+        "The UAE left the Saudi-led Opec oil cartel at the beginning of May 2026",
+        "Netanyahu and former defence minister Yoav Gallant are subject to ICC arrest warrants",
+        "The UAE is widely believed to be arming and funding the Rapid Support Forces in Sudan"
+      ]
+    },
+    {
+      "id": "95010dcc4f7b",
+      "title": "Trump-Aligned Fed Chair Raises Stakes Over US Monetary Independence",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
+      "published": "2026-05-13T18:49:24Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The US Senate confirmed Kevin Warsh as chair of the Federal Reserve by a 54-45 vote, with Pennsylvania Democrat John Fetterman joining Republicans. Warsh will begin a four-year term as Fed chair on 14 May, alongside a 14-year appointment on the Fed’s rate-setting board, replacing Jerome Powell. The appointment comes as the Trump administration is pressuring the Fed to cut interest rates while inflation has risen to 3.8%, and Powell has said he will remain on the board as a voting governor after his chair term ends.",
+      "prop_args": [
+        {
+          "thesis": "Installing a chair who is politically aligned with the White House increases the risk of premature rate cuts, which can entrench inflation and weaken the Fed’s credibility.",
+          "mechanisms": [
+            "First, a more politically responsive chair lowers the barrier to easing policy before inflation is fully contained. This is because (1) the chair sets the agenda and frames the internal debate, (2) the White House is explicitly demanding lower rates, and (3) Warsh has already echoed Trump’s call for cuts, so the institutional pressure is no longer abstract.",
+            "Second, even if the chair cannot dictate policy alone, they can shift the coalition inside the 12-member voting board. Three reasons: one, the chair controls information flow and meeting priorities; two, markets read the chair as the Fed’s signal of future direction; three, dissenting governors face higher political and reputational costs when the chair is publicly aligned with the president.",
+            "Third, the macroeconomic downside of cutting too early is asymmetric. This matters because (1) inflation is already at 3.8%, so easing risks re-accelerating prices, (2) once inflation expectations de-anchor, the Fed must later raise rates more aggressively, and (3) that second-round tightening is more recessionary than waiting would have been."
+          ]
+        },
+        {
+          "thesis": "Warsh’s confirmation threatens the Fed’s institutional independence, which is essential for long-run economic stability and investor confidence.",
+          "mechanisms": [
+            "First, the appointment creates a precedent that monetary policy is a partisan reward rather than a technocratic function. This is because (1) the vote split was almost entirely along party lines, (2) Warsh refused to answer a basic democratic legitimacy question about 2020, and (3) Democrats are already describing him as a Trump 'sock puppet', which signals that future chairs will be judged by loyalty rather than competence.",
+            "Second, perceived politicization raises the risk premium on US assets. Three reasons: one, investors price in more policy uncertainty when central bank decisions look politically driven; two, bond markets demand higher yields if inflation discipline is doubted; three, higher yields feed through into mortgages, corporate borrowing, and public debt servicing costs.",
+            "Third, the Fed’s ability to act as a crisis backstop depends on trust. This matters because (1) in recessions or financial shocks, the public must believe the Fed will prioritize stability over electoral cycles, (2) if that trust erodes, policy transmission becomes weaker, and (3) the economy becomes more vulnerable to panic and volatility."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Warsh’s confirmation can improve policy by correcting an overly tight Fed and giving markets a chair more willing to support growth without abandoning inflation control.",
+          "mechanisms": [
+            "First, the US economy may benefit from a chair who is more open to rate cuts if growth is slowing. One, higher rates cool spending and hiring, so keeping them elevated too long can unnecessarily raise unemployment; two, Warsh is an experienced former Fed governor and Wall Street economist, so he is not an amateur political appointee; three, a chair who can credibly argue for easing may prevent the Fed from overcorrecting on inflation.",
+            "Second, the appointment may restore balance after a period of policy rigidity. One, Warsh previously served on the Fed from 2006 to 2011 and has seen both crisis stimulus and inflation-fighting; two, his earlier reputation as an inflation hawk suggests he is not automatically dovish; three, that combination can produce a more flexible, data-dependent policy mix rather than a one-directional bias.",
+            "Third, if inflation is driven partly by external shocks, rate hikes are a blunt tool and cuts may be justified. This is because (1) the article notes war in the Middle East, which can raise energy and supply costs outside the Fed’s control, (2) tighter policy cannot fix supply-side inflation, and (3) maintaining excessively high rates in that environment risks sacrificing jobs for limited disinflation."
+          ]
+        },
+        {
+          "thesis": "The Fed’s institutional structure still constrains any one chair, so fears of capture are overstated.",
+          "mechanisms": [
+            "First, the chair is only one vote on a 12-member rate-setting board. One, Warsh must persuade other governors and regional presidents, not command them; two, the article explicitly says he must convince the board to lower rates; three, that internal veto structure limits any single president’s ability to hijack policy.",
+            "Second, public commitments to independence and market scrutiny discipline the chair. One, Warsh told senators he would 'take politics out of monetary policy'; two, any obvious deviation would be punished by markets, Congress, and the Fed’s own professional staff; three, the chair’s credibility is a valuable asset, so even a politically connected chair has incentives to preserve it.",
+            "Third, Powell’s continued presence on the board provides continuity and a counterweight. One, Powell is staying on as a voting governor, so the outgoing chair does not disappear immediately; two, that means the board retains institutional memory and an internal check on abrupt policy shifts; three, continuity reduces the chance of a sudden, destabilizing break from prior Fed practice."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether political alignment actually translates into policy capture or whether institutional constraints keep the Fed independent. Prop is stronger on systemic risk and credibility loss; opp is stronger if the round centers on growth and the claim that the Fed has room to ease without reigniting inflation.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Monetary Policy Credibility",
+        "Inflation vs Unemployment Tradeoff",
+        "Institutional Capture",
+        "Politicization of Technocracy",
+        "Moral Hazard",
+        "Market Confidence"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize central bank independence over short-term growth",
+        "THBT central banks should be insulated from elected executives",
+        "THP a world where central bank chairs are appointed by legislatures rather than presidents",
+        "TH, as a central bank, would refuse political pressure to cut rates during inflationary periods"
+      ],
+      "data_points": [
+        "US Senate confirmed Kevin Warsh by a 54-45 vote, with only John Fetterman breaking party lines",
+        "Warsh begins a four-year term as Fed chair and a 14-year appointment on the rate-setting board on 14 May",
+        "US inflation is reported at 3.8%",
+        "The Fed’s rate-setting board has 12 voting members",
+        "Warsh previously served as a Fed governor from 2006 to 2011",
+        "Powell said he will remain on the Fed board as a voting governor after his chair term ends"
+      ]
+    },
+    {
+      "id": "8bc15487e7e1",
+      "title": "Sticky U.S. Inflation Pushes the Fed Toward a New Hiking Bias",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/fed-s-warsh-to-face-the-highest-inflation-in-three-years-video",
+      "published": "2026-05-13T18:43:14Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "Bloomberg reports that the U.S. is seeing its highest inflation in three years, with recent data pushing markets to expect the Federal Reserve will not cut rates soon. Two-year Treasury yields rose to 4%, their highest since June last year, as traders priced in a higher chance that the next Fed move will be a hike rather than a cut. The discussion features Douglas Holtz-Eakin, former CBO director and president of the American Action Forum, assessing how the inflation print will affect Fed rate decisions as Warsh arrives at the central bank debate.",
+      "prop_args": [
+        {
+          "thesis": "The Fed should prioritize inflation credibility and keep policy tighter for longer, even if that means slower growth in the short run.",
+          "mechanisms": [
+            "First, higher inflation expectations become self-reinforcing if the Fed signals tolerance. This is because (1) households and firms start setting wages and prices around the assumption that inflation will stay elevated, (2) long-term borrowing costs rise as investors demand an inflation premium, and (3) the central bank loses the ability to anchor expectations without a sharper future tightening cycle.",
+            "Second, keeping rates elevated protects the Fed's institutional credibility. Three reasons: one, the Fed's core mandate is price stability, so missing on inflation is more damaging than missing modestly on growth; two, markets already moved to price a higher probability of a hike, so easing now would look like capitulation; three, a credible anti-inflation stance reduces the risk of a later Volcker-style shock.",
+            "Third, the medium-term welfare loss from inflation is larger than the short-term pain of tighter money. This matters because persistent inflation erodes real wages, disproportionately hurts savers and fixed-income households, and creates policy uncertainty that suppresses productive investment more than a temporary rate hold does."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Fed should avoid overreacting to a temporary inflation spike because tighter policy risks unnecessary damage to employment and financial stability.",
+          "mechanisms": [
+            "First, rate hikes work with long and variable lags, so reacting to one hot print can overshoot. One, monetary tightening today affects mortgages, business credit, and hiring only after months; two, inflation may already be easing in underlying components even if headline data is high; three, if the Fed hikes into a slowdown, it can create a recession after the inflation shock has passed.",
+            "Second, higher rates can trigger broader financial stress. One, two-year Treasury yields at 4% raise funding costs across the economy, including for small firms and leveraged borrowers; two, higher debt-service burdens can expose weak balance sheets and amplify defaults; three, if markets are already volatile, an aggressive Fed move can tighten conditions far beyond what the committee intends.",
+            "Third, the Fed should preserve flexibility rather than lock itself into a hawkish path. One, the next move being 'more likely a hike than a cut' is still just market pricing, not a policy necessity; two, the central bank can wait for more data before committing to a direction; three, avoiding premature tightening keeps room to respond if growth weakens or inflation proves transitory."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the inflation shock is persistent enough to justify sacrificing near-term growth for credibility. Prop wins if you think expectations are becoming unanchored and the Fed must prevent a larger future correction; opp wins if you think the data is noisy and the real risk is tightening into a slowdown with long lags.",
+      "stock_connections": [
+        "Inflation Expectations",
+        "Central Bank Credibility",
+        "Monetary Policy Lags",
+        "Phillips Curve",
+        "Recession Risk",
+        "Financial Stability",
+        "Policy Overreaction"
+      ],
+      "motion_areas": [
+        "TH, as the Federal Reserve, would keep interest rates higher for longer despite slowing growth",
+        "THBT central banks should prioritize inflation credibility over short-term employment concerns",
+        "THP a world where the next Fed move is more likely a hike than a cut"
+      ],
+      "data_points": [
+        "U.S. inflation is at its highest level in three years",
+        "Two-year Treasury yields touched 4%, their highest since June last year",
+        "Markets now price the next Fed move as more likely a hike than a cut",
+        "Douglas Holtz-Eakin is a former Director of the Congressional Budget Office and president of the American Action Forum"
+      ]
+    },
+    {
+      "id": "7c34e74eab8d",
+      "title": "China’s Economic Leverage Is Real, But U.S.-Led Allied Coordination Still Decides the Trade War",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/china-economy-us-trade-negotiations-trump-visit/",
+      "published": "2026-05-13T18:35:15Z",
+      "category": "Econ",
+      "region": "United States / China / Europe / Global",
+      "background": "The article discusses the Trump administration’s 2025 tariff escalation against China, including a brief 145 percent tariff spike in April 2025 and an effective tariff rate of around 40 percent for much of the year. China retaliated with equivalent tariffs and used its dominance in rare-earth minerals to threaten U.S. industrial supply chains, forcing Washington into May 14 trade talks seeking relief on rare-earth controls and Chinese purchases of U.S. goods. The piece also cites estimates that U.S. exports to China were around $500 billion in 2024, Chinese exports to the U.S. fell 20 percent in 2025, and China recorded a $1.2 trillion trade surplus.",
+      "prop_args": [
+        {
+          "thesis": "The United States and its allies still have the stronger long-run economic position, so China’s current leverage is tactical rather than decisive.",
+          "mechanisms": [
+            "First, the U.S.-led bloc controls the highest-value nodes of the global economy. This is because (1) Western firms capture 38 percent of global profits versus 16 percent for China and Hong Kong combined, (2) in high technology the U.S. and allies capture 83.8 percent of global profits while China gets only 6.1 percent, and (3) China’s export machine depends on foreign capital, technology, and market access, so decoupling hurts Beijing’s core growth model more than America’s.",
+            "Second, China’s apparent strength is concentrated in a few asymmetric choke points, not broad economic resilience. Three reasons: one, rare earths are a low-value $6 billion industry that can be stockpiled and eventually diversified away; two, China’s leverage works best only in the short run before supply chains adjust; three, most of China’s value-added manufacturing remains in low-tech sectors like metals, plastics, and toys, which are easier to relocate than advanced ecosystem capabilities.",
+            "Third, the U.S. can convert structural advantage into real coercive power if it coordinates with allies. This matters because (1) the U.S. bloc’s GDP is more than 2.5 times the China bloc’s GDP, (2) allied coordination magnifies sanctions, export controls, and supply-chain relocation, and (3) a united Western front prevents China from playing one country off against another and reduces the chance that Beijing can veto U.S. policy through selective retaliation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China has the stronger near-term escalation dominance because it can impose concentrated pain on the U.S. faster and more cheaply than Washington can respond.",
+          "mechanisms": [
+            "First, China’s rare-earth dominance creates an immediate industrial choke point. One, rare-earth inputs are critical for autos, aircraft, and weapons production; two, mines outside China typically take at least a decade to come online, so substitution is not quick; three, Beijing can cut exports at low domestic cost while U.S. firms face immediate assembly-line disruptions.",
+            "Second, U.S. retaliation tools are more self-harming and politically harder to sustain. One, financial sanctions and technology cutoffs would hit U.S. companies and consumers as well as China; two, the U.S. has a lower pain threshold because the costs are visible in prices, jobs, and inflation; three, unilateral tariffs are blunt and easy for China to route around by redirecting exports to third markets.",
+            "Third, Trump-style alliance fragmentation weakens the West’s structural advantage. One, Europe is drifting toward strategic autonomy after trade conflict and disputes over Greenland and Iran; two, without allied participation the U.S. loses the scale needed to outmuscle China; three, if Washington acts alone, the balance shifts much closer to parity, making Chinese coercion much more effective."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is time horizon: China appears stronger in the short run because rare-earth coercion is immediate and cheap, but the U.S.-led bloc is stronger over a sustained contest because it controls the higher-value parts of the global economy and can mobilize allies. This argument wins because BP debates on trade wars usually hinge on whether temporary pain translates into durable leverage; here, the article itself suggests China’s leverage is real but brittle if the West coordinates.",
+      "stock_connections": [
+        "Economic coercion",
+        "Interdependence as leverage",
+        "Decoupling",
+        "Alliance coordination",
+        "Sanctions effectiveness",
+        "Race to the bottom",
+        "Supply chain resilience",
+        "Dependency theory",
+        "Economic nationalism",
+        "Strategic autonomy"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue coordinated economic decoupling from China",
+        "THBT the West should form an economic security alliance to counter Chinese coercion",
+        "THP a world where rare-earth supply chains are treated as a national security issue",
+        "TH, as the EU, would align with the United States against China despite economic costs",
+        "THBT developing nations should resist becoming part of a China-led economic bloc"
+      ],
+      "data_points": [
+        "$500 billion in U.S. exports to China in 2024",
+        "Trump administration briefly imposed 145 percent tariffs in April 2025",
+        "U.S. effective tariff rate on China was around 40 percent for much of the past year",
+        "Chinese exports to the United States fell 20 percent in 2025",
+        "China recorded a $1.2 trillion trade surplus",
+        "Rare-earth minerals are described as a roughly $6 billion industry",
+        "China’s true GDP growth in 2025 was estimated by Rhodium Group at 2.5 percent to 3 percent versus the reported 5.2 percent",
+        "Brooks and Vagle estimate China’s GDP at 52 percent of U.S. GDP in 2022 by nominal exchange rates, versus 72 percent using official statistics",
+        "U.S. and allied firms generate 38 percent and 35 percent of global profits, versus China and Hong Kong’s 16 percent combined",
+        "In high technology, the U.S. and allies account for 83.8 percent of global profits, while China accounts for 6.1 percent",
+        "China’s value-added manufacturing remains about 60 percent in low-technology sectors",
+        "A full decoupling scenario would hit China 4.7 to 11.1 times harder than the United States, with Chinese GDP losses of 15.4 percent to 50.8 percent versus U.S. losses of 2.8 percent to 7.6 percent",
+        "Shearing estimates only about 15 percent of global trade is at risk in a strategic decoupling scenario",
+        "The U.S.-led bloc’s GDP is more than 2.5 times the China bloc’s GDP"
+      ]
+    },
+    {
+      "id": "f15c24c72b75",
+      "title": "Trump’s Beijing Summit Becomes a Test of Whether China Can Exploit a US-Iran War to Rebalance Great-Power Ties",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/trump-lands-in-china-with-iran-war-in-limbo-video",
+      "published": "2026-05-13T18:34:12Z",
+      "category": "IR",
+      "region": "United States / China / Iran",
+      "background": "President Donald Trump arrived in Beijing for the first state visit to China by a US leader in nine years, with Air Force One landing at Beijing Capital International Airport slightly before 8 p.m. on Wednesday. The summit comes as the US-Iran conflict remains unresolved and reports suggest Iran may still retain intact missile capabilities. Chinese Vice President Han Zheng, a military honor guard, and hundreds of flag-waving children greeted the president at the airport.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war gives China leverage to force the US into a more cautious, transactional relationship that weakens Washington’s broader strategic position.",
+          "mechanisms": [
+            "First, the conflict increases US dependence on Chinese cooperation for crisis management. This is because (1) Washington needs Beijing to avoid escalation through diplomacy, sanctions enforcement, or backchannel signaling; (2) China can condition that cooperation on concessions in trade, technology, or Taiwan-related restraint; and (3) the US cannot easily walk away from coordination when a live regional war raises global energy and security risks.",
+            "Second, the war distracts and stretches US strategic bandwidth. Three reasons: one, the administration must split attention between the Middle East and the Indo-Pacific; two, military and intelligence resources get diverted toward deterrence and force protection; three, allies see a less focused US and hedge accordingly, which weakens coalition credibility against China.",
+            "Third, any perception that Iran still has intact missile capabilities raises the cost of US escalation and makes China look like the more stable great-power interlocutor. This matters because Beijing can present itself as the indispensable manager of order while the US appears reactive, which improves China’s diplomatic standing and bargaining power in the summit."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Iran war does not fundamentally change the summit because US-China rivalry is structural, and both sides still have strong incentives to stabilize ties.",
+          "mechanisms": [
+            "First, the core US-China relationship is driven by long-term economic and security interdependence, not by one regional war. One, both economies are too large to decouple quickly; two, both governments need predictable trade and market access; three, neither side wants a crisis spiral that damages growth and domestic stability.",
+            "Second, China has limited ability to convert the Iran conflict into durable leverage. One, Beijing does not control the battlefield and cannot guarantee outcomes in Iran; two, overt opportunism risks making China look predatory and undermines its image as a responsible power; three, if China pushes too hard, the US can respond with tariffs, export controls, or alliance consolidation.",
+            "Third, the summit itself creates a stabilizing channel that lowers the odds of miscalculation. One, leader-level meetings reduce uncertainty and allow direct bargaining; two, both sides can compartmentalize Iran from trade and technology disputes; three, even limited de-escalation is valuable enough that both governments have incentives to keep the relationship from collapsing."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the Iran war creates temporary bargaining leverage or durable structural change. Prop wins if you think crisis dependence and US distraction let China extract concessions now; opp wins if you think the US-China rivalry is too deep to be meaningfully altered by one external conflict and that both sides still prefer stabilization.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Strategic Distractedness",
+        "Leverage in Diplomacy",
+        "Alliance Hedging",
+        "Crisis Bargaining",
+        "Security Dilemma",
+        "Compartmentalization"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China during an active Middle East war",
+        "THBT the US should seek Chinese cooperation in managing Iran even at the cost of concessions elsewhere",
+        "THP a world where major power summits occur during ongoing regional wars"
+      ],
+      "data_points": [
+        "First US presidential state visit to China in nine years",
+        "Air Force One landed at Beijing Capital International Airport slightly before 8 p.m. on Wednesday",
+        "Iran may still have intact missile capabilities, according to the Bloomberg interview context",
+        "The US and China are the world’s two largest economies"
+      ]
+    },
+    {
+      "id": "f53b870be63c",
+      "title": "China Could Trade Hormuz Pressure for US Concessions on Taiwan",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions?traffic_source=rss",
+      "published": "2026-05-13T17:27:09Z",
+      "category": "IR",
+      "region": "United States / China / Iran / Taiwan / Strait of Hormuz / Gulf",
+      "background": "Ahead of a Trump-Xi summit in China, US officials have urged Beijing to help pressure Iran to reopen the Strait of Hormuz after Tehran’s blockade and a short-lived US military effort to force the waterway open failed in under 48 hours. Analysts quoted in the article say China may be willing to intervene because it imports Iranian and Middle East oil, but only if Washington makes concessions on issues Beijing cares about, especially Taiwan. Trump has said he does not need Xi’s help on Iran, while US Treasury Secretary Scott Bessent publicly called on China to join the operation and accused Beijing of helping fund Iran through oil purchases.",
+      "prop_args": [
+        {
+          "thesis": "The summit gives China leverage to extract concessions on Taiwan by positioning itself as indispensable to resolving the Hormuz crisis.",
+          "mechanisms": [
+            "First, China becomes a gatekeeper on a problem the US cannot solve cheaply on its own. This is because (1) Iran is refusing direct talks while the US naval siege has already failed to restore traffic, (2) China is one of the few actors with enough trade and diplomatic access to pressure Tehran, and (3) Washington’s need for a quick de-escalation rises as petrol prices and inflation worsen domestically.",
+            "Second, Beijing can convert that leverage into bargaining power on Taiwan. Three reasons: one, Taiwan is China’s top strategic priority and the issue Beijing is most likely to raise in a summit; two, Trump has not yet signed the $14bn Taiwan arms package, creating a concrete concession point; three, China can ask for softer US language on Taiwanese independence or delays in arms sales without making a formal, irreversible deal.",
+            "Third, this matters because it shifts the bilateral balance beyond the immediate Iran file. If the US trades on Taiwan for Hormuz, it signals that pressure on regional flashpoints can be bundled into great-power bargaining, which strengthens China’s broader coercive diplomacy and weakens US credibility with allies that rely on American security guarantees."
+          ]
+        },
+        {
+          "thesis": "China has strong incentives to help reopen Hormuz, but only if it can do so in a way that preserves its image as a diplomatic power rather than a subordinate to US strategy.",
+          "mechanisms": [
+            "First, Beijing has an economic interest in reopening the strait. This is because (1) China is a major importer of Iranian and Middle East oil, (2) its strategic reserves are finite and cannot fully offset a prolonged disruption, and (3) energy shocks would hit Chinese growth and manufacturing costs.",
+            "Second, China can use the crisis to present itself as the responsible multilateral actor. Three reasons: one, Xi’s four-point plan emphasizes sovereignty, international law, and diplomacy; two, China has already hosted Iran’s foreign minister and called for a ceasefire and negotiations; three, contrasting itself with Trump’s threats lets Beijing appeal to the Global South and reinforce its “peace broker” branding.",
+            "Third, this matters because China can gain reputational and strategic benefits even without a formal quid pro quo. By appearing helpful on Iran while avoiding direct alignment with US coercion, Beijing can improve ties with Gulf states, reduce energy risk, and still keep Taiwan as a separate bargaining chip for later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China is unlikely to make meaningful concessions on Taiwan because the Iran crisis is too peripheral to justify compromising its core sovereignty claim.",
+          "mechanisms": [
+            "First, Taiwan is existential for Beijing while Hormuz is only instrumental. One, the Chinese Communist Party frames Taiwan as a core sovereignty issue, not a negotiable foreign-policy preference; two, any concession on arms sales or anti-independence language risks domestic backlash and signals weakness; three, China can tolerate short-term oil pain better than it can tolerate a precedent of bargaining over territorial claims.",
+            "Second, Beijing has alternative ways to manage the Iran shock without paying a Taiwan price. One, it can draw on strategic oil reserves and reroute imports; two, it can continue quiet diplomacy with Tehran and the Gulf without openly siding with Washington; three, it can wait for the US operation to fail or stall, which would reduce the need for a deal.",
+            "Third, this means the summit is more likely to produce symbolic cooperation than substantive trade-offs. China can issue statements calling for restraint and safe passage through Hormuz while refusing any real shift on Taiwan, because that lets it look constructive without sacrificing its long-term strategic position."
+          ]
+        },
+        {
+          "thesis": "The US has too much to lose from linking Iran policy to Taiwan, so Trump is more likely to resist Chinese demands than to concede.",
+          "mechanisms": [
+            "First, making Taiwan part of the Iran bargain would alarm US allies and undermine deterrence in Asia. One, Japan, the Philippines, and Taiwan itself read US arms sales and rhetoric as signals of commitment; two, any perceived softness on Taiwan encourages Chinese coercion in the Strait; three, the US would be seen as trading away a democratic partner for a temporary energy fix.",
+            "Second, Trump has domestic and strategic reasons not to pay that price. One, he has already framed the Iran crisis as under control and may not want to look dependent on Xi; two, the Republican base is hawkish on China and could punish concessions on Taiwan; three, the administration may prefer coercion against Iran to avoid appearing to reward Beijing’s leverage.",
+            "Third, this means China’s leverage may be overstated. If Washington can find other ways to reopen Hormuz or simply absorb the costs, Beijing’s bargaining position weakens, and the summit becomes a theater for rivalry rather than a real exchange of concessions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether China’s leverage over Hormuz is strong enough to force a trade on Taiwan, or whether Taiwan’s status is too central for Beijing to bargain away. This argument wins because the US has urgent short-term pressure from energy markets, but China has the stronger structural advantage: it can offer a useful service while keeping any Taiwan concession vague, symbolic, or delayed.",
+      "stock_connections": [
+        "Great Power Bargaining",
+        "Coercive Diplomacy",
+        "Hostage Diplomacy",
+        "Security Dilemma",
+        "Alliance Credibility",
+        "Deterrence",
+        "Issue Linkage",
+        "Energy Security",
+        "Sovereignty vs Pragmatism"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would not link Taiwan policy to cooperation on Iran",
+        "THBT the US should trade limited concessions on Taiwan for Chinese help reopening Hormuz",
+        "THP a world where great powers can condition crisis cooperation on unrelated strategic concessions",
+        "THBT China should use energy security leverage to force US restraint on Taiwan"
+      ],
+      "data_points": [
+        "Trump has not yet signed the latest $14bn arms package to Taiwan, despite congressional approval",
+        "US Treasury Secretary Scott Bessent publicly urged China to help reopen Hormuz and accused Beijing of helping fund Iran through oil purchases",
+        "A US military initiative to reopen Hormuz by force reportedly ended in less than 48 hours without significantly increasing traffic",
+        "China is a major importer of Iranian and Middle East oil",
+        "Trump’s most recent National Security Strategy shifts US focus toward the Western Hemisphere rather than the Asia-Pacific rivalry",
+        "China’s April four-point plan called for peaceful coexistence, sovereignty, international law, and a balanced approach to development and security"
+      ]
+    },
     {
       "id": "12cc83712f65",
       "title": "Congress Is Structurally Unable to End an Unpopular Presidential War With Iran",
@@ -490,6 +1021,81 @@
         "The visit occurred ahead of a high-stakes Beijing summit on 13 May 2026",
         "Several US business leaders were expected to attend the trip",
         "The article identifies AI and technology as the central spotlight of the summit"
+      ]
+    },
+    {
+      "id": "65bb8e8e6b4c",
+      "title": "Trump-Xi Rapprochement Fails to Break the China-Russia-Iran Strategic Triangle",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/russia-and-the-china-us-summit/",
+      "published": "2026-05-13T15:12:00Z",
+      "category": "IR",
+      "region": "Russia; China; United States",
+      "background": "Russian President Vladimir Putin is expected to meet Xi Jinping in Beijing soon after the China-U.S. summit on May 14-15, 2026. The article argues that unlike Nixon-era triangular diplomacy, the Trump-Xi meeting is unlikely to produce meaningful pressure on Russia over Ukraine or Iran. The U.S. Treasury recently sanctioned three Chinese firms for providing satellite imagery to Iran and nine more for involvement in Iranian oil shipments to China, while Western media reported Russia was shipping upgraded drones to Iran for use in the Ukraine war. China-U.S. trade reached $414.7 billion in 2025, compared with $234 billion in Sino-Russian trade, and China reportedly supplied 90 percent of Russia’s dual-use technology for the war as of May 2026.",
+      "prop_args": [
+        {
+          "thesis": "The summit will not meaningfully split China from Russia, because Beijing’s strategic and economic incentives still favor preserving the anti-Western partnership over helping Washington isolate Moscow.",
+          "mechanisms": [
+            "First, China has no reason to pressure Russia on Ukraine or Iran because the partnership is useful as a hedge against U.S. pressure. This is because (1) Russia provides diplomatic cover against Western coalitions, (2) China benefits from keeping Moscow dependent and aligned on core anti-U.S. positions, and (3) Beijing can extract economic and strategic leverage without paying the costs of formal alliance commitments.",
+            "Second, the material structure of the relationship makes China more invested in Russia’s survival than in U.S. demands. Three reasons: one, China reportedly supplies 90 percent of Russia’s dual-use technology for the war, so it is already deeply implicated; two, China has repeatedly echoed Russian language on Ukraine, making reversal politically costly; three, the EU’s April 2026 sanctions on Chinese entities show Beijing is already absorbing reputational costs, so it has little incentive to concede further.",
+            "Third, even if Trump and Xi reach a trade deal, that does not translate into leverage over Russia. This matters because (1) China-U.S. trade is large at $414.7 billion, but that creates incentives to compartmentalize rather than sacrifice Russia ties, (2) Sino-Russian trade is still substantial at $234 billion and politically strategic, and (3) Xi can present summit success as proof of great-power autonomy while leaving Moscow untouched."
+          ]
+        },
+        {
+          "thesis": "The China-Russia relationship is more robust than the China-U.S. relationship, so Beijing and Moscow can absorb U.S. diplomacy without changing their core alignment.",
+          "mechanisms": [
+            "First, the Sino-Russian channel is institutionally denser and more politically insulated. This is because (1) the article cites more than 60,000 lines of communication between the two states, (2) the Xi-Putin meeting will be one of more than 40 interactions, and (3) both sides frame the partnership as a 'ballast stone for safeguarding peace and stability,' which signals a durable strategic narrative.",
+            "Second, the summit agenda does not create a direct bargaining chain to Russia. Three reasons: one, trade, investment, Taiwan, AI, and critical minerals are mostly bilateral U.S.-China issues; two, neither Iran nor Ukraine is central to the expected deliverables; three, China has already shown it will not act as a mediator on Ukraine or Iran despite repeated Western requests.",
+            "Third, Russia can actually benefit from the status quo. This matters because (1) higher oil prices from Middle East conflict help Moscow, (2) Russia is less exposed than China to Gulf trade disruptions, and (3) Moscow can position itself as a stabilizer in the Middle East while avoiding concessions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit can still create leverage over Russia indirectly by making China choose between deeper U.S. economic normalization and continued support for Moscow.",
+          "mechanisms": [
+            "First, China has real economic incentives to reduce exposure to Russia if the U.S. offers meaningful trade or investment gains. One, U.S.-China trade is nearly twice Sino-Russian trade at $414.7 billion versus $234 billion, so the upside from stabilizing Washington ties is much larger; two, Chinese firms are already facing sanctions for Iran-related activity, so Beijing has reason to limit secondary exposure; three, a trade thaw could make continued Russia support look like an unnecessary liability.",
+            "Second, Washington can use summit diplomacy to widen the gap between China and Russia even without a formal break. One, public U.S.-China engagement signals that Beijing has alternatives to Moscow; two, if Xi wants to preserve access to U.S. markets and technology, he may quietly restrain the most visible forms of support for Russia; three, even partial reductions in dual-use transfers would materially affect Russia’s war effort.",
+            "Third, triangular diplomacy can work through signaling rather than immediate coercion. This matters because (1) China and Russia are not allies in a formal military sense, (2) both care about avoiding overdependence on each other, and (3) if Beijing fears being lumped too closely with Moscow, it has incentives to demonstrate autonomy by moderating Russia-related behavior."
+          ]
+        },
+        {
+          "thesis": "The Iran and Ukraine wars create friction points that the U.S. can exploit to complicate Sino-Russian coordination.",
+          "mechanisms": [
+            "First, China and Russia have different interests in Iran, so Washington can widen those differences. One, China is more vulnerable to Gulf energy and commodity disruptions, especially chemicals for fertilizer and semiconductors; two, Russia benefits from higher oil prices and is less reliant on Gulf trade; three, Russia also wants to preserve ties with Gulf states, which makes it less aligned with an escalating Iran confrontation than it appears.",
+            "Second, the visible costs of supporting Russia are rising for China. One, the EU sanctioned Chinese entities in April 2026 for dual-use trade, which increases reputational and economic pressure; two, Ukraine and Europe no longer see China as neutral, reducing Beijing’s diplomatic flexibility; three, if the U.S. frames Russia support as a barrier to broader China-U.S. stabilization, Xi may prefer tactical restraint over open-ended backing.",
+            "Third, even limited Chinese distancing would matter strategically. This matters because (1) Russia is already dependent on Chinese dual-use supplies, (2) any reduction in that flow would constrain battlefield adaptation, and (3) the perception of a weakening China-Russia axis would improve U.S. bargaining power across both theaters."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether China’s strategic dependence on Russia is stronger than its economic incentive to stabilize ties with the U.S. Prop has the structural advantage because the article shows China is already deeply entangled in Russia’s war effort and has repeatedly refused to mediate, while the summit agenda does not directly target Russia. Opp’s best case is indirect leverage through trade, but that requires Beijing to trade away a long-standing security hedge for uncertain U.S. concessions.",
+      "stock_connections": [
+        "Triangular Diplomacy",
+        "Great Power Balancing",
+        "Alliance Politics",
+        "Economic Statecraft",
+        "Secondary Sanctions",
+        "Dependency Theory",
+        "Security Dilemma",
+        "Hedging",
+        "Compartmentalization"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use trade concessions to try to peel China away from Russia",
+        "THBT China should prioritize economic stabilization with the United States over strategic coordination with Russia",
+        "THP a world where the U.S. attempts triangular diplomacy to split authoritarian blocs",
+        "THBT developing great powers should avoid overreliance on rival powers in security partnerships"
+      ],
+      "data_points": [
+        "China-U.S. trade in 2025: $414.7 billion",
+        "Sino-Russian trade in 2025: $234 billion",
+        "China reportedly supplies 90 percent of Russia’s dual-use technology for the war as of May 2026",
+        "U.S. Treasury sanctioned 3 Chinese firms for providing satellite imagery to Iran and 9 Chinese companies for Iranian oil shipments to China",
+        "April 2026: the EU imposed sanctions on several Chinese entities for dual-use trade tied to Russia",
+        "Chinese students in the U.S.: 265,919",
+        "Chinese students in Russian universities: 56,000",
+        "More than 40 Xi-Putin interactions are referenced as evidence of a dense bilateral relationship",
+        "Wu Dahui cited more than 60,000 lines of communication between China and Russia"
       ]
     },
     {
@@ -1048,6 +1654,80 @@
       ]
     },
     {
+      "id": "40e58ee2e8a6",
+      "title": "China’s Silence on Australia’s Defense Strategy Signals a Shift From Public Confrontation to Quiet Coercive Influence",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/why-hasnt-china-criticized-australias-national-defense-strategy/",
+      "published": "2026-05-13T14:39:00Z",
+      "category": "IR",
+      "region": "Australia / China / Indo-Pacific",
+      "background": "Australia released its 2026 National Defense Strategy (NDS) and 2026 Integrated Investment Program (IIP) on April 16, 2026, explicitly naming China’s national power, the PLA, and the China Coast Guard as the primary factors shaping the Indo-Pacific security environment. Unlike the 2024 strategy, the 2026 version uses sharper language on China and omits the earlier line that China-U.S. communication could help manage disputes. Despite this, Beijing has not issued an official response, unlike in 2024 when China’s Foreign Ministry and Defense Ministry both criticized Australia for hyping the 'China threat.'",
+      "prop_args": [
+        {
+          "thesis": "China’s silence is rational: Beijing now prefers quiet coercive influence over public outrage because it can shape Australian policy more effectively without reviving anti-China backlash.",
+          "mechanisms": [
+            "First, Beijing gains more leverage from restraint than from escalation. This is because (1) Australia is already trying to repair ties with China, so China does not need to spend political capital on a loud rebuttal, (2) repeated public attacks would harden Australian elites and voters against Beijing, reducing China’s ability to influence Canberra through engagement, and (3) silence preserves room for selective pressure later if Australia crosses a red line.",
+            "Second, China is shifting the battlefield from rhetoric to alliance politics. Three reasons: one, Beijing can target AUKUS and U.S.-Australia defense cooperation directly rather than arguing over the NDS text, two, this lets China frame the issue as 'Australia choosing confrontation' instead of 'China threatening Australia,' and three, it is more effective because it exploits existing doubts about the Trump administration and U.S. reliability.",
+            "Third, this strategy works because Australia is already strategically split. This matters because (1) trust in the U.S. among Australians has fallen from 56 percent to 36 percent, (2) views of China have become more balanced, with 'security threat' and 'economic partner' perceptions crossing for the first time since 2019, and (3) that ambiguity makes Canberra more vulnerable to calibrated Chinese inducements and warnings."
+          ]
+        },
+        {
+          "thesis": "Beijing’s muted response shows that Australia’s tougher defense language has not materially changed the strategic balance, so China can afford to ignore it while continuing military signaling.",
+          "mechanisms": [
+            "First, the NDS is a recurring bureaucratic document, not a decisive policy shift. This is because (1) Australia releases defense strategy updates on a biennial basis, (2) China can treat the 2026 version as predictable rhetoric rather than a new threat, and (3) overreacting would elevate the document and give it more importance than it deserves.",
+            "Second, China already has better tools to deter Australia than media statements. Three reasons: one, PLA aircraft have already conducted close approaches and released flares near Australian forces, two, the PLA Navy’s unannounced 2025 Tasman Sea exercises and circumnavigation of Australia demonstrated power projection, and three, these actions create real operational costs without triggering the diplomatic downsides of a formal protest.",
+            "Third, Beijing’s core objective is to keep Australia from deepening anti-China alignment, not to win a messaging contest. This matters because (1) if Australia continues to hedge between Washington and Beijing, China benefits from strategic ambiguity, (2) public criticism could push Canberra closer to the U.S. and AUKUS, and (3) silence is therefore a low-cost way to avoid consolidating an opposing coalition."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China’s silence is not moderation; it is a sign that Beijing is confident Australia is already drifting toward its preferred position and does not need to be publicly disciplined.",
+          "mechanisms": [
+            "First, China may see Australia as increasingly self-deterring. One, Canberra is already increasing military spending and supporting U.S. shipbuilding to reassure Washington, two, that means Australia is likely to moderate its own behavior without needing public Chinese pressure, and three, Beijing can therefore wait for policy convergence rather than provoke a fight.",
+            "Second, Beijing may be prioritizing long-term influence over immediate signaling. One, if Australia is economically dependent and politically divided, China can use trade and diplomacy to shape outcomes quietly, two, public criticism would reduce the value of those channels by making China look hostile, and three, silence can be a deliberate tactic to keep Australian moderates engaged.",
+            "Third, the lack of response may simply reflect issue hierarchy. One, China may care more about Taiwan, Hong Kong, and U.S.-China competition than about one Australian strategy paper, two, the NDS does not itself change force posture or alliance commitments, and three, Beijing may reserve public escalation for actions with direct operational consequences."
+          ]
+        },
+        {
+          "thesis": "Australia’s defense strategy still matters, and China’s non-response is temporary tactical restraint rather than a durable shift in policy.",
+          "mechanisms": [
+            "First, Beijing can still escalate later if Australia deepens AUKUS or expands U.S. cooperation. One, China has already signaled opposition to AUKUS through diplomatic criticism, two, PLA actions against Australian forces show that military coercion remains available, and three, silence now preserves flexibility for a stronger response if Canberra crosses a threshold.",
+            "Second, the absence of an official statement does not mean the strategy is unimportant. One, the NDS explicitly names China’s military and coast guard activities, two, that kind of language shapes alliance perceptions and procurement decisions, and three, China may be choosing not to amplify the document while still tracking its downstream effects.",
+            "Third, Beijing’s restraint may be driven by current diplomatic bandwidth, not strategic confidence. One, China may be managing multiple fronts simultaneously, two, it may not want to distract from broader regional messaging, and three, once conditions change, China could easily revert to the more confrontational 'wolf warrior' style."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether silence is a sign of Chinese weakness or Chinese sophistication. Prop wins if you think Beijing is maximizing influence by avoiding backlash and exploiting Australia’s split between the U.S. and China; opp wins if you think the NDS is too minor to merit a response and China is simply conserving escalation for more consequential moments.",
+      "stock_connections": [
+        "Soft balancing",
+        "Coercive diplomacy",
+        "Alliance entrapment",
+        "Strategic hedging",
+        "Credibility of security guarantees",
+        "Wolf warrior diplomacy",
+        "Economic statecraft",
+        "Security dilemma"
+      ],
+      "motion_areas": [
+        "TH, as China, would avoid publicly criticizing allied states’ defense documents in favor of quieter coercive tactics",
+        "THBT Australia should deepen strategic hedging between the United States and China",
+        "THP a world where major powers respond to rivals’ defense strategies through indirect pressure rather than public condemnation",
+        "THBT middle powers should prioritize economic engagement over public confrontation when facing great-power coercion"
+      ],
+      "data_points": [
+        "Australia released its 2026 National Defense Strategy and 2026 Integrated Investment Program on April 16, 2026",
+        "China’s 2026 NDS describes China’s national power and military capabilities as the primary factors shaping the Indo-Pacific",
+        "Australia’s 2024 NDS was publicly criticized by China’s Foreign Ministry and Defense Ministry",
+        "Australian trust in the United States fell from 56% to 36% after Trump returned to office",
+        "For the first time since 2019, Australians’ views of China as a security threat and as an economic partner have crossed",
+        "At the 2025 Shangri-La Dialogue, U.S. Defense Secretary Pete Hegseth urged Australia to raise defense spending to 3.5% of GDP",
+        "The U.S. launched a review of the AUKUS nuclear-powered submarine program in June 2026",
+        "The PLA Navy conducted unannounced exercises in the Tasman Sea in 2025 and circumnavigated the Australian continent",
+        "PLA aircraft have conducted close approaches and released flares in interactions with Australian forces"
+      ]
+    },
+    {
       "id": "d3a33db5291a",
       "title": "ICC Pursuit of Duterte Ally Turns Philippine Senate Into Flashpoint Over Sovereignty and Accountability",
       "source": "BBC",
@@ -1238,6 +1918,66 @@
         "The article says Mali’s 2024 actions broke an internationally recognized peace treaty that had granted Tuareg minorities self-rule in the north",
         "Russia’s Africa Corps is described as more bureaucratic, state-controlled, and less flexible than Wagner",
         "Russia is reportedly developing a logistics hub in Guinea to support Sahel operations"
+      ]
+    },
+    {
+      "id": "15099da4fd82",
+      "title": "Japan’s Arms Exports Build a Middle-Power Security Bloc, Not a Remilitarized Great Power",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/japans-middle-power-arms-strategy-in-the-indo-pacific/",
+      "published": "2026-05-13T14:19:00Z",
+      "category": "IR",
+      "region": "Japan / Indo-Pacific",
+      "background": "Japan has expanded defense diplomacy across the Indo-Pacific, including outreach to Manila, Jakarta, Canberra, and Wellington. In April 2026, Tokyo’s Cabinet removed the long-standing “five categories” restriction on lethal weapons exports, opening the door to broader arms transfers. Japan and Indonesia signed a Defense Cooperation Agreement in May 2026, Japan and the Philippines agreed to a working group on a possible transfer of Abukuma-class destroyer escorts, and Australia selected Japan’s upgraded Mogami-class frigate (06FFM / New FFM) as its future general-purpose frigate, with 11 vessels planned and the first three to be built in Japan. On May 7, New Zealand also shortlisted the New FFM alongside Britain’s Type 31 for its frigate replacement program.",
+      "prop_args": [
+        {
+          "thesis": "Japan’s defense export strategy is a stabilizing middle-power network that increases regional resilience without requiring a full remilitarization of Japanese power.",
+          "mechanisms": [
+            "First, it creates interoperability and shared logistics across like-minded navies. This is because (1) common platforms reduce training and maintenance costs, (2) shared spare parts and repair systems make fleets more operational during crises, and (3) joint procurement locks states into long-term cooperation rather than one-off transactional purchases.",
+            "Second, it strengthens strategic autonomy for regional states without forcing them into a formal anti-China bloc. Three reasons: one, countries like Indonesia and New Zealand can gain capability without becoming junior allies of the United States; two, Japan can frame cooperation as industrial resilience rather than containment, which is more acceptable to Southeast Asian hedging states; three, horizontal ties reduce overdependence on any single patron, especially amid uncertainty about U.S. reliability.",
+            "Third, it deepens collective deterrence by making coercion more costly and less effective. This matters because a network of 37+ ships potentially sharing the Mogami/New FFM family across Japan, Australia, and New Zealand creates a larger, more integrated maritime ecosystem, so any Chinese attempt to pressure one state faces a more coordinated response and a more resilient supply chain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Japan’s arms export push risks accelerating regional militarization, entrenching bloc politics, and provoking the very insecurity it claims to manage.",
+          "mechanisms": [
+            "First, it can trigger a security dilemma and arms race dynamics. One, China is likely to read Japanese exports as encirclement rather than benign industrial cooperation; two, Southeast Asian states may respond by buying more weapons and hardening military postures; three, this increases the salience of military solutions over diplomacy in disputed waters like the South China Sea.",
+            "Second, the strategy may undermine ASEAN-style strategic ambiguity and regional neutrality. One, framing exports around China containment alienates states like Indonesia that prefer balance; two, it pressures recipients to signal alignment with Japan and the U.S.; three, that reduces diplomatic room for maneuver and can split the region into more rigid camps.",
+            "Third, Japan may not have the institutional capacity to sustain this model, making it brittle and potentially wasteful. One, it still lacks mature export infrastructure such as long-term maintenance networks and technology-transfer frameworks; two, if support systems fail, recipient states become dependent on ad hoc Japanese assistance; three, that creates reputational damage and weakens Japan’s credibility as a reliable security partner."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Japanese arms exports are read as capability-building cooperation or as bloc formation that escalates regional rivalry. Prop has the structural advantage if the judge prioritizes practical resilience and alliance diversification; opp wins if they prove that recipient states and China interpret the same moves as containment, because perception effects can convert a defensive network into a destabilizing arms spiral.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Arms Race",
+        "Balance of Power",
+        "Alliance Reliability",
+        "Strategic Autonomy",
+        "Bloc Formation",
+        "Regional Hedging",
+        "Interdependence as Deterrence",
+        "Military-Industrial Dependence",
+        "Containment"
+      ],
+      "motion_areas": [
+        "TH, as Japan, would expand lethal weapons exports to Indo-Pacific partners",
+        "THBT middle powers should build regional defense industrial networks rather than rely primarily on the United States",
+        "THP a world where Indo-Pacific security is organized through interoperable middle-power coalitions",
+        "THBT Japan should prioritize defense industrial partnerships over direct military buildup",
+        "THBT Southeast Asian states should deepen arms cooperation with Japan"
+      ],
+      "data_points": [
+        "April 2026: Japan’s Cabinet removed the long-standing “five categories” restriction on lethal weapons exports",
+        "May 2026: Japan and Indonesia signed a Defense Cooperation Agreement",
+        "May 2026: Japan and the Philippines agreed to a working group on possible transfer of Abukuma-class destroyer escorts",
+        "Australia selected Japan’s 06FFM / New FFM as its future general-purpose frigate, with 11 vessels planned",
+        "The first three Australian frigates are to be built in Japan",
+        "May 7, 2026: New Zealand shortlisted the New FFM and Britain’s Type 31 for its frigate replacement program",
+        "Japan would operate 12 Mogami-class and 12 New FFM frigates if current plans proceed",
+        "A Japan-Australia-New Zealand platform family could eventually cover more than 37 ships across three navies"
       ]
     },
     {
@@ -1512,6 +2252,190 @@
       ]
     },
     {
+      "id": "78a3598cfe06",
+      "title": "China’s Youth Exchange Push Turns Scarce U.S.-China Contact Into Managed Political Theater",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/chinas-50000-youth-initiative-and-the-new-politics-of-china-us-exchange/",
+      "published": "2026-05-13T13:43:00Z",
+      "category": "IR",
+      "region": "China / United States",
+      "background": "In 2023, Xi Jinping pledged to invite 50,000 young Americans to China over five years, as part of a broader push to revive people-to-people ties. The article notes that 265,919 Chinese students studied in the United States in 2024-25, while only 1,749 American students studied in China in 2023-24, down from more than 11,600 in both 2017-18 and 2018-19. It highlights cases such as Muscatine, Iowa; Lincoln High School in Tacoma; and a Johns Hopkins SAIS delegation, arguing that these trips are increasingly funded, curated, and amplified by Chinese official channels.",
+      "prop_args": [
+        {
+          "thesis": "China’s youth exchange push is a strategic soft-power tool that exploits the collapse of reciprocal U.S.-China educational exchange.",
+          "mechanisms": [
+            "First, it converts scarcity into leverage. This is because (1) American study in China has collapsed from more than 11,600 students in 2017-18 and 2018-19 to 1,749 in 2023-24, (2) Chinese-sponsored trips become some of the only remaining direct exposure channels, and (3) when contact is rare, each visit carries disproportionate symbolic weight that Beijing can shape.",
+            "Second, it allows Beijing to curate the narrative around China for foreign audiences. Three reasons: one, the trips are often fully funded and institutionally sponsored, two, itineraries are designed to showcase development, business, and historical memory sites, and three, Chinese state media can retell the visits as proof of friendly U.S.-China ties.",
+            "Third, the initiative can weaken U.S. information resilience by normalizing managed exposure. This matters because (1) students and schools may mistake a staged visit for genuine reciprocity, (2) policymakers and firms may overread these images as evidence that bilateral trust has recovered, and (3) Beijing gains reputational gains without restoring the broader exchange infrastructure that would dilute its control."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Even managed exchange is still better than no exchange, because direct contact reduces ignorance and lowers the risk of long-term hostility.",
+          "mechanisms": [
+            "First, any physical exposure to China can puncture stereotypes. One, students encounter ordinary life rather than only headlines and congressional rhetoric, two, even short visits can create language interest and future study, and three, first-hand experience is often more persuasive than abstract propaganda claims.",
+            "Second, the alternative is a harder information environment with fewer moderating channels. One, American-side programs like Fulbright with China and the Peace Corps China program have been terminated or ended, two, pandemic and geopolitical suspicion have already thinned exchanges, and three, if all contact stops, both publics become more dependent on elite narratives and media framing."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether scarce contact is primarily a propaganda asset or a necessary safety valve. Prop wins if you think asymmetry lets China monopolize the meaning of exchange; opp wins if you think any direct contact is structurally better than total disengagement because it preserves a baseline of understanding and reduces escalation risk.",
+      "stock_connections": [
+        "Soft Power",
+        "Sharp Power",
+        "Information Asymmetry",
+        "Propaganda",
+        "Track II Diplomacy",
+        "Public Diplomacy",
+        "Security Dilemma",
+        "Reciprocity in Exchange",
+        "Elite Capture"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would restrict state-sponsored educational exchanges with China",
+        "THBT universities should refuse foreign-government-funded student exchange programs",
+        "THP a world where all China-U.S. youth exchanges must disclose funding and itinerary details publicly",
+        "THBT the United States should prioritize reciprocal exchange over symbolic people-to-people diplomacy with China"
+      ],
+      "data_points": [
+        "Xi Jinping pledged to invite 50,000 young Americans to China over five years in 2023",
+        "265,919 Chinese students studied in the United States in 2024-25",
+        "Only 1,749 American students studied in China in 2023-24",
+        "American study abroad in China was above 11,600 in both 2017-18 and 2018-19",
+        "Muscatine Community School District said in January 2024 that students would travel to China fully funded by the Chinese government",
+        "A Johns Hopkins SAIS delegation of 17 student representatives visited Beijing and Kunming in March 2024",
+        "The Lincoln High School exchange involved an 11-day trip through Hong Kong, Fuzhou, Chengdu, and Beijing",
+        "The Fulbright program with China and Hong Kong was terminated for future exchanges under Executive Order 13936",
+        "The Peace Corps ended its China program after evacuating volunteers in 2020"
+      ]
+    },
+    {
+      "id": "30d2447a5109",
+      "title": "Liu Huaqing’s Naval Revolution Turns China Into a Blue-Water Challenger to U.S. Maritime Primacy",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/chinas-mahan-the-man-who-created-chinas-modern-navy/",
+      "published": "2026-05-13T13:30:00Z",
+      "category": "IR",
+      "region": "China / Indo-Pacific",
+      "background": "This interview with naval historian Dr. Xiaobing Li argues that Admiral Liu Huaqing, commander of China’s navy from 1982-1988 and vice chair of the Central Military Commission from 1990-1998, transformed the PLA Navy from a near-shore defense force into a blue-water navy. The piece says Liu drew on Mahanian sea-power ideas and especially Soviet Admiral Sergey Gorshkov’s model of institutional naval buildup, helping shift Chinese doctrine toward near-sea defense and far-sea protection. It links that doctrinal change to Xi Jinping’s later maritime ambitions, including the Belt and Road Initiative, carrier development, and a larger Chinese challenge to U.S. naval dominance.",
+      "prop_args": [
+        {
+          "thesis": "China’s naval modernization makes coercion in the Indo-Pacific more credible, raising the cost of resisting Beijing and weakening U.S.-led regional security.",
+          "mechanisms": [
+            "First, the PLAN’s shift from brown-water defense to blue-water power projection expands the set of places China can credibly threaten. This is because (1) it no longer needs to confine operations to coastal waters, (2) it can sustain forces farther from home through logistics, bases, and carrier development, and (3) it can pair naval power with coast guard and maritime militia assets to create layered coercion below the threshold of war.",
+            "Second, the modernization of doctrine and hardware improves China’s ability to win a short, sharp regional crisis. Three reasons: one, Liu’s framework prioritizes offensive amphibious and near-sea operations around Taiwan and the South China Sea; two, China has invested in anti-ship ballistic missiles, submarines, and carrier battle groups that complicate U.S. intervention; three, the article notes China’s naval scale advantage in 2020, with 350 surface ships and submarines versus 293 U.S. warships.",
+            "Third, this changes the regional balance even without combat experience because deterrence is about perceived capability, not just battlefield proof. This matters because a larger, more modern fleet backed by 90 maritime installations and a Djibouti facility lets China sustain presence, signal resolve, and pressure neighbors into accommodation."
+          ]
+        },
+        {
+          "thesis": "Liu Huaqing’s legacy is strategically dangerous because it institutionalized a long-term Chinese maritime challenge to the U.S.-led order.",
+          "mechanisms": [
+            "First, it created continuity across leadership transitions. This is because (1) Liu’s doctrine survived from the 1980s-1990s into the Xi era, (2) Xi explicitly elevated sea power and maritime expansion as part of grand strategy, and (3) the result is not a personality-driven policy but a durable state project.",
+            "Second, it ties military modernization to economic and geopolitical expansion. Three reasons: one, the Belt and Road Initiative depends on sea lanes from the Pacific to the Indian Ocean; two, protecting those routes requires a navy able to operate across Southeast Asia, South Asia, the Middle East, and Africa; three, that gives China a military rationale for overseas infrastructure and port access.",
+            "Third, the strategic effect is to normalize Chinese revisionism. This matters because once Beijing frames Taiwan, the South China Sea, and far-sea operations as 'defensive' core interests, it becomes easier to justify first-move escalation while portraying U.S. resistance as containment."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China’s naval rise is real, but it is still constrained by lack of combat experience, alliance weakness, and the difficulty of projecting power against a U.S.-led coalition.",
+          "mechanisms": [
+            "First, hardware does not equal wartime effectiveness. One, the PLAN has not fought a modern naval war, so command, control, and damage control remain untested; two, doctrine built around theory and exercises may fail under electronic warfare, attrition, and battlefield uncertainty; three, the U.S. and allies have decades of operational experience coordinating carrier groups, submarines, and joint fires.",
+            "Second, China’s maritime expansion is vulnerable to geography and logistics. One, far-sea operations require secure supply lines and dependable overseas access that can be disrupted in crisis; two, bases and ports do not automatically translate into wartime sustainment; three, the first naval facility in Djibouti is far from the main likely theaters around Taiwan and the South China Sea.",
+            "Third, coercion can backfire by accelerating balancing. One, neighbors facing Chinese naval pressure are more likely to deepen ties with the U.S., Japan, Australia, and India; two, a visibly expanding PLAN can trigger arms races and anti-China coalition building; three, this reduces Beijing’s freedom of action even if its fleet grows numerically."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether naval modernization translates into usable coercive power or merely larger but still unproven capabilities. The prop side wins if the question is structural regional balance, because China’s fleet growth, doctrine shift, and overseas maritime footprint create persistent pressure even without warfighting experience; the opp side wins only if the round is about actual battlefield performance in a high-end conflict.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Arms Race",
+        "Power Transition Theory",
+        "Offensive Realism",
+        "Balance of Power",
+        "Deterrence",
+        "Military Modernization",
+        "Revisionism",
+        "Alliance Formation",
+        "Power Projection"
+      ],
+      "motion_areas": [
+        "TH, as the U.S., would prioritize naval containment of China over economic engagement",
+        "THBT Southeast Asian states should bandwagon with China’s maritime rise",
+        "THP a world where China achieves blue-water naval parity with the United States",
+        "THBT the rise of China’s navy makes conflict in the Taiwan Strait more likely than peace",
+        "TH supports the militarization of maritime infrastructure in the Indo-Pacific"
+      ],
+      "data_points": [
+        "In 2020, China’s shipbuilding capacity was estimated at around 45% of global capacity",
+        "By 2020, the PLAN had about 240,000 officers and sailors",
+        "By 2020, the PLAN had an overall battle force of 350 surface ships and submarines, compared with 293 U.S. Navy warships",
+        "China established its first naval facility in Djibouti in 2017",
+        "The article says China operates 90 maritime installations, 13 of which are state-owned and 10 suitable for naval bases",
+        "Liu Huaqing served as commander of China’s navy from 1982-1988 and vice chair of the Central Military Commission from 1990-1998",
+        "Xi Jinping launched the Belt and Road Initiative in 2013, including a maritime silk road across the Pacific and Indian Oceans",
+        "The article identifies 2025-2049 as the key period for China to become a 'world-class navy'"
+      ]
+    },
+    {
+      "id": "b741fe124621",
+      "title": "China’s Ethnic Assimilation Drive Undercuts Its Bid for Global Leadership",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/china-tibet-uyghur-xinjiang-mongolian-ethnic-assimilation/",
+      "published": "2026-05-13T13:18:56Z",
+      "category": "IR",
+      "region": "China (Tibet, Xinjiang, Inner Mongolia and other minority regions)",
+      "background": "On 13 May 2026, Foreign Policy published an article arguing that Beijing’s ethnic policy is becoming a strategic liability. It highlights China’s new Law on Promoting Ethnic Unity and Progress, which takes effect in July and strengthens Mandarin instruction in schools across minority regions, alongside broader Sinicization policies targeting Tibetans, Uyghurs, Mongolians, and religious institutions. The article also cites China’s expanded boarding-school system in Tibetan areas, where an estimated 1 million Tibetan children are now educated away from their families, and references the 2020 Hong Kong national security crackdown as evidence of Beijing’s intolerance of dissent.",
+      "prop_args": [
+        {
+          "thesis": "Beijing’s forced assimilation weakens China’s long-term power by destroying the soft power, legitimacy, and trust needed for durable global leadership.",
+          "mechanisms": [
+            "First, assimilation erodes domestic legitimacy, which then spills into foreign credibility. This is because (1) minority repression signals that the CCP rules by coercion rather than consent, (2) a state that jails dissent and suppresses identity looks insecure rather than confident, and (3) foreign audiences infer that China’s model is incompatible with pluralism, making it harder to sell as an alternative world order.",
+            "Second, cultural uniformity damages China’s soft power by alienating the very communities and states it wants to influence. Three reasons: one, the suppression of Tibetan, Uyghur, and Mongolian identities creates a visible human-rights narrative that rivals can weaponize; two, religious restrictions and language policies make China appear hostile to diversity, reducing attraction in the Global South and among non-aligned states; three, coercive branding turns infrastructure and trade into transactions, not loyalty, so countries may buy Chinese goods without trusting Chinese leadership.",
+            "Third, the policy is strategically self-defeating because it creates resistance that is hard to extinguish. This matters because (1) identity is durable and can survive state pressure, as the article notes with Tibetan cultural revival after the 1950s-60s destruction, (2) repression often radicalizes minority nationalism rather than eliminating it, and (3) Beijing must then spend more on surveillance, policing, and control, diverting resources from external power projection."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "China can still achieve global leadership because hard power, economic interdependence, and state capacity matter more than liberal soft power.",
+          "mechanisms": [
+            "First, material dependence can outweigh reputational costs. One, China remains central to global supply chains, so states will continue engaging regardless of human-rights concerns; two, Belt and Road infrastructure creates sunk costs and long-term leverage; three, many governments prioritize growth, financing, and market access over values-based alignment.",
+            "Second, internal uniformity can strengthen state capacity and geopolitical coherence. One, a common language and centralized ideology can improve administrative control and policy implementation across a vast territory; two, suppressing separatism reduces the risk of fragmentation in strategically sensitive border regions; three, a more tightly controlled state can mobilize resources faster for industrial and military competition.",
+            "Third, global audiences are often pragmatic rather than ideological. This means (1) many states already cooperate with authoritarian powers when interests align, (2) Western credibility is weakened by its own contradictions, so China can present itself as a stable alternative, and (3) soft power is useful but not decisive when a power can deliver infrastructure, trade, and security partnerships."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether global leadership is determined by coercive capacity or by legitimacy and attraction. Prop wins if the round is about durable hegemony, because trust, identity, and voluntary alignment are harder to buy than ports or supply chains; Opp wins if the judge prioritizes raw state power, since China’s economic centrality can blunt reputational costs in the short run.",
+      "stock_connections": [
+        "Soft Power",
+        "Legitimacy",
+        "Authoritarian Resilience",
+        "Nationalism",
+        "State Capacity",
+        "Identity Politics",
+        "Minority Rights",
+        "Democratic Backsliding",
+        "Human Rights Conditionality",
+        "Hegemonic Stability"
+      ],
+      "motion_areas": [
+        "TH, as China, would prioritize cultural assimilation over minority autonomy",
+        "THBT states should not trade human rights for economic growth in great-power competition",
+        "THP a world where global leadership depends on soft power more than hard power",
+        "THBT authoritarian states cannot become legitimate global leaders",
+        "TH supports policies of linguistic and cultural uniformity in multiethnic states"
+      ],
+      "data_points": [
+        "The new Law on Promoting Ethnic Unity and Progress comes into force in July 2026",
+        "Estimated 1 million Tibetan children are now in state-run boarding schools away from their families",
+        "China has ordered churches to remove crosses and mosques to remove domes or minarets under Sinicization policies",
+        "The crackdown in Hong Kong under the 2020 national security law included the imprisonment of Jimmy Lai",
+        "Since 2023, official rhetoric has reportedly replaced 'Tibet' with 'Xizang' in English usage",
+        "The article says nearly all monasteries and nunneries were destroyed in the 1950s-60s campaign, with three-quarters of Tibetan cultural artifacts looted or destroyed"
+      ]
+    },
+    {
       "id": "3136957eeed0",
       "title": "Russia’s Drone Escalation Shows a War of Attrition That Rewards Persistence Over Diplomacy",
       "source": "Guardian",
@@ -1628,6 +2552,72 @@
       ]
     },
     {
+      "id": "854ccea933f5",
+      "title": "OPCON Transfer Becomes a Military Necessity as Seoul Outgrows U.S.-Led Wartime Command",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/the-military-imperative-for-opcon-transfer/",
+      "published": "2026-05-13T12:57:00Z",
+      "category": "IR",
+      "region": "South Korea / United States / Indo-Pacific",
+      "background": "This article argues for wartime operational control (OPCON) transfer from the U.S.-led Combined Forces Command to a South Korean-led structure. It frames the issue against a more complex security environment: North Korea’s nuclear and missile threat, deepening North Korea-Russia military cooperation during the Ukraine war, and the possibility of simultaneous crises in the Taiwan Strait or South China Sea. The piece also cites the 2026 U.S. National Defense Strategy, which prioritizes China and Indo-Pacific deterrence, as evidence that Washington wants South Korea to assume more conventional defense responsibility.",
+      "prop_args": [
+        {
+          "thesis": "Transferring wartime OPCON to Seoul improves deterrence and crisis response by aligning command authority with the state most directly threatened and the military most capable of acting quickly.",
+          "mechanisms": [
+            "First, it removes the command-friction created by the current peacetime/wartime split. This is because (1) the ROK Joint Chiefs of Staff commands in peacetime while the Combined Forces Command takes over in wartime, (2) the transition itself creates administrative delays at the exact moment speed matters most, and (3) in a North Korean surprise attack or localized provocation, those delays can squander the decisive response window.",
+            "Second, it makes South Korea’s kill-chain / KAMD / KMPR deterrence architecture operationally coherent. Three reasons: one, Kill Chain depends on minute-level decision cycles from detection to strike; two, the commander with the best real-time ISR picture should be the one making the strike decision; three, if wartime OPCON stays with CFC, intelligence-to-fire integration is structurally constrained.",
+            "Third, it better fits the broader shift to multi-domain and theater-wide warfare. This matters because (1) modern conflict now includes cyber, space, electromagnetic, and cognitive domains, (2) the Korean Peninsula may face compound contingencies alongside Taiwan or the South China Sea, and (3) a ROK-led command can make faster, locally grounded decisions without waiting for a U.S.-centric chain of command that is increasingly oriented toward Indo-Pacific theater mobility rather than peninsula-specific defense."
+          ]
+        },
+        {
+          "thesis": "OPCON transfer is the institutional upgrade needed for South Korea to convert its military maturity into genuine strategic autonomy without weakening the alliance.",
+          "mechanisms": [
+            "First, South Korea’s military capabilities have outgrown the old command structure. This is because (1) the ROK Armed Forces are described as a modern, world-class force with advanced missile capabilities and mobile firepower, (2) the original 1950 delegation of authority was designed for a state that lacked basic self-defense capacity, and (3) keeping the same structure after capability growth turns a once-protective arrangement into a bottleneck.",
+            "Second, it preserves alliance effectiveness by matching U.S. strategy to U.S. priorities. Three reasons: one, the 2026 NDS emphasizes China and Taiwan deterrence, so Washington wants more flexibility in how it uses USFK; two, OPCON transfer lets U.S. forces become more mobile across the Indo-Pacific instead of being fixed to peninsula defense; three, the alliance can shift from a hierarchical model to a mature partnership where Seoul leads conventional defense and Washington provides strategic/nuclear support.",
+            "Third, it improves escalation management because Korean political objectives are most directly at stake. This matters because (1) a Korean commander can calibrate offensive tempo, ceasefire timing, and restraint near borders to Seoul’s interests, (2) it reduces the risk that Washington and Seoul diverge at the most sensitive moments, and (3) it gives South Korea stronger ownership over any post-conflict settlement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Keeping wartime OPCON under the existing combined command preserves alliance cohesion, deterrence credibility, and operational stability in a crisis-prone peninsula.",
+          "mechanisms": [
+            "First, the current structure reduces the risk of miscoordination between the U.S. and South Korea. One, the alliance has spent 70+ years building shared treaties, procedures, directives, and practices; two, that accumulated architecture is what makes combined deterrence credible to North Korea; three, changing command authority in wartime could create confusion over who controls escalation, especially when U.S. extended deterrence is central to Seoul’s security.",
+            "Second, a U.S.-led command may be better for escalation control and regional signaling. One, Washington can better manage the risk of a peninsula war spilling into a U.S.-China confrontation; two, U.S. control may reassure Japan and other regional partners that the alliance will not act unilaterally; three, a Korean-led command could be read by Beijing or Pyongyang as a more nationalist posture, increasing the chance of preemptive or opportunistic action.",
+            "Third, transfer risks creating a capability gap between formal authority and real strategic dependence. One, South Korea still relies on U.S. nuclear deterrence and strategic enablers; two, if Seoul holds OPCON but Washington retains the decisive escalation tools, the chain of command may become politically Korean but operationally dependent on U.S. assets; three, that mismatch could slow decisions rather than speed them if coordination mechanisms are not perfect."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether command unity is better served by continuity or by aligning authority with capability and local political stakes. Pro-transfer wins if the round prioritizes speed, local decision-making, and adapting institutions to a more complex multi-domain environment; anti-transfer wins if the round thinks alliance cohesion and nuclear-backed escalation control are more important than autonomy.",
+      "stock_connections": [
+        "Alliance burden-sharing",
+        "Civil-military relations",
+        "Command and control (C2) friction",
+        "Security dilemma",
+        "Extended deterrence",
+        "Escalation control",
+        "Institutional adaptation",
+        "Alliance dependence"
+      ],
+      "motion_areas": [
+        "TH, as South Korea, would transfer wartime OPCON from the United States",
+        "THBT the United States should support wartime OPCON transfer to South Korea",
+        "THP a world where allied states lead conventional defense while the U.S. provides nuclear deterrence",
+        "THBT military alliances should restructure command authority when local partners outgrow legacy command arrangements"
+      ],
+      "data_points": [
+        "OPCON was delegated in 1950 through President Syngman Rhee’s letter to General MacArthur",
+        "South Korea’s missile guidelines initially capped ballistic missile range at 180 km in 1979",
+        "The missile guidelines were revised in 2001, 2012, 2017, and 2021, eventually eliminating the range cap",
+        "The 2026 U.S. National Defense Strategy identifies China as the most consequential strategic competitor",
+        "The article says Kill Chain aims to reduce target-identification-to-strike decision time to within minutes",
+        "South Korea’s three-axis deterrence system is Kill Chain, KAMD, and KMPR",
+        "The article describes the ROK Armed Forces as possessing advanced missile capabilities and among the world’s finest mobile firepower",
+        "The article notes North Korea has provided military logistics support to Russia during the Ukraine war",
+        "The current structure uses ROK Joint Chiefs of Staff command in peacetime and the Combined Forces Command in wartime"
+      ]
+    },
+    {
       "id": "b14e880be734",
       "title": "Trump-Xi Beijing Summit Reopens the US-China Trade Bargain Under Strategic Rivalry",
       "source": "Bloomberg",
@@ -1726,6 +2716,65 @@
         "Air Force One landed at Beijing Capital International Airport slightly before 8 p.m. on Wednesday",
         "China is one of the world’s two largest economies",
         "The summit is taking place against the backdrop of the Iran war"
+      ]
+    },
+    {
+      "id": "09e7b3f87e97",
+      "title": "Hainan Free Trade Port Revives Beijing’s Economic Bet on Taiwan Reunification",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/one-country-two-islands-beijings-long-bet-that-an-open-hainan-can-hook-taiwan/",
+      "published": "2026-05-13T12:32:00Z",
+      "category": "IR",
+      "region": "China / Taiwan / East Asia",
+      "background": "In December 2025, Hainan was separated from mainland customs rules to become what Beijing describes as the world’s largest free-trade port. The project revives a strategy first developed in the 1980s, when Deng Xiaoping and reformist officials argued that making Hainan more open and prosperous could serve as a showcase for Taiwan and encourage peaceful reunification. Hainan was made a province and special economic zone in April 1988, but the experiment was derailed by the 1989 political crackdown and later by property booms and busts; Beijing has now returned to it under Xi Jinping, who has called it a “landmark” and “key gateway” project.",
+      "prop_args": [
+        {
+          "thesis": "An open Hainan strengthens Beijing’s long-term reunification strategy by making economic integration with the mainland more attractive than political resistance for Taiwanese elites and businesses.",
+          "mechanisms": [
+            "First, Hainan creates a visible model of prosperity under Chinese sovereignty. This matters because (1) Beijing can point to concrete gains in trade, logistics, tourism, and investment rather than abstract ideology, (2) Taiwanese business elites are more likely to engage when returns are visible and infrastructure is improved, and (3) a successful showcase reduces the credibility of arguments that integration necessarily means stagnation or repression.",
+            "Second, Hainan deepens cross-strait economic interdependence. Three reasons: one, freer movement of capital and firms gives Taiwanese investors a material stake in stable relations; two, supply-chain and service-sector linkages create lobbying pressure inside Taiwan for accommodation; three, repeated commercial contact normalizes the idea that economic cooperation can precede political compromise.",
+            "Third, it gives Beijing a softer pathway than coercion to shape the Taiwan debate. This matters because (1) it allows the CCP to frame reunification as development-led and voluntary rather than military, (2) it can split Taiwanese domestic politics by empowering pro-engagement actors like parts of the KMT, and (3) it offers Beijing a propaganda win in the broader Global South by presenting Chinese governance as capable of delivering openness and growth."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Hainan is unlikely to move Taiwanese opinion and may instead expose the limits of Beijing’s economic statecraft, especially after Hong Kong.",
+          "mechanisms": [
+            "First, Taiwanese voters do not trust economic integration to stay depoliticized. One, Hong Kong’s 2019-2020 crackdown destroyed the credibility of 'one country, two systems' as a safe model; two, any gains in Hainan are read through the lens of eventual political control, not benign openness; three, the more Beijing advertises the island as a reunification tool, the more Taiwanese audiences see it as strategic coercion.",
+            "Second, the economic pull is weaker than Beijing assumes. One, Taiwanese firms already have diversified options across Southeast Asia and the US-led tech ecosystem, so Hainan is not uniquely indispensable; two, the island’s appeal is still constrained by mainland political risk, regulatory uncertainty, and the CCP’s ability to reverse liberalization; three, business ties do not automatically translate into political concession, especially on sovereignty issues.",
+            "Third, the project may backfire by hardening Taiwanese identity. This is because (1) overt linkage between development and reunification confirms fears that economic engagement is a trap, (2) it strengthens pro-independence narratives that Taiwan must avoid dependence on the mainland, and (3) it gives anti-CCP politicians a concrete example of how Beijing uses markets as a political weapon."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether economic attraction can overcome sovereignty distrust. Prop has the structural advantage if the question is elite influence and incremental cross-strait engagement; Opp wins if the round is about mass Taiwanese opinion, because Hong Kong has made any Chinese 'openness' strategy politically suspect and therefore much less persuasive.",
+      "stock_connections": [
+        "Economic statecraft",
+        "Soft power",
+        "Interdependence theory",
+        "Co-optation",
+        "Sovereignty vs prosperity tradeoff",
+        "Democratic backsliding",
+        "Authoritarian legitimation",
+        "Dependency theory",
+        "Economic coercion",
+        "Cross-strait deterrence"
+      ],
+      "motion_areas": [
+        "TH, as Taiwan, would ban major strategic investment into Hainan",
+        "THBT economic integration is the most effective path to peaceful cross-strait relations",
+        "THP a world where China uses special economic zones as tools of foreign policy",
+        "THBT Taiwan should prioritize decoupling from the mainland over preserving business ties",
+        "TH, as the CCP, would pursue Hainan-style free trade zones to advance territorial claims"
+      ],
+      "data_points": [
+        "Hainan was cleaved off from mainland customs rules in December 2025 to become the world’s largest free-trade port",
+        "Hainan was established as a province and special economic zone in April 1988",
+        "Deng Xiaoping said in 1987 that Hainan and Taiwan are 'roughly similar in area' and that developing Hainan properly would be 'truly remarkable'",
+        "The article notes Hainan was envisioned as a 'Hong Kong for the mainland by 2040'",
+        "Hong Kong’s 2019-2020 protests and subsequent crackdown are cited as the main reason 'one country, two systems' is discredited in Taiwan",
+        "KMT Chair Cheng Li-wun visited China and met Xi Jinping in April 2026 to thaw cross-strait tensions",
+        "Chi Fulin wrote in 2018 that Hainan’s development has 'profound significance' for peaceful national reunification"
       ]
     },
     {
@@ -1852,6 +2901,62 @@
         "Howard-era net overseas migration was about 100,000",
         "Peter Dutton previously pledged to cut net overseas migration to 160,000 in his first year",
         "Policy would tighten temporary migration, including international students, and prioritise quality in skilled visa categories"
+      ]
+    },
+    {
+      "id": "7722680a1702",
+      "title": "Classified Coup Case Against Ex-Security Chief Signals Kyrgyz Elite Purge, Not Neutral Rule of Law",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/tashiev-indicted-for-coup-plot-case-classified/",
+      "published": "2026-05-13T12:29:00Z",
+      "category": "IR",
+      "region": "Kyrgyzstan",
+      "background": "On 13 May 2026, The Diplomat reported that Kyrgyzstan’s Prosecutor-General had approved an indictment against Kamchybek Tashiev, the former head of the State Committee for National Security, and sent the case to Bishkek’s Pervomaisky District Court. Tashiev faces charges of preparing for the violent seizure of power and abuse of office; the case is classified, meaning hearings will be closed and information restricted. The article notes seven other unnamed defendants and says Tashiev has not been taken into custody as of publication, unlike many opposition figures previously charged under similar articles. It also references the 2022–2024 Kempir-Abad case, in which 25 defendants were eventually acquitted after nearly two years of proceedings.",
+      "prop_args": [
+        {
+          "thesis": "A classified prosecution of a former regime insider is a selective power-consolidation tool that strengthens the presidency by neutralizing elite rivals while preserving the appearance of legality.",
+          "mechanisms": [
+            "First, the case removes a politically connected security actor from the elite coalition. This is because (1) Tashiev is a former head of the national security service, so he has access to coercive networks, (2) coup charges are the most effective legal pretext for sidelining someone with real institutional leverage, and (3) by targeting him through courts rather than an open purge, the presidency lowers the immediate risk of backlash from his allies.",
+            "Second, the classification of the trial lets the state control the narrative and evidence. Three reasons: one, closed hearings prevent public scrutiny of whether the evidence is credible; two, secrecy reduces the defendant’s ability to mobilize supporters around procedural unfairness; three, it allows the government to frame the case as a national-security matter rather than a political dispute.",
+            "Third, selective enforcement deters other insiders from defecting. This matters because (1) if even a former security chief can be prosecuted, lower-level officials infer that loyalty is conditional, (2) the uncertainty over who is next increases self-censorship inside the elite, and (3) the presidency can use that fear to centralize decision-making and discipline the ruling coalition."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The indictment can be defended as a necessary anti-coup measure that protects state stability and signals that even powerful insiders are not above the law.",
+          "mechanisms": [
+            "First, prosecuting a former security chief can genuinely deter coup plotting. 1) Tashiev’s position means he would be unusually capable of organizing coercive action, 2) public tolerance for elite impunity is what often enables coups in weak institutions, and 3) a formal indictment raises the expected cost of conspiracy for other actors with access to armed networks.",
+            "Second, secrecy may be justified by the sensitivity of national-security evidence. 1) Open proceedings could expose intelligence sources, operational methods, or informants, 2) classified evidence is common in cases involving coup allegations, and 3) closed hearings can still produce lawful outcomes if courts are functioning properly.",
+            "Third, the fact that he has not been immediately detained suggests the state is acting more cautiously than in prior political cases. 1) That indicates some procedural restraint, 2) it weakens the claim of an outright purge, and 3) it leaves room for the defense to contest the charges rather than treating the process as predetermined."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the case is read as genuine security enforcement or as selective elite discipline. Prop has the stronger structural story because secrecy plus differential treatment versus past opposition cases makes abuse of process easy and hard to verify; opp only wins if you assume the evidence is real and the courts are independent.",
+      "stock_connections": [
+        "Rule of Law vs Selective Justice",
+        "Authoritarian Consolidation",
+        "Elite Purges",
+        "Security State Abuse",
+        "Judicial Independence",
+        "Democratic Backsliding",
+        "Coup Deterrence",
+        "Personalist Regime Dynamics"
+      ],
+      "motion_areas": [
+        "TH, as a government, would prosecute former security chiefs for alleged coup plotting in closed national-security trials",
+        "THBT post-Soviet states should prioritize elite anti-coup prosecutions over public judicial transparency",
+        "THP a world where classified trials are permitted for all national-security offenses",
+        "THBT authoritarian-leaning governments use anti-coup charges to consolidate power more than to prevent coups"
+      ],
+      "data_points": [
+        "Case approved by the Prosecutor-General’s Office and transferred to Pervomaisky District Court of Bishkek",
+        "Tashiev faces charges of preparing for the violent seizure of power and abuse of office",
+        "Seven other defendants are included, but their names have not been publicized",
+        "The case is classified, so all hearings will be closed to the public",
+        "In the Kempir-Abad case, 25 defendants were acquitted in June 2024 after nearly two years of proceedings",
+        "Eight Kempir-Abad defendants remained detained until the acquittal",
+        "Tashiev has not been taken into custody as of publication"
       ]
     },
     {

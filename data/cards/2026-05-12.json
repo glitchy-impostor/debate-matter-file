@@ -1,6 +1,6 @@
 {
   "date": "2026-05-12",
-  "last_updated": "2026-05-13T04:07:25Z",
+  "last_updated": "2026-05-13T20:09:42Z",
   "cards": [
     {
       "id": "944fb7519f34",
@@ -2331,6 +2331,67 @@
         "Trump said he was leaving the White House for Beijing on May 12, 2026",
         "Trump described his relationship with Xi Jinping as a 'fantastic one'",
         "The article frames the meeting as between the leaders of the world's two largest economies"
+      ]
+    },
+    {
+      "id": "57a83d5561b7",
+      "title": "India’s Fuel-Scarcity Austerity Push Risks Becoming Elite-Imposed Sacrifice Without Credibility",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/modi-calls-on-indians-to-consume-less-petrol-postpone-travel-abroad-he-isnt-leading-by-example/",
+      "published": "2026-05-12T18:15:00Z",
+      "category": "Econ",
+      "region": "India / Persian Gulf / Strait of Hormuz (West Asia)",
+      "background": "On May 10, Prime Minister Narendra Modi urged Indians to reduce petrol and diesel use, avoid non-essential gold purchases, postpone foreign travel, and conserve foreign exchange amid a crisis in the Strait of Hormuz disrupting oil, gas, and fertilizer supply lines. India imports nearly 88% of its crude oil, with 40-50% of crude imports moving through the Strait of Hormuz; crude import prices reportedly rose from an average of $70.99 per barrel in 2025-26 to $114.48 in April and $105.4 in May. The article says India’s 2025-26 import bill included $134.7 billion for crude, nearly $72 billion for gold, $19.5 billion for vegetable oils, and $14.5 billion for fertilizers, while the government had downplayed shortages before the election and continued high-consumption political campaigning.",
+      "prop_args": [
+        {
+          "thesis": "In a foreign-exchange and energy shock, public austerity messaging is a legitimate and necessary tool to reduce demand, stabilize reserves, and prevent a balance-of-payments crisis.",
+          "mechanisms": [
+            "First, the state needs to compress import demand quickly when supply lines are disrupted. This is because (1) India imports nearly 88% of its crude, (2) 40-50% of those imports move through the Strait of Hormuz, and (3) a sudden price spike from $70.99 to $114.48 per barrel mechanically worsens the current account and drains reserves.",
+            "Second, consumer restraint is one of the few fast-acting levers available before macroeconomic damage compounds. Three reasons: one, reducing petrol, gold, edible oil, and fertilizer consumption directly lowers import bills; two, urging fewer non-essential foreign trips and gold purchases targets high-forex discretionary spending; three, even small aggregate reductions matter because these four categories alone account for over 31% of India’s total imports.",
+            "Third, framing sacrifice as 'economic patriotism' can coordinate behavior and buy time for supply diversification. This matters because (1) crises are partly coordination problems, (2) visible public messaging can shift social norms toward carpooling, rail, and work-from-home where feasible, and (3) it helps the government avoid harsher measures like abrupt rationing, devaluation, or emergency capital controls later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The speech is politically cynical and economically regressive because it shifts the burden of a state-created crisis onto ordinary people while sparing elites and the ruling party.",
+          "mechanisms": [
+            "First, the message lacks credibility because the government and BJP did not model austerity. One, the article says the BJP ran lavish campaigns with chartered flights, rallies, convoys, buses, and trains; two, Modi himself continued roadshows and then flew to Gujarat the next day; three, there were no announced cuts to ministerial perks or convoy sizes, so citizens are asked to sacrifice without reciprocal restraint.",
+            "Second, the policy burden falls hardest on those least able to comply. One, working from home is impossible for agriculture and construction workers; two, many Indians already face long lines for cooking gas and shortages of water and electricity; three, telling low-income households to 'consume less' reads as moralizing when they already consume at subsistence levels.",
+            "Third, this kind of rhetoric can backfire by eroding trust and making future crisis management harder. Two sub-reasons: one, the government previously downplayed oil and LPG shortages, so the sudden austerity pivot looks opportunistic; two, if people believe the speech is a prelude to lockdown-style restrictions, they may hoard goods, panic-buy, or politically punish the government, worsening the very instability the appeal is meant to prevent."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether public austerity is a necessary macro-stabilization tool or an illegitimate transfer of crisis costs onto ordinary citizens. Prop wins if the judge prioritizes reserve preservation and rapid demand compression in a genuine external shock; opp wins if the judge thinks policy legitimacy and burden-sharing are prerequisites for compliance and that elite hypocrisy destroys the effectiveness of the message.",
+      "stock_connections": [
+        "Austerity",
+        "Elite Hypocrisy",
+        "Burden Sharing",
+        "Moral Hazard",
+        "Populism",
+        "Balance of Payments Crisis",
+        "Inflation",
+        "Demand Compression",
+        "Trust in Government",
+        "Crisis Legitimacy"
+      ],
+      "motion_areas": [
+        "TH, as India, would publicly call for consumer austerity during an external energy shock",
+        "THBT governments should ask citizens to reduce discretionary consumption during balance-of-payments crises",
+        "THP a world where political leaders must personally model austerity before asking the public to sacrifice",
+        "THBT developing countries facing import shocks should prioritize demand restraint over stimulus"
+      ],
+      "data_points": [
+        "India imports nearly 88% of its crude oil requirements",
+        "40-50% of India’s crude imports move through the Strait of Hormuz",
+        "Crude import prices rose from an average of $70.99 per barrel in 2025-26 to $114.48 in April and $105.4 in May",
+        "India’s 2025-26 crude import bill was $134.7 billion",
+        "India’s 2025-26 gold import bill was nearly $72 billion",
+        "India’s 2025-26 vegetable oil import bill was $19.5 billion",
+        "India’s 2025-26 fertilizer import bill was $14.5 billion",
+        "The four categories together account for over 31% of India’s total imports",
+        "Modi’s foreign trips reportedly cost the exchequer over $39 million between 2021 and 2025",
+        "India’s Ministry of External Affairs said Modi would travel to the UAE, Norway, Sweden, the Netherlands and Italy between May 15 and 20"
       ]
     },
     {
