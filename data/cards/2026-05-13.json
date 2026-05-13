@@ -1,7 +1,1308 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-13T11:38:09Z",
+  "last_updated": "2026-05-13T14:58:05Z",
   "cards": [
+    {
+      "id": "91313f0b70e1",
+      "title": "Ceasefire Collapse Exposes Drone Escalation and Civilian Vulnerability in the Russia-Ukraine War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T14:51:30Z",
+      "category": "IR",
+      "region": "Ukraine / Russia",
+      "background": "Nine people were killed and at least 28 injured in Russian drone attacks across Ukraine after a three-day US-brokered ceasefire expired late on Monday. Ukrainian officials said the worst-hit area was Dnipropetrovsk, where eight people were killed and 11 injured, while attacks were also reported in at least 14 regions including Kharkiv, Odesa, Kherson, Zaporizhzhia and Poltava. Ukraine’s air force said Russia launched 139 drones in the past 24 hours, with 111 shot down or intercepted and 20 direct hits in 13 locations; Russia said it intercepted 286 Ukrainian drones over 14 regions and Crimea, with damage reported to industrial and gas facilities in Astrakhan, Krasnodar and Yaroslavl.",
+      "prop_args": [
+        {
+          "thesis": "The collapse of the ceasefire shows why limited truces are insufficient: only a stronger enforcement architecture can reduce civilian harm and prevent rapid re-escalation.",
+          "mechanisms": [
+            "First, short ceasefires do not change battlefield incentives. This is because (1) both sides can treat them as operational pauses to reload drones, reposition air defenses, and gather intelligence, (2) there is no credible enforcement mechanism in the article to punish violations, and (3) once the truce expires, both sides immediately revert to mass strikes, showing the underlying war logic remains intact.",
+            "Second, the drone war makes civilians uniquely exposed even when frontlines are static. Three reasons: one, drones can be launched cheaply and in large numbers across wide geography; two, they hit residential and transport infrastructure far from the front, as seen in 14 attacked regions; three, air defense interception still leaves lethal leakage, with 20 direct hits despite 111 interceptions.",
+            "Third, stronger external pressure or monitoring matters because it raises the cost of violation and protects civilian infrastructure. This matters because the biggest delta in this debate is not whether both sides want to keep fighting, but whether the international system can make restraint more rational than escalation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The attacks prove that ceasefires without a broader political settlement are cosmetic, and can even incentivize both sides to prepare for the next round of violence.",
+          "mechanisms": [
+            "First, temporary truces can entrench the conflict rather than reduce it: (1) they give both armies time to repair logistics and replenish drones, (2) they create false confidence that diplomacy is progressing while core war aims remain unchanged, and (3) they allow each side to accuse the other of violations, hardening public opinion against compromise.",
+            "Second, civilian casualties alone do not prove that escalation management is the right policy lever. (1) The article shows both sides are already striking military and industrial targets, (2) Ukraine explicitly frames Russian energy facilities as legitimate targets, and (3) if one side believes the other’s war capacity depends on those assets, neither will stop without a settlement that addresses security guarantees and territory.",
+            "Third, external ceasefire-brokering can be strategically weak because it may freeze the conflict on terms favorable to the stronger party. This is because (1) Russia can use pauses to consolidate occupied areas, (2) Ukraine risks being pressured into concessions without meaningful enforcement, and (3) a bad ceasefire can reduce urgency for allies to sustain long-term military aid."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the problem is lack of ceasefires or lack of enforceable settlement architecture. Prop wins if the round is about civilian protection and immediate harm reduction; opp wins if the round is about how temporary truces can entrench a war and reward the stronger side.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Escalation Spiral",
+        "Ceasefire Enforcement",
+        "Civilian Protection",
+        "War of Attrition",
+        "Deterrence Failure",
+        "Proxy War Dynamics",
+        "Critical Infrastructure Targeting"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize enforceable ceasefire monitoring in Ukraine over ad hoc truce diplomacy",
+        "THBT temporary ceasefires in active wars do more harm than good",
+        "THP a world where drone warfare is treated as a major escalation threshold in interstate conflict"
+      ],
+      "data_points": [
+        "9 killed and at least 28 injured in the latest Russian drone attacks across Ukraine",
+        "14 Ukrainian regions were attacked in one day",
+        "Ukraine’s air force said Russia launched 139 drones in 24 hours",
+        "111 drones were shot down or intercepted, but 20 direct hits were recorded in 13 locations",
+        "Russia said it intercepted 286 Ukrainian drones over 14 Russian regions and Crimea",
+        "The ceasefire lasted three days and expired late on Monday",
+        "Dnipropetrovsk region reported 8 deaths and 11 injuries; Kryvyi Rih recorded 2 deaths"
+      ]
+    },
+    {
+      "id": "d3a33db5291a",
+      "title": "ICC Pursuit of Duterte Ally Turns Philippine Senate Into Flashpoint Over Sovereignty and Accountability",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T14:33:59Z",
+      "category": "IR",
+      "region": "Philippines / The Hague",
+      "background": "The Philippine Senate was locked down after gunshots were heard in the building where Senator Ronald Dela Rosa, a former police chief and close ally of Rodrigo Duterte, had reportedly sought refuge. Dela Rosa is wanted by the International Criminal Court over killings linked to Duterte’s war on drugs, during which thousands of alleged dealers were shot and killed; Duterte himself has been held at The Hague since March 2025. The Philippine government says it is not arresting Dela Rosa and is instead securing the senators, while his lawyers have asked the Supreme Court to block extradition. Last month, ICC judges rejected Duterte’s argument that the Philippines’ 2019 withdrawal from the Rome Statute blocked the case, saying the alleged crimes occurred between 2011 and 2019, when the country was still a member.",
+      "prop_args": [
+        {
+          "thesis": "Enforcing ICC accountability against powerful domestic elites strengthens the rule of law by showing that political office cannot shield mass abuses from punishment.",
+          "mechanisms": [
+            "First, it breaks elite impunity. This is because (1) the alleged crimes were committed while the Philippines was still under ICC jurisdiction, (2) Dela Rosa and Duterte are high-status actors with access to state protection and legal delay tactics, and (3) if even a senator can evade arrest by hiding in a legislature, lower-level perpetrators learn that violence is politically rewarded.",
+            "Second, it restores deterrence for future security forces. Three reasons: one, police and military officers calibrate behavior based on whether commanders are ever punished; two, the drug war allegedly involved thousands of killings, so the scale itself signals a systemic policy problem rather than isolated abuse; three, visible international prosecution tells future governments that mass killings create personal legal risk, not just diplomatic noise.",
+            "Third, it strengthens democratic accountability by separating legitimate anti-crime policy from extrajudicial violence. This matters because the core political defense of the drug war is that it was necessary for public order, but ICC scrutiny forces a line between lawful enforcement and state murder, which improves institutional trust over time."
+          ]
+        },
+        {
+          "thesis": "Allowing the ICC to proceed prevents domestic courts from being captured by the same political coalition implicated in the abuses.",
+          "mechanisms": [
+            "First, international prosecution is necessary when domestic remedies are structurally compromised. One, Dela Rosa is a sitting senator with allies inside the state; two, his lawyers are already seeking to block extradition in the Supreme Court, showing the case will be fought through institutions that may be politically pressured; three, the government’s own statement that it is 'protecting' him suggests enforcement is not neutral.",
+            "Second, the ICC creates an external check when national sovereignty is used as a shield for atrocity. This is because (1) the Philippines’ withdrawal from the Rome Statute in 2019 does not erase jurisdiction over earlier crimes, (2) the Pre-Trial Chamber has already rejected the non-jurisdiction argument, and (3) without an external forum, states can simply exit treaties after committing abuses.",
+            "Third, the broader human rights effect outweighs short-term nationalist backlash. This matters because the victims of the drug war are thousands of dead civilians and their families; even if prosecution polarizes elites, it signals that mass killing is not a legitimate tool of governance."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "ICC intervention in a politically explosive case can destabilize domestic institutions and deepen nationalist resistance, making accountability less effective in practice.",
+          "mechanisms": [
+            "First, it can trigger a sovereignty backlash. One, Duterte and his allies have already framed the ICC as illegitimate because the Philippines withdrew from the Rome Statute in 2019; two, a high-profile arrest attempt inside the Senate turns the case into a national humiliation narrative; three, that can strengthen hardliners who portray international law as foreign interference.",
+            "Second, it risks provoking institutional confrontation and public disorder. One, the Senate was already locked down after gunshots were heard; two, police commandos and anti-riot units were visibly deployed, which increases the chance of escalation or miscalculation; three, when enforcement looks coercive, supporters may mobilize around the accused rather than the victims.",
+            "Third, selective international justice can weaken legitimacy if it appears politically targeted. This is because (1) the ICC moves slowly and usually focuses on a few visible figures rather than the full chain of responsibility, (2) domestic audiences may see the prosecution of Duterte-era officials as victor’s justice after a change in political winds, and (3) if the process is perceived as externally imposed, compliance and truth-telling become harder."
+          ]
+        },
+        {
+          "thesis": "Domestic institutions, not the ICC, are the better venue for resolving the drug war because local accountability is more durable and less likely to be rejected.",
+          "mechanisms": [
+            "First, local courts and politics can create broader legitimacy. One, Philippine citizens are more likely to accept outcomes delivered by their own judiciary than by judges in The Hague; two, domestic proceedings can address not just top officials but the wider chain of command and police culture; three, that makes reform more sustainable than a single international trial.",
+            "Second, the ICC’s reach is limited and may overpromise justice. One, it can only prosecute a small number of individuals; two, it depends on state cooperation for arrests and evidence; three, if the accused can hide in the Senate or rely on political allies, the court’s inability to enforce its orders can make it look weak and embolden future non-compliance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic sovereignty and practical impunity: if the state can protect alleged mass-abuse architects from any consequences, rule-of-law norms collapse. The opposition is strongest on backlash and legitimacy, but the proposition has the structural advantage because the alleged harms are grave, the domestic system is politically entangled, and external enforcement is often the only way to make accountability real.",
+      "stock_connections": [
+        "Impunity",
+        "Rule of Law",
+        "Sovereignty vs Human Rights",
+        "International Justice",
+        "Democratic Backsliding",
+        "Elite Capture",
+        "Security Sector Abuse",
+        "Victim-Centered Justice",
+        "Backlash Politics",
+        "External Enforcement"
+      ],
+      "motion_areas": [
+        "TH, as the ICC, would prioritize prosecuting former heads of state and senior security officials for mass human rights abuses",
+        "THBT international courts should override domestic sovereignty claims when crimes were committed while the state was a treaty member",
+        "THP a world in which international justice institutions can compel arrests of sitting legislators accused of atrocity crimes",
+        "THBT states should cooperate with the ICC even when doing so risks domestic political instability"
+      ],
+      "data_points": [
+        "Duterte has been held at The Hague since March 2025",
+        "The alleged crimes occurred between 2011 and 2019, when the Philippines was still a member of the Rome Statute",
+        "The Philippines withdrew from the ICC in 2019",
+        "The drug war is described as involving 'thousands' of alleged dealers shot and killed",
+        "The ICC Pre-Trial Chamber rejected the jurisdiction challenge last month",
+        "No casualties were reported after gunshots were heard in the Senate building",
+        "Police commandos in fatigues entered the Senate building in Manila, with anti-riot police surrounding the perimeter"
+      ]
+    },
+    {
+      "id": "244de77dd031",
+      "title": "Magyar’s EU Reset Ties Hungary’s Reform Agenda to Unlocking Frozen Brussels Cash",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/can-peter-magyar-deliver-on-his-promises-of-reform-and-restore-a-relationship-to-the-eu",
+      "published": "2026-05-13T14:26:09Z",
+      "category": "IR",
+      "region": "Hungary / European Union",
+      "background": "Péter Magyar was sworn in as Hungary’s prime minister on Saturday and immediately signalled a sharp break from Viktor Orbán’s 16-year rule, including restoring the EU flag to parliament and dropping Hungary’s veto on sanctions against violent Israeli settlers. His government says it will revise Hungary’s anti-LGBTQ+ law, meet criteria to adopt the euro by 2030, and produce a new plan to unlock frozen EU funds. The most urgent issue is €10.4bn in post-pandemic recovery grants and cheap loans, which were withheld over rule-of-law and corruption concerns; Hungary must show it has completed 27 \"super milestones\" by 31 August to receive the money by year-end.",
+      "prop_args": [
+        {
+          "thesis": "Magyar’s reform agenda is a credible chance to restore Hungary’s EU relationship because access to frozen funds creates strong incentives for institutional cleanup and policy convergence.",
+          "mechanisms": [
+            "First, the EU money gives Magyar a concrete material payoff for reform, which changes elite incentives. This is because (1) €10.4bn in recovery grants and cheap loans are immediately tied to rule-of-law milestones, (2) Hungary’s economy has stagnated for four years and the deficit is spiralling, and (3) the government needs public investment to avoid a recession and prove competence early.",
+            "Second, the new government can use the EU as an external anchor to lock in domestic institutional change. Three reasons: one, the 27 \"super milestones\" force anti-corruption and judicial-independence reforms, two, the euro-2030 target and green/digital recovery plan create a long reform horizon, and three, Brussels has already shown flexibility, meaning a cooperative government can sequence compliance without triggering immediate collapse.",
+            "Third, a successful EU reset would improve Hungary’s domestic and international legitimacy. This matters because (1) raising the EU flag and reversing vetoes signals a clean break from Orbán-era isolation, (2) restoring funds would let Magyar deliver visible economic gains quickly, and (3) early wins reduce the chance that opposition forces or hardliners can frame reform as foreign-imposed weakness."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Magyar’s promises are structurally fragile because the EU will demand deep, fast institutional changes that are politically hard to deliver and easy to reverse.",
+          "mechanisms": [
+            "First, the deadline-driven funding process creates a reform trap. One, Hungary has until 31 August to prove completion of 27 milestones, two, rushing constitutional and judicial changes risks looking like Orbán-style power consolidation, and three, any perceived procedural abuse could undermine the very legitimacy Magyar needs to sustain reform.",
+            "Second, the coalition and electorate are too broad for a stable pro-EU pivot. One, left-of-centre and liberal parties are absent from parliament, so Magyar lacks a strong institutional reform bloc, two, he must balance conservative voters against pro-EU urban and liberal supporters, and three, on issues like Ukraine, federalism, and Russian energy, his base may resist the deeper alignment Brussels wants.",
+            "Third, the EU itself may not fully trust or reward him quickly enough to consolidate change. One, the Commission has already been criticised by the ECJ for lack of transparency in earlier Hungary decisions, two, €7.6bn in development funds and €16.2bn in defence loans remain politically sensitive, and three, if Brussels delays or conditions disbursement too heavily, Magyar starts with the same economic pain Orbán used to justify anti-EU politics."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether external incentives can overcome entrenched domestic institutional decay. Prop wins if you think money, deadlines, and early economic relief create a reform window; opp wins if you think the need to satisfy Brussels quickly makes reform politically brittle and easy to sabotage from both inside Hungary and within the EU.",
+      "stock_connections": [
+        "Conditionality",
+        "Rule of Law Backsliding",
+        "Democratic Backsliding",
+        "External Leverage",
+        "Institutional Reform",
+        "Legitimacy Crises",
+        "Economic Crisis Management",
+        "European Integration",
+        "Authoritarian Entrenchment"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would fully release frozen funds to a newly elected reformist government in Hungary",
+        "THBT the EU should prioritize conditional financial incentives over punitive sanctions to reverse democratic backsliding",
+        "THP a world where EU membership benefits are made strictly conditional on rule-of-law compliance",
+        "TH, as Hungary, would rapidly align with EU political and economic norms to regain access to funds",
+        "THBT reformist governments in backsliding democracies should pursue external integration even at the cost of domestic political backlash"
+      ],
+      "data_points": [
+        "€10.4bn in EU post-pandemic recovery grants and cheap loans remain frozen",
+        "Hungary must complete 27 \"super milestones\" on corruption and judicial independence by 31 August to receive funds by year-end",
+        "A further €7.6bn in EU development funds remains blocked",
+        "Hungary also has access at stake to €16.2bn in cheap loans for defence projects under the EU’s Security Action for Europe programme",
+        "Hungary’s economy has stagnated over the last four years",
+        "The government deficit is described as spiralling",
+        "Magyar has proposed a 2035 deadline to phase out Russian oil and gas, versus the EU target of end-2027"
+      ]
+    },
+    {
+      "id": "1c798756153c",
+      "title": "Meta’s Private AI Chats Trade Safety Oversight for User Trust and Platform Lock-In",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T14:00:58Z",
+      "category": "Business",
+      "region": "Global",
+      "background": "WhatsApp has launched an \"incognito\" mode for its Meta AI chatbot, allowing private conversations that neither WhatsApp nor Meta can read or store. The feature initially applies only to text, not images, and Meta says past conversations will disappear from the chat and will not be logged on servers. Meta AI was added to WhatsApp in 2025 and, by May 2025, Mark Zuckerberg said Meta AI had reached 1 billion users across Meta’s apps.",
+      "prop_args": [
+        {
+          "thesis": "Private AI chat is a necessary product innovation because it lowers the barrier to using AI for sensitive personal decisions while preserving consumer trust.",
+          "mechanisms": [
+            "First, it increases adoption by reducing privacy fear. This is because (1) users are more willing to ask about health, relationships, and finances when they know the company cannot read the chat, (2) sensitive use-cases are among the highest-value AI interactions, and (3) higher comfort directly expands the addressable market for AI assistants.",
+            "Second, it improves welfare by enabling genuinely confidential assistance. Three reasons: one, people can seek help on topics they would otherwise avoid discussing; two, it reduces self-censorship and stigma around mental health or debt-related questions; three, it makes AI a more practical first-line information tool for vulnerable users who lack access to human experts.",
+            "Third, it is a competitive necessity for platform ecosystems. This matters because (1) WhatsApp competes on trust and daily utility, (2) if Meta does not offer privacy-preserving AI, users will shift sensitive queries to rival tools, and (3) the feature helps Meta keep users inside its ecosystem rather than losing them to standalone AI apps."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Incognito AI weakens accountability and increases the risk that harmful outputs go undetected until after serious damage is done.",
+          "mechanisms": [
+            "First, it removes auditability that is essential for safety enforcement. One, if neither the user nor Meta can retrieve chat history, moderators cannot investigate whether the model gave dangerous advice; two, the company cannot identify recurring failure patterns or abuse campaigns; three, victims and regulators lose evidence needed to prove causation after harm.",
+            "Second, it creates moral hazard by making the product harder to police. One, bad actors can use private AI to seek instructions for illegal or self-harm-related activity; two, the absence of logs lowers the expected cost of misuse because detection is harder; three, the platform may be incentivized to market privacy while externalizing safety risks onto users and society.",
+            "Third, it can undermine trust in the broader AI ecosystem if a high-profile failure occurs. This matters because (1) one severe incident involving suicide, fraud, or medical misinformation can trigger backlash, (2) regulators may respond with stricter rules on all AI chat products, and (3) the reputational damage falls not just on WhatsApp but on Meta’s wider AI and advertising strategy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between privacy gains for ordinary users and the loss of ex post accountability when AI causes harm. Prop wins if the round is about consumer trust and adoption; opp wins if the round centers on safety, enforcement, and the fact that invisible failures are much harder to regulate or remedy.",
+      "stock_connections": [
+        "Privacy vs Security",
+        "Moral Hazard",
+        "Platform Accountability",
+        "Regulatory Capture",
+        "Information Asymmetry",
+        "Consumer Trust",
+        "AI Safety",
+        "Network Effects",
+        "Lock-in"
+      ],
+      "motion_areas": [
+        "TH, as a tech platform, would offer fully private AI conversations by default",
+        "THBT companies should be allowed to provide end-to-end private AI assistants",
+        "THP a world where AI chatbots cannot store conversation logs",
+        "THBT Big Tech should prioritize user privacy over model training data in consumer AI products"
+      ],
+      "data_points": [
+        "Meta AI reached 1 billion users across Meta’s apps by May 2025",
+        "Meta is on track to spend $145 billion on AI infrastructure in 2026",
+        "WhatsApp says incognito AI chats are not stored on servers and past conversations disappear from the chat",
+        "The initial incognito mode only processes text, not images",
+        "WhatsApp has blocked other AI chatbots from being accessible through its systems, leaving Meta AI as the only AI available on the platform"
+      ]
+    },
+    {
+      "id": "24d1d54386f2",
+      "title": "Streeting Leadership Challenge Exposes Starmer’s Fragile Governing Coalition",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/uk-s-streeting-set-to-resign-and-challenge-pm-starmer-video",
+      "published": "2026-05-13T14:00:20Z",
+      "category": "IR",
+      "region": "United Kingdom",
+      "background": "Bloomberg reported on 13 May 2026 that UK Health Secretary Wes Streeting is preparing to resign from the government and challenge Prime Minister Keir Starmer for the Labour leadership. Streeting reportedly met Starmer briefly in Downing Street on Wednesday morning and is expected to quit the cabinet this week in an attempt to trigger a leadership contest. The report was first published by The Times and cited allies speaking anonymously about private deliberations.",
+      "prop_args": [
+        {
+          "thesis": "A leadership challenge is a necessary correction that can reset Labour’s credibility and force a more electorally viable governing agenda.",
+          "mechanisms": [
+            "First, it disciplines a failing leadership by making internal dissent costly and public. This is because (1) Starmer’s authority is weakened once a senior cabinet figure openly prepares to resign, (2) MPs and donors now have a focal point for coordinated pressure, and (3) the threat of replacement can force policy moderation or strategic change before the next election.",
+            "Second, a contest can improve party performance by selecting a leader with stronger political instincts and broader appeal. Three reasons: one, leadership races surface hidden factional support and reveal who can unify MPs and members; two, a challenger like Streeting can present a cleaner break from unpopular decisions while retaining cabinet credibility; three, a fresh leader can reframe the government’s narrative around competence rather than drift.",
+            "Third, the disruption may be worth it if it prevents a longer period of stagnation in office. This matters because a government that is already internally divided often bleeds authority anyway; a managed contest can concentrate the conflict into a short period and then produce a clearer mandate, rather than letting slow-motion factional warfare erode governing capacity for months."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A leadership challenge is self-destructive because it destabilizes government, weakens Labour’s public image, and risks handing power to opponents.",
+          "mechanisms": [
+            "First, it creates immediate governing paralysis. One, ministers spend time on internal survival rather than policy delivery; two, civil servants and markets face uncertainty over who is actually in charge; three, opponents can exploit the spectacle to argue Labour is unfit to govern.",
+            "Second, it damages the party’s electoral brand by turning policy disagreements into a public civil war. One, voters punish parties that look divided and self-interested; two, a challenge invites negative media coverage and reinforces narratives of chaos; three, even if Starmer survives, the leadership’s legitimacy is permanently weakened because rivals have demonstrated they are willing to move against him.",
+            "Third, it may produce a worse leader rather than a better one. One, internal contests often reward factional loyalty and tactical ambition over governing competence; two, a new leader may lack a stable mandate from the wider party or electorate; three, the transition itself can consume the political capital needed to pass legislation or prepare for elections."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the contest is a controlled reset or an uncontrolled collapse. Prop wins if they can show the challenge forces necessary adaptation before electoral damage becomes terminal; opp wins if they frame the event as immediate proof of dysfunction that compounds Labour’s existing weaknesses.",
+      "stock_connections": [
+        "Party Unity",
+        "Leadership Legitimacy",
+        "Elite Defection",
+        "Government Instability",
+        "Electoral Punishment for Division",
+        "Crisis Management",
+        "Intra-party Democracy"
+      ],
+      "motion_areas": [
+        "TH, as the Labour Party, would force a leadership contest after a senior cabinet resignation",
+        "THBT governing parties should prioritize internal leadership replacement over public unity when the leader becomes electorally toxic",
+        "THP a world where senior ministers can trigger leadership challenges against sitting prime ministers"
+      ],
+      "data_points": [
+        "Wes Streeting is the UK Health Secretary and was reported to be preparing to resign from cabinet in May 2026",
+        "The reported challenge was first published by The Times and later discussed by Bloomberg",
+        "Streeting met Keir Starmer briefly in Downing Street on Wednesday morning before the report emerged",
+        "The article states Streeting is likely to quit the cabinet this week in an attempt to trigger a leadership contest"
+      ]
+    },
+    {
+      "id": "884fcddc3654",
+      "title": "Ceasefire in Lebanon Becomes a Cover for Continued Israeli-Hezbollah Attrition",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T13:52:11Z",
+      "category": "IR",
+      "region": "Lebanon / Israel",
+      "background": "Lebanon's health ministry says at least 12 people were killed in seven separate Israeli air strikes on cars in southern Lebanon, including eight deaths from drone strikes on three vehicles along the coastal highway in Barja, Jiyeh and Saadiyat, around 20km from Beirut. The ministry says more than 400 people have been killed in Lebanon since a ceasefire announced by US President Donald Trump almost a month ago, while Israel says it is striking Hezbollah infrastructure and fighters. Hezbollah has also launched drones, rockets and mortars at Israeli troops in southern Lebanon and communities in northern Israel, and Israeli and Lebanese officials are expected to hold a third round of direct talks in Washington on Thursday.",
+      "prop_args": [
+        {
+          "thesis": "The strikes show that ceasefires without credible enforcement mechanisms simply freeze the front line while allowing the stronger party to keep degrading the weaker side.",
+          "mechanisms": [
+            "First, Israel can continue limited strikes because the ceasefire lacks a meaningful enforcement architecture. This is because (1) there is no immediate third-party penalty for violations, (2) the ambiguity over what counts as 'Hezbollah infrastructure' gives Israel wide discretion, and (3) the absence of a robust monitoring force lets both sides claim compliance while still fighting.",
+            "Second, continued pressure weakens Hezbollah's military and political capacity over time. Three reasons: one, repeated strikes on vehicles, drones, and infrastructure force Hezbollah to disperse assets and spend more on concealment; two, leadership and logistics become harder to coordinate when movement is dangerous; three, civilian casualties and infrastructure damage increase domestic pressure on Hezbollah to either escalate or lose credibility.",
+            "Third, this creates bargaining leverage for Israel in the Washington talks. This matters because the side that can keep imposing costs while appearing to negotiate can demand better terms, making the ceasefire a tool for coercive diplomacy rather than a genuine peace settlement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strikes prove that partial ceasefires are unstable because they incentivize both sides to keep testing red lines until the agreement collapses.",
+          "mechanisms": [
+            "First, the ceasefire is undermined by unresolved security dilemmas: (1) Hezbollah keeps firing drones, rockets and mortars at Israeli troops and northern communities, (2) Israel responds with air and artillery strikes, and (3) each retaliation is used as proof that the other side never intended to de-escalate.",
+            "Second, civilian deaths make political compromise harder rather than easier. Numbered reasons: one, the killing of 12 people, including two children, increases public anger in Lebanon and hardens Hezbollah's domestic support base; two, Israeli strikes that hit cars and emergency personnel fuel accusations of indiscriminate force, reducing room for Lebanese officials to cooperate; three, as casualties mount, leaders face audience costs for appearing weak, making talks in Washington less likely to produce concessions.",
+            "Third, the conflict risks widening beyond Lebanon if escalation continues. This is because (1) Hezbollah can respond asymmetrically with drones and rockets against Israeli troops and northern Israel, (2) Israel may intensify strikes or ground operations to restore deterrence, and (3) regional actors can interpret the fighting as part of the broader Iran-Israel confrontation, increasing the chance of spillover."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive pressure can still produce a stable settlement or whether it only entrenches a cycle of retaliation. Prop wins if the key question is short-term leverage under weak enforcement; opp wins if the key question is whether the ceasefire can survive repeated civilian harm and reciprocal attacks.",
+      "stock_connections": [
+        "Security dilemma",
+        "Deterrence",
+        "Coercive diplomacy",
+        "Ceasefire enforcement",
+        "Escalation spiral",
+        "Civilian harm and radicalization",
+        "Audience costs",
+        "Spoilers in peace processes"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would continue limited strikes in southern Lebanon despite a ceasefire",
+        "THBT ceasefires without third-party enforcement are more likely to prolong than end wars",
+        "THP a world where armed groups can be targeted during ceasefires if they retain offensive capability",
+        "THBT the international community should prioritize coercive enforcement over negotiated restraint in Lebanon"
+      ],
+      "data_points": [
+        "At least 12 killed in seven separate Israeli air strikes on cars in southern Lebanon",
+        "Eight people, including two children, died in drone strikes on three vehicles in Barja, Jiyeh and Saadiyat, around 20km from Beirut",
+        "More than 400 people have been killed across Lebanon since the ceasefire was announced almost a month ago",
+        "At least 2,896 people have been killed in Lebanon since the conflict began, according to the health ministry",
+        "Israel says 18 soldiers and four civilians have been killed over the same period",
+        "Hezbollah leader Naim Qassem said the group would 'not abandon the battlefield'",
+        "Israeli and Lebanese officials are expected to hold a third round of direct talks in Washington on Thursday"
+      ]
+    },
+    {
+      "id": "996fb4fa8905",
+      "title": "Trump-Xi Summit Puts Tariffs, Taiwan, and Iran Pressure Points Into One Bargaining Table",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T13:51:13Z",
+      "category": "IR",
+      "region": "China / United States / Taiwan / Iran / Middle East",
+      "background": "US President Donald Trump arrived in Beijing on Wednesday for a two-day meeting with Chinese President Xi Jinping. The agenda is expected to include tariffs, technology competition, the Iran war, and the US relationship with Taiwan. The trip was delayed from March because of the US and Israel’s war in Iran, which has disrupted global markets and cut off much of Iran’s oil export route through the Strait of Hormuz. Trump is also seeking Chinese purchases of US agricultural goods, while Beijing wants Washington to reduce tariffs on Chinese imports.",
+      "prop_args": [
+        {
+          "thesis": "A Trump-Xi deal could reduce immediate geopolitical and economic volatility by trading limited concessions across trade, Iran, and Taiwan.",
+          "mechanisms": [
+            "First, the summit creates a rare high-level channel for crisis management between the two largest powers. This matters because (1) tariffs and tech restrictions are already escalating into broader economic decoupling, (2) direct leader-to-leader bargaining can freeze retaliatory spirals that bureaucracies cannot easily stop, and (3) even partial agreements can stabilize market expectations and lower uncertainty for firms and investors.",
+            "Second, China has incentives to cooperate on Iran and trade if it can secure tariff relief or a softer US line on Taiwan. Three reasons: one, Beijing depends on stable energy flows and does not want a wider Gulf shock; two, it is under pressure as Iran’s oil exports are constrained by the Strait of Hormuz disruption; three, it can use agricultural purchases and market access as low-cost concessions to buy time and avoid a sharper confrontation.",
+            "Third, even a narrow bargain matters because it can compartmentalize disputes instead of letting them reinforce each other. This matters because (1) if trade, Taiwan, and Iran are negotiated separately, each issue becomes more manageable, (2) the US can claim strategic wins without military escalation, and (3) China can avoid being forced into a public anti-US alignment with Iran that would deepen sanctions exposure."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is more likely to produce symbolic optics than durable cooperation because the core conflicts are structural and mutually incompatible.",
+          "mechanisms": [
+            "First, the bargaining space is too narrow because both sides are using the meeting to signal strength rather than compromise. One, Trump is under domestic pressure to look tough on China and to show results on tariffs and farm exports; two, Xi cannot appear to concede on sovereignty issues like Taiwan or on strategic alignment with Iran; three, that means any deal is likely to be shallow, reversible, or heavily performative.",
+            "Second, the issues on the table are linked to hard security interests, which makes trade-offs unstable. One, the US sees Taiwan and tech as long-term containment questions, not just negotiable policy disputes; two, China sees Iran and energy security as part of its broader strategic autonomy; three, when issues are this existential, side payments like agricultural purchases do not solve the underlying rivalry.",
+            "Third, even if there is temporary de-escalation, it may worsen the strategic problem by legitimizing coercive bargaining. One, China learns that pressure on supply chains, rare earths, or market access can extract concessions; two, the US learns that mixing tariffs with security threats creates short-term leverage but long-term distrust; three, this entrenches a cycle of transactional diplomacy that makes future crises more likely."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term stabilization and long-term strategic rivalry. Prop wins if the question is whether a summit can reduce immediate market and crisis risk; opp wins if the round is about whether the meeting can actually resolve the underlying US-China conflict, where structural mistrust and sovereignty disputes dominate.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Trade War",
+        "Decoupling",
+        "Coercive Diplomacy",
+        "Transactional Diplomacy",
+        "Alliance Politics",
+        "Energy Security",
+        "Sovereignty Disputes"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize a summit with China over escalating tariffs",
+        "THBT the United States should trade tariff relief for Chinese cooperation on Iran",
+        "THP a world where major power disputes are managed through leader-level transactional bargaining",
+        "THBT the US should downplay Taiwan commitments to secure broader strategic concessions from China"
+      ],
+      "data_points": [
+        "Trump’s visit to Beijing was delayed from March because of the US and Israel’s war in Iran",
+        "The meeting is scheduled as a two-day visit between Trump and Xi Jinping",
+        "China is described as Iran’s biggest trading partner",
+        "Iran’s oil exports have been effectively cut off because ships cannot navigate the Strait of Hormuz",
+        "The Trump administration approved a massive arms deal for Taiwan while downplaying willingness to defend the island",
+        "Trump said China should 'open up' and that this would be his 'very first request' to Xi",
+        "Elon Musk and Nvidia CEO Jensen Huang were among the US tech figures present at the welcome"
+      ]
+    },
+    {
+      "id": "c80b208f413c",
+      "title": "Trump Uses Monumental Architecture to Lock Autocratic Norms Into the U.S. State",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/donald-trump-architecture-of-autocracy-by-christopher-marquis-2026-05",
+      "published": "2026-05-13T13:44:09Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "In his second term, Donald Trump has proposed a series of highly visible architectural projects, including a 250-foot triumphal arch between the Lincoln Memorial and Arlington National Cemetery, a gilded White House ballroom, and a remodeling of the Kennedy Center, which he has renamed the Trump Kennedy Center. The article argues these are not mere vanity projects but part of a broader attempt to reshape Washington’s symbolic landscape and embed Trump’s values into institutions future presidents must inherit. The piece frames this as an effort to make political change durable through physical and institutional design.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s architectural projects are a tool of authoritarian entrenchment because they normalize personalist rule, reshape institutional incentives, and make future reversal politically and materially costly.",
+          "mechanisms": [
+            "First, these monuments normalize the idea that state institutions exist to glorify the leader rather than the republic. This is because (1) repeated exposure to leader-centered symbols shifts public expectations about what is 'normal' in politics, (2) it turns civic space into propaganda, and (3) it trains bureaucrats and elites to treat personal loyalty as part of institutional culture.",
+            "Second, physical redesign creates path dependence that outlasts any one presidency. Three reasons: one, once a ballroom, renamed venue, or major monument is built, later presidents face sunk-cost and legal/administrative barriers to removal; two, the built environment changes how state ceremonies are staged, who gets access, and what is publicly celebrated; three, architecture is a durable signal that can outlive laws, speeches, and even electoral turnover.",
+            "Third, this matters because autocracy often survives by converting temporary power into permanent institutional memory. The biggest impact is not the building itself but the precedent: if a president can inscribe personal ideology into national landmarks, then future leaders inherit a state already tilted toward personalization, making democratic restoration slower and more expensive."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "These projects are mostly symbolic and overblown; they do not meaningfully entrench autocracy because institutions, elections, and courts still determine real power.",
+          "mechanisms": [
+            "First, architecture is weak compared with core levers of control. One, presidents cannot rule through buildings alone because budgets, courts, Congress, and elections still constrain policy; two, symbolic projects do not automatically translate into coercive capacity; three, public backlash can turn vanity projects into liabilities rather than assets.",
+            "Second, the state can reverse or repurpose monuments more easily than it can reverse legal or security institutions. One, later administrations can rename, defund, or redesign projects; two, physical symbols are less sticky than personnel networks, emergency powers, or electoral rules; three, the real danger lies in formal institutional capture, not aesthetic changes.",
+            "Third, focusing on monuments may distract from more serious authoritarian moves. One, it risks overstating the causal importance of symbolism; two, it can dilute opposition energy away from concrete threats like judicial interference or election manipulation; three, if the public sees the projects as absurd, they may actually mobilize resistance rather than compliance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolic architecture is merely cosmetic or whether it creates durable path dependence for future politics. Prop wins if it shows that institutions are not just legal rules but also norms, rituals, and physical spaces that shape behavior over time; Opp wins if it proves that without control of coercive and legal institutions, monuments remain reversible theater.",
+      "stock_connections": [
+        "Authoritarian consolidation",
+        "Cult of personality",
+        "Norm erosion",
+        "Path dependence",
+        "Institutional capture",
+        "Propaganda and state symbolism",
+        "Democratic backsliding",
+        "Personalist rule"
+      ],
+      "motion_areas": [
+        "TH, as a democratic opposition, would prioritize symbolic resistance to authoritarian statecraft",
+        "THBT states should prohibit sitting leaders from naming or redesigning national institutions after themselves",
+        "THP a world where elected leaders cannot alter national monuments or civic architecture without supermajority approval"
+      ],
+      "data_points": [
+        "Trump proposed a 250-foot triumphal arch between the Lincoln Memorial and Arlington National Cemetery",
+        "Trump proposed a gilded White House ballroom",
+        "The Kennedy Center was renamed the Trump Kennedy Center",
+        "These projects were described as part of Trump’s second-term effort to remake Washington’s landscape"
+      ]
+    },
+    {
+      "id": "3136957eeed0",
+      "title": "Russia’s Drone Escalation Shows a War of Attrition That Rewards Persistence Over Diplomacy",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/russia-targets-ukraine-with-more-than-200-drones-in-daytime-assault",
+      "published": "2026-05-13T13:07:13Z",
+      "category": "IR",
+      "region": "Russia / Ukraine / Belarus",
+      "background": "On Wednesday, Russia launched more than 200 drones at Ukraine in a daytime assault, following an earlier barrage that killed at least eight people. Ukrainian monitors said at least eight waves of drones were detected, including some entering from Belarus, with Kyiv’s critical infrastructure and railway sites among the apparent targets. Ukraine also reported retaliatory long-range strikes inside Russia, while Russia’s defence ministry said it intercepted and destroyed 286 Ukrainian drones over Russia, Crimea, the Azov Sea and the Black Sea. The attacks came amid renewed but vague claims by Donald Trump and Vladimir Putin that the war may be nearing an end.",
+      "prop_args": [
+        {
+          "thesis": "Russia’s continued drone escalation proves that only sustained military pressure and long-range deterrence can force meaningful concessions, not optimistic diplomacy.",
+          "mechanisms": [
+            "First, repeated mass drone strikes raise the cost of prolonging the war for Russia by degrading its ability to operate safely in rear areas. This is because (1) Ukraine is now hitting energy and manufacturing targets deep inside Russia, (2) Russia is being forced to spend air-defence resources on interception rather than offense, and (3) the war becomes materially more expensive the longer Moscow keeps civilian infrastructure under threat.",
+            "Second, the attacks show that ceasefire talk without enforcement is strategically meaningless. Three reasons: one, Russia struck again within hours of a previous civilian barrage, two, the use of Belarusian airspace and multi-wave salvos indicates premeditated escalation rather than accidental spillover, and three, vague claims from Trump and Putin create diplomatic noise without changing battlefield incentives.",
+            "Third, Ukraine’s ability to absorb and retaliate through domestic drone production strengthens the case for external military support. This matters because (1) Ukraine has shifted from asking for help to exporting counter-drone expertise, (2) its long-range strikes are already disrupting Russian infrastructure, and (3) a credible deterrent requires making Russian escalation pay immediately rather than hoping negotiations will."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The drone assault shows the war is becoming more dangerous and less controllable, so the priority should be de-escalation and a negotiated freeze rather than deeper military escalation.",
+          "mechanisms": [
+            "First, each new wave of strikes increases the risk of accidental regional spillover. One, drones entering from Belarus widen the geographic footprint of the war, two, reciprocal strikes on energy and transport infrastructure create incentives for tit-for-tat escalation, and three, the more systems involved, the greater the chance of miscalculation involving NATO-adjacent territory.",
+            "Second, the battlefield is already producing diminishing returns, making further escalation strategically wasteful. One, the Institute for the Study of War says Russia’s spring offensive has floundered and its forces recorded a net loss of territory last month, two, Ukraine is holding defensive lines and contesting initiative in several areas, and three, if neither side can achieve decisive gains, continued escalation mainly increases civilian harm.",
+            "Third, diplomacy may be the only route to stopping infrastructure destruction on both sides. One, Russia and Ukraine are both now striking each other’s energy and logistics systems, two, the article shows both sides can inflict pain but not secure victory, and three, a ceasefire or freeze could prevent further civilian casualties even if it leaves broader political disputes unresolved."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether escalation creates leverage or just entrenches a mutually destructive stalemate. Pro-proxy military support wins if you prioritize coercive pressure and deterrence; the opposition wins if you think the war’s diminishing battlefield returns make negotiated de-escalation the only realistic way to stop civilian harm.",
+      "stock_connections": [
+        "War of Attrition",
+        "Deterrence Theory",
+        "Escalation Spiral",
+        "Civilian Harm",
+        "Negotiation Under Fire",
+        "Security Dilemma",
+        "Proxy War Dynamics",
+        "Infrastructure Warfare"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize long-range drone warfare over ceasefire negotiations",
+        "THBT Western states should increase military aid to Ukraine despite peace talks",
+        "THP a world where states can retaliate against infrastructure attacks with asymmetric drone warfare"
+      ],
+      "data_points": [
+        "More than 200 Russian drones launched in a single daytime assault on Ukraine",
+        "At least 8 people killed in an earlier barrage of civilian areas the same day",
+        "Ukraine said 14 regions came under attack on Tuesday",
+        "Russia said it intercepted and destroyed 286 Ukrainian drones over Russia, Crimea, the Azov Sea and the Black Sea",
+        "Russia’s front line is 780 miles (1,250 kilometres) long",
+        "The Institute for the Study of War said Russia’s spring offensive has floundered and its forces recorded a net loss of territory last month for the first time since 2024",
+        "Ukraine said Russian strikes targeted railway infrastructure, civilian sites, port infrastructure in Odesa, and energy facilities in Poltava",
+        "The article cites a $10.5m luxury construction project linked to corruption allegations involving Andriy Yermak"
+      ]
+    },
+    {
+      "id": "b79a3e554ddf",
+      "title": "Trump-Xi Summit Tries to Trade Tariff Relief for Tech Access, Taiwan Restraint and Iran Mediation",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T13:01:51Z",
+      "category": "IR",
+      "region": "China / United States / Taiwan / Iran",
+      "background": "US President Donald Trump arrived in Beijing for two days of talks with Chinese President Xi Jinping, the first visit by a US president to China since Trump’s own 2017 trip. The summit was originally scheduled for March but was delayed after the US and Israel launched attacks on Iran. The agenda includes trade tensions, US arms sales to Taiwan, China’s demand for an extension of the October trade truce, and possible Chinese help in pressuring Iran; Trump is also traveling with CEOs from Nvidia, Apple, Tesla, BlackRock, Meta, Visa, JP Morgan, Boeing and Cargill.",
+      "prop_args": [
+        {
+          "thesis": "A Trump-Xi summit can reduce the risk of great-power escalation by bundling trade concessions, crisis communication, and issue-specific bargaining into one high-level channel.",
+          "mechanisms": [
+            "First, direct leader-to-leader bargaining lowers miscalculation. This is because (1) it creates a single authoritative channel for red lines on Taiwan, tariffs, and Iran; (2) it reduces the chance that hawks or bureaucratic infighting on either side accidentally escalate; (3) it allows immediate face-saving compromises that lower domestic pressure to retaliate.",
+            "Second, the summit can produce narrow but real economic de-escalation. Three reasons: one, Trump is explicitly asking China to open up to major tech companies and buy more US soybeans and aircraft parts; two, Xi wants an extension of the trade truce and relief from US probes, so both sides have incentives to lock in a pause; three, even partial tariff stabilization helps firms plan investment and reduces volatility in supply chains.",
+            "Third, the meeting can create guardrails on the most dangerous flashpoints. This matters because (1) Taiwan is the most likely trigger for military escalation, and even a temporary understanding on arms sales and rhetoric reduces immediate crisis risk; (2) discussion of Iran gives China a stake in moderating Tehran rather than free-riding on instability; (3) AI and chip talks create communication channels in a domain both sides compare to a nuclear arms race, which lowers the odds of accidental strategic surprise."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is more likely to entrench rivalry than resolve it, because both sides are using it to extract concessions while preserving core strategic competition.",
+          "mechanisms": [
+            "First, the talks encourage transactional bargaining without solving structural conflict. One, Trump wants market access and Chinese purchases, while Xi wants tariff relief and an end to Taiwan arms sales, so any deal is likely to be temporary and reversible; two, neither side is willing to concede on the underlying balance of power in tech, security, or regional influence; three, a shallow truce can actually postpone but not prevent future escalation, making the eventual clash sharper.",
+            "Second, the summit can strengthen domestic hardliners and symbolic nationalism. One, Xi can frame any resistance to US pressure as proof that China must become more self-reliant in chips, AI, and trade; two, Trump’s visible entourage of CEOs turns the trip into a commercial pressure campaign, which Beijing may read as coercive rather than conciliatory; three, if no major deal emerges, both leaders can blame the other side and justify tougher policy at home.",
+            "Third, the meeting risks legitimizing coercive bargaining on Taiwan and tech. One, discussing arms sales under trade pressure treats Taiwan as a bargaining chip, which undermines deterrence and encourages Beijing to keep escalating until Washington trades away support; two, chip and rare-earth bargaining deepens weaponized interdependence, making future supply shocks more likely; three, the more both sides rely on summit diplomacy, the less they build durable institutions, so the system remains fragile."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether elite-level diplomacy can meaningfully lower the probability of crisis in the near term, or whether it merely produces a fragile pause in a deeper strategic rivalry. Prop wins if the judge prioritizes immediate de-escalation and crisis management; opp wins if the judge thinks the structural competition over Taiwan, chips, and trade makes any summit deal inherently unstable.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Trade War",
+        "Weaponized Interdependence",
+        "Deterrence",
+        "Summit Diplomacy",
+        "Crisis Stability",
+        "Technological Decoupling",
+        "Alliance Credibility"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue summit diplomacy with China",
+        "THBT the US should prioritize trade deals over strategic decoupling with China",
+        "THP a world where major powers use leader-level summits to manage rivalry",
+        "THBT the US should trade limited concessions on Taiwan for Chinese cooperation on Iran",
+        "THBT economic interdependence is more stabilizing than dangerous in US-China relations"
+      ],
+      "data_points": [
+        "This is the first trip to China by a US president since Trump’s own visit in 2017",
+        "The summit was originally meant to happen in March but was rescheduled after US and Israeli attacks on Iran",
+        "Trump is accompanied by CEOs from Nvidia, Apple, Tesla, BlackRock, Meta, Visa, JP Morgan, Boeing and Cargill",
+        "China and the US agreed to a trade truce in October that halted tariff escalation",
+        "Trump wants China to buy more US soybeans and aircraft parts",
+        "Beijing has record export levels but still relies on the US consumer market",
+        "Nvidia CEO Jensen Huang was personally invited by Trump and added late to the delegation",
+        "The article describes AI rivalry as comparable to a nuclear arms race",
+        "China is seeking an extension of the trade truce and an end to US arms sales to Taiwan"
+      ]
+    },
+    {
+      "id": "b14e880be734",
+      "title": "Trump-Xi Beijing Summit Reopens the US-China Trade Bargain Under Strategic Rivalry",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/trump-lands-in-beijing-for-trade-summit-with-xi-jinping-video",
+      "published": "2026-05-13T12:51:18Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "President Donald Trump arrived in Beijing for a state visit and trade summit with Chinese President Xi Jinping at the Great Hall of the People. He was received by Chinese Vice President Han Zheng, a military honor guard, and a large public welcome at the airport. The visit is framed as a high-level bilateral meeting focused on trade and broader US-China relations, with both sides using summit diplomacy to manage economic tensions.",
+      "prop_args": [
+        {
+          "thesis": "A direct Trump-Xi summit is the best available tool for preventing trade conflict from escalating into broader strategic confrontation.",
+          "mechanisms": [
+            "First, leader-level bargaining creates a credible off-ramp from escalation. This is because (1) Trump and Xi can trade concessions that lower tariffs or delay retaliation, (2) both leaders can personally commit to a deal in a way lower-level bureaucrats cannot, and (3) summit diplomacy reduces the risk of miscommunication that often turns economic disputes into security crises.",
+            "Second, the visit gives both states a controlled venue to manage interdependence rather than weaponize it. Three reasons: one, the US and China remain deeply exposed to each other's markets and supply chains, two, a summit can stabilize expectations for firms and investors, and three, even partial agreements on agriculture, technology, or market access can prevent a spiral into decoupling.",
+            "Third, any deal reached has outsized global spillovers. This matters because a US-China trade truce reduces uncertainty for allies and third-party exporters, lowers the chance of retaliatory bloc formation, and preserves the basic architecture of global trade that would otherwise be damaged by prolonged great-power economic warfare."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is more likely to be performative diplomacy that legitimizes coercive bargaining while producing only temporary and unstable trade relief.",
+          "mechanisms": [
+            "First, the meeting can be used by both leaders for domestic political theater rather than substantive compromise. One, Trump can frame the trip as a win regardless of outcomes, two, Xi can project strength through pageantry and controlled optics, and three, this reduces incentives to make hard concessions on tariffs, technology, or industrial policy.",
+            "Second, structural US-China competition makes durable trade peace unlikely. One, both states see strategic value in reducing dependence on the other, two, domestic constituencies in Washington and Beijing reward toughness over compromise, and three, any agreement is vulnerable to collapse when either side believes the other is cheating or gaining too much leverage.",
+            "Third, summit diplomacy can worsen long-term instability by normalizing personalized, ad hoc dealmaking. One, it sidelines institutions and predictable rules, two, it encourages side payments and transactional bargains instead of enforceable commitments, and three, it leaves markets and allies uncertain because the relationship depends on the mood of two leaders rather than stable policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term de-escalation and long-term structural rivalry. Prop wins if the question is whether the summit can buy stability now; Opp wins if the round centers on whether any stability is durable, because the underlying incentives for competition remain intact.",
+      "stock_connections": [
+        "Summit diplomacy",
+        "Great Power Competition",
+        "Trade War",
+        "Interdependence",
+        "Economic Coercion",
+        "Decoupling",
+        "Domestic Audience Costs",
+        "Signaling Theory"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue summit diplomacy with China",
+        "THBT direct leader-to-leader negotiations are preferable to bureaucratic trade talks in great-power disputes",
+        "THP a world where US-China trade disputes are resolved through bilateral summits rather than multilateral institutions"
+      ],
+      "data_points": [
+        "Trump arrived in Beijing for a state visit and trade summit with Xi Jinping at the Great Hall of the People",
+        "Trump was greeted by Chinese Vice President Han Zheng, a military honor guard, and hundreds of flag-waving children at the airport",
+        "The article frames the visit as a high-level bilateral meeting focused on trade and broader US-China relations"
+      ]
+    },
+    {
+      "id": "9fc283109e3e",
+      "title": "Trump-Xi Summit Tries to Stabilize US-China Ties Amid Iran War Escalation",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/trump-lands-in-china-for-high-stakes-summit-with-xi-video",
+      "published": "2026-05-13T12:35:14Z",
+      "category": "IR",
+      "region": "United States / China / Middle East",
+      "background": "President Donald Trump arrived in Beijing for the first state visit to China by a US leader in nine years. The summit comes as the world’s two largest economies seek to stabilize ties while the Iran war creates a wider geopolitical backdrop. Air Force One landed at Beijing Capital International Airport slightly before 8 p.m. on Wednesday, where Chinese Vice President Han Zheng, a military honor guard, and hundreds of children staged a formal welcome.",
+      "prop_args": [
+        {
+          "thesis": "A high-level Trump-Xi summit is the best available tool to prevent a US-China crisis from compounding the Iran war and destabilizing the global order.",
+          "mechanisms": [
+            "First, direct leader-to-leader diplomacy reduces miscalculation at the top of the escalation ladder. This is because (1) both sides can clarify red lines in a way bureaucratic channels cannot, (2) personal commitments create political costs for sudden retaliation, and (3) crisis communication matters more when multiple theaters are active at once, making accidental escalation more likely.",
+            "Second, the summit creates a temporary stabilization framework for the two largest economies. Three reasons: one, even a limited thaw can preserve trade and financial predictability; two, it lowers the chance that sanctions, export controls, or tariff retaliation spill into broader supply-chain shocks; three, it gives markets and allies a signal that the US and China are not moving toward immediate confrontation.",
+            "Third, de-escalation between Washington and Beijing frees up strategic bandwidth to manage the Iran war. This matters because a simultaneous US-China confrontation would stretch military, diplomatic, and economic resources, increase alliance anxiety, and make every regional crisis harder to contain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A summit with Xi is mostly symbolic and risks legitimizing a more assertive China without changing the underlying strategic rivalry.",
+          "mechanisms": [
+            "First, leader summits often produce optics rather than enforceable outcomes. One, both sides can use the meeting for domestic propaganda; two, any vague commitments are easy to walk back; three, the structural drivers of rivalry—technology competition, military balancing, and Taiwan—remain untouched.",
+            "Second, the meeting may weaken US leverage by signaling that Beijing can secure engagement without concessions. One, China can pocket diplomatic recognition while continuing coercive behavior; two, allies may read the summit as US inconsistency and hedge accordingly; three, repeated engagement without costs can normalize Chinese assertiveness rather than deter it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit diplomacy meaningfully reduces escalation risk or merely creates a photo-op. Prop wins if the judge prioritizes immediate crisis management in a multi-front geopolitical environment; opp wins if they show the structural US-China rivalry is too deep for one meeting to alter and that symbolism can itself be strategically costly.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Crisis Stability",
+        "Deterrence",
+        "Alliance Signaling",
+        "Summit Diplomacy",
+        "Escalation Management"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China during a third-party war",
+        "THBT the US should seek détente with China even amid broader strategic rivalry",
+        "THP a world where major powers use leader summits to manage simultaneous regional wars"
+      ],
+      "data_points": [
+        "First state visit to China by a US leader in nine years",
+        "Air Force One landed at Beijing Capital International Airport slightly before 8 p.m. on Wednesday",
+        "China is one of the world’s two largest economies",
+        "The summit is taking place against the backdrop of the Iran war"
+      ]
+    },
+    {
+      "id": "c1b82ad3284f",
+      "title": "Trump’s Beijing Visit Exposes a Shift From Engagement Theater to Harder US-China Strategic Rivalry",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/trump-visit-beijing-china-scepticism-security",
+      "published": "2026-05-13T12:30:01Z",
+      "category": "IR",
+      "region": "China / United States (Beijing)",
+      "background": "Donald Trump arrived in Beijing on Wednesday for a state visit, nine years after his last visit in 2017. The visit comes amid heightened security in Beijing, including the closure of the Temple of Heaven since Tuesday before Trump’s planned tour on Thursday afternoon. The article describes a China that is economically weaker but more nationalist, with real wage growth in Beijing below 2% last year, and a public mood that increasingly sees the US as unstable and hostile.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s visit can still reduce immediate bilateral tensions by creating a direct channel for bargaining and signaling that neither side wants open confrontation.",
+          "mechanisms": [
+            "First, high-level personal diplomacy lowers the risk of miscalculation. This is because (1) the US and China are locked in a relationship where both sides read each other’s moves as strategic threats, (2) a face-to-face summit allows leaders to clarify red lines on Taiwan, trade, and security, and (3) even limited clarification reduces the chance that domestic hawks or military actors over-interpret ambiguous signals.",
+            "Second, the visit gives both governments a political off-ramp to manage escalation. Three reasons: one, Trump can claim he is pursuing deal-making rather than containment, two, Xi can present engagement as evidence that China is respected as a peer power, and three, both leaders can use the optics of diplomacy to justify restraint to their domestic audiences without appearing weak.",
+            "Third, symbolic engagement can stabilize expectations even without a grand bargain. This matters because repeated contact creates a baseline of communication, which makes future crises easier to manage, especially when the alternative is a total absence of trust and a higher probability of accidental confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The visit is mostly performative and will not change the structural trajectory of US-China rivalry, because both sides now see each other as long-term strategic threats.",
+          "mechanisms": [
+            "First, the summit cannot overcome the underlying security dilemma. One, China views Taiwan as a core sovereignty issue and expects the US to soften support for Taipei, two, the US sees China’s rise as a challenge to its regional dominance and alliance system, and three, neither side can credibly concede on these issues without appearing to abandon core interests.",
+            "Second, Trump’s unpredictability makes any diplomatic gain unstable. One, Chinese observers already describe him as someone who changes his mind quickly, two, that means any promise made in Beijing may be reversed once he returns to Washington, and three, this destroys the credibility needed for durable agreements or confidence-building.",
+            "Third, the visit may actually intensify nationalist backlash rather than reduce it. One, Beijing’s heavy security and propaganda framing signal that the state is preparing the public for confrontation, two, ordinary Chinese already interpret the US as a troublemaker, and three, once diplomacy is seen as theater, it can harden public skepticism and make future compromise politically more costly."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term de-escalation and long-term strategic change. The prop side wins if the motion is about immediate crisis management or signaling, but the opp side has the structural advantage because the Taiwan issue, mutual threat perceptions, and Trump’s credibility problem all survive the summit.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Great Power Rivalry",
+        "Deterrence",
+        "Summit Diplomacy",
+        "Nationalism",
+        "Credibility and Commitment Problems",
+        "Alliance Politics",
+        "Rising Power vs Status Quo Power"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize leader-to-leader summit diplomacy with China",
+        "THBT high-level engagement with strategic rivals is more likely to reduce conflict than increase appeasement",
+        "THP a world where major-power disputes are handled through personal diplomacy rather than public confrontation"
+      ],
+      "data_points": [
+        "Trump’s visit to Beijing comes 9 years after his last state visit in 2017",
+        "Real wage growth in Beijing was below 2% last year",
+        "The Temple of Heaven has been closed to visitors since Tuesday before Trump’s planned tour on Thursday afternoon",
+        "China’s public memory of Biden’s 2011 visit once featured 'noodle diplomacy' at Yaoji Chaogan",
+        "A Weibo user wrote that Trump can change his mind 'in the morning' and 'by the afternoon'"
+      ]
+    },
+    {
+      "id": "562096fa7116",
+      "title": "Australia’s Coalition Ties Migration Caps to Housing Output, Turning the Housing Shortage Into an Immigration Restriction",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/13/coalition-immigration-policy-housing-budget-reply-angus-taylor",
+      "published": "2026-05-13T12:30:00Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Australia’s Coalition opposition leader Angus Taylor is set to announce a policy that would link temporary immigration intake to the number of new homes completed each year. In 2024-25, Australia recorded 172,657 new house completions, while net overseas migration was 306,000, meaning the proposed cap would likely require a major reduction in arrivals unless construction accelerates sharply. The plan also includes a $5bn housing infrastructure fund, tighter temporary migration rules, tougher international student settings, and weaker construction code requirements to speed up building.",
+      "prop_args": [
+        {
+          "thesis": "Linking migration to housing supply is a necessary demand-management tool that reduces rent pressure faster than waiting for construction reform alone.",
+          "mechanisms": [
+            "First, it directly reduces excess demand in the housing market. This is because (1) new migrants and temporary entrants increase immediate rental demand before new supply can come online, (2) Australia’s 2024-25 net overseas migration of 306,000 far exceeded 172,657 new home completions, and (3) cutting inflows narrows the gap between households competing for the same stock, easing rents and vacancy pressure.",
+            "Second, it improves political and fiscal credibility around housing policy. Three reasons: one, governments can promise housing supply but cannot instantly force builders to deliver; two, tying migration to completions creates a visible rule that voters can understand and trust; three, it forces the state to match population growth with infrastructure planning instead of relying on ad hoc fixes.",
+            "Third, it protects first-home buyers and lower-income renters from being priced out during a supply lag. This matters because housing shortages are not just a long-run supply problem: they are a short-run allocation problem where the most vulnerable lose first, so reducing demand now prevents a further deterioration in affordability while construction catches up."
+          ]
+        },
+        {
+          "thesis": "The policy can be defended as a pro-productivity reform because it pairs lower migration with incentives to build faster and better.",
+          "mechanisms": [
+            "First, it creates pressure to remove bottlenecks in housing delivery. This is because (1) the policy is paired with a $5bn housing infrastructure fund for water, sewerage, utilities, and roads, (2) it weakens the national construction code to reduce compliance costs, and (3) it makes housing supply a central macroeconomic constraint rather than a side issue.",
+            "Second, it shifts migration toward higher-value entrants rather than pure volume. Three reasons: one, the Coalition says it will tighten temporary migration and international students; two, it will prioritise quality in skilled visa categories; three, that means fewer low-wage, high-volume inflows and more targeted labour that can support productivity without overwhelming housing.",
+            "Third, it reduces the risk of a wage-and-rent squeeze that undermines social cohesion. This matters because when housing costs rise faster than incomes, young workers and families see migration as unfair competition for scarce essentials, so a visible cap can preserve legitimacy for an open economy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Linking migration to housing completions is economically crude and will worsen labour shortages, growth, and public finances without solving the real housing bottleneck.",
+          "mechanisms": [
+            "First, it treats migration as the cause rather than a symptom of housing failure. One, Australia’s housing shortage is driven by planning delays, infrastructure bottlenecks, and construction capacity constraints; two, cutting migration does not automatically create more builders, land, or approvals; three, it risks reducing demand in the economy without fixing the supply-side choke points.",
+            "Second, it damages sectors that rely on migrant labour and students. One, temporary migration and international students support universities, hospitality, aged care, agriculture, and construction; two, tighter rules can reduce labour supply and consumer spending; three, that lowers growth and tax revenue, which in turn makes it harder to fund the very housing and infrastructure the policy claims to support.",
+            "Third, it creates a volatile and politically manipulable cap that is hard to administer. One, net overseas migration is difficult to control because it depends on traveller behaviour and departures as well as arrivals; two, using annual completions as a hard ceiling means policy swings with construction cycles rather than economic need; three, this makes migration policy unpredictable for employers, universities, and families."
+          ]
+        },
+        {
+          "thesis": "The policy risks scapegoating migrants for a domestic housing crisis and could produce worse long-term affordability by shrinking the workforce that builds homes.",
+          "mechanisms": [
+            "First, it shifts blame away from government failures in planning and infrastructure. One, the Coalition itself admits it will need a housing infrastructure fund and code changes to speed building; two, that concedes the binding constraint is supply, not just migration; three, making migrants the headline target can distract from reforms that would actually increase completions.",
+            "Second, it may reduce the supply of housing construction labour. One, migrants are a major source of workers in trades and related industries; two, tighter temporary migration can raise labour costs and slow build times; three, slower construction means fewer completions, which then justifies even harsher migration cuts in a self-reinforcing downward spiral.",
+            "Third, it can harm Australia’s international competitiveness and soft power. One, students and skilled migrants are future workers, entrepreneurs, and consumers; two, harsher settings can push talent to Canada, the UK, or the US; three, over time that lowers innovation and makes Australia less attractive as a destination for capital and high-skill labour."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the policy is a fast, credible way to relieve housing pressure or a blunt instrument that sacrifices growth to treat a supply problem as an immigration problem. Prop wins if the round is about immediate affordability and political feasibility; opp wins if the round is about long-run productivity, labour supply, and whether migration is actually the binding constraint.",
+      "stock_connections": [
+        "Scapegoating",
+        "Race to the Bottom",
+        "Labour shortages",
+        "Housing affordability crisis",
+        "Migration and wage suppression",
+        "Brain drain",
+        "Dependency on migrant labour",
+        "Planning failure",
+        "Supply-side constraints",
+        "Populism"
+      ],
+      "motion_areas": [
+        "TH, as Australia, would tie immigration caps to housing completions",
+        "THBT governments should restrict migration until housing supply catches up",
+        "THP a world where net migration is automatically capped by domestic infrastructure capacity"
+      ],
+      "data_points": [
+        "172,657 new houses completed in Australia in 2024-25",
+        "306,000 net overseas migration in Australia in 2024-25",
+        "Coalition proposal includes a $5bn housing infrastructure fund",
+        "Coalition plans to reduce net overseas migration to 150,000-200,000 per year",
+        "Howard-era net overseas migration was about 100,000",
+        "Peter Dutton previously pledged to cut net overseas migration to 160,000 in his first year",
+        "Policy would tighten temporary migration, including international students, and prioritise quality in skilled visa categories"
+      ]
+    },
+    {
+      "id": "f56f46e4e290",
+      "title": "ICC Enforcement in the Philippines Triggers a Sovereignty Crisis Inside the Senate",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/gunshots-philippines-senate-senator-ronald-dela-rosa",
+      "published": "2026-05-13T12:23:09Z",
+      "category": "IR",
+      "region": "Philippines",
+      "background": "Gunshots were reported inside the Philippine senate on 13 May 2026 during a standoff over the attempted arrest of Senator Ronald dela Rosa, a close ally of former president Rodrigo Duterte. Dela Rosa is wanted by the International Criminal Court (ICC) for alleged crimes against humanity linked to Duterte’s anti-drug campaign, in which thousands were killed; Duterte himself was arrested in Manila in 2025 and sent to The Hague. Dela Rosa has spent two nights inside the senate, where senate president Alan Peter Cayetano offered him protective custody while the supreme court considers an emergency petition to block any transfer to the ICC.",
+      "prop_args": [
+        {
+          "thesis": "The Philippines should enforce ICC accountability even at the cost of a domestic political confrontation, because impunity for mass atrocities is more destabilizing than a short-term sovereignty backlash.",
+          "mechanisms": [
+            "First, enforcing the warrant restores the credibility of the rule of law. This is because (1) it signals that even powerful elites cannot evade accountability through office or military patronage, (2) it reduces the expectation that political violence can be rewarded with protection, and (3) it strengthens the state’s long-term legitimacy by showing that institutions can act against entrenched impunity.",
+            "Second, compliance with the ICC deters future security-force abuses. Three reasons: one, commanders and politicians know there is a real external enforcement pathway; two, lower-level officers are less likely to follow unlawful orders if they believe senior figures can be arrested; three, it creates documentary and legal precedents that make denial harder in future cases.",
+            "Third, the international costs of non-compliance are larger than the domestic costs of enforcement. This matters because the Philippines risks being framed as a safe haven for alleged crimes against humanity, which can weaken diplomatic trust, complicate cooperation with human-rights partners, and deepen polarization by tying the state to a violent patronage network around the Duterte bloc."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Philippines should resist ICC enforcement in this case because external prosecution of a sitting senator will be read as foreign intrusion and can trigger institutional breakdown.",
+          "mechanisms": [
+            "First, the arrest attempt can delegitimize the government domestically. One, Duterte-aligned actors can frame the ICC as an anti-Philippine foreign court; two, that narrative is especially potent when the target is a sitting senator inside the legislature; three, it can convert a legal process into a nationalist rallying point that weakens compliance.",
+            "Second, forced enforcement risks immediate security escalation. One, the presence of troops, law enforcers, and armed personnel inside the senate raises the chance of miscalculation or violence; two, if elites believe arrest is politically motivated, they may mobilize supporters or sympathetic uniformed actors; three, the state may end up weakening civilian control by turning a legal warrant into a coercive showdown.",
+            "Third, prioritizing ICC cooperation over domestic stability can deepen political fragmentation. One, the Marcos administration is already in a fierce battle with the Duterte camp; two, arresting Dela Rosa can harden elite polarization and make governance harder in Congress and the bureaucracy; three, in a fragile democracy, preserving short-term institutional peace may be more important than symbolic international compliance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether accountability or stability is the more fragile good in a system already marked by elite polarization. Prop wins if the round prioritizes ending impunity and building durable institutions; opp wins if the judge believes coercive ICC enforcement inside a contested legislature risks immediate violence and long-term democratic breakdown.",
+      "stock_connections": [
+        "Rule of Law",
+        "Impunity",
+        "Sovereignty",
+        "International Justice",
+        "Democratic Backsliding",
+        "Civil-Military Relations",
+        "Elite Capture",
+        "Institutional Legitimacy",
+        "Nationalism vs Liberal Internationalism"
+      ],
+      "motion_areas": [
+        "TH, as the Philippines, would cooperate fully with the ICC even when domestic elites resist",
+        "THBT states should prioritize international criminal accountability over domestic political stability",
+        "THP a world where sitting politicians can be arrested and transferred to international courts without host-state veto",
+        "THBT the Philippines should surrender Senator Ronald dela Rosa to the ICC"
+      ],
+      "data_points": [
+        "Ronald dela Rosa has spent two nights inside the Philippine senate as of 13 May 2026",
+        "Duterte was arrested in Manila in 2025 and sent to the ICC in The Hague",
+        "The ICC arrest warrant accuses dela Rosa of 'authorising, condoning and promoting' killings, including providing weapons, promising impunity and rewarding perpetrators",
+        "The ICC has 125 member states",
+        "The supreme court gave all parties 72 hours to respond to Dela Rosa's emergency petition",
+        "Thousands were killed in Duterte's anti-drug crackdown, according to the article"
+      ]
+    },
+    {
+      "id": "28c448ed1fbc",
+      "title": "Chinese Carmakers Turn UK Auto Plants Into Low-Cost Production Hubs, Trading Industrial Sovereignty for Survival",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/13/nissan-ponders-building-cars-for-chinese-rivals-at-sunderland-plant-chery",
+      "published": "2026-05-13T11:54:50Z",
+      "category": "Business",
+      "region": "United Kingdom / China / Europe",
+      "background": "Nissan’s chief executive Ivan Espinosa said the company is considering building cars for other manufacturers at its Sunderland plant, the UK’s largest car factory, as it looks for ways to keep the site busy after closing one of its two production lines. The plant employs about 6,000 workers, and Nissan last week announced 900 job cuts across Europe as it tries to cut costs amid weak demand and steep losses. Industry sources say Nissan has held talks with China’s Chery, which is pushing into the UK and Europe with its Chery, Jaecoo and Omoda brands; similar plant-sharing talks are also under way involving Ford-Geely, Stellantis-Leapmotor, and BYD with European manufacturers.",
+      "prop_args": [
+        {
+          "thesis": "Letting Chinese carmakers use Sunderland is the fastest way to preserve jobs, keep industrial capacity alive, and turn a struggling plant into a profitable asset instead of a stranded one.",
+          "mechanisms": [
+            "First, it protects employment and local supply chains by filling idle capacity. This is because (1) Sunderland has 6,000 workers and has already seen one production line closed, (2) Nissan has announced 900 job cuts across Europe, so the immediate alternative is contraction, and (3) more volume keeps component orders, logistics contracts, and maintenance work flowing through the regional economy.",
+            "Second, it improves plant economics by monetising spare capacity that Nissan cannot currently use. Three reasons: one, Espinosa explicitly said the problem at Sunderland is 'volume', not plant viability; two, underused factories have high fixed costs per vehicle, so sharing output lowers unit costs; three, taking Chinese production can subsidise Nissan’s own restructuring without requiring direct state aid.",
+            "Third, it helps the UK retain manufacturing relevance in a sector under global pressure. This matters because (1) Chinese EV and hybrid brands are already expanding rapidly in Europe, (2) if the UK refuses such deals, production will simply move to lower-cost jurisdictions elsewhere in Europe, and (3) keeping production onshore preserves technical know-how, supplier ecosystems, and future bargaining power with investors."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Allowing Chinese rivals into Sunderland accelerates deindustrialisation by turning a strategic British asset into a low-margin assembly site for foreign competitors.",
+          "mechanisms": [
+            "First, it entrenches dependence on Chinese firms rather than rebuilding domestic competitiveness. One, Chinese brands are expanding because they can undercut European rivals on cost, so UK plants become the cheap manufacturing arm of foreign market entry; two, this crowds out incentives for Nissan or the UK government to invest in long-term product development; three, the UK ends up hosting production while value capture, branding, and strategic control remain abroad.",
+            "Second, it creates political and industrial vulnerability by normalising the transfer of capacity to firms backed by a highly interventionist state. One, Chinese manufacturers often benefit from scale, subsidies, and state support that distort competition; two, once a plant is adapted to serve them, switching costs make the UK more reliant on their continued orders; three, this weakens the UK’s leverage in future trade, security, or industrial policy disputes.",
+            "Third, it risks a race to the bottom in labour and industrial standards. One, firms use spare capacity and weak demand to pressure workers into accepting lower margins and more flexible terms; two, European carmakers are already sharing factories because they are trying to reduce manufacturing costs, which can push wages and conditions downward; three, the long-run effect is not preservation of a healthy industrial base but survival through permanent cost-cutting."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether spare capacity is treated as a sunk cost to be rescued or as a strategic asset that should not be handed to a foreign rival. Prop wins if the judge prioritises immediate jobs and industrial continuity; opp wins if they think the long-run effect is dependency and hollowing out of domestic manufacturing capability.",
+      "stock_connections": [
+        "Race to the Bottom",
+        "Dependency Theory",
+        "Industrial Policy",
+        "Globalisation and Deindustrialisation",
+        "Foreign Direct Investment",
+        "Strategic Autonomy",
+        "Comparative Advantage",
+        "Subsidy Competition"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would welcome Chinese carmakers using underutilised British factories",
+        "THBT European carmakers should share factory space with Chinese manufacturers",
+        "THP a world where struggling domestic manufacturers can produce for foreign rivals",
+        "THBT governments should prioritise preserving industrial capacity over ownership nationality"
+      ],
+      "data_points": [
+        "Nissan Sunderland employs about 6,000 workers",
+        "Nissan announced 900 job cuts across Europe last week",
+        "Nissan posted a net loss of ¥533bn (£2.5bn) for the last financial year",
+        "Nissan’s operating profit fell nearly 12% to ¥58bn",
+        "Nissan expects operating profit to reach ¥200bn next year",
+        "Nissan closed one of its two Sunderland production lines because of faltering demand",
+        "Chinese-made cars in Europe have soared in recent months due to lower costs",
+        "Stellantis announced it would build Leapmotor cars at factories in Madrid and Zaragoza",
+        "Ford has reportedly held talks with Geely over part of a plant in Valencia",
+        "BYD is negotiating with Stellantis and other European carmakers over taking over underused factories"
+      ]
+    },
+    {
+      "id": "024447bf9487",
+      "title": "Maldives Uses Defamation and Gag Orders to Criminalise Reporting on Presidential Scandal",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/13/maldives-jails-two-journalists-for-reporting-on-presidents-alleged-affair?traffic_source=rss",
+      "published": "2026-05-13T11:54:08Z",
+      "category": "IR",
+      "region": "Maldives",
+      "background": "On 13 May 2026, a criminal court in Malé sentenced two Adhadhu journalists, Mohamed Shahzan and Leevan Ali Nasir, to 15 days and 10 days in jail respectively for violating a gag order linked to a documentary alleging President Mohamed Muizzu had an affair with a former aide. The documentary, Aisha, was released on Adhadhu’s social media on 28 March; police later raided the outlet in April and seized laptops and storage devices. The court also issued a gag order banning direct or indirect discussion of the allegations, while two editors face separate qazf charges under Islamic law that can carry up to one year and seven months in prison and up to 80 lashes.",
+      "prop_args": [
+        {
+          "thesis": "Jailing journalists over a presidential scandal is a textbook authoritarian escalation that will chill scrutiny, weaken accountability, and accelerate democratic backsliding in the Maldives.",
+          "mechanisms": [
+            "First, it creates a direct chilling effect on the entire media ecosystem. This is because (1) journalists now see that even reporting on a court order or asking a president a question can trigger jail time, (2) editors and owners will pre-emptively self-censor to avoid raids, seizures, and criminal charges, and (3) the cost of investigative reporting rises sharply when the state can punish routine newsgathering as contempt or defamation.",
+            "Second, it expands executive control over institutions that are supposed to constrain power. Three reasons: one, the gag order and secret trials show prosecutors and courts being used to protect the president’s reputation rather than adjudicate public-interest speech; two, the media commission created by the September media law reportedly has government loyalists and can fine, suspend, or shut outlets; three, the Supreme Court overhaul and removal of three judges last year signals that the judiciary is being packed or disciplined into compliance.",
+            "Third, the long-term democratic damage is larger than the short-term reputational harm to Muizzu. This matters because (1) once the state normalises criminal punishment for speech, opposition parties and civil society lose the ability to expose corruption or abuse, (2) voters receive less information before elections and referendums, and (3) the precedent survives beyond this scandal, making future leaders more willing to weaponise morality or defamation laws against critics."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The state is legitimately enforcing reputation and privacy protections, and this is a narrow legal response to unlawful publication rather than a systemic attack on press freedom.",
+          "mechanisms": [
+            "First, governments have a plausible interest in stopping unverified sexual allegations from being amplified as fact. One, the documentary relied on an anonymised interview and the president denies the claims as baseless lies; two, the gag order cites constitutional protections for the right to reputation; three, if media outlets can publish intimate allegations without legal consequence, public figures are left with no effective remedy against falsehoods.",
+            "Second, the punishment is limited and does not prove broad repression. One, the sentences were 15 and 10 days rather than long-term imprisonment, which suggests the court treated this as a specific breach of a court order; two, the spokesperson explicitly said the government supports a vibrant and free press and that Muizzu has given the media unprecedented access; three, isolated enforcement actions do not necessarily mean the whole system is collapsing.",
+            "Third, the case can be framed as rule-of-law enforcement in a sensitive religious and social context. One, the charges include qazf, which is a recognised offence under Islamic law in the Maldives; two, the state may argue that public discussion of adultery allegations can inflame social conflict and undermine public order; three, protecting reputational rights can be defended as necessary to preserve trust in institutions and prevent trial-by-media politics."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether this is a one-off reputational dispute or evidence of a broader authoritarian toolkit. Prop wins if it can show the gag order, secret trials, media-law changes, and court restructuring form a pattern of institutional capture; opp wins if it persuades that the state is only enforcing narrowly tailored legal protections against unverified allegations.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Judicial Capture",
+        "Press Freedom",
+        "Chilling Effect",
+        "Rule of Law vs Rule by Law",
+        "Authoritarian Consolidation",
+        "Censorship",
+        "Reputation vs Free Speech"
+      ],
+      "motion_areas": [
+        "TH, as the Maldives, would decriminalise defamation and related speech offences",
+        "THBT governments should not be able to jail journalists for reporting on allegations against public officials",
+        "THP a world where courts cannot issue gag orders on matters of public interest involving elected leaders"
+      ],
+      "data_points": [
+        "Two Adhadhu journalists were jailed on 13 May 2026: Mohamed Shahzan for 15 days and Leevan Ali Nasir for 10 days",
+        "The documentary Aisha was released on 28 March 2026 on Adhadhu’s social media accounts",
+        "Police raided Adhadhu in April 2026 and seized laptops, hard drives, and pen drives",
+        "The gag order was issued by the criminal court on Monday, banning any direct or indirect discussion of the allegations",
+        "Two editors face qazf charges carrying up to 1 year and 7 months in prison and up to 80 lashes",
+        "In September, parliament passed a media law giving a commission powers to fine, suspend, and shut down outlets",
+        "The Maldives’ opposition said 69 percent of voters rejected a government proposal in a constitutional referendum to align presidential and parliamentary election cycles"
+      ]
+    },
+    {
+      "id": "daeeb44ca902",
+      "title": "Gaza Reconstruction Becomes a Local Capacity Test, Not Just a Foreign Aid Problem",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T11:44:48Z",
+      "category": "IR",
+      "region": "Gaza; Israel",
+      "background": "Two teenage sisters from Gaza, Farah and Tala Mousa, won the Middle East regional Earth Prize for developing reusable bricks made from crushed rubble mixed with materials like clay, ash, and glass powder. They plan to use their $12,500 prize to train about 100 young people and produce at least 200 bricks, focusing on non-load-bearing uses such as pavements, partitions, and garden beds. The UN says 1.9 million people in Gaza — nearly 90% of the population — have been displaced since the war began in 2023, and by early 2025 damage in the strip was estimated at $70 billion, with millions of tonnes of rubble across the territory. The article also notes that the October 2025 ceasefire tied to Donald Trump’s plan pledged reconstruction 'for the benefit of the people of Gaza,' but humanitarian agencies say large-scale reconstruction has not yet begun.",
+      "prop_args": [
+        {
+          "thesis": "Gaza’s recovery is more likely to succeed if reconstruction is decentralized and locally led, because it converts rubble from a liability into a usable input and builds civilian capacity inside the territory.",
+          "mechanisms": [
+            "First, local recycling of rubble reduces the bottleneck created by waiting for external reconstruction. This is because (1) Gaza has millions of tonnes of debris and a $70 billion damage bill, so importing all materials is too slow and expensive, (2) local production can start immediately with low-tech tools and minimal capital, and (3) it creates a parallel supply chain that is less vulnerable to border closures, aid delays, or political bargaining.",
+            "Second, it creates employment and skills in a context where normal labor markets have been shattered. Three reasons: one, training 100 young people creates a transferable technical skill base; two, reconstruction work can absorb displaced youth who otherwise face long-term dependency; three, local ownership makes communities more willing to maintain and replicate the infrastructure they build.",
+            "Third, it improves social resilience by giving civilians agency after mass destruction. This matters because (1) when people can participate in rebuilding, they are less psychologically trapped in victimhood, (2) community-led reconstruction can restore trust and coordination after displacement, and (3) it reduces the political narrative that Gaza can only be rebuilt through outside actors, which often turns reconstruction into a hostage to geopolitics."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Local rubble-reuse projects are symbolically powerful but structurally insufficient, because Gaza’s reconstruction problem is fundamentally about scale, security, and governance rather than small-scale innovation.",
+          "mechanisms": [
+            "First, the technical limits are too severe for this to matter at macro scale. One, the bricks are only for non-load-bearing uses like pavements and partitions, so they cannot replace the bulk of housing reconstruction; two, 200 bricks is negligible against millions of tonnes of rubble; three, without industrial machinery, quality control, and stable inputs, these projects cannot meet safety standards for dense urban rebuilding.",
+            "Second, reconstruction in Gaza is constrained by political and security conditions that local entrepreneurship cannot solve. One, border restrictions and the ongoing conflict environment determine whether cement, steel, and equipment can enter; two, donor states and Israel will still control the pace and terms of rebuilding; three, if governance remains fragmented, local initiatives risk being isolated pilot projects rather than system-wide recovery.",
+            "Third, over-celebrating self-help can let external actors off the hook. One, it may create a narrative that Palestinians should 'rebuild themselves' despite destruction caused by war, which shifts responsibility away from belligerents and donors; two, it can be used to justify underinvestment in large-scale reconstruction; three, it risks normalizing a humanitarian model where communities are expected to innovate around devastation instead of receiving the resources needed for full recovery."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is scale versus sustainability: the prop side wins if the question is how to start rebuilding under blockade and displacement, while the opp side wins if the question is whether this can solve Gaza’s actual housing and infrastructure crisis. This argument wins because local capacity is a necessary complement to reconstruction, but not a substitute for the political and financial architecture that will determine whether Gaza is rebuilt at all.",
+      "stock_connections": [
+        "Bottom-up development",
+        "State capacity",
+        "Post-conflict reconstruction",
+        "Humanitarian dependency",
+        "Local ownership",
+        "Aid effectiveness",
+        "Civil society resilience",
+        "War economies"
+      ],
+      "motion_areas": [
+        "TH, as international donors, would prioritize local community-led reconstruction over centralized foreign-led rebuilding in Gaza",
+        "THBT post-conflict reconstruction should focus on local capacity-building rather than large-scale external contracting",
+        "THP a world where war-torn societies are rebuilt primarily through decentralized civilian initiatives"
+      ],
+      "data_points": [
+        "1.9 million people in Gaza — nearly 90% of the population — have been displaced since the war began in 2023",
+        "By early 2025, damage in Gaza was estimated at $70 billion",
+        "The sisters' prize money is $12,500",
+        "They plan to train about 100 young people and produce at least 200 bricks",
+        "The bricks are designed for non-load-bearing uses such as pavements, partitions, and garden beds",
+        "About 1,200 people were killed in the 7 October 2023 Hamas-led attack on southern Israel",
+        "More than 72,700 people have been killed in Gaza since the war began, including 856 since the October 2025 ceasefire"
+      ]
+    },
+    {
+      "id": "e2de086636b5",
+      "title": "Trump’s Iran Trap: Escalation Risks Domestic Blowback, Concession Risks Strategic Weakness",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
+      "published": "2026-05-13T11:42:19Z",
+      "category": "IR",
+      "region": "United States, Iran, Middle East",
+      "background": "A fragile ceasefire between the US and Iran, in place since April 8, is under strain as peace proposals stall and both sides harden their positions. Trump has said the ceasefire is on \"life support,\" while US officials have hinted at renewed military action; Iran has rejected US demands to dismantle its nuclear programme and wants sanctions relief plus recognition of its influence over the Strait of Hormuz. The article says the conflict has already involved five weeks of US bombing, Iranian missile and drone attacks on the UAE, and disruption fears around a chokepoint that carries roughly one-fifth of global energy exports.",
+      "prop_args": [
+        {
+          "thesis": "Trump is structurally better off cutting a deal with Iran than pursuing renewed escalation, because the domestic, military, and regional costs of war are rising faster than the strategic gains.",
+          "mechanisms": [
+            "First, escalation creates immediate domestic political punishment. This is because (1) two-thirds of Americans in the Reuters/Ipsos survey said Trump has not given a clear rationale for the war, (2) the same share say they are already feeling financial strain as gas, oil, and fertiliser prices rise, and (3) Trump’s approval is only 36 percent heading into midterm elections, so a prolonged war becomes a direct liability for congressional control.",
+            "Second, renewed strikes are unlikely to coerce Tehran into surrendering its core positions. Three reasons: one, Iran has already shown higher resilience and a greater tolerance for pain than Washington expected; two, its enrichment infrastructure, proxy networks, and ballistic missile arsenal remain intact enough to preserve bargaining power; three, Tehran’s leadership now believes the war failed to force strategic concessions, so more bombing may harden rather than soften its stance.",
+            "Third, a negotiated de-escalation is strategically preferable because it preserves US force readiness and stabilises energy markets. This matters because (1) five weeks of bombing have already reduced US ammunition stockpiles and readiness for other contingencies, especially China, (2) the Strait of Hormuz carries roughly a fifth of global energy exports, so even limited disruption amplifies inflation globally, and (3) Trump can frame a partial deal as a victory while quietly prioritising the nuclear file over the harder issue of Hormuz."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump should maintain pressure and be willing to escalate, because conceding to Iran would reward coercion, weaken deterrence, and leave Tehran stronger in the long run.",
+          "mechanisms": [
+            "First, backing down signals that armed resistance works. One, Iran has already used missiles and drones to target the UAE after US moves on Hormuz, showing it can impose costs; two, if Washington responds by accepting Iranian demands, it validates proxy warfare and brinkmanship; three, that precedent encourages Iran and other regional actors to escalate first and negotiate later.",
+            "Second, a tougher line may be the only way to stop Iran from preserving a latent nuclear breakout capability. One, Iran’s enriched uranium remains in-country and its enrichment sites have not been dismantled; two, Tehran explicitly rejects dismantling its nuclear programme; three, if the US prioritises diplomacy without leverage, Iran can buy time, retain capabilities, and emerge with a stronger deterrent posture.",
+            "Third, escalation can restore US credibility with allies and adversaries. One, Israel and Gulf partners need assurance that the US will not abandon them under pressure; two, if Trump accepts Iranian influence over Hormuz or lifts sanctions too easily, it signals weakness across the region; three, a credible threat of force may extract a better deal than negotiations alone."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion actually changes Iranian behaviour or just imposes costs on the US and its allies. Prop has the structural advantage because the article shows Iran has already absorbed pressure, while the US faces clearer domestic, economic, and readiness constraints; Opp only wins if it proves escalation can still produce a materially better end state than a messy compromise.",
+      "stock_connections": [
+        "Deterrence",
+        "Credibility",
+        "Coercive Diplomacy",
+        "Security Dilemma",
+        "Domestic Audience Costs",
+        "War Weariness",
+        "Energy Security",
+        "Moral Hazard",
+        "Proliferation Risk",
+        "Regional Arms Race"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritise a nuclear deal over regime pressure on Iran",
+        "THBT the United States should not resume military action against Iran",
+        "THP a world in which major powers negotiate with adversaries after limited conflict rather than pursue escalation"
+      ],
+      "data_points": [
+        "Ceasefire between the US and Iran has been in place since 8 April",
+        "Roughly one-fifth of global energy exports pass through the Strait of Hormuz",
+        "Reuters/Ipsos survey: two-thirds of Americans say Trump has not given a clear rationale for the war",
+        "Reuters/Ipsos survey: two-thirds of Americans say they are feeling financial strain from the war",
+        "Trump approval rating cited in article: 36 percent",
+        "Trump approval rating last year before midterms: 47 percent",
+        "The conflict has already involved five weeks of US bombing, according to the article",
+        "Iran’s response included missiles and drones targeting the UAE after Trump announced 'Project Freedom'",
+        "CSIS warned the conflict has reduced Washington’s readiness for other confrontations, particularly with China"
+      ]
+    },
+    {
+      "id": "959374102868",
+      "title": "Civilian Mass Casualties in Nigeria and Chad Expose the Costs of Counterinsurgency Airpower",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
+      "published": "2026-05-13T11:40:12Z",
+      "category": "IR",
+      "region": "Nigeria / Chad / Lake Chad Basin",
+      "background": "On 13 May 2026, the UN High Commissioner for Human Rights Volker Turk called for independent investigations into separate air attacks by Nigerian and Chadian forces that reportedly killed more than 100 civilians. Amnesty International said a Nigerian airstrike on 10 May hit a crowded market in Tumfa village, Zamfara state, killing at least 100 civilians, while reports also alleged Chadian jets struck Boko Haram camps on remote islands in the Lake Chad marshlands, killing dozens including fishermen. Nigeria’s defence headquarters denied credible evidence of civilian casualties and said its strike targeted a 'confirmed high-level gathering' of terrorists.",
+      "prop_args": [
+        {
+          "thesis": "Independent investigations and accountability are necessary because unchecked air campaigns against insurgents systematically kill civilians and worsen the conflict.",
+          "mechanisms": [
+            "First, accountability reduces repeat civilian harm. This is because (1) airstrikes are high-variance tools that rely on imperfect intelligence, (2) without external scrutiny militaries can classify every strike as a 'terrorist' success, and (3) the absence of consequences lowers the incentive to improve target verification, warning protocols, and post-strike review.",
+            "Second, civilian deaths fuel insurgent recruitment and local support for armed groups. Three reasons: one, when markets, fishermen, and villages are hit, communities see the state as an indiscriminate predator rather than a protector; two, insurgents can use the deaths as propaganda to frame themselves as defenders against state violence; three, fear and grievance push civilians toward cooperation, taxation compliance, or passive tolerance of Boko Haram/ISWAP and bandits.",
+            "Third, independent probes preserve state legitimacy and international humanitarian law norms. This matters because (1) Nigeria and Chad both rely on external military assistance and diplomatic support, (2) repeated allegations of massacre without investigation erode trust in the armed forces and the government, and (3) normalizing impunity in counterterrorism operations creates a precedent that civilian protection is optional whenever states invoke security threats."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The priority should be operational freedom against insurgents, because over-legalizing counterterrorism can weaken states facing urgent and asymmetric threats.",
+          "mechanisms": [
+            "First, insurgent groups exploit legal and political constraints to hide among civilians. One, Boko Haram and bandit groups operate in markets, islands, and remote villages where combatants and civilians are intermingled; two, demanding perfect certainty before striking can create safe havens for militants; three, delayed action allows armed groups to regroup, tax civilians, and expand territorial control.",
+            "Second, external investigations can undermine morale and command effectiveness. One, soldiers and commanders may become risk-averse if every strike triggers international scrutiny; two, this can reduce willingness to act in fast-moving battlefield conditions where split-second decisions matter; three, insurgents then gain a tactical advantage because the state is slower and less decisive than non-state actors.",
+            "Third, domestic institutions may be better placed than international actors to assess these incidents. One, local militaries have access to classified intelligence, battle damage assessments, and operational context that outsiders lack; two, foreign-led pressure can be perceived as politicized or neo-colonial, reducing cooperation from the state; three, if the goal is reform, internal military discipline and national courts may be more sustainable than UN-led condemnation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate civilian protection and the state’s ability to fight insurgents effectively. Prop wins if the round prioritizes long-run conflict reduction and rule-of-law legitimacy; opp wins if the round treats counterinsurgency urgency and intelligence uncertainty as overriding, because the costs of operational paralysis can be catastrophic in active war zones.",
+      "stock_connections": [
+        "Counterinsurgency blowback",
+        "Civilian protection in war",
+        "Impunity and accountability",
+        "State legitimacy",
+        "Terrorism and radicalization",
+        "Security vs human rights tradeoff",
+        "Moral hazard",
+        "International humanitarian law"
+      ],
+      "motion_areas": [
+        "TH, as Nigeria and Chad, would prioritize independent investigation of civilian casualties in counterterrorism airstrikes",
+        "THBT states facing insurgencies should accept international oversight of military operations",
+        "THP a world where counterterrorism airstrikes require post-strike civilian harm review before public justification"
+      ],
+      "data_points": [
+        "UN rights chief Volker Turk said Nigerian airstrikes on a market in Zamfara state killed at least 100 civilians on 10 May 2026",
+        "Amnesty International said the Nigerian military and 'bandit' gangs killed at least 100 civilians in Zamfara on Sunday, including women and children",
+        "Reports said Chadian jets struck Boko Haram camps on remote islands in the Lake Chad marshlands, killing dozens of civilians including fishermen",
+        "Nigeria has been battling armed rebellion in the northeast for 17 years",
+        "The Lake Chad basin spans Nigeria, Cameroon, Niger, and Chad"
+      ]
+    },
+    {
+      "id": "2fe512c8d01f",
+      "title": "Democrats’ Defense of Racial Preferences Blocks Their Pivot to Class-Based Economic Populism",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/democrats-racial-preferences-affirmative-action/687147/?utm_source=feed",
+      "published": "2026-05-13T11:31:53Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The article argues that race-based affirmative action remains politically unpopular after the Supreme Court’s 2023 ruling in Students for Fair Admissions v. Harvard, which declared racial preferences in college admissions unlawful. It cites California’s 54–14 Assembly vote in February to put a constitutional change on the November ballot to allow racial preferences in K–12 education and higher-education scholarships, New York City’s new 375-page Racial Equity Plan, and Maryland Democrats overriding Gov. Wes Moore’s veto of reparations-study legislation. The piece also cites research by David Broockman and Joshua Kalla across 29 issue areas, claiming that moving to the center on racial preferences would be one of the most electorally beneficial shifts for Democrats.",
+      "prop_args": [
+        {
+          "thesis": "Democrats should abandon race-based preferences and replace them with class-based affirmative action because that is both electorally stronger and substantively fairer.",
+          "mechanisms": [
+            "First, class-based targeting broadens the coalition Democrats can win. This is because (1) economically disadvantaged voters exist in every racial group, so the policy is legible as universal rather than factional; (2) swing voters are far more likely to support help based on need than race; and (3) the article cites Broockman and Kalla finding that moving to the center on racial preferences was the most electorally fruitful policy shift Democrats could make.",
+            "Second, race-based preferences create a symbolic backlash that hurts Democrats beyond the policy itself. Three reasons: one, many voters read racial preferences as preferential treatment rather than equal opportunity; two, Republicans can easily weaponize DEI and affirmative action as proof Democrats are out of touch; three, the issue is especially toxic in red-state and working-class districts where Democrats already hemorrhage support.",
+            "Third, class-based affirmative action is already proving more workable in practice. This matters because (1) after the 2023 Supreme Court ruling, top colleges increased Pell-eligible enrollment at 83 percent of schools with available data; (2) in the AP sample, MIT, Duke, and Smith all increased Pell representation by 25–35 percent; and (3) this shows institutions can preserve diversity and mobility goals without relying on legally vulnerable racial categories."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Democrats should retain some race-conscious policies because class-only approaches miss the specific harms created by racial discrimination and would weaken efforts to remedy persistent inequality.",
+          "mechanisms": [
+            "First, race and class are not interchangeable, so class-based targeting can under-capture disadvantage. One, Black and other minority students face discrimination, stereotyping, and network exclusion even when they are not the poorest; two, race-neutral poverty programs can leave out middle-income minority applicants who still face structural barriers; three, race-conscious policies are designed to address harms that are specifically racial, not merely economic.",
+            "Second, abandoning racial preferences may demobilize core Democratic constituencies and activists. One, many Black voters and civil-rights groups see race-conscious policy as a concrete commitment to racial justice; two, retreating on the issue can be framed as surrendering to conservative attacks on DEI; three, party elites may fear that once they concede on admissions and contracting, broader anti-racial-equity rollbacks become easier.",
+            "Third, the political downside may be overstated because voters care more about the economy than affirmative action. One, the article itself notes inflation, jobs, and health care usually outrank affirmative action in voter priorities; two, Democrats can absorb losses on a niche issue if they deliver on bread-and-butter economics; three, race-conscious policies may matter more as a moral signal to the base than as a decisive swing-voter issue."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether race-based preferences are a high-salience electoral liability or a necessary tool for racial justice. Prop has the structural advantage on broad coalition-building and legal durability, while Opp wins if they can prove class-only policy systematically misses racialized disadvantage and that base mobilization outweighs swing-voter costs.",
+      "stock_connections": [
+        "Identity Politics",
+        "Class vs Race Politics",
+        "Wedge Issues",
+        "Coalition Building",
+        "Policy Salience",
+        "Backlash Politics",
+        "Universalism vs Targeting",
+        "Minority Representation",
+        "Equal Opportunity vs Equity"
+      ],
+      "motion_areas": [
+        "TH, as the Democratic Party, would abandon race-based affirmative action in favor of class-based targeting",
+        "THBT progressive parties should prioritize economic disadvantage over racial identity in public policy",
+        "THP a world where universities and public institutions use only socioeconomic criteria for preferential admissions and contracting"
+      ],
+      "data_points": [
+        "California State Assembly passed a measure 54–14 in February to place a constitutional change on the November ballot allowing racial preferences in K–12 education and higher-education scholarships",
+        "Broockman and Kalla tested 29 issue areas and found moving to the center on racial preferences in college admissions was the most electorally fruitful shift for Democrats",
+        "Their study ranked moving to the center on racial preferences in government contracting as the second most important shift",
+        "In 2020, California voters backed Joe Biden over Trump by 29 points while rejecting reinstatement of racial preferences by 14 points",
+        "Gallup found 52% of Black respondents and 62% of Black respondents under 40 said striking down racial preferences was 'mostly a good thing'",
+        "After the 2023 Supreme Court ruling, Pell-eligible student shares increased at 83% of top colleges with available data",
+        "In the AP analysis of 17 selective colleges, MIT increased Pell representation by 35%, Duke by 29%, and Smith College by 25%",
+        "In 10 of the 18 top colleges studied by the authors, Pell share rose by more than 20%; in 6 of those, by more than 30%"
+      ]
+    },
+    {
+      "id": "3ae9bb0a198c",
+      "title": "Targeted Billionaire Taxes Risk Normalizing Anti-Accumulation Politics Over Broad-Based Growth",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/billionaire-tax-rhetoric-reflects-false-economics-by-michael-r-strain-2026-05",
+      "published": "2026-05-13T11:31:28Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The article responds to left- and right-wing populist calls for targeted taxes on billionaires and the ultra-wealthy. It cites Representative Alexandria Ocasio-Cortez saying, \"You can’t earn a billion dollars,\" and notes that New York progressive Zohran Mamdani and a proposed California wealth tax reflect similar politics. The piece argues that this rhetoric misdiagnoses how wealth is created and sends the wrong message to aspiring workers and entrepreneurs.",
+      "prop_args": [
+        {
+          "thesis": "Targeted billionaire taxes are bad policy because they punish wealth creation at the top without fixing the real sources of inequality, which are low wages, weak mobility, and distorted opportunity.",
+          "mechanisms": [
+            "First, they misidentify the problem. This is because (1) the binding constraint for most workers is not billionaire wealth itself but stagnant earnings and asset access, (2) taxing a tiny number of ultra-rich individuals does not materially raise broad middle-class incomes, and (3) it diverts political energy away from labor-market, education, and housing reforms that actually change distribution.",
+            "Second, they weaken incentives for entrepreneurship and capital formation. Three reasons: one, if the state signals that exceptional upside will be heavily clawed back, fewer founders and investors take high-risk bets; two, wealthy households are disproportionately the source of venture funding, philanthropy, and reinvested capital; three, uncertainty over confiscatory taxation encourages tax planning, relocation, and lower domestic investment.",
+            "Third, the rhetoric itself has negative dynamic effects on aspiration and social trust. This matters because it teaches young people that success is illegitimate rather than attainable, which (1) reduces effort and ambition, (2) increases zero-sum resentment between classes, and (3) makes future redistribution politics easier to justify even when they are economically inefficient."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Targeted taxes on billionaires are justified because extreme wealth concentration distorts democracy and can be used to fund high-value public goods without materially harming the broader economy.",
+          "mechanisms": [
+            "First, billionaires have outsized political power, so taxing them is a corrective rather than a punishment. One, concentrated wealth buys lobbying, media influence, and agenda-setting power; two, that influence can entrench monopoly rents and favorable tax treatment; three, reducing extreme wealth can therefore improve democratic responsiveness.",
+            "Second, the revenue can finance socially productive spending with high multiplier effects. One, wealth taxes can fund housing, childcare, health, or education; two, these programs raise labor-force participation and long-run productivity; three, the marginal utility of dollars is far higher when transferred from billionaires to liquidity-constrained households.",
+            "Third, the economic downside is often overstated because billionaire wealth is already partly illiquid and tax-avoidant. One, much of it is held in assets rather than consumption; two, sophisticated avoidance means current systems under-tax the ultra-rich anyway; three, well-designed taxes can capture rents without meaningfully reducing real investment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether billionaire wealth is a symptom of healthy capitalism or a source of distortive power. Prop wins if the judge prioritizes growth, investment, and aspiration effects; Opp wins if they prove extreme concentration creates democratic and allocative harms that outweigh any marginal efficiency loss.",
+      "stock_connections": [
+        "Trickle-down economics",
+        "Moral hazard",
+        "Redistribution vs growth",
+        "Rent-seeking",
+        "Inequality and social mobility",
+        "Capital flight",
+        "Tax incidence",
+        "Democratic capture",
+        "Zero-sum thinking"
+      ],
+      "motion_areas": [
+        "TH, as a government, would impose a wealth tax on billionaires",
+        "THBT governments should target billionaires with higher taxes",
+        "THP a world where extreme wealth is heavily taxed",
+        "THBT anti-billionaire rhetoric is harmful to economic mobility"
+      ],
+      "data_points": [
+        "Representative Alexandria Ocasio-Cortez: 'You can’t earn a billion dollars. You just can’t earn that.'",
+        "The article references a proposed wealth tax in California",
+        "Zohran Mamdani is cited as a New York progressive who argues billionaires with second homes in New York City are not 'pulling their weight'"
+      ]
+    },
+    {
+      "id": "c5f078a02c49",
+      "title": "German Shrinkflation Ruling Raises the Cost of Hidden Price Hikes for Consumer Brands",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T11:29:53Z",
+      "category": "Econ",
+      "region": "Germany / European Union",
+      "background": "A Bremen regional court ruled that Mondelēz misled consumers by reducing Milka Alpenmilch chocolate bars from 100g to 90g while keeping the same purple wrapper and product presentation. The case was brought by Hamburg consumer protection office VZHH, which argued the packaging created a misleading expectation; Mondelēz said it had disclosed the change on its website and social media and may appeal within one month. The bar’s price rose from €1.49 to €1.99 at the start of 2025, while chocolate prices in the UK rose 14.6% in the year to August 2025 amid cocoa supply shocks from poor West African harvests.",
+      "prop_args": [
+        {
+          "thesis": "Strict anti-shrinkflation enforcement improves market transparency and forces firms to compete on genuine prices rather than hidden deception.",
+          "mechanisms": [
+            "First, it corrects information asymmetry between firms and consumers. This is because (1) most shoppers anchor on familiar packaging rather than checking grams every purchase, (2) firms exploit that inertia by keeping the same visual cues while quietly reducing quantity, and (3) mandatory, clear notices raise the salience of the real price per unit so consumers can make rational comparisons.",
+            "Second, it disciplines pricing behavior across the sector. Three reasons: one, if firms know they cannot hide quantity cuts, they are more likely to absorb cost shocks through margins or efficiency gains; two, it prevents a race to the bottom where competitors copy shrinkflation to avoid being undercut; three, it pushes brands to compete honestly on quality, size, or price instead of manipulating consumer perception.",
+            "Third, it protects trust in branded goods and preserves long-run demand. This matters because repeated deception creates consumer backlash, brand dilution, and regulatory distrust; once consumers believe a brand is gaming them, they switch to private label or discount alternatives, so enforcement can improve market functioning even if it slightly constrains short-term pricing flexibility."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Aggressive shrinkflation regulation is overreach that raises compliance costs and reduces firms’ ability to respond to genuine input-cost shocks.",
+          "mechanisms": [
+            "First, it increases the cost of passing through inflation. (1) Firms facing cocoa, energy, and logistics shocks need flexible ways to preserve viability; (2) forcing prominent wrapper redesigns or notices adds packaging, legal, and administrative costs; (3) those costs are ultimately passed on to consumers through higher shelf prices or reduced product availability.",
+            "Second, it can distort product innovation and portfolio management. (1) Companies may avoid smaller-format products even when consumers prefer lower absolute prices or portion sizes; (2) they may keep inefficient legacy sizes to avoid litigation risk; (3) this reduces experimentation and can lock consumers into worse-value offerings if firms cannot adjust pack sizes efficiently.",
+            "Third, the line between deception and ordinary price adjustment is blurry. (1) Many products have always had variable weights and formats across markets and time; (2) consumers can be informed through online channels, labels, and unit pricing rather than heavy-handed court intervention; (3) over-enforcement risks turning consumer law into a tool for punishing unpopular but economically rational responses to inflation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether consumers can realistically detect hidden quantity cuts without legal intervention. Prop wins if you think packaging exploits bounded attention at scale; opp wins if you think the main problem is inflation itself and that regulation mostly adds cost rather than meaningfully changing consumer welfare.",
+      "stock_connections": [
+        "Information asymmetry",
+        "Consumer protection",
+        "Moral hazard",
+        "Race to the bottom",
+        "Market transparency",
+        "Inflation pass-through",
+        "Regulatory burden",
+        "Brand trust"
+      ],
+      "motion_areas": [
+        "TH, as a consumer regulator, would require prominent front-of-pack warnings for any product that shrinks in size without a corresponding packaging redesign",
+        "THBT governments should ban shrinkflation unless firms clearly disclose quantity changes on the front of packaging",
+        "THP a world where consumer protection agencies aggressively prosecute hidden product downsizing"
+      ],
+      "data_points": [
+        "Milka Alpenmilch bar cut from 100g to 90g",
+        "Price increased from €1.49 to €1.99 at the beginning of 2025",
+        "Bremen regional court said a 'clear, understandable and easily perceptible notice on the wrapper was necessary'",
+        "VZHH added 77 products to its 'rip-off packaging' list in 2025 alone",
+        "Chocolate prices rose 14.6% in the year to August 2025 in the UK",
+        "Ritter Sport reduced three varieties from 100g to 75g starting in May 2026"
+      ]
+    },
     {
       "id": "bd7f8c8a9f67",
       "title": "Trump’s Beijing Summit Risks Trading Taiwan Security for Chinese Help on Iran",
@@ -57,6 +1358,60 @@
         "More than a dozen US business leaders are traveling with Trump, including Elon Musk and Tim Cook",
         "The Strait of Hormuz remains under tighter Iranian control amid the war",
         "Washington has spent weeks urging China to pressure Iran to reopen the strait and accept US peace terms"
+      ]
+    },
+    {
+      "id": "5953d1ddcc26",
+      "title": "Settlement Corridor Demolitions Deepen West Bank Fragmentation and Displacement",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
+      "published": "2026-05-13T11:03:45Z",
+      "category": "IR",
+      "region": "Israel / Occupied West Bank / Palestine",
+      "background": "On 13 May 2026, Israel demolished 50 shops in al-Eizariya overnight, affecting the livelihoods of more than 200 families. The demolitions were carried out despite legal appeals to the Israeli Supreme Court. Israel has also earmarked land for a settlement-linked road corridor that would bisect the occupied West Bank and displace thousands of Bedouin villagers.",
+      "prop_args": [
+        {
+          "thesis": "Building settlement-linked infrastructure and demolishing Palestinian commercial sites entrenches occupation by physically fragmenting Palestinian territory and making a viable Palestinian state harder to sustain.",
+          "mechanisms": [
+            "First, the road corridor creates territorial contiguity for settlements while destroying Palestinian contiguity. This is because (1) the road is designed to connect settlement blocs rather than local Palestinian communities, (2) it bisects the West Bank into disconnected enclaves, and (3) once movement is rerouted around settlement infrastructure, Palestinians face higher transport costs, longer travel times, and weaker internal trade networks.",
+            "Second, the demolitions produce economic displacement that compounds political displacement. Three reasons: one, 50 shops serving more than 200 families are not just buildings but local employment nodes; two, losing commercial space pushes households into debt, informal work, or migration; three, when livelihoods disappear, communities become less able to resist further land seizure and more vulnerable to coerced relocation.",
+            "Third, this normalizes unilateral facts on the ground that weaken future negotiations. This matters because (1) repeated infrastructure expansion signals that borders will be determined by force rather than talks, (2) it rewards settlement expansion with state-backed permanence, and (3) it makes any two-state settlement less credible by pre-emptively deciding key territorial questions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel can justify the road and demolitions as necessary security and administrative measures that improve mobility, enforce planning law, and reduce long-term conflict risk.",
+          "mechanisms": [
+            "First, the state can argue the corridor serves security and control objectives. One, roads linked to settlements can allow faster military and emergency access across contested areas; two, centralized transport routes can reduce ad hoc movement through vulnerable zones; three, Israeli authorities can claim that territorial management is preferable to fragmented, unregulated development.",
+            "Second, the demolitions can be framed as lawful enforcement rather than arbitrary dispossession. One, the article notes legal appeals were made, implying the state is operating through formal institutions; two, governments routinely justify demolition of structures built without permits; three, if courts uphold the action, Israel can claim procedural legitimacy even if the outcome is politically controversial.",
+            "Third, supporters can argue infrastructure integration may improve the economy in the long run. One, better roads can lower logistics costs and connect labor markets; two, clearer transport corridors can reduce bottlenecks and uncertainty for commerce; three, if paired with broader arrangements, infrastructure can be presented as a prerequisite for stability rather than an obstacle to it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the road is treated as neutral infrastructure or as a territorial instrument that locks in settlement expansion. Prop is stronger on structural irreversibility: once land is taken and communities are fragmented, the status quo becomes much harder to reverse, whereas Opp mostly relies on claims about security, legality, and future economic efficiency.",
+      "stock_connections": [
+        "Settler Colonialism",
+        "Ethnic Cleansing",
+        "Democratic Backsliding",
+        "Security vs Rights Tradeoff",
+        "Facts on the Ground",
+        "Collective Punishment",
+        "Displacement",
+        "Occupation and Annexation",
+        "Two-State Solution Erosion"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would halt settlement-linked infrastructure in the West Bank",
+        "THBT states should not demolish civilian property to facilitate territorial control",
+        "THP a world where courts cannot authorize land seizures for disputed territorial projects"
+      ],
+      "data_points": [
+        "50 Palestinian shops demolished in al-Eizariya overnight",
+        "More than 200 families lost livelihoods from the demolitions",
+        "The planned settlement corridor would bisect the occupied West Bank",
+        "Thousands of Bedouin villagers could be displaced by the corridor",
+        "Demolitions occurred despite legal appeals to the Israeli Supreme Court"
       ]
     },
     {
@@ -751,6 +2106,57 @@
         "Malaysia reportedly temporarily lifted an Interpol red notice to facilitate the return of significant assets",
         "Low faces corruption and money-laundering charges in both the US and Malaysia",
         "1MDB was a state fund involved in one of the world’s biggest financial frauds, with the scandal emerging in 2015"
+      ]
+    },
+    {
+      "id": "9a873891d788",
+      "title": "Russia's Ukraine War Leaves It Overstretched, Isolated, and Unable to Deliver on Great-Power Commitments",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/ukraine-war-has-left-russia-isolated-and-weakened-by-nina-l-khrushcheva-2026-05",
+      "published": "2026-05-13T10:05:12Z",
+      "category": "IR",
+      "region": "Russia / Ukraine / Europe / Global",
+      "background": "Since launching its full-scale invasion of Ukraine more than four years ago, Russia has not achieved the military victory Vladimir Putin sought. The article argues that the war has stretched Russian resources so thin that Moscow has repeatedly failed to meet commitments to partners and allies, while even its closest friends have begun hedging their bets. The result, according to the piece, is a Russia that is more isolated than at any point since the earliest days of the Bolshevik Revolution and far less able to project power globally.",
+      "prop_args": [
+        {
+          "thesis": "The Ukraine war has structurally degraded Russia's ability to act as a credible great power, because military overextension now undermines both alliance management and global influence.",
+          "mechanisms": [
+            "First, the war consumes the material and diplomatic bandwidth Russia needs to maintain external commitments. This is because (1) military resources are diverted into Ukraine rather than partner support, (2) sanctions and wartime strain reduce the state's ability to deliver economic or security promises, and (3) repeated failure to meet obligations signals to partners that Russia is no longer a reliable patron.",
+            "Second, Russia's credibility collapses when allies see it cannot protect them or reward loyalty. Three reasons: one, partners hedge when they doubt Moscow can win or sustain long-term support; two, hedging weakens Russia's bloc-building and bargaining power; three, once trust erodes, even symbolic influence over foreign policy decisions declines because states stop treating Russia as a decisive actor.",
+            "Third, the strategic damage compounds over time because isolation reduces Russia's options in future crises. This matters because a power that cannot convert military force into durable political relationships loses the ability to shape world affairs, meaning the war does not just cost Russia territory or lives but its long-term status as a systemic player."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Despite short-term strain, the Ukraine war can still preserve or even expand Russia's influence by forcing other states to accommodate Moscow and by deepening alternative partnerships outside the West.",
+          "mechanisms": [
+            "First, Russia can reorient toward non-Western partners and use anti-Western alignment to retain relevance. One, states that already distrust the US/EU may see Russia as a useful counterweight; two, energy, arms, and commodity ties can keep channels open even under sanctions; three, this allows Moscow to remain embedded in alternative geopolitical networks rather than being fully isolated.",
+            "Second, wartime pressure can increase Russia's leverage in some regions by making it a disruptive spoiler. One, even a weakened Russia can still threaten escalation, cyber activity, or energy shocks; two, other states may offer concessions to avoid instability; three, influence does not require broad popularity if the actor can still impose costs and force attention."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic great-power prestige and hard strategic capacity. Prop wins if the round is about whether Russia can still credibly lead, because alliance trust and delivery capacity are the core inputs of influence; Opp only wins if they prove that coercive disruption and non-Western partnerships substitute for lost credibility.",
+      "stock_connections": [
+        "Overextension",
+        "Alliance Credibility",
+        "Great Power Decline",
+        "Sanctions Evasion",
+        "Hedging",
+        "Security Dilemma",
+        "Imperial Overstretch",
+        "Soft Power Erosion"
+      ],
+      "motion_areas": [
+        "TH, as the West, would treat Russia as a declining power rather than a peer competitor",
+        "THBT the Ukraine war has permanently weakened Russia's global influence",
+        "THP a world where great-power status depends on alliance reliability rather than military size"
+      ],
+      "data_points": [
+        "Russia has been at war in Ukraine for more than four years since the full-scale invasion",
+        "The article describes Russia as more isolated than at any point since the earliest days of the Bolshevik Revolution",
+        "Russia has repeatedly failed to fulfill commitments to partners and allies during the war",
+        "Even Russia's closest friends are said to be hedging their bets"
       ]
     },
     {
