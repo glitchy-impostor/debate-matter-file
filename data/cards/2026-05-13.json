@@ -1,7 +1,717 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-13T20:09:42Z",
+  "last_updated": "2026-05-13T22:22:56Z",
   "cards": [
+    {
+      "id": "adedbcfed969",
+      "title": "Australia’s Budget Tax Overhaul Becomes a Fight Over Housing, Aspiration, and Intergenerational Fairness",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
+      "published": "2026-05-13T22:11:27Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "On 13 May 2026, Anthony Albanese denied that the federal government’s planned changes to negative gearing and the capital gains tax discount were designed to court younger voters, including an additional 700,000 Gen Z voters expected to be on the electoral roll by the next federal election. The government argues the tax system currently distorts investment toward housing and away from equities, while the Coalition says the changes will punish “aspirational” Australians trying to buy homes or build wealth. In parallel, Angus Taylor signalled the Coalition would fight the budget’s tax package and also unveiled a separate proposal to block many welfare payments for non-citizens across 17 programs, claiming it would save “many, many billions.”",
+      "prop_args": [
+        {
+          "thesis": "Reforming negative gearing and capital gains tax is a necessary correction to a housing market that has been structurally tilted toward speculative property investment over productive investment.",
+          "mechanisms": [
+            "First, the current tax treatment encourages capital to flow into existing housing rather than more productive assets. This is because (1) concessional treatment of property losses and capital gains raises after-tax returns on leveraged housing, (2) investors can outbid owner-occupiers in a supply-constrained market, and (3) the policy therefore channels savings away from equities and business investment, exactly as Albanese argued.",
+            "Second, grandfathering existing arrangements limits disruption while changing future incentives. Three reasons: one, current investors are not suddenly forced to unwind existing decisions; two, new-build concessions preserve incentives for additional supply rather than pure bidding wars over existing stock; three, a phased design reduces the risk of a sudden asset-price shock.",
+            "Third, the reform is pro-youth and pro-social cohesion because it narrows the wealth gap between asset owners and wage earners. This matters because (1) younger Australians are disproportionately locked out of home ownership, (2) treating labour income and asset income differently entrenches inherited advantage, and (3) a fairer tax base improves legitimacy for the broader fiscal system."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Changing negative gearing and the capital gains tax discount will not fix housing affordability and will instead reduce investment, confidence, and the ability of ordinary Australians to build wealth.",
+          "mechanisms": [
+            "First, the reform hits the marginal investor without solving the supply bottleneck. One, housing shortages are driven primarily by planning constraints, infrastructure delays, and construction capacity; two, removing tax incentives does not create new dwellings fast enough; three, lower investor demand can reduce rental supply in the short run.",
+            "Second, the policy creates uncertainty and punishes people who planned around existing rules. One, grandfathering only partially protects expectations because future policy risk remains high; two, small investors and self-managed super funds may delay purchases or exit the market; three, that can depress turnover and liquidity in the housing sector.",
+            "Third, the Coalition can frame the change as an attack on aspiration and middle-class wealth accumulation. One, many investors are not wealthy speculators but households using property as a retirement strategy; two, the tax change is politically regressive if it mainly helps future entrants while hurting current savers; three, if the goal is affordability, governments should target supply and zoning rather than tax settings."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the reform changes the structure of the housing market or merely shifts pain around it. Prop wins if it can show the tax system itself is a core driver of speculative demand and intergenerational inequality; Opp wins if it frames the real binding constraint as supply, making the tax change look like a symbolic redistribution that risks investment and rents without fixing affordability.",
+      "stock_connections": [
+        "Intergenerational inequality",
+        "Asset inflation",
+        "Tax incidence",
+        "Moral hazard",
+        "Rent-seeking",
+        "Supply-side constraints",
+        "Wealth concentration",
+        "Political economy of housing"
+      ],
+      "motion_areas": [
+        "TH, as the Australian government, would reform negative gearing and capital gains tax concessions",
+        "THBT governments should tax housing investment less favorably than productive investment",
+        "THP a world where property speculation is less tax-advantaged",
+        "THBT Australia should prioritize first-home buyers over existing property investors in tax policy"
+      ],
+      "data_points": [
+        "The government expects an additional 700,000 Gen Z voters to be added to the electoral roll by the next federal election",
+        "The Coalition says the plan would affect 17 welfare programs and save the budget 'many, many billions'",
+        "The reform would grandfather existing negative gearing arrangements and keep concessions for new builds",
+        "Albanese said the average time negative gearing operates is a little over five years before a property is sold or becomes positively geared"
+      ]
+    },
+    {
+      "id": "00a6aae44ef3",
+      "title": "A Reform-Minded Fed Chair Could Reprice U.S. Inflation, Rates, and Crypto Regulation",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/sen-mccormick-on-warsh-fed-confirmation-video",
+      "published": "2026-05-13T22:09:50Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "On 2026-05-13, Sen. Dave McCormick (R-PA) publicly backed Kevin Warsh as the right choice to lead the Federal Reserve, citing Warsh’s reform mindset, market experience, and belief that artificial intelligence will raise productivity and be deflationary. McCormick said Warsh would need to build consensus inside the Federal Open Market Committee on balance-sheet reduction and other reforms. In the same interview, McCormick also endorsed a temporary pause in the federal gas tax until the U.S. exits the Iran conflict and energy prices stabilize, and said the Clarity Act was in a good place after resolving stablecoin rewards language.",
+      "prop_args": [
+        {
+          "thesis": "A Warsh-led Fed would be better positioned to restore credibility, tighten policy discipline, and adapt monetary policy to a lower-inflation, AI-driven economy.",
+          "mechanisms": [
+            "First, a reform-oriented chair can re-anchor expectations around price stability. This is because (1) markets respond not just to current rates but to the Fed’s reaction function, (2) a chair with a reputation for discipline can reduce fears of politically motivated easing, and (3) clearer anti-inflation signaling lowers long-term borrowing costs even before policy changes.",
+            "Second, Warsh’s market experience improves the Fed’s ability to manage balance-sheet reduction and financial conditions. Three reasons: one, he is more likely to understand how QT, Treasury markets, and bank reserves interact; two, he can push for a cleaner normalization path rather than perpetual emergency-style intervention; three, a more market-literate Fed reduces the risk of policy mistakes that create asset bubbles or sudden liquidity shocks.",
+            "Third, if AI is genuinely deflationary, the Fed needs a chair willing to update its framework rather than over-tighten based on outdated inflation assumptions. This matters because (1) productivity gains can raise supply faster than demand, (2) that means the economy can sustain lower inflation without sacrificing growth, and (3) a Fed that recognizes this can avoid unnecessarily high rates that suppress investment and hiring."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A Warsh Fed risks over-tightening, politicizing monetary policy, and misreading structural inflation dynamics in a way that hurts workers and growth.",
+          "mechanisms": [
+            "First, a reform-heavy, market-friendly chair may prioritize credibility over employment, leading to excessive tightening. One, Fed leaders often overcorrect when they fear inflation reputationally; two, higher-for-longer rates hit mortgages, credit, and small business lending; three, the burden falls disproportionately on wage earners and debtors rather than on asset holders.",
+            "Second, assuming AI is deflationary can be dangerously premature. One, productivity gains are uneven and slow to diffuse across the economy; two, AI can also create demand-side inflation through capital spending, energy use, and labor reallocation; three, if the Fed leans on a speculative productivity story, it may keep policy too loose and worsen financial instability or too tight and choke off real-sector adjustment.",
+            "Third, a chair seen as a political ally of a senator and a reform crusader can weaken the Fed’s independence. One, confirmation politics can make markets read the Fed as more partisan; two, perceived politicization raises the risk that future presidents and Congresses pressure the Fed on rates; three, once independence erodes, inflation expectations become less anchored and monetary policy becomes less effective."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether credibility and reform improve the Fed’s policy function more than they risk a growth-suppressing hawkish bias. Prop wins if you think the U.S. needs a chair who can normalize policy and adapt to AI-driven disinflation; opp wins if you think the larger structural danger is politicization and over-tightening in an economy where labor and debt costs matter most.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Credibility and Inflation Expectations",
+        "Monetary Policy Transmission",
+        "Technological Deflation",
+        "Asset Bubbles",
+        "Political Capture",
+        "Tradeoff Between Inflation and Employment"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would appoint a reform-minded central banker over a consensus technocrat to lead the Federal Reserve",
+        "THBT central banks should prioritize credibility and inflation control over employment stabilization during periods of structural change",
+        "THP a world where the Federal Reserve assumes AI will materially lower inflation and productivity shocks are passed through to monetary policy faster"
+      ],
+      "data_points": [
+        "Sen. Dave McCormick (R-PA) publicly backed Kevin Warsh for Fed chair on 2026-05-13",
+        "McCormick said Warsh would need to build consensus on balance-sheet reduction and other reforms within the FOMC",
+        "McCormick described AI as likely to boost productivity and be deflationary",
+        "McCormick also backed a temporary pause in the federal gas tax until the U.S. exits the Iran conflict and energy prices stabilize",
+        "McCormick said the Clarity Act was in a 'good place' after resolving stablecoin rewards language"
+      ]
+    },
+    {
+      "id": "24f9afe18718",
+      "title": "Iran’s Missile Recovery Keeps Hormuz Crisis Alive Despite U.S. Pressure",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/iran-threat-still-there-sen-blumenthal-video",
+      "published": "2026-05-13T21:51:47Z",
+      "category": "IR",
+      "region": "Iran / United States / Strait of Hormuz",
+      "background": "On 2026-05-13, Sen. Richard Blumenthal said a New York Times report that Iran has regained access to most of its missile sites and launchers was \"certainly no surprise\" and consistent with what he has heard from reliable sources. He said Iran’s Revolutionary Guard, hard-line leadership, and enriched uranium remain in place, and argued this leaves President Trump facing a \"real dilemma\" over the Strait of Hormuz. The comments were made on Bloomberg’s \"Balance of Power\" from Capitol Hill.",
+      "prop_args": [
+        {
+          "thesis": "Iran’s restored missile and launch capacity means coercive pressure on Tehran will fail unless the U.S. is willing to accept major escalation risks.",
+          "mechanisms": [
+            "First, Iran’s retained missile infrastructure preserves credible retaliation. This is because (1) access to most missile sites and launchers means the regime can still threaten U.S. assets, Gulf shipping, and regional bases, (2) the Revolutionary Guard and hard-core leadership remain intact, so command-and-control and willingness to use force are not degraded, and (3) enriched uranium remaining in place keeps the nuclear option alive, which raises the cost of any U.S. strike or blockade.",
+            "Second, the Strait of Hormuz gives Iran asymmetric leverage over global energy flows. Three reasons: one, even limited disruption can spike insurance, freight, and oil prices far beyond the physical volume actually blocked; two, Iran does not need to win a conventional war to impose pain, only to create uncertainty about passage; three, the U.S. and its allies are structurally more exposed to market shock than Iran is to short-term military attrition.",
+            "Third, this creates a deterrence trap for Washington. This matters because any attempt to force capitulation risks either (1) a wider regional war, (2) a global energy shock that hits U.S. consumers and allies, or (3) a humiliating climbdown that signals U.S. threats are not credible."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Iran’s missile recovery does not meaningfully improve its strategic position because U.S. and allied deterrence still dominate the escalation ladder.",
+          "mechanisms": [
+            "First, Iran’s capabilities are survivable but not decisive. One, having access to launchers does not mean it can sustain a prolonged exchange against superior U.S. intelligence, airpower, and missile defense; two, the Strait of Hormuz is heavily monitored, so overt disruption is easier to detect and punish; three, Iran’s economy and regime stability are far more fragile than the U.S.-led coalition’s, making escalation costly for Tehran.",
+            "Second, the existence of enriched uranium and missile sites strengthens bargaining leverage for diplomacy rather than war. One, the threat can be used to force negotiations and sanctions relief; two, Iran’s leadership may prefer regime survival over confrontation, especially if the alternative is devastating strikes; three, the U.S. can use targeted sanctions, interdiction, and coalition pressure to contain Iran without immediate military escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether restored missile access converts into usable coercive power or just a renewed bargaining chip. This argument wins because the Strait of Hormuz is a global chokepoint: even a small chance of disruption forces the U.S. to treat Iran as a high-cost escalation problem, while Iran only needs to credibly threaten pain to shape outcomes.",
+      "stock_connections": [
+        "Deterrence",
+        "Security Dilemma",
+        "Escalation Dominance",
+        "Chokepoint Leverage",
+        "Mutually Assured Destruction",
+        "Coercive Diplomacy",
+        "Regional Arms Race",
+        "Energy Security"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize deterrence over diplomacy with Iran",
+        "THBT the U.S. should use military threats to prevent Iran from closing the Strait of Hormuz",
+        "THP a world where Iran retains the ability to rapidly reconstitute missile forces after strikes"
+      ],
+      "data_points": [
+        "New York Times report: Iran has regained access to most of its missile sites and launchers",
+        "Blumenthal said the report was \"certainly no surprise\" and consistent with reliable sources",
+        "Iran’s Revolutionary Guard and hard-core leadership remain in place",
+        "Iran still has enriched uranium",
+        "The Strait of Hormuz remains a central pressure point in U.S.-Iran tensions"
+      ]
+    },
+    {
+      "id": "33b5d54efb00",
+      "title": "Trump-Xi Summit Exposes Two Superpowers Running on Myths, Not Momentum",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/trump-xi-summit-us-china-relations/",
+      "published": "2026-05-13T21:36:24Z",
+      "category": "IR",
+      "region": "United States / China / Global",
+      "background": "In a summit in Beijing this week, U.S. President Donald Trump met Chinese leader Xi Jinping for their second-ever summit in China. The article argues that both leaders are overconfident about their own systems: Trump is portrayed as overestimating U.S. coercive power after actions including a $1.5 trillion military budget push, tariffs on allies, and a failed Iran escalation; Xi is portrayed as overestimating China’s rise despite a third mandate, ongoing military corruption purges, and heavy state subsidies in sectors like EVs and solar. The piece frames the broader context as a period of global power fragmentation, with middle powers rising and both superpowers facing structural vulnerabilities.",
+      "prop_args": [
+        {
+          "thesis": "The summit matters because both the U.S. and China are led by elites whose self-mythology is making them strategically overconfident, which increases the risk of miscalculation and instability.",
+          "mechanisms": [
+            "First, overconfidence distorts threat perception and produces bad strategy. This is because (1) Trump’s circle reads isolated successes, like pressure on Venezuela, as proof that larger powers such as Iran or China can be coerced the same way; (2) Xi’s camp treats China’s industrial gains as proof of inevitable ascent, even though per-capita income remains far below the U.S. and key sectors still depend on subsidies; (3) when leaders believe their own propaganda, they ignore constraints, overreach, and then absorb larger strategic losses.",
+            "Second, myth-driven leadership weakens institutional reliability on both sides. Three reasons: one, Trump’s politicization of institutions like the Justice Department and Federal Reserve reduces state capacity and makes policy more erratic; two, Xi’s repeated purges of the military signal either real corruption or paranoid centralization, both of which undermine operational trust; three, when institutions become instruments of leader ego rather than competence, crises become harder to manage and deterrence becomes less credible.",
+            "Third, this matters because the main danger in U.S.-China relations is not a clean hegemonic transition but a period of fragmented, unstable competition. The article’s core claim is that both sides are vulnerable while still acting like ascendant powers, so the result is more likely to be arms-race escalation, alliance disruption, and accidental conflict than orderly leadership."
+          ]
+        },
+        {
+          "thesis": "China’s rise is real but overstated, and its structural weaknesses mean the U.S. still has durable advantages in any long-run competition.",
+          "mechanisms": [
+            "First, China’s headline strengths conceal low-quality growth. This is because (1) EVs and solar have expanded through lavish subsidies that create duplication and thin margins; (2) industrial scale does not equal sustainable profitability, so apparent dominance may not translate into long-term national power; (3) a system that relies on state-directed overinvestment is vulnerable to debt, inefficiency, and policy reversal.",
+            "Second, China still lags in the fundamentals that determine comprehensive power. Three reasons: one, it is still not overtaking the U.S. as the world’s largest economy; two, Chinese per-capita income remains vastly smaller than America’s, limiting domestic consumption and resilience; three, the U.S. remains ahead in frontier sectors like AI, finance, private space launch, and supercomputing, which shape future military and economic leverage.",
+            "Third, military modernization does not eliminate strategic weakness. Even with a stronger navy, submarines, and missile forces, the PLA is untested in war and plagued by corruption and loyalty problems, meaning China may look formidable in peacetime but remain brittle in a real conflict."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Despite their flaws, both powers remain structurally dominant enough that the real story is not myth but enduring superpower competition with clear material asymmetries.",
+          "mechanisms": [
+            "First, the U.S. still possesses unmatched alliance networks and frontier capabilities. One, even if Trump damages soft power, America retains deep military, financial, and technological advantages that no rival can quickly replicate; two, control over finance, AI, and advanced innovation gives Washington leverage that outlasts any one administration; three, allies may grumble but still depend on the U.S. security umbrella against China.",
+            "Second, China’s vulnerabilities do not prevent it from being a serious near-peer challenger in Asia. One, naval expansion, submarines, carriers, and missile forces materially complicate U.S. intervention in the Western Pacific; two, even an untested military can still deter if the cost of testing it is high enough; three, subsidies and state direction can sustain strategic sectors long enough to shift the regional balance before inefficiencies bite.",
+            "Third, the article underestimates how much nationalism and regime legitimacy can compensate for weakness. One, both regimes can mobilize populations around external rivalry, making them more resilient than liberal commentators assume; two, even if elites overestimate themselves, bureaucracies and markets can correct some errors; three, the competition may therefore be less about collapse and more about prolonged, managed rivalry."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether overconfidence is a decisive strategic weakness or just noise around still-enormous material power. Prop wins if the round is about miscalculation, escalation, and institutional decay; opp wins if the round is about raw capability, because both states still have enough military and economic depth to dominate the international system despite their myths.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Miscalculation",
+        "Overextension",
+        "Soft Power Decline",
+        "Authoritarian Resilience",
+        "State Capacity",
+        "Military Modernization",
+        "Hegemonic Transition",
+        "Alliance Politics"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize strategic retrenchment over global primacy",
+        "THBT the U.S. should stop treating China as an inevitable peer competitor",
+        "THP a world where U.S.-China rivalry is managed through mutual restraint rather than dominance-seeking",
+        "THBT China’s rise is more fragile than commonly assumed",
+        "THBT great power overconfidence is the main driver of modern international instability"
+      ],
+      "data_points": [
+        "$1.5 trillion U.S. military budget increase cited in the article",
+        "Trump and Xi met in Beijing in their second-ever summit in China",
+        "Xi is in his unprecedented third mandate as head of the Chinese state and Communist Party",
+        "China is still not overtaking the United States as the world’s largest economy",
+        "Chinese per-capita income remains vastly smaller than U.S. per-capita income",
+        "China has expanded naval power with new submarines and aircraft carriers",
+        "China’s military has undergone repeated high-level purges under Xi",
+        "U.S. frontier advantages cited in AI, private space launch, supercomputing, banking, and finance",
+        "Trump’s second term is described as involving arbitrary tariffs on allies and extortion demands toward Japan and South Korea"
+      ]
+    },
+    {
+      "id": "e7e6e22b6771",
+      "title": "Trump Administration Uses Fraud Crackdown to Threaten State Medicaid Funding and Centralize Control",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/jd-vance-anti-fraud-medicare-medicaid",
+      "published": "2026-05-13T21:20:28Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "On Wednesday, Vice-President JD Vance said states that do not cooperate with the Trump administration’s anti-fraud campaign could have federal Medicaid and Medicare funding “turned off.” The Centers for Medicare and Medicaid Services (CMS) also announced a six-month halt on new Medicare enrollment for hospices and home health agencies while it investigates suspected fraud. The administration has already targeted Minnesota and three other Democratic-led states, and CMS said states including Arizona, California, Georgia, Ohio, Nevada and Texas face elevated fraud risk. More than $300m in funding had previously been halted to Minnesota, and Congress cut nearly $1tn from Medicaid spending last year, affecting 7.5 million low-income people.",
+      "prop_args": [
+        {
+          "thesis": "Using federal funding threats to force anti-fraud compliance improves program integrity and deters state-level negligence that enables theft from Medicaid and Medicare.",
+          "mechanisms": [
+            "First, it creates a credible enforcement threat that states cannot ignore. This works because (1) Medicaid is jointly funded and states depend on federal matching dollars, so even the possibility of defunding changes incentives immediately; (2) state agencies often underinvest in fraud detection because the political costs are local but the benefits of enforcement are diffuse; (3) a hard penalty forces governors and Medicaid offices to prioritize audits, oversight, and provider screening rather than treating fraud as a low-priority administrative issue.",
+            "Second, it targets a real source of waste in a system with weak gatekeeping. Three reasons: one, CMS itself says new home health and hospice providers are a key source of fraudulent activity; two, the administration is focusing on Medicaid Fraud Control Units and provider enrollment, which are exactly the choke points where bad actors enter the system; three, if states know federal money is at risk, they are more likely to cooperate with investigations and tighten licensing, billing, and reimbursement checks.",
+            "Third, the policy protects long-term fiscal sustainability and preserves benefits for legitimate recipients. This matters because (1) every dollar stolen through fraud is a dollar unavailable for seniors, disabled people, and low-income families; (2) reducing fraud can slow the political pressure for broader cuts by showing the program can be made more accountable; (3) even if some short-term disruption occurs, the net effect is a stronger safety net with less leakage and less public backlash against Medicaid and Medicare."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Threatening to cut off Medicaid and Medicare funding is an unlawful, politically selective tactic that punishes patients and states for partisan reasons rather than actually reducing fraud.",
+          "mechanisms": [
+            "First, the threat is likely beyond legal authority and therefore creates arbitrary governance. One, experts cited in the article say there is no statutory or regulatory basis for withholding all federal Medicaid matching funds because a state-level fraud unit is underperforming; two, CMS has never used such a sweeping penalty before, which means the administration is improvising coercive power rather than applying settled rules; three, if states cannot predict the penalty standard, enforcement becomes a political weapon instead of a neutral anti-fraud regime.",
+            "Second, the policy harms innocent beneficiaries far more than it hurts fraudsters. One, Medicaid and Medicare funding pays for care for low-income people, seniors, and disabled patients, not just administrative overhead; two, states facing funding uncertainty may cut provider payments, reduce services, or tighten eligibility, which delays care and worsens health outcomes; three, fraud is usually committed by bad companies and lax oversight, so broad defunding hits the wrong target while leaving sophisticated fraud networks intact.",
+            "Third, the crackdown can reduce fraud detection capacity by destabilizing the very institutions meant to police abuse. This is because (1) audits and enrollment freezes can overwhelm agencies and discourage legitimate providers from participating; (2) states may become more defensive and less cooperative with federal investigators if they fear punishment; (3) the administration’s own record of reinstating hundreds of suspected fraudulent brokers undercuts the claim that this is a serious integrity effort rather than selective enforcement."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive federal pressure actually improves integrity or simply shifts costs onto patients and states. Prop has the structural advantage on deterrence if the penalty is credible, but Opp is stronger on legality, proportionality, and the fact that the immediate harm falls on innocent enrollees rather than fraudsters.",
+      "stock_connections": [
+        "Federalism",
+        "Centralization vs Local Control",
+        "Moral Hazard",
+        "Regulatory Capture",
+        "Punitive Enforcement",
+        "Welfare Retrenchment",
+        "Administrative Overreach",
+        "Race to the Bottom",
+        "Access vs Efficiency"
+      ],
+      "motion_areas": [
+        "TH, as the federal government, would condition Medicaid funding on state anti-fraud compliance",
+        "THBT governments should use financial penalties to force subnational compliance with welfare integrity rules",
+        "THP a world where federal health funding can be withheld from states for administrative noncompliance"
+      ],
+      "data_points": [
+        "$300m in Medicaid funding was previously halted to Minnesota",
+        "Congress cut nearly $1tn in Medicaid spending last year",
+        "Those cuts affected 7.5 million low-income people",
+        "CMS announced a six-month halt on new Medicare enrollment for hospices and home health agencies",
+        "CMS identified Arizona, California, Georgia, Ohio, Nevada and Texas as elevated fraud-risk states",
+        "About 850 agents and brokers suspected of fraud were reinstated under the Trump administration",
+        "The administration says new home health and hospice providers are a key source of fraudulent activity"
+      ]
+    },
+    {
+      "id": "4803bd9a2fb0",
+      "title": "Trump Risks Trading Taiwan Security and Tech Access for a Fragile U.S.-China Trade Truce",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/trump-china-xi-jinping-summit-trade-rare-earths-artificial-intelligence/",
+      "published": "2026-05-13T20:43:53Z",
+      "category": "Econ",
+      "region": "United States / China / Taiwan",
+      "background": "U.S. President Donald Trump arrived in Beijing on Wednesday for a summit with Chinese President Xi Jinping, with trade set to dominate the agenda. The White House is seeking new deals to cut the U.S. trade deficit and is expected to prioritize a rare-earths truce and market access for American tech firms, including AI companies. In October, Washington said Beijing agreed to effectively eliminate export controls on rare earth elements in exchange for reduced U.S. tariffs, but Chinese customs data still shows exports of several critical resources remain roughly 50 percent below pre-April 2025 levels. Xi is also expected to press Trump on Taiwan, after Washington announced an $11.1 billion arms sale to Taipei in December.",
+      "prop_args": [
+        {
+          "thesis": "A trade-first summit is rational because it can secure immediate economic gains and reduce the risk of a broader U.S.-China escalation.",
+          "mechanisms": [
+            "First, prioritizing trade can lock in a rare-earths supply truce. This is because (1) China still dominates the production of several critical resources, (2) exports remain about 50 percent below pre-control levels, and (3) U.S. industries from defense to electronics are exposed to supply shocks if Beijing reimposes controls.",
+            "Second, a deal on market access and tariffs can deliver visible domestic wins for Trump. Three reasons: one, the White House is explicitly trying to reduce the trade deficit; two, lower tariffs can ease consumer price pressure in the U.S.; three, business leaders like Jensen Huang, Tim Cook, Elon Musk, and Kelly Ortberg signal that major firms want stability more than confrontation.",
+            "Third, narrowing the summit to economics lowers the chance of a security spiral. This matters because (1) if both sides can claim a win on trade, there is less incentive to escalate over Taiwan or tech export controls, (2) predictable commercial ties create channels for future bargaining, and (3) even a limited truce can buy time for U.S. firms to adapt supply chains."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Putting trade above security invites strategic concession and weakens U.S. leverage against China.",
+          "mechanisms": [
+            "First, Trump may trade away Taiwan support for short-term economic gains. One, Xi has a clear incentive to demand delayed or reduced arms deliveries to Taipei; two, Trump has already signaled openness by saying he will discuss whether the U.S. should still sell weapons to Taiwan; three, any perceived softening undermines deterrence because Beijing learns coercion can buy concessions.",
+            "Second, a trade-only approach rewards Chinese coercive leverage rather than changing it. One, China has already used rare-earth export controls as pressure; two, if the U.S. responds by bargaining for partial relief instead of imposing costs, Beijing learns that supply-chain chokepoints are effective tools; three, this encourages future economic blackmail in other sectors like AI chips and critical minerals.",
+            "Third, opening Chinese markets to U.S. tech can accelerate China’s long-term competitiveness. One, American firms may transfer know-how, standards, and ecosystem advantages into China; two, China already has cost advantages in AI deployment and scale; three, any short-term export or sales win may strengthen a strategic rival that can later outcompete U.S. firms globally."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the summit produces durable economic stability or merely purchases short-term calm at the cost of strategic leverage. Pro-trade wins if you prioritize immediate supply-chain relief and domestic price effects; opposition wins if you think concessions on Taiwan and tech create irreversible security and competitiveness losses.",
+      "stock_connections": [
+        "Interdependence as Peace",
+        "Economic Statecraft",
+        "Trade-Offs Between Security and Prosperity",
+        "Coercive Diplomacy",
+        "Deterrence",
+        "Technology Transfer",
+        "Strategic Dependence",
+        "Great Power Rivalry"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize trade over security concerns in negotiations with China",
+        "THBT the United States should trade market access for Chinese concessions on rare earths",
+        "THP a world where major powers can de-escalate rivalry through economic deals rather than security commitments"
+      ],
+      "data_points": [
+        "Trump arrived in Beijing on Wednesday for a summit with Xi Jinping, his first visit to mainland China in nearly a decade",
+        "The White House said in October that Beijing agreed to effectively eliminate current and proposed export controls on rare earth elements",
+        "Chinese customs data shows exports of several critical resources remain roughly 50 percent lower than the 12 months before April 2025 controls",
+        "The U.S. announced an $11.1 billion arms sale to Taiwan in December",
+        "A senior Defense Department official said the Iran war has already cost $29 billion, illustrating the domestic fiscal pressure shaping Trump’s foreign policy"
+      ]
+    },
+    {
+      "id": "8c625302080a",
+      "title": "Trump–Xi Summit Trades Taiwan and Tech Access for a Fragile U.S.-China Economic Truce",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/trump-china-xi-jinping-trade-rare-earths-artificial-intelligence/",
+      "published": "2026-05-13T20:43:49Z",
+      "category": "Econ",
+      "region": "United States / China",
+      "background": "Donald Trump arrived in Beijing on May 13, 2026, ahead of a summit with Xi Jinping the next day. The talks are expected to focus on extending a fragile truce over Chinese rare earth exports, with the White House having said in October that Beijing agreed to “effectively eliminate” current and proposed export controls on rare earth elements in exchange for reduced U.S. tariff threats. The summit is also expected to cover artificial intelligence market access and Taiwan, including Washington’s $11.1 billion arms sale to Taipei announced in December.",
+      "prop_args": [
+        {
+          "thesis": "A transactional summit can stabilize the world’s two largest economies by reducing immediate trade and supply-chain shocks.",
+          "mechanisms": [
+            "First, a rare-earths deal lowers the risk of sudden industrial bottlenecks. This is because (1) China dominates critical mineral processing and export controls can instantly hit U.S. manufacturing, (2) the October truce already shows both sides can trade concessions for predictability, and (3) keeping flows open protects sectors like EVs, semiconductors, and defense supply chains from price spikes and delays.",
+            "Second, limited market-opening on AI can improve efficiency and growth on both sides. Three reasons: one, U.S. firms gain access to the world’s largest consumer market, two, Chinese firms face stronger competition and technology diffusion, and three, cross-border commercial ties create constituencies that prefer stability over escalation.",
+            "Third, de-escalating on Taiwan in exchange for economic gains can reduce the chance of accidental crisis. This matters because even if the underlying dispute remains, delaying arms deliveries or softening rhetoric can buy time, lower signaling intensity, and prevent a trade summit from collapsing into broader strategic confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A deal built on concessions over Taiwan and tech access rewards coercion and makes future Chinese pressure more effective.",
+          "mechanisms": [
+            "First, it normalizes hostage diplomacy. (1) If Beijing learns it can extract trade or market-access concessions by threatening rare-earth supply or escalating on Taiwan, (2) it has stronger incentives to repeat the tactic, and (3) the U.S. becomes more vulnerable in every future negotiation.",
+            "Second, short-term economic relief can weaken long-term strategic competition. (1) Allowing major U.S. tech companies into China risks forced spillovers, data exposure, and regulatory capture, (2) delaying arms deliveries to Taiwan undermines deterrence by signaling wavering U.S. commitment, and (3) the result is a more confident China facing a more divided U.S. coalition.",
+            "Third, the deal may be unstable because the underlying conflict is structural, not transactional. (1) Rare-earth dependence, AI rivalry, and Taiwan are all tied to core national-security interests, (2) any side can renege once it gets what it wants, and (3) the summit could therefore produce only temporary calm while increasing the odds of a larger future rupture."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether immediate economic stability outweighs the long-term cost of legitimizing coercive leverage. Prop wins if the judge prioritizes supply-chain continuity and crisis avoidance; opp wins if they think concessions on Taiwan and tech create a more dangerous strategic equilibrium that is harder to reverse.",
+      "stock_connections": [
+        "Interdependence as Peace",
+        "Coercive Diplomacy",
+        "Hostage Diplomacy",
+        "Security Dilemma",
+        "Trade War Escalation",
+        "Technological Decoupling",
+        "Deterrence",
+        "Great Power Competition"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize trade détente with China over Taiwan signaling",
+        "THBT the United States should trade market access for Chinese cooperation on rare earth exports",
+        "THP a world where U.S.-China economic competition is managed through summit-level bargains",
+        "THBT states should not use Taiwan as leverage in broader economic negotiations with China"
+      ],
+      "data_points": [
+        "Trump arrived in Beijing on May 13, 2026, for a summit with Xi Jinping the following day",
+        "In October, the White House said Beijing agreed to “effectively eliminate China’s current and proposed export controls on rare earth elements”",
+        "The U.S. reduced some of its highest threatened tariffs on Chinese goods in exchange for the rare-earth truce",
+        "The U.S. announced an $11.1 billion arms sale to Taiwan in December",
+        "China is described as taking the lead in the global AI race, while U.S. models remain cutting-edge but expensive"
+      ]
+    },
+    {
+      "id": "83869bef0dfc",
+      "title": "India Uses BRICS to Hedge Against the West, but Bloc Expansion Risks Paralysis",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/india-brics-new-delhi-hosts-foreign-minister-summit/",
+      "published": "2026-05-13T20:34:15Z",
+      "category": "IR",
+      "region": "India / BRICS / Global South",
+      "background": "India is hosting the BRICS foreign ministers’ meeting in New Delhi on Thursday and Friday as chair of the bloc, with the annual leaders’ summit due in September. BRICS has expanded beyond the original five members to include Egypt, Ethiopia, Indonesia, Iran, and the UAE, while Saudi Arabia also participates in BRICS activities. The article notes that the 2024 BRICS leaders’ summit in Russia drew representatives from 35 countries and several international organizations, but the bloc’s consensus model is now under strain from conflicts among new members, especially Iran-UAE and Egypt-Ethiopia tensions, as well as the Iran war.",
+      "prop_args": [
+        {
+          "thesis": "India’s continued backing of BRICS is strategically rational because it gives New Delhi leverage to hedge between the West and the non-West while preserving autonomy in a more fragmented world.",
+          "mechanisms": [
+            "First, BRICS gives India a coalition platform without formal alliance costs. This is because (1) India can deepen ties with the West while still engaging Russia, Iran, the Gulf, and other Global South states, (2) the bloc’s broad membership lets India avoid binary alignment in U.S.-China competition, and (3) India can extract diplomatic prestige by chairing a forum that includes major regional powers and attracts wider attendance.",
+            "Second, BRICS advances Indian foreign-policy priorities that the West has historically under-delivered on. Three reasons: one, it keeps UN reform and Global South representation on the agenda; two, it creates space to discuss sanctions circumvention and alternative financial architecture; three, it lets India present itself as a leader of the developing world rather than a junior partner in Western-led institutions.",
+            "Third, BRICS expansion actually helps India if it dilutes anti-Western cohesion. This matters because (1) most new members besides Iran are also aligned with the West, (2) that makes BRICS less likely to become an overt anti-American bloc, and (3) a looser, more plural forum is ideal for India, which wants access and flexibility rather than ideological discipline."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "India should stop overinvesting in BRICS because the bloc’s expansion and internal rivalries now make it a low-yield forum that can damage India’s credibility without delivering concrete gains.",
+          "mechanisms": [
+            "First, BRICS consensus politics create paralysis rather than power. One, the new members have direct conflicts such as Iran versus the UAE and Egypt versus Ethiopia; two, consensus means any one member can block substantive outcomes; three, this makes joint statements vague and prevents real institutional progress like a BRICS bank or coordinated policy.",
+            "Second, India’s association with BRICS increasingly creates diplomatic downside with the West. One, even if India does not intend BRICS to be anti-Western, the bloc is still framed as a challenger to U.S.-led order; two, Trump’s threat of 100 percent tariffs shows the West may respond coercively to BRICS symbolism; three, India risks being caught in retaliatory politics despite not sharing the most radical members’ goals.",
+            "Third, BRICS can entangle India in conflicts and rivalries it cannot manage. One, India’s relations with Iran are fragile because of its growing ties with the UAE and Saudi Arabia; two, the Iran war can derail summit outcomes and force India to mediate disputes it cannot solve; three, if India cannot deliver a substantive summit, it weakens New Delhi’s image as a competent convenor."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether BRICS is a strategic hedge or a reputational trap. Prop wins if the round is about autonomy and optionality in a multipolar order; opp wins if the judge prioritizes concrete institutional output and the costs of being tied to a dysfunctional, increasingly politicized bloc.",
+      "stock_connections": [
+        "Multipolarity",
+        "Hedging",
+        "Soft Balancing",
+        "Institutional Paralysis",
+        "Consensus Decision-Making",
+        "Anti-Western Bloc Formation",
+        "Great Power Competition",
+        "Global South Solidarity",
+        "Sanctions Evasion",
+        "Alliance Entanglement"
+      ],
+      "motion_areas": [
+        "TH, as India, would continue to prioritize BRICS membership and leadership",
+        "THBT middle powers should hedge through blocs like BRICS rather than align with the West",
+        "THP a world in which BRICS becomes a major alternative forum to Western-led institutions"
+      ],
+      "data_points": [
+        "BRICS expanded in 2024-25 to include Egypt, Ethiopia, Indonesia, Iran, and the UAE, alongside Brazil, Russia, India, China, and South Africa",
+        "The 2024 BRICS leaders’ summit in Russia featured representatives from 35 countries and several international organizations, including the U.N. secretary-general",
+        "Trump threatened 100 percent tariffs on BRICS countries if the bloc undermines the U.S. dollar",
+        "China is sending only its ambassador to the New Delhi summit, not high-level representation",
+        "India is hosting the BRICS foreign ministers’ meeting on Thursday and Friday, with the annual leaders’ summit scheduled for September",
+        "Saudi Arabia participates in BRICS activities despite not being a formal member"
+      ]
+    },
+    {
+      "id": "84176e3df45b",
+      "title": "US-China Summit Becomes a Test of Whether AI Rivalry Overrides Trade and Iran Cooperation",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-13/us-china-tension-over-ai-loom-over-trump-s-summit-with-xi",
+      "published": "2026-05-13T20:31:29Z",
+      "category": "IR",
+      "region": "United States / China / Iran",
+      "background": "US President Donald Trump and Chinese President Xi Jinping are scheduled to meet on Thursday morning in Beijing, according to the White House. Bloomberg reports the summit is expected to focus heavily on trade and the war in Iran, while tensions over artificial intelligence also loom over the talks. The meeting comes at a moment of heightened strategic competition between Washington and Beijing, with both sides weighing whether to cooperate on immediate crises or intensify rivalry over advanced technology.",
+      "prop_args": [
+        {
+          "thesis": "The summit will push the US and China toward a more explicit technology containment regime, because AI competition is now inseparable from military and economic power.",
+          "mechanisms": [
+            "First, AI is a dual-use technology, so any concession in the summit is read as a security concession. This is because (1) frontier models can improve intelligence, targeting, cyber operations, and autonomous systems, (2) export controls on chips and compute become national security tools rather than commercial policy, and (3) both governments face domestic pressure to avoid appearing weak on strategic technology.",
+            "Second, the summit incentivizes decoupling in the most sensitive parts of the AI stack. Three reasons: one, the US can use the meeting to justify tighter limits on advanced semiconductors, cloud access, and model training infrastructure; two, China can respond by accelerating indigenous substitution and restricting market access for US firms; three, once firms anticipate political risk, they re-route supply chains and investment away from cross-border dependence.",
+            "Third, this matters because AI rivalry spills into broader geopolitical bargaining. This is because (1) if each side believes the other can gain battlefield or surveillance advantages from AI, compromise on trade becomes harder, (2) technology disputes poison trust needed for coordination on Iran, and (3) the result is a durable bloc structure where economic interdependence is subordinated to security competition."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit will moderate AI tensions because both sides need limited cooperation to avoid escalation and preserve economic stability.",
+          "mechanisms": [
+            "First, leaders have incentives to compartmentalize AI from the rest of the relationship. One, Trump and Xi can frame AI as a managed competition issue rather than a crisis trigger; two, both economies still benefit from trade and investment flows that would be damaged by a full tech rupture; three, summit diplomacy often produces signaling commitments even when underlying rivalry remains.",
+            "Second, immediate geopolitical crises like the war in Iran can crowd out maximalist AI confrontation. One, both governments may prioritize deconfliction and crisis management over symbolic tech escalation; two, shared interest in preventing wider regional instability creates room for pragmatic bargaining; three, when the agenda is dominated by urgent security issues, AI becomes a secondary file that is easier to postpone or soften.",
+            "Third, limited cooperation can reduce the risk of an uncontrolled arms race. One, dialogue on AI safety, standards, and incident prevention lowers misperception; two, even adversaries can agree on guardrails for military use and export enforcement; three, preserving channels of communication is better for both sides than forcing a zero-sum race that raises the chance of accidental escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI is treated as a narrow bargaining chip or a core national-security frontier. Prop wins if you believe strategic distrust dominates and turns every summit into a step toward decoupling; opp wins if you think leaders can compartmentalize and use summit diplomacy to slow escalation without resolving rivalry.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Decoupling",
+        "Tech Cold War",
+        "Arms Race",
+        "Compartmentalization in Diplomacy",
+        "Economic Interdependence",
+        "Deterrence",
+        "Escalation Management"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize AI containment over trade concessions in negotiations with China",
+        "THBT major powers should treat frontier AI as a national security issue rather than a commercial one",
+        "THP a world where US-China summit diplomacy is used to manage AI rivalry",
+        "TH, as China, would retaliate against US AI export controls with reciprocal technology restrictions"
+      ],
+      "data_points": [
+        "Trump and Xi are scheduled to meet Thursday morning in Beijing, according to the White House",
+        "The summit is described as 'high-stakes' and expected to be dominated by trade and the war in Iran",
+        "The article flags AI tensions as a major issue looming over the meeting"
+      ]
+    },
+    {
+      "id": "43f7bd9773fa",
+      "title": "US-China AI Safety Cooperation Becomes a Strategic Necessity Amid Great-Power Rivalry",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/why-the-us-must-engage-china-on-ai-safety-before-it-s-game-over",
+      "published": "2026-05-13T20:27:03Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "The article is framed around the argument that the US should engage China on AI safety before strategic competition makes cooperation impossible. The only concrete event in the provided text is the first face-to-face meeting in six years between Donald Trump and Xi Jinping on October 30, 2025, held at Gimhae Air Base in Busan, where the two leaders sought a truce to end a trade war that had roiled the world economy. The piece situates AI safety within broader US-China rivalry, implying that the window for bilateral coordination is narrowing as competition intensifies.",
+      "prop_args": [
+        {
+          "thesis": "The US should engage China on AI safety now because cooperation is the only realistic way to reduce catastrophic miscalculation in a domain where both sides are racing ahead.",
+          "mechanisms": [
+            "First, bilateral engagement creates minimum safety standards before competitive pressure hardens into an uncontrolled arms race. This is because (1) both states have incentives to deploy models quickly for military and economic advantage, (2) unilateral restraint is fragile when the other side can free-ride, and (3) even limited talks can establish red lines around model testing, deployment, and incident reporting.",
+            "Second, engagement reduces the risk of accidental escalation from AI-enabled military or cyber systems. Three reasons: one, AI systems can compress decision time and increase the chance of false positives in crisis settings; two, shared protocols for attribution and emergency communication lower the odds that a technical failure becomes a geopolitical incident; three, regular contact builds trust channels that matter most during a fast-moving crisis.",
+            "Third, cooperation is strategically valuable because it preserves US leadership over the rules of the game. This matters because if Washington refuses to engage, Beijing can frame itself as the responsible actor, attract third-country support for its standards, and lock in norms that the US later has to accept rather than shape."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The US should avoid deep AI safety engagement with China because it risks transferring strategic knowledge while giving Beijing diplomatic cover without meaningful restraint.",
+          "mechanisms": [
+            "First, talks can become a channel for intelligence leakage and capability signaling. One, AI safety discussions often require disclosure of model architecture, testing methods, or compute governance practices; two, China can use that information to benchmark its own systems and accelerate military applications; three, the US may end up revealing more than it gains because verification in this space is weak.",
+            "Second, engagement can legitimize a rival that is structurally unlikely to comply. One, China has incentives to sign symbolic agreements while continuing opaque military-civil fusion efforts; two, weak enforcement means commitments are hard to monitor and easy to violate; three, the US may soften allied pressure by creating the appearance of progress without actual constraint.",
+            "Third, cooperation may blunt deterrence by signaling that the US sees AI as a shared governance issue rather than a competitive domain. This matters because (1) Beijing may interpret dialogue as evidence that Washington fears escalation and wants accommodation, (2) that reduces pressure on China to slow deployment, and (3) it can embolden more aggressive experimentation under the cover of diplomacy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI risk is primarily a coordination problem or a security problem. Pro side wins if the round prioritizes catastrophic downside and the need for even imperfect guardrails; opposition wins if they prove engagement is non-verifiable, strategically leaky, and mostly symbolic.",
+      "stock_connections": [
+        "Security dilemma",
+        "Arms race dynamics",
+        "Moral hazard",
+        "Verification problem",
+        "Great power competition",
+        "Confidence-building measures",
+        "Deterrence theory",
+        "Dual-use technology diffusion"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue bilateral AI safety talks with China",
+        "THBT great powers should cooperate on AI safety even amid strategic rivalry",
+        "THP a world where the US and China establish formal AI incident hotlines and safety protocols"
+      ],
+      "data_points": [
+        "Trump and Xi held their first face-to-face meeting in six years on October 30, 2025, in Busan at Gimhae Air Base",
+        "The meeting was described as seeking a truce to end a trade war that had roiled the world economy",
+        "The article’s framing implies AI safety diplomacy is being considered in the context of renewed US-China strategic engagement"
+      ]
+    },
+    {
+      "id": "72454270e167",
+      "title": "U.S.-Iran Standoff in the Strait of Hormuz Threatens Global Energy Security and Regional Escalation",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5819718/in-hormuz-deadlock-u-s-and-iran-refuse-to-back-down",
+      "published": "2026-05-13T20:16:37Z",
+      "category": "IR",
+      "region": "Strait of Hormuz / United States / Iran",
+      "background": "NPR reports that the United States and Iran are deadlocked over the Strait of Hormuz, with neither side willing to back down. The Strait is one of the world’s most important maritime chokepoints, carrying a large share of global oil and liquefied natural gas exports from the Gulf. The article frames the situation as unresolved and potentially dangerous, but provides no further operational details in the text supplied.",
+      "prop_args": [
+        {
+          "thesis": "A firm U.S. posture in the Strait of Hormuz is necessary to deter Iranian coercion and preserve the credibility of the global maritime order.",
+          "mechanisms": [
+            "First, deterrence only works if Iran believes disruption will be met with costs. This is because (1) the Strait is a narrow chokepoint where even limited harassment can create outsized market panic, (2) if the U.S. signals hesitation, Iran can test red lines incrementally without triggering a response, and (3) repeated unpunished brinkmanship normalizes coercion and makes future threats cheaper to execute.",
+            "Second, U.S. resolve protects the wider shipping system from becoming hostage to regional revisionism. Three reasons: one, the Strait is not just a bilateral issue but a global commons for energy transit; two, allies in Europe and Asia depend on predictable Gulf flows and U.S. security guarantees; three, allowing Iran to dictate access would encourage other states to weaponize chokepoints in their own regions.",
+            "Third, even if tensions rise in the short term, credibility and stability improve over time when the U.S. demonstrates it will defend freedom of navigation. This matters because a one-time show of weakness can produce a long-run equilibrium of higher insurance costs, rerouted trade, and more frequent crises."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Escalatory U.S. pressure in the Strait of Hormuz is more likely to provoke conflict and economic shock than to restore stability.",
+          "mechanisms": [
+            "First, military brinkmanship creates a classic escalation ladder. One, the Strait is so strategically sensitive that even minor incidents can be misread as preparation for attack; two, both sides have incentives to save face, making de-escalation politically costly; three, once assets are deployed, commanders on the ground have less room to avoid accidental clashes.",
+            "Second, the economic costs of confrontation are immediate and global, while the supposed deterrent benefits are uncertain. One, oil and shipping markets react within hours to perceived risk, raising prices and insurance premiums; two, import-dependent states bear the cost even if no shots are fired; three, those costs can outlast the crisis and weaken the broader world economy.",
+            "Third, hardline U.S. policy can strengthen Iranian domestic hardliners and reduce the chance of diplomacy. This is because (1) external pressure lets Tehran frame compromise as capitulation, (2) moderates lose leverage when security threats dominate politics, and (3) sanctions-plus-threats often entrench the very regime behavior they aim to change."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether resolve prevents future coercion or whether it triggers immediate escalation in a chokepoint where small incidents have global consequences. Prop wins if the round is about long-run order and deterrence; Opp wins if the round prioritizes the high probability of accidental war and the certainty of short-term economic harm.",
+      "stock_connections": [
+        "Deterrence",
+        "Security Dilemma",
+        "Escalation Spiral",
+        "Freedom of Navigation",
+        "Energy Security",
+        "Chokepoint Vulnerability",
+        "Sanctions Backfire",
+        "Domestic Rally-Round-the-Flag",
+        "Great Power Credibility"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would maintain a hardline military posture in the Strait of Hormuz",
+        "THBT the West should prioritize freedom of navigation over de-escalation in the Persian Gulf",
+        "THP a world where the U.S. credibly threatens force to protect maritime chokepoints",
+        "THBT states should not negotiate under threats to global energy shipping"
+      ],
+      "data_points": [
+        "The Strait of Hormuz is a narrow maritime chokepoint linking the Persian Gulf to the Gulf of Oman and Arabian Sea",
+        "Roughly one-fifth of global oil consumption passes through the Strait of Hormuz",
+        "About one-third of seaborne oil trade transits the Strait of Hormuz",
+        "The article states the U.S. and Iran are 'deadlocked' with 'no clear way forward'"
+      ]
+    },
+    {
+      "id": "cd7ee2aa250b",
+      "title": "Iran’s Detention of British Nationals Turns Consular Risk Into a Coercive Hostage Tool",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/family-british-couple-jailed-iran-lost-contact",
+      "published": "2026-05-13T20:04:24Z",
+      "category": "IR",
+      "region": "Iran / United Kingdom",
+      "background": "Lindsay Foreman and Craig Foreman, both 53 and from East Sussex, were arrested in January 2025 while travelling through Iran on an around-the-world motorcycle trip. They were sentenced to 10 years in Tehran’s Evin prison on espionage charges, which they deny. Their family says they have now lost contact after phone access — their only link to the outside world — was cut off earlier this month, reportedly after the couple gave a media interview about their detention. The UK Foreign Office says it withdrew staff from Iran in February due to the threat of US strikes and continues to warn that British nationals face a 'significant risk of arrest, questioning or detention' and that British links alone can be enough for detention.",
+      "prop_args": [
+        {
+          "thesis": "The UK should treat arbitrary detention of its nationals in Iran as a coercive hostage strategy and respond with maximal diplomatic, legal, and travel-cost escalation rather than quiet consular management.",
+          "mechanisms": [
+            "First, escalation raises the expected cost of detention for Tehran. This is because (1) Iran uses foreign detainees as bargaining chips to extract concessions, publicity, or silence, (2) private diplomacy alone signals that the UK will absorb the abuse without imposing counter-costs, and (3) public, coordinated pressure makes the detention less useful as leverage because it increases reputational and diplomatic damage every day the prisoners remain isolated.",
+            "Second, a hardline response protects future travellers and dual nationals by changing the incentive structure. Three reasons: one, if Iran learns that detaining British citizens triggers sanctions, travel advisories, and multilateral pressure, it becomes less attractive to target them; two, the current warning that a British passport can itself be enough for detention shows the problem is systemic, not isolated; three, visible punishment creates deterrence beyond this case and reduces the pool of vulnerable hostages.",
+            "Third, this is a rule-of-law and human-rights issue, not just a bilateral dispute. This matters because (1) the couple were sentenced on espionage charges they deny, (2) cutting off phone access after they spoke publicly looks like retaliation for speech and contact with the outside world, and (3) if democracies do not respond strongly to arbitrary detention, authoritarian states learn they can isolate detainees, deny due process, and still keep normal relations."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The UK should prioritize quiet diplomacy and consular bargaining because public escalation is more likely to harden Iran’s position and worsen the couple’s treatment.",
+          "mechanisms": [
+            "First, public pressure can trigger retaliation against the detainees. One, the family says phone access was cut after the couple gave a media interview, which suggests Tehran already punishes visibility; two, if the UK escalates publicly, Iran can respond by further restricting contact, access to lawyers, food, or medical care; three, the prisoners are physically inside Evin prison, so the state has immediate control over their welfare.",
+            "Second, Iran is more likely to release detainees through discreet bargaining than through humiliation. One, hostage diplomacy usually works through back-channel deals, prisoner swaps, or quiet concessions; two, public confrontation makes it harder for Iranian leaders to save face domestically; three, if the regime feels cornered, it may prefer to keep the couple as leverage rather than concede under pressure.",
+            "Third, the UK has limited leverage and should avoid symbolic escalation that does not change outcomes. One, the Foreign Office has already withdrawn staff from Iran, reducing on-the-ground capacity; two, broad sanctions or rhetoric may satisfy domestic audiences but do little to alter Tehran’s calculus; three, the immediate priority is the couple’s safety, and the least risky route is the one least likely to provoke further punishment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether pressure improves the couple’s chances or simply increases the risk of retaliation inside Evin prison. Prop wins if the round is about deterrence and state credibility; opp wins if the judge prioritizes immediate prisoner welfare and believes Tehran responds mainly to quiet bargaining.",
+      "stock_connections": [
+        "Hostage Diplomacy",
+        "Consular Protection",
+        "Authoritarian Coercion",
+        "Deterrence",
+        "Human Rights Abuses",
+        "Diplomatic Signaling",
+        "Prisoner Swap Politics",
+        "Democratic Accountability"
+      ],
+      "motion_areas": [
+        "TH, as the UK, would impose stronger sanctions on Iran for detaining British nationals",
+        "THBT democracies should publicly escalate when authoritarian states arbitrarily detain their citizens",
+        "THP a world where consular disputes are handled through quiet diplomacy rather than public pressure"
+      ],
+      "data_points": [
+        "Lindsay and Craig Foreman are both 53 and from East Sussex",
+        "They were arrested in January 2025 while travelling through Iran on a motorcycle trip",
+        "They were sentenced to 10 years in Tehran’s Evin prison on espionage charges they deny",
+        "The UK Foreign Office says British and British-Iranian nationals face a 'significant risk of arrest, questioning or detention' in Iran",
+        "The Foreign Office warns that 'having a British passport or connections to the UK can be reason enough' for detention",
+        "Phone access was cut off earlier this month after the couple gave a media interview",
+        "The UK withdrew Foreign Office staff from Iran in February because of the threat of US strikes",
+        "Lindsay Foreman said they could hear 'the whistling noise of missiles and the hum of the drones' and that prison buildings had 'no fire escape' and 'no access to the outside'"
+      ]
+    },
+    {
+      "id": "999e13d20c49",
+      "title": "Trump’s China Summit Opens a High-Stakes Bargain Over Trade, Security, and Alliance Credibility",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/balance-of-power-early-edition-5-13-2026-video",
+      "published": "2026-05-13T19:46:41Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "Bloomberg’s Balance of Power episode on 13 May 2026 centers on President Donald Trump’s trip to China for a summit with Xi Jinping. The segment features discussion from former State Department Chief Economist Chad Bown, Maywood Strategies Principal Douglas Farrar, Stonecourt Capital Partner Rick Davis, Democratic Congresswoman Suzan DelBene, and American Action Forum President Douglas Holtz-Eakin. The article itself is a show description rather than a substantive policy report, so the debate value comes from the summit context: direct US-China leader-level talks at a moment of elevated trade, security, and alliance tensions.",
+      "prop_args": [
+        {
+          "thesis": "A Trump-Xi summit is useful because direct leader-level bargaining can produce immediate de-escalation and transactional deals that lower the risk of a broader US-China confrontation.",
+          "mechanisms": [
+            "First, face-to-face summitry creates a credible off-ramp from escalation. This is because (1) both leaders can trade symbolic concessions without domestic bureaucracies slowing them down, (2) personal commitment signals can reduce misperception and accidental escalation, and (3) a public summit gives each side political cover to pause tariffs, export controls, or military signaling.",
+            "Second, the summit can unlock narrow but economically meaningful bargains. Three reasons: one, China and the US can separate headline rivalry from sector-specific issues like agriculture, semiconductors, and market access; two, a leader-level deal can instruct agencies to implement follow-through faster than normal diplomacy; three, even partial agreements stabilize expectations for firms and investors, reducing volatility in supply chains and capital markets.",
+            "Third, the strategic value is in buying time, not solving rivalry. This matters because a managed competition framework is preferable to uncontrolled confrontation: even if the summit does not end structural competition, it can preserve communication channels, reduce the chance of crisis spirals, and keep the relationship within a controllable diplomatic lane."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A Trump-Xi summit is more likely to weaken US leverage and normalize coercive Chinese behavior than to produce durable gains.",
+          "mechanisms": [
+            "First, summitry rewards China for waiting out pressure. One, Beijing can offer small, reversible concessions in exchange for major US symbolic recognition; two, this teaches China that escalation followed by negotiation works better than compliance; three, it undermines the credibility of US threats because tariffs or restrictions become bargaining chips rather than enforcement tools.",
+            "Second, the deal structure is likely to be shallow and unstable. One, the core disputes are structural—technology transfer, industrial policy, military competition, and Taiwan—so they cannot be solved in one meeting; two, any agreement is vulnerable to domestic backlash in Washington or Beijing, making implementation fragile; three, markets and allies may overread temporary calm as real resolution, leading to strategic complacency.",
+            "Third, the summit can damage alliance confidence. One, allies may fear the US will cut bilateral side deals that ignore their security concerns; two, if Trump appears willing to trade away pressure on China for short-term wins, partners hedge by pursuing independent arrangements; three, that weakens the broader coalition needed to constrain Chinese power over the long run."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate crisis management and long-term strategic credibility. Prop wins if the round prioritizes preventing escalation and preserving channels; Opp wins if the judge thinks summitry mainly produces shallow concessions that erode deterrence and alliance trust.",
+      "stock_connections": [
+        "Summit diplomacy",
+        "Deterrence",
+        "Credibility",
+        "Alliance management",
+        "Trade war escalation",
+        "Transactional diplomacy",
+        "Security dilemma",
+        "Bargaining theory",
+        "Managed competition"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue a leader-level summit with China despite ongoing strategic rivalry",
+        "THBT the US should prioritize direct summit diplomacy over coercive economic pressure in managing China",
+        "THP a world where major-power disputes are handled through frequent leader summits rather than bureaucratic channels"
+      ],
+      "data_points": [
+        "Bloomberg segment aired on 2026-05-13 and focused on Trump’s trip to China for a Xi summit",
+        "Panel included former State Department Chief Economist Chad Bown, Democratic Congresswoman Suzan DelBene, and American Action Forum President Douglas Holtz-Eakin",
+        "The source is a Bloomberg 'Balance of Power: Early Edition' video discussion rather than a standalone policy announcement"
+      ]
+    },
     {
       "id": "adb4726fde30",
       "title": "Trump’s Iran War Tests Congress’s Power to Stop Unauthorised Military Escalation",
@@ -1210,6 +1920,65 @@
         "Child obesity plateaued in the UK, US, Germany and Japan at roughly 10-12%, 20-23%, 7-12% and 3-7% respectively",
         "Obesity is increasing steadily in Finland",
         "Obesity among young people and adults in many low-income and middle-income countries continues to rise and in some cases is accelerating"
+      ]
+    },
+    {
+      "id": "3223c06babc2",
+      "title": "Labor’s Property Tax Reform Narrows the Rent-Vesting Path for Young First-Home Buyers",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/14/has-labor-killed-rentvesting-housing-australia-capital-gains-tax-negative-gearing-reform",
+      "published": "2026-05-13T15:00:03Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Labor announced budget changes on Tuesday that raise capital gains tax on investment properties and restrict negative gearing for new investment purchases from July 2027. The reforms are aimed at reducing investor competition in housing and are projected to help an extra 75,000 renters buy their first home over the next decade and leave house prices about 2% lower than they otherwise would be. Rent-vesting — buying an investment property while continuing to rent where you want to live — has become a common workaround for young Australians priced out of major cities; the typical Australian home now costs eight times the typical income, and saving a 20% deposit takes about 11 years.",
+      "prop_args": [
+        {
+          "thesis": "Labor’s tax reform is a necessary correction that shifts housing from speculative wealth-building back toward owner-occupation and first-home access.",
+          "mechanisms": [
+            "First, it reduces investor demand in the housing market. This is because (1) higher capital gains tax lowers the after-tax return from property appreciation, (2) tighter negative gearing rules reduce the ability to subsidize low-yield properties through tax losses, and (3) lower expected returns mean fewer investors bid up prices against first-home buyers.",
+            "Second, it improves the position of genuine owner-occupiers and renters trying to buy. Three reasons: one, the policy is explicitly designed to cut investor competition; two, the government expects 75,000 additional renters to become first-home buyers over the next decade; three, a 2% lower house price path materially matters when deposits already take 11 years to save.",
+            "Third, it weakens a regressive pathway that rewards those with spare capital and existing family support. This matters because rent-vesting is only available to people who can already service an investment loan and absorb losses, so preserving it entrenches inequality by letting wealthier young Australians convert parental or saved deposits into leveraged asset gains while everyone else remains locked out."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The reform punishes young Australians who are using rent-vesting as the only realistic bridge into an unaffordable housing market.",
+          "mechanisms": [
+            "First, it reduces the ability of first-time entrants to build equity through property. One, rent-vesters rely on capital gains to convert a deposit into a future owner-occupied home; two, higher tax on those gains slows equity accumulation; three, that delays the point at which they can exit renting and buy where they actually want to live.",
+            "Second, it tightens credit and makes the strategy less viable even for disciplined savers. One, banks lend against expected after-tax returns, so lower returns mean smaller borrowing capacity; two, the article quotes brokers saying investors will be able to borrow less, shrinking rent-vesting budgets; three, that pushes young buyers further toward either perpetual renting or lower-quality housing in distant areas.",
+            "Third, it does little for the underlying supply problem that drives affordability. One, the article itself notes persistent housing shortages and prices at eight times income; two, only 7,000 new rent-vestors entered in the year to March versus 120,000 first-home buyers, so the policy hits a small cohort while leaving the broader market structure intact; three, if supply remains constrained, restricting one pathway just reallocates scarcity rather than solving it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether rent-vesting is a harmful investor loophole or a necessary ladder for excluded young buyers. Prop wins if the round is about distributional fairness and price pressure; opp wins if the round is about mobility and whether policy should preserve the only feasible route into ownership for people priced out of Sydney and other major markets.",
+      "stock_connections": [
+        "Asset Inflation",
+        "Wealth Inequality",
+        "Intergenerational Inequality",
+        "Housing Affordability Crisis",
+        "Rent-Seeking",
+        "Moral Hazard",
+        "Speculative Bubbles",
+        "Supply-Side Constraints",
+        "Regressive Taxation",
+        "First-Home Buyer Subsidy vs Market Distortion"
+      ],
+      "motion_areas": [
+        "TH, as the Australian government, would abolish negative gearing on investment properties",
+        "THBT governments should tax capital gains on residential investment properties more heavily",
+        "THP a world where first-home buyers cannot use leveraged property investment as a pathway into ownership",
+        "THBT Australia should prioritize owner-occupiers over property investors in housing policy"
+      ],
+      "data_points": [
+        "Typical Australian home costs 8x the typical income",
+        "It takes 11 years to save a 20% deposit in Australia",
+        "Government expects reforms to help an extra 75,000 renters buy their first home over the next decade",
+        "House prices expected to be 2% lower than they otherwise would have been",
+        "Since July 2019, nearly 53,000 Australians entered the housing market by buying an investment property",
+        "A third of those investment-property entrants were in New South Wales",
+        "Only 7,000 new rent-vestors entered in the year to March, versus 120,000 new first-home buyers",
+        "Negative gearing will remain available for new builds and for existing negatively geared properties bought before Tuesday; new investment properties bought after Tuesday lose access from July 2027"
       ]
     },
     {
