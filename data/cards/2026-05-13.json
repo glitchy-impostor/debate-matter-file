@@ -1,7 +1,261 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-13T04:07:25Z",
+  "last_updated": "2026-05-13T08:56:27Z",
   "cards": [
+    {
+      "id": "c9238bddf0f2",
+      "title": "Starmer’s Survival Exposes the Cost of Internal Party Revolt in a Weak-Mandate Government",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/starmer-survives-as-potential-successors-bide-their-time-video",
+      "published": "2026-05-13T06:12:38Z",
+      "category": "IR",
+      "region": "United Kingdom",
+      "background": "On 13 May 2026, UK Prime Minister Keir Starmer remained in office despite around 90 Labour MPs publicly or privately calling for him to step down. At a Downing Street meeting on Tuesday, Starmer told his Cabinet he would not discuss his future in that forum and instead told ministers to raise leadership concerns with him individually. Bloomberg reported the move as a challenge to his internal critics to openly confront him rather than coordinate behind the scenes.",
+      "prop_args": [
+        {
+          "thesis": "Starmer’s refusal to yield is good for government stability because it prevents factional blackmail from turning a governing party into a permanent leadership contest.",
+          "mechanisms": [
+            "First, it restores command discipline inside the executive. This is because (1) ministers are forced to choose between loyalty and resignation rather than free-riding on anonymous dissent, (2) it raises the political cost of coordinated leaks and briefing wars, and (3) it signals that policy will be made by the elected leadership rather than by an informal caucus of malcontents.",
+            "Second, it protects governing capacity in a system where leadership churn is highly disruptive. Three reasons: one, cabinet reshuffles and succession speculation consume time that should be spent on legislation and implementation; two, civil servants and markets need a single credible decision-maker, not a contested one; three, a public leadership fight would weaken Labour’s ability to pass budgets, manage crises, and negotiate with other parties.",
+            "Third, it can improve accountability by forcing critics to present an alternative openly. This matters because (1) hidden plotting allows MPs to attack the leader without owning the consequences of replacing him, (2) an open challenge clarifies whether there is actually a viable successor with majority support, and (3) the party can then resolve the dispute quickly instead of drifting through months of uncertainty."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Starmer’s survival is bad because it prolongs a legitimacy crisis that weakens Labour’s electoral appeal and makes the government less responsive.",
+          "mechanisms": [
+            "First, it entrenches a leader who may no longer have effective authority over his own party. One, if 90 MPs are already willing to call for resignation, then discipline is already broken; two, a leader who survives by inertia rather than consent will struggle to enforce policy on backbenchers; three, that makes every major vote a potential rebellion and signals weakness to opponents.",
+            "Second, it damages public trust and electoral credibility. One, voters read visible internal revolt as evidence that the government is chaotic and self-interested; two, the opposition can frame Labour as too busy fighting itself to govern; three, if the party keeps a damaged leader in place, it may lock in declining approval before the next election cycle.",
+            "Third, it blocks renewal and policy correction. One, a leadership challenge can be a mechanism for course correction after poor performance; two, keeping the same leader may preserve unpopular messaging, personnel, or strategy; three, delaying succession means the party wastes time that could be used to rebuild unity around a stronger candidate."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term stability and long-term legitimacy. Prop wins if you think leadership change now would create a deeper governing crisis than the current revolt; Opp wins if you think a leader who has already lost the confidence of a large bloc of MPs is structurally unable to recover authority.",
+      "stock_connections": [
+        "Party unity vs factionalism",
+        "Leadership legitimacy",
+        "Government stability",
+        "Elite defection",
+        "Mandate politics",
+        "Lame duck leadership",
+        "Internal party democracy",
+        "Policy paralysis"
+      ],
+      "motion_areas": [
+        "TH, as a governing party, would resist internal leadership challenges even after major electoral setbacks",
+        "THBT parties should prioritize stability over internal democratic contestation once in government",
+        "THP a world where prime ministers can only be challenged through formal, public confidence votes"
+      ],
+      "data_points": [
+        "Around 90 Labour MPs were reported to have called for Starmer to step down",
+        "Starmer told his Cabinet at a Downing Street meeting on Tuesday that he would not discuss his future in that forum",
+        "The leadership dispute was reported on 13 May 2026 by Bloomberg"
+      ]
+    },
+    {
+      "id": "cc575e24ddd6",
+      "title": "Marcos-Duterte Alliance Breaks Down, Exposing the Fragility of Philippine Dynastic Politics",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/why-was-philippine-vp-sara-duterte-impeached-again-what-happens-next",
+      "published": "2026-05-13T05:50:36Z",
+      "category": "IR",
+      "region": "Philippines",
+      "background": "The Philippines’ two most powerful political families formed an alliance in 2022, with Ferdinand Marcos Jr. elected president and Sara Duterte elected vice president. Bloomberg frames the current impeachment as a rupture in that coalition, highlighting how dynastic alliances have long structured Philippine politics. The article’s central tension is that a partnership once sold as a source of stability is now producing institutional conflict at the highest level of government.",
+      "prop_args": [
+        {
+          "thesis": "Impeaching Sara Duterte is necessary to defend institutional accountability and prevent dynastic capture of the Philippine state.",
+          "mechanisms": [
+            "First, impeachment reasserts that even the most powerful political families are subject to legal and constitutional constraints. This is because (1) dynastic politics in the Philippines often blurs the line between public office and family power, (2) allowing a vice president to evade scrutiny would normalize elite impunity, and (3) visible accountability restores some credibility to institutions that otherwise look captured by patronage networks.",
+            "Second, the process can weaken the logic of personality-based coalition politics by making elite alliances more costly to abuse. Three reasons: one, it signals that electoral victory does not grant immunity from misconduct; two, it discourages future power-sharing pacts built purely on family name and vote banks; three, it creates incentives for politicians to rely more on formal institutions than on informal dynastic bargains.",
+            "Third, even if politically destabilizing in the short term, impeachment can improve long-run governance by forcing a clearer separation of powers. This matters because a system where the president and vice president are from rival dynasties may be unstable anyway, and resolving that conflict through constitutional procedure is better than letting it fester into backroom sabotage, policy paralysis, or extra-institutional confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Impeaching Sara Duterte is likely to deepen elite conflict, weaken governance, and further destabilize an already fragile political system.",
+          "mechanisms": [
+            "First, impeachment intensifies factional warfare inside a system already dominated by personalist alliances. One, the Marcos and Duterte camps are not just parties but competing patronage machines; two, removing the vice president through a high-profile legal battle incentivizes retaliation across Congress, local governments, and the bureaucracy; three, this turns state institutions into arenas for elite vendettas rather than policy delivery.",
+            "Second, the move can undermine public trust by making accountability look selective and politically motivated. One, if the case is perceived as driven by dynastic rivalry rather than neutral enforcement, it reinforces cynicism about the rule of law; two, supporters of the Duterte bloc may interpret it as persecution, mobilizing street-level polarization; three, that kind of legitimacy crisis can outlast the impeachment itself and damage democratic stability.",
+            "Third, removing a sitting vice president may create more uncertainty than reform because it does not solve the underlying structural problem. One, dynastic politics will persist even if one family is weakened; two, the next coalition can still be built on patronage and elite bargaining; three, the state absorbs the costs of institutional conflict without necessarily producing a cleaner, more accountable political order."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether impeachment is a credible accountability mechanism or just another episode in elite factionalism. Prop wins if they prove that formal punishment is the only way to break dynastic impunity; opp wins if they show that the process mainly escalates instability without changing the underlying patronage structure.",
+      "stock_connections": [
+        "Dynastic politics",
+        "Elite capture",
+        "Rule of law",
+        "Institutional legitimacy",
+        "Personalist politics",
+        "Factionalism",
+        "Democratic backsliding",
+        "Patronage networks"
+      ],
+      "motion_areas": [
+        "TH, as the Philippine Congress, would impeach Sara Duterte",
+        "THBT democracies should prioritize institutional accountability over short-term political stability",
+        "THP a world where political dynasties can be removed through impeachment more easily"
+      ],
+      "data_points": [
+        "Ferdinand Marcos Jr. and Sara Duterte formed a governing alliance in 2022",
+        "The Marcos and Duterte families are described as the Philippines’ two most powerful political dynasties",
+        "Sara Duterte is the sitting vice president at the center of the impeachment crisis"
+      ]
+    },
+    {
+      "id": "5accdf26adbf",
+      "title": "Kharg Island Shutdown Threatens Iran’s Oil Export Lifeline and Domestic Fiscal Stability",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/kharg-island-oil-jetties-empty-in-sign-of-iran-strain-video",
+      "published": "2026-05-13T05:49:05Z",
+      "category": "Econ",
+      "region": "Iran",
+      "background": "Bloomberg reported on May 13, 2026 that satellite imagery showed no ocean-going oil tankers at Iran’s Kharg Island export terminal on May 8, 9, or 11. Kharg Island is Iran’s main oil export terminal, so a sustained halt would force more crude into limited storage facilities and constrain the country’s ability to monetize exports. The report frames the stoppage as a sign of broader strain on Iran’s oil sector and export logistics.",
+      "prop_args": [
+        {
+          "thesis": "A sustained disruption at Kharg Island is a major economic pressure point that can weaken Iran’s fiscal capacity and force strategic concessions.",
+          "mechanisms": [
+            "First, it cuts off the state’s most important hard-currency pipeline. This is because (1) oil exports are the easiest source of foreign exchange for a sanctioned economy, (2) reduced tanker traffic means fewer barrels can be sold into external markets, and (3) less hard currency immediately constrains imports, subsidy spending, and currency stabilization.",
+            "Second, it creates a storage bottleneck that turns an export problem into a production problem. Three reasons: one, if crude cannot leave the terminal, it accumulates in limited domestic storage; two, once storage fills, upstream producers must slow output or shut wells; three, shutting wells is costly and can damage long-term production capacity, making the shock more than temporary.",
+            "Third, it increases regime vulnerability by hitting the coalition that keeps the system stable. This matters because (1) lower oil revenue reduces the government’s ability to pay security forces and patronage networks, (2) inflation and shortages worsen public dissatisfaction, and (3) economic stress narrows Tehran’s room to absorb sanctions or external pressure, making bargaining or de-escalation more likely."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A temporary slowdown at Kharg Island is manageable and may have limited strategic impact because Iran has adapted to export disruption and can reroute, stockpile, or absorb the shock.",
+          "mechanisms": [
+            "First, Iran has experience operating under sanctions and can use alternative channels. One, it can rely on shadow fleets, ship-to-ship transfers, and opaque intermediaries; two, it can redirect some flows through non-transparent routes or smaller buyers; three, the absence of tankers on a few days does not prove a durable collapse in exports.",
+            "Second, the state can cushion the domestic impact through administrative and financial tools. One, it can ration fuel and prioritize strategic sectors; two, it can draw on reserves or non-oil revenues to bridge short-term gaps; three, it can suppress the political fallout through coercion and price controls, reducing the chance that economic strain translates into immediate concessions.",
+            "Third, the strategic significance may be overstated because global oil markets and Iran’s own production system can adjust. One, buyers and traders often anticipate disruptions and price them in; two, Iran may have storage buffers that allow continued production for a period; three, unless the shutdown is prolonged, the episode is more a warning signal than a decisive economic break."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the Kharg Island disruption is a short-lived logistics hiccup or a sustained choke point on Iran’s hard-currency earnings. Prop wins if it proves persistence, because export interruption cascades into storage, production, and fiscal stress; Opp wins if it frames the event as a temporary, adaptable shock in a sanctions-hardened economy.",
+      "stock_connections": [
+        "Sanctions Evasion",
+        "Hard Currency Shortage",
+        "State Capacity",
+        "Resource Curse",
+        "Economic Coercion",
+        "Regime Stability",
+        "Dutch Disease",
+        "Fiscal Crisis"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would intensify pressure on Iran’s oil export infrastructure",
+        "THBT sanctions are more effective when they target export chokepoints rather than broad sectors",
+        "THP a world where major oil exporters cannot easily use shadow shipping to evade restrictions"
+      ],
+      "data_points": [
+        "No ocean-going oil tankers were observed at Kharg Island on May 8, 9, or 11, 2026",
+        "Kharg Island is Iran’s main oil export terminal",
+        "A prolonged idle period would increase pressure on Iran’s remaining storage facilities"
+      ]
+    },
+    {
+      "id": "1aae71cdea4c",
+      "title": "US Tech CEOs on Trump’s China Trip Turn AI Chips Into a Geopolitical Bargaining Chip",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/nvidia-s-huang-joins-us-tech-ceos-on-trump-s-china-trip-video",
+      "published": "2026-05-13T05:37:17Z",
+      "category": "Business",
+      "region": "United States / China",
+      "background": "Nvidia co-founder Jensen Huang was added at the last minute to President Donald Trump’s China visit, making AI and technology central to the summit agenda. Other US business leaders on the trip included Apple’s Tim Cook, Tesla’s Elon Musk, Boeing’s Kelly Ortberg, and Goldman Sachs’ David Solomon. The trip came amid heightened US-China tensions over advanced technology, especially AI chips and export controls.",
+      "prop_args": [
+        {
+          "thesis": "Putting top US tech CEOs directly into China diplomacy lets Washington convert private-sector leverage into bargaining power over AI, market access, and strategic competition.",
+          "mechanisms": [
+            "First, it creates a unified state-corporate front that increases US leverage in negotiations. This is because (1) China wants continued access to frontier US technology and the firms that supply it, (2) the presence of CEOs signals that market access is tied to political behavior, and (3) it reduces Beijing’s ability to isolate one company and extract concessions bilaterally.",
+            "Second, it allows the US to use commercial dependence as a pressure point on China’s tech ecosystem. Three reasons: one, Nvidia and other US firms sit at key chokepoints in AI hardware, software, and industrial supply chains; two, Chinese firms still rely on imported advanced chips and ecosystem support; three, even the threat of tighter restrictions can force China to moderate retaliation or offer reciprocal market openings.",
+            "Third, the trip can stabilize escalation by creating direct channels between political leaders and firms that actually implement policy. This matters because (1) export controls are only effective if firms comply and can explain technical constraints, (2) CEOs can identify narrow carve-outs that preserve deterrence while avoiding total decoupling, and (3) business engagement lowers the risk of accidental overreach that would otherwise trigger a full trade and tech war."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Bringing CEOs on a China trip weakens US strategy by turning national security into a lobbying exercise and giving China more ways to divide the American coalition.",
+          "mechanisms": [
+            "First, it incentivizes China to target individual firms rather than the US state. One, Beijing can offer selective market access to Apple, Tesla, or Nvidia to split them from harder-line US policy; two, firms with large China exposure then lobby Washington against tougher restrictions; three, this fractures the coherence of export-control policy.",
+            "Second, it normalizes the idea that strategic policy is negotiable whenever large corporations are affected. One, this creates moral hazard for US firms to overinvest in China and assume state protection later; two, it weakens the credibility of US deterrence because Beijing sees commercial interests as a veto player; three, it makes future sanctions or controls harder to sustain politically.",
+            "Third, it accelerates China’s long-term drive for self-sufficiency in AI and advanced manufacturing. One, visible US pressure convinces Beijing that dependence on American tech is a vulnerability; two, that increases state subsidies and industrial policy for domestic substitutes; three, over time the US loses the very leverage it is trying to wield."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether engagement produces leverage or capture. Prop wins if you think the US can coordinate firms and state power to extract concessions; Opp wins if you think China can exploit corporate exposure to split the coalition and speed up decoupling.",
+      "stock_connections": [
+        "Interdependence as leverage",
+        "Economic statecraft",
+        "Decoupling / de-risking",
+        "Lobbying capture",
+        "Moral hazard",
+        "Tech cold war",
+        "Supply chain weaponization"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would bring major tech CEOs on diplomatic trips to China",
+        "THBT the US should use corporate leaders as part of its China strategy",
+        "THP a world where advanced tech trade with China is negotiated through state-business delegations"
+      ],
+      "data_points": [
+        "Jensen Huang was added as a last-minute participant to Trump’s China visit on 2026-05-13",
+        "Other US business leaders on the trip included Apple’s Tim Cook, Tesla’s Elon Musk, Boeing’s Kelly Ortberg, and Goldman Sachs’ David Solomon",
+        "The trip placed AI and technology at the center of a high-stakes US-China summit"
+      ]
+    },
+    {
+      "id": "ca3153fc925b",
+      "title": "Thailand’s Central Bank Resists Broad Stimulus as War Pressures the Economy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/thai-rate-panel-warns-against-broad-economic-stimulus-amid-war",
+      "published": "2026-05-13T04:04:51Z",
+      "category": "Econ",
+      "region": "Thailand",
+      "background": "Thailand’s central bank rate panel warned against broad economic stimulus even as war-related uncertainty weighed on the economy. Prime Minister Srettha Thavisin had again urged the Bank of Thailand to cut interest rates, arguing the economy was fragile and pointing to a string of negative inflation readings in recent months. The debate centers on whether monetary easing should be used to support demand immediately or whether the central bank should avoid broad stimulus and preserve policy credibility.",
+      "prop_args": [
+        {
+          "thesis": "The Bank of Thailand should resist broad rate cuts because monetary stimulus is a blunt tool that risks inflation, financial instability, and policy credibility without solving war-driven shocks.",
+          "mechanisms": [
+            "First, broad stimulus is poorly targeted. This is because (1) war-related weakness is likely concentrated in specific sectors like exports, tourism, and investment rather than across the whole economy, (2) rate cuts mostly boost credit and asset prices instead of directly compensating affected workers or firms, and (3) households facing uncertainty may save rather than spend the extra liquidity.",
+            "Second, cutting rates too aggressively creates medium-term macro risks. Three reasons: one, it can weaken the currency and raise imported inflation; two, it encourages leverage in an economy where debt burdens are already sensitive to lower rates; three, it reduces the central bank’s room to respond if the war shock worsens.",
+            "Third, defending central bank independence matters for long-run stability. This matters because repeated political pressure to cut rates for short-term growth can anchor expectations that policy will be politicized, which raises risk premiums, undermines inflation credibility, and makes future stabilization harder."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Thailand should cut rates because the economy is fragile, inflation is negative, and monetary easing is the fastest way to prevent a war shock from turning into a broader recession.",
+          "mechanisms": [
+            "First, lower rates can stabilize demand quickly. One, cheaper borrowing supports consumption and business investment; two, it reduces debt-service pressure on households and firms; three, it can offset the confidence shock from war-related uncertainty before layoffs and bankruptcies spread.",
+            "Second, negative inflation readings justify stimulus. One, falling prices signal weak demand rather than healthy disinflation; two, real interest rates become too high when nominal rates stay elevated during deflationary conditions; three, delaying easing risks entrenching stagnation and making recovery more expensive later."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war shock is a temporary demand problem or a structural supply/uncertainty shock. Prop wins if the panel is right that broad easing is ineffective and credibility-sensitive; Opp wins if the economy is already sliding into deflationary weakness and only fast macro support can prevent a deeper downturn.",
+      "stock_connections": [
+        "Countercyclical Stimulus",
+        "Central Bank Independence",
+        "Inflation Targeting",
+        "Moral Hazard",
+        "Liquidity Trap",
+        "Dutch Disease",
+        "Currency Depreciation",
+        "Credibility vs Flexibility"
+      ],
+      "motion_areas": [
+        "TH, as the Bank of Thailand, would refuse broad interest rate cuts during wartime uncertainty",
+        "THBT central banks should prioritize credibility over short-term stimulus in fragile economies",
+        "THP a world where monetary policy is insulated from political pressure during external shocks"
+      ],
+      "data_points": [
+        "Prime Minister Srettha Thavisin urged the Bank of Thailand again to cut interest rates",
+        "Thailand has recorded a string of negative inflation readings in recent months",
+        "The article frames the economy as 'fragile' amid war-related uncertainty",
+        "The Bank of Thailand complex in Bangkok houses the learning center, museum and offices"
+      ]
+    },
     {
       "id": "616a6dc5f095",
       "title": "New Zealand’s Inflation Expectations Force the RBNZ to Slow Easing and Delay Recovery",
