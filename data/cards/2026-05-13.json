@@ -1,7 +1,880 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-13T14:58:05Z",
+  "last_updated": "2026-05-13T17:25:38Z",
   "cards": [
+    {
+      "id": "12cc83712f65",
+      "title": "Congress Is Structurally Unable to End an Unpopular Presidential War With Iran",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/why-congress-cant-stop-trumps-iran-war/",
+      "published": "2026-05-13T16:49:02Z",
+      "category": "IR",
+      "region": "United States / Iran",
+      "background": "President Donald Trump’s war against Iran is described as unauthorized and illegal by legal experts, but Congress has struggled to stop it. The article says the war crossed the 60-day threshold in the 1973 War Powers Resolution on May 1, after Trump launched strikes in late February, but the administration claims a cease-fire on April 8 froze the clock. Congress can pass resolutions or try to restrict funding, but the president can veto legislation and the courts have historically avoided ruling on these disputes.",
+      "prop_args": [
+        {
+          "thesis": "Congress should be able to end unauthorized wars, and Trump’s Iran campaign shows how executive war powers have become dangerously inverted.",
+          "mechanisms": [
+            "First, the War Powers framework is being hollowed out by unilateral executive interpretation. This is because (1) the administration claims a cease-fire 'froze the clock' even though the statute contains no such pause mechanism, (2) Trump is openly calling the 60-day limit 'totally unconstitutional,' and (3) if presidents can redefine 'hostilities' at will, then the legal trigger becomes meaningless and any future president can extend wars indefinitely.",
+            "Second, Congress’s formal tools are now too weak to check a president once military operations begin. Three reasons: one, a funding cutoff is slow because the Pentagon can keep operating on existing appropriations and reallocate money internally; two, any binding restriction can be vetoed by the president; three, after the Supreme Court struck down the legislative veto in 1983, Congress lost the simple-majority mechanism it was designed to use to stop hostilities.",
+            "Third, allowing this precedent entrenches a permanent war state with low democratic accountability. This matters because (1) presidents will learn that they can start a war with a simple majority or no authorization and then dare Congress to stop them, (2) courts are likely to dismiss challenges as political questions or standing problems, and (3) the result is a constitutional inversion where it is easier to start wars than end them."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Congress still has meaningful tools to constrain war, and the real issue is political will rather than constitutional incapacity.",
+          "mechanisms": [
+            "First, Congress can still use the power of the purse to make continued operations unsustainable. One, the defense budget is appropriated annually, so lawmakers can attach restrictions to future spending bills; two, the article notes Democrats can prohibit funds for new offensive operations, just as Congress did to end fighting in Southeast Asia; three, even if the Pentagon has some flexibility now, it cannot indefinitely sustain a major war without fresh appropriations.",
+            "Second, the legal case against the war is not as airtight as critics claim, which weakens any immediate institutional challenge. One, the War Powers Resolution never clearly defined 'hostilities,' giving the executive room to argue about whether the clock applies; two, courts have repeatedly avoided these disputes on standing and political-question grounds; three, if the judiciary will not intervene, Congress remains the only branch that can negotiate a political settlement rather than rely on litigation.",
+            "Third, preserving executive flexibility can be necessary in fast-moving security crises. One, the administration argues U.S. forces were being shot at and had to respond immediately; two, presidents from both parties have long argued that rigid war-powers limits interfere with national defense; three, if Congress can micromanage every retaliatory action, it may create delay that endangers U.S. personnel and allies."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between formal constitutional theory and practical enforcement. Prop wins if the clash is about democratic control over war, because the article shows Congress has lost its main enforcement mechanism; Opp wins if the clash is about immediate security, because presidents retain speed, veto power, and operational flexibility once conflict begins.",
+      "stock_connections": [
+        "Executive Overreach",
+        "Separation of Powers",
+        "War Powers",
+        "Democratic Accountability",
+        "Checks and Balances",
+        "Permanent War State",
+        "Judicial Deference",
+        "Political Question Doctrine"
+      ],
+      "motion_areas": [
+        "TH, as the U.S. Congress, would strip funding from unauthorized military operations",
+        "THBT legislatures should have stronger powers to terminate ongoing military interventions",
+        "THP a world where presidents cannot continue wars beyond 60 days without explicit legislative renewal"
+      ],
+      "data_points": [
+        "The War Powers Resolution’s 60-day threshold was crossed on May 1, after Trump launched strikes in late February",
+        "The administration claims a cease-fire on April 8 'froze the clock'",
+        "U.S. defense spending reached a little more than $1 trillion in fiscal 2026 appropriations",
+        "Congress separately approved an extra $153 billion in the Republican budget and policy bill",
+        "Trump has called for $1.5 trillion in defense funding next year",
+        "Congress repealed the 1991 Gulf War and 2002 Iraq War authorizations only in December 2025",
+        "A 1983 Supreme Court ruling invalidated the legislative veto mechanism Congress had intended to use to end hostilities",
+        "A 2016 lawsuit over strikes on ISIS was dismissed for lack of standing and as a political question"
+      ]
+    },
+    {
+      "id": "6ac9629808e7",
+      "title": "Streeting Challenge Threatens to Trigger Early Labour Leadership Crisis and Government Paralysis",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/may/13/streeting-to-fire-starting-gun-in-starmer-leadership-battle-the-latest",
+      "published": "2026-05-13T16:42:23Z",
+      "category": "IR",
+      "region": "UK",
+      "background": "On 13 May 2026, the Guardian reported that Health Secretary Wes Streeting was expected to launch a leadership challenge against Prime Minister Keir Starmer as soon as Thursday. The news broke during the king’s speech, undercutting what was meant to be a reset moment for the government’s legislative agenda. The article frames the development as the opening of a Labour leadership battle rather than a routine cabinet dispute.",
+      "prop_args": [
+        {
+          "thesis": "A leadership challenge is a necessary correction mechanism that can force Labour to replace an ineffective prime minister before political damage becomes irreversible.",
+          "mechanisms": [
+            "First, the challenge restores accountability inside a governing party that otherwise has weak external discipline once in office. This is because (1) MPs can directly punish poor leadership, (2) the threat of replacement forces the PM to justify strategy and competence, and (3) it prevents a long period of drift where a failing leader survives simply due to incumbency.",
+            "Second, it can improve governing performance by signalling to the public and party that policy failure has consequences. Three reasons: one, it pressures the leadership to sharpen messaging and delivery; two, it can produce a more electorally viable leader if the current one has lost trust; three, it may unlock a clearer mandate for the next phase of government rather than allowing slow collapse.",
+            "Third, the disruption is worth it if it prevents deeper long-term damage to Labour’s credibility. This matters because a party seen as internally incapable of self-correction can enter a downward spiral of factionalism, voter apathy, and eventual electoral punishment, so an early contest may be less costly than years of managed decline."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A leadership challenge at this moment is destabilising theatre that weakens the government, distracts from policy delivery, and makes Labour look unfit to govern.",
+          "mechanisms": [
+            "First, it creates immediate governing paralysis by shifting attention from policy to internal survival. One, ministers spend time whipping votes, bargaining, and briefing against rivals; two, the PM’s authority over cabinet and backbenchers collapses; three, the government loses the ability to present a coherent agenda at the exact moment it needs to govern.",
+            "Second, it damages public trust because voters interpret the challenge as proof that Labour is divided and incompetent. One, the king’s speech is supposed to signal stability and competence, so a leadership row at that moment magnifies chaos; two, media coverage becomes dominated by personalities rather than policy; three, swing voters often punish parties that appear consumed by infighting.",
+            "Third, it can produce a worse leader or a more fractured party even if the challenge succeeds. One, leadership contests reward factional mobilisation rather than governing skill; two, a replacement may inherit a hostile party and weak mandate; three, the process can entrench rival camps and make future policy compromise harder."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term instability and long-term correction. Opposition wins if they show the challenge directly reduces governing capacity and public trust at a moment when Labour needs credibility most; proposition wins if they prove Starmer is already so electorally and politically damaged that replacing him is the only route to avoiding a deeper collapse.",
+      "stock_connections": [
+        "Party discipline",
+        "Leadership legitimacy",
+        "Government paralysis",
+        "Factionalism",
+        "Electoral accountability",
+        "Incumbency advantage",
+        "Crisis management",
+        "Political trust"
+      ],
+      "motion_areas": [
+        "TH, as a governing party, would support an internal leadership challenge against an unpopular prime minister",
+        "THBT parties should replace leaders mid-term when they lose political credibility",
+        "THP a world where governing parties can trigger leadership contests without destabilising the state"
+      ],
+      "data_points": [
+        "Wes Streeting was expected to launch a leadership challenge as soon as Thursday",
+        "The news broke during the king’s speech, a key government set-piece meant to reset the political agenda",
+        "The article describes the event as a 'leadership battle' involving Prime Minister Keir Starmer"
+      ]
+    },
+    {
+      "id": "6278bfe010d5",
+      "title": "Mississippi GOP Moves to Redraw Black-Represented Districts, Testing Voting Rights Protections and Midterm Fairness",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/mississippi-governor-cancel-supreme-court-map-redraw",
+      "published": "2026-05-13T16:27:19Z",
+      "category": "IR",
+      "region": "United States (Mississippi)",
+      "background": "On 13 May 2026, Mississippi governor Tate Reeves said he was canceling a special legislative session that had been scheduled to redraw the state supreme court districts. Reeves said he still expects Mississippi to redraw its four congressional districts before the 2027 elections, and specifically wants to target Democratic congressman Bennie Thompson’s seat in Mississippi’s 2nd district. Mississippi held congressional primaries in March 2026, before the Supreme Court’s Louisiana v Callais ruling narrowed a key Voting Rights Act protection and encouraged Republican-led states to revisit district maps.",
+      "prop_args": [
+        {
+          "thesis": "Delaying the redraw is the least destabilizing option because it avoids invalidating elections and preserves basic democratic legitimacy while the legal landscape is still shifting.",
+          "mechanisms": [
+            "First, postponement protects electoral certainty. This is because (1) Mississippi already held its congressional primaries in March, (2) an immediate redraw would likely require invalidating or re-running those results, and (3) voters and candidates need stable rules before they cast ballots.",
+            "Second, it reduces partisan manipulation of the courts and legislature. Three reasons: one, redrawing around a fresh Supreme Court ruling invites opportunistic gerrymandering rather than neutral compliance; two, it signals that mapmaking is being used as a weapon against specific incumbents like Bennie Thompson; three, it prevents the state from normalizing endless map churn every time the legal environment changes.",
+            "Third, it avoids backfiring on Republicans and creating broader representational distortions. This matters because the governor himself admits that rushing the process could make firmly Republican areas more competitive by adding Democratic voters, meaning the redraw could produce chaos without even delivering the intended partisan gain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Mississippi should redraw now because the state has a legal and political opportunity to correct maps that no longer reflect the post-Callais voting-rights environment.",
+          "mechanisms": [
+            "First, the state can argue it is responding to a changed legal framework. One, Louisiana v Callais narrowed a key Voting Rights Act protection; two, Republican-led states are already reconfiguring maps in response; three, waiting could entrench districts that are now legally vulnerable or strategically obsolete.",
+            "Second, redrawing can be framed as restoring equal representation rather than suppressing it. One, Mississippi’s 2nd district is unusually long at about 275 miles and is heavily shaped around a predominantly Black Delta population; two, the state can claim current lines are themselves artificial and outdated; three, a redraw could be presented as aligning districts with updated legal standards and population logic.",
+            "Third, Republicans have a clear incentive to act before the 2027 cycle. One, Reeves explicitly says the goal is to redraw congressional and legislative lines between now and 2027; two, delaying risks losing the window to maximize the map’s effect before the next full cycle; three, if the party believes the current map is structurally unfair, inaction leaves that disadvantage in place."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between democratic stability and partisan advantage: prop wins if the round prioritizes institutional legitimacy and election certainty, while opp wins if the round treats redistricting as a normal tool of post-ruling legal adjustment. Prop has the structural advantage on immediate harm because the primaries have already happened and rushed changes create concrete disruption, but opp has the cleaner long-term claim that the state should adapt to a new legal environment before the next cycle.",
+      "stock_connections": [
+        "Gerrymandering",
+        "Voting Rights Act",
+        "Democratic Backsliding",
+        "Minority Representation",
+        "Electoral Legitimacy",
+        "Partisan Entrenchment",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as a state governor, would not redraw electoral maps mid-cycle after a major court ruling",
+        "THBT states should be allowed to redraw congressional districts immediately after major voting-rights rulings",
+        "THP a world where redistricting cannot occur after primary elections",
+        "THBT partisan redistricting is justified when legal precedent changes districting rules"
+      ],
+      "data_points": [
+        "Mississippi held congressional primaries in March 2026, before the Louisiana v Callais ruling",
+        "Mississippi has four congressional districts",
+        "Bennie Thompson is Mississippi’s lone congressional Democrat",
+        "Mississippi’s 2nd congressional district is about 275 miles long",
+        "Mississippi’s 2nd district covers much of the Mississippi Delta, which is predominantly Black",
+        "Reeves said redrawing the congressional district is 'not a question of if, it’s a question of when'"
+      ]
+    },
+    {
+      "id": "d5aca9892c1a",
+      "title": "U.S.-Iran 'Cease-Fire' Exposes How Weak, Violable Truces Can Freeze Wars Without Ending Them",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/cease-fire-definition-meaning-iran-war-trump/",
+      "published": "2026-05-13T16:00:15Z",
+      "category": "IR",
+      "region": "United States / Iran / Lebanon / Strait of Hormuz",
+      "background": "A Foreign Policy interview published on 2026-05-13 examines the U.S.-Iran cease-fire declared the previous month, which has continued to see repeated exchanges of fire and a U.S. naval blockade on Iranian ports. The article says the truce has been disputed from the start, including over whether Lebanon was covered, and that tensions remain unresolved around the Strait of Hormuz. Despite accusations of violations on both sides, neither Washington nor Tehran has formally abandoned the cease-fire.",
+      "prop_args": [
+        {
+          "thesis": "A weak, violation-prone cease-fire is still better than a return to full-scale war because it preserves a floor under escalation while diplomacy continues.",
+          "mechanisms": [
+            "First, even an imperfect cease-fire reduces the probability of catastrophic escalation. This is because (1) both sides can keep signaling resolve without committing to full war, (2) low-level violations can be absorbed without triggering a spiral, and (3) the existence of a truce creates a political off-ramp that full war removes.",
+            "Second, ambiguity can be strategically useful when trust is absent. Three reasons: one, neither side wants binding constraints that only it will obey; two, flexible cease-fires let parties test intentions without total commitment; three, the article notes both sides are deliberately avoiding escalation because neither believes it serves their interests.",
+            "Third, the real benchmark is not perfect compliance but whether hostilities are contained. This matters because a cease-fire that prevents a wider regional war around Lebanon and the Strait of Hormuz still saves lives, protects shipping, and buys time for mediation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A cease-fire without clear rules, monitoring, and enforcement is mostly cosmetic and can entrench a dangerous low-level war rather than end it.",
+          "mechanisms": [
+            "First, weak mechanisms make violations normal rather than exceptional. One, there is no written cease-fire document covering key issues; two, there are no robust monitors or dispute-resolution procedures; three, that means each side can reinterpret violations to justify retaliation.",
+            "Second, the truce can become a cover for strategic probing. One, both sides can use limited strikes to improve bargaining position; two, they can message domestic hard-liners that they are not 'going soft'; three, this creates a stable equilibrium of chronic hostility instead of peace.",
+            "Third, the absence of credible mediation increases the risk of accidental collapse. One, repeated exchanges of fire raise the chance of miscalculation; two, a naval blockade and disputes over the Strait of Hormuz create high-stakes flashpoints; three, once one side concludes the other is exploiting the truce, the agreement can unravel quickly."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the cease-fire is a stabilizing floor or merely a managed continuation of war. Prop wins if the comparison class is full-scale regional escalation; opp wins if the comparison class is durable peace, because the article itself shows the truce lacks the mechanisms needed to convert temporary restraint into settlement.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Miscalculation",
+        "Deterrence",
+        "Conflict Management",
+        "Peacekeeping vs Peacebuilding",
+        "Credible Commitment Problem",
+        "Transactional Diplomacy",
+        "Escalation Control"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize a weak cease-fire over demanding a comprehensive peace deal",
+        "THBT states should accept imperfect cease-fires in active wars even when violations continue",
+        "THP a world where cease-fires are judged by escalation prevention rather than strict compliance",
+        "TH, as an international mediator, would formalize cease-fire mechanisms before pursuing final-status negotiations"
+      ],
+      "data_points": [
+        "The cease-fire was declared in the month before the article was published on 2026-05-13",
+        "Repeated exchanges of fire continued in the week before publication",
+        "The article says there was a U.S. naval blockade on Iranian ports",
+        "Disagreement over whether Lebanon was included threatened the truce early on",
+        "The Strait of Hormuz remained a central unresolved issue",
+        "Laurie Nathan cites Darfur cease-fires with 'about 14' separate agreements",
+        "Nathan says the Sudan Comprehensive Peace Agreement (2005) cease-fire was violated 'countless times' before eventually progressing",
+        "The article says there is no document covering the U.S.-Iran cease-fire"
+      ]
+    },
+    {
+      "id": "9387114e4831",
+      "title": "AI Health Chatbots Become a Shadow Triage System as NHS Access Fails to Keep Pace",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
+      "published": "2026-05-13T15:55:17Z",
+      "category": "Econ",
+      "region": "UK",
+      "background": "A King’s College London study of more than 2,000 people found that 15% of respondents had used AI chatbots for health advice instead of seeing a GP. Of those, one in four said they did so because of long NHS waiting lists, while around one in five said the chatbot discouraged them from seeking professional care or led them to avoid a consultation. The study is described as the first to quantify chatbot use for health advice, and respondents were split on AI in clinical decision-making, with 37% in favour and 38% against.",
+      "prop_args": [
+        {
+          "thesis": "AI health chatbots are a necessary stopgap that improve access, reduce friction, and help patients navigate an overstretched NHS.",
+          "mechanisms": [
+            "First, chatbots lower the cost of first-contact care. This is because (1) they are available instantly, unlike GP appointments that may involve long waits, (2) they reduce the time and money cost of seeking basic advice, and (3) they let patients self-triage before consuming scarce clinician time.",
+            "Second, they expand access for people who would otherwise do nothing. Three reasons: one, long NHS waiting lists are already pushing 25% of chatbot users toward AI, two, people with mild or ambiguous symptoms often avoid formal care unless prompted, and three, chatbots can convert uncertainty into action by giving a low-barrier starting point.",
+            "Third, they can improve system efficiency by filtering low-acuity cases. This matters because (1) if even a fraction of routine queries are handled digitally, GP capacity is freed for serious cases, (2) patients can be directed toward NHS.uk or urgent care when needed, and (3) the NHS gains a scalable front door without immediately hiring large numbers of clinicians."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AI chatbots are a dangerous substitute for medical care because they create false reassurance, delay treatment, and shift liability onto clinicians and patients.",
+          "mechanisms": [
+            "First, they can actively suppress appropriate care-seeking. One, around 20% of users said the chatbot did not encourage them to seek a professional opinion, two, a similar share said they decided against a consultation because of what the AI told them, and three, that means the tool is not just informational but behavior-shaping in a way that can delay diagnosis.",
+            "Second, they are structurally unable to do what medicine requires. One, they cannot examine a patient or detect subtle signs, two, they often lack full medical history and context, and three, previous research has already found some AI systems and Google AI Overviews can produce false or misleading health advice.",
+            "Third, they create an accountability gap that weakens trust in the health system. One, when AI gives bad advice, responsibility often falls on clinicians who did not control the tool, two, unregulated consumer use creates a parallel healthcare system outside NHS oversight, and three, if patients learn they cannot trust digital advice, the long-term result is lower trust in both AI and formal care."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI is a bridge over NHS access failures or a substitute that normalizes under-treatment. Prop wins if the round is about system capacity and access; opp wins if the round is about safety, diagnostic error, and the irreversibility of delayed care.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Information Asymmetry",
+        "Principal-Agent Problem",
+        "Regulatory Failure",
+        "Public Goods Underprovision",
+        "Healthcare Access Inequality",
+        "Automation Bias",
+        "Trust in Institutions"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would regulate consumer AI health chatbots as medical devices",
+        "THBT the NHS should integrate AI chatbots as a first-line triage tool",
+        "THP a world where patients can access AI health advice before seeing a doctor",
+        "THBT governments should subsidize AI health triage to reduce pressure on public healthcare systems"
+      ],
+      "data_points": [
+        "15% of respondents said they used AI chatbots for health advice instead of seeing a GP",
+        "25% of chatbot users said they did so because of long NHS waiting lists",
+        "20% said the chatbot did not encourage them to seek a professional opinion",
+        "Around 20% said they decided against a consultation because of something an AI chatbot told them",
+        "Survey sample: more than 2,000 people",
+        "37% of respondents supported AI in clinical decision-making, while 38% opposed it",
+        "Among 18- to 24-year-olds, 49% opposed clinical use of AI within the NHS",
+        "Among those aged 65 and over, 36% opposed clinical use of AI within the NHS"
+      ]
+    },
+    {
+      "id": "fae0e11d64c9",
+      "title": "EU Forces Rail Ticket Interoperability to Break National Booking Monopolies",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/13/eu-proposal-cross-border-europe-train-bookings",
+      "published": "2026-05-13T15:49:11Z",
+      "category": "Econ",
+      "region": "European Union",
+      "background": "On 13 May 2026, the European Commission proposed new rules to make cross-border train travel easier to book across the EU. The plan would require major rail operators such as Deutsche Bahn, SNCF and Trenitalia to sell competitors’ tickets on their websites and share data with booking platforms, while also expanding passenger rights for missed connections, delays and cancellations. The Commission says the reforms should be in place before the end of its mandate in 2029, but the railway industry group CER has already called the package “unprecedented and unjustified regulatory interventionism.”",
+      "prop_args": [
+        {
+          "thesis": "The EU should force rail interoperability because fragmented ticketing is a market failure that suppresses demand, raises prices, and keeps rail uncompetitive against aviation.",
+          "mechanisms": [
+            "First, the current system imposes high search and transaction costs that deter consumers from buying cross-border rail at all. This is because (1) passengers often need multiple websites and apps to assemble one journey, (2) 43% of respondents in a Eurobarometer survey had not booked connecting rail journeys, and (3) a 2025 YouGov poll found two out of three long-distance rail passengers encountered difficulties when buying tickets.",
+            "Second, mandatory data-sharing and resale of competitors’ tickets increases competition and lowers effective prices. Three reasons: one, it reduces the ability of incumbent rail firms to lock customers into national booking silos; two, it allows comparison platforms to bundle routes and surface cheaper combinations; three, the Commission expects greater transparency to push fares down, especially on routes currently made expensive by multiple operators and separate tickets.",
+            "Third, stronger liability rules make rail a credible substitute for flights on long-distance routes. This matters because (1) missed connections are one of the biggest risks in multi-operator rail travel, (2) guaranteed rebooking, reimbursement, food and accommodation reduce the downside of choosing rail, and (3) if passengers trust that a single journey is protected, they are more likely to switch from flights to trains, supporting climate and modal-shift goals."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The EU should not impose this regime because it over-regulates a functioning market, raises distribution costs, and hands pricing power to tech intermediaries rather than passengers.",
+          "mechanisms": [
+            "First, forcing incumbents to sell rival tickets and share data can create new middlemen costs that are ultimately passed on to consumers. One, booking platforms can charge higher distribution fees once they become gatekeepers to cross-border sales; two, operators may respond by raising ticket prices to preserve margins; three, the result is a more complex value chain rather than a simpler one.",
+            "Second, the policy may distort incentives for rail operators to invest in their own integrated systems and service quality. One, if firms are compelled to open their sales channels and data, they lose control over customer relationships and branding; two, they may underinvest in innovation if the gains are captured by third-party platforms; three, the CER argues the market already largely meets customer expectations, suggesting the problem may be overstated.",
+            "Third, expanded passenger-rights obligations can increase operational and legal risk in a sector with thin margins. One, operators that cause delays may be forced to cover rebooking, food and accommodation for entire journeys; two, this creates uncertain liability across multiple carriers and jurisdictions; three, higher compliance costs can be passed through to taxpayers or passengers, especially where rail is already more expensive than flights on many routes."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the current booking fragmentation is a fixable market failure or a tolerable friction that prevents heavier regulatory costs. Pro side wins if the judge prioritizes consumer access and modal shift; opposition wins if they think the EU is creating a new layer of intermediaries and liability that raises costs without solving the underlying economics of rail.",
+      "stock_connections": [
+        "Market Failure",
+        "Natural Monopoly / Network Effects",
+        "Regulatory Overreach",
+        "Consumer Protection",
+        "Race to the Bottom",
+        "Intermediary Power",
+        "Competition Policy",
+        "Public Goods / Positive Externalities",
+        "Modal Shift / Climate Policy"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would force rail operators to sell competitor tickets on their websites",
+        "THBT the EU should mandate open ticketing data for cross-border transport platforms",
+        "THP a world where cross-border rail passengers receive full journey-wide compensation rights",
+        "THBT governments should prioritize interoperability over national control in transport markets"
+      ],
+      "data_points": [
+        "Passengers may need 'five tabs, three apps and a prayer' to book one cross-border rail journey",
+        "43% of Eurobarometer respondents had not booked connecting trains for one journey",
+        "A 2025 YouGov poll across seven European countries found two out of three long-distance rail passengers encountered difficulties when buying tickets",
+        "43% of respondents said they would take a train more often if ticket reservations were easier",
+        "A university study found booking a train took 70% longer than booking a flight",
+        "Greenpeace found flights were cheaper than trains on 54% of 109 cross-border routes in 2025",
+        "The proposal would require major operators such as Deutsche Bahn, SNCF and Trenitalia to sell competitors’ tickets and share data with booking platforms",
+        "The Commission wants the new rail rules in place before the end of its mandate in 2029"
+      ]
+    },
+    {
+      "id": "7720c36b73cb",
+      "title": "ICC-Wanted Duterte Ally Turns Philippine Senate Into Flashpoint Between Rule of Law and Elite Immunity",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/gunshots-ring-out-in-the-philippine-senate-building-video",
+      "published": "2026-05-13T15:41:45Z",
+      "category": "IR",
+      "region": "Philippines",
+      "background": "On Wednesday evening, gunshots were heard inside the Philippine Senate building. Senator Ronald Dela Rosa, who is wanted by the International Criminal Court over his alleged role in crimes linked to the Duterte-era anti-drug crackdown, had been living in the Senate complex since Monday. The Philippine interior secretary said no one was hit or wounded in the incident.",
+      "prop_args": [
+        {
+          "thesis": "The standoff shows why international accountability mechanisms are necessary: without external pressure, politically connected officials can use state institutions to evade justice.",
+          "mechanisms": [
+            "First, ICC pressure raises the cost of impunity for powerful domestic actors. This is because (1) local courts and police may be unwilling to act against a sitting senator tied to a former president, (2) elite protection networks can turn state buildings into safe havens, and (3) external warrants create a legal and diplomatic basis for arrest that domestic institutions may otherwise lack.",
+            "Second, the incident exposes how weak rule-of-law institutions get captured by factional politics. Three reasons: one, the Senate complex becomes a symbol of institutional shielding rather than neutral governance; two, law enforcement is forced into paralysis when confronting politically sensitive figures; three, public trust collapses when violence or intimidation can occur inside a legislature without immediate accountability.",
+            "Third, enforcing accountability deters future abuses by security and political elites. This matters because if senior officials see that mass-casualty crackdowns can be investigated years later, they have less incentive to authorize extrajudicial violence, and victims gain at least some pathway to redress."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is a sovereignty and stability problem: allowing an external court to pursue a sitting senator inside a domestic legislature risks escalating political conflict without reliably improving justice.",
+          "mechanisms": [
+            "First, ICC intervention can harden domestic backlash. One, supporters of the accused frame the case as foreign interference, which increases polarization; two, politicians rally around the target to defend national sovereignty; three, this makes cooperation with international institutions even less likely in future cases.",
+            "Second, aggressive accountability efforts can destabilize already fragile institutions. One, a high-profile arrest attempt inside the Senate could trigger confrontations between security forces and political loyalists; two, uncertainty inside a legislature disrupts governance and legislative business; three, the state may respond by expanding emergency-style policing that further erodes civil liberties.",
+            "Third, the ICC is often selective and slow, so the symbolic value may exceed the practical one. One, proceedings can take years and depend on cooperation the court does not control; two, enforcement against powerful figures is uneven, which undermines legitimacy; three, domestic reconciliation and institutional reform may be more effective than externally imposed prosecution."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between accountability and stability: prop wins if you prioritize ending elite impunity and restoring rule-of-law norms, while opp wins if you think external enforcement mainly triggers backlash and institutional paralysis. Prop has the structural advantage if the round is about long-term deterrence and victim justice; opp is stronger if the motion centers immediate governance and sovereignty.",
+      "stock_connections": [
+        "Rule of Law",
+        "Elite Impunity",
+        "Democratic Backsliding",
+        "Sovereignty vs International Intervention",
+        "International Criminal Court Enforcement",
+        "Institutional Capture",
+        "Political Polarization",
+        "Security Sector Abuse"
+      ],
+      "motion_areas": [
+        "TH, as the Philippines, would cooperate with the ICC in arresting senior officials accused of mass atrocities",
+        "THBT international courts should be able to override domestic immunity for sitting legislators accused of crimes against humanity",
+        "THP a world where the ICC can enforce arrest warrants without state cooperation"
+      ],
+      "data_points": [
+        "Ronald Dela Rosa is a sitting Philippine senator and a former police chief linked to the Duterte administration's anti-drug crackdown",
+        "The ICC has issued an arrest warrant for Dela Rosa over alleged crimes related to the anti-drug campaign",
+        "Gunshots were heard inside the Philippine Senate building on Wednesday evening",
+        "The Philippine interior secretary said no one was hit or wounded",
+        "Dela Rosa had been living in the Senate complex since Monday"
+      ]
+    },
+    {
+      "id": "5938fc6234d5",
+      "title": "The Digital Euro Becomes a Test of EU Sovereignty vs. Financial Privacy and Market Freedom",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/europe-strategic-autonomy-depends-on-the-digital-euro-by-brian-judge-2026-05",
+      "published": "2026-05-13T15:21:33Z",
+      "category": "Econ",
+      "region": "European Union",
+      "background": "The European Union’s three main institutions — the European Parliament, the European Council, and the European Commission — are preparing to begin formal negotiations on a digital euro. The project has been in preparation for years and is moving from a technocratic monetary-infrastructure proposal into a politically contested policy choice. The article frames the digital euro as part of a broader debate over whether EU integration is experienced by citizens as a practical benefit or mainly as regulation and constraint.",
+      "prop_args": [
+        {
+          "thesis": "A digital euro would strengthen EU strategic autonomy by reducing Europe’s dependence on foreign payment rails and giving citizens a public, pan-European digital means of payment.",
+          "mechanisms": [
+            "First, it reduces reliance on non-EU payment infrastructure. This is because (1) most digital retail payments in Europe still run through private card networks and platforms with significant US influence, (2) a public digital euro gives the ECB and EU institutions a direct settlement layer, and (3) that lowers the leverage foreign firms can exert over European commerce in sanctions, fees, and access.",
+            "Second, it improves the internal functioning of the single market. Three reasons: one, a common digital payment instrument lowers cross-border transaction frictions inside the eurozone; two, it makes payments interoperable across member states without requiring each country to build separate systems; three, it can increase competition by giving merchants and consumers an alternative to dominant private providers.",
+            "Third, it has political legitimacy value. This matters because (1) citizens often experience the EU as abstract regulation rather than visible benefit, (2) a digital euro is a concrete everyday service that can be branded as a European public good, and (3) visible utility can strengthen support for integration at a time of rising Euroscepticism."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A digital euro would create more risks than benefits by undermining privacy, crowding out private innovation, and exposing the ECB to political and operational backlash.",
+          "mechanisms": [
+            "First, it creates surveillance and privacy concerns. One, even if designed with safeguards, a state-backed digital currency raises fears that governments can track spending patterns; two, those fears reduce public trust and adoption; three, low adoption means the system fails to deliver the promised strategic benefits.",
+            "Second, it can crowd out the private payments ecosystem. One, if consumers shift deposits and transaction demand toward a public wallet, banks and fintechs lose fee income and customer relationships; two, that weakens incentives for private innovation in payments; three, the EU could end up with a slower, more bureaucratic system than the market would have produced.",
+            "Third, it introduces financial stability and implementation risks. One, a widely used digital euro could accelerate deposit flight from commercial banks during stress if people treat it as a safe ECB liability; two, the ECB would need to impose limits or complex design features that reduce usability; three, if the rollout is clunky, the project becomes a costly symbol of EU overreach rather than a credibility boost."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the digital euro is a genuine sovereignty tool or just a politically expensive payment app. Prop wins if the round prioritizes long-run strategic autonomy and single-market integration; opp wins if the round prioritizes privacy, banking stability, and the risk that low adoption makes the project mostly symbolic.",
+      "stock_connections": [
+        "Strategic Autonomy",
+        "Digital Sovereignty",
+        "Financial Privacy",
+        "State Overreach",
+        "Crowding Out Private Sector Innovation",
+        "Moral Hazard",
+        "Bank Run Risk",
+        "Single Market Integration",
+        "Technocratic Legitimacy"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would introduce a digital euro",
+        "THBT the European Central Bank should launch a retail digital currency",
+        "THP a world where major economies issue central bank digital currencies for retail use"
+      ],
+      "data_points": [
+        "The European Parliament, European Council, and European Commission are all preparing to begin formal negotiations on the digital euro",
+        "The project has been in preparation for years and is now moving into the formal legislative stage",
+        "The article frames the digital euro as one of the most politically contested items on the EU agenda"
+      ]
+    },
+    {
+      "id": "00b561453d1c",
+      "title": "Trump’s Beijing Summit Turns Nvidia Into the Test Case for US-China AI Decoupling",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/nvidia-s-ceo-joins-trump-in-china-with-ai-in-spotlight-video",
+      "published": "2026-05-13T15:18:28Z",
+      "category": "Business",
+      "region": "United States / China",
+      "background": "On 13 May 2026, Nvidia co-founder and CEO Jensen Huang joined US President Donald Trump on a trip to China as a last-minute addition ahead of a high-stakes Beijing summit. The visit placed artificial intelligence and technology cooperation at the center of the agenda, with several US business leaders also expected to attend. The trip comes amid escalating US-China competition over advanced chips, AI infrastructure, and export controls.",
+      "prop_args": [
+        {
+          "thesis": "Bringing Nvidia into the summit is a pragmatic way to preserve US leverage over China while keeping American firms embedded in the world’s largest AI market.",
+          "mechanisms": [
+            "First, it keeps the US inside the commercial choke points that matter most. This is because (1) Nvidia still controls critical AI accelerators and software ecosystems, (2) Chinese firms remain dependent on access to advanced compute even under export controls, and (3) direct executive-level engagement lets Washington shape the terms of any partial access rather than ceding the market entirely to domestic Chinese substitutes.",
+            "Second, it reduces the risk of a full technology rupture that would hurt US firms more than it hurts China in the short run. Three reasons: one, Nvidia and other US suppliers lose revenue, scale, and R&D cash if shut out of China; two, Chinese buyers can accelerate substitution, gray-market procurement, and indigenous chip development; three, keeping trade channels open preserves bargaining power for future concessions on security, IP, and market access.",
+            "Third, it creates a controlled diplomatic channel for AI governance. This matters because (1) AI safety, model deployment, and chip controls are too strategically important to leave to ad hoc sanctions alone, (2) summit-level contact can establish red lines around military use and advanced compute, and (3) even limited cooperation lowers the probability of miscalculation in a sector where both sides fear strategic surprise."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Putting Nvidia at the center of the summit risks legitimizing strategic dependence and weakens the US ability to contain China’s AI rise.",
+          "mechanisms": [
+            "First, it signals that commercial pressure can override national-security policy. One, Beijing learns that access to the Chinese market can be used to lobby for softer export controls; two, US firms become political intermediaries for a rival state rather than cleanly aligned with Washington; three, this encourages future carve-outs that erode the credibility of decoupling.",
+            "Second, it accelerates China’s long-term self-sufficiency in AI. One, every restriction and negotiation pushes Chinese firms to invest more in domestic chips, cloud infrastructure, and model stacks; two, the presence of a flagship US company gives China more information about where US bottlenecks are; three, once substitution happens, the US permanently loses market share and leverage.",
+            "Third, it creates domestic and alliance-management costs for the US. One, allies see Washington as inconsistent if it publicly frames China as a strategic threat while privately facilitating business engagement; two, security hawks interpret the move as prioritizing corporate profits over containment; three, that weakens bipartisan support for future export controls and coordinated tech policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether engagement preserves leverage or dilutes it. Prop wins if the round is about managing an unavoidable interdependence in a sector where total decoupling is costly; Opp wins if the judge prioritizes long-run strategic competition, because every commercial concession today can harden China’s ability to replace US technology tomorrow.",
+      "stock_connections": [
+        "Decoupling",
+        "Interdependence as Leverage",
+        "Technology Containment",
+        "Trade War Escalation",
+        "National Security vs Economic Efficiency",
+        "Strategic Rivalry",
+        "Dependency Theory",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would allow major tech CEOs to accompany diplomatic delegations to China",
+        "THBT the US should prioritize commercial engagement over full technological decoupling from China",
+        "THP a world where AI chip trade between the US and China remains partially open"
+      ],
+      "data_points": [
+        "Jensen Huang, Nvidia co-founder and CEO, joined President Donald Trump on a China trip as a last-minute addition",
+        "The visit occurred ahead of a high-stakes Beijing summit on 13 May 2026",
+        "Several US business leaders were expected to attend the trip",
+        "The article identifies AI and technology as the central spotlight of the summit"
+      ]
+    },
+    {
+      "id": "1bd93486a9aa",
+      "title": "RN’s Attack on Mbappé Exposes the Battle Over Who Gets to Define French Citizenship",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/marine-le-pen-party-national-rally-kylian-mbappe-criticism",
+      "published": "2026-05-13T15:08:46Z",
+      "category": "IR",
+      "region": "France",
+      "background": "Kylian Mbappé, the France captain and one of the country’s most prominent public figures, told Vanity Fair that he was worried about the consequences for France if Marine Le Pen’s National Rally (RN) won the 2027 presidential election. RN president Jordan Bardella responded by mocking Mbappé’s move from PSG to Real Madrid, while Le Pen said football fans should not be influenced by him. The exchange comes as RN polls strongly ahead of the spring 2027 presidential race, and Bardella could become the party’s candidate if an appeals court upholds Le Pen’s ban from running.",
+      "prop_args": [
+        {
+          "thesis": "RN’s attack on Mbappé is politically useful in the short term but ultimately reinforces the party’s exclusionary brand and helps opponents frame it as anti-diversity and anti-citizen.",
+          "mechanisms": [
+            "First, the attack lets RN signal to its base that it will not be lectured by elite celebrities. This works because (1) it turns a high-status critic into a partisan enemy, (2) it activates resentment against cultural elites and media personalities, and (3) it keeps RN’s anti-establishment identity intact even as it seeks power.",
+            "Second, the exchange hands opponents a clean narrative that RN is hostile to France’s multicultural national identity. Three reasons: one, Mbappé is not just a footballer but the face of the national team and a symbol of diverse suburban France; two, RN’s criticism of him can be read as policing who counts as a legitimate French voice; three, that makes it easier for moderates to believe RN will deepen social division rather than govern for all citizens.",
+            "Third, the controversy can mobilize turnout against RN among younger, urban, and minority voters. This matters because (1) symbolic fights are often more motivating than policy debates, (2) Mbappé’s comments connect RN to fears about exclusion and discrimination, and (3) in a close presidential race, even small increases in anti-RN turnout can be decisive."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "RN benefits from confronting Mbappé because it reframes the debate around elite overreach and protects the party from being delegitimized by celebrity intervention.",
+          "mechanisms": [
+            "First, RN can portray Mbappé as an out-of-touch millionaire trying to influence politics from a privileged position. Numbered reasons: one, his wealth and fame make him easy to cast as disconnected from ordinary voters; two, his move to Real Madrid gives RN a simple hypocrisy line; three, this helps RN argue that political legitimacy comes from voters, not celebrities.",
+            "Second, the response helps RN consolidate its core electorate by turning the issue into a culture-war test of national belonging. Numbered reasons: one, RN can claim Mbappé should represent all French people, not act as a partisan activist; two, this shifts attention away from RN’s policy vulnerabilities onto identity and patriotism; three, it strengthens the party’s claim that it speaks for the “silent majority” against moralizing elites.",
+            "Third, the spat may not hurt RN with swing voters because many care more about cost of living and security than celebrity politics. Numbered reasons: one, the controversy is emotionally salient but not materially central; two, Bardella’s mocking tone can look confident rather than extremist; three, if Mbappé’s popularity has already declined after leaving PSG, the political cost to RN is limited."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolic conflict over national identity helps RN normalize its anti-elite message or instead crystallizes fears that it is hostile to pluralist French citizenship. RN has a structural advantage with its base because culture-war attacks are cheap and memorable, but opponents have the stronger long-term framing if they can turn the episode into evidence that RN governs by exclusion rather than coalition-building.",
+      "stock_connections": [
+        "Culture War",
+        "Anti-Elitism",
+        "National Identity",
+        "Populism",
+        "Minority Representation",
+        "Democratic Backsliding",
+        "Polarization",
+        "Celebrity Politics"
+      ],
+      "motion_areas": [
+        "TH, as a populist party, would attack celebrity political interventions",
+        "THBT political parties should reject endorsements from public figures",
+        "THP a world where national symbols are politically neutral"
+      ],
+      "data_points": [
+        "Jordan Bardella is 30 and could become RN’s presidential candidate if an appeals court upholds Marine Le Pen’s ban from running.",
+        "RN is polling high ahead of France’s spring 2027 presidential election.",
+        "Mbappé is 27 and captains the French national team.",
+        "Mbappé said RN gains in parliament in 2024 were 'catastrophic'.",
+        "France’s 2024 snap parliamentary election saw major gains for RN.",
+        "Mbappé left PSG in 2024; PSG won the Champions League the following year.",
+        "France’s 1998 World Cup-winning team was mythologized as 'Black-Blanc-Beur'."
+      ]
+    },
+    {
+      "id": "bc83eb5d082a",
+      "title": "Obesity Trends Are Diverging: Rich Countries Plateau While Low-Income States Still Face Rising Disease Burdens",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/13/obesity-trends-levelling-off-falling-study",
+      "published": "2026-05-13T15:00:03Z",
+      "category": "Econ",
+      "region": "Global",
+      "background": "A Nature study by an international team of almost 2,000 researchers analysed 4,050 population-based studies covering 232 million people aged five and above, tracking obesity prevalence changes in 1980-2024. It found obesity increased in almost all countries over the 45-year period, but in many high-income countries the pace has slowed to a plateau or slight decline, while obesity continues rising — and in some places accelerating — across many low- and middle-income countries. In 2024, adult obesity prevalence was estimated at 40-43% in the US, 27-30% in the UK, 24-25% in France, 20-23% in Germany, and 11-12% in France may have started to decline; among children, obesity had plateaued in the UK, US, Germany and Japan at roughly 10-12%, 20-23%, 7-12% and 3-7% respectively.",
+      "prop_args": [
+        {
+          "thesis": "The obesity transition is not inevitable; targeted policy, medicine, and school-based interventions can bend population health outcomes downward even in rich countries.",
+          "mechanisms": [
+            "First, the fact that similar countries are diverging proves policy matters more than abstract 'modernity'. This is because (1) the study finds countries with broadly similar economic and technological conditions still have very different obesity trajectories, (2) that means food environments, school meals, advertising rules, and healthcare access can change outcomes, and (3) governments can copy the settings that produced plateaus in places like France, Germany, and Japan rather than treating obesity as a fixed social destiny.",
+            "Second, plateauing in children is strategically important because it creates a cohort effect that lowers future adult prevalence. Three reasons: one, children who do not become obese are less likely to carry obesity into adulthood; two, early intervention is cheaper and more effective than treating established metabolic disease; three, once a generation grows up in a healthier environment, the baseline for future prevalence shifts downward rather than merely stabilising at a high level.",
+            "Third, the rise of effective weight-loss medicines gives states a new tool to accelerate decline. This matters because (1) GLP-1-style drugs can reduce obesity at scale when combined with public health measures, (2) they can lower near-term diabetes and cardiovascular risk even before cultural norms fully change, and (3) visible success creates political feedback by making voters more willing to support taxes, regulation, and prevention programs."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The study is evidence of a structural public-health ceiling in rich countries, but it does not solve the deeper drivers of obesity or the widening burden in poorer states.",
+          "mechanisms": [
+            "First, plateauing is not the same as reversal. One, the study still finds obesity increased in almost all countries over 45 years, so the baseline problem remains huge; two, a slower increase can still mean millions of additional cases over time; three, rich-country plateaus may simply reflect saturation at very high levels rather than successful policy.",
+            "Second, the global divergence means the worst harms are shifting to low- and middle-income countries that have fewer tools to respond. One, these states often face cheaper ultra-processed food imports and weaker regulatory capacity; two, they have less fiscal space for school meals, prevention, and treatment; three, rising obesity there compounds diabetes and cardiovascular disease burdens on already strained health systems.",
+            "Third, relying on medicines risks a narrow, unequal solution. One, weight-loss drugs are expensive and may be inaccessible for most of the global population; two, they treat symptoms rather than the food system, urban design, and inequality that drive obesity; three, if governments over-rely on pharmaceuticals, they may underinvest in prevention and allow corporate food environments to keep worsening."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a manageable plateau and a true structural reversal. Prop wins if the round is about whether policy can work at all; opp wins if the question is whether current trends meaningfully solve the obesity crisis, because the study still shows a massive and unequal global burden with the fastest growth now in poorer countries.",
+      "stock_connections": [
+        "Public health intervention",
+        "Regulation vs personal responsibility",
+        "Inequality in health outcomes",
+        "Demographic transition",
+        "Path dependence",
+        "State capacity",
+        "Access to medicine",
+        "Nanny state"
+      ],
+      "motion_areas": [
+        "TH, as a government, would prioritize obesity prevention over treatment",
+        "THBT high-income countries should heavily regulate ultra-processed foods",
+        "THP a world where weight-loss medicines are publicly subsidised",
+        "THBT developing nations should adopt aggressive public-health interventions to combat obesity"
+      ],
+      "data_points": [
+        "4,050 population-based studies",
+        "232 million participants aged five years and above",
+        "1980-2024 study period",
+        "US adult obesity prevalence: 40-43% in 2024",
+        "UK adult obesity prevalence: 27-30% in 2024",
+        "France adult obesity prevalence: 11-12% in 2024 and may have started to decline",
+        "Germany adult obesity prevalence: 20-23% in 2024 and plateaued",
+        "Child obesity plateaued in the UK, US, Germany and Japan at roughly 10-12%, 20-23%, 7-12% and 3-7% respectively",
+        "Obesity is increasing steadily in Finland",
+        "Obesity among young people and adults in many low-income and middle-income countries continues to rise and in some cases is accelerating"
+      ]
+    },
+    {
+      "id": "06958c40ca2e",
+      "title": "Australia’s Housing Tax Reform Rebalances Wealth, But Leaves Young Buyers Waiting",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/13/why-budget-rhetoric-wont-match-reality-for-many-younger-australians",
+      "published": "2026-05-13T15:00:01Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Australia’s 2026 budget announced major housing-tax changes: the capital gains tax discount on investment properties will shift from the post-1999 50% discount to an inflation-based discount, negative gearing will be banned for new investors from budget night, and discretionary trusts will face a minimum 30% tax rate. The government says existing investors are grandfathered, while new-build investments remain exempt to encourage supply. The reforms are being sold as the biggest tax overhaul in a quarter-century, but critics argue they will not materially change affordability for most younger Australians in the short term.",
+      "prop_args": [
+        {
+          "thesis": "The budget is a meaningful pro-young-people correction because it stops future tax policy from subsidising speculative housing demand and gradually shifts the market toward first-home buyers.",
+          "mechanisms": [
+            "First, the reforms reduce the after-tax return to leveraged property speculation. This is because (1) the CGT discount is no longer a flat 50% windfall, (2) negative gearing is removed for new investors, and (3) discretionary trusts lose a major tax-minimisation channel, so the expected profit from bidding up existing homes falls.",
+            "Second, the policy changes the composition of buyers over time. Three reasons: one, around 6% of first-home buyers since 2019 have been investors, so removing rent-vesting incentives directly affects a real cohort; two, new entrants can no longer use tax arbitrage to outbid owner-occupiers; three, the new-build exemption channels investor demand toward supply creation rather than existing stock.",
+            "Third, the reform is structurally fairer even if it is not instantly transformative. This matters because (1) the budget papers show the top 1% received an average tax benefit of more than $730,000 from these concessions since 2000, (2) the median taxpayer received only $12,400, and (3) politics that stops intergenerational subsidy capture is itself a redistribution toward younger cohorts."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The reforms are mostly symbolic for younger Australians because grandfathering protects the existing housing market and the supply side remains too weak to produce immediate affordability gains.",
+          "mechanisms": [
+            "First, grandfathering means the biggest stock of investor demand is untouched. One, existing owners keep their tax advantages, so the bulk of current speculative capital remains in the market; two, only new investors face the rules, so the policy bites slowly; three, housing prices are set by marginal and incumbent demand together, so the immediate effect on prices is limited.",
+            "Second, the policy does little to fix the core affordability constraint: insufficient supply. One, banning negative gearing does not itself build houses; two, the new-build exemption is narrow and may simply redirect tax planning rather than expand total construction; three, if planning, land release, and construction bottlenecks persist, young buyers still face the same deposit and price pressures.",
+            "Third, the reforms may even hurt some aspiring young buyers who rely on investment as a stepping stone. One, about one in 20 first-home buyers are investors, so a non-trivial minority use rent-vesting to accumulate a deposit; two, removing that strategy reduces wealth-building pathways for younger households with unstable incomes; three, if the policy reduces expected returns without lowering rents or prices quickly, it can worsen the affordability-to-savings ratio for this group."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between fairness over time and affordability now. Pro wins if the round is about correcting a distorted tax system and reducing future investor advantage; opp wins if the metric is immediate housing access, because grandfathering and weak supply transmission mean the short-run price effect is likely modest.",
+      "stock_connections": [
+        "Intergenerational inequality",
+        "Asset inflation",
+        "Rent-seeking",
+        "Tax incidence",
+        "Moral hazard",
+        "Wealth concentration",
+        "Housing affordability",
+        "Supply-side constraints"
+      ],
+      "motion_areas": [
+        "TH, as the Australian government, would abolish negative gearing for all property investors",
+        "THBT governments should replace flat capital gains tax discounts with inflation-indexed taxation",
+        "THP a world where tax policy prioritizes first-home buyers over property investors",
+        "THBT developed countries should grandfather existing tax advantages when reforming housing markets"
+      ],
+      "data_points": [
+        "Top 1% of earners received an average total tax benefit of more than $730,000 from the 50% CGT discount, negative gearing and discretionary trust concessions since 2000",
+        "The next 1% of high earners received an average benefit of $152,000 over the same period",
+        "The median taxpayer received an average benefit of $12,400",
+        "Around 6% of first-home buyers since 2019 were investors",
+        "About 7,400 new first-home investors a year have typically entered the market since 2020",
+        "The government says the reforms could help get another 75,000 Australians, likely primarily younger Australians, into the housing market"
+      ]
+    },
+    {
+      "id": "0408913b86a0",
+      "title": "Israeli Car Strikes in Lebanon Raise the Cost of US-Mediated Negotiations and Regional Escalation",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/12-killed-by-a-series-of-israeli-strikes-on-cars-in-lebanon?traffic_source=rss",
+      "published": "2026-05-13T14:59:19Z",
+      "category": "IR",
+      "region": "Israel / Lebanon / United States",
+      "background": "On 13 May 2026, a series of Israeli strikes on vehicles in Lebanon killed at least 12 people, including a woman and her two children. The strikes came one day before new US-mediated negotiations between Lebanon and Israel were scheduled to begin in Washington. The article does not specify the targets beyond cars or provide further operational details, but the timing makes the incident directly relevant to the diplomatic track.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s strikes strengthen deterrence and bargaining leverage by showing that negotiations do not shield hostile actors from costs.",
+          "mechanisms": [
+            "First, the strikes increase immediate deterrence. This is because (1) they signal that Israel can still impose costs even on the eve of talks, (2) they raise the expected price of continued armed activity or concealment in Lebanon, and (3) they force adversaries to factor in escalation risk before taking actions that threaten Israeli security.",
+            "Second, they improve Israel’s negotiating position. Three reasons: one, they demonstrate operational reach and intelligence penetration, which makes Israeli threats more credible; two, they create urgency for Lebanese interlocutors to restrain armed groups if they want talks to continue; three, they shift the baseline from 'Israel must compromise to stop violence' to 'Lebanon must deliver security concessions to stop strikes.'",
+            "Third, they can prevent a larger conflict by pre-empting future attacks. This matters because targeted force can disrupt planning cycles, degrade mobility, and reduce the likelihood of a broader exchange that would be far costlier for civilians on both sides."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strikes undermine diplomacy and likely intensify the conflict by making negotiations look pointless and humiliating for Lebanon.",
+          "mechanisms": [
+            "First, they poison the bargaining environment. One, killing civilians — including a woman and two children — creates domestic outrage and reduces the Lebanese government's room to cooperate; two, it makes any concession look like capitulation under fire; three, it empowers hardliners who argue that Israel only understands force.",
+            "Second, they increase escalation incentives. One, retaliatory pressure rises when a state is hit immediately before talks; two, the incident can trigger tit-for-tat cycles that expand beyond the original target set; three, it weakens US mediation because Washington is seen as unable or unwilling to restrain Israeli action."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive pressure produces compliance or backlash. Prop wins if you think limited strikes can deter armed actors without derailing talks; Opp wins if you think civilian casualties and bad timing harden positions, delegitimize mediation, and make escalation more likely than restraint.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Deterrence Theory",
+        "Escalation Ladder",
+        "Civilian Harm and Blowback",
+        "Peace Process Spoilers",
+        "Credible Commitment Problems",
+        "Security Dilemma",
+        "Negotiation Under Fire"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would continue targeted strikes in Lebanon even during negotiations",
+        "THBT the use of force before peace talks is justified if it improves bargaining leverage",
+        "THP a world where states can conduct limited cross-border strikes while diplomacy is ongoing"
+      ],
+      "data_points": [
+        "At least 12 people were killed in the strikes",
+        "The dead included a woman and her two children",
+        "The strikes occurred one day before US-mediated negotiations in Washington",
+        "The incident involved a series of Israeli strikes on vehicles in Lebanon"
+      ]
+    },
+    {
+      "id": "1b65a5d6f2f2",
+      "title": "Chinese Courts Signal AI Adoption Cannot Be Used to Offload Layoff Costs Onto Workers",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
+      "published": "2026-05-13T14:58:57Z",
+      "category": "Econ",
+      "region": "China",
+      "background": "A Hangzhou intermediate people’s court ruled in favour of a worker surnamed Zhou, awarding him 260,000 yuan (more than £28,000) after his employer fired him and replaced his role with AI. Zhou had joined the unnamed tech company in 2022 as a quality assurance supervisor for large language models; the firm later offered him a demotion and a 40% pay cut before dismissing him when he refused. The case follows a 2025 Beijing arbitration ruling that said a company could adopt AI, but could not use that as a legal basis to terminate a worker where the change was a foreseeable business upgrade. The ruling comes amid China’s 17% youth unemployment rate for 16- to 24-year-olds and growing public debate over AI-driven job losses.",
+      "prop_args": [
+        {
+          "thesis": "Protecting workers from AI-driven dismissal is necessary to prevent firms from externalizing the social costs of automation onto employees.",
+          "mechanisms": [
+            "First, this forces firms to internalize the true cost of automation. This is because (1) if companies can fire workers whenever software becomes cheaper, they capture all productivity gains while (2) workers bear the income shock and retraining costs, and (3) firms are then incentivized to automate only when the productivity gain is genuinely large rather than merely convenient.",
+            "Second, this preserves labour-market stability during a period of weak job creation. Three reasons: one, China already has 17% youth unemployment among 16- to 24-year-olds; two, rapid AI adoption can concentrate displacement in white-collar and entry-level roles that are hardest to replace; three, preventing arbitrary AI layoffs slows the speed of labour-market churn and reduces the risk of social backlash.",
+            "Third, it creates a legal precedent that shapes corporate behaviour beyond this one case. This matters because courts signalling that 'foreseeable, controllable business upgrades' do not justify termination pushes firms toward gradual transition plans, redeployment, and severance, which spreads adjustment costs more fairly and reduces the chance of a race to the bottom in employment protections."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Courts should not block AI-related dismissals because doing so raises labour costs, slows productivity growth, and protects obsolete jobs at the expense of broader economic dynamism.",
+          "mechanisms": [
+            "First, this creates a rigid labour market that makes firms less willing to adopt productivity-enhancing technology. (1) If every automation decision risks compensation liability, (2) companies face higher expected costs and legal uncertainty, and (3) they may delay AI deployment even when it would raise output, lower prices, and improve competitiveness.",
+            "Second, it preserves jobs that are economically unnecessary and misallocates labour. (1) If AI can perform the task more cheaply and reliably, (2) forcing firms to retain the worker or pay large compensation keeps capital and labour trapped in low-value uses, and (3) that slows reallocation into new sectors where workers could be more productive.",
+            "Third, the long-run welfare effect is better served by adaptation rather than protection. (1) Automation is a structural trend that cannot be stopped by litigation, (2) firms will still automate but may do so elsewhere or informally if domestic rules are too strict, and (3) workers are better helped by retraining and mobility policies than by court-imposed job preservation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the main problem is worker displacement or blocked productivity growth. Prop wins if the round prioritizes distributional fairness and social stability in a labour market already under strain; opp wins if the judge thinks legal friction on automation will materially reduce investment and competitiveness across the economy.",
+      "stock_connections": [
+        "Technological Unemployment",
+        "Race to the Bottom",
+        "Labour Rights",
+        "Moral Hazard",
+        "Creative Destruction",
+        "Automation",
+        "Social Safety Net",
+        "Industrial Policy"
+      ],
+      "motion_areas": [
+        "TH, as China, would legally protect workers from being fired solely because AI can do their jobs",
+        "THBT courts should require firms to compensate employees displaced by automation",
+        "THP a world where companies must bear the transition costs of AI-driven labour replacement"
+      ],
+      "data_points": [
+        "260,000 yuan compensation awarded to the dismissed worker",
+        "40% pay cut offered before dismissal",
+        "Worker joined the company in 2022 as a quality assurance supervisor for large language models",
+        "China’s youth unemployment rate for ages 16-24 is 17%",
+        "Ipsos survey: more than 80% of people in China are excited about AI products, versus fewer than 40% in the UK or US",
+        "Beijing arbitration case last year held that AI adoption was allowed, but not a 'significant change in objective circumstances' justifying termination"
+      ]
+    },
+    {
+      "id": "d088b305483f",
+      "title": "Trump’s Counterterrorism Strategy Turns Homeland Security Into Grievance Politics",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/trump-sebastian-gorka-counterterrorism/687148/?utm_source=feed",
+      "published": "2026-05-13T14:58:47Z",
+      "category": "IR",
+      "region": "United States / Global",
+      "background": "On 2026-05-13, the Trump administration released its official 2026 U.S. Counterterrorism Strategy. The article argues the document is short, typo-ridden, and heavily focused on Trump’s political grievances, while broadening the definition of terrorism to include narcoterrorists, transnational gangs, and violent left-wing extremists such as antifa. It also says the strategy was shaped by Sebastian Gorka, now deputy assistant to the president and senior director for counterterrorism, despite criticism of his qualifications and the administration’s weak interagency process during an ongoing war with Iran.",
+      "prop_args": [
+        {
+          "thesis": "A counterterrorism strategy written by amateurs and driven by domestic grievance politics makes the U.S. less secure because it misallocates attention, weakens institutional coordination, and signals incompetence to adversaries.",
+          "mechanisms": [
+            "First, it misallocates scarce counterterrorism resources. This is because (1) the strategy treats ideologically convenient targets like antifa and transgender activists as top-tier threats, (2) it expands the terrorism frame to fit Trump’s political enemies rather than actual threat likelihood, and (3) agencies then spend time mapping, surveilling, and prosecuting low-priority domestic targets instead of focusing on jihadist plots, Iranian networks, or transnational cells.",
+            "Second, it degrades the quality of state capacity. Three reasons: one, counterterrorism depends on precise threat prioritization across the NSC, FBI, intelligence community, and DOD; two, a vague document with generic slogans gives field agencies no operational guidance; three, when an unqualified loyalist like Gorka drives the process, it crowds out career professionals and normalizes policy made to confirm prejudices rather than manage risk.",
+            "Third, it creates strategic self-harm through signaling. This matters because (1) allies see a U.S. government that cannot distinguish between organized terror networks and domestic culture-war targets, (2) adversaries infer that American decision-making is chaotic and politicized, and (3) that reduces deterrence by making U.S. threats less credible and more easily dismissed as propaganda."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Broadening the counterterrorism frame is justified because modern threats are hybrid, and the administration is right to prioritize domestic extremism, narcoterrorism, and ideological networks alongside jihadism.",
+          "mechanisms": [
+            "First, threat evolution requires a wider lens. One, transnational gangs and narcoterrorist groups can function like terror organizations by using violence, intimidation, and cross-border logistics; two, domestic extremist ecosystems can radicalize, recruit, and inspire lone actors even without a formal hierarchy; three, a strategy that only tracks classic jihadism misses the way contemporary violence is networked across crime, ideology, and online mobilization.",
+            "Second, the document may improve political and bureaucratic alignment. One, presidentially backed language can force reluctant agencies to take neglected threats seriously; two, naming domestic ideological violence can justify surveillance, prosecution, and interagency coordination that were previously too timid; three, even a blunt strategy can create a common vocabulary for law enforcement and state/local partners.",
+            "Third, the critique overstates the importance of document quality relative to operational action. One, counterterrorism success depends more on arrests, intelligence collection, and disruption than on polished prose; two, a short strategy can still function as a political directive that sets priorities without overengineering them; three, if the administration is already taking aggressive action, the paper’s flaws may be cosmetic rather than materially dangerous."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether broadening the threat definition improves security or politicizes it into dysfunction. Prop wins if the round is about institutional competence and credible deterrence; Opp wins if they can prove the threat environment is genuinely hybrid and that imperfect rhetoric still produces useful enforcement.",
+      "stock_connections": [
+        "Politicization of security institutions",
+        "Institutional decay / state capacity",
+        "Threat inflation",
+        "Securitization",
+        "Moral panic",
+        "Democratic backsliding",
+        "Civil liberties vs security",
+        "Deterrence signaling",
+        "Bureaucratic capture"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize domestic institutional competence over expansive threat labeling in counterterrorism",
+        "THBT governments should not expand counterterrorism frameworks to include loosely organized domestic ideological movements",
+        "THP a world where counterterrorism strategies are insulated from partisan politics",
+        "THBT national security agencies should be led by career professionals rather than political loyalists",
+        "TH, as a wartime administration, would publish a narrow and technically precise counterterrorism doctrine"
+      ],
+      "data_points": [
+        "The 2026 U.S. Counterterrorism Strategy was released on 2026-05-13",
+        "The article says the strategy was produced under Sebastian Gorka, deputy assistant to the president and senior director for counterterrorism",
+        "The piece notes the administration is 'in the middle of a war with Iran'",
+        "The report reportedly identifies three main threat buckets: Islamist terrorism, 'narcoterrorists and transnational gangs,' and 'violent left-wing extremists, including anarchists and anti-fascists'",
+        "The article says the CIA assesses Iran 'continues to maintain substantial capabilities' and is 'nowhere near close to collapse'",
+        "The report allegedly calls Christians 'the most persecuted people on Earth'",
+        "The article states Gorka had promised the strategy was 'imminent' nearly a year earlier and 'on the cusp' in summer and October before it was finally released"
+      ]
+    },
+    {
+      "id": "b5996702d26e",
+      "title": "Trump-Xi Talks Turn Trade, Taiwan, and Iran Into a Single Great-Power Bargaining Crisis",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/what-trump-and-xi-want-from-china-visit?traffic_source=rss",
+      "published": "2026-05-13T14:55:57Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan / Iran",
+      "background": "On 13 May 2026, Al Jazeera reported that high-stakes talks between US President Trump and Chinese President Xi were set to focus on trade, technology, Taiwan, and the war on Iran. The piece frames the meeting as a major bilateral bargaining moment, with both leaders seeking concessions across multiple issue areas rather than a single narrow agenda. The article does not provide detailed policy outcomes, but it identifies the core flashpoints shaping the visit.",
+      "prop_args": [
+        {
+          "thesis": "Linking trade, technology, Taiwan, and Iran into one negotiation gives the US leverage to extract concessions from China across multiple strategic domains.",
+          "mechanisms": [
+            "First, issue-linkage increases bargaining power because the US can trade relief in one area for compliance in another. This is because (1) China values stable access to US markets and technology, (2) Washington can credibly threaten escalation on tariffs, export controls, or investment screening, and (3) bundling issues prevents Beijing from compartmentalizing and minimizing each concession.",
+            "Second, the US can use the talks to force China into a broader status quo bargain on security issues. Three reasons: one, Taiwan is China’s most sensitive red line, so even limited ambiguity or restraint is valuable to Washington; two, Iran is a shared pressure point where China’s diplomatic or economic support can be constrained; three, tying these to economic concessions makes China pay a higher price for strategic calm.",
+            "Third, a successful deal would reduce the risk of simultaneous crises across trade and security. This matters because if the US secures even partial commitments on export controls, maritime behavior, or Iran-related cooperation, it lowers the probability that one dispute spills into another and creates a self-reinforcing escalation cycle."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Bundling too many disputes into one summit makes compromise harder and increases the chance of symbolic confrontation rather than durable agreement.",
+          "mechanisms": [
+            "First, multi-issue bargaining raises the domestic political cost of concession for both leaders. One, Trump cannot look weak on tariffs, technology, or Taiwan at once; two, Xi cannot appear to trade sovereignty or strategic autonomy for economic relief; three, the more issues are linked, the easier it is for hardliners to frame any compromise as surrender.",
+            "Second, the talks are vulnerable to deadlock because the issues are asymmetrical and non-fungible. One, trade concessions can be reversed quickly, making them less credible; two, Taiwan is a core sovereignty issue for China and not easily traded away; three, Iran policy is shaped by third-party actors, so neither side can fully deliver on it even if they want to.",
+            "Third, failed summitry can worsen relations by creating expectations that are then publicly unmet. One, high-profile meetings raise the political cost of no deal; two, disappointment can trigger retaliatory tariffs, export restrictions, or military signaling; three, the result is often not cooperation but a more hostile baseline after the summit."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether issue-linkage creates leverage or paralysis. Prop wins if you believe both sides need economic stability enough to trade across domains; opp wins if you think sovereignty issues like Taiwan make the package too politically toxic to settle.",
+      "stock_connections": [
+        "Issue Linkage",
+        "Great Power Competition",
+        "Security Dilemma",
+        "Trade Wars",
+        "Coercive Diplomacy",
+        "Deterrence",
+        "Summit Diplomacy",
+        "Nationalism and Domestic Audience Costs"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would link trade concessions to security concessions in negotiations with China",
+        "THBT the US should prioritize economic leverage over diplomatic restraint in dealing with China",
+        "THP a world where major power summits bundle trade, technology, and security disputes into one negotiation"
+      ],
+      "data_points": [
+        "Talks were framed around four linked flashpoints: trade, technology, Taiwan, and the war on Iran",
+        "The meeting involved US President Trump and Chinese President Xi, making it a top-level bilateral negotiation",
+        "Published on 13 May 2026, indicating the agenda was set amid ongoing global tensions rather than in a period of détente"
+      ]
+    },
     {
       "id": "91313f0b70e1",
       "title": "Ceasefire Collapse Exposes Drone Escalation and Civilian Vulnerability in the Russia-Ukraine War",
@@ -55,6 +928,123 @@
         "Russia said it intercepted 286 Ukrainian drones over 14 Russian regions and Crimea",
         "The ceasefire lasted three days and expired late on Monday",
         "Dnipropetrovsk region reported 8 deaths and 11 injuries; Kryvyi Rih recorded 2 deaths"
+      ]
+    },
+    {
+      "id": "39d73c1223ab",
+      "title": "Trump-Backed Corporate Donors Freeze Wisconsin Expansion as Economic Uncertainty Hits Local Investment",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/uline-trump-donors-pause-wisconsin-development-project",
+      "published": "2026-05-13T14:47:51Z",
+      "category": "Business",
+      "region": "United States (Wisconsin)",
+      "background": "Uline, the shipping-supplies company owned by billionaire Trump supporters Richard and Elizabeth Uihlein, has paused construction of a new distribution facility in Kenosha, Wisconsin. The planned facility is more than 1 million square feet, and the company asked the city planning commission for an extension of its conditional use permit, saying the pause is due to 'current economic conditions' and available space in its existing network. Uline said construction will be paused until 2027 or later, and the commission granted a 12-month extension.",
+      "prop_args": [
+        {
+          "thesis": "Economic uncertainty forces firms to delay capital expenditure, which protects balance sheets but slows local job creation and regional growth.",
+          "mechanisms": [
+            "First, firms pause expansion when demand visibility worsens. This is because (1) building a 1m+ sq ft facility is a large irreversible capital commitment, (2) companies prefer to preserve cash and optionality when interest rates, consumer demand, or logistics demand are unclear, and (3) delaying construction avoids locking in costs before revenue is secure.",
+            "Second, the pause directly suppresses local multiplier effects. Three reasons: one, construction jobs are delayed immediately; two, the future distribution center would have generated permanent warehouse, logistics, and support employment; three, local suppliers, contractors, and service businesses lose spillover demand from the project.",
+            "Third, this is a signal of broader private-sector caution. This matters because when a major employer in a battleground state publicly cites 'economic conditions,' it can reinforce expectations of slowdown, causing other firms to defer investment and municipalities to face weaker tax-base growth."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pausing the project is a rational business adjustment, not an economic crisis, because firms should reallocate capital when they already have enough capacity.",
+          "mechanisms": [
+            "First, the company says it has enough existing space and recently extended leases at Pleasant Prairie. This means (1) the new facility is not urgently needed to meet current demand, (2) delaying avoids overbuilding and stranded assets, and (3) management is responding to real capacity planning rather than panic.",
+            "Second, the permit extension shows the local economy is not being abandoned. This is because (1) the project is paused, not cancelled, (2) the city granted a 12-month extension, indicating regulatory continuity, and (3) the company can restart later if conditions improve, so the long-run investment may still arrive.",
+            "Third, the decision may improve long-term efficiency. Three reasons: one, preserving capital during uncertainty can prevent layoffs later if demand weakens; two, waiting can let firms build when financing and input costs are more favorable; three, disciplined investment timing can raise productivity by avoiding rushed or politically timed projects."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the pause is read as a symptom of macroeconomic weakness or as prudent capital discipline. Prop wins if it proves the decision is part of a wider investment chill that hits jobs and local growth; opp wins if it shows the firm is simply optimizing capacity and preserving optionality without meaningful long-term harm.",
+      "stock_connections": [
+        "Business cycle uncertainty",
+        "Capital expenditure delay",
+        "Opportunity cost",
+        "Local multiplier effects",
+        "Stranded assets",
+        "Investment confidence",
+        "Regulatory uncertainty"
+      ],
+      "motion_areas": [
+        "TH, as a local government, would prioritize retaining corporate investment over scrutinizing the political affiliations of major employers",
+        "THBT firms should delay major capital projects during periods of macroeconomic uncertainty",
+        "THP a world where companies can pause large development projects without penalty when demand forecasts deteriorate"
+      ],
+      "data_points": [
+        "Uline paused construction of a more than 1 million square foot distribution facility in Kenosha, Wisconsin",
+        "Construction is paused until 2027 or later",
+        "Kenosha’s city planning commission granted a 12-month extension of the conditional use permit",
+        "Richard Uihlein donated nearly $80 million to a pro-Trump PAC in 2024",
+        "Uline extended leases at its Pleasant Prairie properties, reducing the immediate need for the new facility",
+        "The Uihleins polled employees in October 2024 on how they planned to vote"
+      ]
+    },
+    {
+      "id": "08fd5904f896",
+      "title": "US Cuba Coercion Risks Creating a Migration Crisis While Reviving Guantánamo as a Symbol of Abuse",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/trump-cuba-takeover-guantanamo-bay-migrants",
+      "published": "2026-05-13T14:47:40Z",
+      "category": "IR",
+      "region": "United States / Cuba / Guantánamo Bay / Caribbean",
+      "background": "More than 30 members of Congress sent a letter on Wednesday urging the Trump administration to end the use of Guantánamo Bay for migrant detention and to rule out military action on Cuba. The lawmakers said Trump’s sanctions and a US fuel blockade on Cuba, ordered earlier in 2026, are worsening a humanitarian crisis and driving migration, while the administration has reportedly considered setting up a migrant camp at Guantánamo. In March, a Pentagon official told Congress that in a Cuban humanitarian crisis the base could be used to 'deal with' migrants; Trump has also publicly said 'Cuba is next' after a January US Delta Force operation in Venezuela.",
+      "prop_args": [
+        {
+          "thesis": "US coercion against Cuba is self-defeating because it worsens humanitarian conditions, increases migration, and then forces the US into more abusive containment policies.",
+          "mechanisms": [
+            "First, sanctions and the fuel blockade degrade basic civilian life, which creates the push factors for flight. This is because (1) fuel shortages hit transport, hospitals, food distribution, and electricity; (2) economic collapse makes ordinary survival impossible; and (3) when the state cannot provide essentials, people leave even if they do not want to.",
+            "Second, military threats and talk of regime change intensify instability and panic, which accelerates displacement. Three reasons: one, households pre-emptively flee before violence escalates; two, elites and skilled workers exit first, hollowing out governance capacity; three, the perception of imminent intervention destroys any confidence in recovery.",
+            "Third, using Guantánamo to detain migrants externalizes the consequences of US policy and deepens the moral and political backlash. This matters because it turns a migration-management issue into a rights-abuse scandal, reinforces anti-US sentiment in the region, and makes future cooperation with Caribbean states harder."
+          ]
+        },
+        {
+          "thesis": "A Cuba takeover or military intervention would be unlawful and strategically reckless because it would damage US credibility while failing to solve the underlying migration problem.",
+          "mechanisms": [
+            "First, intervention without clear legal basis undermines the rules-based order the US claims to defend. This is because (1) it normalizes regime-change coercion; (2) it gives rivals like Russia and China propaganda ammunition; and (3) it weakens US ability to criticize other states for territorial aggression.",
+            "Second, regime change does not guarantee a stable successor government, especially in a state already under economic stress. Three reasons: one, collapsing institutions create a power vacuum; two, armed resistance or elite fragmentation can prolong conflict; three, post-intervention reconstruction is expensive and politically unsustainable.",
+            "Third, even if the US removed the current government, migration could persist or worsen during the transition. This matters because the immediate shock of conflict, repression, and economic uncertainty usually produces more displacement than the pre-existing status quo."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The administration can argue that tough pressure on Cuba is necessary to deter authoritarian behavior and manage an emerging security and migration threat.",
+          "mechanisms": [
+            "First, coercive pressure may be framed as leverage to force concessions from Havana. One, sanctions can raise the cost of repression; two, military signaling can deter hostile behavior; three, the threat of escalation may push the regime toward negotiations or reforms.",
+            "Second, the US can claim it needs detention capacity to process irregular migration at the border and prevent uncontrolled entry. One, offshore detention is presented as a screening tool; two, it reduces immediate domestic political pressure; three, it signals that migration will not automatically result in release into the US."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion actually reduces long-run migration or simply manufactures it. The prop side has the structural advantage because it can link every step of the policy to more displacement and more instability, while the opposition is left defending speculative deterrence and a legally and politically costly intervention.",
+      "stock_connections": [
+        "Blowback",
+        "Humanitarian Intervention",
+        "Regime Change",
+        "Migration Push Factors",
+        "Externalization of Borders",
+        "State Failure",
+        "Rules-Based Order",
+        "Abuse of Detention Powers",
+        "Anti-American Sentiment"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would rule out military intervention in Cuba",
+        "THBT the US should end sanctions that worsen humanitarian crises in adversarial states",
+        "THP a world where states cannot detain migrants in offshore military facilities",
+        "THBT democracies should not use migration crises as justification for regime change"
+      ],
+      "data_points": [
+        "More than 30 members of Congress signed the letter to the secretaries of defense, state and homeland security.",
+        "Trump imposed additional sanctions on Cuba last week, according to the article.",
+        "A US fuel blockade on Cuba was ordered earlier in 2026.",
+        "In March, a Pentagon official told Congress the base could be used to 'set up a camp' at Guantánamo Bay for migrants in a Cuban humanitarian crisis.",
+        "Trump said in March: 'Cuba is next, by the way.'",
+        "Guantánamo was used in the 1990s to detain tens of thousands of migrants and refugees, primarily from Haiti and later Cuba.",
+        "The earlier migrant camp at Guantánamo was shut down after widespread outcry over deplorable conditions."
       ]
     },
     {
@@ -186,6 +1176,68 @@
         "Hungary’s economy has stagnated over the last four years",
         "The government deficit is described as spiralling",
         "Magyar has proposed a 2035 deadline to phase out Russian oil and gas, versus the EU target of end-2027"
+      ]
+    },
+    {
+      "id": "6258289e4228",
+      "title": "Russia’s Mercenary Security Model Fails to Stabilize Mali and Deepens Sahelian Fragmentation",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/13/mali-attacks-security-russia-france-partnership-sahel/",
+      "published": "2026-05-13T14:21:29Z",
+      "category": "IR",
+      "region": "Mali / Sahel / Russia / France",
+      "background": "On April 25, coordinated attacks hit military sites and cities across Mali, killing Defense Minister Sadio Camara and marking the country’s most significant security crisis since the 2012 civil war. The attacks were claimed by Jama’at Nusrat al-Islam wal-Muslimin (JNIM), an al Qaeda affiliate, and the Tuareg-led Azawad Liberation Front (FLA), which operate primarily in Mali’s north. Mali’s junta, led by Assimi Goita after coups in 2020 and 2021, expelled French and U.N. forces in 2022 and turned to Russia’s Wagner Group, later folded into Africa Corps under the Russian Defense Ministry, for security support. The article argues that Russian-backed counterinsurgency has failed to stabilize Mali and has instead worsened civilian alienation, insurgent recruitment, and regional spillover.",
+      "prop_args": [
+        {
+          "thesis": "Russia’s mercenary model is structurally incapable of delivering durable counterinsurgency, so Mali’s pivot to Moscow predictably worsens security rather than fixing it.",
+          "mechanisms": [
+            "First, the model is optimized for regime protection, not intelligence-driven stabilization. This is because (1) Wagner/Africa Corps are rewarded for protecting elites and extracting rents, not building local legitimacy; (2) coercive raids like Moura in 2022 kill civilians and destroy the human intelligence networks counterinsurgency depends on; (3) once communities fear the state and its foreign backers, they stop sharing information, which gives JNIM more room to operate.",
+            "Second, Russian forces intensify the very grievances that insurgents exploit. Three reasons: one, indiscriminate violence against minority Muslim and Tuareg communities turns neutral civilians into recruits; two, breaking the 2024 peace architecture in the north pushes the FLA and JNIM into tactical cooperation; three, the junta’s reliance on foreign mercenaries reinforces the perception that Bamako is an occupying force rather than a national government.",
+            "Third, the failure is not local but regional, so the strategic cost compounds. This matters because (1) Sahelian instability spills into Burkina Faso, Niger, and Gulf of Guinea trade routes; (2) displacement and migration pressures increase toward Europe; (3) the precedent tells other juntas that transactional security partnerships can substitute for state-building, locking the region into a cycle of coups, repression, and insurgency."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Even if Russia has not solved Mali’s insurgency, it remains the least politically costly security partner available to a fragile junta facing immediate survival threats.",
+          "mechanisms": [
+            "First, Russia offers regime security without democratic conditionality. One, unlike France or the U.N., Moscow does not tie support to elections, human rights benchmarks, or anti-corruption reforms; two, that makes it usable for coup-installed governments that cannot survive external scrutiny; three, the junta values staying in power now more than long-term institutional reform.",
+            "Second, Russian support can still generate battlefield gains that Western missions failed to achieve. One, Wagner-backed forces helped Mali retake Kidal in 2023, showing they can deliver offensive capability; two, the junta can use Russian firepower to regain territory and deter rivals even if it cannot fully pacify the country; three, in a fragmented conflict, partial gains may be enough to prevent state collapse.",
+            "Third, the alternative to Russia is not a clean stabilization package but a vacuum. This matters because (1) France and the U.N. already failed after years of deployment; (2) Mali’s public had partially supported the expulsion of Western forces in 2022, so re-entry would be politically toxic; (3) if the state cannot secure itself, it will still choose the partner that maximizes autonomy and minimizes external interference."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term regime survival and long-term state capacity. Prop wins if the motion prioritizes durable security outcomes, because the article shows Russian mercenaries systematically destroy legitimacy and intelligence networks; Opp wins only if the round is framed around immediate sovereignty and the junta’s need for a politically acceptable partner in a no-good-options environment.",
+      "stock_connections": [
+        "State Failure",
+        "Counterinsurgency Backlash",
+        "Legitimacy in Security Provision",
+        "Mercenary Incentives",
+        "Transactional Security Partnerships",
+        "Human Rights Abuses",
+        "Insurgency Recruitment",
+        "Regional Spillover",
+        "Great Power Competition",
+        "Dependency Theory"
+      ],
+      "motion_areas": [
+        "TH, as a fragile junta, would prioritize Russian mercenary security partnerships over Western counterterrorism assistance",
+        "THBT African states should reject transactional security partnerships with Russia in favor of multilateral peacekeeping and reform",
+        "THP a world where coup-led regimes can hire foreign mercenaries for internal security",
+        "THBT the Sahel should not rely on external military contractors for counterinsurgency",
+        "TH, as the Malian government, would expel French and UN forces even if the replacement is Russia"
+      ],
+      "data_points": [
+        "April 25 attacks killed Defense Minister Sadio Camara and hit military sites and cities across Mali",
+        "The April 25 attacks were claimed by both JNIM and the Tuareg-led FLA",
+        "Mali’s 2022 expulsion of French and U.N. forces followed the 2020 and 2021 coups that brought Assimi Goita to power",
+        "Human Rights Watch research cited in the article says more civilians were killed by government and allied forces than by jihadi groups under the junta’s counterinsurgency strategy",
+        "At least 500 civilians were killed by Malian forces and Wagner personnel in Moura in 2022",
+        "Mali’s partners in the Alliance of Sahel States, Burkina Faso and Niger, also rely on Russia’s Africa Corps after expelling Western partners",
+        "The Sahel accounts for more than half of all terrorism-related deaths worldwide",
+        "The article says Mali’s 2024 actions broke an internationally recognized peace treaty that had granted Tuareg minorities self-rule in the north",
+        "Russia’s Africa Corps is described as more bureaucratic, state-controlled, and less flexible than Wagner",
+        "Russia is reportedly developing a logistics hub in Guinea to support Sahel operations"
       ]
     },
     {
