@@ -1,0 +1,700 @@
+{
+  "date": "2026-05-13",
+  "last_updated": "2026-05-13T04:07:25Z",
+  "cards": [
+    {
+      "id": "616a6dc5f095",
+      "title": "New Zealand’s Inflation Expectations Force the RBNZ to Slow Easing and Delay Recovery",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/new-zealand-near-term-inflation-expectations-highest-since-2023",
+      "published": "2026-05-13T03:25:35Z",
+      "category": "Econ",
+      "region": "New Zealand",
+      "background": "New Zealand’s central bank has cut interest rates by 50 basis points for three consecutive meetings, but says it will now slow the pace of cuts as lower borrowing costs are expected to support an economic recovery. The article says near-term inflation expectations have risen to their highest level since 2023, raising concern that easier monetary policy could re-ignite price pressures. The key actors are the Reserve Bank of New Zealand, households, borrowers, and firms facing a still-fragile recovery.",
+      "prop_args": [
+        {
+          "thesis": "The RBNZ should slow rate cuts because anchoring inflation expectations is more important than delivering a faster short-term recovery.",
+          "mechanisms": [
+            "First, higher inflation expectations can become self-fulfilling. This is because (1) firms pre-emptively raise prices when they expect input costs and wages to rise, (2) workers bargain for higher nominal wages to protect real incomes, and (3) households accelerate spending before prices rise further, which feeds demand-pull inflation.",
+            "Second, slowing cuts preserves the credibility of the central bank. Three reasons: one, after three straight 50 bps cuts, markets may interpret continued aggressive easing as tolerance for inflation; two, a credible anti-inflation stance lowers long-run borrowing costs by keeping expectations anchored; three, once credibility is lost, the bank must later hike more sharply, causing a deeper recession.",
+            "Third, this is a better intertemporal tradeoff because a modest delay in recovery is less costly than a renewed inflation spiral. This matters because inflation hurts savers, fixed-income households, and low-income consumers most through regressive erosion of purchasing power, while a premature easing cycle risks forcing the economy into stop-start policy and prolonged uncertainty."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The RBNZ should keep cutting aggressively because the bigger risk is choking off a weak recovery and entrenching unemployment.",
+          "mechanisms": [
+            "First, monetary policy works with long and variable lags, so waiting for inflation expectations to fall before easing can mean over-tightening the real economy. One, households and firms feel higher debt-service costs immediately; two, investment and hiring decisions are delayed; three, by the time inflation actually falls, output losses may already be locked in.",
+            "Second, current inflation expectations may reflect temporary noise rather than persistent demand pressure. One, expectations can be driven by imported prices, exchange-rate movements, or recent headline shocks; two, if underlying slack remains in the economy, wage and price growth may still cool without needing a slower easing cycle; three, the central bank risks mistaking a short-term survey uptick for a structural inflation regime shift.",
+            "Third, faster cuts can prevent debt distress and support balance-sheet repair. One, New Zealand households are highly exposed to mortgage rates, so lower rates quickly improve disposable income; two, firms facing weak demand can refinance and avoid layoffs; three, a stronger recovery can itself stabilize inflation by improving supply utilization and reducing defaults."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether inflation expectations are the leading indicator of a durable price spiral or just a lagging reaction to recent shocks. Prop wins if you think central bank credibility is fragile and costly to rebuild; Opp wins if you think the economy is still too weak for restrictive caution and that recession damage is more immediate and irreversible.",
+      "stock_connections": [
+        "Inflation Expectations",
+        "Central Bank Credibility",
+        "Phillips Curve",
+        "Monetary Policy Lags",
+        "Recession vs Inflation Tradeoff",
+        "Debt Deflation",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the Reserve Bank of New Zealand, would slow the pace of interest rate cuts despite weak growth",
+        "THBT central banks should prioritize anchoring inflation expectations over short-term output recovery",
+        "THP a world where monetary policy responds more aggressively to inflation expectations than to current inflation"
+      ],
+      "data_points": [
+        "New Zealand’s central bank has delivered three straight 50 basis point rate cuts",
+        "Near-term inflation expectations are at their highest level since 2023",
+        "The RBNZ says lower borrowing costs should begin to stoke an economic recovery"
+      ]
+    },
+    {
+      "id": "b84af0fb7695",
+      "title": "China-US Trade Talks Turn on Tech Export Access and Escalation Control",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/china-s-top-trade-negotiator-meets-lee-ahead-of-bessent-talks",
+      "published": "2026-05-13T03:00:53Z",
+      "category": "Econ",
+      "region": "China / United States / United Kingdom",
+      "background": "China’s top trade negotiator He Lifeng met UK officials in London ahead of talks with US Treasury Secretary Scott Bessent. The talks were held at Lancaster House and continued into a second day as the US and China tried to reach an understanding on exports of key tech and industrial goods. Financial markets were watching closely because the negotiations were framed as an effort to prevent a further escalation in the trade war between the world’s two largest economies.",
+      "prop_args": [
+        {
+          "thesis": "Targeted trade talks are the least bad way to prevent a full-scale US-China economic decoupling that would shock global supply chains and markets.",
+          "mechanisms": [
+            "First, negotiations create a controlled off-ramp from escalation. This is because (1) both sides can trade limited concessions on export access without publicly capitulating, (2) face-to-face bargaining reduces miscalculation and retaliatory overreaction, and (3) a narrow deal can freeze the most damaging tariffs or export controls before they spiral.",
+            "Second, talks protect critical industrial and tech supply chains. Three reasons: one, key goods in semiconductors, advanced manufacturing, and industrial inputs are deeply cross-border and cannot be replaced quickly; two, uncertainty alone raises costs for firms that depend on China-US trade; three, even partial clarity lets companies resume investment and inventory planning.",
+            "Third, de-escalation has outsized macroeconomic value. This matters because a US-China trade war does not just hurt bilateral trade; it transmits through shipping, commodity demand, equity markets, and business confidence, so even modest progress can stabilize global growth expectations."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "These talks are mostly performative and risk legitimizing a managed rivalry that still leaves both sides free to weaponize trade later.",
+          "mechanisms": [
+            "First, talks can be used as delay tactics. One, each side gains time to build domestic industrial policy and diversify supply chains; two, temporary calm can reduce pressure for real concessions; three, the underlying strategic competition over technology remains unresolved, so any deal is fragile.",
+            "Second, limited agreements may entrench coercive bargaining. One, if both sides learn that threats produce concessions, they have incentives to repeat escalation cycles; two, partial deals often exclude the hardest issues like advanced chips and security-linked exports; three, firms may misread temporary relief as stability and overexpose themselves again.",
+            "Third, the structural conflict is bigger than trade. One, the US-China rivalry is driven by security and technological dominance, not just tariffs; two, export access can be reversed quickly through licensing or sanctions; three, this means negotiations may slow but not prevent decoupling, while giving both governments political cover."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you think managed bargaining can meaningfully reduce the probability of catastrophic escalation. Prop wins if you prioritize immediate market and supply-chain stability; opp wins if you think the talks only postpone an inevitable strategic split and normalize coercive trade politics.",
+      "stock_connections": [
+        "Trade War",
+        "Decoupling",
+        "Interdependence as Peace",
+        "Weaponized Interdependence",
+        "Protectionism",
+        "Supply Chain Resilience",
+        "Miscalculation in Crisis Diplomacy",
+        "Managed Rivalry"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize trade negotiations with China over further export restrictions",
+        "THBT major powers should pursue managed economic competition rather than decoupling",
+        "THP a world where US-China trade disputes are resolved through bilateral bargaining rather than unilateral sanctions"
+      ],
+      "data_points": [
+        "Talks were held at Lancaster House in London and continued into a second day",
+        "The US and China are the world's two largest economies",
+        "Negotiations focused on allowing exports of key tech and industrial goods",
+        "Financial markets were described as being 'on edge' ahead of the talks"
+      ]
+    },
+    {
+      "id": "1ba971164811",
+      "title": "NT Child Protection Reforms Trade Indigenous Kinship Rights for Faster Removals",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/13/northern-territory-child-protection-reforms-first-nations-indigenous-children-in-care-ntwnfb",
+      "published": "2026-05-13T02:53:07Z",
+      "category": "Econ",
+      "region": "Northern Territory, Australia",
+      "background": "The Northern Territory government has proposed sweeping reforms to the Care and Protection of Children Act after the death of five-year-old Warlpiri child Kumanjayi Little Baby in Alice Springs. The draft legislation would replace the Aboriginal child placement principle, which has been in place since the 1980s as a response to the Stolen Generation, with a new universal principle. Aboriginal Peak Organisations Northern Territory (APO NT), SNAICC, and a coalition of 330 First Nations and justice organisations say the changes would make it easier to remove Aboriginal children, harder to place them in kinship care, and harder to reunify children with family or return them to Country.",
+      "prop_args": [
+        {
+          "thesis": "The NT reforms will worsen harm to First Nations children because they weaken culturally grounded safeguards while expanding state power to remove and permanently separate children from family.",
+          "mechanisms": [
+            "First, removing the Aboriginal child placement principle increases the likelihood of culturally inappropriate removals. This is because (1) decision-makers no longer have a legal presumption prioritising kin and Country, (2) children are more likely to be placed in non-Indigenous care where trauma and identity loss are higher, and (3) the state has weaker constraints against repeating the logic that produced the Stolen Generation.",
+            "Second, lowering the threshold for intervention and fast-tracking long-term placements creates a pipeline from surveillance to permanent separation. Three reasons: one, families facing poverty, housing stress, or service gaps are more easily classified as 'risk'; two, once a child enters care, bureaucracies tend to default to permanence rather than reunification; three, the longer children stay away from kin, the harder it becomes to restore family ties and cultural connection.",
+            "Third, the reforms misdiagnose the cause of harm and therefore entrench it. This matters because the article itself notes advocates want housing, health, and corrections included; if the real drivers are government failure and structural disadvantage, then punishing families instead of fixing services will increase removals without improving safety."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The reforms are justified because the state has a duty to intervene earlier and more decisively when children are at risk, even if that means overriding existing placement preferences.",
+          "mechanisms": [
+            "First, a universal child-safety principle can prevent delay and bureaucratic paralysis. One, workers may currently hesitate because they fear being accused of racism or overreach; two, earlier intervention can stop harm before it becomes fatal; three, permanency and stability can be better for children than repeated unsafe placements or unstable family environments.",
+            "Second, strengthening Family Responsibility Agreements and lowering intervention thresholds can improve accountability. One, they create a formal mechanism to push parents and carers to address neglect or antisocial behaviour; two, they allow the state to act before problems escalate into crisis; three, they reduce the number of children cycling through multiple placements by resolving cases faster.",
+            "Third, the reforms can be defended as child-centred rather than race-based. This matters because if the system is genuinely failing to protect children, then prioritising safety over placement rules may produce better outcomes for the most vulnerable children regardless of background."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the main problem is under-intervention or structural over-removal. Prop wins if you believe the NT is substituting coercion for real support, because the harms of permanent cultural dislocation are hard to reverse; opp wins if they can prove current hesitation is leaving children in immediate danger and that earlier intervention actually improves safety.",
+      "stock_connections": [
+        "Paternalism",
+        "State Overreach",
+        "Cultural Assimilation",
+        "Structural Racism",
+        "Child Welfare vs Family Integrity",
+        "Path Dependence",
+        "Moral Hazard",
+        "Institutional Bias",
+        "Closing the Gap"
+      ],
+      "motion_areas": [
+        "TH, as the NT government, would abolish the Aboriginal child placement principle",
+        "THBT governments should lower the threshold for removing children from unsafe homes",
+        "THP a world where child protection agencies can override kinship placement rules in the name of child safety"
+      ],
+      "data_points": [
+        "330 First Nations and justice organisations condemned the reforms in a joint statement",
+        "The Aboriginal child placement principle has been enshrined in legislation since the 1980s",
+        "The reforms would replace the Aboriginal child placement principle with a new universal principle",
+        "The review was announced after the death of five-year-old Warlpiri child Kumanjayi Little Baby in Alice Springs",
+        "A 47-year-old man not related to the child has been charged with murder and two other offences",
+        "Family Responsibility Agreements would be strengthened and expanded under the reforms",
+        "Federal Indigenous Australians minister Malarndirri McCarthy urged the NT government to listen to the NT children’s commissioner and national children’s commissioner"
+      ]
+    },
+    {
+      "id": "7e432f401408",
+      "title": "Milei’s University Defunding Sparks a Fight Over Austerity, Social Mobility, and State Capacity in Argentina",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/argentines-protest-against-mileis-defunding-of-public-universities?traffic_source=rss",
+      "published": "2026-05-13T02:43:31Z",
+      "category": "Econ",
+      "region": "Argentina",
+      "background": "On 13 May 2026, large crowds marched across Argentina’s major cities to demand that President Javier Milei comply with a university funding law and reverse sweeping budget cuts to the country’s tuition-free public university system. The protests center on the government’s defunding of public universities, which are a major pillar of Argentina’s higher-education model. The dispute comes amid Milei’s broader austerity agenda and confrontation with public-sector spending.",
+      "prop_args": [
+        {
+          "thesis": "Defunding public universities is a necessary austerity reform that forces fiscal discipline and reallocates scarce state resources toward higher-value uses.",
+          "mechanisms": [
+            "First, cutting university spending reduces a politically protected budget item that often grows faster than productivity. This is because (1) public universities are typically large, recurring line items that are hard to discipline once entrenched, (2) austerity credibility depends on showing that even popular sectors are not exempt, and (3) lower deficits reduce inflationary financing pressures in a country like Argentina where fiscal slippage quickly feeds macro instability.",
+            "Second, budget cuts can push universities to become more efficient and market-responsive. Three reasons: one, institutions facing tighter budgets have incentives to trim administrative waste and duplicate programs, two, they may seek private partnerships, tuition differentiation, or research commercialization, and three, scarce public funds can be redirected to primary education, infrastructure, or targeted scholarships with higher social returns.",
+            "Third, the broader impact is that fiscal consolidation can stabilize the economy enough to protect long-run opportunity. This matters because if the state keeps financing unsustainable universal subsidies, inflation and debt crises erode real incomes far more than a smaller university budget ever would; austerity can therefore be framed as painful but necessary to preserve the macroeconomic base on which all education depends."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Defunding public universities is economically self-defeating because it destroys human capital, social mobility, and the state’s long-run growth capacity.",
+          "mechanisms": [
+            "First, public universities are a low-cost engine of human capital formation, and cutting them reduces the supply of skilled workers. One, tuition-free access allows talented students from lower-income households to enter higher education, two, universities produce teachers, engineers, doctors, and civil servants needed for the economy, and three, when access falls, the country loses productivity gains that compound over decades.",
+            "Second, the cuts deepen inequality and entrench elite capture of opportunity. One, tuition-free universities are one of the few mechanisms that let poor and middle-class families compete with wealthier households, two, funding cuts shift the burden onto families who cannot pay private fees or living costs, and three, this shrinks upward mobility and increases resentment toward the state, making future reform politically harder.",
+            "Third, the protests show that austerity can backfire by undermining legitimacy and policy implementation. One, universities are highly visible public goods, so attacking them creates a symbolic focal point for broader anti-government mobilization, two, sustained unrest raises the political cost of reform and can force policy reversals or weaker implementation, and three, if the government is seen as dismantling core social institutions, it loses the trust needed to carry out any serious stabilization program."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-run fiscal credibility and long-run human capital destruction. Prop wins if the round is framed around immediate macro stabilization, but Opp has the structural advantage because university cuts are a classic long-horizon loss: once access, quality, and social mobility erode, the economic damage compounds and is much harder to reverse.",
+      "stock_connections": [
+        "Austerity",
+        "Human Capital",
+        "Social Mobility",
+        "Elite Capture",
+        "Fiscal Credibility",
+        "Public Goods Underinvestment",
+        "Brain Drain",
+        "State Capacity",
+        "Inflationary Financing"
+      ],
+      "motion_areas": [
+        "TH, as the President of Argentina, would defund public universities to balance the budget",
+        "THBT governments in fiscal crisis should cut university spending before welfare spending",
+        "THP a world where public universities are funded primarily through tuition rather than the state"
+      ],
+      "data_points": [
+        "Large crowds marched across Argentina’s major cities on 13 May 2026",
+        "The protests were against compliance with a university funding law and sweeping budget cuts",
+        "Argentina’s public university system is tuition-free",
+        "The dispute is tied to President Javier Milei’s broader austerity agenda"
+      ]
+    },
+    {
+      "id": "53ea74d9c052",
+      "title": "Australia’s Budget Tax Fight Risks Reversing Housing and Revenue Reform",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/13/coalition-response-to-labor-federal-budget-reforms-negative-gearing-capital-gains-tax-cgt",
+      "published": "2026-05-13T02:36:22Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "On 13 May 2026, the Coalition said it would repeal Labor’s budget changes to negative gearing and the capital gains tax (CGT) discount if it wins the next election. Labor’s budget ended negative gearing for new investment properties bought after Tuesday night and said the 50% CGT discount would be replaced by 1 July 2027. The Coalition said it would restore more generous rules for property investors and trusts, while the government said the reforms are needed to change housing incentives and raise revenue. The article says repealing the measures would leave the budget about $70bn worse off.",
+      "prop_args": [
+        {
+          "thesis": "Labor’s tax changes are a necessary correction to distorted housing incentives, and the Coalition’s repeal plan would entrench speculation while blowing a large hole in the budget.",
+          "mechanisms": [
+            "First, the reform shifts capital away from speculative property investment and toward productive uses. This is because (1) negative gearing and the CGT discount have historically made leveraged property more attractive than wages or business investment, (2) removing those concessions for new purchases reduces the after-tax return to bidding up housing assets, and (3) that lowers demand pressure at the margin in a market where prices are already politically and socially sensitive.",
+            "Second, the budget repair logic is strong because the Coalition’s repeal would worsen the fiscal position by about $70bn. Three reasons: one, the government has already baked the measures into forward estimates; two, repealing them means either deeper spending cuts or higher taxes elsewhere; three, that creates a distributional trade-off where the Coalition is protecting investors at the expense of public services or deficit reduction.",
+            "Third, the reform has a fairness and political-economy advantage because it targets tax preferences that disproportionately benefit higher-wealth households. This matters because (1) property investors and trust users are typically better-off and more able to arbitrage tax rules, (2) the benefits of the current system accrue to those already holding assets, and (3) rolling them back is a cleaner way to improve horizontal equity than broad-based tax hikes on workers."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Repealing the changes is better because Labor’s reforms are economically blunt, damage investment confidence, and risk worsening housing supply and small-business incentives.",
+          "mechanisms": [
+            "First, the policy can reduce investment in new housing and related sectors. One, investors respond to after-tax returns, so removing negative gearing and cutting the CGT discount lowers the incentive to buy, build, and hold property; two, if fewer investors enter the market, rental supply can tighten in the short run; three, that can push rents up even if the policy is meant to help affordability.",
+            "Second, the changes create broader uncertainty around tax policy and capital allocation. One, the government is altering long-standing rules that investors and small businesses have priced into decisions; two, uncertainty raises the risk premium for future investment, especially for growth investors and trusts; three, that can reduce entrepreneurship and distort decisions toward tax avoidance rather than real economic activity.",
+            "Third, the Coalition can argue the reform is politically and administratively unfair because it hits ordinary investors and small businesses while leaving larger structural housing constraints untouched. One, planning restrictions and supply bottlenecks are the main drivers of high prices, not tax settings alone; two, changing tax concessions without fixing supply may simply shift costs onto renters and middle-class investors; three, a repeal preserves stability while allowing a broader housing reform package later."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the tax concessions are mainly a distortion that inflates asset prices or a necessary support for investment and rental supply. Prop has the structural advantage on fiscal credibility and distributional fairness, while Opp is stronger if the round is framed around housing supply, investor confidence, and policy stability.",
+      "stock_connections": [
+        "Tax Incidence",
+        "Asset Bubbles",
+        "Housing Affordability",
+        "Rent-Seeking",
+        "Fiscal Consolidation",
+        "Deadweight Loss",
+        "Policy Uncertainty",
+        "Intergenerational Inequality",
+        "Regressive Taxation"
+      ],
+      "motion_areas": [
+        "TH, as the Australian government, would abolish negative gearing for new investment properties",
+        "THBT governments should remove capital gains tax discounts on property investment",
+        "THP a world where tax concessions for property investors are heavily restricted",
+        "THBT Australia should prioritize housing affordability over investor tax preferences"
+      ],
+      "data_points": [
+        "$70bn estimated budget deterioration if the Coalition repeals Labor’s tax changes",
+        "Negative gearing would end for new investment properties bought after Tuesday night",
+        "The 50% capital gains tax discount would be replaced by 1 July 2027",
+        "The Coalition said it would support a new $250 tax offset for workers",
+        "The Greens said as much as 95% of the benefits of the existing property rules would remain under Labor’s proposal",
+        "The government said the $250 offset would benefit about 4 million low-income earners and welfare recipients, but it would not be extended below the tax-free threshold"
+      ]
+    },
+    {
+      "id": "3754c140f6d2",
+      "title": "Trump EPA’s EtO Rollback Shrinks Public-Health Authority and Locks In Higher Cancer Risk",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/12/trump-rollback-eto-pollution-epa",
+      "published": "2026-05-13T02:04:35Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The Trump administration is seeking to rescind Biden-era 2024 rules tightening limits on ethylene oxide (EtO), a toxic sterilizing gas used on about 20 billion medical devices annually. The 2024 EPA rule would have forced 89 facilities to cut EtO emissions by about 90%, after new research suggested EtO is roughly 60 times more carcinogenic than the science used in the EPA’s 2006 review. If the rollback succeeds, nearly 8 tons of EtO could keep being released into the air, with about 2.3 million people remaining exposed, many in low-income neighborhoods.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s rollback is a dangerous precedent because it permanently weakens the EPA’s ability to update toxic-air rules when science improves, locking in preventable cancer exposure.",
+          "mechanisms": [
+            "First, it converts regulatory silence into a ceiling on agency power. This is because (1) the Clean Air Act clearly requires one residual-risk review, but (2) the Trump interpretation says the EPA cannot do additional discretionary reviews, and (3) that means future administrations cannot respond when new evidence shows a chemical is far more dangerous than previously believed.",
+            "Second, it preserves high-emission industrial behavior even after the risk is known. Three reasons: one, the 2024 rule would have cut emissions by about 90% at 89 facilities; two, rescinding it leaves nearly 8 tons of carcinogenic gas in the air; three, the exposure burden falls on roughly 2.3 million people, so the policy choice is not abstract but directly increases cancer risk in specific communities.",
+            "Third, it entrenches a broader deregulatory strategy that spills beyond EtO. This matters because (1) the administration is also using the same logic to limit standards for other hazardous chemicals, (2) legal interpretations are sticky and can be “locked in” for future EPA action, and (3) once courts accept the theory, later agencies inherit a narrower toolbox even if public-health evidence becomes overwhelming."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The rollback is justified because the EPA should not stretch statutory silence into open-ended power, especially where compliance costs are real and Congress never clearly authorized repeated discretionary reviews.",
+          "mechanisms": [
+            "First, it restores separation-of-powers discipline. One, the Clean Air Act explicitly mentions a technical review and one residual-risk review, but not endless re-openings; two, if agencies can infer authority from silence, they can expand their own mandate without legislative approval; three, limiting the EPA here protects democratic accountability by forcing major policy changes back through Congress.",
+            "Second, it avoids imposing large costs for uncertain marginal gains. One, the Trump rollback would save companies about $47 million annually; two, EtO is essential for sterilizing about 20 billion medical devices each year, so stricter rules can disrupt medical supply chains and raise costs; three, if the EPA’s updated risk estimates are contested, it is rational to avoid overregulation until the legal and scientific basis is settled.",
+            "Third, it prevents regulatory instability and overreach. One, if agencies can repeatedly revise standards whenever science changes, firms face perpetual uncertainty and investment freezes; two, the law already requires technology-based reviews every eight years, so there is still a baseline check on emissions; three, a narrower interpretation may be preferable to ad hoc health-based expansions that courts could later strike down anyway."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate public-health harm and long-term institutional authority. Prop wins if the round prioritizes irreversible cancer exposure and the precedent of locking in weaker protections; Opp wins if the round is framed around statutory limits, democratic legitimacy, and the costs of agency overreach.",
+      "stock_connections": [
+        "Regulatory Capture",
+        "Race to the Bottom",
+        "Public Goods",
+        "Externalities",
+        "Separation of Powers",
+        "Administrative State",
+        "Precautionary Principle",
+        "Environmental Justice",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the US Supreme Court, would uphold the EPA’s authority to re-review hazardous air pollutants when new science emerges",
+        "THBT governments should prioritize public-health regulation over industry compliance costs in toxic chemical policy",
+        "THP a world where environmental agencies can repeatedly update emissions standards in light of new scientific evidence"
+      ],
+      "data_points": [
+        "EtO is used to sterilize about 20 billion medical devices annually",
+        "Recent research estimates EtO is about 60 times more carcinogenic than the science used in the EPA’s 2006 review",
+        "The 2024 Biden EPA rule would have required 89 facilities to cut EtO emissions by about 90%",
+        "Rescinding the rule would leave nearly 8 tons of EtO continuing to be released into the air",
+        "About 2.3 million people would remain exposed to EtO under the rollback",
+        "The Trump administration’s proposed rescission would save companies about $47 million annually",
+        "The Clean Air Act requires a residual risk review within eight years after a pollutant is designated hazardous",
+        "The EPA first set EtO emission standards in 1994 and completed its residual review in 2006"
+      ]
+    },
+    {
+      "id": "b4cd4fb1108c",
+      "title": "Retail Facial Recognition Normalizes Mass Surveillance While Misidentification Punishes Innocent Shoppers",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast",
+      "published": "2026-05-13T02:00:16Z",
+      "category": "Business",
+      "region": "United Kingdom",
+      "background": "The Guardian podcast reports that live facial recognition is being adopted by police and increasingly promoted by private retailers, including supermarkets and corner shops, as a tool against shoplifting. The piece highlights that the technology is expanding surveillance into public spaces and that it can misidentify shoppers, with some people wrongly accused by an AI system of breaking the law and struggling to clear their names. The article also notes that more police forces want to use the technology, raising questions about broader consequences for public life and retail security.",
+      "prop_args": [
+        {
+          "thesis": "Retail facial recognition should be restricted because its error rates and surveillance effects create more social harm than the theft it prevents.",
+          "mechanisms": [
+            "First, the technology creates false positives that punish innocent people. This is because (1) facial recognition systems can misidentify shoppers, (2) once flagged, ordinary people face immediate reputational and practical harm, and (3) the burden of proving innocence shifts onto the accused, who often lacks the time, evidence, or institutional access to clear their name.",
+            "Second, normalizing facial recognition in shops expands surveillance into everyday life. Three reasons: one, retail spaces are among the most frequently visited public spaces, so adoption makes monitoring routine rather than exceptional; two, once private firms deploy the system, data collection spreads beyond policing into commercial profiling; three, the presence of constant identification chills ordinary behavior and reduces anonymity in public life.",
+            "Third, the policy is structurally weak as crime prevention because it treats symptoms rather than causes. This matters because (1) shoplifting is often driven by poverty, addiction, or organized theft networks that facial recognition does not solve, (2) retailers may over-rely on tech instead of better staffing and store design, and (3) the public backlash and legal disputes generated by wrongful accusations can erode trust in both retailers and police."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Retail facial recognition is justified if it materially reduces theft and improves security for workers, customers, and businesses.",
+          "mechanisms": [
+            "First, it can deter and detect repeat offenders more efficiently than manual policing. One, shoplifting is often opportunistic and fast-moving, so human staff cannot monitor every entry and exit; two, a visible recognition system raises the expected cost of theft by increasing the chance of being identified; three, retailers can use it to target known offenders rather than imposing blanket restrictions on all customers.",
+            "Second, the technology can protect businesses and consumers from the downstream costs of theft. One, shoplifting raises operating losses that are passed on through higher prices, reduced stock, and store closures; two, small retailers are especially vulnerable because they lack the security budgets of large chains; three, if the system reduces losses, it helps preserve local retail access and jobs.",
+            "Third, the harms can be managed through regulation and human oversight. One, firms can set thresholds, audit systems, and require staff confirmation before action; two, data protection rules can limit retention and sharing; three, the answer to imperfect technology is better governance, not banning a tool that may meaningfully improve public safety."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between diffuse, long-term civil-liberties harm and immediate, measurable theft reduction. Prop wins if the round prioritizes irreversible normalization of surveillance and the high cost of false accusations; Opp wins if they prove the system is tightly regulated and materially reduces losses enough to justify limited intrusion.",
+      "stock_connections": [
+        "Mass Surveillance",
+        "Privacy Rights",
+        "Chilling Effect",
+        "False Positives / Algorithmic Bias",
+        "Punishment of Innocents",
+        "Public Safety vs Civil Liberties",
+        "Regulatory Capture",
+        "Technological Solutionism"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would ban private retailers from using live facial recognition",
+        "THBT businesses should not be allowed to use facial recognition on customers",
+        "THP a world where retail spaces are subject to live biometric identification",
+        "THBT the state should prohibit the commercial deployment of live facial recognition in public-facing spaces"
+      ],
+      "data_points": [
+        "Live facial recognition is being adopted not only by police but also by private retailers, including supermarkets and corner shops",
+        "The technology has wrongly accused shoppers of breaking the law, and some found it difficult to clear their names",
+        "More police forces are seeking to take up live facial recognition technology",
+        "The article frames retail spaces as an expanding site of surveillance in public life"
+      ]
+    },
+    {
+      "id": "ae1b2cfe0bb5",
+      "title": "Trump’s $1.2tn Missile Shield Risks Becoming an Expensive, Incomplete Deterrence Gamble",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T01:59:53Z",
+      "category": "IR",
+      "region": "United States / Russia / China",
+      "background": "The Congressional Budget Office estimates Donald Trump’s proposed “Golden Dome” missile defence system would cost about $1.2tn over 20 years, far above the administration’s earlier $175bn figure. The system is intended to defend the US against ballistic and cruise missiles using land, sea and space-based sensors and interceptors, including space-based prototypes recently awarded to SpaceX and Lockheed Martin in contracts worth up to $3.2bn. The CBO warned the system could still be vulnerable to a full-scale attack by Russia or China, meaning it may not stop a peer-level missile barrage even after massive spending.",
+      "prop_args": [
+        {
+          "thesis": "The Golden Dome is a strategically irrational vanity project that drains resources while failing to deliver reliable homeland security.",
+          "mechanisms": [
+            "First, it imposes massive fiscal opportunity costs. This is because (1) the CBO puts total development, deployment, and operating costs at about $1.2tn over two decades, (2) acquisition alone is projected to exceed $1tn, and (3) those funds are diverted from more cost-effective deterrence, cyber defence, conventional readiness, and domestic priorities.",
+            "Second, it creates a false sense of security without solving the underlying threat. Three reasons: one, the CBO explicitly warns the system could be overwhelmed by a full-scale Russian or Chinese attack; two, peer adversaries can respond by increasing missile numbers, decoys, and saturation tactics; three, an incomplete shield may encourage political complacency while leaving the US still exposed to catastrophic strike scenarios.",
+            "Third, it worsens great-power instability by incentivising arms racing. This matters because a US move toward space-based interceptors and global missile interception signals offensive strategic dominance, which (1) pushes Russia and China to expand arsenals and diversify delivery systems, (2) undermines existing strategic arms control logic, and (3) makes crisis escalation more likely as adversaries fear their deterrents are being neutralised."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Even an imperfect missile defence system is worth building because it raises the cost of attack and strengthens US deterrence.",
+          "mechanisms": [
+            "First, it improves deterrence by complicating enemy planning. One, even partial interception forces Russia or China to spend more on missiles, decoys, and launch capacity; two, that raises the number of warheads needed for a successful strike; three, the uncertainty itself can reduce the attractiveness of coercion or first-use.",
+            "Second, it provides insurance against limited or accidental attacks. One, the main value of missile defence is not perfect protection against a full-scale peer barrage but reducing damage from smaller salvos, rogue launches, or miscalculation; two, intercepting even a fraction of incoming missiles can save millions of lives and preserve command-and-control continuity; three, in security policy, marginal reductions in catastrophic risk can justify very large expenditures.",
+            "Third, it supports technological and industrial advantages for the US. One, the programme drives innovation in sensors, space systems, and interceptors; two, contracts to firms like SpaceX and Lockheed Martin build domestic capacity and supply chains; three, maintaining leadership in missile defence may be strategically valuable in a world where adversaries are already modernising their arsenals."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between perfect protection and risk reduction: the opposition only needs the system to make attacks harder, while the proposition can point to the CBO’s warning that it still fails against a peer saturation strike. This argument wins because the cost is concrete and enormous, but the security benefit is uncertain, partial, and vulnerable to escalation dynamics.",
+      "stock_connections": [
+        "Arms race",
+        "Security dilemma",
+        "Military-industrial complex",
+        "Opportunity cost",
+        "Deterrence theory",
+        "Escalation dynamics",
+        "Sunk cost fallacy",
+        "Technological arms race"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would build a national missile defence shield",
+        "THBT states should prioritise missile defence over offensive deterrence spending",
+        "THP a world where major powers deploy space-based missile interceptors",
+        "THBT the US should abandon the Golden Dome project"
+      ],
+      "data_points": [
+        "$1.2tn estimated total cost over 20 years by the Congressional Budget Office",
+        "More than $1tn in acquisition costs alone",
+        "$175bn was the initial budget estimate announced by the Trump administration",
+        "$25bn was the initial investment Trump said would be required",
+        "Up to $3.2bn in contracts awarded to SpaceX and Lockheed Martin for space-based interceptor prototypes",
+        "The CBO warned the system could be overwhelmed by a full-scale attack by Russia or China"
+      ]
+    },
+    {
+      "id": "b003420da0aa",
+      "title": "India’s Tariff Shock on Gold and Silver Trades Off Rupee Defense Against Inflation, Smuggling, and Market Distortion",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-13/india-hikes-gold-and-silver-import-tariffs-to-protect-economy",
+      "published": "2026-05-13T01:47:16Z",
+      "category": "Econ",
+      "region": "India",
+      "background": "India more than doubled import tariffs on gold and silver in a move aimed at defending the rupee and reducing pressure on the current account. The policy comes amid elevated global gold prices and broader geopolitical instability that has pushed safe-haven demand higher. India is one of the world’s largest consumers of gold, so changes in import duties have immediate effects on jewelry demand, bullion trade, and informal cross-border flows.",
+      "prop_args": [
+        {
+          "thesis": "Raising tariffs is a defensible emergency tool because it reduces import demand quickly, supports the rupee, and buys the government time to stabilize external balances.",
+          "mechanisms": [
+            "First, the tariff directly suppresses imports of a high-value, non-essential good. This is because (1) gold and silver are highly price-sensitive consumer and investment assets, (2) higher duties raise landed costs immediately, and (3) lower import volumes reduce dollar demand, easing pressure on the rupee.",
+            "Second, the policy improves the current account in the short run. Three reasons: one, India’s gold imports are a major source of trade deficit widening; two, cutting bullion inflows reduces foreign exchange outflow; three, a narrower deficit can reassure currency markets and lower speculative attacks on the rupee.",
+            "Third, the state can justify temporary distortion if the alternative is macro instability. This matters because (1) a weaker rupee raises the cost of all imports, including fuel and fertiliser, (2) inflation from currency depreciation hits poorer households more broadly than a gold tariff does, and (3) a visible policy response can anchor expectations and signal that authorities will defend external stability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The tariff hike is counterproductive because it distorts a huge legal market, encourages smuggling, and may worsen the very external pressures it is meant to solve.",
+          "mechanisms": [
+            "First, the policy creates a large arbitrage incentive that shifts trade into the informal sector. One, India has a massive appetite for gold and silver, so even modest duty increases generate strong incentives to evade taxes; two, smuggling routes and under-invoicing become more profitable; three, the state loses revenue and loses visibility over flows, weakening enforcement and customs credibility.",
+            "Second, it can backfire on the current account and domestic prices. One, if official imports fall but illicit imports rise, the foreign exchange savings are smaller than advertised; two, higher domestic bullion prices can raise jewelry and manufacturing costs; three, consumers may front-load purchases before further hikes, creating short-term import spikes rather than reductions.",
+            "Third, it risks damaging a politically sensitive sector without solving the rupee problem. One, gold is not the main driver of India’s currency weakness compared with capital flows, oil prices, and global risk sentiment; two, penalizing a culturally important asset can trigger backlash from households and jewelers; three, repeated tariff tinkering signals policy uncertainty, which can itself undermine investor confidence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the policy meaningfully reduces net dollar demand or merely shifts it into informal channels. Prop wins if the round is about short-term crisis management and signaling; Opp wins if they show the main effect is leakage, smuggling, and policy credibility loss rather than genuine macro stabilization.",
+      "stock_connections": [
+        "Smuggling",
+        "Informal Economy",
+        "Protectionism",
+        "Policy Credibility",
+        "Current Account Deficit",
+        "Currency Defense",
+        "Inflation vs Growth Tradeoff",
+        "Market Distortion"
+      ],
+      "motion_areas": [
+        "TH, as India, would raise tariffs on luxury imports to defend the currency",
+        "THBT developing countries should use import tariffs to stabilize their exchange rates",
+        "THP a world where governments can impose emergency tariffs on non-essential imports during currency crises"
+      ],
+      "data_points": [
+        "India more than doubled import tariffs on gold and silver on 2026-05-13",
+        "Gold and silver are among India’s largest discretionary import categories and are highly sensitive to price changes",
+        "The policy was explicitly framed as a move to defend the rupee",
+        "India is one of the world’s largest consumers/importers of gold"
+      ]
+    },
+    {
+      "id": "ba57f2888bfa",
+      "title": "Peru’s Runoff Becomes a Test of Whether Electoral Institutions Can Police Corruption Without Politicizing the Vote",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/13/peru-presidential-candidate-roberto-sanchez-charged-with-financial-crimes?traffic_source=rss",
+      "published": "2026-05-13T01:05:33Z",
+      "category": "IR",
+      "region": "Peru",
+      "background": "Peru’s public prosecutor’s office has charged leftist presidential candidate Roberto Sanchez with financial crimes, alleging false financial disclosures tied to campaign contributions and membership fees from 2018 to 2020. Prosecutors say Sanchez and his brother received more than 280,000 Peruvian soles ($81,720) that were not disclosed in party filings, and they are seeking five years and four months in prison plus permanent disqualification from office. The charges were unsealed on May 13, 2026, just hours after electoral authorities said Sanchez was on track to advance to a June 7 runoff against Keiko Fujimori, with the final first-round result expected by May 15.",
+      "prop_args": [
+        {
+          "thesis": "Charging Sanchez strengthens democratic accountability by signaling that even front-running presidential candidates are not above campaign finance law.",
+          "mechanisms": [
+            "First, it deters elite impunity. This is because (1) high-level candidates usually benefit from weak enforcement and assume post-election protection, (2) a visible prosecution raises the expected cost of hiding donations or falsifying filings, and (3) that changes behavior not just for Sanchez but for future parties that know election season is not a legal safe zone.",
+            "Second, it improves voter information and electoral integrity. Three reasons: one, the allegations concern undisclosed money during the campaign-finance period, so the public has a direct interest in transparency; two, forcing the issue into the open prevents a candidate from laundering legitimacy through silence; three, it reassures voters that the state can still police corruption even in a chaotic election environment.",
+            "Third, it can reduce long-run institutional decay. This matters because repeated tolerance of financial misconduct normalizes clientelism, weakens trust in parties, and encourages the view that elections are just contests between corrupt factions. A credible prosecution can help rebuild the baseline expectation that office-seekers must comply with rules."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The prosecution is likely to be perceived as selective lawfare, deepening Peru’s political crisis and undermining the legitimacy of the runoff.",
+          "mechanisms": [
+            "First, it can be used to disqualify a viable left-wing contender through the courts rather than at the ballot box. (1) The charges were unsealed immediately after Sanchez advanced to the runoff, which creates a strong perception of timing-driven interference; (2) if voters believe prosecutors are acting politically, they will see the case as elite manipulation; (3) that fuels polarization and can trigger protests or refusal to accept the result.",
+            "Second, it weakens confidence in institutions already under strain. (1) Peru’s election process is described as chaotic, with delayed counting and an election chief stepping down; (2) adding a criminal case against a runoff candidate makes the judiciary and prosecutors look like political actors; (3) once trust collapses, even legitimate anti-corruption enforcement is interpreted as partisan sabotage.",
+            "Third, removing or weakening Sanchez may distort representation and empower anti-system actors. (1) He is backed by supporters of jailed former President Pedro Castillo, so his base is already suspicious of the establishment; (2) disqualification can convert an electoral contest into a grievance narrative; (3) that can increase support for more radical outsiders who claim the system only allows elites to compete."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the case is seen as genuine accountability or politically timed intervention. Prop has the structural advantage if the round is about rule of law and anti-corruption, but Opp wins if they prove the timing and Peru’s institutional fragility make enforcement look like selective lawfare rather than neutral justice.",
+      "stock_connections": [
+        "Rule of Law",
+        "Selective Enforcement",
+        "Lawfare",
+        "Democratic Backsliding",
+        "Institutional Trust",
+        "Anti-Corruption Enforcement",
+        "Elite Impunity",
+        "Electoral Legitimacy"
+      ],
+      "motion_areas": [
+        "TH, as Peru’s judiciary, would prosecute presidential candidates for campaign finance violations during an election",
+        "THBT electoral authorities should prioritize anti-corruption prosecutions over avoiding political disruption",
+        "THP a world where candidates can be removed from ballots for financial crimes before elections are concluded"
+      ],
+      "data_points": [
+        "Prosecutors seek five years and four months in prison for Roberto Sanchez",
+        "Prosecutors allege more than 280,000 Peruvian soles ($81,720) in contributions and membership fees were not disclosed",
+        "Sanchez stood at 12 percent in first-round counting, narrowly ahead of Rafael Lopez Aliaga at 11.91 percent, a margin of roughly 15,000 votes",
+        "Keiko Fujimori led with 17.17 percent of the vote with 99.76 percent of ballots counted",
+        "The runoff is scheduled for June 7, with the final first-round result expected by May 15",
+        "A judge is expected to decide on May 27 whether the case will go to trial"
+      ]
+    },
+    {
+      "id": "31e448d83734",
+      "title": "Trump Brand Risk Kills AU$1.5bn Gold Coast Tower Deal, Exposing the Political Cost of Luxury Licensing",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g08dlnd0vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T00:42:23Z",
+      "category": "Business",
+      "region": "Australia / United States",
+      "background": "Plans for a AU$1.5bn Trump Tower in Queensland were scrapped just three months after being announced. The proposed 91-storey, 335-metre luxury hotel and residential tower on the Gold Coast was billed as Australia’s tallest building, with 285 hotel rooms, 272 luxury apartments, shops, restaurants and an exclusive beach club. Altus Property Group said the Trump brand had become “toxic” in Australia, while the Trump Organization said Altus failed to meet financial obligations and blamed “empty promise” negotiations. The project had also drawn strong local opposition, with a petition against it reportedly gathering more than 120,000 signatures.",
+      "prop_args": [
+        {
+          "thesis": "Politically toxic global brands can destroy project viability by raising financing costs, shrinking demand, and making local stakeholders unwilling to carry the reputational risk.",
+          "mechanisms": [
+            "First, the brand itself becomes a liability rather than an asset. This is because (1) consumers and local buyers may avoid associating with a polarizing political figure, (2) lenders and investors price in reputational risk and future controversy, and (3) developers lose the premium that luxury branding is supposed to justify.",
+            "Second, political polarization directly weakens the commercial coalition needed for mega-projects. Three reasons: one, local opposition becomes easier to mobilize when the brand is controversial; two, public officials and councils become more cautious about being seen as endorsing the project; three, the developer has to spend more on mitigation, rebranding, and legal/PR costs.",
+            "Third, this matters because it shows that in high-end real estate, brand value is contingent on social legitimacy. If a brand is perceived as toxic, the project can collapse even before construction starts, which means political backlash can function as a real market constraint rather than just a symbolic issue."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The collapse is better explained by ordinary commercial bargaining and financing problems, not by brand toxicity, so political controversy is not the decisive variable.",
+          "mechanisms": [
+            "First, the deal may have failed because the parties could not agree on economics. (1) The mayor said the dispute was about profit margins and the Trump Organization’s required return, (2) the Trump side claimed Altus failed to meet basic financial obligations, and (3) luxury licensing deals often fail on capital structure rather than public sentiment.",
+            "Second, the project may still be viable under a different brand, which means the underlying demand for the site remains. (1) Altus said other luxury brands were available, (2) the project was described as still 'live,' and (3) if the land use and market fundamentals are strong, the brand swap can preserve most of the value.",
+            "Third, local opposition is not proof that the brand is commercially fatal. (1) Petitions can overstate intensity relative to actual purchasing behavior, (2) luxury buyers may be less sensitive to political controversy than the general public, and (3) the Trump Organization itself said it still wanted to pursue other Australian projects, suggesting the market is not closed."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the decisive cause was reputational toxicity or standard deal economics. Prop wins if you want to show that political branding can directly alter financing and demand in private markets; opp wins if it can reframe the story as a normal licensing dispute where the brand was just a convenient excuse.",
+      "stock_connections": [
+        "Brand dilution",
+        "Political risk",
+        "Reputational externalities",
+        "Consumer boycotts",
+        "Principal-agent problems",
+        "Luxury market segmentation",
+        "Local opposition to development"
+      ],
+      "motion_areas": [
+        "TH, as a developer, would avoid licensing politically polarizing brands",
+        "THBT private companies should not partner with controversial political figures",
+        "THP a world where luxury real estate is insulated from political branding"
+      ],
+      "data_points": [
+        "AU$1.5bn ($1.1bn; £802m) proposed project value",
+        "91-storey tower planned for Queensland’s Gold Coast",
+        "335 metres (1,100 ft) proposed height, taller than London’s Shard",
+        "285 hotel rooms and 272 luxury residential apartments planned",
+        "Petition against the development reportedly exceeded 120,000 signatures",
+        "Support petition reportedly had about 3,600 signatures",
+        "Construction was due to begin in August"
+      ]
+    },
+    {
+      "id": "b38d14614355",
+      "title": "Trump’s Beijing Summit Prioritizes Trade Deliverables Over Iran, Narrowing the Diplomatic Agenda",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-13/balance-of-power-late-edition-05-12-2026-video",
+      "published": "2026-05-13T00:10:54Z",
+      "category": "IR",
+      "region": "United States / China / Iran",
+      "background": "Bloomberg’s \"Balance of Power: Late Edition\" on 2026-05-12 discussed President Trump’s upcoming trip to Beijing for a highly anticipated summit with President Xi. In the segment, Josh Lipsky of the Atlantic Council said Iran is unlikely to be on the agenda because Trump wants to leave the visit with concrete deliverables. The show also included discussion of Trump’s push for a federal gas tax holiday, described by Rep. Darrell Issa as an 18-cent cut that is symbolic but meaningful for consumers.",
+      "prop_args": [
+        {
+          "thesis": "Keeping the Trump-Xi summit tightly focused on deliverable trade and economic outcomes is the best way to maximize the chance of a real breakthrough.",
+          "mechanisms": [
+            "First, agenda discipline increases the probability of agreement. This is because (1) summits have limited time and political bandwidth, (2) adding Iran would force the two sides into a zero-sum bargaining environment where neither can easily concede, and (3) narrow issue sets make it easier for both leaders to claim victory and sign something tangible.",
+            "Second, excluding Iran reduces the risk of summit failure caused by issue overload. Three reasons: one, Iran is a highly escalatory security issue with deep strategic disagreement; two, bringing it into the room would invite linkage politics where each side tries to trade unrelated concessions, slowing or derailing talks; three, a failed summit would poison follow-on cooperation on trade, tariffs, and market access.",
+            "Third, deliverables matter more than symbolic diplomacy in great-power relations. This matters because (1) markets and allies respond to concrete outcomes like tariff relief or export commitments, (2) a visible win strengthens domestic political support for continued engagement, and (3) incremental economic agreements can build trust for later, harder security talks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Leaving Iran off the agenda is a mistake because the US-China relationship cannot be stabilized while one of the most dangerous regional flashpoints is treated as separate.",
+          "mechanisms": [
+            "First, Iran is structurally linked to US-China competition through sanctions, energy flows, and regional security. One, China is a major economic actor with leverage over Iranian trade and oil purchases; two, US pressure on Iran affects global energy prices and therefore Chinese economic interests; three, ignoring Iran leaves a major source of bilateral friction unresolved, so any trade deal is fragile.",
+            "Second, summit diplomacy works best when it addresses the full strategic picture rather than narrow transactional wins. One, if leaders only chase easy deliverables, they postpone hard security problems until they become crises; two, excluding Iran signals that the US is willing to compartmentalize coercive behavior, weakening deterrence; three, a broader agenda can create bargaining space for de-escalation or coordination on nuclear risk.",
+            "Third, a summit that ignores Iran may produce short-term optics but worsen long-term instability. One, allies in the Middle East may read silence as abandonment or inconsistency; two, Iran may interpret the omission as a lack of coordinated pressure, encouraging brinkmanship; three, unresolved regional escalation can later disrupt the very trade and market stability the summit was meant to protect."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate summit success and long-term strategic coherence. Prop wins if the round prioritizes the probability of concrete outcomes from a high-stakes visit; opp wins if the judge values the fact that durable US-China relations require addressing linked security flashpoints rather than papering over them.",
+      "stock_connections": [
+        "Issue linkage",
+        "Summit diplomacy",
+        "Transactional foreign policy",
+        "Great power competition",
+        "Deterrence credibility",
+        "Energy security",
+        "Agenda-setting"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would keep Iran off the agenda in high-level talks with China",
+        "THBT great-power summits should prioritize deliverable economic outcomes over security side issues",
+        "THP a world where US-China diplomacy is compartmentalized from Middle East crises"
+      ],
+      "data_points": [
+        "Rep. Darrell Issa described Trump’s proposed federal gas tax holiday as an 18-cent cut, calling it 'symbolic' but meaningful for consumers.",
+        "Josh Lipsky said Iran will likely not be on the Trump-Xi agenda because Trump wants to 'come away with the visit with some deliverables.'",
+        "The summit discussed is a Trump visit to Beijing scheduled around 2026-05-13."
+      ]
+    },
+    {
+      "id": "d429dcf0dde7",
+      "title": "Trump’s Beijing Summit Turns Iran Into a Great-Power Bargaining Chip",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss",
+      "published": "2026-05-13T00:00:00Z",
+      "category": "IR",
+      "region": "United States; China; Iran; Israel; Lebanon",
+      "background": "On 13 May 2026, US President Donald Trump departed for Beijing to meet Chinese President Xi Jinping. Trump said he would have a \"long talk\" about Iran with Xi, while stressing that trade would be the main focus of the trip. The live update also quoted Iran’s Foreign Ministry spokesman Esmaeil Baghaei condemning the US-Israel war on Iran, and noted that Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since 2 March, according to Lebanon’s Health Ministry.",
+      "prop_args": [
+        {
+          "thesis": "Using the China summit to coordinate pressure on Iran increases the chances of de-escalation and a more durable regional settlement.",
+          "mechanisms": [
+            "First, great-power coordination raises the cost of escalation for Tehran. This is because (1) Iran is more vulnerable when both Washington and Beijing signal that a wider war will damage its economic and diplomatic options, (2) China can reinforce sanctions enforcement or at least reduce loopholes in trade and finance, and (3) a unified message makes it harder for Iran to play major powers off against each other.",
+            "Second, putting Iran on the agenda creates a bargaining channel that pure military pressure cannot. Three reasons: one, Trump can trade concessions on tariffs or broader US-China tensions for Chinese cooperation on restraint; two, Beijing has leverage because it maintains commercial ties and political access to Tehran; three, backchannel diplomacy is often the only way to stop miscalculation when direct US-Iran talks are politically toxic.",
+            "Third, even a limited de-escalation has outsized humanitarian value. This matters because (1) the Lebanon front has already produced 2,883 deaths and 8,787 injuries, (2) reducing Iranian support or retaliation can lower the tempo of proxy warfare, and (3) preventing spillover into a broader regional war avoids mass civilian harm and energy-market shock."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Bringing Iran into a US-China trade summit makes the conflict more dangerous by turning a regional war into a bargaining contest between superpowers.",
+          "mechanisms": [
+            "First, it incentivizes transactional diplomacy rather than principled restraint. One, Trump may treat Iran policy as a chip to win trade concessions from Xi; two, China may offer symbolic cooperation without changing Iran’s behavior; three, this creates ambiguity that can embolden Tehran and its proxies to test limits.",
+            "Second, the summit can harden bloc politics and reduce room for compromise. One, framing Iran through a US-China rivalry pushes Beijing to protect its strategic partner rather than pressure it; two, Iran can portray itself as resisting a US-led coalition, strengthening domestic hardliners; three, once the issue is tied to great-power prestige, backing down becomes politically costlier for all sides.",
+            "Third, the move risks distracting from the actual war dynamics on the ground. One, trade dominates the agenda, so Iran may receive only superficial attention; two, Israel and Lebanon remain active theaters where rapid decisions matter more than summit optics; three, delayed or incoherent diplomacy can allow escalation to continue while leaders posture in Beijing."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether great-power involvement creates leverage or just adds another layer of rivalry. Prop wins if you think China’s access to Iran and Trump’s willingness to bargain can generate restraint; opp wins if you think the summit mainly turns de-escalation into a transactional side deal and entrenches bloc politics.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Proxy War",
+        "Escalation Spiral",
+        "Transactional Diplomacy",
+        "Security Dilemma",
+        "Regional Spillover",
+        "Humanitarian Intervention",
+        "Deterrence"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use trade negotiations with China to pressure Iran",
+        "THBT great powers should prioritize summit diplomacy over military escalation in Middle Eastern conflicts",
+        "THP a world where China is used as a mediator in US-Iran crises",
+        "THBT the US should treat Iran policy as part of broader US-China bargaining"
+      ],
+      "data_points": [
+        "Trump departed for Beijing on 13 May 2026 and said he would have a 'long talk' about Iran with Xi Jinping",
+        "Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since 2 March 2026, according to Lebanon’s Health Ministry",
+        "Iran’s Foreign Ministry spokesman Esmaeil Baghaei described the conflict as a war between 'a proud people' and 'professional liars who fabricated justifications for atrocity'"
+      ]
+    }
+  ]
+}

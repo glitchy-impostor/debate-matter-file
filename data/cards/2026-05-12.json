@@ -1,7 +1,522 @@
 {
   "date": "2026-05-12",
-  "last_updated": "2026-05-12T22:20:39Z",
+  "last_updated": "2026-05-13T04:07:25Z",
   "cards": [
+    {
+      "id": "944fb7519f34",
+      "title": "Lula’s Tariff Retreat Trades Industrial Protection for Election-Year Relief",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/lula-scraps-hated-crop-top-tax-ahead-of-brazilian-election",
+      "published": "2026-05-12T23:30:20Z",
+      "category": "Econ",
+      "region": "Brazil / United States",
+      "background": "Brazilian President Luiz Inacio Lula da Silva announced he was scrapping a controversial tariff measure dubbed the “crop-top tax” ahead of Brazil’s election cycle. The move came after Lula met US President Donald Trump at the White House on May 7, 2026, where the two governments said they would continue discussions on trade and tariffs. The article frames the policy as part of a broader, often divisive Brazil-US trade relationship, with the tariff issue central to bilateral negotiations.",
+      "prop_args": [
+        {
+          "thesis": "Scrapping the tariff is economically rational because it lowers consumer costs, reduces trade friction with the US, and signals a more credible pro-growth policy stance ahead of a politically sensitive period.",
+          "mechanisms": [
+            "First, removing the tariff lowers input and consumer prices. This is because (1) tariffs are passed through to domestic buyers through higher import costs, (2) Brazilian firms that rely on imported agricultural or industrial inputs face lower production costs, and (3) lower costs reduce inflationary pressure, which is especially valuable in an election year when households are highly price-sensitive.",
+            "Second, it reduces bilateral trade conflict with the United States. Three reasons: one, tariff retaliation risk falls when Brazil stops escalating a visible trade barrier; two, smoother trade talks preserve access to the US market for Brazilian exporters; three, it gives Lula diplomatic space to negotiate on more favorable terms rather than defending a politically toxic tax.",
+            "Third, the policy improves investor confidence by showing responsiveness to market and consumer backlash. This matters because investors read tariff reversals as a sign that the government is willing to correct distortionary policy, which can support capital inflows, stabilize expectations, and reduce the risk premium on Brazilian assets."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Scrapping the tariff weakens Brazil’s industrial strategy by exposing domestic producers to foreign competition, undermining policy credibility, and conceding leverage in trade negotiations.",
+          "mechanisms": [
+            "First, removing protection can hurt domestic producers who were relying on the tariff shield. One, local firms may not yet be competitive against cheaper imports; two, sudden exposure can compress margins and trigger layoffs; three, weaker domestic industry reduces Brazil’s ability to build long-term manufacturing capacity.",
+            "Second, policy reversal can damage credibility by signaling that the government caves to political pressure. One, businesses may doubt whether future industrial policies will survive electoral cycles; two, frequent reversals raise uncertainty and discourage long-term investment; three, opponents can frame Lula as prioritizing short-term popularity over strategic economic planning.",
+            "Third, Brazil loses bargaining leverage in trade talks with the US. One, tariffs are a negotiating tool that can be exchanged for concessions on market access or standards; two, unilateral removal gives the US less incentive to compromise; three, Brazil may end up with lower protection without securing reciprocal benefits."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the tariff was a useful industrial tool or just a politically costly distortion. Prop wins if the round is about consumer welfare, inflation, and bilateral stability; Opp wins if the judge prioritizes long-run industrial policy and the value of bargaining leverage in asymmetric trade negotiations.",
+      "stock_connections": [
+        "Protectionism",
+        "Trade Retaliation",
+        "Inflation Pass-Through",
+        "Industrial Policy",
+        "Policy Credibility",
+        "Election-Year Populism",
+        "Bilateral Trade Leverage",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as Brazil, would scrap controversial import tariffs ahead of elections",
+        "THBT developing nations should prioritize consumer prices over industrial protection in trade policy",
+        "THP a world where governments cannot use tariffs as election-year political tools"
+      ],
+      "data_points": [
+        "Lula met US President Donald Trump at the White House on May 7, 2026",
+        "The tariff was described as a hated “crop-top tax” in the article",
+        "Brazil and the US agreed to continue discussions on trade and tariffs"
+      ]
+    },
+    {
+      "id": "a72ed1fc6d14",
+      "title": "US-Iran Nuclear Talks Stall as Both Sides Refuse to Concede, Raising Escalation Risk",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/in-a-game-of-chicken-daadler-on-us-iran-talks-video",
+      "published": "2026-05-12T23:26:12Z",
+      "category": "IR",
+      "region": "United States / Iran / Russia / Ukraine",
+      "background": "On 2026-05-12, Bloomberg aired an interview with Ivo Daalder, former US ambassador to NATO and a senior fellow at Harvard’s Belfer Center, discussing US-Iran talks. Daalder said meaningful progress looks unlikely because both sides are demanding the other “take a knee and give in,” and argued President Trump is underestimating Iran’s leverage. He also criticized the choice of Steve Witkoff and Jared Kushner as negotiators for nuclear talks, while briefly touching on Russia and Ukraine.",
+      "prop_args": [
+        {
+          "thesis": "A hardline US approach to Iran is more likely to produce stalemate and escalation than a durable nuclear deal.",
+          "mechanisms": [
+            "First, maximalist bargaining destroys the trust and face-saving space needed for any agreement. This is because (1) Iran cannot politically sell unilateral surrender to its domestic audience, (2) the US cannot credibly offer concessions if it frames talks as coercion, and (3) each side then waits for the other to blink, producing a classic chicken dynamic.",
+            "Second, underestimating Iran’s leverage makes US pressure tactics self-defeating. Three reasons: one, Iran can retaliate asymmetrically through regional proxies and maritime disruption; two, it can slow-roll or expand its nuclear program to raise the cost of delay; three, the more Washington signals impatience, the more Tehran can extract concessions by simply not folding.",
+            "Third, appointing politically connected but inexperienced negotiators weakens deal quality and increases the chance of miscalculation. This matters because (1) nuclear diplomacy requires technical credibility and institutional memory, (2) weak negotiators are more likely to overpromise or miss red lines, and (3) if talks fail publicly, both sides are pushed toward escalation to avoid looking weak."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A tougher US posture can be necessary to force Iran into a serious bargain and prevent a bad deal.",
+          "mechanisms": [
+            "First, pressure can improve bargaining leverage by raising the cost of delay. One, sanctions and diplomatic isolation constrain Iran’s economy and elite cohesion; two, credible military pressure can make nuclear escalation look too risky; three, if Iran believes time is not on its side, it may accept stricter limits than it would under a softer approach.",
+            "Second, skepticism toward Iran’s leverage may be justified because the US and its allies still hold more structural power. One, the US can coordinate sanctions with Europe and regional partners; two, Iran’s economy is more vulnerable to external shocks than the US economy; three, Iran’s regional activities create multiple fronts where it can be contained, limiting its ability to convert leverage into durable gains."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive diplomacy produces concessions or entrenches resistance. Prop wins if the judge believes nuclear talks require mutual trust and technical competence, because failure here creates immediate proliferation and regional escalation risks; Opp wins if they prove Iran is more vulnerable than it appears and that pressure is the only way to secure meaningful limits.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Bargaining Failure",
+        "Security Dilemma",
+        "Nuclear Proliferation",
+        "Credible Commitment Problems",
+        "Face-Saving in Negotiations",
+        "Great Power Signaling",
+        "Proxy Warfare"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue hardline negotiations with Iran",
+        "THBT the US should prioritize pressure over concessions in nuclear talks with Iran",
+        "THP a world where nuclear negotiations are led by political envoys rather than career diplomats",
+        "THBT states should not negotiate with adversaries from a position of weakness"
+      ],
+      "data_points": [
+        "Interview aired on 2026-05-12 on Bloomberg's 'Balance of Power'",
+        "Ivo Daalder is a former US Ambassador to NATO and senior fellow at Harvard's Belfer Center",
+        "Daalder said both sides are asking the other to 'take a knee and give in'",
+        "Daalder argued President Trump is underestimating the leverage Iran has",
+        "Steve Witkoff and Jared Kushner were singled out as the wrong people for nuclear negotiations"
+      ]
+    },
+    {
+      "id": "3d7ee229a494",
+      "title": "Honduras’ Anti-Mining Activists Show How Local Power Brokers Can Turn Environmental Conflict Into Political Murder",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/honduras-mayor-arrested-for-masterminding-environmentalists-killing?traffic_source=rss",
+      "published": "2026-05-12T23:19:53Z",
+      "category": "IR",
+      "region": "Honduras / Latin America",
+      "background": "Honduran authorities arrested former Tocoa mayor Adan Funez on 2026-05-12, accusing him of masterminding the September 2024 killing of environmentalist Juan Lopez. Lopez had led opposition to an iron oxide mining project in Colon, a rural region in northwestern Honduras, and had publicly called on Funez to step down days before he was shot six times in the chest and once in the head by a masked gunman. Prosecutors also detained businessman Hector Eduardo Méndez and Juan Angel Ramos Gallegos; trial is set to begin next June. Global Witness says Latin America accounted for 117 killings of environmental and land defenders in 2024, or 82% of the global total.",
+      "prop_args": [
+        {
+          "thesis": "Arresting political masterminds behind environmental killings is necessary to break the impunity structure that makes resource extraction lethal.",
+          "mechanisms": [
+            "First, it raises the expected cost of ordering violence for local elites. This is because (1) mayors and business allies often sit above the level of the hired gunman, (2) the real deterrent comes from punishing the decision-maker who can reconstitute the network, and (3) visible arrests signal that political office no longer guarantees immunity.",
+            "Second, it protects future environmental defenders by restoring the credibility of the state. Three reasons: one, communities are more likely to report threats when they believe prosecutors will pursue powerful actors; two, activists can continue monitoring mines, forests, and water sources without assuming assassination is the default response; three, it weakens the chilling effect that keeps entire movements silent after one high-profile killing.",
+            "Third, it improves governance around extractive projects. This matters because (1) if local officials can be tied to murder, then permits and policing around mining are exposed as captured by corruption, (2) prosecutions can force scrutiny of the business interests financing violence, and (3) it creates a precedent that environmental conflict must be resolved through law rather than coercion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "These arrests are too little, too late, and may be mostly symbolic unless Honduras dismantles the broader network of corruption and violence around mining.",
+          "mechanisms": [
+            "First, targeting a few individuals does not change the underlying incentive structure. One, the mining project and its financiers remain in place, so the economic motive for repression persists; two, if other local power brokers are untouched, they can simply replace the arrested actors; three, the state’s history of impunity means communities may still expect retaliation even after headline arrests.",
+            "Second, selective enforcement can become political theater rather than justice. One, governments often arrest a visible figure to absorb international pressure while avoiding business elites; two, delayed arrests more than a year after the killing suggest weak capacity or unwillingness to act earlier; three, without convictions and asset seizures, the deterrent effect is minimal.",
+            "Third, heavy-handed anti-corruption or anti-violence crackdowns can destabilize local politics without protecting activists. One, they can intensify factional conflict among elites competing over mining rents; two, they may push violence underground rather than stop it; three, communities may face short-term backlash if the state cannot provide sustained protection after making arrests."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether accountability at the top changes the behavior of the broader extractive network. Prop wins if you believe punishing masterminds breaks the impunity equilibrium; Opp wins if you think Honduras is only arresting a few scapegoats while the mining-capture system and retaliatory violence remain intact.",
+      "stock_connections": [
+        "Impunity",
+        "State Capture",
+        "Resource Curse",
+        "Environmental Justice",
+        "Political Violence",
+        "Corruption",
+        "Chilling Effect",
+        "Rule of Law Failure",
+        "Extractive Industry Conflict"
+      ],
+      "motion_areas": [
+        "TH, as a developing state, would prioritize prosecuting political masterminds behind environmental killings over negotiating with extractive firms",
+        "THBT international institutions should condition aid on protection for environmental defenders",
+        "THP a world where local officials can be held criminally liable for violence against activists"
+      ],
+      "data_points": [
+        "Adan Funez, former mayor of Tocoa, was arrested on 2026-05-12 over the 2024 assassination of Juan Lopez",
+        "Lopez was shot six times in the chest and once in the head by a masked gunman in September 2024",
+        "Global Witness recorded 117 killings of environmental and land defenders in Latin America in 2024",
+        "Latin America accounted for 82% of global environmental and land defender killings in 2024",
+        "Eight activists in Tocoa were imprisoned for more than two years, which lawyers said was retaliation for their work",
+        "The trial of the three detained men is set to begin next June"
+      ]
+    },
+    {
+      "id": "738c881fabe0",
+      "title": "UK Clean Air Act Fight Pits Public Health Gains Against Rural Heating Costs and Industry Lobbying",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/13/labour-must-fulfil-promise-to-introduce-clean-air-act-charities-urge",
+      "published": "2026-05-12T23:02:12Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "More than 60 charities, representing over 230,000 members, have urged the UK government to introduce a new clean air act before the king’s speech on Wednesday. The proposal would ban wood burning, remove diesel vehicles from roads, and force councils to cut pollution; Labour had floated a clean air act in opposition in 2023 but dropped it from its final manifesto. Campaigners say air pollution costs the UK about £27bn a year and is linked to asthma, cancer, dementia, and other illnesses.",
+      "prop_args": [
+        {
+          "thesis": "A new clean air act is justified because the UK is already paying a large, avoidable health and productivity bill for pollution, and regulation can quickly reduce it.",
+          "mechanisms": [
+            "First, it cuts direct health costs and raises labour productivity. This is because (1) air pollution is already costing the UK about £27bn a year, (2) it is linked to asthma, wheezing, cancer and dementia, and (3) reducing exposure lowers NHS demand, sick days, and long-run disability costs.",
+            "Second, it fixes a clear enforcement failure in the current system. Three reasons: one, there were at least 15,195 complaints about wood burning in England between August 2024 and August 2025; two, only 24 fines were issued in that period, showing existing rules are not being enforced; three, a new act can create clearer duties for councils and regulators, turning symbolic rules into actual compliance.",
+            "Third, it accelerates the transition to cleaner housing and heating. This matters because (1) current guidance still allows wood-burning stoves in new homes, (2) that locks in high-emission behaviour for decades, and (3) phasing them out pushes households toward heat pumps and other low-carbon systems, creating cleaner air and lower future emissions at the same time."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A sweeping clean air act would impose disproportionate costs on households, rural communities, and domestic manufacturers while delivering uneven gains.",
+          "mechanisms": [
+            "First, it raises compliance and replacement costs for ordinary households. One, many people still rely on wood burning for affordable heating; two, forcing a switch to heat pumps or other systems can require large upfront capital; three, if subsidies are insufficient, the policy becomes regressive and politically fragile.",
+            "Second, it can harm rural resilience and energy security. One, rural and island communities use wood burning as backup during bad weather and power outages; two, banning or sharply restricting it reduces household resilience in areas with weaker grid reliability; three, that creates a real welfare loss even if urban pollution falls.",
+            "Third, it risks overcorrecting against a source that can be managed more proportionately. One, Ecodesign stoves are cleaner than older models and the industry argues for evidence-based regulation rather than bans; two, targeted enforcement and public-health warnings may reduce emissions without banning all wood burning; three, a blanket act may create backlash that weakens broader climate and air-quality policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between diffuse, long-term public health gains and concentrated, immediate costs to specific households and sectors. Prop is stronger if the round is framed around enforcement failure and preventable harm, because the article gives hard evidence that the current regime is not working; Opp is stronger if they can make the case that a blanket ban is blunt, regressive, and unnecessary where targeted regulation could achieve most of the benefit.",
+      "stock_connections": [
+        "Public Goods",
+        "Negative Externalities",
+        "Regulatory Failure",
+        "Environmental Justice",
+        "Nanny State",
+        "Policy Trade-offs",
+        "Rural-Urban Divide",
+        "Lobbying / Regulatory Capture",
+        "Path Dependence",
+        "Distributional Inequality"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would introduce a clean air act banning non-essential wood burning",
+        "THBT governments should ban wood-burning stoves in urban areas",
+        "THP a world where councils are legally required to meet air-quality targets with enforceable penalties",
+        "THBT public health should take precedence over household heating choice in environmental regulation"
+      ],
+      "data_points": [
+        "Air pollution costs the UK about £27bn per year",
+        "At least 15,195 complaints were made against wood burning in England from August 2024 to August 2025",
+        "Only 24 fines were issued for those complaints in the same period",
+        "More than 60 charities and over 230,000 members backed the call for a clean air act",
+        "Defra held 8 meetings with the Stove Industry Association between October 2021 and June 2024 under Conservative सरकार / administration, versus 2 meetings with clean air campaigners in the same period",
+        "Since Labour took office, Defra has held 3 meetings with the Stove Industry Association and 14 with clean air campaigners",
+        "The Future Homes Standard guidance would allow wood-burning stoves in new housing",
+        "Ecodesign stoves still emit air pollutants"
+      ]
+    },
+    {
+      "id": "aeb7bd7237a6",
+      "title": "Trump-Xi Summit Prioritizes Trade Deliverables Over Iran, Leaving Hormuz Crisis to Escalate",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/iran-possibly-not-on-agenda-lipsky-on-us-china-summit-video",
+      "published": "2026-05-12T22:44:19Z",
+      "category": "IR",
+      "region": "United States / China / Iran / Strait of Hormuz",
+      "background": "On May 12, 2026, Bloomberg reported comments from Josh Lipsky of the Atlantic Council ahead of a planned meeting between Presidents Trump and Xi. Lipsky argued Iran may not be on the summit agenda because Trump wants to leave the meeting with concrete deliverables. He also noted that China is feeling the effects of the Strait of Hormuz closure, which could affect Beijing's leverage in talks with Washington.",
+      "prop_args": [
+        {
+          "thesis": "Keeping Iran off the Trump-Xi agenda is rational summit management because it preserves bargaining space for concrete US-China deliverables and avoids diluting the meeting with a crisis neither side can solve quickly.",
+          "mechanisms": [
+            "First, agenda discipline increases the chance of a successful summit. This is because (1) Trump is explicitly seeking visible deliverables, (2) adding Iran introduces a high-conflict issue with no easy bilateral fix, and (3) failure on a headline crisis can crowd out any trade or diplomatic gains from the meeting.",
+            "Second, excluding Iran prevents issue-linkage from weakening US leverage. Three reasons: one, China can use Iran to demand concessions on tariffs, export controls, or Taiwan language; two, the US would be forced to trade on a security issue where it has limited room to compromise; three, keeping the file separate avoids rewarding Beijing for holding out on core economic issues.",
+            "Third, focusing the summit on deliverables can still indirectly pressure Iran later. This matters because a successful US-China reset on trade or communication can (1) free up diplomatic bandwidth, (2) reduce the risk of accidental escalation between the great powers, and (3) allow Washington to build a broader coalition before confronting Tehran over Hormuz."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Iran should be on the agenda because the Strait of Hormuz crisis is a global security shock that directly affects China, making it one of the few issues where US-China cooperation is both necessary and strategically valuable.",
+          "mechanisms": [
+            "First, the Hormuz closure creates immediate shared costs that can force cooperation. One, China is exposed as a major energy importer reliant on Gulf flows; two, the US wants to prevent a broader regional war; three, both sides have incentives to coordinate de-escalation rather than let shipping disruption spiral.",
+            "Second, discussing Iran strengthens US leverage over China by tying economic stability to security behavior. One, Beijing cannot credibly separate trade from energy security when its supply chains are vulnerable; two, Washington can use the crisis to extract Chinese pressure on Tehran; three, refusing to raise Iran wastes a rare moment where China has skin in the game.",
+            "Third, leaving Iran off the agenda signals that the US is unserious about managing systemic risks. One, it suggests short-term optics are being prioritized over crisis prevention; two, it allows China to portray itself as the responsible actor if it engages Iran diplomatically; three, it misses an opportunity to build a precedent for great-power coordination on maritime chokepoints."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit success is best measured by immediate deliverables or by using the meeting to manage a live geopolitical shock. Prop wins if you value concrete, achievable outcomes and avoid issue-linkage; opp wins if you think the Hormuz crisis is too strategically important to leave off the table, especially because China’s energy exposure creates leverage.",
+      "stock_connections": [
+        "Issue-linkage",
+        "Great Power Bargaining",
+        "Crisis Diplomacy",
+        "Energy Security",
+        "Maritime Chokepoints",
+        "Trade-Offs Between Security and Economics",
+        "Summit Diplomacy",
+        "Leverage in Negotiations"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would keep Iran off the agenda in summit talks with China",
+        "THBT great-power summits should prioritize deliverables over crisis issues like Iran",
+        "THP a world where US-China diplomacy is insulated from Middle East security crises"
+      ],
+      "data_points": [
+        "Josh Lipsky said Trump wants to 'come away with the visit with some deliverables'",
+        "Bloomberg report dated 2026-05-12",
+        "The article states China is feeling the impact of the closure of the Strait of Hormuz",
+        "The summit in question is between Presidents Trump and Xi"
+      ]
+    },
+    {
+      "id": "2a63a48e6fa8",
+      "title": "Air India’s Turnaround Collapses Into a State-Backed Rescue Test",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T22:15:50Z",
+      "category": "Business",
+      "region": "India / United Kingdom",
+      "background": "India’s Aircraft Accident Investigation Bureau is expected to release the final report on the 12 June 2025 crash of London-bound Air India flight AI-171, which killed 260 people. The report lands as Air India faces a reported $2.4bn loss for the year ending March 2026, the resignation of CEO Campbell Wilson, and growing scrutiny over safety and operations. Since Tata Group took over the airline from the government in 2022, the carrier has also faced route cuts, delayed aircraft deliveries, a 10% rupee depreciation against the US dollar, and an annual regulator audit that found 51 safety violations, including seven at the highest severity level.",
+      "prop_args": [
+        {
+          "thesis": "Air India’s crisis shows that large strategic national carriers need deeper shareholder support and tighter state-linked oversight to survive structural shocks and restore trust.",
+          "mechanisms": [
+            "First, the airline’s turnaround cannot be left to ordinary market discipline because its losses are being driven by a stack of structural shocks, not just bad management. This is because (1) aircraft deliveries are delayed by supply-chain shortages, (2) fuel and other dollar-linked costs have risen as the rupee has fallen over 10% against the US dollar, and (3) route closures and airspace disruptions have reduced revenue while fixed costs remain high.",
+            "Second, stronger capital backing is necessary to prevent a death spiral in which operational weakness creates more financial weakness. Three reasons: one, a $2.4bn annual loss makes self-funding impossible in the short run; two, the resignation of the CEO midterm creates a leadership vacuum exactly when the firm needs coordinated restructuring; three, without fresh equity the company will keep cutting routes, deferring investment, and worsening service quality, which further damages demand.",
+            "Third, a rescue-oriented approach protects the broader aviation ecosystem and national connectivity. This matters because Air India is not just a private firm but a flagship carrier with international routes, employment, and strategic value; if it collapses or stagnates, India loses long-haul connectivity, weakens its ability to compete with Gulf carriers, and risks a prolonged reputational hit after the crash investigation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Air India’s crisis proves that privatization without hard accountability just socializes losses while preserving weak incentives and poor governance.",
+          "mechanisms": [
+            "First, repeated bailouts or shareholder rescues can entrench moral hazard. One, if Tata and Singapore Airlines keep injecting capital after every failure, management has less pressure to fix process breakdowns like the Vancouver airspace incident and the 51 safety violations; two, losses are then absorbed by deep-pocketed owners rather than borne by decision-makers; three, this creates a precedent that large carriers are too important to fail, encouraging future risk-taking.",
+            "Second, more money does not solve the core problem if the airline’s institutional capacity is broken. One, the article describes a leadership vacuum after the CEO’s resignation; two, experts say the company failed to build a strong team quickly enough after privatization; three, the real bottleneck is execution and safety culture, so capital without governance reform simply funds continued inefficiency.",
+            "Third, the state and shareholders should let the market impose discipline where possible. This matters because route cuts, fleet delays, and losses reveal that Air India may be overextended; forcing restructuring, asset rationalization, or even a smaller network can produce a more sustainable carrier than propping up an ambitious but chronically underperforming one."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Air India’s problems are mainly cyclical shocks or evidence of a fundamentally broken governance model. The pro side wins if the judge prioritizes strategic continuity and the need to stabilize a national carrier after a crash; the opposition wins if they frame repeated support as moral hazard that delays genuine reform and rewards failure.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Too Big to Fail",
+        "State Capacity",
+        "Privatization",
+        "Corporate Governance",
+        "National Champions",
+        "Reputational Damage",
+        "Regulatory Failure",
+        "Dependency on Dollar-Denominated Inputs",
+        "Dutch Disease"
+      ],
+      "motion_areas": [
+        "TH, as the Tata Group, would fully recapitalize Air India despite current losses",
+        "THBT governments should treat national airlines as strategic assets rather than ordinary commercial firms",
+        "THP a world where failing flagship carriers are allowed to collapse rather than being repeatedly rescued",
+        "THBT private equity-style discipline is preferable to state-backed turnaround strategies in aviation"
+      ],
+      "data_points": [
+        "$2.4bn reported loss for Air India in the year ending March 2026",
+        "260 people killed in the 12 June 2025 Air India flight AI-171 crash",
+        "Campbell Wilson resigned as CEO midterm in April/May 2026",
+        "Singapore Airlines holds a 25.1% stake in Air India",
+        "India’s aviation regulator found 51 safety violations in Air India’s annual audit, including 7 at the highest severity level",
+        "The Indian rupee is down over 10% against the US dollar",
+        "A Delhi-to-Vancouver flight turned back after nearly 8 hours because Air India lacked approval to enter Canadian airspace",
+        "Key routes including Delhi-Washington and Mumbai-San Francisco have been cut"
+      ]
+    },
+    {
+      "id": "18c5810676b7",
+      "title": "U.S. Gas Tax Holiday Trades Fiscal Credibility for Short-Term Consumer Relief Amid Iran Shock",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/rep-issa-backs-gas-tax-holiday-push-video",
+      "published": "2026-05-12T22:15:45Z",
+      "category": "Econ",
+      "region": "United States / Strait of Hormuz",
+      "background": "On May 12, 2026, Rep. Darrell Issa said he supports President Trump’s push for a federal gas tax holiday, describing the 18-cent-per-gallon federal gasoline tax cut as “symbolic” but still useful for consumers. Issa, who is Vice Chair of the House Foreign Affairs Committee, also argued that China should be “part of the solution” to reopening the Strait of Hormuz and defended continuing the Iran conflict despite higher inflation and gas prices. The federal gas tax is 18.4 cents per gallon for gasoline and 24.4 cents for diesel, and the proposal comes amid a broader energy-price shock tied to tensions around the Strait of Hormuz.",
+      "prop_args": [
+        {
+          "thesis": "A temporary gas tax holiday is a justified emergency relief tool that cushions households from geopolitical energy shocks without materially changing the long-run fiscal picture.",
+          "mechanisms": [
+            "First, it directly lowers the price households face at the pump. This is because (1) gasoline demand is highly visible and politically salient, (2) even an 18-cent cut matters when prices are already elevated, and (3) lower fuel costs quickly feed into commuting, freight, and food prices.",
+            "Second, it helps prevent a temporary supply shock from becoming a broader inflation problem. Three reasons: one, energy costs are a key input into transport and goods distribution; two, consumer expectations are heavily shaped by fuel prices; three, giving households immediate relief can preserve real purchasing power and reduce recessionary pressure.",
+            "Third, it is defensible as a war-time or crisis measure rather than a permanent tax cut. This matters because (1) the policy can be time-limited, (2) the fiscal cost is relatively modest compared to the political and economic cost of sustained price spikes, and (3) governments routinely use temporary tax relief to smooth extraordinary shocks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A gas tax holiday is bad policy because it is a blunt, regressive subsidy that weakens infrastructure funding while doing little to solve the underlying oil-price shock.",
+          "mechanisms": [
+            "First, the benefit is poorly targeted and likely regressive. One, higher-income households consume more fuel and capture more of the tax cut; two, people who drive more get more relief than low-income non-drivers; three, the policy does not distinguish between those truly harmed by the shock and those merely consuming more gasoline.",
+            "Second, it undermines the fiscal and infrastructure logic of the gas tax. One, the federal gas tax funds highways and transport investment; two, suspending it creates a funding gap or forces borrowing; three, repeated holidays normalize the idea that politically painful taxes can be waived whenever prices rise, eroding long-term budget discipline.",
+            "Third, it is economically ineffective against a supply-driven price spike. One, if crude oil prices are elevated because of the Strait of Hormuz crisis, the tax cut is too small to offset the shock; two, retailers may capture part of the benefit rather than passing it through fully; three, consumers may end up with minimal savings while the state absorbs the revenue loss."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the gas tax holiday is treated as meaningful relief or as symbolic politics with high fiscal cost. Prop wins if the round prioritizes immediate household pain and inflation optics; opp wins if the judge weighs efficiency, regressivity, and the fact that an 18-cent cut cannot fix a geopolitical oil shock.",
+      "stock_connections": [
+        "Inflation Relief",
+        "Regressive Taxation",
+        "Fiscal Credibility",
+        "Energy Security",
+        "War Economy",
+        "Supply Shock",
+        "Political Signaling",
+        "Consumer Subsidies"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would suspend the federal gas tax during major energy price shocks",
+        "THBT governments should prioritize temporary consumer relief over fiscal orthodoxy during geopolitical supply shocks",
+        "THP a world where gasoline taxes are automatically paused when global oil prices spike above a threshold"
+      ],
+      "data_points": [
+        "Federal gasoline tax in the U.S. is 18.4 cents per gallon",
+        "Federal diesel tax in the U.S. is 24.4 cents per gallon",
+        "Issa described the proposed 18-cent cut as 'symbolic' but meaningful",
+        "The policy was discussed in the context of rising inflation and gas prices linked to the Iran conflict and the Strait of Hormuz"
+      ]
+    },
+    {
+      "id": "c2cb5ac49789",
+      "title": "OpenAI Ownership Fight Pits AI Governance Against Founder Control and Profit Motives",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss",
+      "published": "2026-05-12T22:09:35Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "A US court in Oakland, California is hearing Elon Musk’s lawsuit against Sam Altman, Greg Brockman, OpenAI, and Microsoft over OpenAI’s shift from a nonprofit mission to a for-profit structure. Musk alleges he invested $38bn on the basis of a charity-like mission and is seeking $150bn in damages, while also pushing for Altman and Brockman’s removal. Altman testified that Musk knew about the for-profit plan and even sought 90 percent of OpenAI’s equity at one stage. The case comes as OpenAI reportedly prepares for a potential IPO that could value the company at $1 trillion.",
+      "prop_args": [
+        {
+          "thesis": "The trial strengthens the case for tighter governance over frontier AI firms by exposing how concentrated founder power can distort mission, accountability, and public trust.",
+          "mechanisms": [
+            "First, it shows that AI labs are structurally vulnerable to capture by dominant founders or investors. This is because (1) the technology is capital-intensive, so a small number of actors can demand outsized control, (2) mission statements are easy to weaponize as branding while governance rights determine real power, and (3) once a firm becomes commercially indispensable, its leadership can pivot away from original public-interest commitments without meaningful external checks.",
+            "Second, it justifies regulatory intervention before these firms become too big to discipline. Three reasons: one, the dispute reveals that internal board structures are not enough to prevent mission drift; two, a potential $1 trillion IPO means market incentives will push even harder toward profit-maximization; three, the public stakes of AI safety are too high to leave to private litigation after the fact.",
+            "Third, the case is a warning that AI development is already being shaped by elite competition rather than social benefit. This matters because (1) if the sector is governed like a normal startup race, safety and transparency lose to speed and valuation, (2) public skepticism is already high, with a March 2026 Pew poll finding only 10 percent of Americans more excited than concerned about AI, and (3) legitimacy problems will make future deployment and regulation harder."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The lawsuit is mostly a corporate control dispute that should not be mistaken for evidence that the AI industry needs heavier-handed intervention.",
+          "mechanisms": [
+            "First, the core issue is contractual and fiduciary, not a unique AI governance failure. One, courts already exist to resolve disputes over corporate purpose and equity; two, the fact pattern involves a founder-investor falling out over ownership and strategy, which is common in high-growth tech; three, using this case to justify broad regulation risks overreacting to a single messy partnership breakdown.",
+            "Second, for-profit incentives may actually improve AI development by attracting the scale of capital and talent frontier models require. One, OpenAI’s move toward commercialization helps fund compute, research, and deployment; two, the possibility of a $1 trillion IPO signals that markets can mobilize resources at a scale nonprofits cannot; three, if the goal is to build powerful models safely, undercapitalization is a bigger danger than profit-seeking.",
+            "Third, Musk’s own conduct weakens the claim that this is about principled AI stewardship. One, he runs a competing chatbot, Grok, so he has direct commercial incentives to slow a rival; two, Altman’s testimony that Musk once sought 90 percent equity suggests Musk wanted control, not neutrality; three, if both sides are self-interested, the trial is evidence of competitive market discipline rather than proof that the sector is uniquely ungovernable."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the case reveals a one-off founder feud or a structural governance problem in frontier AI. Prop wins if it frames the dispute as proof that private incentives will systematically overpower public-interest commitments in a trillion-dollar industry; opp wins if it narrows the story to ordinary corporate litigation and argues that scale, capital, and competition are exactly what make commercialization necessary.",
+      "stock_connections": [
+        "Corporate Governance",
+        "Principal-Agent Problem",
+        "Mission Drift",
+        "Regulatory Capture",
+        "Too Big to Fail",
+        "Founder Control",
+        "Moral Hazard",
+        "Public Trust in Technology",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as governments, would impose stricter governance rules on frontier AI firms",
+        "THBT AI companies should be required to remain non-profit until they reach a safety threshold",
+        "THP a world in which frontier AI labs are publicly regulated like utilities",
+        "TH, as investors, would prefer nonprofit AI governance over for-profit commercialization"
+      ],
+      "data_points": [
+        "$38bn alleged investment by Musk into OpenAI",
+        "$150bn damages sought by Musk from OpenAI and Microsoft",
+        "Potential OpenAI IPO valuation of $1 trillion",
+        "Pew Research Center March 2026 poll: only 10% of US respondents said they were more excited than concerned about AI",
+        "UN estimate: global AI market could be worth $4.8 trillion by 2033",
+        "Altman testified Musk initially floated 90% of OpenAI equity"
+      ]
+    },
+    {
+      "id": "adc8c4675b86",
+      "title": "Trump’s Return Exposes a Stronger China That Can Absorb Pressure, Not Just React to It",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T22:07:51Z",
+      "category": "IR",
+      "region": "China / United States / Iran / Taiwan / Global",
+      "background": "Donald Trump is visiting Beijing in 2026 for talks with Xi Jinping, nearly a decade after his 2017 trip. The agenda includes trade, technology, Taiwan, and Iran, while China is now in Xi’s third term and is pushing a strategy of \"new productive forces\" through heavy investment in renewables, robotics, AI, and advanced manufacturing. The article says China’s exports to the US have fallen by around 20% in recent years, the US is now China’s third-largest trade partner behind Southeast Asia and the EU, and China is planning around $400bn of robotics investment this year.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s pressure campaign now accelerates China’s strategic autonomy rather than constraining it.",
+          "mechanisms": [
+            "First, tariffs and tech restrictions force import substitution and domestic upgrading. This is because (1) Chinese firms lose access to US markets and chips, so they are incentivized to localize supply chains, (2) the state can direct capital into priority sectors like robotics, EVs, and AI, and (3) firms that survive the shock become more competitive in non-US markets.",
+            "Second, US unpredictability pushes China to diversify trade and reduce exposure to American leverage. Three reasons: one, China has already cut reliance on the US market, with exports to the US down around 20%; two, Southeast Asia and the EU now matter more as trade partners, so Beijing can reroute commerce; three, rail links through Central Asia to Europe and visa-free tourism are part of a broader de-risking strategy.",
+            "Third, confrontation strengthens Xi’s domestic legitimacy by letting him frame China as the stable, forward-looking alternative to a chaotic America. This matters because (1) it justifies tighter state coordination, (2) it rallies nationalist support around self-reliance, and (3) it makes external pressure politically easier to absorb than internal liberalization."
+          ]
+        },
+        {
+          "thesis": "China is now strong enough to turn great-power competition into a platform for influence rather than a vulnerability.",
+          "mechanisms": [
+            "First, China can use its scale in manufacturing and green tech to shape global supply chains. This is because (1) it already has the largest number of industrial robots in factories, (2) it is the world’s largest car-maker, and (3) its EV and renewable industries give it leverage over states seeking cheap industrial inputs.",
+            "Second, Beijing can exploit US inconsistency to present itself as the more reliable partner. Three reasons: one, Trump’s on-again, off-again tariffs alienate allies and partners; two, China can host high-profile visits and offer market access selectively; three, even countries wary of China may prefer predictable Chinese engagement over erratic American coercion.",
+            "Third, China’s growing role in crisis diplomacy increases its diplomatic value. This matters because (1) Trump is reportedly seeking China’s help on Iran, (2) that gives Beijing bargaining power beyond trade, and (3) it normalizes China as a necessary actor in global security rather than a regional challenger."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump still has meaningful leverage because China remains exposed in key choke points and cannot fully decouple from the US.",
+          "mechanisms": [
+            "First, China still needs American technology at the high end. One, the article says China wants more high-end Nvidia chips; two, AI and robotics depend on advanced semiconductors; three, US export controls can slow Chinese productivity gains even if they do not stop them entirely.",
+            "Second, China’s domestic economy is fragile enough that external pressure bites. One, the property sector is struggling; two, unemployment and low consumption persist; three, local governments like Chongqing are heavily indebted, so Beijing cannot easily absorb prolonged trade shocks without growth costs.",
+            "Third, the US still shapes the rules of the global system China wants to enter. One, access to the US market remains valuable even if reduced; two, allies and financial institutions still track Washington’s lead; three, if Trump coordinates tariffs or tech controls with partners, China’s diversification becomes more expensive and slower."
+          ]
+        },
+        {
+          "thesis": "China’s apparent resilience hides structural weaknesses that make it vulnerable to prolonged confrontation.",
+          "mechanisms": [
+            "First, state-led investment can create overcapacity and debt rather than sustainable growth. One, Chongqing’s transformation has been funded by billions in state spending; two, the local government is now heavily in debt; three, if demand does not keep pace, these investments become fiscal liabilities.",
+            "Second, authoritarian control may preserve stability in the short run but suppresses correction. One, dissent is not tolerated, so bad policy feedback is filtered out; two, households remain cautious and consumption stays weak; three, the regime can look strong while underlying economic confidence erodes.",
+            "Third, China’s external assertiveness can provoke balancing. One, more countries may hedge against Beijing if it becomes too dominant; two, trade partners may diversify away from China for security reasons; three, a stronger China can still trigger containment coalitions that limit its long-term rise."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether pressure produces Chinese collapse or Chinese adaptation. The prop side wins if you believe China’s scale, state capacity, and trade diversification let it convert US coercion into self-reliance and influence; the opp side wins only if you think the remaining tech and growth dependencies are still decisive enough to cap Beijing’s rise.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Economic Statecraft",
+        "Decoupling",
+        "Strategic Autonomy",
+        "Containment",
+        "Soft Power",
+        "Authoritarian Resilience",
+        "Trade War",
+        "Tech War",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue aggressive economic decoupling from China",
+        "THBT rising powers should prioritize strategic autonomy over integration with the US-led order",
+        "THP a world where China becomes the primary economic and diplomatic counterweight to the United States",
+        "THBT Trump’s foreign policy has made China stronger",
+        "TH, as China, would accept prolonged economic pain to achieve technological self-sufficiency"
+      ],
+      "data_points": [
+        "China’s exports to the US have fallen by around 20% in the last few years",
+        "The US is now China’s third-largest trade partner, behind Southeast Asia and the European Union",
+        "China plans to invest around $400bn in robotics this year",
+        "Chongqing has a population of over 30 million people",
+        "Around two million foreign tourists visited Chongqing last year",
+        "China already has the largest number of industrial robots in its factories",
+        "Trump cleared the way for Nvidia to sell some advanced chips to China, but not the most advanced ones",
+        "Chongqing’s local government is heavily in debt after one of the largest sustained urban construction efforts in modern history",
+        "Xi is now in an unprecedented third term",
+        "The article says China’s rail link through Central Asia to Europe cost around $5bn"
+      ]
+    },
     {
       "id": "ebf9b446aaef",
       "title": "Anthropic’s $30 Billion Mega-Round Could Accelerate AI Concentration and Raise the Cost of Competing",
@@ -585,6 +1100,65 @@
       ]
     },
     {
+      "id": "77bdf0f36e3a",
+      "title": "Scrapping Australia’s Property Tax Breaks Becomes a Test of Whether Housing Should Be an Asset Class or a Home",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-12T20:28:03Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Australia is facing a severe housing affordability crisis: the average property now costs almost 10 times an ordinary household income, up from roughly 4 times about 25 years ago, and rents have doubled over the same period. The Labor government has proposed changes to two major tax settings: replacing the capital gains tax (CGT) discount with an inflation-linked markdown and limiting negative gearing to new builds only, with the reforms grandfathered for existing beneficiaries. The debate is politically sensitive because Labor previously lost elections in 2016 and 2019 after proposing similar changes, while critics argue the reforms will hurt investors and renters and supporters argue they will reduce speculation and improve access for first-home buyers.",
+      "prop_args": [
+        {
+          "thesis": "Scrapping or narrowing negative gearing and the CGT discount is a necessary step to reduce speculative demand and restore housing toward its primary function as shelter.",
+          "mechanisms": [
+            "First, it reduces the after-tax profitability of buying existing homes as investment assets. This is because (1) negative gearing lets investors deduct rental losses from taxable income, (2) the CGT discount halves tax on capital gains, and (3) together they make leveraged property speculation more attractive than productive investment, pushing up demand for the same limited stock.",
+            "Second, it shifts capital toward new supply rather than bidding up existing homes. Three reasons: one, limiting negative gearing to new builds preserves incentives for construction while removing windfall demand for established dwellings; two, grandfathering softens shock for current owners while changing future expectations; three, reducing investor competition gives first-home buyers and owner-occupiers a better chance in auctions and listings.",
+            "Third, it is politically and socially necessary because the status quo entrenches intergenerational inequality. This matters because (1) house prices have risen to nearly 10 times average income, (2) rents have doubled, so young people are forced to save larger deposits while paying higher rents, and (3) if policy does nothing, the market keeps converting wealth from non-owners to existing property holders, worsening social mobility and trust in institutions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Scrapping these tax breaks will not solve the housing crisis and risks making rental supply and construction incentives worse.",
+          "mechanisms": [
+            "First, it may reduce investor participation in the rental market. One, negative gearing and the CGT discount are part of the return investors expect for taking on risk; two, if returns fall, some investors will sell or stop buying, shrinking rental stock; three, fewer rental properties can push rents up in the short to medium term, hurting the very people the reform claims to help.",
+            "Second, it attacks demand without fixing the real bottleneck: insufficient supply. One, Australia’s affordability crisis is driven by decades of underbuilding, weak social housing investment, and restrictive planning laws; two, construction approvals and build times have slowed by about 40% over 15 years; three, without faster approvals and more homes, reduced investor demand only produces a small price dip rather than structural affordability gains.",
+            "Third, the reform creates economic and political side effects that may outweigh its benefits. One, grandfathering means the policy mostly affects future buyers while leaving current distortions intact, limiting immediate impact; two, if investors and homeowners believe housing policy is unstable, they may delay building or selling decisions; three, the government could lose political capital needed for more effective supply-side reforms."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the main problem is distorted demand or inadequate supply. Prop wins if you think investor tax settings are a major driver of speculative bidding and intergenerational inequality; opp wins if you think the binding constraint is planning, construction capacity, and rental stock, because then tax reform is at best marginal and at worst counterproductive.",
+      "stock_connections": [
+        "Asset Bubbles",
+        "Speculation",
+        "Moral Hazard",
+        "Intergenerational Inequality",
+        "Wealth Concentration",
+        "Rent-Seeking",
+        "Supply-Side Constraints",
+        "Dutch Disease",
+        "Political Economy of Housing",
+        "Market Distortion"
+      ],
+      "motion_areas": [
+        "TH, as the Australian government, would abolish negative gearing and the CGT discount for existing homes",
+        "THBT governments should tax housing investment like other capital assets rather than subsidise it",
+        "THP a world where tax incentives for property speculation are removed before supply-side reforms are complete",
+        "THBT Australia should prioritise demand-side housing reform over migration cuts as the solution to affordability"
+      ],
+      "data_points": [
+        "Average Australian property now costs almost 10 times an ordinary household income, up from about 4 times 25 years ago",
+        "Rents in Australia have doubled over roughly the same period",
+        "Labor’s proposal would replace the CGT discount with an inflation-linked markdown",
+        "Negative gearing would be limited to new builds only under the proposed reform",
+        "The reforms are grandfathered: existing beneficiaries keep their tax advantages",
+        "Construction approvals and processes have slowed build times by about 40% over the past 15 years",
+        "The article says the average house in Adelaide could be 17 times Sebastian Muñoz-Najar’s likely income by the time he graduates university if current trends continue",
+        "Labor previously proposed similar changes in the 2016 and 2019 elections and lost both"
+      ]
+    },
+    {
       "id": "6fd93176b351",
       "title": "Israel’s Lebanon Campaign Exposes the Fragility of Ceasefire Enforcement and Civilian Protection",
       "source": "BBC",
@@ -1033,6 +1607,60 @@
         "Citi’s China research has reportedly used the K-shape analogy for China’s economy",
         "Fragile economies in South Asia, the Middle East, and sub-Saharan Africa were hit by COVID, the 2022 energy and food shock, and global monetary tightening",
         "Countries named as under stress include Egypt, Pakistan, Bangladesh, and Ethiopia"
+      ]
+    },
+    {
+      "id": "9a5021b9fc5b",
+      "title": "India’s Thorium Breakthrough Revives the Case for a Proliferation-Resistant Nuclear Energy Model",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/the-thorium-gamble-indias-nuclear-breakthrough/",
+      "published": "2026-05-12T19:14:00Z",
+      "category": "IR",
+      "region": "India",
+      "background": "This article discusses India’s long-running three-stage nuclear program and a reported landmark breakthrough at Kalpakkam in 2026. The program traces back to Homi Bhabha’s 1950s vision of using India’s thorium reserves to build a domestic, energy-independent nuclear fuel cycle. The piece also situates the breakthrough in the context of India’s decades of nuclear isolation, the engineering challenges of fast breeder reactors, and the global debate over nuclear power’s role in net-zero transitions.",
+      "prop_args": [
+        {
+          "thesis": "India’s thorium program is a strategic energy-sovereignty project that can reduce import dependence while creating a safer, more proliferation-resistant nuclear pathway.",
+          "mechanisms": [
+            "First, it reduces external energy vulnerability. This is because (1) India has historically faced fuel and technology constraints due to nuclear isolation, (2) a domestic thorium cycle lowers reliance on imported uranium and foreign reactor supply chains, and (3) energy independence gives India more room to withstand geopolitical coercion in crises.",
+            "Second, it creates a more proliferation-resistant civilian nuclear model. Three reasons: one, thorium-based fuel cycles are harder to directly convert into weapons material than conventional plutonium-heavy pathways; two, India can argue that its civilian program is less threatening to the non-proliferation regime; and three, this improves India’s diplomatic legitimacy as a responsible nuclear power.",
+            "Third, it can accelerate decarbonization without the intermittency problems of renewables. This matters because nuclear power provides firm baseload electricity, which complements solar and wind, and because a successful thorium pathway could scale low-carbon power without the same fuel-security and waste anxieties associated with older reactor models."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "India’s thorium gamble is a costly distraction that may overpromise on technology, underdeliver on timelines, and lock scarce capital into a prestige project instead of proven clean-energy deployment.",
+          "mechanisms": [
+            "First, the technology is still uncertain and slow to scale. One, fast breeder reactors and thorium fuel cycles are technically complex and prone to delays; two, decades of development show that a breakthrough in principle does not equal commercial viability; three, if deployment remains limited, the program cannot materially solve India’s near-term energy needs.",
+            "Second, the opportunity cost is high. One, every rupee spent on advanced nuclear is a rupee not spent on grid upgrades, storage, transmission, or mature renewables; two, India needs emissions cuts now, not in a distant future; three, large nuclear projects often suffer from cost overruns and long construction timelines that crowd out faster climate solutions.",
+            "Third, the safety and waste case is not automatically solved by thorium. One, any nuclear system still requires robust regulation, waste management, and accident prevention; two, public fear after Chernobyl and Fukushima can still generate political backlash; three, if a major incident occurs, it could damage trust in the entire clean-energy transition."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between strategic long-term upside and near-term execution risk. Prop wins if the round is about energy sovereignty and industrial capability; opp wins if the judge prioritizes opportunity cost and the fact that a promising prototype is not the same as a deployable national solution.",
+      "stock_connections": [
+        "Energy Security",
+        "Technological Leapfrogging",
+        "Non-Proliferation",
+        "Opportunity Cost",
+        "State Capacity",
+        "Infrastructure Lock-in",
+        "Climate Mitigation",
+        "Public Goods Provision"
+      ],
+      "motion_areas": [
+        "TH, as India, would prioritize thorium-based nuclear development over rapid renewable expansion",
+        "THBT developing nations should invest in advanced nuclear energy as a path to energy independence",
+        "THP a world where civilian nuclear fuel cycles are designed to minimize proliferation risk",
+        "THBT states should fund long-term energy sovereignty projects even when commercial returns are uncertain"
+      ],
+      "data_points": [
+        "India’s nuclear program is built around a three-stage design centered on thorium utilization",
+        "The breakthrough referenced occurred at Kalpakkam in 2026",
+        "India has spent decades under nuclear isolation, limiting access to external nuclear technology and fuel",
+        "The article links thorium power to complementing renewables in the global net-zero push",
+        "The piece frames thorium as a proliferation-resistant model for long-term energy needs"
       ]
     },
     {
