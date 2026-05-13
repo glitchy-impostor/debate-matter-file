@@ -1,7 +1,871 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-13T08:56:27Z",
+  "last_updated": "2026-05-13T11:38:09Z",
   "cards": [
+    {
+      "id": "bd7f8c8a9f67",
+      "title": "Trump’s Beijing Summit Risks Trading Taiwan Security for Chinese Help on Iran",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/13/first-thing-trump-china-summit-xi-jinping",
+      "published": "2026-05-13T11:10:45Z",
+      "category": "IR",
+      "region": "United States and China; Iran / Taiwan",
+      "background": "Donald Trump is due to arrive in Beijing on Wednesday evening for a two-day summit with Xi Jinping, his first visit to China as US president in nearly a decade. The visit comes as the US and China remain in a fragile tariff truce reached last autumn, while Washington is also trying to get Beijing to pressure Iran to reopen the Strait of Hormuz and accept US peace terms after a war that has entered its third month. White House officials say Trump will travel with more than a dozen business leaders, including Elon Musk and Tim Cook, signaling continued economic engagement despite strategic rivalry.",
+      "prop_args": [
+        {
+          "thesis": "Trump should use the summit to cut a transactional deal with China that stabilizes the Iran crisis even if it requires tactical concessions on Taiwan and trade.",
+          "mechanisms": [
+            "First, a deal with China is the fastest way to reduce the Iran war’s spillover costs. This is because (1) Beijing has leverage over Tehran through energy, shipping, and diplomatic channels; (2) the US is already struggling to turn a fragile ceasefire into a lasting settlement; and (3) reopening the Strait of Hormuz would immediately lower global energy prices and ease the 3.8% inflation pressure hitting American households.",
+            "Second, limited concessions on Taiwan or tariffs can be justified as bargaining chips rather than permanent retreats. Three reasons: one, the US-China relationship is already in a tariff truce, so a managed bargain can preserve stability; two, Trump can frame the summit as preventing a larger war and protecting American economic interests; three, business participation from Apple and Tesla shows both sides still want a working economic relationship, making a grand bargain politically and commercially feasible.",
+            "Third, prioritizing crisis management over symbolic deterrence is the better strategic choice in the short run. This matters because (1) the US cannot credibly fight Iran, deter China, and absorb inflationary shocks all at once; (2) a temporary de-escalation in East Asia buys time to rebuild US military and diplomatic credibility; and (3) avoiding a two-front confrontation reduces the risk of miscalculation that could spiral into a wider regional war."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump should not trade away Taiwan credibility or strategic leverage because it would reward coercion and weaken US deterrence against China.",
+          "mechanisms": [
+            "First, any concession on Taiwan creates a dangerous precedent of bargaining away allies for short-term crisis relief. One, China learns that military pressure and diplomatic leverage can extract US retrenchment; two, Taiwan and other US partners conclude American security guarantees are negotiable; three, that perception increases the odds of future coercion or even invasion because deterrence has been visibly weakened.",
+            "Second, a deal that depends on Chinese help against Iran is structurally unreliable. One, Beijing’s interests are not aligned with Washington’s and it may offer only symbolic pressure while preserving ties with Tehran; two, China can pocket concessions on tariffs or Taiwan without delivering meaningful compliance; three, the US then loses credibility in Asia while gaining little on the Middle East front.",
+            "Third, the summit risks domestic and alliance blowback that outweighs any temporary economic gain. One, abandoning hard lines on Taiwan would alarm Congress, the defense establishment, and regional allies like Japan; two, it would signal that US policy is driven by Trump’s need to repair prestige after the Iran war rather than by long-term strategy; three, once credibility is damaged, rebuilding it is far harder than maintaining a firm position in the first place."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the immediate payoff from de-escalating Iran outweighs the long-term cost of weakening deterrence in East Asia. The opposition has the structural advantage on credibility and precedent, but the proposition can win if it proves the Iran war is already imposing acute economic and security costs that make a transactional summit the least bad option.",
+      "stock_connections": [
+        "Credibility and deterrence",
+        "Transactional diplomacy",
+        "Alliance abandonment",
+        "Security dilemma",
+        "Two-level games",
+        "Moral hazard",
+        "Great power bargaining",
+        "Economic interdependence as peace dividend",
+        "Appeasement"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would trade limited concessions on Taiwan for Chinese pressure on Iran",
+        "THBT the US should prioritize de-escalation with China over defending every strategic red line in East Asia",
+        "THP a world where great powers are willing to bargain over regional security issues to end wider wars"
+      ],
+      "data_points": [
+        "Trump’s first visit to China as US president in nearly a decade",
+        "US-China tariff truce reached last autumn after tensions threatened to become a full-scale trade war",
+        "War in Iran has entered its third month",
+        "US inflation jumped to 3.8% in April, the highest since 2023",
+        "US energy index increased 17.9% for the 12 months ending April",
+        "More than a dozen US business leaders are traveling with Trump, including Elon Musk and Tim Cook",
+        "The Strait of Hormuz remains under tighter Iranian control amid the war",
+        "Washington has spent weeks urging China to pressure Iran to reopen the strait and accept US peace terms"
+      ]
+    },
+    {
+      "id": "c196c1c995ff",
+      "title": "Iran War Spending and Domestic Political Blowback Expose the Fiscal Limits of Prolonged Intervention",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/13/g-s1-121812/up-first-newsletter-war-iran-marty-makary-student-education-scorecard-trump-pardons",
+      "published": "2026-05-13T11:03:01Z",
+      "category": "IR",
+      "region": "United States / Iran",
+      "background": "The Pentagon now estimates the war with Iran has cost about $29 billion, up from $25 billion two weeks earlier. Officials told Congress that this figure does not include repairs to U.S. facilities hit by Iran; a CSIS adviser said those repairs could add at least another $4 billion. The Pentagon also plans to request supplemental funding, while GOP lawmakers are facing voter frustration over the conflict and its economic effects.",
+      "prop_args": [
+        {
+          "thesis": "The war with Iran is becoming a politically and fiscally unsustainable intervention that weakens U.S. domestic stability and strategic credibility.",
+          "mechanisms": [
+            "First, the war imposes a direct fiscal shock that crowds out domestic priorities. This is because (1) the Pentagon already estimates $29 billion in costs, (2) repairs to damaged U.S. facilities could add at least another $4 billion, and (3) supplemental funding requests normalize open-ended war spending that competes with other budget items.",
+            "Second, the conflict creates political backlash that erodes coalition support for the administration. Three reasons: one, Republicans are already showing frustration over the lack of information from the White House; two, voters are seeing daily economic reminders of the war; three, an unpopular war heading into an election cycle makes legislators more risk-averse and less willing to sustain escalation.",
+            "Third, prolonged war increases the likelihood of strategic overreach. This matters because (1) the longer the conflict continues, the more sunk costs pressure leaders to stay engaged, (2) rising costs make exit politically harder, and (3) visible domestic strain signals weakness to adversaries who can outlast U.S. public tolerance."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The war is costly, but the spending is manageable and necessary to protect U.S. security and deterrence.",
+          "mechanisms": [
+            "First, the fiscal burden is large in absolute terms but still absorbable for the U.S. state. One, $29 billion is small relative to the overall federal budget and defense topline; two, supplemental appropriations are a standard wartime tool; three, repairing damaged facilities is a predictable cost of military operations rather than a reason to abandon them.",
+            "Second, the war may strengthen deterrence and reduce longer-term costs. One, showing willingness to pay now can prevent wider regional escalation later; two, failing to respond to Iranian attacks would invite future aggression against U.S. assets; three, a credible military posture can shorten conflicts by raising the adversary's expected costs.",
+            "Third, domestic political discomfort does not necessarily translate into policy failure. One, voters often tolerate security spending when framed as defense; two, congressional frustration is not the same as legislative refusal to fund the war; three, administrations can absorb short-term backlash if the strategic case remains persuasive."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war's costs are a temporary security expense or the start of an open-ended fiscal and political drain. Prop wins if it proves the conflict is structurally unsustainable and erodes domestic support faster than it improves security; opp wins if it shows the spending is still manageable and buys deterrence that prevents a much larger war.",
+      "stock_connections": [
+        "War weariness",
+        "Fiscal burden of intervention",
+        "Sunk cost fallacy",
+        "Deterrence",
+        "Alliance credibility",
+        "Domestic backlash to foreign policy",
+        "Overextension"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would continue the war in Iran",
+        "THBT the United States should prioritize ending the war in Iran over maintaining military pressure",
+        "THP a world in which Congress must approve all supplemental war funding after 30 days"
+      ],
+      "data_points": [
+        "$29 billion estimated cost of the war with Iran",
+        "Pentagon estimate rose from $25 billion two weeks earlier",
+        "At least another $4 billion could be added for repairs to U.S. facilities hit by Iran",
+        "The Pentagon plans to ask for supplemental funding",
+        "The conflict is now more than two months old",
+        "Republican lawmakers are facing voter dissatisfaction and economic spillover from the war"
+      ]
+    },
+    {
+      "id": "b8a22f367123",
+      "title": "Brazil’s Amazon Land Demarcation Becomes a Test of Whether Indigenous Protection Can Survive Agribusiness Pressure",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/13/official-marking-land-brazil-uncontacted-kawahiva",
+      "published": "2026-05-13T11:00:08Z",
+      "category": "IR",
+      "region": "Brazil (Amazon; Mato Grosso and Amazonas)",
+      "background": "Brazil has begun demarcating the Pardo River Kawahiva Indigenous territory, a 410,000-hectare area between Mato Grosso and Amazonas, after the existence of the uncontacted Kawahiva was confirmed in 1999. The process has taken 27 years and still requires the president’s signature for full recognition, while agribusiness-linked groups continue to challenge it in court. The territory is home to about 290 Kawahiva people and is one of several areas in the Amazon facing pressure from farming expansion, land grabs, illegal logging and mining. Brazil’s presidential election is due in October, with polls showing a close race between Lula and Flávio Bolsonaro.",
+      "prop_args": [
+        {
+          "thesis": "Formal demarcation is the only credible way to protect uncontacted peoples because it turns vague recognition into enforceable territorial sovereignty.",
+          "mechanisms": [
+            "First, demarcation creates a legally legible boundary that the state can actually police. This is because (1) unmarked land is easy to reclassify as vacant or underutilized, (2) geodetic markers and mapped borders give Funai and federal police a basis for enforcement, and (3) courts and regulators can then treat incursions as clear violations rather than ambiguous disputes.",
+            "Second, it reduces the economic incentives for invasion by making extraction riskier and more expensive. Three reasons: one, agribusiness and land-grabbers rely on uncertainty to expand the agricultural frontier; two, formal recognition strengthens injunctions against logging, mining and settlement; three, buffer zones make edge encroachment harder and slow the spread of deforestation.",
+            "Third, it is the only policy that preserves the physical and cultural survival of uncontacted groups. This matters because contact with armed outsiders brings disease, violence and displacement, and the article shows the Kawahiva have already faced massacres, deaths linked to land disputes, and sustained pressure from rural violence."
+          ]
+        },
+        {
+          "thesis": "Protecting Indigenous territories is a high-value climate and governance intervention because it prevents deforestation more effectively than many state-led conservation schemes.",
+          "mechanisms": [
+            "First, Indigenous lands function as low-deforestation enforcement zones. This is because (1) local presence deters illegal logging and mining, (2) community-backed territorial claims make occupation harder to normalize, and (3) the article notes Indigenous lands have recorded the lowest rates of deforestation in the Amazon in recent years.",
+            "Second, demarcation improves state capacity by concentrating scarce enforcement resources on clearly defined areas. Three reasons: one, Funai and police can prioritize a mapped territory rather than scattered claims; two, permanent markers reduce monitoring costs; three, legal certainty makes it easier to coordinate buffer zones and rapid response to incursions.",
+            "Third, the broader payoff is that protecting one territory creates a precedent for the rest of the Amazon. This matters because the article identifies other pending areas like Piripkura, Ituna-Itatá and Jacareúba-Katawixi, so successful demarcation can unlock a wider protection cascade."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Demarcation on paper is insufficient and may even intensify conflict if the state cannot credibly enforce the borders it creates.",
+          "mechanisms": [
+            "First, formal recognition can provoke backlash from powerful land interests. One, agribusiness-linked groups have already launched repeated legal challenges; two, clearer boundaries can harden opposition by turning a political dispute into a direct property conflict; three, if enforcement is weak, the symbolic victory may invite more aggressive incursions to test state resolve.",
+            "Second, the policy can fail operationally because the state lacks the manpower and logistics to protect remote territories. One, Funai staff and federal police must secure vast forest areas plus geodetic markers; two, the article explicitly says safety is difficult during and after demarcation; three, without sustained funding, borders become lines on a map that armed actors ignore.",
+            "Third, prioritizing demarcation may not solve the broader drivers of Amazon destruction. One, land pressure comes from the agricultural frontier, mining and illegal logging across the region; two, if national land-use incentives remain unchanged, actors simply shift to other vulnerable areas; three, the policy can become a narrow conservation fix that leaves the underlying political economy intact."
+          ]
+        },
+        {
+          "thesis": "A strategy focused on formal demarcation can be too slow and legalistic to protect uncontacted peoples in time.",
+          "mechanisms": [
+            "First, the process itself is vulnerable to delay and reversal. One, this case took 27 years from confirmation to demarcation; two, full recognition still depends on presidential approval; three, an election could bring a government less committed to Indigenous protection.",
+            "Second, legal recognition does not automatically protect groups that remain unconfirmed or unmapped. One, the government says there are 115 isolated groups but only 29 confirmed; two, many communities may be invisible to the state until it is too late; three, a framework centered on formal demarcation can miss the most vulnerable populations.",
+            "Third, the opportunity cost is high because every year of delay increases the chance of irreversible harm. One, uncontacted peoples face disease and violence from outsiders; two, the article references existing massacres and deaths tied to land disputes; three, a slow legal process can be functionally equivalent to abandonment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between legal certainty and enforcement capacity: prop wins if the question is whether demarcation is the necessary precondition for any durable protection, while opp wins if the round is about whether the state can actually defend remote land against organized economic interests. This argument wins because the article shows both the value of clear borders and the fragility of implementation, so the side that best controls the enforcement story has the structural advantage.",
+      "stock_connections": [
+        "Indigenous Rights",
+        "Environmental Protection",
+        "State Capacity",
+        "Resource Curse",
+        "Race to the Bottom",
+        "Land Grabs",
+        "Deforestation",
+        "Moral Hazard",
+        "Democratic Backsliding",
+        "Frontier Expansion"
+      ],
+      "motion_areas": [
+        "TH, as Brazil, would prioritize formal demarcation of Indigenous lands over negotiated land-use restrictions",
+        "THBT states should grant uncontacted Indigenous peoples full territorial sovereignty even at the cost of limiting agricultural expansion",
+        "THP a world where Indigenous land protection is treated as a non-negotiable state policy insulated from electoral change",
+        "THBT developing countries should empower Indigenous land agencies over agribusiness interests in frontier regions"
+      ],
+      "data_points": [
+        "410,000 hectares (about 1 million acres) of territory between Mato Grosso and Amazonas",
+        "About 290 Kawahiva people live in the Pardo River Kawahiva territory",
+        "The Kawahiva were first confirmed by specialists in 1999; demarcation began in 2026 after a 27-year wait",
+        "Brazil says there are 115 isolated groups, but only 29 have been confirmed",
+        "Indigenous lands have recorded the lowest rates of deforestation in the Amazon in recent years",
+        "The Kawahiva territory has had no deforestation for two years despite high rural violence",
+        "Brazil’s presidential election is scheduled for October, with polls showing a dead heat between Lula and Flávio Bolsonaro"
+      ]
+    },
+    {
+      "id": "50a708a20b9d",
+      "title": "Trump-Style Currency Politics Raises Fears of Politicized U.S. Money and Institutional Erosion",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-13/trump-on-us-banknotes-a-social-media-post-spurs-speculation",
+      "published": "2026-05-13T11:00:01Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The article is about speculation triggered by a social media post suggesting Donald Trump could appear on U.S. banknotes. The only concrete factual context provided is a Bloomberg photo caption from April 24, 2025 showing Trump with Treasury Secretary Scott Bessent during a White House lunch with Norway's Prime Minister Jonas Gahr Store. The issue sits at the intersection of monetary symbolism, executive power, and the perceived independence of U.S. financial institutions.",
+      "prop_args": [
+        {
+          "thesis": "Putting a sitting or former president on U.S. banknotes politicizes the currency and weakens confidence in the neutrality of core economic institutions.",
+          "mechanisms": [
+            "First, it turns money into a partisan symbol rather than a national one. This is because (1) banknotes are used by every citizen and foreign holder, (2) the design of currency is supposed to signal continuity across administrations, and (3) once one leader is canonized on money, future leaders face pressure to do the same, normalizing personalization of the state.",
+            "Second, it erodes institutional trust by blurring the line between the presidency and the Treasury. Three reasons: one, it suggests the executive can repurpose state symbols for self-branding; two, it creates the perception that monetary institutions are responsive to political loyalty rather than technocratic standards; three, it invites markets to read symbolic actions as a precursor to more substantive interference in fiscal or monetary governance.",
+            "Third, it creates a precedent for broader democratic backsliding through personality cult politics. This matters because the symbolic capture of state assets is often an early-stage mechanism of institutional degradation: once the leader is normalized as the face of the state, opposition is framed as anti-national, and checks on executive overreach become easier to delegitimize."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Changing or discussing currency imagery is mostly symbolic and can be used to strengthen national identity without materially harming economic institutions.",
+          "mechanisms": [
+            "First, the practical economic effects are minimal because banknote imagery does not determine inflation, interest rates, or Treasury financing. One, markets care far more about fiscal credibility and Fed policy than portrait selection; two, many countries regularly update notes without institutional crisis; three, public debate over symbols can be absorbed as ordinary political theater.",
+            "Second, it can be framed as democratic expression rather than personalization of power. One, elected governments have authority over national symbols; two, if the public supports the change, it reflects popular sovereignty rather than elite capture; three, the symbolism may be temporary and reversible after leadership changes.",
+            "Third, it may even reinforce legitimacy if it is seen as honoring a major political figure. One, national currencies often commemorate founders or transformative leaders; two, such imagery can increase public attachment to the currency; three, in a polarized environment, a unifying patriotic narrative may matter more than abstract concerns about symbolism."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic institutional erosion and material economic harm. Prop wins if it shows that currency design is a high-salience state symbol and that politicizing it normalizes executive personalization; opp wins if it keeps the clash in the realm of harmless optics and argues markets and institutions are driven by harder fundamentals.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Personality Cults",
+        "Institutional Erosion",
+        "Executive Overreach",
+        "Symbolic Politics",
+        "State Capture",
+        "Nationalism"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would place Donald Trump on US banknotes",
+        "THBT governments should not place living or former political leaders on national currency",
+        "THP a world where national currency design is insulated from executive influence"
+      ],
+      "data_points": [
+        "Bloomberg article published 2026-05-13T11:00:01Z",
+        "The only concrete contextual image in the article is a Bloomberg photo caption from April 24, 2025 showing Trump with Treasury Secretary Scott Bessent at the White House",
+        "The issue concerns U.S. banknotes, which are issued by the Treasury and circulate nationally and globally"
+      ]
+    },
+    {
+      "id": "a2d214df23bf",
+      "title": "Closing Refuge for Afghan Allies Turns Asylum Into a Bribery-Driven Escape Lottery",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/afghan-family-flight-safety/687079/?utm_source=feed",
+      "published": "2026-05-13T11:00:00Z",
+      "category": "IR",
+      "region": "Afghanistan / Pakistan / Spain / United States",
+      "background": "Safia Noori and Fakhruddin Elham are former Afghan special forces members who fought alongside U.S. troops and fled Taliban persecution after Kabul fell in 2021. After living as refugees in Pakistan, they were caught between Pakistan’s mass deportation campaign against Afghans and the Trump administration’s decision to close the door on Afghan resettlement. Spain eventually approved them for “international protection” on March 25, but they still had to navigate Pakistani exit permits, fines, bribes, and airport harassment before boarding a Turkish Airlines flight to Madrid on April 10.",
+      "prop_args": [
+        {
+          "thesis": "When major states shut legal pathways for refugees, they do not reduce movement; they force it into black markets, corruption, and life-threatening improvisation.",
+          "mechanisms": [
+            "First, closing formal resettlement channels pushes desperate refugees into informal brokers and bribery networks. This is because (1) the official route becomes inaccessible, (2) people still facing persecution cannot simply stay put, and (3) intermediaries can extract monopoly rents by controlling scarce documents like visas and exit permits.",
+            "Second, restrictive host-state policies convert refugees into easy targets for police abuse and deportation. Three reasons: one, undocumented status makes every checkpoint a risk of arrest; two, bureaucrats can demand extra payments because the victim has no legal recourse; three, fear of deportation weakens bargaining power and makes compliance the default.",
+            "Third, the humanitarian cost is not abstract but immediate and lethal. This matters because the family in the article was repeatedly one delay away from being sent back to Taliban-controlled Afghanistan, showing that asylum policy is literally a survival mechanism rather than a symbolic gesture."
+          ]
+        },
+        {
+          "thesis": "States that abandon allied refugees destroy the credibility of future security partnerships and make local cooperation with Western forces far harder.",
+          "mechanisms": [
+            "First, allies update their expectations about whether promises of protection are real. This is because (1) Afghan commandos and interpreters see that service to the West does not guarantee rescue, (2) future partners in conflict zones anticipate abandonment, and (3) that reduces willingness to cooperate with U.S. or European missions in the next war.",
+            "Second, betrayal creates a reputational spillover beyond Afghanistan. Three reasons: one, armed groups use these cases as propaganda to portray Western commitments as disposable; two, local elites hedge by avoiding visible alignment with the West; three, the West loses soft power precisely where it needs trust most.",
+            "Third, the policy damages long-run strategic capacity. This matters because counterinsurgency, intelligence gathering, and evacuation operations all depend on credible promises to local allies, and once credibility is lost it is expensive to rebuild."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "States are entitled to tighten refugee and migration controls when they face domestic capacity limits, security concerns, and political backlash.",
+          "mechanisms": [
+            "First, governments have to preserve border control and administrative capacity. One, large inflows can overwhelm asylum systems and housing; two, weak screening can create security risks if hostile actors exploit refugee routes; three, governments need to prioritize citizens and legally admitted residents when resources are finite.",
+            "Second, restrictive policy can be defended as a response to domestic political legitimacy. One, voters often punish governments that appear unable to control migration; two, if asylum policy becomes too permissive it can fuel populist backlash and destabilize democratic coalitions; three, elected governments may need to signal enforcement to keep broader support for immigration overall.",
+            "Third, host states like Pakistan may argue they are not responsible for indefinitely absorbing another country’s collapse. One, they already host millions of Afghans; two, prolonged refugee presence creates local labor, housing, and policing pressures; three, without burden-sharing from richer states, unilateral openness can be politically and fiscally unsustainable."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate human survival and state claims to control borders. Prop wins if the round prioritizes irreversible harm and the fact that legal closure predictably creates corruption and death-risk; opp wins if the bench is persuaded that states cannot be expected to absorb open-ended refugee obligations without domestic collapse or security blowback.",
+      "stock_connections": [
+        "Refugee Protection",
+        "State Capacity",
+        "Moral Hazard",
+        "Betrayal of Allies",
+        "Burden Sharing",
+        "Border Control",
+        "Human Security",
+        "Soft Power",
+        "Credibility"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would maintain open resettlement pathways for Afghan allies",
+        "THBT host states should be required to provide safe passage for refugees awaiting third-country asylum",
+        "THP a world in which wealthy states are legally bound to resettle local allies from failed interventions",
+        "THBT Pakistan should be sanctioned for mass deportations of Afghan refugees"
+      ],
+      "data_points": [
+        "Pakistan is deporting as many as 5,000 Afghans a day",
+        "Safia and Elham paid $1,400 to a fixer for a tourist-visa waitlist",
+        "The official cost of a Pakistani tourist visa was $8",
+        "The family was charged $2,650 in fines and fees for overstaying visas Pakistan refused to renew",
+        "They transferred $600 to a Pakistani Interior Ministry employee to expedite exit permits",
+        "Spain approved the family for 'international protection' on March 25",
+        "The family’s flight from Islamabad to Madrid was on April 10",
+        "The family had two small children, including Yusuf, age 2, and Victoria, age 4"
+      ]
+    },
+    {
+      "id": "5b6924ab5513",
+      "title": "Streeting Challenge Exposes Labour’s Fragile Succession and Risks Government Paralysis",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/13/wes-streeting-plans-to-resign-and-mount-leadership-challenge-allies-say",
+      "published": "2026-05-13T10:56:47Z",
+      "category": "IR",
+      "region": "United Kingdom",
+      "background": "On 13 May 2026, the Guardian reported that allies of Health Secretary Wes Streeting said he was preparing to resign and mount a leadership challenge against Prime Minister Keir Starmer as early as Thursday. Under Labour rules, a challenger needs the support of 81 MPs to formally trigger a contest; Downing Street said Streeting did not yet have the numbers, while Streeting allies claimed he believed he could secure them. The report followed Starmer’s “put up or shut up” ultimatum to cabinet ministers and renewed calls from Streeting ally Zubir Ahmed, who had resigned as a minister the previous day, for Starmer to step down.",
+      "prop_args": [
+        {
+          "thesis": "A successful Streeting challenge could restore Labour’s governing authority by replacing a weakened leader before internal collapse spreads into policy paralysis.",
+          "mechanisms": [
+            "First, a leadership change can reset party discipline and stop the bleeding of elite defections. This is because (1) MPs who are currently hedging get a clear centre of gravity, (2) cabinet resignations stop being read as a signal of terminal decline, and (3) the party can reassemble around a single authority rather than multiple rival factions.",
+            "Second, Streeting can improve Labour’s electoral and parliamentary credibility by offering a more viable public face. Three reasons: one, he is already a senior cabinet figure with national profile, two, a new leader can claim a fresh mandate rather than inheriting Starmer’s damaged authority, and three, opponents inside and outside the party have less time to frame the government as exhausted and directionless.",
+            "Third, the contest itself can be used to force a strategic correction in policy and messaging. This matters because a leadership challenge exposes what MPs actually want from the government, allowing the winner to pivot on unpopular decisions, rebuild trust with backbenchers, and reduce the risk that a demoralised administration drifts into permanent crisis management."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A Streeting challenge would deepen Labour’s instability, making the government look self-absorbed and weakening its ability to govern.",
+          "mechanisms": [
+            "First, a leadership contest consumes time, attention, and political capital at the exact moment the government needs to project competence. 1) Ministers stop focusing on policy delivery and start counting votes, 2) media coverage becomes dominated by factionalism rather than governing, and 3) every decision is interpreted through the lens of who is backing whom.",
+            "Second, the challenge can permanently fracture Labour’s coalition even if Streeting loses. 1) Starmer loyalists will distrust challengers and their allies, 2) Streeting supporters may feel alienated and obstructive after defeat, and 3) the party may emerge with no clear consensus on direction, making future rebellions more likely.",
+            "Third, replacing Starmer does not guarantee improved governance because the underlying problems may be structural rather than personal. 1) Labour may still face weak public support, 2) a new leader may inherit the same policy constraints and parliamentary arithmetic, and 3) a rushed coup can elevate short-term factional advantage over long-term competence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether a leadership challenge restores authority faster than it destroys it. Pro-change arguments win if Starmer is already so weakened that only a reset can prevent ongoing collapse; anti-change arguments win if the contest itself becomes the main source of paralysis and factional damage.",
+      "stock_connections": [
+        "Party fragmentation",
+        "Elite defection",
+        "Leadership legitimacy",
+        "Government paralysis",
+        "Factionalism",
+        "Crisis management",
+        "Mandate renewal",
+        "Coalition maintenance"
+      ],
+      "motion_areas": [
+        "TH, as a governing party, would replace a failing leader even mid-term",
+        "THBT political parties should allow easier leadership challenges during government crises",
+        "THP a world where cabinet ministers can trigger leadership contests with lower thresholds"
+      ],
+      "data_points": [
+        "A challenger needs 81 MPs to formally launch a Labour leadership bid.",
+        "Streeting allies said he could resign and launch a challenge as early as Thursday.",
+        "Starmer issued a 'put up or shut up' ultimatum to his cabinet.",
+        "Zubir Ahmed, a Streeting ally, resigned as a minister on Tuesday and said Starmer’s authority had 'irretrievably ebbed away'."
+      ]
+    },
+    {
+      "id": "a96736f8b01d",
+      "title": "Starmer’s public-service overhaul trades institutional reform for growth, control, and tighter migration enforcement",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/13/starmer-sets-out-changes-to-education-health-and-courts-in-kings-speech",
+      "published": "2026-05-13T10:51:57Z",
+      "category": "Econ",
+      "region": "United Kingdom (England and Wales)",
+      "background": "On 13 May 2026, Keir Starmer used the King’s Speech to set out a major legislative programme for the next parliamentary session. The package includes bills to abolish NHS England, overhaul special educational needs and disabilities (SEND) provision, limit jury trials, introduce digital ID for immigration checks, end the leasehold system in England and Wales, and make it harder for migrants to gain settled status. Ministers also plan a bill to encourage regulators to consider growth and to lay the groundwork for closer alignment with European regulations.",
+      "prop_args": [
+        {
+          "thesis": "Starmer’s package is a necessary state-capacity reset that can improve service delivery, reduce legal and administrative bottlenecks, and create a more investable, higher-growth UK economy.",
+          "mechanisms": [
+            "First, abolishing NHS England and tightening ministerial control can reduce duplication and blame-shifting. This is because (1) the current split between the Department of Health and NHS England creates overlapping command structures, (2) clearer accountability lets ministers force faster prioritisation of waiting lists and workforce decisions, and (3) centralised control makes it easier to reallocate resources toward the highest-pressure services rather than preserving bureaucracy for its own sake.",
+            "Second, reforming SEND provision and limiting automatic entitlement growth can stop a fiscally unsustainable spending spiral. Three reasons: one, EHCP expansion has pushed local-authority budgets into crisis, two, schools are better placed than tribunals and paperwork to identify many needs early and cheaply, and three, shifting responsibility to mainstream schools can encourage earlier intervention instead of costly late-stage escalation.",
+            "Third, the growth-and-regulation agenda can unlock investment by reducing legal uncertainty and planning friction. This matters because (1) regulators being told to weigh growth changes the default from pure risk aversion to balancing costs and benefits, (2) closer alignment with EU rules lowers compliance costs for exporters and reduces post-Brexit fragmentation, and (3) a more predictable regulatory environment improves business confidence, which is especially important when the UK is trying to raise productivity and living standards."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The package centralises power while weakening rights and public-service guarantees, so it risks making services harsher, less accountable, and politically more polarised without solving underlying capacity problems.",
+          "mechanisms": [
+            "First, cutting access to EHCPs and shifting decisions to schools can ration support rather than fix it. One, schools already face staff and funding shortages, so they may under-identify needs to protect budgets; two, families lose legally enforceable entitlements and are pushed into informal appeals; three, children with complex needs may be mainstreamed without adequate support, worsening attainment and mental-health outcomes.",
+            "Second, restricting jury trials and tightening settlement rules can erode legitimacy and deepen distrust in the state. One, jury limits weaken a core safeguard against overreach in serious criminal cases; two, immigration restrictions framed around control can alienate Labour MPs and minority communities, making implementation politically unstable; three, if people perceive reforms as punitive rather than fair, compliance and social cohesion fall.",
+            "Third, the reforms may not deliver the promised efficiency gains because structural shortages, not institutional design alone, are the binding constraint. This is because (1) NHS waiting lists are driven by staffing, capital, and demand pressures that abolishing NHS England does not solve, (2) courts backlogs require judges, courtrooms, and legal aid rather than just procedural tweaks, and (3) housing and leasehold reform are slow-burn changes that will not quickly offset the political cost of attacking entrenched rights."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether institutional centralisation actually translates into better outcomes, or whether it just concentrates blame while stripping away safeguards. Prop wins if the judge prioritises state capacity and fiscal sustainability; Opp wins if they show the reforms mainly ration scarcity and trade away rights for uncertain efficiency gains.",
+      "stock_connections": [
+        "State Capacity",
+        "Bureaucratic Inefficiency",
+        "Centralisation vs Localism",
+        "Rights vs Efficiency",
+        "Moral Hazard",
+        "Regulatory Capture",
+        "Access to Justice",
+        "Welfare Rationing",
+        "Institutional Reform",
+        "Political Backlash"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would abolish NHS England",
+        "THBT governments should reduce legal entitlements in special educational needs provision to improve public-service sustainability",
+        "THP a world where regulators must prioritise economic growth over precautionary rulemaking",
+        "THBT the UK should introduce digital ID for work eligibility checks",
+        "THBT the state should restrict jury trials in serious criminal cases"
+      ],
+      "data_points": [
+        "King’s Speech on 13 May 2026 included bills to abolish NHS England, overhaul SEND provision, limit jury trials, introduce digital ID, and end leasehold in England and Wales",
+        "Ministers plan to make it harder for migrants to gain settled status in the UK",
+        "Digital ID will be used to check immigration status when people start a new job, but it will not be mandatory",
+        "The government says the reforms are intended to address long NHS waiting lists, courts backlogs, and rising SEND costs",
+        "Starmer said Britain has been buffeted by the 2008 financial crash, Tory austerity, Brexit, Covid, and the Ukraine war",
+        "The speech also includes a bill to lay the ground to adopt European regulations and another to require regulators to consider growth when enforcing rules"
+      ]
+    },
+    {
+      "id": "a5bbcfc1f95d",
+      "title": "Trump-China Summit Turns Iran War Into a Bargaining Chip in Great-Power Trade Diplomacy",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5819712/trump-expected-to-talk-iran-and-trade-during-summit-in-china",
+      "published": "2026-05-13T10:51:25Z",
+      "category": "IR",
+      "region": "United States / China / Iran",
+      "background": "President Trump arrived in China on Wednesday for a summit with Chinese President Xi Jinping. According to NPR, the war in Iran, trade policies, and Taiwan were expected to be the major topics of discussion. The article frames the summit as a high-stakes meeting where Washington and Beijing may link regional security issues to broader economic and strategic bargaining.",
+      "prop_args": [
+        {
+          "thesis": "A Trump-Xi summit that links Iran to trade gives the US leverage to force China into constraining Tehran and stabilizing a wider regional war.",
+          "mechanisms": [
+            "First, the US can trade economic concessions for Chinese cooperation on Iran. This is because (1) China is highly exposed to US market access and tariff policy, (2) Beijing has incentives to avoid a Middle East escalation that disrupts energy flows, and (3) a direct leader-level summit creates a rare moment for side payments and quid pro quo diplomacy.",
+            "Second, bringing Iran into the same bargaining space as trade increases pressure on China to act as a responsible stakeholder. Three reasons: one, China cannot easily separate its commercial interests from its strategic interests when the US is simultaneously negotiating tariffs and Taiwan; two, Beijing gains reputational costs if it is seen as shielding a war sponsor while seeking economic normalization; three, coordinated pressure can raise the cost of continued Iranian escalation through diplomacy, sanctions enforcement, or reduced material support.",
+            "Third, even partial Chinese restraint on Iran can meaningfully reduce war intensity. This matters because China is one of the few actors with enough economic and diplomatic ties to influence Iranian calculations, so any shift in Beijing's posture can constrain financing, oil purchases, and political backing that sustain the conflict."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Mixing Iran, trade, and Taiwan in one summit weakens US strategy by turning a security crisis into a transactional bargaining game that China can exploit.",
+          "mechanisms": [
+            "First, issue-linkage gives China leverage to demand concessions without changing its Iran policy. one, Beijing can offer symbolic cooperation while extracting trade relief; two, the US risks paying twice by conceding on tariffs and still getting little on Iran; three, China can frame any limited help as a diplomatic favor rather than a binding commitment.",
+            "Second, the summit incentivizes China to harden its position on Iran and Taiwan as counter-pressure. one, if Washington uses Iran to pressure Beijing, China has reason to respond by signaling support for Tehran or by becoming less cooperative on regional security; two, tying Taiwan into the same conversation makes the talks more zero-sum and reduces trust; three, the result is strategic entanglement that makes de-escalation harder, not easier.",
+            "Third, leader-level bargaining can normalize great-power spheres of influence over smaller states. one, Iran becomes a pawn in US-China competition rather than an independent actor whose war should be resolved on its own terms; two, this encourages transactional diplomacy over principled nonproliferation or humanitarian restraint; three, it can entrench a world where major powers trade away regional stability for bilateral gains."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether issue-linkage creates leverage or creates vulnerability. Pro wins if the summit produces even modest Chinese restraint on Iran, but Opp has the structural advantage that China can pocket trade concessions while offering only symbolic cooperation, making the bargaining asymmetrical.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Issue Linkage",
+        "Transactional Diplomacy",
+        "Spheres of Influence",
+        "Security Dilemma",
+        "Coercive Diplomacy",
+        "Alliance Politics",
+        "Regional Instability"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would link trade concessions to cooperation on Iran in summit diplomacy",
+        "THBT great powers should use economic negotiations to secure security outcomes from rivals",
+        "THP a world where US-China summits bundle trade, Taiwan, and Middle East security into one bargaining package"
+      ],
+      "data_points": [
+        "Trump arrived in China on Wednesday for a summit with Xi Jinping",
+        "The article identifies Iran, trade policies, and Taiwan as the summit's major discussion points",
+        "The article explicitly frames the meeting as occurring in the context of the war in Iran"
+      ]
+    },
+    {
+      "id": "4d815e1f8bf0",
+      "title": "China–U.S. Economic Competition Hardens Into a Structural Rivalry Over Trade, Technology, and Industrial Power",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5818679/chinese-economist-talks-about-the-competing-interest-of-china-and-the-u-s",
+      "published": "2026-05-13T10:51:21Z",
+      "category": "IR",
+      "region": "China / United States",
+      "background": "This NPR piece is a short interview with Chinese economist Dan Wang on the competing economic interests of China and the United States. The article frames the relationship as one of direct economic rivalry rather than simple interdependence, with both states pursuing advantage in trade, technology, industrial policy, and supply chains. The text provided does not include detailed policy announcements or new quantitative data, but it clearly centers the strategic conflict between the two economies.",
+      "prop_args": [
+        {
+          "thesis": "The U.S. and China are locked in a zero-sum economic rivalry, so decoupling and industrial policy are rational responses to prevent strategic dependence.",
+          "mechanisms": [
+            "First, supply-chain dependence becomes a national security vulnerability. This is because (1) critical inputs like semiconductors, batteries, and rare earth processing can be restricted in a crisis, (2) firms optimize for cost rather than resilience, so market integration concentrates risk in a few chokepoints, and (3) once one side can weaponize access, the other side has to pay the cost of redundancy to avoid coercion.",
+            "Second, competition over technology creates a race for strategic dominance. Three reasons: one, whoever controls frontier technologies sets standards and captures downstream industries; two, state support for AI, chips, and advanced manufacturing compounds over time through learning curves and scale; three, allowing unrestricted transfer risks accelerating a rival’s military and industrial capacity.",
+            "Third, economic separation can preserve bargaining power and domestic legitimacy. This matters because a government that can show it is protecting jobs, firms, and critical infrastructure is less vulnerable to domestic backlash, and because a clearer rivalry framework reduces the illusion that commercial engagement alone will moderate geopolitical conflict."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Despite rivalry, deep economic interdependence still lowers the risk of conflict and makes cooperation more valuable than decoupling.",
+          "mechanisms": [
+            "First, trade and investment create mutual costs that discipline escalation. One, both economies rely on each other for markets, capital, and intermediate goods; two, disruption raises prices and hurts consumers and exporters on both sides; three, those domestic losses create lobbying pressure against sanctions spirals and military escalation.",
+            "Second, decoupling is inefficient and can backfire strategically. One, forcing firms to duplicate supply chains raises costs and slows innovation; two, protectionism can entrench domestic monopolies and reduce competitiveness; three, if allies and firms see U.S.-China policy as arbitrary, they hedge rather than align, weakening the very coalition needed to balance China.",
+            "Third, engagement preserves channels for crisis management and global public goods. One, climate, financial stability, and pandemic response require coordination between the two largest economies; two, economic ties create communication networks that reduce miscalculation; three, even rivals need rules and institutions to prevent tit-for-tat retaliation from spilling into broader instability."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether economic interdependence is a stabilizer or a vulnerability. Prop wins if you believe strategic sectors are so coercible that resilience and decoupling matter more than efficiency; Opp wins if you think the costs of fragmentation and the value of crisis communication outweigh the benefits of insulation.",
+      "stock_connections": [
+        "Decoupling",
+        "Economic Interdependence",
+        "Trade War",
+        "Technological Containment",
+        "Supply Chain Resilience",
+        "Security Dilemma",
+        "Rising Power Revisionism",
+        "Weaponized Interdependence"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue economic decoupling from China",
+        "THBT major powers should prioritize supply-chain resilience over free trade",
+        "THP a world where the U.S. and China maintain deep economic interdependence despite strategic rivalry"
+      ],
+      "data_points": [
+        "The article is an NPR interview with Chinese economist Dan Wang published on 2026-05-13T10:51:21Z",
+        "The piece explicitly centers the competing economic interests of China and the United States",
+        "No additional quantitative statistics are included in the provided text"
+      ]
+    },
+    {
+      "id": "1dee5939a9e2",
+      "title": "AI Datacentre Boom Forces UK and US Into Grid Strain, Higher Bills, and Fossil-Fuel Backsliding",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
+      "published": "2026-05-13T10:48:13Z",
+      "category": "Econ",
+      "region": "United Kingdom / United States",
+      "background": "Datacentres now consume 5.9% of electricity in the UK and 6% in the US, according to research cited by the International Data Center Association (IDCA). The IDCA says global investment in datacentres is approaching $1tn annually, with electricity use rising 15% worldwide in the past two years; in the UK, the grid-connection queue grew by 460% in the first half of 2025. The UK government estimated in early 2025 that datacentres used 2.5% of electricity and predicted a fourfold increase by 2030, while the IEA says energy use rose 17% in 2025 against 3% growth in global electricity demand.",
+      "prop_args": [
+        {
+          "thesis": "Governments should actively constrain and regulate datacentre expansion because the AI boom is now a macroeconomic and infrastructure externality, not just a private-sector growth story.",
+          "mechanisms": [
+            "First, unrestricted datacentre growth crowds out scarce grid capacity. This is because (1) the UK already has energy shortages and a 460% rise in the grid-connection queue in H1 2025, (2) datacentres are already taking 5.9% of UK electricity and 6% in the US, and (3) every additional large facility locks in long lead times for households and productive industry that need the same transmission capacity.",
+            "Second, the boom raises consumer and fiscal costs through infrastructure bottlenecks. Three reasons: one, grid upgrades and new generation are capital-intensive and are ultimately socialized through bills or public spending; two, developers are already waiting years for national grid connections, which signals a supply crunch and higher marginal costs; three, the sector's $1tn annual investment scale means even small inefficiencies or overbuilds have economy-wide price effects.",
+            "Third, regulation is justified because the sector has major negative spillovers and weak self-correction. This matters because (1) 13% of US datacentre consumption is 'zombie' usage, wasting more than 3GW, (2) firms have incentives to understate emissions and overstate benefits, as shown by reporting on Google-linked projects in the UK, and (3) without transparency and environmental impact assessments, communities bear the water, pollution, and land-use costs while firms capture the upside."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Datacentres should be expanded, not constrained, because they are critical infrastructure that raises productivity and the real problem is energy supply, not digital demand.",
+          "mechanisms": [
+            "First, datacentres are a necessary input into modern economic activity. One, they power cloud services, AI, payments, logistics, and communications that raise productivity across the whole economy; two, the reported $1tn annual investment reflects genuine demand for high-value digital infrastructure; three, restricting supply would slow innovation and push compute capacity to less regulated jurisdictions.",
+            "Second, the right policy response is to build more energy, not cap datacentre growth. This is because (1) the bottleneck is grid and generation capacity, not the existence of datacentres themselves, (2) the sector can be paired with new renewable, nuclear, or flexible demand investments, and (3) better planning and connection reform can absorb demand without sacrificing growth.",
+            "Third, the environmental critique is overstated relative to the efficiency gains from digitalization. Three reasons: one, the global average datacentre share is still 2%, so the UK and US are high but not uniquely unsustainable; two, centralizing compute in datacentres can be more efficient than fragmented on-premise servers; three, AI and cloud tools can reduce waste in other sectors, offsetting part of the electricity footprint."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether datacentres are treated as productive infrastructure or as a classic congestion externality. Prop has the stronger structural case if the round is about public policy because the grid is finite in the short run and the costs are immediate and localized, while opp relies on future efficiency and growth gains that are harder to guarantee.",
+      "stock_connections": [
+        "Negative externalities",
+        "Public goods and infrastructure bottlenecks",
+        "Regulatory capture",
+        "Race to the bottom",
+        "Environmental justice",
+        "Moral hazard",
+        "Dutch Disease",
+        "Energy security",
+        "Industrial policy",
+        "Market failure"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would impose a moratorium on new datacentre approvals until grid capacity expands",
+        "THBT governments should require AI datacentres to bear the full cost of their energy and water externalities",
+        "THP a world in which datacentre expansion is subject to strict environmental impact assessments and transparency rules",
+        "THBT the state should prioritize household and industrial electricity access over datacentre growth"
+      ],
+      "data_points": [
+        "Datacentres use 5.9% of UK electricity and 6% of US electricity",
+        "Global datacentre electricity use has risen 15% in the past two years",
+        "Annual global investment in datacentres is approaching $1tn, nearly 1% of global GDP",
+        "UK government estimated datacentres used 2.5% of electricity in early 2025 and predicted a fourfold increase by 2030",
+        "UK grid-connection queue grew by 460% in the first half of 2025",
+        "13% of US datacentre consumption comes from unused 'zombie' services, totaling more than 3GW",
+        "Global datacentre electricity demand grew 17% in 2025 versus 3% growth in global electricity demand",
+        "Singapore datacentres consume 19% of national grid energy; Lithuania 11%"
+      ]
+    },
+    {
+      "id": "f547d2c29c1d",
+      "title": "Russia’s New ICBM Test Deepens the Post-Treaty Nuclear Arms Race With the West",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/13/g-s1-121801/russias-new-ballistic-missile",
+      "published": "2026-05-13T10:20:42Z",
+      "category": "IR",
+      "region": "Russia / Ukraine / West",
+      "background": "Russia test-fired a new intercontinental ballistic missile on Tuesday as part of its nuclear modernization program, and President Vladimir Putin said the Sarmat missile would enter combat service by the end of the year. The missile is intended to replace about 40 Soviet-built Voyevoda missiles; Putin claimed it has a range of more than 35,000 kilometers and can penetrate missile defenses. The launch comes after the last remaining Russia-U.S. nuclear arms pact expired in February, leaving no caps on the two largest atomic arsenals for the first time in more than 50 years.",
+      "prop_args": [
+        {
+          "thesis": "Russia’s missile test makes the world less safe by accelerating a destabilizing nuclear arms race and weakening the remaining incentives for restraint.",
+          "mechanisms": [
+            "First, it pushes the system into a classic security dilemma. This is because (1) Russia frames the missile as a response to U.S. missile defense, (2) the U.S. and allies read the launch as coercive escalation and respond with more modernization, and (3) each side’s defensive move is interpreted as offensive preparation, which creates a self-reinforcing cycle of buildup.",
+            "Second, it erodes the already thin arms-control architecture. Three reasons: one, the last Russia-U.S. nuclear pact expired in February, so there are now no formal caps on deployed arsenals; two, publicized tests like Sarmat normalize unconstrained competition and make future limits politically harder to sell domestically; three, the more systems are fielded, the more bargaining leverage each side loses, reducing the chance of a new treaty.",
+            "Third, it increases crisis instability and miscalculation risk. This matters because a missile advertised as able to evade defenses and carry multiple warheads shortens decision time in a crisis, encourages launch-on-warning postures, and makes leaders more likely to assume they must use weapons early before their arsenal is degraded."
+          ]
+        },
+        {
+          "thesis": "Russia’s modernization strengthens coercive nuclear signaling, which increases pressure on Ukraine and deters Western support.",
+          "mechanisms": [
+            "First, it gives Putin a credible intimidation tool in the Ukraine war. This is because (1) he has repeatedly brandished nuclear threats since 2022, (2) the test is timed alongside claims that the war is nearing an end, and (3) the message to Western capitals is that continued support risks escalation beyond the conventional battlefield.",
+            "Second, it widens the gap between Russian rhetoric and Western willingness to escalate. Three reasons: one, the new missile is presented as capable of penetrating any missile defense, which makes reassurance harder; two, European states facing Oreshnik’s 5,000-kilometer range have stronger incentives to self-deter; three, allies may become more cautious about supplying advanced systems to Ukraine if they fear triggering a broader confrontation.",
+            "Third, it helps Russia preserve strategic parity despite sanctions and battlefield costs. This matters because nuclear modernization allows Moscow to compensate for conventional weakness, keep elite confidence in the regime, and signal that Russia remains a great power even if the war in Ukraine is costly."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The test is mostly symbolic: it does not materially change the balance of power, and Russia is using nuclear theater to compensate for weakness.",
+          "mechanisms": [
+            "First, the missile may not be operationally decisive. One, the article says Sarmat had only one known successful test before this and reportedly suffered a massive explosion in an abortive 2024 test; two, a weapons system that is still being tested does not immediately alter battlefield realities; three, Russia already has a large nuclear arsenal, so adding one more platform is marginal rather than transformative.",
+            "Second, the launch is primarily propaganda and deterrence messaging. One, Putin has repeatedly used nuclear rhetoric since 2022 to shape Western behavior; two, the timing alongside claims that the Ukraine war is ending suggests domestic political theater; three, exaggerated claims about being 'the most powerful missile in the world' are meant to project strength, not necessarily reflect usable military advantage.",
+            "Third, Western responses are likely to be limited and already priced in. This matters because (1) the U.S. has long been modernizing its arsenal in response to Russia, (2) allies already assume Russia will continue nuclear signaling, and (3) absent a direct treaty violation or deployment change, the test may produce headlines without changing actual policy."
+          ]
+        },
+        {
+          "thesis": "Nuclear modernization can stabilize deterrence by preserving parity and reducing incentives for a first strike.",
+          "mechanisms": [
+            "First, maintaining a survivable second-strike capability can make deterrence more credible. One, Russia says the Sarmat replaces aging Soviet-era Voyevoda missiles; two, modernizing outdated systems can reduce the risk that an adversary believes it can disarm Russia cheaply; three, credible retaliation can deter both nuclear coercion and conventional escalation.",
+            "Second, the launch can be read as a response to U.S. missile defense rather than an offensive step. One, Russia explicitly argues it is adapting to the U.S. missile shield after Washington withdrew from the 2001 pact; two, if both sides believe the other can intercept retaliation, they have stronger incentives to maintain stable parity; three, modernization can therefore preserve the logic of mutual vulnerability that underpins deterrence.",
+            "Third, clearer and more capable arsenals can reduce ambiguity in crisis. This matters because (1) if each side knows the other retains a robust retaliatory capability, (2) the temptation to gamble on a first strike falls, and (3) stable deterrence can prevent conventional wars from spilling into nuclear exchange."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether modernization is read as stabilizing deterrence or as accelerating an unconstrained arms race. Prop has the stronger structural claim because the treaty collapse, explicit missile-defense counterframing, and repeated signaling around Ukraine all create a live escalation spiral rather than a one-off technical upgrade.",
+      "stock_connections": [
+        "Security dilemma",
+        "Arms race escalation",
+        "Deterrence theory",
+        "First-strike instability",
+        "Moral hazard",
+        "Demonstration effect",
+        "Credibility and signaling",
+        "Collapse of arms control"
+      ],
+      "motion_areas": [
+        "TH, as NATO, would respond to Russia’s missile modernization with reciprocal nuclear expansion",
+        "THBT the West should prioritize new arms-control talks with Russia over further missile-defense expansion",
+        "THP a world without nuclear missile defense systems",
+        "THBT states should not publicly test or showcase new strategic nuclear weapons during active wars"
+      ],
+      "data_points": [
+        "The last remaining Russia-U.S. nuclear arms pact expired in February 2026, leaving no caps on the two largest atomic arsenals.",
+        "Sarmat is intended to replace about 40 Soviet-built Voyevoda missiles.",
+        "Putin claimed the Sarmat has a range of more than 35,000 kilometers (21,700 miles).",
+        "Russia says Oreshnik has a range of up to 5,000 kilometers (3,100 miles), enough to reach any target in Europe.",
+        "Putin said the combined power of Sarmat’s individually targeted warheads is more than four times higher than any Western counterpart.",
+        "The missile had only one known successful test before this launch and reportedly suffered a massive explosion during an abortive 2024 test.",
+        "Russia’s Avangard hypersonic glide vehicle is said to fly 27 times faster than the speed of sound."
+      ]
+    },
+    {
+      "id": "5c384ade9325",
+      "title": "Iran War Exposes How Geopolitical Shocks Can Rewire Consumer Supply Chains in Japan",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/13/nx-s1-5820671/japanese-snack-packages-black-and-white",
+      "published": "2026-05-13T10:13:46Z",
+      "category": "Econ",
+      "region": "Japan / Iran / Global supply chains",
+      "background": "Tokyo-based Calbee Inc. said it will switch 14 snack products to black-and-white packaging starting May 25 because the war in Iran has disrupted supplies of an ingredient used in colored ink. The company, founded in 1949 and employing more than 5,000 people, said the move is meant to maintain a stable supply of products while it adapts to changing geopolitical conditions. Japan relies almost entirely on imported oil and is already facing pressure on naphtha, an oil-derived input used in plastics and ink, as the Middle East war and closure of the Strait of Hormuz raise costs and shortages.",
+      "prop_args": [
+        {
+          "thesis": "Geopolitical conflict now imposes real economic costs on advanced consumer economies by disrupting even mundane inputs, forcing firms to trade off branding, margins, and supply stability.",
+          "mechanisms": [
+            "First, the war creates upstream input scarcity. This is because (1) the closure of the Strait of Hormuz and wider Middle East disruption tighten oil-linked supply chains, (2) Japan depends almost entirely on imported oil, and (3) naphtha-derived materials used in ink and plastics become harder and more expensive to source.",
+            "Second, firms respond by degrading non-essential product features to preserve core output. Three reasons: one, packaging color is cheaper to cut than production volume; two, simplifying packaging reduces dependence on constrained inputs; three, this lets Calbee keep shelves stocked rather than risk shortages or price spikes.",
+            "Third, this shows why supply-chain resilience is a macroeconomic issue, not just a corporate one. This matters because (1) repeated shocks force firms to redesign products and logistics, (2) consumers face hidden inflation through lower-quality goods and higher costs, and (3) economies become more vulnerable to external conflict even when they are not direct belligerents."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is a manageable supply-chain adjustment, not a systemic economic crisis, because firms and governments can absorb the shock through stockpiles, substitution, and product redesign.",
+          "mechanisms": [
+            "First, the immediate impact is limited because the affected input is packaging ink, not the snack itself. One, Calbee says the contents remain unchanged; two, only 14 products are switching packaging; three, the company can preserve sales while waiting for supply conditions to normalize.",
+            "Second, Japan has buffers that reduce the risk of broader economic damage. One, the government says it has oil reserves and has worked to calm markets; two, large firms can reroute procurement or substitute materials; three, the change may be temporary, so the shock does not necessarily translate into lasting inflation or output losses.",
+            "Third, firms can turn scarcity into adaptation rather than decline. One, monochrome packaging can lower complexity and costs; two, consumers may care more about product quality than packaging color; three, the episode may accelerate more resilient sourcing strategies without meaningfully harming aggregate welfare."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you treat this as a symbolic packaging change or evidence of deeper import dependence. Prop wins if it proves that even low-value consumer goods are now hostage to geopolitical shocks, because that implies broad economy-wide fragility; opp wins if it narrows the impact to a temporary, substitutable input problem with limited welfare loss.",
+      "stock_connections": [
+        "Supply chain fragility",
+        "Import dependence",
+        "Energy security",
+        "Inflation pass-through",
+        "Business continuity",
+        "Substitution effects",
+        "Resilience vs efficiency tradeoff"
+      ],
+      "motion_areas": [
+        "TH, as Japan, would prioritize supply-chain resilience over cost efficiency",
+        "THBT advanced economies should reduce dependence on globalized input chains",
+        "THP a world where firms are required to disclose geopolitical supply-chain risks to consumers"
+      ],
+      "data_points": [
+        "Calbee is switching 14 products to monochrome packaging starting May 25",
+        "Calbee was founded in 1949",
+        "Calbee employs more than 5,000 people",
+        "Japan relies almost entirely on imports for its oil",
+        "Calbee products are shipped to the United States, China, and Australia",
+        "The company announced an ambitious growth strategy in March",
+        "The packaging change affects snacks including 'usu shio' potato chips and 'kappa ebisen' shrimp chips"
+      ]
+    },
+    {
+      "id": "a097c5c58005",
+      "title": "Trump Pardon Bid for 1MDB Fugitive Tests Anti-Corruption Enforcement and US–Malaysia Cooperation",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/1mdb-financier-jho-low-seeks-pardon-from-donald-trump",
+      "published": "2026-05-13T10:07:57Z",
+      "category": "IR",
+      "region": "United States / Malaysia",
+      "background": "Jho Low, the Malaysian financier accused of being central to the 1MDB scandal, is reportedly seeking a pardon from US President Donald Trump. Low faces corruption and money-laundering charges in both the US and Malaysia over the alleged misappropriation of at least $4.5bn from 1Malaysia Development Berhad, one of the world’s biggest financial frauds. The US and Malaysia have both pursued asset recovery: in 2019, the US reached a deal to recover about $1bn in assets, while Malaysia has continued efforts to locate Low and recover more funds. Malaysia’s taskforce chair Johari Abdul Ghani said the pardon should be denied and that the US should help locate Low instead.",
+      "prop_args": [
+        {
+          "thesis": "Granting a pardon would fatally weaken anti-corruption enforcement by signaling that elite fugitives can buy their way out of accountability.",
+          "mechanisms": [
+            "First, it destroys deterrence for transnational white-collar crime. This is because (1) the 1MDB case is a flagship example of state-linked financial theft, (2) a pardon would show that even a globally notorious fugitive can escape consequences through political access, and (3) future kleptocrats will rationally treat legal risk as negotiable rather than binding.",
+            "Second, it undermines US credibility as an anti-corruption partner. Three reasons: one, Washington has already claimed a role in asset recovery and prosecution, two, pardoning Low would make US enforcement look selective and politicized, and three, partner states will be less willing to cooperate if they think US justice can be reversed for political convenience.",
+            "Third, it directly harms Malaysia’s recovery efforts and victim compensation. This matters because a pardon removes US criminal leverage, weakens pressure on Low to cooperate, and could complicate ongoing asset tracing across jurisdictions, reducing the chance that stolen funds are returned to the Malaysian public."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A pardon could be justified as a pragmatic tool to unlock asset recovery and secure cooperation from a fugitive who has already helped return some stolen money.",
+          "mechanisms": [
+            "First, it can be used as bargaining leverage. one, Low has previously agreed to surrender assets worth about $1bn in a 2019 US deal, two, the US can trade clemency for further disclosures about hidden assets and accomplices, and three, recovering more money may matter more to victims than symbolic punishment.",
+            "Second, it may improve cross-border resolution. one, Malaysia has reportedly temporarily lifted an Interpol red notice to facilitate the return of significant assets, two, that suggests the case is already being handled through negotiated settlement rather than pure punishment, and three, a pardon could help close a long-running, politically messy case faster.",
+            "Third, the practical value of prosecution may be limited if Low is already beyond easy reach. one, his whereabouts remain unknown, two, China has denied he is there despite prior reports, and three, if extradition is unlikely, a pardon may be a lower-cost way to extract information and conclude the US side of the case."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic deterrence and concrete asset recovery. Prop wins if the round is about rule-of-law credibility and future corruption incentives; opp wins if they can prove a pardon is the only realistic way to recover more stolen funds and that punishment is otherwise unattainable.",
+      "stock_connections": [
+        "Rule of Law",
+        "Impunity",
+        "Deterrence",
+        "Anti-Corruption Enforcement",
+        "Elite Capture",
+        "Transactional Diplomacy",
+        "Asset Recovery",
+        "Transnational Crime",
+        "Political Patronage"
+      ],
+      "motion_areas": [
+        "TH, as the US President, would pardon Jho Low",
+        "THBT states should offer clemency to corrupt fugitives in exchange for asset recovery",
+        "THP a world where anti-corruption cases can be settled through negotiated pardons"
+      ],
+      "data_points": [
+        "Low is accused of helping misappropriate at least $4.5bn from 1MDB",
+        "The US recovered about $1bn in assets from Low in a 2019 deal",
+        "Malaysia reportedly temporarily lifted an Interpol red notice to facilitate the return of significant assets",
+        "Low faces corruption and money-laundering charges in both the US and Malaysia",
+        "1MDB was a state fund involved in one of the world’s biggest financial frauds, with the scandal emerging in 2015"
+      ]
+    },
+    {
+      "id": "055d55284ee3",
+      "title": "AI’s Productivity Boom May Be Constrained by Bottlenecks, Not Just Adoption",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/videos/ps-events-economics-of-ai",
+      "published": "2026-05-13T08:58:59Z",
+      "category": "Econ",
+      "region": "Global",
+      "background": "This Project Syndicate page is a video hub titled \"Economics of AI\" and links to several related pieces published in April 2026, including Diane Coyle on \"The Hidden Chokepoints Threatening the Global Economy\" (Apr 27, 2026) and Carl Benedikt Frey on why AI productivity growth may not match the computer revolution (Apr 27, 2026). The page frames AI as an economic issue centered on productivity, bottlenecks, and the distribution of gains rather than just technological capability. It also sits alongside pieces on China’s minimum wages and financial instability, suggesting broader macroeconomic implications for labor markets and growth.",
+      "prop_args": [
+        {
+          "thesis": "AI will raise productivity, but the gains will be slower, more uneven, and more bottlenecked than hype suggests, so governments should treat AI as a constrained economic input rather than an automatic growth miracle.",
+          "mechanisms": [
+            "First, AI adoption is limited by complementary inputs, not just model quality. This is because (1) firms need data pipelines, compute, integration, and retraining to actually use AI, (2) many tasks are embedded in legacy workflows that are expensive to redesign, and (3) the biggest gains come only when organizations change processes, not when they merely buy software.",
+            "Second, AI’s productivity effects are likely to be concentrated in a narrow set of sectors and firms. Three reasons: one, frontier firms with capital and technical talent can exploit AI faster than small and medium enterprises; two, service sectors with messy, judgment-heavy tasks are harder to automate than standardized digital tasks; three, market leaders can use AI to widen their advantage, so aggregate gains coexist with weaker diffusion.",
+            "Third, the macro payoff is delayed because labor and capital reallocation takes time. This matters because productivity growth only shows up after workers are retrained, firms reorganize, and new business models emerge; in the interim, economies can experience disruption, wage polarization, and investment misallocation without immediate output gains."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AI is a general-purpose technology that will ultimately generate large productivity gains and lower costs across the economy, so pessimism about chokepoints understates how quickly diffusion can scale once the technology matures.",
+          "mechanisms": [
+            "First, AI can be embedded into existing software and workflows at low marginal cost. One, cloud-based deployment makes access cheap and scalable; two, many firms already digitized core operations, so AI is an incremental upgrade rather than a full systems overhaul; three, once best practices are standardized, diffusion can happen much faster than with older industrial technologies.",
+            "Second, AI improves both labor productivity and capital efficiency simultaneously. One, it automates routine cognitive work, freeing workers for higher-value tasks; two, it reduces search, coordination, and administrative costs across supply chains and services; three, it enables smaller firms to access capabilities previously reserved for large incumbents, which can broaden competition and spread gains.",
+            "Third, even partial productivity gains compound massively in a large economy. This is because a small percentage improvement across finance, logistics, healthcare, education, and professional services affects a huge share of GDP, and once firms learn to redesign processes around AI, the economy can move onto a higher long-run growth path."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI is constrained by adoption frictions or whether it behaves like a classic general-purpose technology that diffuses rapidly once costs fall. Prop wins if the round is about near- to medium-term macro outcomes and distributional disruption; Opp wins if they can prove fast diffusion and compounding economy-wide productivity gains.",
+      "stock_connections": [
+        "General Purpose Technology",
+        "Skill-Biased Technological Change",
+        "Automation and Labor Displacement",
+        "Productivity Paradox",
+        "Winner-Take-All Markets",
+        "Digital Divide",
+        "Creative Destruction",
+        "Inequality"
+      ],
+      "motion_areas": [
+        "TH, as a government, would heavily subsidize AI adoption in the private sector",
+        "THBT policymakers should regulate AI primarily as an economic rather than a safety issue",
+        "THP a world where AI productivity gains are slower but more evenly distributed",
+        "THBT developing economies should prioritize AI adoption over traditional industrial policy"
+      ],
+      "data_points": [
+        "The page is dated 2026-05-13T08:58:59Z and links to four AI/economics-related pieces published on Apr 22 and Apr 27, 2026",
+        "Carl Benedikt Frey’s linked piece is explicitly titled 'AI Productivity Growth Won’t Match the Computer Revolution'",
+        "Diane Coyle’s linked piece is titled 'The Hidden Chokepoints Threatening the Global Economy,' signaling bottleneck-based analysis",
+        "The page also links to 'China Needs Higher Minimum Wages' and 'Rules for the Rest of Us,' indicating labor-market and distributional spillovers"
+      ]
+    },
+    {
+      "id": "9166779c2793",
+      "title": "Gulf Fuel Shock Forces Southeast Asia to Choose Between Energy Security and Faster Renewable Transition",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/gulf-energy-crisis-exposes-southeast-asias-renewable-energy-dilemma/",
+      "published": "2026-05-13T08:35:00Z",
+      "category": "Econ",
+      "region": "Southeast Asia / Philippines / Strait of Hormuz-Gulf",
+      "background": "A surge in global fuel prices after disruptions around the Strait of Hormuz has pushed Southeast Asian governments to rely more heavily on coal and other fossil fuels to stabilize electricity supply. In the Philippines, President Ferdinand Marcos Jr. declared a \"national energy emergency\" in late March 2026, while Thailand restarted decommissioned coal plants, Vietnam secured additional coal supplies, and Indonesia increased coal production. The Philippines had already set renewable targets of 35% of power generation by 2030 and 50% by 2040, but policymakers are now reconsidering whether to suspend the 2020 coal moratorium.",
+      "prop_args": [
+        {
+          "thesis": "The Gulf crisis will accelerate Southeast Asia’s renewable transition by making imported fossil fuels look structurally unreliable and economically inferior.",
+          "mechanisms": [
+            "First, the shock changes investor expectations. This is because (1) fuel-import dependence now clearly exposes economies to geopolitical price spikes, (2) renewables become the more resilient hedge against commodity and currency volatility, and (3) capital shifts toward assets with lower exposure to external supply shocks.",
+            "Second, the crisis strengthens political support for clean energy reforms. Three reasons: one, governments can frame renewables as energy security rather than climate ideology; two, consumers facing higher bills create pressure for cheaper domestic generation; three, crises make previously slow reforms like grid upgrades and auctions more politically urgent.",
+            "Third, the long-term economics still favor renewables. This matters because (1) coal and gas infrastructure is increasingly hard to finance, (2) long-term fossil contracts lock in expensive and inflexible supply, and (3) once storage, transmission, and market reforms improve, renewables can undercut fossil fuels on both price and reliability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The crisis will slow the transition because governments will prioritize immediate reliability and industrial competitiveness over decarbonization.",
+          "mechanisms": [
+            "First, emergency politics favor the fastest available fuel, not the cleanest one. One, coal plants and imported petroleum can be ramped up immediately; two, renewables require permitting, transmission, and storage that take years; three, leaders facing shortages will choose visible stability over long-term climate goals.",
+            "Second, fossil infrastructure creates powerful lock-in. One, many coal plants operate under long-term contracts that require continued operation for cost recovery; two, shutting them early raises costs that are passed to consumers; three, this makes governments reluctant to accelerate phase-outs during a price shock.",
+            "Third, the crisis gives anti-transition actors a policy opening. One, officials can cite Japan and Germany revisiting timelines to justify delay; two, coal moratoriums and LNG projects can be revived under the banner of energy security; three, once new fossil investments are made, they crowd out renewable capital and delay the transition further."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the crisis changes the long-term investment and policy equilibrium or just produces a temporary fossil-fuel rebound. Prop wins if you believe energy insecurity makes renewables the only durable hedge; opp wins if you think emergency reliability and lock-in effects dominate, because short-term policy reversals can last long enough to materially slow the transition.",
+      "stock_connections": [
+        "Energy security vs climate transition",
+        "Path dependence",
+        "Infrastructure lock-in",
+        "Carbon lock-in",
+        "Commodity price shocks",
+        "Dutch Disease",
+        "Dependency on imports",
+        "Policy inertia",
+        "Race to the bottom"
+      ],
+      "motion_areas": [
+        "TH, as Southeast Asian governments, would use energy crises to accelerate renewable deployment",
+        "THBT developing nations should prioritize energy security over rapid fossil fuel phase-outs",
+        "THP a world where fuel-importing states are forced to internalize the geopolitical cost of fossil dependence",
+        "THBT the Philippines should suspend its coal moratorium in response to the Gulf energy crisis"
+      ],
+      "data_points": [
+        "Philippines declared a \"national energy emergency\" in late March 2026",
+        "Philippines renewable energy targets: 35% of power generation by 2030 and 50% by 2040",
+        "Philippines clean energy investment rose from $2.6 billion in 2015 to $3.4 billion in 2024",
+        "Alternergy has invested nearly 25 billion pesos ($404 million) in projects over the past two years",
+        "Alternergy aims for 1 gigawatt of renewable capacity by 2030",
+        "Vietnam’s solar capacity is around 18 gigawatts",
+        "Indonesia accounts for around 40% of Southeast Asia’s population",
+        "Indonesia’s electricity mix is roughly 65% coal",
+        "Thailand restarted decommissioned coal plants",
+        "Vingroup planned to halt construction of Vietnam’s largest LNG-fired power plant in favor of a renewable project"
+      ]
+    },
     {
       "id": "c9238bddf0f2",
       "title": "Starmer’s Survival Exposes the Cost of Internal Party Revolt in a Weak-Mandate Government",
