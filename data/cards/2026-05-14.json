@@ -1,7 +1,838 @@
 {
   "date": "2026-05-14",
-  "last_updated": "2026-05-14T04:05:59Z",
+  "last_updated": "2026-05-14T08:51:46Z",
   "cards": [
+    {
+      "id": "8b7b574423b2",
+      "title": "Russia’s Escalating Drone War Tests Ukraine’s Air Defences and Western Resolve",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T08:46:58Z",
+      "category": "IR",
+      "region": "Ukraine / Russia",
+      "background": "Russia launched a massive overnight missile-and-drone strike on Ukraine, killing 2 people and injuring 40, with Kyiv reporting a search-and-rescue operation in a nine-storey apartment block hit in the attack. Ukrainian officials said 18 apartments were destroyed and water supply in the capital was disrupted; strikes also hit Kremenchuk, Bila Tserkva, Kharkiv, Sumy, and Odesa. The attack followed a major wave on Wednesday, when Russia launched 892 drones in one of its largest strikes since the full-scale invasion began in 2022, and came just after a three-day US-brokered ceasefire expired on Monday.",
+      "prop_args": [
+        {
+          "thesis": "Russia’s escalating strike campaign proves that only materially stronger air defence and external pressure can protect Ukrainian civilians and raise the cost of continued war for Moscow.",
+          "mechanisms": [
+            "First, the attacks show that ceasefires without enforcement are strategically meaningless. This is because (1) Russia can pause briefly to reset and then resume larger barrages, (2) Ukraine’s civilian infrastructure remains exposed during the lull, and (3) Moscow learns that symbolic truces do not impose real battlefield or political costs.",
+            "Second, mass drone-and-missile saturation overwhelms Ukraine’s current defensive capacity. Three reasons: one, 892 drones in a single day indicates a volume attack designed to exhaust interceptors; two, dispersed strikes across Kyiv, Kharkiv, Sumy, Odesa, and other regions force Ukraine to spread air defence thin; three, repeated hits on apartments, schools, and utilities create cumulative humanitarian and governance damage that air defence is specifically meant to prevent.",
+            "Third, stronger Western support changes the war’s incentives by raising the marginal cost of escalation. This matters because (1) better air defence reduces Russia’s ability to terrorise civilians, (2) visible protection sustains Ukrainian morale and state legitimacy, and (3) if Moscow cannot translate escalation into civilian pressure, it loses one of its few remaining coercive tools."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strikes demonstrate that air defence and external pressure alone cannot end the war, and may instead prolong a costly stalemate without changing Russia’s core strategy.",
+          "mechanisms": [
+            "First, Russia can adapt faster than defenders can scale up. One, drone production and strike volume can be increased relatively cheaply compared with interceptor stockpiles; two, even improved air defence cannot fully protect a large country from saturation attacks; three, partial interception still leaves Ukraine absorbing civilian and infrastructure losses.",
+            "Second, more Western military aid may harden rather than soften Russian resolve. One, Moscow can frame escalation as proof that it is fighting NATO-by-proxy, strengthening domestic support; two, if Russia believes time favors it, it has incentives to absorb sanctions and continue; three, pressure campaigns that do not alter battlefield realities risk becoming performative diplomacy.",
+            "Third, the corruption scandal around Zelensky’s former chief of staff weakens the case that more aid automatically translates into better outcomes. One, donor states may fear leakage and misallocation; two, domestic legitimacy problems can reduce the effectiveness of external support; three, if governance is fragile, pouring in more weapons does not solve the underlying political and institutional vulnerabilities."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether external support can actually change Russia’s incentives or merely reduce the damage of an unwinnable attritional war. Prop wins if the round is about immediate civilian protection and deterrence of escalation; opp wins if the judge prioritises whether any amount of aid can force a strategic end-state rather than just manage suffering.",
+      "stock_connections": [
+        "Deterrence",
+        "Security Dilemma",
+        "Attrition Warfare",
+        "Civilian Protection",
+        "Alliance Credibility",
+        "War of Exhaustion",
+        "Sanctions Efficacy",
+        "State Capacity",
+        "Corruption and Aid Leakage"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize air defence over offensive escalation",
+        "THBT Western states should substantially increase military aid to Ukraine",
+        "THP a world where ceasefires in active wars require enforceable monitoring and automatic penalties",
+        "THBT the US and China should jointly pressure Russia to end the war"
+      ],
+      "data_points": [
+        "2 people killed and 40 wounded in the overnight strike on Kyiv",
+        "Russia launched 892 drones in a single day in one of its largest attacks since 2022",
+        "18 apartments destroyed in a nine-storey residential building in Kyiv",
+        "A three-day US-brokered ceasefire expired on Monday before Russia resumed attacks",
+        "Russia killed 9 people in Ukraine on Tuesday and 6 more on Wednesday",
+        "Andriy Yermak was ordered held for 60 days pretrial over an alleged £7.5m money-laundering scheme",
+        "Yermak could be released on bail of £2.35m ($3.2m)"
+      ]
+    },
+    {
+      "id": "2c06500b5d7d",
+      "title": "UK’s March GDP Surprise Masks a Coming Energy-Price Squeeze From the Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T08:43:26Z",
+      "category": "Econ",
+      "region": "United Kingdom / Iran",
+      "background": "The UK economy grew by 0.3% in March 2026, beating forecasts of a small contraction, and grew 0.6% in the first quarter overall, according to the Office for National Statistics (ONS). The ONS said some consumers and firms brought spending forward in anticipation of higher costs from the Iran war, with retailers also reporting motorists stocking up on fuel as prices rose sharply. Economists quoted in the article said the war’s impact is likely to intensify in the second quarter as energy, petrol, and food costs feed through into household budgets and business margins.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war creates a short-term macroeconomic shock that will ultimately weaken UK growth by squeezing real incomes, raising costs, and forcing a demand slowdown.",
+          "mechanisms": [
+            "First, the war transmits directly into household inflation through energy and fuel prices. This is because (1) the article says motorists were already stocking up on fuel as prices rose sharply, (2) higher petrol and energy bills immediately reduce disposable income, and (3) lower disposable income means less spending on non-essential goods and services.",
+            "Second, the war raises business input costs and compresses margins, which then reduces investment and hiring. Three reasons: one, firms face higher transport and energy costs; two, food prices rise through disruptions to fertilisers and other essential inputs; three, when margins shrink, businesses delay expansion and cut discretionary spending.",
+            "Third, the March growth number is likely a temporary front-loading effect rather than real resilience. This matters because (1) the ONS explicitly said activity was brought forward in anticipation of higher costs, (2) that means demand was borrowed from future months, and (3) once the stockpiling unwinds, growth mechanically falls back, making the second quarter weaker."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The UK economy is resilient enough to absorb the Iran war shock, and the March data shows firms and households can adapt rather than collapse.",
+          "mechanisms": [
+            "First, the economy still posted positive growth despite an external shock, which suggests underlying demand remains intact. One, GDP rose 0.3% in March and 0.6% in Q1; two, growth was led by retail and construction, showing broad-based activity; three, a positive surprise indicates the economy has buffers against immediate disruption.",
+            "Second, front-loading and stockpiling can cushion the short-run hit to output and business revenue. One, consumers and firms brought spending forward, which supports sales in the affected quarter; two, retailers benefited from fuel stocking and pre-emptive purchases; three, this can sustain cash flow and prevent a sharper immediate downturn.",
+            "Third, policy support and macro management can offset part of the shock. One, the Chancellor said the government will set out more support for families and businesses; two, fiscal support can protect consumption and prevent a deeper recession; three, if the shock is temporary, the economy can normalize once prices stabilize."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a one-off statistical boost from front-loading and a persistent terms-of-trade shock from higher energy and food prices. Prop wins if the question is medium-term growth because the war hits real incomes and investment with a lag; Opp wins only if they can prove the UK’s policy response and consumer resilience are strong enough to offset the squeeze.",
+      "stock_connections": [
+        "Inflation Shock",
+        "Cost-Push Inflation",
+        "Terms of Trade Shock",
+        "Demand Compression",
+        "Front-Loading",
+        "Recession Risk",
+        "Pass-Through Effects",
+        "Real Income Squeeze",
+        "Supply Chain Disruption"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would prioritize fiscal support over austerity in response to external energy shocks",
+        "THBT governments should not judge economic resilience by headline GDP growth during wartime shocks",
+        "THP a world where states are forced to absorb sudden energy-price shocks without price controls or subsidies"
+      ],
+      "data_points": [
+        "UK GDP grew 0.3% in March 2026, versus analyst expectations of a small contraction",
+        "UK GDP grew 0.6% in the first quarter of 2026",
+        "ONS said some businesses brought activity forward in anticipation of higher costs from conflict in Iran",
+        "Retailers reported motorists stocking up on fuel as prices rose sharply",
+        "ONS revised February growth down from 0.5% to 0.4% and January from 0.1% to 0%",
+        "Capital Economics said the war’s impact would be more pronounced in Q2 and that the economy could suffer a mild recession in an adverse scenario"
+      ]
+    },
+    {
+      "id": "ba08c98d1456",
+      "title": "Everest Drone Logistics Pull Nepal Into US-China Tech Rivalry",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/14/nepal-in-a-bind-as-us-china-drone-war-reaches-everest?traffic_source=rss",
+      "published": "2026-05-14T08:23:35Z",
+      "category": "IR",
+      "region": "Nepal / United States / China",
+      "background": "On May 1, a US delegation led by President Donald Trump’s special envoy for South and Central Asia, Sergio Gor, visited Everest base camp to test a US-made Alta X Gen 2 drone for carrying oxygen bottles, ladders, food, and mountain gear from base camp to Camp I. Nepal’s Ministry of Home Affairs refused the drone flight permit, citing “drone flying procedures” and “security sensitivity,” and the US drone never flew near Everest. China’s DJI FlyCart drones have already been used on Everest since 2024, and Nepal briefly suspended Chinese drone permits for a week before lifting the ban on May 9.",
+      "prop_args": [
+        {
+          "thesis": "Nepal should tightly regulate foreign drone access on Everest because allowing superpower tech competition to play out there creates security dependence and strategic vulnerability.",
+          "mechanisms": [
+            "First, foreign drone deployment turns a commercial logistics tool into an intelligence foothold. This is because (1) drones operating over high-altitude border terrain can map routes, terrain, and infrastructure, (2) the same systems used for supply delivery can be repurposed for surveillance or data collection, and (3) Nepal lacks the technical capacity to fully audit what hardware, software, and data links these firms are using.",
+            "Second, permissive access creates coercive leverage from both Washington and Beijing. Three reasons: one, Nepal becomes dependent on whichever supplier is cheapest and most effective; two, each side can pressure Kathmandu by threatening to withdraw equipment, permits, or investment; three, Nepal’s recent flip-flop on permits shows how quickly domestic policy can be shaped by external pressure.",
+            "Third, regulation protects Nepal’s sovereignty and prevents the Everest corridor from becoming a precedent for broader militarized competition. This matters because if major powers can normalize testing sensitive technology in Nepal, then the Himalayas become a low-cost proxy arena where Nepal bears the risk while others capture the strategic gains."
+          ]
+        },
+        {
+          "thesis": "Nepal benefits from prioritizing Chinese drone logistics over US testing because the immediate welfare gains are larger and more reliable than symbolic balancing.",
+          "mechanisms": [
+            "First, Chinese drones already solve a real labor and safety problem at scale. This is because (1) FlyCart 100 can carry up to 45kg to Camp I in under three minutes, (2) operators say it can move more than 900kg per day, and (3) it reduces Sherpa exposure to the dangerous icefall and long haul to Camp I.",
+            "Second, the US test offered uncertain upside while imposing immediate disruption. Three reasons: one, the US Alta X Gen 2 reportedly managed only 5kg in Kathmandu testing at altitude; two, the permit dispute disrupted regular drone operations for more than a week; three, the Everest season is time-sensitive, so delays directly affect rope fixing, supply runs, and climber safety.",
+            "Third, Nepal should choose the supplier that delivers practical public goods rather than geopolitical theater. This matters because the core issue for Nepal is not abstract alignment but whether climbers, Sherpas, and expedition firms get cheaper, safer, and faster logistics during a narrow climbing window."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Nepal should allow foreign drone testing, including US systems, because competition improves technology, lowers costs, and reduces overdependence on China.",
+          "mechanisms": [
+            "First, opening the market to US and other foreign drones creates supplier competition. One, competition pressures DJI and local partners to improve performance and pricing; two, it prevents a single foreign firm from monopolizing a critical logistics niche; three, Nepal can bargain for better terms, training, and localization.",
+            "Second, diversification reduces strategic and commercial risk. One, if Nepal relies mainly on Chinese drones, Beijing can use maintenance, parts, or software access as leverage; two, a US alternative gives Kathmandu bargaining power in future disputes; three, having multiple vendors makes the Everest logistics system more resilient to sanctions, export controls, or diplomatic shocks.",
+            "Third, controlled testing is not the same as surrendering sovereignty. One, Nepal can impose permit rules, altitude limits, and local operator requirements; two, testing under Nepalese supervision helps build domestic expertise; three, refusing all experimentation leaves Nepal permanently dependent on imported technology without developing its own standards."
+          ]
+        },
+        {
+          "thesis": "The real benefit of drones on Everest is humanitarian and economic, so Nepal should minimize politicization and keep the route open to whichever technology works best.",
+          "mechanisms": [
+            "First, drone logistics directly reduce death and injury. One, Sherpas no longer need to make repeated dangerous trips through the icefall; two, drones can ferry oxygen and gear in minutes instead of hours; three, faster supply chains reduce the chance that climbers and support staff are stranded in bad weather.",
+            "Second, Everest is a revenue-generating asset for Nepal, so efficiency matters. One, 492 climbing permits were issued this year, creating a narrow seasonal window for income; two, smoother logistics improve the attractiveness of Nepal as a climbing destination; three, better operations can increase expedition volume, local employment, and service-sector revenue.",
+            "Third, politicizing drone access hurts Nepal more than either superpower. One, permit disputes delayed work for more than a week; two, the government’s sudden cancellation of Chinese permits showed how quickly local operators can be caught in the crossfire; three, a neutral, technocratic approach would preserve Nepal’s autonomy better than ad hoc geopolitical signaling."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between strategic vulnerability and practical welfare. Prop wins if the round is about sovereignty, surveillance, and great-power coercion; opp wins if the round is about immediate safety, labor substitution, and keeping Everest logistics functional. The structural advantage is slightly with prop because Nepal sits between two rivals and has weak capacity to verify or control sensitive tech.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Sovereignty vs Development",
+        "Dependency Theory",
+        "Security Dilemma",
+        "Technological Decoupling",
+        "Small State Foreign Policy",
+        "Weaponization of Interdependence",
+        "Race to the Bottom",
+        "Infrastructure as Geopolitical Leverage"
+      ],
+      "motion_areas": [
+        "TH, as Nepal, would ban foreign drone testing in sensitive border regions",
+        "THBT small states should refuse technological aid from rival great powers when it creates strategic dependence",
+        "THP a world where critical logistics infrastructure in disputed regions is controlled by local firms only",
+        "TH, as Nepal, would prioritize Chinese drone logistics over US technological competition on Everest",
+        "THBT developing nations should allow foreign tech only under strict sovereignty-preserving conditions"
+      ],
+      "data_points": [
+        "Everest base camp is at 5,364 metres (17,600 feet); Camp I is at 6,130 metres (20,112 feet)",
+        "China’s DJI FlyCart 30 drones have been used on Everest since 2024",
+        "DJI FlyCart 100 can carry up to 45kg (99 pounds) to Camp I in less than three minutes, according to operators",
+        "AirLift Technology says a FlyCart 100 can move more than 900kg of load to Camp I per day",
+        "The US Alta X Gen 2 reportedly carried only 5kg in Kathmandu high-altitude testing",
+        "Nepal issued a record 492 climbing permits this year; 109 went to Chinese nationals and 76 to US nationals",
+        "Five Sherpas had already died this year before the official Everest season began",
+        "The US drone permit was refused on May 1; Nepal lifted the ban on May 9"
+      ]
+    },
+    {
+      "id": "13136e0aa26f",
+      "title": "UK’s Q1 Growth Bounce Masks a Fragile Economy Facing Political and Policy Headwinds",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/uk-economy-grew-0-6-in-first-quarter-video",
+      "published": "2026-05-14T07:56:10Z",
+      "category": "Econ",
+      "region": "UK",
+      "background": "UK GDP grew 0.6% in the first quarter of 2026, up from 0.2% in the previous three months and the fastest quarterly expansion in a year. The report came alongside commentary from Panmure Liberum economist Simon French, who linked the economic picture to the political crisis surrounding Prime Minister Keir Starmer. The article frames the growth as a positive surprise, but one occurring as broader headwinds are building.",
+      "prop_args": [
+        {
+          "thesis": "A stronger-than-expected GDP print gives the UK government breathing room and can stabilize expectations before political fragility turns into economic self-harm.",
+          "mechanisms": [
+            "First, the 0.6% quarterly expansion improves confidence among firms and households. This is because (1) it signals the economy still has underlying momentum despite negative sentiment, (2) it reduces the immediate fear of recession, and (3) it can support investment and consumption decisions by making actors less likely to delay spending.",
+            "Second, better growth gives policymakers fiscal and political space to avoid panic responses. Three reasons: one, stronger tax receipts can soften pressure on the budget, two, it makes markets less likely to price in imminent crisis, and three, it allows the government to frame itself as managing the economy rather than merely reacting to stagnation.",
+            "Third, even modest growth matters disproportionately in a low-growth economy. This matters because when baseline growth is weak, a move from 0.2% to 0.6% can shift the narrative from decline to resilience, which is often enough to preserve business confidence and prevent a self-fulfilling slowdown."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The growth figure is a temporary bounce that does not solve the structural weakness of the UK economy, so the political and economic risks remain intact.",
+          "mechanisms": [
+            "First, quarterly GDP can be volatile and driven by short-term factors rather than durable fundamentals. One, a single strong quarter does not prove productivity has improved, two, it may reflect inventory or timing effects rather than real demand strength, and three, markets and households care more about sustained trends than one-off prints.",
+            "Second, political crisis can still overwhelm the headline growth number. One, instability around the prime minister can weaken investor confidence, two, it can delay long-term business decisions because firms dislike policy uncertainty, and three, it can force the government into reactive politics instead of coherent economic management."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether one quarter of 0.6% growth is enough to change expectations or whether structural fragility dominates. Prop wins if they frame the print as a confidence shock that prevents a downturn; opp wins if they show that markets and firms respond to sustained policy credibility, not a single data point.",
+      "stock_connections": [
+        "Confidence effects",
+        "Business cycle volatility",
+        "Political uncertainty",
+        "Self-fulfilling recession",
+        "Fiscal space",
+        "Market expectations",
+        "Structural stagnation"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would prioritize short-term growth over fiscal consolidation",
+        "THBT political stability matters more than headline GDP growth for economic performance",
+        "THP a world where governments are judged primarily on quarterly growth figures"
+      ],
+      "data_points": [
+        "UK GDP grew 0.6% in Q1 2026",
+        "Previous quarter growth was 0.2%",
+        "The Q1 figure was the fastest UK quarterly expansion in a year",
+        "The article links the economic outlook to the political crisis surrounding Prime Minister Keir Starmer"
+      ]
+    },
+    {
+      "id": "141324ed679f",
+      "title": "UAE-Israel Security Coordination Exposes the Limits of Public Normalization Under Iran Pressure",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/14/nx-s1-5822156/uae-netanyahu-visit",
+      "published": "2026-05-14T07:16:55Z",
+      "category": "IR",
+      "region": "Middle East (UAE, Israel, Iran)",
+      "background": "Israeli Prime Minister Benjamin Netanyahu's office said he quietly visited the United Arab Emirates during the Israeli-U.S. war with Iran, claiming he met UAE President Sheikh Mohammed bin Zayed Al Nahyan and achieved a 'historic breakthrough.' The UAE's WAM news agency denied any secret visit, saying relations with Israel are public and conducted under the Abraham Accords, not through 'non-transparent or unofficial arrangements.' The report came one day after U.S. Ambassador Mike Huckabee said Israel had sent Iron Dome air-defense weapons and personnel to operate them in the UAE, while the UAE has also faced Iranian missile and drone fire even after last month's ceasefire.",
+      "prop_args": [
+        {
+          "thesis": "The UAE-Israel relationship is becoming a hard-security alliance, and that makes the Abraham Accords more resilient rather than less.",
+          "mechanisms": [
+            "First, shared threat perception from Iran forces operational cooperation. This is because (1) the UAE is being hit by Iranian missiles and drones, (2) Israel is already deploying Iron Dome systems and personnel to the UAE, and (3) wartime coordination creates habits of intelligence-sharing and military interoperability that survive beyond one crisis.",
+            "Second, normalization becomes more valuable when it is tied to concrete protection rather than symbolism. Three reasons: one, Gulf states get a credible air-defense partner against Iran; two, Israel gains strategic depth and regional basing/overflight advantages; three, both sides have incentives to keep ties public enough to deter Iran but quiet enough to manage domestic backlash.",
+            "Third, the denial itself does not mean the relationship is weak; it shows calibrated diplomacy. This matters because the UAE can preserve formal Arab legitimacy while still extracting security benefits, which makes the accords politically sustainable and harder for Iran to isolate."
+          ]
+        },
+        {
+          "thesis": "Public denials and discreet meetings are rational statecraft in a region where overt alignment would be politically costly.",
+          "mechanisms": [
+            "First, secrecy reduces domestic and regional backlash. One, the UAE can cooperate with Israel without forcing a public confrontation with pro-Palestinian opinion; two, it avoids giving Iran propaganda about an open anti-Iran bloc; three, it preserves room for other Gulf states to engage Israel later without appearing to have fully abandoned Arab consensus.",
+            "Second, ambiguity allows the UAE to hedge across multiple threats. One, it can work with Israel on missile defense while still maintaining channels with Iran; two, it can reassure investors that the country is secure and open for business; three, it can keep U.S. support flowing without appearing to be a formal belligerent in the war.",
+            "Third, crisis-driven diplomacy can produce real gains even if it is not publicly celebrated. This matters because the most important outcome is not the optics of the visit but whether it reduces vulnerability to Iranian attacks and stabilizes Gulf security."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The episode shows the Abraham Accords are politically fragile because they depend on secrecy, not genuine public normalization.",
+          "mechanisms": [
+            "First, the UAE's denial reveals that open cooperation with Israel still carries reputational costs. One, if the relationship were truly normalized, there would be no need to deny a visit; two, the UAE still fears domestic and regional backlash; three, that means the alliance is shallow and vulnerable to shocks from Gaza, Iran, or leadership changes.",
+            "Second, wartime alignment with Israel can make the UAE more exposed, not safer. One, visible cooperation with Israel may make the UAE a more legitimate Iranian target; two, it can entangle the UAE in Israel's wars and intelligence conflicts; three, it undermines the UAE's claim to be a neutral commercial hub, which is central to its economic model.",
+            "Third, the need for Iron Dome support underscores dependency on external security providers. This matters because (1) the UAE is not building autonomous deterrence, (2) it is locking itself into asymmetric reliance on Israel and the U.S., and (3) that dependence can be leveraged later in disputes over policy, trade, or regional diplomacy."
+          ]
+        },
+        {
+          "thesis": "Iran's ability to pressure Gulf states through missiles, drones, and covert accusations means normalization is a symptom of regional insecurity, not a solution to it.",
+          "mechanisms": [
+            "First, the war demonstrates that Gulf states are being pulled into a regional security dilemma. One, Iranian attacks force them to seek Israeli protection; two, Israeli presence then validates Iranian claims of encirclement; three, the cycle escalates rather than resolves the underlying conflict.",
+            "Second, public diplomacy is being distorted by fear. One, the UAE is trying to signal to investors that it is safe while simultaneously denying sensitive security cooperation; two, that contradiction shows the state is managing panic rather than projecting confidence; three, markets and regional actors can interpret this as instability.",
+            "Third, the broader pattern of Iranian arrests, accusations, and proxy pressure means this relationship will remain transactional and brittle. This matters because a transactional security pact is easier to suspend under political pressure than a genuine strategic partnership."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether secrecy is evidence of weakness or strategic flexibility. Prop wins if the round is about deterrence and state survival, because the UAE's willingness to coordinate with Israel under fire creates real security capacity; Opp wins if the round is about legitimacy and durability, because a relationship that must be denied publicly is still politically constrained and therefore fragile.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Alliance Politics",
+        "Balancing",
+        "Bandwagoning",
+        "Hedging",
+        "Deterrence",
+        "Normalization",
+        "Transactional Diplomacy",
+        "Regional Arms Race",
+        "Public vs Private Statecraft"
+      ],
+      "motion_areas": [
+        "TH, as the UAE, would publicly deepen security cooperation with Israel against Iran",
+        "THBT the Abraham Accords have made the Middle East more stable",
+        "THP a world where Gulf states can secretly coordinate military defense with Israel",
+        "THBT small states should prioritize covert security alignments over public neutrality"
+      ],
+      "data_points": [
+        "The UAE normalized relations with Israel in 2020 under the Abraham Accords",
+        "Israel's office said Netanyahu met UAE President Sheikh Mohammed bin Zayed Al Nahyan during the Iran war",
+        "U.S. Ambassador Mike Huckabee said Israel sent Iron Dome air-defense weapons and personnel to operate them in the UAE",
+        "The UAE has faced Iranian missile and drone fire even after the ceasefire reached last month",
+        "Kuwait said it detained four Iranians and two escaped while trying to infiltrate Bubiyan Island on May 1",
+        "Iranian human rights lawyer Nasrin Sotoudeh was released on bail from Tehran's Evin Prison after more than a month in detention",
+        "Narges Mohammadi's doctors said she needs eight months of treatment after collapsing in prison on May 1"
+      ]
+    },
+    {
+      "id": "748f0ae550d1",
+      "title": "Trump’s China Pageantry Signals a High-Stakes Bid to Reset U.S.-China Relations",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T07:13:24Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "On day one of Donald Trump’s visit to China, he was greeted with a troop parade and cheering children before a two-hour meeting with Chinese leader Xi Jinping and a tour of the Temple of Heaven. The article frames the visit around ceremonial optics rather than policy detail, but the core event is a high-level bilateral meeting between the U.S. president and China’s top leader. The visit comes at a moment when U.S.-China relations remain central to global trade, security, and diplomatic alignment.",
+      "prop_args": [
+        {
+          "thesis": "High-profile leader-to-leader diplomacy can reduce escalation risk and create space for a pragmatic U.S.-China thaw.",
+          "mechanisms": [
+            "First, direct summitry lowers misperception and crisis instability. This is because (1) personal meetings let leaders signal red lines clearly, (2) they reduce reliance on bureaucratic channels that can distort intent, and (3) they create a face-saving route to de-escalate disputes without public humiliation.",
+            "Second, ceremonial pageantry can be strategically useful because it builds the political conditions for compromise. Three reasons: one, it publicly frames the meeting as a success rather than a concession; two, it gives both sides domestic optics of respect and parity; three, it makes follow-on technical negotiations easier by establishing a cooperative atmosphere.",
+            "Third, even limited détente matters because it can stabilize the broader international system. This matters because U.S.-China tensions spill into trade, technology, Taiwan, and alliance politics, so any reduction in hostility lowers the probability of miscalculation, sanctions spirals, and military escalation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The visit is mostly symbolic theater that risks legitimizing Chinese power while producing little substantive change.",
+          "mechanisms": [
+            "First, pageantry can be a propaganda win for Beijing. One, it allows China to project parity with the United States and portray itself as a great power peer; two, it helps Xi sell domestic legitimacy by showing foreign deference; three, it can soften international criticism without requiring policy concessions.",
+            "Second, leader-level optics often substitute for real bargaining. One, summit meetings are easy to stage but hard to translate into enforceable commitments; two, both sides may prefer vague statements that avoid domestic backlash; three, this creates a cycle where diplomacy becomes performative rather than solution-oriented.",
+            "Third, the meeting can entrench strategic competition by normalizing rivalry as managed coexistence. One, if no structural disputes are resolved, tensions over tariffs, technology, and Taiwan remain; two, the U.S. may leave with fewer tools if it appears too eager for engagement; three, China gains time to continue long-term military and industrial buildup."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolism creates durable diplomatic space or merely masks unresolved structural conflict. Prop wins if the round is about crisis management and the value of reducing escalation risk; Opp wins if the round is about whether optics without concessions meaningfully change the strategic balance.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Deterrence and Crisis Stability",
+        "Summit Diplomacy",
+        "Propaganda and Soft Power",
+        "Symbolic Politics",
+        "Trade War De-escalation",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize leader-to-leader diplomacy with China over public confrontation",
+        "THBT symbolic summitry between rival great powers does more good than harm",
+        "THP a world where major powers use ceremonial diplomacy to manage strategic rivalry"
+      ],
+      "data_points": [
+        "Trump’s meeting with Xi Jinping lasted two hours",
+        "Trump was greeted by a troop parade and cheering children on arrival",
+        "The visit included a tour of the Temple of Heaven",
+        "The article presents the day-one agenda as centered on diplomatic ceremony rather than announced policy outcomes"
+      ]
+    },
+    {
+      "id": "2cab57f3d4f5",
+      "title": "Trump-Xi Talks Turn Taiwan Into the Core Test of US-China Crisis Stability",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/trump-xi-meeting-focuses-on-taiwan-issue-video",
+      "published": "2026-05-14T06:44:11Z",
+      "category": "IR",
+      "region": "East Asia (US, China, Taiwan)",
+      "background": "Chinese President Xi Jinping pressed US President Donald Trump on Taiwan during their meeting on Thursday morning at the Great Hall of the People in Beijing. Xi warned of a potential conflict if the issue is mismanaged. The meeting was the first visit to China by a sitting US president in nearly a decade and followed an elaborate welcome ceremony. Bloomberg reported from Beijing that Taiwan was the central issue in the talks.",
+      "prop_args": [
+        {
+          "thesis": "Making Taiwan the centerpiece of direct leader-level talks reduces the risk of accidental escalation and creates a clearer crisis-management channel between Washington and Beijing.",
+          "mechanisms": [
+            "First, direct summit diplomacy lowers misperception. This is because (1) Taiwan is a classic red-line issue where ambiguity can be read as weakness or provocation, (2) leader-to-leader contact lets each side signal boundaries without relying on military posturing, and (3) it reduces the chance that lower-level bureaucrats or commanders overreact to ambiguous moves.",
+            "Second, putting Taiwan on the agenda can stabilize deterrence through clearer signaling. Three reasons: one, China hears directly what the US will and will not do, which reduces incentives to test the line; two, the US can reinforce that it is not changing policy by accident or drift; three, explicit communication makes any future escalation easier to attribute and therefore less likely.",
+            "Third, the meeting creates a broader diplomatic off-ramp that can spill over into trade and security de-escalation. This matters because when the top two powers have a functioning channel, they can compartmentalize disputes, preserve cooperation on other issues, and avoid a security spiral where every disagreement becomes proof of hostile intent."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Elevating Taiwan in a high-profile summit increases the risk of coercion, hardens positions, and can make conflict more likely by signaling that the issue is now a direct great-power bargaining chip.",
+          "mechanisms": [
+            "First, public leader-level focus can embolden China to intensify pressure. One, Xi can interpret the meeting as evidence that Taiwan is now central enough to extract concessions; two, Beijing may escalate military or economic coercion to improve its bargaining position; three, repeated pressure normalizes the idea that force is a live option if diplomacy fails.",
+            "Second, the summit can weaken deterrence if Trump appears willing to trade away ambiguity. One, any hint of flexibility on Taiwan may be read in Taipei as abandonment and in Beijing as US retreat; two, allies and partners may doubt American resolve, reducing the credibility of extended deterrence; three, uncertainty encourages both sides to hedge through military buildup, which raises the chance of miscalculation.",
+            "Third, framing Taiwan as a bilateral bargaining issue can undermine the status quo. One, it shifts the dispute away from a stable, long-standing policy framework and into transactional politics; two, it incentivizes domestic audiences in both countries to demand toughness; three, once nationalism is activated, leaders have less room to compromise without appearing weak."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether direct summit diplomacy clarifies red lines faster than it hardens them. Prop wins if you think crisis communication and signaling are the binding constraint; opp wins if you think the main danger is that public bargaining over Taiwan increases coercion and reduces deterrence credibility.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Deterrence",
+        "Crisis Stability",
+        "Misperception",
+        "Nationalism",
+        "Great Power Competition",
+        "Alliance Credibility",
+        "Escalation Ladder"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize direct summit diplomacy with China over public confrontation on Taiwan",
+        "THBT the US should maintain strategic ambiguity on Taiwan",
+        "THP a world where major powers resolve territorial flashpoints through leader-level bargaining"
+      ],
+      "data_points": [
+        "This was the first visit to China by a sitting US president in nearly a decade",
+        "The meeting took place at the Great Hall of the People in Beijing on Thursday morning",
+        "Xi Jinping explicitly warned of a potential conflict if the Taiwan issue is mismanaged"
+      ]
+    },
+    {
+      "id": "256a50bcc715",
+      "title": "Russia’s Escalating Strikes Expose the Fragility of Ukraine Peace Talks",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/14/g-s1-121998/russia-hits-kyiv-with-drones-and-ballistic-missiles",
+      "published": "2026-05-14T05:21:16Z",
+      "category": "IR",
+      "region": "Europe (Ukraine, Russia)",
+      "background": "On Thursday, Russia launched a mass drone and missile attack on Kyiv and other Ukrainian cities, killing at least 1 person and injuring 31, according to local authorities. Kyiv’s Darnytsia district saw a multistory residential building partially collapse, with at least 27 people rescued from the rubble; 18 apartments were destroyed and water supply disruptions were reported on the left bank of the city. The attack came hours after a separate daytime strike on Wednesday that Zelenskyy said involved 800 drones and killed at least 6 people across about 20 regions of Ukraine. The strikes followed public comments by Donald Trump that Moscow and Kyiv would soon reach a deal, even as both sides still hold mutually exclusive demands.",
+      "prop_args": [
+        {
+          "thesis": "Russia’s continued mass strikes make a negotiated settlement less likely by proving that Moscow still believes it can improve its position through coercion rather than compromise.",
+          "mechanisms": [
+            "First, the attacks strengthen Russia’s bargaining position by signaling that it can impose escalating costs on Ukraine’s civilian population and infrastructure. This is because (1) the strikes hit residential buildings and civilian infrastructure across multiple cities, (2) they create immediate humanitarian pressure on Kyiv’s leadership, and (3) they test whether Western support will hold under sustained civilian harm.",
+            "Second, the strikes undermine trust in any peace process because they show Russia is still willing to violate the basic expectation of de-escalation during talks. Three reasons: one, the attack came immediately after renewed public optimism about a deal; two, it targeted Kyiv and other cities rather than purely military assets; three, it reinforces the pattern that Russia uses negotiations as cover to continue battlefield pressure.",
+            "Third, this matters because peace talks fail when one side believes time and violence are on its side. The biggest strategic effect is that Ukraine and its allies will interpret the attack as evidence that concessions only invite more aggression, making them less willing to accept territorial or security compromises."
+          ]
+        },
+        {
+          "thesis": "The strikes harden Ukrainian domestic politics against any settlement that freezes Russian gains, making compromise politically impossible for Kyiv.",
+          "mechanisms": [
+            "First, civilian casualties create public outrage that narrows the Ukrainian government’s room to negotiate. This is because (1) one person was killed and 31 injured in this attack alone, (2) a residential block partially collapsed with people trapped under rubble, and (3) repeated attacks on homes and utilities make any territorial concession look like rewarding terror.",
+            "Second, the destruction of civilian infrastructure increases the perceived stakes of the war for ordinary Ukrainians. Three reasons: one, the attack damaged water supply on Kyiv’s left bank; two, 18 apartments were destroyed in one building; three, the broader pattern of attacks across six districts and multiple cities makes the war feel existential rather than diplomatic.",
+            "Third, this matters because leaders negotiate within domestic constraints. If Zelenskyy is seen as accepting a deal after fresh strikes, he risks political backlash, loss of legitimacy, and reduced ability to sell any ceasefire that leaves Russia in control of occupied land."
+          ]
+        },
+        {
+          "thesis": "The attack shows that even if talks resume, any deal is likely to be unstable because Russia can always resume coercion once sanctions or attention ease.",
+          "mechanisms": [
+            "First, Russia’s ability to launch large-scale drone and missile attacks means enforcement of any ceasefire would be extremely difficult. This is because (1) the assault involved ballistic, cruise missiles, and drones across multiple regions, (2) the battlefield is too large to monitor perfectly, and (3) Russia can exploit ambiguity to claim deniability while still applying pressure.",
+            "Second, the attack demonstrates the core deterrence problem in Ukraine: Russia can absorb diplomatic costs while continuing military pressure. Three reasons: one, previous U.S.-led efforts have already fizzled; two, Moscow and Kyiv still have mutually exclusive demands; three, the absence of a credible enforcement mechanism means any agreement is vulnerable to immediate cheating.",
+            "Third, this matters because a bad peace is worse than no peace if it simply pauses the war before the next escalation. The structural advantage lies with the side that can rearm and re-strike faster, and this article shows Russia retains that capacity."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The attack could accelerate peace efforts by convincing external actors that the war is escalating beyond tolerable levels and must be stopped quickly.",
+          "mechanisms": [
+            "First, the scale and visibility of civilian harm can increase pressure on mediators to force a settlement. One, the attack killed and injured civilians in the capital; two, it followed an even larger 800-drone strike; three, repeated mass-casualty events can shift elite and public opinion in third-party states toward urgency over maximalist justice.",
+            "Second, the strikes may reveal Russia’s limited long-term military strategy, making compromise more attractive to both sides. One, if Russia is relying on terror attacks rather than decisive breakthroughs, that suggests battlefield stalemate; two, stalemate can push both sides toward freezing the conflict; three, Trump’s statement that a deal is near may reflect behind-the-scenes movement not visible in the article.",
+            "Third, this can matter because wars sometimes end when violence peaks enough to make continued fighting politically and economically irrational. If the attack convinces the U.S. and Europe that the conflict is becoming unmanageable, they may intensify pressure on Kyiv and Moscow to accept a ceasefire."
+          ]
+        },
+        {
+          "thesis": "The attack may not meaningfully change the diplomatic trajectory because the real drivers of peace are military exhaustion and external bargaining, not single strikes.",
+          "mechanisms": [
+            "First, one attack does not alter the underlying strategic balance. This is because (1) both sides have already been locked in a long war of attrition, (2) the article says U.S.-led efforts have already fizzled over core issues, and (3) the key disputes over territory and deterrence remain unresolved.",
+            "Second, leaders may continue talking despite battlefield violence if they believe the war is nearing exhaustion. One, Putin has publicly said the invasion is possibly “coming to an end”; two, Trump says a deal may be near; three, public signaling can reflect real diplomatic movement even amid continued strikes.",
+            "Third, this matters because negotiations are often insulated from tactical battlefield events. The biggest determinant is whether the parties see a better alternative to war, and that depends more on force ratios, sanctions, and alliance commitments than on one night’s bombardment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether violence is being used as leverage or as a sign of diplomatic failure. Prop wins if you think repeated strikes on civilians harden Ukrainian resolve and destroy trust faster than mediators can repair it; opp wins if you think the attack is just one more data point in a war already driven by exhaustion and external pressure, not a decisive shift.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "War of Attrition",
+        "Civilian Targeting",
+        "Negotiation Under Fire",
+        "Credible Commitment Problem",
+        "Security Dilemma",
+        "Peace Process Failure",
+        "Deterrence Failure"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would refuse to negotiate a ceasefire while Russia continues mass strikes on civilians",
+        "THBT the West should condition peace talks on an immediate Russian halt to missile and drone attacks",
+        "THP a world where wartime diplomacy cannot proceed without verified de-escalation on the ground"
+      ],
+      "data_points": [
+        "At least 1 killed and 31 injured in the Kyiv strike",
+        "A separate daytime attack the previous day involved 800 drones and killed at least 6 people across about 20 regions of Ukraine",
+        "Kyiv’s Darnytsia district saw a multistory residential building partially collapse",
+        "At least 27 people were rescued from the rubble in Kyiv",
+        "18 apartments were destroyed in one Kyiv building",
+        "Water supply problems were reported on Kyiv’s left bank",
+        "The attack hit six districts of Kyiv and also targeted Kremenchuk, Bila Tserkva, Kharkiv, Sumy, and Odesa",
+        "U.S.-led diplomatic efforts over the past year reportedly made no progress on key issues such as territory and deterrence"
+      ]
+    },
+    {
+      "id": "1f7caee9e8ff",
+      "title": "HMRC’s AI Tax Enforcement Deal Trades Privacy and Due Process for Higher Compliance and Faster Collections",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T05:10:45Z",
+      "category": "Business",
+      "region": "United Kingdom",
+      "background": "HM Revenue and Customs has signed a 10-year, £175m contract with British tech firm Quantexa to deploy AI-powered systems for fraud detection, error correction, and customer service support. The system will combine HMRC data with external sources to identify hidden networks of companies and individuals, and the company says any automated decisions will still be checked by humans. The deal comes amid rising dissatisfaction with HMRC performance: a Freedom of Information request found more than 93,000 complaints in 2024-25, up from just over 70,000 in 2020-21, with poor response times a major complaint.",
+      "prop_args": [
+        {
+          "thesis": "Using AI to detect tax fraud and errors will improve state capacity, raise compliance, and make the tax system faster and fairer.",
+          "mechanisms": [
+            "First, the AI increases detection capacity by linking HMRC records with external datasets to identify patterns humans miss. This is because (1) fraud often relies on fragmented identities and shell-company networks, (2) manual review cannot process the scale of millions of returns and transactions efficiently, and (3) better pattern recognition catches both deliberate evasion and accidental misreporting earlier, before losses compound.",
+            "Second, automation reduces administrative bottlenecks and improves service delivery. Three reasons: one, staff can be triaged toward complex cases instead of routine checks; two, legitimate taxpayers get faster resolution on wrong-reference payments and simple errors; three, shorter queues and quicker responses directly address the 93,000-complaint problem and improve trust in HMRC.",
+            "Third, the deal strengthens fiscal capacity and deterrence. This matters because (1) visible, data-driven enforcement raises the expected cost of cheating, (2) higher collection efficiency can increase revenue without raising headline tax rates, and (3) the government can reinvest recovered funds into public services, making compliance politically easier to sustain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AI-driven tax enforcement risks overreach, errors, and dependence on a private vendor, making the system less fair and less accountable.",
+          "mechanisms": [
+            "First, the technology can generate false positives and opaque targeting. One, tax data is noisy and context-dependent, so algorithmic pattern-matching can misread legitimate behavior as suspicious; two, even with human review, the AI shapes which cases get scrutinized, so biased inputs can still produce discriminatory outcomes; three, citizens face higher burdens to contest decisions when the initial flagging process is complex and technical.",
+            "Second, outsourcing core enforcement infrastructure creates long-term vendor lock-in and governance risks. One, a 10-year, £175m contract makes HMRC dependent on one supplier’s systems and updates; two, the state may lose bargaining power over pricing, data standards, and future interoperability; three, concentrating sensitive tax intelligence in a private firm increases the stakes of any breach, misuse, or mission creep.",
+            "Third, the policy can worsen public trust if people see HMRC as more punitive than helpful. One, more surveillance can make taxpayers feel presumed guilty, especially small businesses and self-employed workers; two, if service improvements do not materialize quickly, the state gets the costs of automation without the legitimacy gains; three, a system that is perceived as a black box can trigger legal challenges and political backlash, undermining the very compliance it seeks to improve."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between enforcement efficiency and institutional legitimacy. Prop wins if the judge prioritizes revenue recovery and administrative capacity; Opp wins if they think error, opacity, and vendor lock-in create durable harms that outweigh incremental fraud detection gains.",
+      "stock_connections": [
+        "Surveillance State",
+        "Algorithmic Bias",
+        "Due Process",
+        "Vendor Lock-in",
+        "Digital Sovereignty",
+        "State Capacity",
+        "Moral Hazard",
+        "Administrative Efficiency",
+        "Public Trust in Institutions"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would deploy AI systems to detect tax fraud and filing errors",
+        "THBT governments should use private AI vendors for core public-sector enforcement functions",
+        "THP a world where tax authorities can use external data to algorithmically flag suspicious taxpayers",
+        "THBT digital sovereignty is worth the risks of domestic procurement in sensitive state functions"
+      ],
+      "data_points": [
+        "£175m contract over 10 years between HMRC and Quantexa",
+        "More than 93,000 complaints made about HMRC in 2024-25",
+        "Just over 70,000 HMRC complaints in 2020-21",
+        "Quantexa is valued at $2.6bn (£1.9bn)",
+        "The company says automated tax decisions will still be checked by humans",
+        "HMRC says the system will combine internal data with external sources to identify fraud networks"
+      ]
+    },
+    {
+      "id": "1d126f147463",
+      "title": "Rwanda’s Backing of M23 Turns Eastern Congo Into a Civilians-First War Zone",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T05:09:04Z",
+      "category": "IR",
+      "region": "Democratic Republic of Congo / Rwanda",
+      "background": "Human Rights Watch says its investigators found evidence of summary executions, rape, abductions, enforced disappearances, and forced recruitment during M23’s occupation of Uvira, a lakeside city in eastern DR Congo, in December 2025. The report alleges 53 civilians were executed, including 46 men, one woman, and six children, and documents eight rape cases allegedly involving M23 fighters and uniformed Rwandan soldiers. The occupation ended in January 2026 after diplomatic pressure, shortly after a peace deal brokered by US President Donald Trump between Presidents Felix Tshisekedi and Paul Kagame. Rwanda denies backing M23 or deploying soldiers, while UN experts have alleged Rwanda had de facto control over M23 operations.",
+      "prop_args": [
+        {
+          "thesis": "External backing for proxy rebels in eastern Congo should be treated as a major regional security threat because it normalizes cross-border coercion and makes civilian protection impossible.",
+          "mechanisms": [
+            "First, proxy warfare lowers the cost of intervention for the patron state. This is because (1) Rwanda can shape battlefield outcomes without formally declaring war, (2) deniability makes diplomatic punishment weaker than for open invasion, and (3) once the tactic works in Uvira, it becomes a repeatable model across eastern DR Congo and the Great Lakes region.",
+            "Second, it destroys any credible civilian protection architecture on the ground. Three reasons: one, rebel occupation replaces rule-of-law institutions with armed predation; two, civilians cannot distinguish between local fighters and foreign-backed units, so fear spreads across entire neighborhoods; three, mass rape, executions, and forced recruitment create long-term displacement that outlasts the occupation itself.",
+            "Third, it undermines peace processes by proving that negotiations do not constrain spoilers. This matters because the Uvira takeover happened days after a US-brokered peace deal, so armed actors learn that talks can coexist with violence, which weakens deterrence, incentivizes future offensives, and makes external mediation look performative."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The report shows the need for stronger pressure on Rwanda and M23, but it also demonstrates that negotiated diplomacy remains the only realistic way to stop the conflict from escalating into a wider regional war.",
+          "mechanisms": [
+            "First, military escalation is likely to backfire because the conflict is already regionalized. One, DR Congo, Rwanda, Burundi, and external powers are all implicated, so direct punishment risks widening the war; two, eastern Congo’s terrain and fragmented armed groups make outright defeat of M23 costly and uncertain; three, coercive escalation can harden Rwanda’s security narrative and reduce incentives to cooperate.",
+            "Second, diplomacy can still produce immediate humanitarian gains even if it is imperfect. One, the M23 withdrew from Uvira after intense diplomatic pressure, showing that external leverage can move actors; two, ceasefire frameworks can create corridors for aid, returns, and monitoring; three, even partial agreements can reduce the scale of atrocities faster than a slow military solution.",
+            "Third, the key problem is enforcement, not the existence of talks. This means the right response is targeted sanctions, monitoring, and conditional aid rather than abandoning negotiation altogether, because the article itself shows that international attention and pressure can force withdrawals and expose abuses."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether proxy violence is best deterred by escalation or by sustained diplomatic pressure. The pro side wins if it proves that deniable intervention creates a durable incentive structure for atrocities; the opposition wins if it shows that, given the regional spillover risk, only negotiated pressure can realistically reduce harm in the short term.",
+      "stock_connections": [
+        "Proxy War",
+        "Civilian Protection",
+        "War Crimes",
+        "Regional Spillover",
+        "Peace Process Spoilers",
+        "Deniable Intervention",
+        "Security Dilemma",
+        "Humanitarian Intervention"
+      ],
+      "motion_areas": [
+        "TH, as the African Union, would impose stronger sanctions on Rwanda for its alleged support of M23",
+        "THBT the international community should prioritize negotiated settlements over military escalation in eastern DR Congo",
+        "THP a world where states can be held internationally liable for proxy forces they materially support"
+      ],
+      "data_points": [
+        "HRW says it found evidence of 53 civilian executions in Uvira: 46 men, 1 woman, and 6 children",
+        "HRW documented 8 rape cases allegedly committed by rebels and Rwandan soldiers during the occupation",
+        "The M23 occupied Uvira in December 2025 and withdrew in January 2026 after diplomatic pressure",
+        "UNICEF reported more than 35,000 cases of sexual violence against children in the first nine months of 2025 in eastern DR Congo",
+        "Nearly 2 million people in South Kivu alone have fled their homes due to persistent violence",
+        "UN experts have accused Rwanda of having 'de facto control' over M23 operations",
+        "Uvira is described as the gateway to Burundi, a key military ally of DR Congo"
+      ]
+    },
+    {
+      "id": "6274cd087fce",
+      "title": "Poland’s Rate-Cut Debate Shifts From Inflation Relief to Growth Risks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/polish-economic-risks-top-inflation-concerns-for-mpc-s-wnorowski",
+      "published": "2026-05-14T04:30:01Z",
+      "category": "Econ",
+      "region": "Poland",
+      "background": "Polish inflation fell to the central bank’s target in March for the first time in three years. Despite that, policymakers are expected to keep interest rates steady because they remain worried about price growth picking up again later in 2024. The article centers on MPC member Wnorowski, who is signaling that broader economic risks may now matter more than the recent inflation improvement.",
+      "prop_args": [
+        {
+          "thesis": "Poland should prioritize growth and financial stability over overreacting to a temporary inflation rebound risk.",
+          "mechanisms": [
+            "First, keeping rates too high after inflation returns to target creates an unnecessary drag on domestic demand. This is because (1) borrowing costs stay elevated for households and firms, (2) investment decisions get postponed, and (3) weaker consumption slows the broader economy even when price pressures are easing.",
+            "Second, the central bank risks making monetary policy backward-looking instead of forward-looking. Three reasons: one, inflation has already fallen to target, two, the main concern is only a possible later pickup, and three, preemptively choking off growth can lock in a slowdown before any inflation problem actually materializes.",
+            "Third, this matters because the political and social cost of tight policy is concentrated and immediate. Rate-sensitive sectors like housing, construction, and small business credit feel the pain first, while the benefit of slightly lower future inflation is uncertain and diffuse."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The central bank should stay cautious because premature easing risks reigniting inflation and damaging credibility.",
+          "mechanisms": [
+            "First, the inflation decline may be temporary rather than structural. One, headline inflation can fall because of base effects or volatile food and energy prices, two, underlying demand pressures may still be present, and three, cutting rates too early can feed a second-round price surge.",
+            "Second, the central bank’s credibility depends on proving it will not declare victory too soon. One, if households and firms expect rates to fall whenever inflation dips, they will price in easier money, two, that can loosen wage and price-setting behavior, and three, once expectations drift upward, bringing inflation back down becomes much more costly.",
+            "Third, external and domestic shocks can quickly reverse the disinflation trend. One, Poland remains exposed to imported price pressures, two, fiscal or wage growth can keep demand hot, and three, holding rates steady gives policymakers room to respond if inflation resurges later in 2024."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the inflation drop is durable enough to justify policy support for growth. The opposition has a stronger credibility argument, but proposition wins if it shows the cost of over-tightening is immediate and certain, while the inflation rebound is only a forecast.",
+      "stock_connections": [
+        "Central bank credibility",
+        "Inflation expectations",
+        "Monetary policy transmission",
+        "Trade-off between growth and inflation",
+        "Countercyclical policy",
+        "Policy lag",
+        "Soft landing"
+      ],
+      "motion_areas": [
+        "TH, as the Polish central bank, would cut rates once inflation returns to target",
+        "THBT central banks should prioritize growth risks over small inflation rebound risks",
+        "THP a world where monetary policy responds more aggressively to recession risk than to temporary inflation spikes"
+      ],
+      "data_points": [
+        "Polish inflation fell to the central bank’s target in March for the first time in three years",
+        "Policymakers are expected to keep interest rates steady despite the return to target",
+        "The concern cited is resurgent price growth later in 2024",
+        "The article focuses on MPC member Wnorowski and his view that economic risks now outweigh inflation concerns"
+      ]
+    },
+    {
+      "id": "f6ef3a09a3f2",
+      "title": "US Fuel Pressure Pushes Cuba Into Acute Energy Collapse and Political Crisis",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T04:26:09Z",
+      "category": "Econ",
+      "region": "Cuba / United States / Venezuela / Mexico",
+      "background": "Cuba's Energy Minister Vicente de la O Levy said the country has completely run out of diesel and fuel oil, with only limited gas available from domestic wells. He said Havana is facing 20 to 22-hour blackout periods in some areas, while hospitals, schools, government offices and tourism have all been disrupted. The crisis comes as the US reiterated a $100 million aid offer tied to \"meaningful reforms\" and expanded sanctions in early May, while Cuba says Washington's blockade and pressure on Venezuela and Mexico have cut off fuel supplies.",
+      "prop_args": [
+        {
+          "thesis": "US pressure is forcing Cuba into an energy collapse that makes the regime less able to govern and more vulnerable to domestic unrest.",
+          "mechanisms": [
+            "First, the fuel cutoff destroys the basic functioning of the state. This is because (1) diesel and fuel oil are the inputs for electricity generation, transport, and logistics, (2) 20 to 22-hour blackouts cripple hospitals, schools, and government offices, and (3) when the state cannot provide power, it loses the most visible proof of competence that authoritarian regimes rely on.",
+            "Second, the crisis turns economic pain into political pressure. Three reasons: one, prolonged blackouts hit households directly and make daily life unbearable; two, tourism and commerce lose revenue, which raises unemployment and shortages; three, scattered protests in Havana show that energy scarcity can quickly become street mobilization against the government.",
+            "Third, the US aid offer increases leverage over the Cuban state. This matters because (1) tying assistance to reforms creates a bargaining chip, (2) the regime is forced to choose between ideological autonomy and immediate relief, and (3) even if it refuses, the optics of rejecting life-saving aid can deepen domestic blame on the government rather than on sanctions alone."
+          ]
+        },
+        {
+          "thesis": "The blockade and sanctions are effective coercive tools because they choke off Cuba's external fuel lifelines and raise the cost of supporting the regime.",
+          "mechanisms": [
+            "First, the policy attacks Cuba's import dependence at the source. This is because (1) Cuba normally relies on Venezuela and Mexico for oil, (2) US threats of tariffs on countries sending fuel to Cuba have reportedly reduced those flows, and (3) once external suppliers fear secondary punishment, the island cannot easily substitute away from imports.",
+            "Second, sanctions on senior officials and the broader blockade increase elite pressure. Three reasons: one, they raise the personal cost of repression for officials; two, they signal that the US is willing to escalate rather than normalize; three, they may split elites between hardliners who want resistance and pragmatists who want a deal to restore fuel and stability.",
+            "Third, the policy can force reform without direct military intervention. This matters because (1) energy scarcity is a non-kinetic pressure point, (2) it avoids the costs of invasion or regime change, and (3) if the government accepts aid or concessions, the US gains leverage over Cuba's political opening while preserving deniability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "US sanctions and blockade are counterproductive because they deepen humanitarian suffering while entrenching the Cuban regime's anti-American narrative.",
+          "mechanisms": [
+            "First, the policy punishes civilians more than elites. One, blackouts and fuel shortages hit hospitals, schools, and ordinary transport first; two, the regime can shield itself through priority access and repression; three, when people suffer but do not see political change, they may blame external coercion rather than their own government.",
+            "Second, external pressure strengthens regime legitimacy through nationalist backlash. One, Havana can frame shortages as proof of US aggression; two, this helps the government unify hardliners and justify repression; three, sanctions can reduce the space for internal reformers by making compromise look like surrender to Washington.",
+            "Third, the aid-for-reforms offer is unlikely to produce meaningful change. One, the Cuban government has already denied rejecting aid, showing distrust and propaganda conflict; two, conditional aid can be read as regime-change leverage rather than humanitarian relief; three, if the state fears political concessions, it may prefer continued scarcity over opening the system."
+          ]
+        },
+        {
+          "thesis": "Cuba's energy collapse is primarily a structural economic failure, so US pressure is not the decisive cause and may not solve the underlying problem.",
+          "mechanisms": [
+            "First, the island's vulnerability comes from chronic dependence and weak domestic capacity. One, Cuba relies on imported oil for its refinery system; two, domestic gas production is limited and only partially offsetting shortages; three, without major investment, any external shock will produce the same crisis regardless of sanctions.",
+            "Second, coercion can distort Cuba's supply choices rather than improve them. One, threats against Venezuela and Mexico reduce legal imports but do not create new energy capacity; two, the state may respond by rationing, blackouts, and emergency improvisation; three, this means the policy manages scarcity through pain, not through sustainable recovery.",
+            "Third, humanitarian aid would be more effective than punitive escalation. One, fuel and electricity are immediate life-saving needs; two, coordinated assistance through trusted institutions like the Catholic Church could reduce civilian harm; three, if the goal is stability and welfare, conditional pressure is inferior to direct relief."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the energy crisis is a legitimate coercive lever or a blunt instrument that mainly harms civilians. Prop wins if you prioritize state capacity and regime vulnerability; opp wins if you prioritize humanitarian externalities and the likelihood that sanctions entrench, rather than weaken, authoritarian control.",
+      "stock_connections": [
+        "Sanctions Efficacy",
+        "Humanitarian Harm",
+        "Authoritarian Resilience",
+        "Rally Around the Flag",
+        "Regime Legitimacy",
+        "Coercive Diplomacy",
+        "Dependency Theory",
+        "State Capacity Collapse",
+        "Collective Punishment"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would maintain and intensify the blockade on Cuba",
+        "THBT the US should condition humanitarian aid on political reforms in authoritarian states",
+        "THP a world where sanctions are used to force democratic reform in authoritarian regimes",
+        "THBT developing states should prioritize sovereignty over accepting conditional foreign aid"
+      ],
+      "data_points": [
+        "Cuba has \"completely run out\" of diesel and fuel oil, according to Energy Minister Vicente de la O Levy.",
+        "Some parts of Havana are experiencing 20 to 22-hour blackout periods.",
+        "The US reiterated a $100 million aid offer (£74 million) tied to \"meaningful reforms\".",
+        "Cuba normally relies on Venezuela and Mexico to supply oil to its refinery system.",
+        "US pressure reportedly caused Venezuela and Mexico to largely cut off supplies after tariff threats.",
+        "Washington expanded sanctions in early May against senior Cuban officials over alleged human rights abuses.",
+        "Hospitals, schools, government offices, and tourism have all been disrupted by the energy shortage."
+      ]
+    },
+    {
+      "id": "e4d41807b078",
+      "title": "BOJ Signals Earlier Rate Hikes as Japan Balances Inflation Relief Against Financial Tightening",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/boj-s-masu-says-rate-hike-desirable-at-earliest-stage-possible",
+      "published": "2026-05-14T04:22:43Z",
+      "category": "Econ",
+      "region": "Japan",
+      "background": "On May 14, 2026, Bloomberg reported that BOJ board member Junko Masu said a rate hike is desirable at the 'earliest stage possible,' signaling continued tightening after Japan’s long period of ultra-low rates. The article also notes that Tokyo inflation had slowed to its weakest pace in nearly two years, as food-price gains eased, though higher energy prices were expected because of the war in Iran. The BOJ headquarters in Tokyo was cited as the policy backdrop, with markets watching whether the central bank would continue raising rates despite softer near-term inflation data.",
+      "prop_args": [
+        {
+          "thesis": "The BOJ should normalize rates early to prevent inflation expectations, currency weakness, and asset distortions from becoming entrenched.",
+          "mechanisms": [
+            "First, earlier rate hikes anchor inflation expectations before households and firms adapt to a permanently higher-price environment. This is because (1) Japan has spent decades in a low-inflation regime, so credibility matters more than in economies with stable inflation norms, (2) if the BOJ waits until inflation is obviously persistent, wage and price-setting behavior can already have shifted, and (3) pre-emptive tightening signals that the central bank will not tolerate a de-anchoring of expectations.",
+            "Second, higher rates reduce imported inflation pressure by supporting the yen and limiting pass-through from energy and commodity shocks. Three reasons: one, Japan is highly exposed to imported fuel and food costs, two, the article explicitly flags higher energy prices from the war in Iran, and three, a weaker yen amplifies those external shocks into domestic inflation even when local food inflation is cooling.",
+            "Third, gradual early hikes are less disruptive than delayed aggressive hikes. This matters because (1) small moves now allow the BOJ to normalize in a controlled way, (2) waiting risks forcing sharper tightening later if inflation re-accelerates, and (3) a credible path to normalization reduces speculative excess in bonds, equities, and real estate that were built during years of ultra-loose policy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The BOJ should avoid early hikes because Japan’s inflation is cooling and premature tightening risks choking fragile domestic demand and wage recovery.",
+          "mechanisms": [
+            "First, the current inflation slowdown means the BOJ may be reacting to temporary external shocks rather than durable domestic overheating. One, the article says Tokyo inflation cooled to its slowest pace in nearly two years, two, food-price gains are slowing, and three, hiking into a cooling inflation environment risks overshooting and pushing inflation back below target.",
+            "Second, higher rates would hit households and firms before Japan’s demand-side recovery is secure. One, Japan has long operated with very low borrowing costs, so even modest increases can raise mortgage, corporate, and government financing burdens, two, weaker consumption would be especially harmful when real wages remain sensitive, and three, tightening too early can stall the wage-price cycle the BOJ wants to sustain.",
+            "Third, the BOJ should wait because energy-driven inflation is supply-side and rate hikes do little to solve it. One, the article’s main upside inflation risk comes from war-driven energy prices, two, monetary tightening cannot produce more oil or lower geopolitical risk, and three, using rates to fight imported inflation imposes domestic pain without addressing the source of the shock."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the BOJ is preventing future inflation instability or unnecessarily tightening into a cooling economy. Prop wins if you think credibility and yen support matter more than short-term softness; opp wins if you think the inflation pulse is already fading and the real economy cannot absorb higher borrowing costs.",
+      "stock_connections": [
+        "Inflation targeting",
+        "Central bank credibility",
+        "Imported inflation",
+        "Currency depreciation",
+        "Monetary tightening",
+        "Demand suppression",
+        "Policy overshoot",
+        "Wage-price spiral"
+      ],
+      "motion_areas": [
+        "TH, as the Bank of Japan, would raise interest rates at the earliest possible stage",
+        "THBT central banks should prioritize inflation credibility over short-term growth when inflation is driven by external shocks",
+        "THP a world where Japan normalizes monetary policy faster than markets expect"
+      ],
+      "data_points": [
+        "Tokyo inflation cooled to its slowest pace in nearly two years",
+        "Food-price gains in Tokyo continued to slow",
+        "Higher energy prices are expected owing to the war in Iran",
+        "BOJ board member Junko Masu said a rate hike is desirable at the 'earliest stage possible'",
+        "Article date: 2026-05-14"
+      ]
+    },
+    {
+      "id": "441b1fa65847",
+      "title": "Xi-Trump Summit Becomes the Deliverable as China Enters Talks From Relative Strength",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/cfr-s-liu-csis-s-levin-on-xi-trump-summit-stakes-video",
+      "published": "2026-05-14T04:03:15Z",
+      "category": "IR",
+      "region": "US-China",
+      "background": "Bloomberg’s interview with CFR Senior Fellow Zongyuan Zoe Liu and CSIS Senior Fellow Henrietta Levin focuses on the stakes of a summit between Chinese President Xi Jinping and US President Donald Trump. Liu argues that merely holding the summit is itself a deliverable, implying both sides need the meeting for signaling and crisis management. Levin says China is entering the talks from a position of strength, suggesting Beijing has more leverage over the agenda and outcomes than Washington.",
+      "prop_args": [
+        {
+          "thesis": "The summit is valuable because it creates a controlled channel for de-escalation and prevents US-China rivalry from spilling into crisis.",
+          "mechanisms": [
+            "First, the meeting itself reduces miscalculation. This is because (1) direct leader-to-leader contact lowers the risk of signaling errors, (2) it allows both sides to clarify red lines in real time, and (3) it creates a venue to manage flashpoints like tariffs, technology controls, and Taiwan without public escalation.",
+            "Second, even a limited summit can stabilize expectations. Three reasons: one, markets and allies read the summit as a commitment to avoid immediate rupture; two, bureaucracies on both sides gain political cover to keep working-level channels open; three, the optics of engagement make it harder for hardliners to argue that diplomacy has failed.",
+            "Third, the deliverable is process, not a grand bargain. This matters because in great-power competition, preserving communication and crisis-management architecture can be more important than extracting a substantive concession, especially when both sides have incentives to avoid a costly breakdown."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit mainly benefits China because it lets Beijing project strength while extracting symbolic legitimacy from Washington.",
+          "mechanisms": [
+            "First, China can enter talks from a stronger bargaining position. One, it can absorb economic pressure better than the US can absorb supply-chain disruption in the short term; two, it can use leverage over trade, critical minerals, and market access to shape the agenda; three, it can wait out US domestic political cycles and negotiate from patience rather than urgency.",
+            "Second, the summit risks normalizing a weaker US posture. One, if the US frames the meeting itself as success, it signals desperation for engagement; two, Beijing can offer minimal concessions while still claiming parity with Washington; three, allies may interpret the summit as evidence that the US is accommodating China rather than constraining it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether process itself is a strategic gain or merely a concession of weakness. This argument wins because in US-China relations, avoiding accidental escalation and preserving communication channels has high structural value, but the opposition has a strong claim that China can convert summitry into legitimacy if no concrete concessions follow.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Deterrence",
+        "Crisis Stability",
+        "Signaling",
+        "Bargaining Power",
+        "Summit Diplomacy",
+        "Security Dilemma",
+        "Relative Power Shift"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize leader-level summits with China even without substantive concessions",
+        "THBT great powers should maintain summit diplomacy with strategic rivals despite limited immediate outcomes",
+        "THP a world where US-China relations are managed primarily through elite diplomatic engagement"
+      ],
+      "data_points": [
+        "The article states that the summit itself is 'already the deliverable,' indicating the meeting is being treated as an outcome in its own right.",
+        "Henrietta Levin says China is entering the talks 'from a position of strength.'",
+        "The discussion centers on a summit between Chinese President Xi Jinping and US President Donald Trump."
+      ]
+    },
     {
       "id": "1b5348531d42",
       "title": "Israel’s Pressure on UNRWA Turns Palestinian Archives Into a Battlefield Over History and Statehood",
@@ -185,6 +1016,60 @@
         "Labor now has four senators in Tasmania, with Tyrrell, Helen Polley, and Josh Dolega up for re-election in 2028",
         "Tyrrell won the Senate seat formerly held by Liberal Eric Abetz in 2022",
         "The article notes a hypothetical path to a Senate majority via support from the entire crossbench, including David Pocock, Ralph Babet, Jacqui Lambie, Fatima Payman, Lidia Thorpe, and four One Nation senators"
+      ]
+    },
+    {
+      "id": "62a9c4b39514",
+      "title": "Australia’s Supermarket Duopoly Faces Legal Blow Over Fake Discount Pricing",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202159x6x3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T03:09:20Z",
+      "category": "Business",
+      "region": "Australia",
+      "background": "Australia’s Federal Court ruled that supermarket giant Coles misled shoppers through its 'Down Down' promotions, finding the discounts on sample products were not genuine. The Australian Competition and Consumer Commission (ACCC) had alleged Coles misled consumers on 245 products across 15 months between February 2022 and May 2023, and the judge agreed that 13 of 14 sample products did not represent real savings. Justice Michael O'Bryan said a product would need to have been sold at the higher 'was' price for at least 12 weeks before a discount could be considered genuine; a similar ACCC case against Woolworths, which together with Coles controls about two-thirds of the Australian grocery market, is still pending.",
+      "prop_args": [
+        {
+          "thesis": "Stronger enforcement against fake discounts is necessary to restore market integrity in concentrated retail sectors.",
+          "mechanisms": [
+            "First, it corrects information asymmetry. This is because (1) consumers cannot easily track price histories across hundreds of grocery items, (2) retailers have far more data and can manipulate reference prices, and (3) without enforcement, shoppers systematically overestimate the value of promotions and make worse purchasing decisions.",
+            "Second, it deters deceptive pricing strategies by making manipulation unprofitable. Three reasons: one, if firms know they can be fined for inflating 'was' prices, they have less incentive to create artificial urgency; two, compliance costs push firms toward clearer pricing practices; three, the threat of litigation changes industry norms across the whole sector, not just the defendant.",
+            "Third, it improves competition in a duopoly. This matters because when Coles and Woolworths control roughly two-thirds of the market, misleading discounts let incumbents compete on optics rather than real price cuts, which entrenches their dominance and weakens any smaller rivals trying to win customers on transparent pricing."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Heavy-handed legal intervention risks overregulating ordinary retail promotions and may not materially improve consumer welfare.",
+          "mechanisms": [
+            "First, the line between a genuine discount and a promotional strategy is inherently fuzzy. One, retailers frequently change prices due to supply costs, seasonality, and inventory management; two, a rigid 12-week rule may punish normal commercial behavior; three, legal uncertainty can make firms less willing to run promotions at all, reducing consumer choice.",
+            "Second, compliance and litigation costs are ultimately passed on to consumers. One, supermarkets will spend more on legal review, pricing systems, and labeling; two, they may raise base prices to offset the risk of penalties; three, the biggest burden falls on low-margin grocery shoppers who benefit most from frequent promotions.",
+            "Third, the real problem is market concentration, not just misleading tickets. One, if Coles and Woolworths dominate two-thirds of the market, then enforcement against one pricing tactic does not solve the structural lack of competition; two, consumers still face limited alternatives; three, broader competition policy would be more effective than case-by-case punishment."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether enforcement meaningfully disciplines a concentrated market or simply adds friction to ordinary retail pricing. Prop wins if the round is framed around consumer deception and duopoly power, because the structural advantage lies with firms that control price information; Opp wins if they persuade the judge that the remedy is overbroad and mostly raises costs without fixing concentration.",
+      "stock_connections": [
+        "Information Asymmetry",
+        "Consumer Protection",
+        "Market Concentration",
+        "Duopoly Power",
+        "Regulatory Overreach",
+        "Compliance Costs",
+        "Race to the Bottom",
+        "Anti-competitive Practices"
+      ],
+      "motion_areas": [
+        "TH, as a competition regulator, would impose strict rules on reference pricing in supermarkets",
+        "THBT governments should heavily regulate promotional pricing in concentrated retail markets",
+        "THP a world where supermarkets must prove a minimum price history before advertising discounts"
+      ],
+      "data_points": [
+        "Coles was found to have misled consumers over 245 products across 15 months, from February 2022 to May 2023",
+        "The court ruled 13 of 14 sample products did not represent a genuine saving",
+        "Justice Michael O'Bryan said the higher 'was' price should be sold for at least 12 weeks before a discount can be considered genuine",
+        "Coles and Woolworths together account for about two-thirds of the Australian grocery market",
+        "The ACCC’s similar case against Woolworths concerns 266 products over 20 months",
+        "Any fine against Coles will be decided at later hearings and is expected to be significant"
       ]
     },
     {

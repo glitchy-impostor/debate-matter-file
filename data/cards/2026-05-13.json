@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-14T04:05:59Z",
+  "last_updated": "2026-05-14T08:51:46Z",
   "cards": [
     {
       "id": "b0d2e93857bf",
@@ -53,6 +53,66 @@
         "A codefendant, Chen Jinping, pleaded guilty in 2024 to conspiring to act as an unregistered Chinese agent",
         "The case followed a 2022 Safeguard Defenders investigation alleging China had set up overseas 'service stations' in New York and elsewhere",
         "The verdict came two days after Arcadia, California mayor Eileen Wang agreed to plead guilty to acting as an illegal agent of China"
+      ]
+    },
+    {
+      "id": "a5b55969ca46",
+      "title": "Ceasefire Failure in South Lebanon Entrenches Hezbollah’s Local Legitimacy and Keeps Israel’s Border War Alive",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T23:22:07Z",
+      "category": "IR",
+      "region": "Lebanon / Israel",
+      "background": "An Israeli air strike on a building in Saksakiyeh, southern Lebanon, killed nine people, including a woman in her 70s, three generations of one family, and a two-year-old child. The article says a ceasefire announced on 16 April 2026 has failed to stop fighting between Israel and Hezbollah: Israel resumed air strikes and Hezbollah resumed rocket and drone attacks. Since the war began, Lebanon’s health ministry says at least 2,800 people have been killed in Lebanon, with more than 400 killed after the truce came into force, while Israeli authorities say 18 soldiers and four civilians have been killed.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s continued bombardment and occupation are strengthening Hezbollah’s legitimacy in south Lebanon rather than weakening it.",
+          "mechanisms": [
+            "First, the war turns Hezbollah into the only visible protector for civilians in the south. This is because (1) the Lebanese state is absent from daily security provision, (2) Israeli drones, evacuation warnings, and repeated strikes create a constant threat environment, and (3) residents rationally credit the armed actor that at least claims to deter or respond to Israel.",
+            "Second, destruction and displacement create a political feedback loop that rewards militancy. Three reasons: one, when more than one million people are displaced and whole villages are flattened, people anchor on whoever promises return and dignity; two, civilian suffering is attributed locally to Israel, not to Hezbollah, especially when strikes kill families and destroy homes; three, humiliation and loss make communities more dependent on Hezbollah’s social networks, flags, funerals, and service provision.",
+            "Third, the ceasefire’s collapse proves that disarmament or moderation cannot be sold as protection. This matters because (1) if Israel keeps striking after a truce, Hezbollah can argue that restraint does not buy safety, (2) the Lebanese president’s push to disarm Hezbollah looks unrealistic under ongoing occupation, and (3) the more the state appears unable to defend the south, the more Hezbollah’s armed identity becomes embedded as common sense."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The war is also eroding Hezbollah’s long-term position by exposing Lebanon to unbearable costs and widening domestic pressure for disarmament.",
+          "mechanisms": [
+            "First, the scale of destruction makes Hezbollah look like a liability to many Lebanese. One, at least 2,800 people have been killed in Lebanon and over one million displaced, which creates mass resentment; two, even supporters are reportedly uneasy about escalation after Khamenei’s killing; three, the group is increasingly associated with ruined homes, lost livelihoods, and economic collapse rather than resistance.",
+            "Second, Hezbollah’s strategic environment is deteriorating because Israel is degrading its capacity and the Lebanese state is moving against it. One, Israel has occupied parts of southern Lebanon and says it wants a Hezbollah-free security zone; two, President Joseph Aoun has vowed to disarm the group; three, Hezbollah is isolated domestically and cannot easily convert battlefield endurance into durable political gains if its arsenal is steadily reduced.",
+            "Third, civilian exhaustion can eventually break the group’s social base. This matters because (1) displaced families living in tents and ruined towns may prioritize stability over armed confrontation, (2) the longer Hezbollah fails to deliver actual security, the more its claim to be the sole defender is tested, and (3) postwar reconstruction politics can shift support toward the state or external patrons that promise normal life."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term legitimacy and long-term strategic erosion. Prop wins if the question is who controls the south’s political imagination during active war; opp wins if the question is whether Hezbollah can survive as a sustainable national force once the costs of repeated conflict and disarmament pressure compound.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Militant Legitimacy",
+        "Civilian Backlash",
+        "State Failure",
+        "Occupation and Resistance",
+        "Collective Punishment",
+        "Asymmetric Warfare",
+        "Disarmament Dilemma",
+        "Proxy Conflict",
+        "Radicalization through Repression"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would prioritize a military security zone over a ceasefire with Hezbollah",
+        "THBT Lebanon should forcibly disarm Hezbollah even during active border conflict",
+        "THP a world where armed non-state actors can retain weapons if they provide local security",
+        "THBT ceasefires with militant groups should require third-party enforcement before implementation",
+        "TH, as the Lebanese state, would refuse to tolerate Hezbollah’s armed wing"
+      ],
+      "data_points": [
+        "At least 2,800 people have been killed in Lebanon since the war began, including more than 400 after the truce came into force",
+        "Lebanon says more than 1 million people have been displaced, around one in five of the population",
+        "Israeli authorities say 18 soldiers and four civilians have been killed in the war",
+        "Israel says it occupies around 5% of Lebanon’s territory in the south, in some places extending 10 km from the border",
+        "A pre-war population of around 6,000 in Arab Salim is now estimated at only about one-tenth remaining",
+        "The Israeli strike in Saksakiyeh killed nine people, including a woman in her 70s, three sons and their families, and a two-year-old child",
+        "The ceasefire was announced on 16 April 2026 and broke down within days",
+        "Hezbollah was created in the 1980s during Israel’s occupation of Lebanon and is backed by Iran"
       ]
     },
     {
