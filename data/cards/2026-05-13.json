@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-14T08:51:46Z",
+  "last_updated": "2026-05-14T11:24:42Z",
   "cards": [
     {
       "id": "b0d2e93857bf",
@@ -1838,6 +1838,76 @@
         "China is a major importer of Iranian and Middle East oil",
         "Trump’s most recent National Security Strategy shifts US focus toward the Western Hemisphere rather than the Asia-Pacific rivalry",
         "China’s April four-point plan called for peaceful coexistence, sovereignty, international law, and a balanced approach to development and security"
+      ]
+    },
+    {
+      "id": "6434a67d57fb",
+      "title": "Nepal’s Internet Boom Masks a Rural Affordability Trap That Locks Millions Out of the Digital Economy",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/nepals-digital-divide-why-millions-still-lack-affordable-internet-access/",
+      "published": "2026-05-13T17:08:00Z",
+      "category": "Econ",
+      "region": "Nepal",
+      "background": "Nepal’s telecom regulator reported broadband penetration of 145.69% in early 2026, but independent estimates put actual internet use much lower: DataReportal’s Digital 2026 Nepal report said only 56% of the population was online in late 2025, leaving roughly 13 million people offline. The Nepal Living Standards Survey 2022/23 found only about 40% of households had internet at home, while just 9.5% of households below the poverty line were connected. The gap is especially severe in rural provinces such as Karnali, where internet penetration is around 14%, compared with 79.3% in the Kathmandu Valley.",
+      "prop_args": [
+        {
+          "thesis": "Nepal’s current internet model is a regressive system that deepens inequality because market-led expansion reaches profitable users while excluding poor, rural, and socially marginalized communities.",
+          "mechanisms": [
+            "First, the market only serves dense and high-demand areas, so providers rationally avoid remote villages. This is because (1) Nepal Telecom officials say expansion usually happens only when there are 100 to 200 potential users, (2) rural terrain makes infrastructure expensive to build and maintain, and (3) low user density means firms cannot recover fixed costs without subsidies.",
+            "Second, the price people pay is not the real issue; the problem is that poor-quality service makes internet effectively unusable. Three reasons: one, households below the poverty line have only 9.5% internet access, two, users in places like Baitadi pay 1,000–1,500 rupees monthly for unstable connections, and three, frequent outages, weak signals, and failed transactions mean the service cannot support education, payments, or work.",
+            "Third, unequal access compounds existing caste, gender, and education gaps, turning connectivity into a privilege rather than a public good. This matters because (1) only 41% of Nepali women use the internet, (2) higher-caste households have 37% access versus 21% for Dalit households, and (3) people with master’s degrees are far more likely to be online than those with only secondary education, so digital exclusion reproduces offline hierarchy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Nepal’s internet problem is primarily a rollout and literacy challenge, not a failure of affordability, so the right fix is infrastructure expansion and user support rather than treating the market as fundamentally broken.",
+          "mechanisms": [
+            "First, headline penetration and fiber growth show that access is improving quickly, so the state should focus on completion rather than redesign. One, Nepal Telecom has extended fiber to all 77 districts, two, the Rural Telecommunications Development Fund has connected over 16,000 public sites, and three, the IFC and World Bank are already injecting capital into the sector, meaning the bottleneck is implementation, not absence of investment.",
+            "Second, many users underutilize existing networks because digital literacy and household setup are weak. This is because (1) digital literacy is only 31%, (2) some connection failures are caused by router placement or internal wiring rather than the network itself, and (3) content is often only in Nepali or English, so even connected users may not convert access into meaningful use.",
+            "Third, internet prices are not uniquely unaffordable in comparative terms, so the political focus on cost can be misleading. Three reasons: one, industry leaders argue Nepal has some of the cheapest internet in the world, two, mobile broadband is widely available and subscriptions are high, and three, the real issue is value and reliability rather than nominal price, meaning targeted regulation and education can solve the problem without overcorrecting against the market."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether internet access is treated as a consumer good or as essential infrastructure. Prop wins if the round is about who is actually excluded from participation in education, finance, and jobs, because the data shows the poorest and rural users are structurally left behind; Opp wins if the round is about policy feasibility, since Nepal already has expanding infrastructure and the remaining gap is partly literacy and last-mile implementation.",
+      "stock_connections": [
+        "Digital Divide",
+        "Urban-Rural Inequality",
+        "Regressive Taxation",
+        "Infrastructure Deficit",
+        "Market Failure",
+        "Public Goods Provision",
+        "Social Exclusion",
+        "Human Capital Inequality",
+        "Dependency Theory"
+      ],
+      "motion_areas": [
+        "TH, as Nepal, would heavily subsidize rural internet access",
+        "THBT developing countries should treat broadband as a public utility rather than a consumer service",
+        "THP a world where internet access is provided as a universal basic service",
+        "THBT governments should impose price caps on essential digital infrastructure",
+        "THBT the state should prioritize rural connectivity over urban digital export ambitions"
+      ],
+      "data_points": [
+        "NTA broadband penetration: 145.69% in early 2026, but only 56% of the population online in late 2025",
+        "Roughly 13 million Nepalis remained offline in late 2025",
+        "Only about 40% of households had internet at home in Nepal Living Standards Survey 2022/23",
+        "Just 9.5% of households below the poverty line have internet access",
+        "About 77% of Nepalis live in rural areas",
+        "Kathmandu Valley internet penetration: 79.3%; Karnali Province: 14%",
+        "Fixed broadband costs about 7.28% of average per capita income, versus the 2% affordability benchmark",
+        "Only 4.8 fixed broadband subscriptions per 100 people",
+        "Average mobile data price: 57.38 rupees per gigabyte",
+        "Internet service providers face a cumulative tax burden exceeding 40%",
+        "Nepal routes over 90% of international internet traffic through India, mainly Airtel (70%) and Tata Communications (20%)",
+        "Digital literacy in Nepal is 31%",
+        "Only 41% of Nepali women use the internet",
+        "Higher-caste households: 37% internet access; Dalit households: 21%",
+        "Nepal’s IT Decade (2024–2034) targets 3,000 billion Nepali rupees in ICT exports and 500,000 direct jobs",
+        "FY 2024/25 budget allocated 7.25 billion rupees to ICT",
+        "World Bank committed $140 million to the Digital Nepal Acceleration Project",
+        "IFC invested $29 million in WorldLink in 2025",
+        "Rural Telecommunications Development Fund has connected over 16,000 public sites"
       ]
     },
     {
