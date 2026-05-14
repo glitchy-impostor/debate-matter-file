@@ -1,7 +1,1245 @@
 {
   "date": "2026-05-14",
-  "last_updated": "2026-05-14T11:24:42Z",
+  "last_updated": "2026-05-14T14:36:56Z",
   "cards": [
+    {
+      "id": "f6fbe8b69da9",
+      "title": "England’s NHS Waiting-List Gains May Be Real, but the 92% Target Still Depends on Unsustainable Sprint Funding",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/14/wes-streeting-nhs-hospitals-england-key-target-improved-waiting-times",
+      "published": "2026-05-14T14:07:45Z",
+      "category": "Econ",
+      "region": "England (UK)",
+      "background": "NHS England figures published on 14 May 2026 showed hospitals in England treated 65.3% of patients within 18 weeks in March, meeting Wes Streeting’s target of at least 65% by the end of March. The NHS waiting list fell by 517,000 after Labour took office in July 2024, from 7.62 million tests and treatments to 7.11 million, and March was the first month since November 2021 that more than 65% of patients were seen within 18 weeks. The improvement was aided by an extra £120 million from January for a 'validation sprint' and financial incentives for trusts to remove duplicate or unnecessary appointments, including Shrewsbury and Telford Trust removing 14,148 patients and earning more than £460,000. Labour has pledged to restore the RTT target to 92% by 2029, but other targets on A&E, cancer, and ambulance response times were still missed.",
+      "prop_args": [
+        {
+          "thesis": "Targeted funding and managerial pressure can rapidly reduce NHS backlogs, proving that public systems can be improved through state capacity rather than privatization.",
+          "mechanisms": [
+            "First, short-term ring-fenced funding can unlock latent capacity. This is because (1) trusts can pay for extra clinics, admin work, and validation teams, (2) they can clear duplicate or unnecessary appointments that clog the system, and (3) they can convert existing staff time into actual treatment rather than paperwork.",
+            "Second, performance targets create coordination across a fragmented system. Three reasons: one, hospitals respond to a single measurable benchmark instead of drifting on multiple priorities; two, central pressure forces local managers to prioritize backlog reduction; three, the visible target gives staff and patients a clear recovery path, which improves compliance and planning.",
+            "Third, even modest percentage gains matter at NHS scale. This matters because moving from 59.8% to 65.3% within 18 weeks means hundreds of thousands of patients are treated sooner, reducing pain, lost work time, and the risk that delayed conditions become more expensive emergencies later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The improvement is politically useful but structurally fragile, because it relies on one-off clean-up tactics that do not solve the underlying capacity crisis.",
+          "mechanisms": [
+            "First, the headline improvement may be partly accounting rather than genuine throughput. One, trusts were paid to 'clean' waiting lists by removing duplicates and unnecessary appointments; two, Shrewsbury and Telford removed 14,148 patients and received over £460,000, showing the incentive was to reclassify demand as much as treat it; three, that can inflate performance without proportionally increasing clinical capacity.",
+            "Second, sprint funding cannot be scaled indefinitely. One, the extra £120 million was a temporary push from January to March; two, the NHS still faces huge monthly inflows of new patients, so gains can be overwhelmed once the sprint ends; three, if the system needs repeated emergency injections to hit modest targets, the 92% by 2029 promise is not credible.",
+            "Third, focusing on one metric can worsen other parts of the system. One, the article says A&E, cancer, and ambulance targets were still missed; two, managers may divert staff and resources toward RTT at the expense of more urgent or time-sensitive care; three, this creates a false sense of recovery while other waiting-time harms persist or deepen."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a one-off improvement and a durable system turnaround. Prop wins if the motion is about whether government intervention can move outcomes quickly; opp wins if the motion is about whether this proves the NHS is on track long term, because the article itself shows the gains were driven by temporary incentives and other targets still missed.",
+      "stock_connections": [
+        "State Capacity",
+        "Public Sector Reform",
+        "Target Culture",
+        "Perverse Incentives",
+        "Moral Hazard",
+        "Waiting List Backlogs",
+        "Rationing",
+        "Central Planning vs Local Autonomy",
+        "Political Credit Claiming"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would use performance targets and temporary funding to reduce NHS waiting lists",
+        "THBT governments should prioritize measurable backlog reduction over broad system reform in public healthcare",
+        "THP a world where public health systems are judged primarily by waiting-time targets"
+      ],
+      "data_points": [
+        "65.3% of NHS patients in England were treated within 18 weeks in March 2026, up from 62.5% in February and 59.8% in March 2025",
+        "NHS waiting list fell by 517,000 after Labour took office, from 7.62 million in July 2024 to 7.11 million",
+        "The RTT target had not been above 65% since November 2021 before March 2026",
+        "NHS England gave hospitals an extra £120 million from January 2026 for a 'validation sprint'",
+        "Shrewsbury and Telford Trust removed 14,148 patients from its waiting list and earned more than £460,000 at £33 per removal",
+        "Labour has pledged to restore 92% of patients being seen within 18 weeks by 2029",
+        "The article says 70% of the progress toward the 65% target since April 2025 happened in the final two months before the deadline"
+      ]
+    },
+    {
+      "id": "11d4d187e28e",
+      "title": "A Potential Super El Niño Threatens Record Heat, Food Shocks, and Humanitarian Stress Across the Global South",
+      "source": "BBC",
+      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T13:56:57Z",
+      "category": "Econ",
+      "region": "Global",
+      "background": "BBC reports that NOAA, the European Centre for Medium Range Weather Forecasts, and Australia’s Bureau of Meteorology are increasingly confident that the developing El Niño in the tropical Pacific will begin within a month and could become a very strong or “super El Niño” by autumn. Sea surface temperatures in parts of the Pacific are already around 0.5C above normal, while NOAA has raised the chance of a strong or very strong event to two-in-three by this winter. Scientists warn this could raise global average temperatures by about 0.2C, with the possibility of 2027 becoming the warmest year on record, and could trigger drought, flooding, and food-price shocks across Asia, Africa, Latin America, and Australia.",
+      "prop_args": [
+        {
+          "thesis": "A super El Niño would be a global economic shock that justifies aggressive state intervention on food, energy, and disaster preparedness.",
+          "mechanisms": [
+            "First, it hits agricultural output through synchronized climate stress. This is because (1) El Niño increases drought risk in Australia, Indonesia, and northern South America, (2) it can also bring flooding to Peru, Ecuador, East Africa, and parts of Asia, and (3) when multiple breadbasket regions are hit at once, global food stocks fall and prices rise sharply.",
+            "Second, it amplifies inflation and supply-chain pressure in already fragile markets. Three reasons: one, fertilizer distribution is already being disrupted by the closure of the Strait of Hormuz, two, higher fertilizer prices reduce planting and yields in the next harvest cycle, and three, poorer households spend a larger share of income on food so even modest price rises create severe welfare losses.",
+            "Third, the event creates a humanitarian crisis that markets cannot solve quickly. This matters because record heat, drought, and flooding increase displacement, malnutrition, and disaster-response costs at the same time, so governments need pre-emptive stockpiling, subsidy support, and emergency financing rather than waiting for prices and mortality to spike."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "El Niño is a temporary climate cycle, so the right response is targeted adaptation rather than panic-driven economic intervention.",
+          "mechanisms": [
+            "First, the shock is time-limited and partially predictable. One, forecasters have months of warning from NOAA, EC, and BoM, two, El Niño typically peaks and then fades rather than permanently altering the economy, and three, advance notice allows governments and firms to hedge inventories, adjust planting, and pre-position aid.",
+            "Second, the economic effects are uneven, so blanket intervention is inefficient. One, some regions benefit from reduced Atlantic hurricane activity, two, not every country experiences severe crop losses or flooding, and three, broad subsidies or trade restrictions can waste resources and distort prices more than the climate shock itself.",
+            "Third, overreaction can create its own harms. One, hoarding and export bans can worsen global shortages, two, emergency spending can crowd out long-term climate adaptation and fiscal stability, and three, treating every strong El Niño as a catastrophe risks normalizing bad policy instead of building resilience."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a short-lived but severe shock and the policy response it triggers. Prop wins if it shows that synchronized crop losses, fertilizer disruption, and inflation make early intervention necessary; opp wins if it proves the event is forecastable enough that targeted adaptation beats costly overreaction.",
+      "stock_connections": [
+        "Climate Shocks",
+        "Food Security",
+        "Inflation",
+        "Supply Chain Disruption",
+        "Humanitarian Crisis",
+        "Disaster Preparedness",
+        "Resource Scarcity",
+        "Market Failure",
+        "State Intervention"
+      ],
+      "motion_areas": [
+        "TH, as governments, would impose emergency food and fertilizer stockpiles ahead of predicted climate shocks",
+        "THBT developing nations should prioritize climate adaptation spending over short-term fiscal consolidation",
+        "THP a world where states are required to maintain strategic reserves for climate-related supply shocks",
+        "TH, as the IMF, would condition emergency lending on climate-resilience measures",
+        "THBT countries should ban food export restrictions during climate emergencies"
+      ],
+      "data_points": [
+        "NOAA has raised the chance of a strong or very strong El Niño to two-in-three by this winter",
+        "Sea surface temperatures in parts of the tropical Pacific are already around 0.5C above normal",
+        "A strong or 'super El Niño' is defined as Niño3.4 temperatures above 1.5C",
+        "More than half of the European Centre for Medium Range Weather Forecasts models suggest Niño3.4 temperatures could exceed 2.5C by autumn",
+        "Some forecast data suggests temperatures could exceed 3C, above the current known peak of 2.7C recorded in 1877",
+        "The last very strong El Niño in 2015-2016 saw Niño3.4 reach 2.4C",
+        "El Niño typically boosts global average temperature by about 0.2C",
+        "The 2023/24 El Niño coincided with the hottest year on record",
+        "The 1877 El Niño lasted around 18 months and was associated with catastrophic drought and famine across Asia, Brazil, and Africa"
+      ]
+    },
+    {
+      "id": "fa8967045885",
+      "title": "International Law Fails as a Preventive Tool Against Mass Atrocities",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/all-hail/2026/5/14/why-international-law-cant-stop-mass-atrocities?traffic_source=rss",
+      "published": "2026-05-14T13:53:26Z",
+      "category": "IR",
+      "region": "Global",
+      "background": "The article argues that international courts in The Hague are typically used only after atrocities have already occurred, rather than as a mechanism to prevent them. It frames the International Court of Justice and International Criminal Court as institutions that can symbolically hold power to account, but only after wars have shattered communities and legal proceedings begin. Published on 14 May 2026, it is part of a five-part series on militarism and the systems that sustain it.",
+      "prop_args": [
+        {
+          "thesis": "International law is structurally too slow, too dependent on state cooperation, and too weakly enforced to prevent mass atrocities in real time.",
+          "mechanisms": [
+            "First, international law operates after the fact rather than before violence peaks. This is because (1) courts need evidence, filings, and jurisdictional thresholds that take months or years to assemble, (2) atrocity perpetrators usually act in compressed wartime windows where deterrence must be immediate, and (3) victims cannot rely on a legal process that only activates once mass killing has already begun.",
+            "Second, enforcement depends on the same states and elites that often benefit from impunity. Three reasons: one, international courts have no independent police or military force to arrest suspects; two, major powers can shield allies through vetoes, non-cooperation, or selective recognition; three, authoritarian leaders can calculate that the political costs of atrocity are lower than the costs of losing power.",
+            "Third, the existence of law can create a false sense of accountability without changing battlefield incentives. This matters because (1) symbolic condemnation may satisfy external audiences while leaving perpetrators operationally free, (2) legalistic responses can crowd out harder tools like sanctions, arms embargoes, or protective intervention, and (3) once atrocities begin, the scale of harm is already so large that post hoc justice cannot restore lost lives or prevent displacement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "International law may not stop every atrocity directly, but it still deters some perpetrators, constrains state behavior, and creates long-term accountability that reduces future violence.",
+          "mechanisms": [
+            "First, legal exposure changes the incentives of leaders, commanders, and external enablers. One, even partial risk of indictment can restrict travel, freeze assets, and narrow diplomatic options; two, domestic elites may abandon leaders who become internationally toxic; three, armed groups and states often moderate tactics when they fear future prosecution or universal-jurisdiction cases.",
+            "Second, international law builds an evidentiary and normative record that strengthens later prevention. One, documentation helps identify patterns of escalation and warning signs; two, it supports sanctions, arms embargoes, and targeted diplomacy by giving states a factual basis for action; three, it delegitimizes atrocity perpetrators and makes post-conflict reconciliation and reconstruction more feasible.",
+            "Third, law is one of the few tools that can operate across borders without requiring immediate military escalation. This matters because (1) many states will not authorize force to stop atrocities, (2) legal institutions provide a lower-cost way to signal red lines and mobilize coalitions, and (3) over time, repeated prosecutions can shift norms around command responsibility and civilian protection."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you judge international law by immediate battlefield prevention or by cumulative deterrence and norm-building. Prop has the stronger short-term causality because atrocity situations are fast-moving and enforcement is weak, but Opp can win if they prove even modest deterrence and documentation effects matter across repeated crises.",
+      "stock_connections": [
+        "Impunity",
+        "Deterrence Theory",
+        "Rule of Law",
+        "Selective Enforcement",
+        "Great Power Hypocrisy",
+        "Humanitarian Intervention",
+        "Norm Diffusion",
+        "Accountability vs. Effectiveness"
+      ],
+      "motion_areas": [
+        "TH, as an international court, would prioritize prevention over post-conflict prosecution",
+        "THBT international law has failed as a tool for preventing mass atrocities",
+        "THP a world where international criminal justice focuses on deterrence rather than punishment",
+        "THBT states should rely less on international courts and more on coercive prevention tools to stop atrocities"
+      ],
+      "data_points": [
+        "The Hague hosts the International Court of Justice and the International Criminal Court",
+        "The article was published on 14 May 2026",
+        "It is part of a five-part series on militarism titled 'All Hail the Military'",
+        "International courts are described as being consulted only after atrocities have erupted"
+      ]
+    },
+    {
+      "id": "c8c442e4fa17",
+      "title": "US-Israeli War on Iran Forces BRICS to Choose Between Bloc Solidarity and Strategic Ambiguity",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/2026/5/14/brics-meeting-overshadowed-by-war-on-iran?traffic_source=rss",
+      "published": "2026-05-14T13:45:49Z",
+      "category": "IR",
+      "region": "Iran / BRICS (including UAE)",
+      "background": "On 14 May 2026, BRICS foreign ministers met while the US-Israeli war on Iran dominated the agenda. Iran’s foreign minister called on the bloc to condemn US and Israeli attacks on Iranian territory. The meeting is notable because BRICS now includes the UAE, creating internal tension between members aligned with Iran and members with closer ties to the US and Israel.",
+      "prop_args": [
+        {
+          "thesis": "BRICS should condemn the US-Israeli attacks on Iran because failure to do so turns the bloc into a hollow economic club with no geopolitical credibility.",
+          "mechanisms": [
+            "First, condemnation is necessary to preserve bloc cohesion. This is because (1) BRICS is supposed to represent a non-Western alternative order, (2) if one member is attacked and the bloc stays silent, members conclude that membership brings no mutual protection, and (3) that weakens future cooperation on trade, finance, and diplomatic coordination.",
+            "Second, a clear statement raises the diplomatic cost of escalation. Three reasons: one, it signals that attacks on sovereign territory will not be normalized; two, it gives neutral states cover to resist US-Israeli pressure; three, it increases the chance of multilateral mediation rather than unilateral military logic.",
+            "Third, this matters because the war is not just a bilateral issue but a precedent-setting one. If BRICS cannot defend a member under attack, then the bloc cannot credibly claim to defend sovereignty, which undermines its long-term role in reshaping global governance."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "BRICS should avoid condemning the US and Israel because internal division and strategic ambiguity are more valuable than symbolic alignment with Iran.",
+          "mechanisms": [
+            "First, a condemnation would fracture the bloc internally. One, the UAE and other members with security or economic ties to the West would resist a hardline statement; two, forcing a vote would expose BRICS as incoherent; three, public division would be worse than silence because it weakens the bloc’s bargaining power.",
+            "Second, neutrality preserves diplomatic flexibility. One, BRICS members can act as mediators only if they are not seen as an anti-Western military camp; two, ambiguity keeps channels open to Washington, Tel Aviv, and Tehran; three, that makes de-escalation more likely than a maximalist statement that hardens positions.",
+            "Third, condemnation may create real material costs. One, it could trigger retaliation in trade, finance, or security cooperation from the US and allies; two, many BRICS states are still dependent on Western markets and institutions; three, the bloc should prioritize protecting its own economic interests over making a symbolic gesture."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic solidarity and strategic utility. Prop wins if the round is about whether BRICS can function as a serious alternative order; Opp wins if the judge prioritizes internal cohesion and the practical costs of antagonizing the US-led system.",
+      "stock_connections": [
+        "Bloc Cohesion",
+        "Great Power Competition",
+        "Sovereignty and Territorial Integrity",
+        "Collective Security",
+        "Strategic Ambiguity",
+        "Anti-Imperialism",
+        "Alliance Credibility",
+        "Multipolarity"
+      ],
+      "motion_areas": [
+        "TH, as BRICS, would condemn the US-Israeli attacks on Iran",
+        "THBT BRICS should take a harder anti-Western foreign policy line",
+        "THP a world where emerging powers form explicit anti-intervention blocs"
+      ],
+      "data_points": [
+        "BRICS foreign ministers were meeting on 14 May 2026 while the war on Iran dominated the agenda.",
+        "Iran’s foreign minister explicitly urged BRICS to condemn the US and Israel for attacks on Iranian territory.",
+        "BRICS now includes the UAE, increasing internal divergence over how to respond to the conflict."
+      ]
+    },
+    {
+      "id": "3b94b7ec7909",
+      "title": "Search Engines Become the Weak Link in Britain’s Suicide-Content Crackdown",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/14/google-law-suicide-forum-online-safety-act-technology",
+      "published": "2026-05-14T13:39:46Z",
+      "category": "Business",
+      "region": "United Kingdom / United States",
+      "background": "Google has denied breaching the UK Online Safety Act after its search results surfaced a suicide forum linked by campaigners to 164 UK deaths. The forum’s US-based operator was fined £950,000 by Ofcom, but the site remains accessible in the UK through basic circumvention tools such as VPNs, and Google’s result appears alongside a Samaritans support link. Ofcom has been urging compliance since last spring and is now preparing to seek a court order that could force internet service providers to block UK access if the site does not address the regulator’s concerns.",
+      "prop_args": [
+        {
+          "thesis": "Search platforms should be legally responsible for amplifying harmful suicide content, because algorithmic discovery is what turns a banned forum into a mass-access public health threat.",
+          "mechanisms": [
+            "First, search promotion defeats the point of site-level bans. This is because (one) most users do not need to know a forum’s exact URL if Google surfaces it, (two) the result gives the content legitimacy and discoverability, and (three) even a single prominent listing can funnel vulnerable users into harmful material faster than a direct block can stop them.",
+            "Second, imposing liability on search engines creates the only scalable enforcement point. Three reasons: one, the operator is offshore and can ignore UK law with relative ease; two, VPNs and mirror access make pure geo-blocking porous; three, search engines control the gateway behavior that determines whether harmful content is practically reachable.",
+            "Third, the public-health upside outweighs the speech cost. This matters because (one) the article links the forum to 164 UK deaths, (two) the content includes detailed suicide-method instructions, and (three) the law already permits proportionate mitigation rather than blanket censorship, so the policy targets high-risk amplification rather than ordinary information access."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Google should not be treated as breaching the law because search engines are indexing tools, not publishers, and over-enforcement would create a dangerous precedent for speech, access, and platform liability.",
+          "mechanisms": [
+            "First, the legal and operational role of search is fundamentally different from hosting. One, Google is responding to navigational queries rather than creating the content; two, it already places a prominent Samaritans help box and contextual news results above or alongside the link; three, punishing indexing risks collapsing the distinction between discovery and endorsement.",
+            "Second, broad liability would incentivize over-censorship and error. One, search engines would delist borderline or controversial material preemptively to avoid fines; two, that would suppress legitimate information on mental health, journalism, and harm-reduction resources; three, a vague standard like 'effectively mitigate and manage risks' gives regulators too much discretion and chills lawful speech.",
+            "Third, the real enforcement target should be the forum operator and access-blocking architecture, not the search engine. One, Ofcom has already fined the US-based operator and can seek ISP blocking orders; two, the site itself is the source of the harmful instructions; three, if users can still reach it through VPNs, the problem is enforcement capacity, not Google’s search result."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether practical access to harmful content is created by search visibility or by the underlying forum and user circumvention. Prop wins if the judge prioritizes prevention and treats search as the key gateway; opp wins if the judge sees this as an overbroad attempt to turn intermediaries into publishers and believes the better remedy is direct action against the site and its operator.",
+      "stock_connections": [
+        "Platform liability",
+        "Duty of care",
+        "Online harms regulation",
+        "Free speech vs safety",
+        "Over-censorship / chilling effects",
+        "Gateway theory",
+        "Public health regulation",
+        "Enforcement gap",
+        "Intermediary responsibility"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would impose liability on search engines for surfacing self-harm content",
+        "THBT online platforms should be legally responsible for amplifying harmful content even if they do not host it",
+        "THP a world where search engines must delist suicide-related forums by default",
+        "TH, as Ofcom, would prioritize search-result enforcement over site-level fines in online safety cases"
+      ],
+      "data_points": [
+        "The forum has been associated with 164 UK deaths",
+        "Ofcom fined the forum’s US-based operator £950,000",
+        "The site is still accessible in the UK via basic VPN circumvention",
+        "Google’s result appeared as the second entry beneath a Samaritans link",
+        "The Online Safety Act 2023 requires search services to take 'proportionate measures' to mitigate and manage harm risks",
+        "Ofcom has been urging compliance since last spring",
+        "The regulator is preparing a court application to force UK access blocking if concerns are not addressed"
+      ]
+    },
+    {
+      "id": "dea578bc5daa",
+      "title": "Iran’s Seizure of a ‘Floating Armoury’ Raises the Cost of Maritime Security in the Gulf of Oman",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T13:33:20Z",
+      "category": "IR",
+      "region": "Iran / Gulf of Oman / UAE / Strait of Hormuz",
+      "background": "A vessel identified by maritime risk firm Vanguard as the Honduras-flagged Hui Chuan was reportedly seized by Iranian military personnel in the Gulf of Oman and is now bound for Iranian territorial waters, according to UKMTO. BBC Verify said MarineTraffic data placed the ship about 70km north-east of Fujairah in the UAE before it went silent; the operators told Vanguard it was a 'floating armoury' used to store weapons for private security teams protecting merchant ships from piracy. The incident comes days after an Indian-flagged vessel, the Haji Ali, was attacked off Oman and reportedly sank after a suspected drone or missile strike, with all 14 crew rescued by Omani authorities.",
+      "prop_args": [
+        {
+          "thesis": "Iran’s seizure of floating armouries will ultimately reduce maritime insecurity by tightening control over weapons flows and forcing a more regulated security architecture in the Gulf.",
+          "mechanisms": [
+            "First, it disrupts the informal private-arms ecosystem that has grown around anti-piracy protection. This is because (1) floating armouries let guards transfer rifles and ammunition close to shipping lanes, (2) that creates a weakly supervised weapons market in a highly militarized waterway, and (3) Iran can use seizures to deter unaccountable armed actors from operating near its coast.",
+            "Second, it raises the operational cost of carrying weapons at sea, which pushes shipping firms toward more centralized and trackable security arrangements. Three reasons: one, firms now face the risk of asset loss and detention if they use offshore armouries; two, insurers and flag states will pressure operators to use stricter compliance channels; three, fewer ad hoc arms transfers means fewer opportunities for diversion, smuggling, or escalation.",
+            "Third, it can create a bargaining lever for de-escalation around the Strait of Hormuz. This matters because (1) Iran can frame enforcement as sovereignty rather than piracy, (2) external powers have an incentive to negotiate maritime rules to protect energy flows, and (3) a clearer norm against armed private vessels reduces the chance that every shipping incident becomes a proxy confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Iran’s seizure will worsen maritime insecurity by normalizing coercive interference with commercial shipping and encouraging escalation around the Strait of Hormuz.",
+          "mechanisms": [
+            "First, it increases uncertainty for every vessel transiting the Gulf of Oman because (1) ship operators cannot know whether they will be targeted for their cargo, flag, or security arrangements, (2) that uncertainty raises insurance premiums and forces rerouting, and (3) higher costs and delays make the waterway less reliable for global trade.",
+            "Second, it blurs the line between law enforcement and hostage-taking, which incentivizes militarization by other states and private actors. One, if Iran can seize a ship allegedly carrying weapons, others will respond by arming escorts and surveillance; two, that creates a tit-for-tat cycle of interdictions and counter-interdictions; three, the result is a more crowded and accident-prone maritime environment.",
+            "Third, it undermines the anti-piracy security model that floating armouries were designed to support. This is because (1) guards may be unable to access weapons when needed, (2) shipping companies may stop using armed protection altogether, and (3) that leaves merchant vessels more exposed to piracy and opportunistic attacks in the Gulf of Aden and adjacent routes."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the seizure is treated as enforcement against a dangerous grey-market weapons system or as arbitrary coercion against commercial shipping. Prop has the structural advantage if the round is about long-term regulation of maritime security; opp wins if the motion centers on immediate trade stability and escalation risk, because one high-profile seizure can chill behavior across the entire shipping lane.",
+      "stock_connections": [
+        "Freedom of Navigation",
+        "Maritime Security",
+        "Security Dilemma",
+        "Escalation Spiral",
+        "Weapon Proliferation",
+        "Grey Market Regulation",
+        "Trade Route Vulnerability",
+        "Insurance Risk Premiums"
+      ],
+      "motion_areas": [
+        "TH, as Iran, would seize floating armouries operating near its territorial waters",
+        "THBT states should ban private floating armouries in strategic chokepoints",
+        "THP a world where maritime security firms cannot store weapons offshore near conflict zones"
+      ],
+      "data_points": [
+        "Hui Chuan was reportedly last tracked 70km north-east of Fujairah, UAE, before going silent",
+        "The vessel was identified by Vanguard as a Honduras-flagged ship operating as a floating armoury",
+        "The ship had spent the last month off the north-east coasts of Oman and the UAE",
+        "The Indian-flagged Haji Ali reportedly sank off Oman after a suspected drone or missile attack",
+        "All 14 crew members from the Haji Ali were rescued by Oman Coast Guard units",
+        "The Strait of Hormuz remains central to the free flow of energy, according to the US readout after Trump-Xi talks",
+        "China reportedly stated opposition to the militarization of the Strait of Hormuz"
+      ]
+    },
+    {
+      "id": "51656d6fad9c",
+      "title": "Uzbekistan’s Landmark Fund IPO Could Reprice Central Asia as Investable",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/uzbekistan-uznif-ipo-marks-turning-point-for-central-asia-economy-by-djoomart-otorbaev-2026-05",
+      "published": "2026-05-14T13:31:55Z",
+      "category": "Econ",
+      "region": "Central Asia / Uzbekistan",
+      "background": "Uzbekistan’s National Investment Fund (UzNIF) is preparing an IPO with $2.4 billion in assets and a valuation of $1.95 billion, implying a discount of roughly 20%. The article frames the listing as a signal that Central Asia is trying to move from being seen as too risky and isolated for global capital to being treated as an investable region. The deal is presented as a credibility play as much as a fundraising exercise.",
+      "prop_args": [
+        {
+          "thesis": "The UzNIF IPO can become a regional signaling event that lowers the cost of capital for Central Asia by proving that frontier-market assets can be priced, traded, and trusted.",
+          "mechanisms": [
+            "First, it creates a credible market benchmark for Uzbekistan and nearby economies. This is because (1) foreign investors need a reference price before they can size risk, (2) a listed sovereign-linked vehicle reduces information asymmetry about governance and asset quality, and (3) successful execution shows that the state is willing to submit to disclosure and market discipline.",
+            "Second, it can crowd in follow-on investment into the wider region. Three reasons: one, a visible IPO reduces the perception that Central Asia is an opaque, closed market; two, it gives portfolio managers a liquid entry point into the region instead of forcing them into illiquid private deals; three, it can trigger index inclusion, analyst coverage, and peer comparison that expand the investor base.",
+            "Third, the valuation itself can be used as a reform anchor. This matters because a public market price disciplines managers and governments to improve corporate governance, asset monetization, and fiscal transparency, which in turn raises long-run productivity and makes future privatizations easier."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A single IPO is more likely to be a symbolic one-off than a durable transformation of Central Asia’s investment climate.",
+          "mechanisms": [
+            "First, the deal may not solve the underlying reasons investors avoid the region. One, political and regulatory risk still dominates pricing if property rights remain weak; two, a discounted valuation of roughly 20% signals that investors are still demanding a large risk premium; three, one flagship listing does not change the broader institutional environment across the region.",
+            "Second, the IPO could be too narrow to generate spillovers. One, a sovereign-linked fund is not the same as opening competitive private markets, so it may not improve conditions for ordinary firms; two, if the state remains the dominant owner, investors may treat the listing as controlled liberalization rather than genuine reform; three, liquidity may stay thin if there is not enough free float or secondary market depth.",
+            "Third, there is a risk of overpromising and underdelivering. One, if the listing underperforms, it can reinforce the narrative that Central Asia is still too risky; two, governments may use the IPO as a substitute for harder reforms in courts, taxation, and regulation; three, a failed credibility play can deter rather than attract the next wave of capital."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether credibility can be created by a flagship market transaction or only by deep institutional reform. Prop wins if you think signaling and market access are enough to unlock follow-on capital; opp wins if you think investors price structural risk first and treat the IPO as cosmetic unless governance changes underneath it.",
+      "stock_connections": [
+        "Signaling",
+        "Credibility Trap",
+        "Cost of Capital",
+        "Market Liberalization",
+        "Privatization",
+        "Information Asymmetry",
+        "Institutional Quality",
+        "Frontier Markets",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as Uzbekistan, would pursue flagship sovereign-linked IPOs to attract foreign capital",
+        "THBT frontier economies should use state asset listings to signal reform credibility",
+        "THP a world where Central Asian states prioritize capital market integration over gradual domestic reform"
+      ],
+      "data_points": [
+        "$2.4 billion in UzNIF assets",
+        "$1.95 billion valuation for the IPO",
+        "Roughly 20% discount implied by the offering",
+        "Central Asia has long been viewed as too risky, too isolated, and too politically unstable for international investors"
+      ]
+    },
+    {
+      "id": "442c231298cc",
+      "title": "Russian Drone Strikes Expose the Fragility of US-Mediated Ceasefire Efforts in Ukraine",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/russian-drone-attack-hits-kyiv-apartment-block-during-ceasefire?traffic_source=rss",
+      "published": "2026-05-14T13:31:06Z",
+      "category": "IR",
+      "region": "Ukraine / Russia / United States",
+      "background": "On 14 May 2026, Russian drone strikes hit an apartment block in Kyiv, collapsing a residential building during what Ukrainian officials described as a US-mediated ceasefire proposal. Ukrainian authorities said Russia had launched more than 1,500 drones since Wednesday despite the diplomatic push. The attack occurred in the Ukrainian capital and was reported as part of an ongoing wave of strikes rather than a single isolated incident.",
+      "prop_args": [
+        {
+          "thesis": "Russia’s continued strikes during a ceasefire window prove that negotiated pauses without enforcement are strategically useless and should not be treated as meaningful peace progress.",
+          "mechanisms": [
+            "First, the attack destroys the credibility of the ceasefire process. This is because (1) Russia can violate it at low immediate cost, (2) civilians and allies see that talks do not constrain battlefield behavior, and (3) future diplomatic proposals lose leverage once one side learns there is no punishment for cheating.",
+            "Second, it shows that ceasefire proposals can be used as cover for military advantage. Three reasons: one, Russia can keep pressure on Ukrainian air defenses while claiming openness to peace; two, it can shape the battlefield before any real freeze takes effect; three, it can extract diplomatic concessions by appearing to negotiate while continuing coercion.",
+            "Third, the humanitarian impact is immediate and asymmetric. This matters because civilian apartment blocks are soft targets, so even limited violations create mass fear, displacement, and political pressure on Ukraine to accept a bad deal simply to stop the bleeding."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The attack does not prove diplomacy is futile; it proves that any serious ceasefire must be backed by verification, enforcement, and continued military deterrence.",
+          "mechanisms": [
+            "First, violations are exactly why ceasefires need stronger architecture, not abandonment. One, monitoring mechanisms can document breaches and assign blame; two, enforcement tools such as sanctions or aid escalation can raise the cost of cheating; three, third-party guarantees can make future agreements more credible than ad hoc pauses.",
+            "Second, even imperfect ceasefire talks can still serve strategic purposes. One, they create a diplomatic record that isolates the violator; two, they can reduce violence in some sectors or time periods even if not fully complied with; three, they buy time for civilian evacuation, air defense reinforcement, and coalition coordination.",
+            "Third, the fact of Russian noncompliance strengthens the case for continued support to Ukraine rather than proving negotiation is pointless. This is because a failed ceasefire can harden international resolve, justify more aid, and make clear that only pressure alongside diplomacy can produce a durable settlement."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the violation is evidence that ceasefires are inherently meaningless or evidence that they need credible enforcement. Prop wins if the round is about trust, signaling, and the strategic value of diplomacy under fire; opp wins if they can show that the alternative to imperfect talks is open-ended war, and that better-designed ceasefires still reduce harm and improve bargaining leverage.",
+      "stock_connections": [
+        "Credible Commitment Problem",
+        "Security Dilemma",
+        "Deterrence Failure",
+        "Peace Process Design",
+        "Civilian Protection",
+        "Coercive Diplomacy",
+        "War of Attrition",
+        "Signaling Theory"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize ceasefire negotiations with Russia over immediate escalation of military aid to Ukraine",
+        "THBT ceasefire agreements in active wars should require enforceable monitoring and automatic penalties for violations",
+        "THP a world where peace talks are only recognized if backed by third-party enforcement mechanisms"
+      ],
+      "data_points": [
+        "Russian officials were reported to have launched more than 1,500 drones since Wednesday",
+        "The strike collapsed a residential building in Kyiv, the Ukrainian capital",
+        "The attack occurred during a US-mediated ceasefire proposal",
+        "Published on 14 May 2026"
+      ]
+    },
+    {
+      "id": "2f938ce076cb",
+      "title": "ICC Pursuit of Duterte Ally Exposes Philippines’ Rule-of-Law Breakdown and Elite Power Struggle",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/14/g-s1-122021/philippines-senator-escape-wanted-icc",
+      "published": "2026-05-14T13:29:47Z",
+      "category": "IR",
+      "region": "Philippines / International Criminal Court",
+      "background": "Philippine Senator Ronald dela Rosa, the former national police chief under ex-president Rodrigo Duterte, fled from the Senate after National Bureau of Investigation agents tried to serve an ICC arrest warrant. The ICC warrant, unsealed Monday, charges him with crimes against humanity for the murder of 'no less than 32 persons' between July 2016 and April 2018, during Duterte’s anti-drug campaign. The episode came amid a wider Duterte-Marcos political feud: Duterte was arrested in March last year on an ICC warrant, and Vice President Sara Duterte was impeached on Monday by the House over alleged unexplained wealth, misuse of state funds, and threats against Marcos and other officials.",
+      "prop_args": [
+        {
+          "thesis": "Allowing domestic elites to shelter ICC suspects inside state institutions accelerates impunity and makes international justice impossible without stronger external enforcement.",
+          "mechanisms": [
+            "First, it normalizes institutional obstruction of justice. This is because (1) the suspect used the Senate as physical cover, (2) allied officials publicly denied any obligation to execute the warrant, and (3) security personnel chaos created an escape route, showing that domestic institutions can be repurposed to defeat accountability.",
+            "Second, it signals to future perpetrators that political power can outrun legal liability. Three reasons: one, the warrant concerns alleged murders tied to state policy, so the case is not isolated criminality but command responsibility; two, the suspect is a sitting senator and former police chief, so the message reaches current security elites; three, if the ICC cannot detain a high-profile figure, lower-level actors infer that cooperation with abusive crackdowns is low-risk.",
+            "Third, stronger ICC enforcement can deter mass abuses in hybrid regimes. This matters because the biggest delta is not this one arrest, but whether courts can credibly punish leaders who weaponize police and legislature to shield themselves; if they can, it raises the expected cost of future extrajudicial violence."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Aggressive ICC intervention in a polarized democracy can deepen factional conflict, weaken sovereignty, and turn accountability into a tool of domestic political warfare.",
+          "mechanisms": [
+            "First, it can be framed as foreign interference and rally nationalist backlash. One, Duterte allies already describe the arrest as a 'kidnapping' and a handover to a foreign court; two, when prosecutions target popular or powerful figures, supporters often see the ICC as illegitimate; three, that backlash can harden elite resistance and reduce future cooperation with international institutions.",
+            "Second, it may destabilize already fragile governing institutions. One, the Senate, House, presidency, and vice presidency are all locked in open conflict; two, forcing arrests through contested domestic channels can trigger procedural brinkmanship, security incidents, and retaliatory impeachments; three, the result is less rule of law, not more, because institutions become battlegrounds for rival factions.",
+            "Third, the ICC has limited enforcement capacity, so high-profile warrants can backfire if they cannot be executed cleanly. One, dela Rosa was able to evade arrest inside a heavily guarded Senate; two, if warrants depend on domestic cooperation that is politically contested, the court looks weak; three, weak enforcement can reduce deterrence by showing that powerful actors can survive long enough for politics to change."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether international accountability deters future atrocities or instead fuels nationalist backlash and institutional paralysis. The prop side wins if the round is about long-run rule-of-law and deterrence; the opp side wins if the judge prioritizes immediate stability and the risk that external legal pressure intensifies elite conflict in a polarized state.",
+      "stock_connections": [
+        "Impunity",
+        "Rule of Law",
+        "Sovereignty vs Human Rights",
+        "Elite Capture",
+        "Democratic Backsliding",
+        "International Justice",
+        "Security Sector Accountability",
+        "Institutional Decay"
+      ],
+      "motion_areas": [
+        "TH, as the ICC, would prioritize arresting sitting political elites in fragile democracies",
+        "THBT international courts should aggressively pursue former security officials accused of mass atrocities",
+        "THP a world where domestic institutions cannot shield individuals from ICC warrants"
+      ],
+      "data_points": [
+        "ICC warrant alleges 'no less than 32 persons' were murdered between July 2016 and end-April 2018",
+        "Rodrigo Duterte was arrested in March last year on an ICC warrant for alleged crimes against humanity",
+        "Ronald dela Rosa is 64 years old and served as former Philippine national police chief under Duterte",
+        "Sara Duterte was impeached on Monday over alleged unexplained wealth, misuse of state funds, and threats to assassinate Marcos, his wife, and the House speaker",
+        "The Senate has 24 members; Cayetano secured the presidency of the chamber with support from 13 senators",
+        "NBI agents attempted to serve the ICC arrest warrant in the Senate, but dela Rosa escaped during the chaos after gunshots were fired by security personnel"
+      ]
+    },
+    {
+      "id": "c8ad8b0ecd47",
+      "title": "US EV Policy Whiplash Forces Legacy Automakers to Retreat From Full Electrification",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c794lj90jqpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T13:25:07Z",
+      "category": "Business",
+      "region": "Japan / United States / China / Canada / India",
+      "background": "Honda reported its first annual loss in 70 years, posting an operating loss of ¥423bn ($2.68bn) for the year ending March 2026. The company said weaker-than-expected EV demand, higher costs from US tariffs on imported cars and auto parts, and the removal of the $7,500 US EV tax credit in September 2025 all hit profits. Honda is now scrapping its target for EVs to make up 20% of new car sales by 2030 and abandoning its goal of becoming fully EV by 2040, while shifting focus toward hybrids, motorcycles, and financial services. It also expects ¥512bn in EV-related losses in the next financial year and has suspended plans to build EVs and batteries in Canada.",
+      "prop_args": [
+        {
+          "thesis": "Policy instability and weak consumer demand make aggressive EV mandates commercially irrational, so governments should slow down and let automakers pivot to hybrids and other profitable lines.",
+          "mechanisms": [
+            "First, abrupt subsidy and tariff changes destroy investment certainty. This is because (1) firms like Honda make multi-year capital commitments to factories, batteries, and supply chains, (2) the removal of the $7,500 US tax credit instantly changes consumer demand, and (3) tariffs of 15% on imported cars and parts raise input costs while making long-term planning impossible.",
+            "Second, forcing a rapid EV transition creates stranded assets and balance-sheet stress. Three reasons: one, Honda has already posted a ¥423bn annual operating loss and expects another ¥512bn in EV-related losses next year; two, legacy automakers have huge fixed costs and cannot pivot as quickly as startups; three, losses reduce R&D, employment stability, and the ability to invest in safer incremental technologies like hybrids.",
+            "Third, allowing a mixed transition better matches actual consumer behavior and preserves industrial capacity. This matters because (1) Honda says it will focus on hybrids, motorcycles, and financial services, which are currently profitable, (2) hybrids can cut emissions without requiring full charging infrastructure, and (3) preserving firms' profitability keeps domestic manufacturing and supply chains alive rather than forcing bankruptcies or offshoring."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Honda's losses show that half-measures and policy backtracking delay the inevitable transition, so governments should double down on EV support and force firms to adapt faster.",
+          "mechanisms": [
+            "First, weak policy commitment creates a coordination failure that suppresses EV adoption. One, consumers hesitate without stable subsidies and charging rollout; two, firms then underinvest because demand looks uncertain; three, the result is a self-fulfilling slump that only stronger state intervention can break.",
+            "Second, legacy incumbents are using short-term losses to justify long-term strategic inertia. One, Honda initially bet on EV growth and is now retreating after overestimating demand; two, without regulatory pressure it will fall back on profitable combustion-adjacent products like hybrids; three, that locks in emissions and delays innovation by rewarding the status quo.",
+            "Third, the real competitive threat is Chinese manufacturers, so retreating from EVs cedes the future market. One, Honda is sourcing parts from China because prices are lower, showing where cost leadership already sits; two, if Japan and the US soften EV policy, Chinese firms gain scale and export dominance; three, industrial policy should protect domestic firms by accelerating the transition, not slowing it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the loss proves EVs are a bad policy target or merely that inconsistent policy implementation is bad. Prop wins if the round is about business realism and capital allocation; Opp wins if it frames the issue as a coordination problem where only sustained state support can prevent incumbents from dragging their feet.",
+      "stock_connections": [
+        "Policy Uncertainty",
+        "Stranded Assets",
+        "Industrial Policy",
+        "Creative Destruction",
+        "Race to the Bottom",
+        "Comparative Advantage",
+        "Subsidy Dependence",
+        "Transition Costs",
+        "Green Industrial Policy",
+        "Incumbent Capture"
+      ],
+      "motion_areas": [
+        "TH, as governments, would reduce EV subsidies and let the market determine the pace of electrification",
+        "THBT legacy automakers should prioritize hybrids over full EV transition",
+        "THP a world where states use tariffs and subsidies to force domestic EV production",
+        "THBT the US should reverse its rollback of EV tax credits",
+        "THBT Japan should support automakers through industrial policy rather than mandate full electrification"
+      ],
+      "data_points": [
+        "Honda posted a ¥423bn ($2.68bn) operating loss for the year ending March 2026",
+        "Honda expects ¥512bn in EV-related losses in the next financial year ending March 2027",
+        "US EV tax credits of up to $7,500 were scrapped in September 2025",
+        "US tariffs on imported cars and auto parts were reduced from 25% to 15% in 2025",
+        "Honda planned for EVs to be 20% of new car sales by 2030, but has now scrapped that target",
+        "Honda has also scrapped its target for all vehicles to be EV by 2040",
+        "Honda suspended plans to build EVs and batteries in Canada",
+        "Honda is Japan's second-largest car firm and was first listed on the stock market in 1957"
+      ]
+    },
+    {
+      "id": "c0f30ccf5bc1",
+      "title": "Lebanon-Israel Direct Talks Expose the Tradeoff Between Ceasefire Enforcement and Hezbollah Disarmament",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations?traffic_source=rss",
+      "published": "2026-05-14T13:17:28Z",
+      "category": "IR",
+      "region": "Lebanon / Israel / United States",
+      "background": "Israel and Lebanon are holding a third round of direct negotiations on Thursday and Friday, after earlier meetings in Washington on April 14 and April 23, to discuss a fragile ceasefire and the future of Hezbollah’s weapons. The talks come as Israel continues strikes across Lebanon: on Wednesday, eight people, including two children, were killed in drone attacks on vehicles on the road between southern Lebanon and Beirut, and another nine were killed elsewhere; on Thursday, Israel issued new evacuation orders in the Bekaa Valley and the south. Lebanon’s leadership is split, with President Joseph Aoun and Prime Minister Nawaf Salam backing direct talks, while Hezbollah and Speaker Nabih Berri prefer indirect negotiations.",
+      "prop_args": [
+        {
+          "thesis": "Direct negotiations are the only realistic way to lock in a ceasefire, reduce civilian casualties, and create a pathway for Lebanese state authority to replace armed non-state control in the south.",
+          "mechanisms": [
+            "First, direct talks compress the bargaining chain and make commitments harder to evade. This is because (1) Lebanon can present ceasefire violations, maps of destroyed homes, and prisoner demands in real time; (2) Israel cannot hide behind intermediaries to delay or reinterpret obligations; and (3) the US can immediately pressure both sides to implement whatever is agreed.",
+            "Second, putting Hezbollah’s disarmament onto the table strengthens the Lebanese state relative to a parallel military actor. Three reasons: one, it gives Beirut a diplomatic route to argue that only the army should deploy in the south; two, it allows the government to trade political legitimacy for security concessions; three, it reduces the space for Israel to justify open-ended strikes on the grounds that Hezbollah remains armed.",
+            "Third, even a limited armistice framework is better than indefinite escalation. This matters because (1) the current ceasefire is already being violated repeatedly; (2) continued cross-border attacks are killing civilians and destroying infrastructure; and (3) a formalized process creates a baseline for reconstruction, prisoner exchanges, and eventual stabilization."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Direct negotiations are likely to entrench Israeli coercion, fracture Lebanese politics, and hand Israel a diplomatic cover for continuing attacks while demanding unilateral Lebanese concessions.",
+          "mechanisms": [
+            "First, the talks are structurally asymmetric, so Israel gets leverage rather than compromise. One, Israel is still bombing Lebanese territory while negotiations proceed; two, Lebanon has little military leverage and is dependent on US mediation; three, Israel can use the process to demand Hezbollah disarmament without offering a credible end to strikes or withdrawal.",
+            "Second, direct talks deepen Lebanon’s internal fragmentation and weaken its bargaining position. One, the president, prime minister, and speaker disagree on the framework; two, Hezbollah rejects direct negotiations and can portray the government as serving US and Israeli interests; three, domestic division makes it harder for Beirut to enforce any agreement on the ground.",
+            "Third, the process can normalize a buffer-zone or territorial-expansion agenda under the language of security. One, Israeli officials are reportedly discussing a southern buffer zone or even annexation; two, if Lebanon accepts talks while attacks continue, Israel can claim tacit legitimacy for facts on the ground; three, that shifts the debate from ending occupation to managing it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether direct talks create enforceable restraint or simply codify coercion under US-backed mediation. Prop wins if you prioritize immediate civilian protection and the only available channel for implementation; opp wins if you think the asymmetry is so severe that negotiations mainly launder Israeli gains and deepen Lebanese fragmentation.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Asymmetric Negotiation",
+        "State Monopoly on Violence",
+        "Civil-Military Relations",
+        "Security Dilemma",
+        "Peace Process Legitimacy",
+        "Buffer Zone Logic",
+        "Foreign Mediation Bias"
+      ],
+      "motion_areas": [
+        "TH, as Lebanon, would enter direct negotiations with Israel",
+        "THBT direct negotiations are preferable to indirect mediation in asymmetric conflicts",
+        "THP a world where ceasefire enforcement is mediated solely by the United States",
+        "THBT states should prioritize disarmament of non-state armed groups even during active border conflicts"
+      ],
+      "data_points": [
+        "Third round of Lebanon-Israel face-to-face negotiations this year, after April 14 and April 23 meetings in Washington",
+        "Eight people, including two children, killed in Israeli drone strikes on Wednesday",
+        "Another nine people killed in strikes elsewhere in Lebanon on Wednesday",
+        "Israel issued new forced evacuation orders for towns in the Bekaa Valley and the south on Thursday",
+        "The current ceasefire is set to expire on Sunday",
+        "Hezbollah chief Naim Qassem said fighters would not return to the pre-March 2 status quo",
+        "Lebanon wants to use the 1949 armistice agreement as a possible framework rather than normalisation",
+        "The US is the sole mediator in the talks, with France and Egypt sidelined",
+        "Israeli officials are reportedly seeking Hezbollah disarmament, and some are discussing a southern buffer zone or annexation"
+      ]
+    },
+    {
+      "id": "f562f10cecbe",
+      "title": "Iran’s Hormuz “Cooperation” Regime Turns a Global Chokepoint Into a De Facto Toll Gate",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/14/iran-strait-of-hormuz-navy-uae",
+      "published": "2026-05-14T13:11:37Z",
+      "category": "IR",
+      "region": "Iran / United Arab Emirates / Strait of Hormuz / Gulf region",
+      "background": "Iran’s foreign minister Abbas Araghchi said on 14 May 2026 that ships entering the Strait of Hormuz must “cooperate” with the Iranian navy, after reports that a vessel anchored off Fujairah in the UAE was seized by “unauthorised personnel” and taken toward Iranian waters. Iran says it has largely closed the strait since the start of the US-Israeli bombing campaign; the article says the strait previously carried about a quarter of the world’s seaborne oil and gas supply, and thousands of ships are now stranded. The US imposed a counterblockade on Iranian ports last month, while Iran claims it has reached a deal with China allowing some oil tankers to pass after China agreed to limited charging, reportedly around $1 per barrel.",
+      "prop_args": [
+        {
+          "thesis": "Iran’s move is a rational coercive strategy that forces external powers to pay a real cost for military pressure and restores deterrence around a strategically vital chokepoint.",
+          "mechanisms": [
+            "First, it converts geography into leverage. This is because (1) the Strait of Hormuz is a narrow, unavoidable transit route for a huge share of global energy trade, (2) even partial disruption immediately raises insurance, freight, and commodity prices, and (3) that economic pain is distributed globally, so Iran can impose costs far beyond its conventional military reach.",
+            "Second, it creates bargaining power against the US and Israel. Three reasons: one, a blockade or toll regime gives Iran a concrete escalation ladder short of all-out war; two, it signals that attacks on Iranian sovereignty will be met with asymmetric retaliation rather than passive absorption; three, it forces third parties like China and Gulf states to negotiate with Iran directly instead of relying on Western naval protection.",
+            "Third, it can deter future strikes by raising the expected price of intervention. This matters because if the US-Israeli campaign produces stranded ships, higher oil prices, and diplomatic fragmentation, then future decision-makers face a clearer trade-off between hitting Iran and preserving global shipping stability."
+          ]
+        },
+        {
+          "thesis": "Iran’s actions are a defensive response to illegal external aggression, so the blame for instability lies with the US-Israeli campaign rather than Tehran’s enforcement of transit rules.",
+          "mechanisms": [
+            "First, Iran frames the crisis as retaliation against an imposed blockade. This is because (1) the article says Iran claims it has not created obstacles and that America created the blockade, (2) the US has imposed a counterblockade on Iranian ports, and (3) in conflict settings, states often respond to coercion by trying to impose reciprocal costs until the other side backs down.",
+            "Second, the move can be justified as sovereignty enforcement rather than piracy. Three reasons: one, Iran can argue ships entering its immediate maritime zone must comply with naval inspection or administrative rules; two, if the alternative is an externally imposed siege, then limited control over transit is a way to preserve regime security; three, it gives Iran a legal-political narrative to mobilize allies in BRICS and the Global South against Western double standards.",
+            "Third, it may reduce the chance of total war by creating a controlled, negotiable crisis. This matters because a predictable toll or permit system can be bargained over, whereas unconstrained bombing campaigns and regime-change pressure leave Iran with incentives to escalate unpredictably."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Iran’s seizure and toll threats are unlawful coercion that undermine freedom of navigation, provoke countercoalitions, and make regional war more likely.",
+          "mechanisms": [
+            "First, it attacks a core norm of the international system. One, the Strait of Hormuz is an international waterway central to global commerce; two, arbitrary seizure or discriminatory fees amount to extortion rather than regulation; three, once one state normalizes this behavior, others can imitate it in their own chokepoints, weakening maritime order globally.",
+            "Second, it triggers balancing behavior from major powers and Gulf states. One, the article already notes a Bahrain-US Security Council resolution backed by more than 110 countries; two, Gulf states are jointly urging Iran not to impose rules, fees, or mine threats; three, this creates a coalition logic where Iran’s coercion justifies stronger naval patrols, sanctions, and even force authorization.",
+            "Third, it harms Iran economically and strategically by scaring off neutral trade partners. One, shipping companies will reroute or demand higher premiums, reducing throughput and revenue; two, even China’s willingness to bargain is fragile and depends on short-term discounts, not durable trust; three, prolonged disruption turns Iran from a regional power into a sanctions-burdened pariah with fewer diplomatic options."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive control of Hormuz is a credible deterrent tool or a self-defeating assault on the global maritime order. Prop wins if the round is about asymmetric leverage under military pressure; opp wins if the round is about long-run legitimacy, coalition formation, and the costs of normalizing chokepoint extortion.",
+      "stock_connections": [
+        "Freedom of navigation",
+        "Coercive diplomacy",
+        "Security dilemma",
+        "Escalation ladder",
+        "Collective security",
+        "Great power competition",
+        "Sanctions and counter-sanctions",
+        "Chokepoint leverage",
+        "Maritime piracy / law of the sea",
+        "Regional deterrence"
+      ],
+      "motion_areas": [
+        "TH, as Iran, would impose transit fees and inspections in the Strait of Hormuz",
+        "THBT states should prioritize freedom of navigation over territorial maritime claims in strategic chokepoints",
+        "THP a world where regional powers can tax passage through international straits",
+        "THBT the West should not militarily police global shipping lanes in the Gulf",
+        "TH, as China, would negotiate with sanctioned states to keep energy chokepoints open"
+      ],
+      "data_points": [
+        "The Strait of Hormuz previously carried about a quarter of the world’s seaborne supply of oil and gas",
+        "Thousands of ships are reported stranded after Iran’s partial closure of the strait",
+        "The US imposed a counterblockade on Iranian ports last month",
+        "More than 110 nations are co-sponsoring a UN Security Council resolution condemning the Iranian blockade",
+        "A previous Security Council resolution was vetoed by Russia and China on 7 April",
+        "Reports suggest China agreed to limited charging of around $1 per barrel for tankers passing through the strait",
+        "The initial draft resolution would have authorized member states to use “all necessary means” to secure transit passage through Hormuz",
+        "A joint letter from six Gulf states asked Iran not to impose rules, fees, threats of mine laying, or discriminatory measures restricting navigation"
+      ]
+    },
+    {
+      "id": "fac6b69c02b8",
+      "title": "UK Economy Proves More Resilient Than Expected, But Gulf Energy Shock Still Threatens Consumer Demand",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T13:08:42Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "The BBC reports that the UK economy grew by 0.6% in the first quarter of 2026, despite the Iran war and the associated energy shock. GDP per capita also rose at its fastest pace in four years, since the start of the energy shock after Russia’s invasion of Ukraine. The UK is currently the fastest-growing G7 economy, even though the IMF had forecast last month that it would be the hardest hit in the group; however, consumer confidence has weakened as fuel and mortgage costs rise, and some sectors such as machinery, equipment, and administrative services have already slowed.",
+      "prop_args": [
+        {
+          "thesis": "The UK economy is proving that energy shocks do not automatically translate into broad-based recession, because policy buffers and sectoral resilience can offset external shocks.",
+          "mechanisms": [
+            "First, the UK has insulated household demand better than expected. This is because (1) domestic energy bills have been protected, (2) the shock is more oil-driven than gas-driven, and (3) Britain is less sensitive to gas prices than it was in previous crises, so the immediate hit to real incomes is smaller.",
+            "Second, the growth mix is healthier than a simple headline GDP number suggests. Three reasons: one, GDP rose 0.6% in Q1, which is strong relative to recent sluggish history; two, GDP per capita also improved at its fastest pace in four years, meaning the gains are not just population-driven; three, services, construction, and manufacturing all expanded, showing breadth rather than a single-sector bounce.",
+            "Third, resilience today creates self-reinforcing confidence effects. This matters because if firms see the UK outperforming the G7 and consumers see the economy absorbing the shock, investment in sectors like AI, tech, and professional services is more likely to continue, which supports employment and tax receipts even if external conditions remain volatile."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The apparent resilience is fragile and temporary, because the real economy is already absorbing higher fuel, mortgage, and input costs that will hit consumption and investment with a lag.",
+          "mechanisms": [
+            "First, consumer demand is the transmission channel that matters most for medium-term growth. One, consumer confidence has already fallen; two, higher fuel costs directly squeeze disposable income; three, rising fixed mortgage rates raise monthly repayments and reduce spending on non-essentials, so today’s GDP strength can fade quickly.",
+            "Second, sectoral weakness shows the shock is unevenly damaging productive capacity. One, machinery and equipment output fell, which is bad for future investment and productivity; two, administrative services also declined, suggesting business services are not immune; three, house building is at risk from higher mortgage rates, which can spill over into construction employment and related supply chains.",
+            "Third, the UK’s outperformance may simply reflect timing and temporary protections rather than structural strength. One, Q1 growth can be flattered by a fast start that later fades; two, the IMF’s forecast may still prove right if the Strait of Hormuz disruption persists; three, once energy and financing costs fully pass through, the UK could revert to stagnation rather than sustained expansion."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-run headline resilience and medium-run household squeeze. Prop wins if the question is whether the UK can absorb shocks better than expected; Opp wins if the clash is about whether that resilience is durable, because consumer confidence, mortgage costs, and sectoral weakness create a lagged drag that GDP has not yet fully reflected.",
+      "stock_connections": [
+        "Shock Absorption",
+        "Cost-Push Inflation",
+        "Consumer Confidence",
+        "Crowding Out",
+        "Investment-Led Growth",
+        "Dutch Disease",
+        "Sectoral Reallocation",
+        "Energy Security",
+        "Supply-Side Resilience",
+        "Recession Lag"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would prioritize energy price protection over fiscal austerity during external shocks",
+        "THBT the UK economy is more resilient than its critics claim",
+        "THP a world where governments shield households from energy shocks even at the cost of higher public spending",
+        "THBT short-term GDP growth is a misleading indicator of economic health during inflationary shocks",
+        "TH, as the Chancellor, would bet on consumer support rather than supply-side tightening in response to an oil shock"
+      ],
+      "data_points": [
+        "UK GDP grew by 0.6% in Q1 2026 (January to March)",
+        "UK GDP per capita rose at its fastest pace in four years",
+        "The UK is currently the fastest-growing G7 economy",
+        "The IMF had forecast last month that the UK would be the hardest hit economy in the G7 from the Iran war",
+        "Consumer confidence has weakened in the latest data as fuel and mortgage costs rise",
+        "Services, construction, and manufacturing all grew in the latest quarter",
+        "Machinery and equipment output fell, and administrative services activities declined",
+        "House building is flagged as a sector to watch due to rising fixed mortgage rates"
+      ]
+    },
+    {
+      "id": "6fe5dd63ee43",
+      "title": "Trump-Xi Summit Signals Tactical Thaw, But Taiwan and Iran Keep US-China Rivalry Alive",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T13:02:13Z",
+      "category": "IR",
+      "region": "China / United States",
+      "background": "Donald Trump began a high-profile visit to China with a ceremonial welcome at the Great Hall of the People, including a military honour guard, gun salute, and banquet with major US CEOs such as Elon Musk, Tim Cook, and Nvidia chief Jensen Huang. The visit comes after a fragile trade truce following last year’s tariff escalation, when both sides imposed tariffs above 100% before lowering them. The White House said the talks covered expanding US firms’ access to China, Chinese investment in US industries, Iran, and keeping the Strait of Hormuz open, while Beijing signalled that Taiwan remains a core red line.",
+      "prop_args": [
+        {
+          "thesis": "A managed US-China thaw is strategically useful because it lowers the risk of accidental escalation while creating bargaining space on trade, Iran, and market access.",
+          "mechanisms": [
+            "First, direct leader-level engagement reduces miscalculation. This is because (1) both sides can signal red lines clearly instead of through tariffs, sanctions, or military posturing, (2) the summit creates a channel to deconflict flashpoints like Taiwan and the Strait of Hormuz, and (3) even a limited understanding is better than an open-ended tariff war that had already crossed 100% on both sides.",
+            "Second, the deal structure gives both sides concrete incentives to moderate behavior. Three reasons: one, China can trade cooperation on Iran and market access for relief from US pressure; two, the US can secure Chinese help on shipping lanes and energy stability; three, business stakeholders like Apple, Nvidia, and other multinationals gain predictability, which reduces supply-chain shocks.",
+            "Third, this matters because stability between the two largest powers has global spillovers. The biggest delta in this debate is that a calibrated thaw can prevent a broader economic and security crisis by preserving trade flows, keeping rare earths and manufacturing inputs moving, and avoiding a spiral where every dispute becomes a systemic confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This summit is mostly symbolic and risks legitimising coercive bargaining, making future US concessions more likely without resolving the core strategic conflict.",
+          "mechanisms": [
+            "First, the optics of flattery reward China’s hard-power leverage. One, Beijing can use ceremonial diplomacy to project parity with the US and weaken the image of American dominance; two, it signals that economic dependence on Chinese manufacturing and rare earths can be converted into political influence; three, it encourages China to keep using market access and export controls as bargaining chips.",
+            "Second, the summit does not solve the underlying flashpoints. One, Taiwan remains a legal and military red line for Washington and Beijing’s core sovereignty claim; two, Iran cooperation is transactional and can collapse once leverage is extracted; three, the absence of released details means the truce is fragile and reversible, especially if Trump needs a domestic win and Xi wants concessions on arms sales or technology.",
+            "Third, this could worsen long-term US credibility and deterrence. One, allies like Taiwan may read the meeting as evidence that Washington will trade away security commitments for short-term economic relief; two, China learns that pressure works because tariffs, rare earth restrictions, and market access threats force the US back to the table; three, that creates a precedent for future coercion rather than durable rules-based engagement."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether engagement buys stability or merely postpones confrontation on worse terms. Pro wins if the judge prioritises immediate risk reduction and economic predictability; opp wins if the judge thinks structural rivalry and coercive leverage mean any thaw is temporary and strategically costly.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Economic Interdependence",
+        "Coercive Diplomacy",
+        "Deterrence",
+        "Trade War",
+        "Supply Chain Vulnerability",
+        "Alliance Credibility"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue a grand bargain with China",
+        "THBT the US should prioritise economic détente over strategic containment of China",
+        "THP a world where major powers resolve disputes through leader-level transactional summits",
+        "THBT developing great powers should use trade dependence as leverage in foreign policy"
+      ],
+      "data_points": [
+        "Last year the US and China imposed tariffs that crossed 100% on each other before a fragile truce lowered them",
+        "China now makes around one-third of the world’s goods",
+        "China processes more than 90% of the world’s rare earth minerals",
+        "China produces around 60% to 80% of global solar panels, wind turbines, and electric vehicles",
+        "The summit included business leaders such as Elon Musk, Tim Cook, and Nvidia CEO Jensen Huang",
+        "The White House said the two sides discussed expanding US firms’ access to the Chinese market and Chinese investment in US industries",
+        "China is the biggest trading partner of Iran",
+        "The Strait of Hormuz carries a major share of global energy flows and was described as blocked/rattled in the article",
+        "China faces rising unemployment, uneven growth, a real estate crisis, and high local government debt",
+        "Trump invited Xi to the White House in September"
+      ]
+    },
+    {
+      "id": "2e1281eb53ee",
+      "title": "Trump’s Aquaculture Push Risks Normalizing Industrial Fish Cruelty and Coastal Pollution",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/14/seafood-company-abuse-claims-fish-farming",
+      "published": "2026-05-14T12:30:07Z",
+      "category": "Econ",
+      "region": "United States / Maine",
+      "background": "The Trump administration has launched a national seafood office and is seeking to expand US aquaculture to reduce the seafood trade deficit, noting that about 80% of seafood consumed in the US is imported, mainly from Canada, Chile, India, and Indonesia. The article centers on Cooke Aquaculture’s salmon hatchery in Bingham, Maine, where an undercover video by Animal Outlook allegedly showed workers clubbing fish, kicking them, cutting into live fish, and leaving deformed or infected fish to die. Maine regulators have opened an investigation, and the Best Aquaculture Practices certification body has also launched a review of the facility.",
+      "prop_args": [
+        {
+          "thesis": "Expanding US aquaculture under Trump will industrialize seafood production in ways that systematically worsen animal welfare, environmental harm, and regulatory capture.",
+          "mechanisms": [
+            "First, scale itself creates cruelty incentives. This is because (1) mass production rewards throughput over care, so workers are pressured to treat fish as units of output rather than sentient animals; (2) dense stocking makes disease, deformities, and culling routine, which normalizes blunt-force killing and neglect; and (3) repeated scandals, like the 2019 and 2026 videos at the same Maine facility, show that abuses are not isolated but built into the production model.",
+            "Second, expansion increases ecological externalities. Three reasons: one, fish farms concentrate waste, so nitrogen and phosphorus runoff can create dead zones and damage surrounding ecosystems; two, escaped farmed fish can interbreed with or displace wild populations, altering local gene pools; three, dense pens and hatcheries allow parasites and disease to spread from farms into wild stocks, meaning private output gains are subsidized by public environmental losses.",
+            "Third, the policy will entrench weak oversight and certification theater. This matters because (1) the USDA is explicitly trying to sweep aside regulations to accelerate growth, so enforcement lags behind expansion; (2) third-party labels like BAP can legitimize abusive facilities and mislead consumers into thinking welfare is protected; and (3) once capital is sunk into hatcheries and coastal infrastructure, regulators become politically captured by jobs-and-output arguments, making later reform much harder."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Expanding domestic aquaculture is a rational way to improve food security, reduce import dependence, and shift seafood demand away from more ecologically destructive wild-catch systems.",
+          "mechanisms": [
+            "First, domestic production reduces strategic dependence on foreign suppliers. One, the US currently imports about 80% of its seafood, so expansion lowers exposure to foreign supply shocks, trade disputes, and shipping disruptions; two, local production keeps more value-added activity inside the US economy; three, it gives the government leverage to stabilize prices and supply for consumers.",
+            "Second, aquaculture can be more efficient than alternative animal protein systems. One, the USDA argues it has feed efficiencies comparable to poultry and uses minimal freshwater, so it can produce protein with lower land and water intensity than beef or pork; two, farmed seafood can reduce pressure on overfished wild stocks; three, controlled production can in principle allow better monitoring of disease, inputs, and output than dispersed wild capture.",
+            "Third, the harms are regulatory, not inherent, so the answer is better standards rather than blocking the industry. One, the existence of a bad facility does not prove all farms are abusive; two, state and federal investigations, plus certification scrutiny, can raise compliance over time; three, if demand for seafood is growing anyway, domestic aquaculture is preferable to outsourcing production to countries with even weaker welfare and environmental rules."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether aquaculture is treated as an inherently harmful industrial model or a manageable production system that can be improved through regulation. Prop wins if the round is about structural incentives, because scale and profit pressure make abuse and pollution predictable; opp wins if the round is about food security and import substitution, because those benefits are immediate and politically salient.",
+      "stock_connections": [
+        "Industrial farming",
+        "Regulatory capture",
+        "Race to the bottom",
+        "Negative externalities",
+        "Food security",
+        "Import substitution",
+        "Certification failure",
+        "Environmental degradation",
+        "Animal welfare",
+        "Tragedy of the commons"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would aggressively expand domestic aquaculture",
+        "THBT governments should prioritize seafood self-sufficiency over environmental concerns",
+        "THP a world where fish farming is treated like poultry farming",
+        "THBT certification schemes are a sufficient safeguard for industrial food production",
+        "THBT states should ban open-net pen aquaculture"
+      ],
+      "data_points": [
+        "About 80% of seafood consumed in the US is imported, mainly from Canada, Chile, India, and Indonesia",
+        "The US aquaculture industry is worth about $4bn",
+        "There are about 3,500 aquaculture farms across the US",
+        "Maine regulators have opened an investigation into Cooke Aquaculture’s Bingham hatchery",
+        "Washington state banned commercial net pen aquaculture last year",
+        "The USDA launched the first national office of seafood last month",
+        "Cooke Aquaculture’s salmon hatchery in Bingham, Maine, is BAP-certified through the True North brand"
+      ]
+    },
+    {
+      "id": "933fb641c798",
+      "title": "Xi’s Taiwan Warning Turns US-China Rapprochement Into a Coercive Stability Test",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/first-thing-xi-trump-meeting-china-taiwan",
+      "published": "2026-05-14T12:26:48Z",
+      "category": "IR",
+      "region": "China / United States / Taiwan / East Asia",
+      "background": "Donald Trump and Xi Jinping met for two hours in Beijing at the Great Hall of the People on 14 May 2026. After the meeting, China’s foreign ministry said Xi called Taiwan “the most important issue in China-US relations” and warned of “clashes and even conflicts” if the dispute worsens. Beijing wants Washington to reduce support for Taiwan, which is self-governing but claimed by China, and Xi has made “unification” a core legacy goal while not ruling out force.",
+      "prop_args": [
+        {
+          "thesis": "A harder US line on Taiwan is necessary because ambiguity only invites Chinese coercion and raises the odds of a future war on worse terms for the US and its allies.",
+          "mechanisms": [
+            "First, deterrence works through credible costs, and reducing support for Taiwan would signal that military pressure pays. This is because (1) Beijing already frames Taiwan as the central issue in the relationship, (2) Xi has explicitly warned of “clashes and even conflicts,” and (3) any visible US retrenchment would be read in Beijing as a green light to intensify gray-zone pressure, blockade planning, and military signaling.",
+            "Second, stronger support for Taiwan preserves the regional balance by reassuring allies that the US security guarantee is real. Three reasons: one, Japan, South Korea, and the Philippines calibrate their own defense posture based on US resolve; two, if they doubt Washington, they hedge by accommodating China or pursuing independent militarization; three, that weakens the entire US-led alliance architecture in East Asia.",
+            "Third, the strategic cost of losing Taiwan is larger than the short-term cost of confrontation. This matters because Taiwan sits at the center of the first island chain and is a major node in advanced semiconductor supply chains, so allowing coercion to succeed would shift the military balance and create a precedent that territorial revision by force can work."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The US should reduce Taiwan support because escalation over an issue China treats as existential creates unnecessary war risk and undermines broader US interests.",
+          "mechanisms": [
+            "First, Taiwan is a classic security dilemma where each side’s defensive moves look offensive to the other. One, more US arms and political backing can convince Beijing that peaceful reunification is closing; two, that increases incentives for preemption before Taiwan becomes more entrenched; three, the result is a higher probability of crisis spirals, miscalculation, and accidental war.",
+            "Second, de-prioritizing Taiwan can buy space for cooperation on issues that affect far more people. One, the meeting agenda also included the Middle East, Ukraine, and the Korean peninsula, showing the relationship is broader than Taiwan; two, the US needs Chinese coordination on sanctions enforcement, nuclear risk, and trade stability; three, sacrificing one flashpoint may preserve channels on multiple global crises.",
+            "Third, overcommitting to Taiwan can trap the US in an expensive and potentially unwinnable commitment. This is because (1) the geographic distance makes sustained intervention costly, (2) China has escalation dominance near its own coast, and (3) ambiguity lets Washington avoid a public credibility trap where it must either fight a major war or abandon a formal promise."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether deterrence or provocation dominates. Pro wins if the judge prioritizes preventing a revisionist power from learning that coercion works; opp wins if they think the marginal risk of escalation from US support is larger than the long-run cost of appeasement.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Credibility and Signaling",
+        "Alliance Politics",
+        "Balance of Power",
+        "Appeasement",
+        "Escalation Spiral",
+        "Great Power Competition"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would increase military support for Taiwan",
+        "THBT the US should end strategic ambiguity over Taiwan",
+        "THP a world where the US reduces support for Taiwan to prioritize broader China cooperation"
+      ],
+      "data_points": [
+        "Xi and Trump met for two hours in Beijing’s Great Hall of the People on 14 May 2026",
+        "Xi said Taiwan was “the most important issue in China-US relations” and warned of “clashes and even conflicts”",
+        "China wants the US to reduce its levels of support for Taiwan",
+        "The article notes the US is entering talks with China from a “vulnerable position”",
+        "The meeting also covered the Middle East war, the Ukraine conflict, and the Korean peninsula"
+      ]
+    },
+    {
+      "id": "692e34707fe0",
+      "title": "Aid Cuts and Conflict Turn Childhood Vaccination Into a High-Return Test of Global Health Priorities",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/childhood-immunization-must-continue-in-conflict-zones-by-david-miliband-2026-05",
+      "published": "2026-05-14T12:18:29Z",
+      "category": "IR",
+      "region": "Global (conflict zones; low- and middle-income countries)",
+      "background": "The article argues that childhood immunization has stalled globally after decades of progress, with global-health financing reportedly down by up to 40% compared with 2023. Around half of the world’s 14 million never-vaccinated children live in fragile and conflict-affected settings, where delivery has been disrupted by pandemic-era shocks and weak state capacity. The International Rescue Committee says its REACH program, funded by Gavi, has delivered more than 30 million vaccine doses since 2022 across Chad, Ethiopia, Nigeria, Somalia, Sudan, and South Sudan, vaccinating over one million zero-dose children at less than $2 per dose even in active conflict zones.",
+      "prop_args": [
+        {
+          "thesis": "International donors should prioritize and scale vaccination delivery in conflict zones because it is one of the cheapest, highest-return interventions available in global health.",
+          "mechanisms": [
+            "First, this is an unusually efficient use of scarce aid money. This is because (1) a single dose can cost less than $2 to administer even in active conflict zones, (2) every $1 invested in immunization in low- and middle-income countries reportedly saves $20 in health-care costs and lost wages and productivity, and (3) the full benefits rise to more than $50 when longer, healthier lives are counted.",
+            "Second, targeting zero-dose children in fragile settings produces outsized mortality gains. Three reasons: one, around half of the 14 million never-vaccinated children live in fragile and conflict-affected settings; two, children there are three times more likely to die before age five than peers in stable settings; three, immunization averts future outbreaks that would otherwise impose much larger downstream health and economic costs.",
+            "Third, funding local delivery models is the only way to reach the hardest-to-reach populations. This matters because (1) governments and external actors often cannot operate in active conflict zones, (2) community health workers and local partners have the trust and terrain knowledge needed for last-mile delivery, and (3) the REACH model shows that multiyear, locally embedded systems can scale to millions of doses and one million zero-dose children reached."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Donors should not over-prioritize vaccination in conflict zones because weak governance, insecurity, and aid scarcity make these programs less durable and less cost-effective than they appear.",
+          "mechanisms": [
+            "First, conflict settings create severe implementation leakage and sustainability problems. One, external actors often cannot safely access the most remote areas, so coverage gains are fragile and uneven; two, local partners may lack the capacity to maintain cold chains, staffing, and follow-up after donor exit; three, repeated disruptions mean money buys temporary doses rather than durable health-system strengthening.",
+            "Second, scarce global-health funding should be allocated where it can be absorbed and scaled most reliably. One, a 40% decline in global-health financing means opportunity costs are now much higher; two, funds diverted to high-risk conflict settings may crowd out broader immunization systems in stable low-income countries; three, donors may get better population-level returns by investing in routine primary care, surveillance, and health infrastructure rather than narrow delivery campaigns."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether marginal aid dollars should chase the hardest-to-reach children or the most scalable systems. Prop wins if the round is about cost-effectiveness and immediate mortality reduction; opp wins if the clash is sustainability and whether conflict settings can reliably absorb aid without leakage or dependency.",
+      "stock_connections": [
+        "Cost-effectiveness of aid",
+        "Last-mile delivery",
+        "State capacity",
+        "Humanitarian intervention",
+        "Dependency Theory",
+        "Aid effectiveness",
+        "Public goods",
+        "Global health security",
+        "Moral hazard"
+      ],
+      "motion_areas": [
+        "TH, as international donors, would prioritize vaccination campaigns in conflict zones over broader health-system strengthening",
+        "THBT Gavi should shift more funding toward last-mile delivery through local partners in fragile states",
+        "THP a world where global health aid is allocated primarily by cost-effectiveness rather than state capacity",
+        "THBT international organizations should fund local civil-society delivery networks directly for immunization in conflict settings"
+      ],
+      "data_points": [
+        "Global-health financing has fallen by up to 40% compared with 2023",
+        "Around half of the world’s 14 million never-vaccinated children live in fragile and conflict-affected settings",
+        "Children in fragile and conflict-affected settings are three times more likely to die before age five than peers in stable settings",
+        "More than 70% of cases of epidemic-prone diseases now originate in fragile and conflict-affected settings",
+        "A single vaccine dose can cost less than $2 to administer even in active conflict zones",
+        "Every $1 invested in immunization in low- and middle-income countries saves $20 in health-care costs and lost wages and productivity, and more than $50 including longer, healthier lives",
+        "REACH has delivered more than 30 million vaccine doses since 2022",
+        "REACH has vaccinated more than one million zero-dose children",
+        "REACH operates in Chad, Ethiopia, Nigeria, Somalia, Sudan, and South Sudan"
+      ]
+    },
+    {
+      "id": "0be56cbb4c0b",
+      "title": "Taiwan Ambiguity Faces a Direct Test as Xi Signals Conflict Risk to Trump",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/xi-warns-trump-of-clashes-if-taiwan-issue-mishandled-video",
+      "published": "2026-05-14T12:09:44Z",
+      "category": "IR",
+      "region": "China; Taiwan; United States",
+      "background": "Xi Jinping warned Donald Trump of a potential conflict if the Taiwan issue is mishandled during a nearly two-and-a-half-hour meeting at the Great Hall of the People in Beijing on Thursday. The meeting was the first trip to China by a sitting US president in nearly a decade and began with a formal welcome ceremony in central Beijing. China released a readout of Xi's remarks while the meeting was still underway, putting Taiwan at the center of the talks.",
+      "prop_args": [
+        {
+          "thesis": "A harder US line on Taiwan is necessary because ambiguity only invites Chinese coercion and increases the chance of a worse war later.",
+          "mechanisms": [
+            "First, strategic ambiguity can become strategic drift. This is because (1) Beijing learns that incremental pressure on Taiwan does not trigger a decisive US response, (2) that encourages more gray-zone actions such as military drills, air incursions, and diplomatic isolation, and (3) each successful probe shifts the baseline until a crisis becomes more likely and more dangerous.",
+            "Second, clearer deterrence reduces miscalculation. Three reasons: one, explicit US commitments make the costs of escalation legible to Beijing; two, they reassure Taiwan and reduce incentives for unilateral panic moves; three, they strengthen allied coordination by signaling that the US will actually defend the regional order it claims to uphold.",
+            "Third, this matters because the biggest risk is not confrontation itself but a surprise conflict on worse terms. If China believes the US will always back down, it can time coercion when US credibility is weakest; if the US draws a firmer line now, it may prevent a much larger war over a fait accompli later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The US should preserve ambiguity and de-escalate because overreacting on Taiwan increases the chance of a catastrophic great-power clash.",
+          "mechanisms": [
+            "First, ambiguity gives both sides room to save face. One, it lets the US deter China without forcing Beijing into a public humiliation trap; two, it reduces domestic pressure in China for nationalist retaliation; three, it keeps crisis management channels open when leaders need off-ramps.",
+            "Second, explicit hardening of the US position can trigger the security dilemma. One, Beijing may interpret stronger US guarantees as containment rather than deterrence; two, that can accelerate Chinese military modernization and preemptive planning; three, it raises the probability that a routine incident becomes a spiral into war.",
+            "Third, Taiwan is not just a credibility issue but a nuclear-risk issue. One, both sides have incentives to avoid backing down once mobilized; two, the closer the US gets to formal commitment, the more any clash risks direct US-China war; three, the costs of miscalculation in a Taiwan crisis are so extreme that restraint is the safer grand strategy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether deterrence or provocation dominates. Pro wins if the round is about preventing a future fait accompli and preserving the regional order; opp wins if the judge prioritizes crisis stability and the risk that clearer commitments harden Chinese threat perceptions into immediate escalation.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Deterrence Theory",
+        "Credibility and Commitment Problems",
+        "Great Power Competition",
+        "Escalation Ladders",
+        "Alliance Signaling",
+        "Nuclear Brinkmanship",
+        "Gray-Zone Conflict"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would abandon strategic ambiguity over Taiwan",
+        "THBT the United States should make an explicit military commitment to defend Taiwan",
+        "THP a world where the US and China negotiate a formal Taiwan security arrangement",
+        "THBT great powers should prioritize crisis stability over deterrent credibility in territorial disputes"
+      ],
+      "data_points": [
+        "The Trump-Xi meeting lasted nearly two-and-a-half hours at the Great Hall of the People in Beijing",
+        "This was the first trip to China by a sitting US president in nearly a decade",
+        "China issued a readout of Xi's remarks while the meeting was still underway",
+        "The article reports Xi explicitly warned of 'potential conflict' if the Taiwan issue is mishandled"
+      ]
+    },
+    {
+      "id": "88268439e760",
+      "title": "Zero State Income Tax Plans Trade Broad-Based Revenue for Regressive Sales Taxes and Public Service Cuts",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/state-income-tax-cuts-republicans-missouri",
+      "published": "2026-05-14T12:00:25Z",
+      "category": "Econ",
+      "region": "United States (Missouri, Kansas)",
+      "background": "Missouri Republicans are backing a constitutional amendment to phase out the state income tax, with voters expected to decide in August or November 2026. The proposal is being sold as a way to boost competitiveness and let workers keep more of their earnings, but critics say it would require either major spending cuts or a broader sales tax that would shift the burden onto lower- and middle-income residents. The debate is shaped by Kansas’s 2010s tax-cut experiment, which produced a $900m budget shortfall and forced the legislature to roll back most of the cuts in 2017. Similar income-tax reduction bills have also recently passed in Georgia, South Carolina, and West Virginia.",
+      "prop_args": [
+        {
+          "thesis": "Eliminating the state income tax is a pro-growth tax reform that can make Missouri more competitive, attract investment, and leave residents with more take-home pay.",
+          "mechanisms": [
+            "First, it improves after-tax returns on work and investment. This is because (1) higher earners and business owners keep a larger share of marginal income, (2) that increases the incentive to locate firms, expand payrolls, and report income in-state, and (3) states with lower headline tax burdens can market themselves more aggressively in interstate competition.",
+            "Second, it can create a stronger business-climate signal even if the direct fiscal effect is gradual. Three reasons: one, firms often compare total tax burden across states when choosing where to expand; two, eliminating income tax simplifies the tax code and reduces compliance friction; three, the policy can attract mobile professionals who are choosing between Missouri and no-income-tax states like Florida or Tennessee.",
+            "Third, if paired with revenue growth and loophole closure, the policy can avoid Kansas-style collapse. This matters because the pro side can argue the problem in Kansas was not tax reform per se but an unbalanced rollout; a phased, revenue-triggered approach gives the state room to cut taxes only when the base expands, preserving essential services while still lowering rates over time."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Zero state income tax is a regressive fiscal gimmick that shifts the burden onto consumption taxes, weakens public services, and fails to generate the promised growth.",
+          "mechanisms": [
+            "First, it forces the state to replace a progressive revenue source with a regressive one. One, income taxes are paid more by high earners, while sales taxes hit everyone on consumption; two, if Missouri expands sales taxes to make up the lost revenue, households making $49,000 to $80,000 would pay about $535 more annually; three, elderly and lower-income residents who pay little income tax still face higher prices on essentials.",
+            "Second, it creates a structural budget squeeze that degrades public goods. One, Missouri already cannot easily raise alternative revenue because voters approved a 2016 amendment blocking new sales taxes on services or transactions; two, schools and state services are the easiest place to absorb the shortfall; three, Kansas showed the endgame: a $900m budget gap and at least eight school districts ending the academic year early in 2015.",
+            "Third, the growth story is empirically weak. One, the article cites a 2015 National Tax Journal report finding marginal tax rates have no impact on employment and only small effects on firm formation; two, most savings for top earners are likely to flow into financial assets rather than local job creation; three, states like South Dakota show that simply removing income tax does not automatically produce a flood of migration."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a speculative competitiveness gain and a concrete, immediate revenue loss. The opposition has the structural advantage because the downside is mechanically certain—someone must pay for schools and services—while the pro side depends on uncertain migration and investment responses that the article’s own evidence says are weak.",
+      "stock_connections": [
+        "Race to the Bottom",
+        "Regressive Taxation",
+        "Fiscal Austerity",
+        "Public Goods Underprovision",
+        "Trickle-Down Economics",
+        "Tax Competition",
+        "Brain Drain",
+        "State Capacity"
+      ],
+      "motion_areas": [
+        "TH, as Missouri, would eliminate the state income tax",
+        "THBT states should phase out income taxes in favor of consumption taxes",
+        "THP a world where US states compete primarily through low-tax regimes",
+        "THBT governments should prioritize tax cuts over public service spending"
+      ],
+      "data_points": [
+        "Kansas’s income-tax cuts left a $900m budget shortfall",
+        "At least eight Kansas school districts ended the academic year early in 2015",
+        "Missouri voters may decide the amendment in August or November 2026",
+        "If Missouri recoups revenue through sales taxes, people earning $49,000-$80,000 would pay an average of $535 more per year",
+        "Missouri already cannot impose new sales taxes on services or transactions due to a 2016 voter-approved amendment",
+        "A 2015 National Tax Journal report found marginal tax rates generally have no impact on employment and only economically small effects on firm formation",
+        "North Carolina state funding per student fell from $9,053 in 2003 to $7,869 in 2025",
+        "North Carolina is the only state where teacher salaries decreased between 2024 and 2025, according to the NEA",
+        "Nine US states currently have no state income tax"
+      ]
+    },
+    {
+      "id": "78bf6b968cd3",
+      "title": "Rare Conviction of Nigerian Power Minister Exposes Corruption as Core Driver of the Electricity Crisis",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T11:44:22Z",
+      "category": "Econ",
+      "region": "Nigeria",
+      "background": "Saleh Mamman, Nigeria's former power minister from 2015 to 2021 under President Muhammadu Buhari, was sentenced in Abuja to 75 years in prison for laundering 33.8 billion naira ($24.7 million) across 12 counts. The court also ordered him to repay 22 billion naira ($16 million), and the Economic and Financial Crimes Commission said he had been \"out of circulation\" and \"without trace\" after the conviction. The case is part of a wider anti-corruption drive that has also touched other senior former officials, while Nigeria continues to suffer chronic electricity shortages despite being one of Africa's largest energy producers.",
+      "prop_args": [
+        {
+          "thesis": "High-profile anti-corruption convictions can improve state capacity by making elite theft riskier, which is a precondition for fixing Nigeria's power sector and broader economic performance.",
+          "mechanisms": [
+            "First, punishment raises the expected cost of stealing public funds. This is because (1) officials and contractors now face a credible risk of jail, asset recovery, and public disgrace, (2) the EFCC can use a rare conviction as a precedent to pursue other cases, and (3) the fear of enforcement makes it harder to treat ministries as private cash machines.",
+            "Second, it improves investor and bureaucratic confidence in the sector. Three reasons: one, power projects depend on long time horizons and large capital commitments, two, credible enforcement reduces the probability that contracts will be diverted or inflated, and three, cleaner procurement makes it easier for both domestic and foreign firms to bid into infrastructure.",
+            "Third, it creates political pressure for service delivery rather than patronage. This matters because (1) Nigerians are already linking corruption to blackouts, (2) public anger can force ruling parties to prioritize visible reforms, and (3) once corruption is framed as a governance failure rather than normal politics, it becomes harder for elites to justify underinvestment in electricity."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A single conviction is mostly symbolic and will not fix systemic corruption or Nigeria's electricity crisis, which are driven by deeper institutional and political incentives.",
+          "mechanisms": [
+            "First, enforcement is selective and therefore not transformative. One, the article itself shows multiple ongoing probes against other former ministers, which suggests corruption is widespread rather than exceptional, two, selective prosecution can be used for factional politics instead of genuine reform, and three, if elites believe only a few people will be punished, the deterrent effect stays weak.",
+            "Second, the power sector's failures are structural, not just criminal. One, Nigeria still suffers from chronic generation, transmission, and distribution bottlenecks, two, households and firms rely on generators because the grid is unreliable, and three, even honest ministers cannot quickly fix decades of underinvestment, fuel-price shocks, and weak utilities.",
+            "Third, harsh anti-corruption theatrics can even backfire. One, if the state focuses on punishing individuals instead of reforming procurement and institutions, the public gets catharsis without capacity, two, political elites may become more cautious about taking office or investing in long-term projects for fear of later prosecution, and three, this can deepen risk aversion rather than improve delivery."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the conviction changes incentives at the top or just produces a one-off headline. Prop wins if they show credible deterrence and precedent effects; opp wins if they prove Nigeria's electricity crisis is rooted in structural undercapacity and selective enforcement that one verdict cannot meaningfully shift.",
+      "stock_connections": [
+        "Corruption",
+        "State Capacity",
+        "Institutional Reform",
+        "Selective Enforcement",
+        "Principal-Agent Problems",
+        "Infrastructure Deficit",
+        "Public Goods Failure",
+        "Patronage Politics",
+        "Anti-Corruption Campaigns"
+      ],
+      "motion_areas": [
+        "TH, as Nigeria, would prioritize high-profile anti-corruption prosecutions over rapid infrastructure spending",
+        "THBT anti-corruption crackdowns are more effective than subsidy-based reforms in fixing public utilities",
+        "THP a world where senior officials are routinely jailed for corruption in developing states"
+      ],
+      "data_points": [
+        "33.8 billion naira ($24.7 million) laundered in the Mamman case",
+        "75-year prison sentence handed down in Abuja",
+        "22 billion naira ($16 million) ordered to be repaid by the court",
+        "Saleh Mamman served as Nigeria's power minister from 2015 to 2021",
+        "Nigeria is one of Africa's largest energy producers but still faces chronic blackouts",
+        "Households and companies widely rely on fuel-powered generators due to grid unreliability"
+      ]
+    },
+    {
+      "id": "a31ba73da902",
+      "title": "Taiwan Becomes the Core Bargaining Chip in a U.S.-China Superpower Summit",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-14/china-s-taiwan-warning-adds-to-trump-pressure-on-world-stage",
+      "published": "2026-05-14T11:43:42Z",
+      "category": "IR",
+      "region": "China / Taiwan / United States",
+      "background": "On May 14, 2026, Chinese President Xi Jinping warned U.S. President Donald Trump in Beijing that the Taiwan issue could push the two countries into \"conflict\" if mishandled. The warning came as the two leaders opened a superpower summit in Beijing, with Taiwan emerging as one of the most sensitive issues on the agenda. The article frames the statement as an early signal of pressure on Trump as the summit begins.",
+      "prop_args": [
+        {
+          "thesis": "Making Taiwan the centerpiece of summit diplomacy reduces the risk of accidental escalation by forcing both sides to clarify red lines and manage expectations.",
+          "mechanisms": [
+            "First, direct leader-to-leader signaling lowers miscalculation. This is because (1) ambiguity is most dangerous when militaries and bureaucracies infer intentions from exercises or patrols, (2) explicit warnings force each side to define what actions would trigger retaliation, and (3) crisis communication at the top can override hawkish subordinates who might otherwise escalate on their own.",
+            "Second, putting Taiwan on the agenda creates bargaining space for de-escalation. Three reasons: one, the U.S. and China can trade restraint in Taiwan-related posturing for concessions on trade, technology, or sanctions; two, summitry allows face-saving language that lets both sides claim resolve without immediate action; three, repeated high-level contact can stabilize expectations and reduce the chance that a single incident spirals.",
+            "Third, this matters because the biggest risk in U.S.-China relations is not deliberate war but accidental conflict from signaling failure. If both leaders understand the costs of escalation and establish channels, the probability of a Taiwan crisis becoming a shooting war falls even if the underlying dispute remains unresolved."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Elevating Taiwan in a summit makes conflict more likely because it hardens positions, incentivizes brinkmanship, and turns a status quo dispute into a test of credibility.",
+          "mechanisms": [
+            "First, public warnings lock leaders into maximalist positions. One, Xi’s threat signals that China will punish perceived slippage on Taiwan, making compromise politically costly; two, Trump may feel pressure to appear tough and avoid looking weak on a core security issue; three, once both sides posture publicly, backing down becomes domestically expensive and escalation becomes the path of least resistance.",
+            "Second, summit attention can intensify strategic competition rather than resolve it. One, if China believes the U.S. is using Taiwan as leverage, it has an incentive to accelerate military pressure around the island; two, if the U.S. sees coercion, it responds with arms sales, deployments, and alliance signaling; three, each reciprocal move increases the chance of an incident at sea or in the air.",
+            "Third, this matters because Taiwan is not a normal diplomatic issue but a sovereignty red line for Beijing and a credibility issue for Washington. When both sides treat the issue as existential, even small missteps can trigger rapid escalation, making summit theatrics more dangerous than quiet deterrence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit-level signaling reduces uncertainty or intensifies brinkmanship. The opposition has a structural advantage if the round is about immediate crisis risk, because Taiwan is a red-line issue where public threats and domestic audience costs make de-escalation harder, not easier.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Deterrence Theory",
+        "Brinkmanship",
+        "Audience Costs",
+        "Crisis Instability",
+        "Great Power Competition",
+        "Alliance Signaling",
+        "Miscalculation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize Taiwan de-escalation in summit diplomacy with China",
+        "THBT direct leader-level summits reduce the risk of great power conflict",
+        "THP a world where Taiwan is treated as a bargaining issue in U.S.-China negotiations"
+      ],
+      "data_points": [
+        "Xi Jinping warned Trump that Taiwan could push the two countries into \"conflict\" if mishandled",
+        "The warning was delivered at the opening of a superpower summit in Beijing on May 14, 2026",
+        "The article describes Taiwan as one of the \"thorny issues\" on the summit agenda"
+      ]
+    },
+    {
+      "id": "abb63c40f278",
+      "title": "Trump’s Beijing Reset Ties U.S.-China Trade Dealmaking to Taiwan and Alliance Credibility",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/14/g-s1-122014/up-first-newsletter-china-taiwan-trump-law-firms-kevin-warsh-denise-powell-nebraska",
+      "published": "2026-05-14T11:32:21Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan / Japan",
+      "background": "President Trump arrived in Beijing and met Chinese President Xi Jinping, with the U.S. saying the leaders discussed expanding American products into China. China said Xi repeated a warning that if the U.S.-Taiwan relationship is not handled well, the two powers could clash and jeopardize bilateral ties. Taiwan’s foreign minister said he doubted Taiwan was a priority for Washington, while Japan said it was watching the visit closely amid worsening China-Japan relations over possible Japanese military support for Taiwan. The visit comes after Trump initiated a trade war a year earlier and both sides now appear to be seeking a more stable trade relationship.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s direct leader-to-leader bargaining can reduce immediate U.S.-China escalation by creating a narrow channel for trade stabilization and crisis management.",
+          "mechanisms": [
+            "First, personal summit diplomacy can break deadlock because (1) Trump and Xi are the key decision-makers in both systems, so a direct meeting bypasses slower bureaucratic veto points, (2) both sides have incentives to avoid a renewed trade war after a year of retaliation, and (3) even limited agreements on market access or tariff restraint can create a floor of predictability for firms.",
+            "Second, a trade-focused reset can lower the temperature around Taiwan by separating economic competition from military signaling. Three reasons: one, when the U.S. and China are locked into commercial bargaining, they have more to lose from accidental escalation; two, a stable economic channel gives both sides a face-saving way to de-escalate rhetoric; three, allies like Japan benefit from fewer shocks if Washington and Beijing keep disputes compartmentalized.",
+            "Third, this matters because avoiding immediate crisis is the highest-probability good outcome in a relationship between two nuclear-armed great powers. The biggest gain is not trust, but reduced miscalculation, fewer tit-for-tat tariffs, and more room for allied coordination on the harder security issues later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s dealmaking approach weakens U.S. deterrence by signaling that trade concessions can be bought with pressure on Taiwan and alliance uncertainty.",
+          "mechanisms": [
+            "First, it creates bargaining leverage for China because (1) Xi can tie economic concessions to strategic restraint, (2) the U.S. president’s focus on deals makes him more likely to prioritize short-term trade wins over long-term security commitments, and (3) Taiwan and Japan read ambiguity as reduced credibility, which can embolden Chinese coercion.",
+            "Second, it fractures alliance confidence because (1) Taiwan’s foreign minister already doubts Taiwan is a priority, (2) Japan is openly watching for reassurance after signaling possible support for Taiwan, and (3) if allies think Washington will trade away security concerns for market access, they hedge by rearming, accommodating China, or acting independently.",
+            "Third, the relationship becomes more unstable, not less, because transactional diplomacy encourages repeated brinkmanship. One, each side learns threats work; two, agreements become personal and reversible rather than institutional; three, the next crisis over Taiwan or the South China Sea starts from a lower trust baseline and a higher chance of miscalculation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit-level pragmatism reduces immediate risk faster than it erodes long-term deterrence. Prop wins if the judge prioritizes crisis prevention and sees trade stabilization as a necessary first step; opp wins if they emphasize that Taiwan credibility and alliance reassurance are the structural foundations of any durable peace.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Alliance Credibility",
+        "Deterrence Theory",
+        "Transactional Diplomacy",
+        "Decoupling",
+        "Trade War Retaliation",
+        "Miscalculation Risk"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize trade normalization with China over public confrontation on Taiwan",
+        "THBT the United States should pursue leader-level summit diplomacy with China despite unresolved security disputes",
+        "THP a world where major powers can compartmentalize economic cooperation from territorial disputes"
+      ],
+      "data_points": [
+        "Trump and Xi met in Beijing on May 14, 2026",
+        "The U.S. says the leaders discussed expanding American products into China",
+        "China said Xi warned that poor handling of the U.S.-Taiwan relationship could lead to a clash",
+        "Trump initiated a trade war a year earlier, and both sides are now seeking a more stable trade relationship",
+        "More than a dozen top U.S. corporate leaders accompanied Trump on the visit",
+        "Japan’s relations with China are at their lowest point in over a decade",
+        "Nebraska’s 2nd congressional district could help determine control of the U.S. House after the midterms"
+      ]
+    },
     {
       "id": "a0de47f5f404",
       "title": "Conflicting Trump-Xi Readouts Expose How Great-Power Diplomacy Becomes a Narrative War",
@@ -413,6 +1651,67 @@
       ]
     },
     {
+      "id": "65b35640162c",
+      "title": "Climate-Only Environmentalism Weakens Conservation Politics and Leaves Nature Unprotected",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/climate-change-nature-ecosystems-environmental-movement/687162/?utm_source=feed",
+      "published": "2026-05-14T11:00:00Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The article argues that U.S. environmental politics has shifted from broad conservation to a climate-first agenda. It cites Trump’s rollback of the EPA endangerment finding and other environmental regulations, and notes that the Bureau of Land Management manages 245 million acres of federal land. It also says environmental organizations founded from 2000 to 2010 were 20% climate-branded, rising to 52% in the 2010s, while conservation research papers based on fieldwork fell 20% from 1980 to 2014 as data-heavy modeling expanded sixfold.",
+      "prop_args": [
+        {
+          "thesis": "Environmental movements are stronger when they center nature, because climate-only framing is too abstract, too technocratic, and too politically divisive to sustain mass support.",
+          "mechanisms": [
+            "First, nature creates broader and more durable coalition politics. This is because (1) people across ideology can directly experience parks, wildlife, hunting, fishing, and local landscapes, (2) those experiences generate emotional attachment rather than abstract policy preferences, and (3) that attachment makes it easier to mobilize voters, donors, and local officials around concrete protection goals.",
+            "Second, climate-only advocacy narrows the movement’s agenda and weakens its legitimacy. Three reasons: one, it reduces environmentalism to carbon accounting and treats ecosystems, water, biodiversity, and pollution as secondary; two, it pushes organizations toward elite, technocratic language that ordinary voters do not connect with; three, it makes the movement look like a subset of progressive policy rather than a universal public-interest cause.",
+            "Third, a nature-centered movement is strategically better at resisting rollback politics. This matters because local conservation fights over public lands, endangered species, and clean water are easier to defend in court and in public opinion than diffuse climate targets, so a movement rooted in place can generate repeated wins even when national climate politics are hostile."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Climate should remain the environmental movement’s core because it is the largest, most urgent, and most system-wide threat, and nature protection is often best achieved through decarbonization.",
+          "mechanisms": [
+            "First, climate is the upstream driver of many environmental harms. One, warming destroys ecosystems directly through heat, drought, fires, and ocean acidification; two, it magnifies water stress and species loss across regions; three, without emissions cuts, conservation becomes a losing defensive battle against ever-worsening baseline conditions.",
+            "Second, climate framing unlocks far more money, policy attention, and institutional power. One, the article itself notes global energy-transition investment reached $2.3 trillion last year, about 10 times nature-based solutions; two, climate is legible to governments, banks, and large philanthropies in a way that fragmented conservation campaigns are not; three, tying nature to climate can bring conservation into bigger funding streams rather than leaving it dependent on scarce public and philanthropic money.",
+            "Third, climate-first politics can still protect nature indirectly and at scale. One, renewable energy, electrification, and industrial decarbonization reduce pollution and resource pressure; two, climate policy can be paired with ecosystem protection through nature-based solutions; three, a single dominant issue is often easier to organize around than a broad, diffuse environmental agenda."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether movements win by breadth of appeal or by issue centrality. The pro side wins if you value coalition durability and local mobilization; the opposition wins if you think the environmental problem is fundamentally a climate problem and that scale, funding, and urgency justify prioritizing carbon above everything else.",
+      "stock_connections": [
+        "Issue Framing",
+        "Coalition Building",
+        "Technocracy vs Mass Politics",
+        "Single-Issue Movement Tradeoff",
+        "Elite Capture",
+        "Green Growth",
+        "Public Goods",
+        "Collective Action"
+      ],
+      "motion_areas": [
+        "TH, as environmental NGOs, would prioritize conservation over climate advocacy",
+        "THBT the environmental movement should re-center local nature protection over decarbonization",
+        "THP a world where environmental politics is organized around ecosystems rather than carbon",
+        "THBT climate activism has done more harm than good to the broader environmental movement"
+      ],
+      "data_points": [
+        "Trump rescinded the EPA 'endangerment finding,' removing the federal government’s formal acceptance that climate change is harmful",
+        "The Bureau of Land Management manages 245 million acres of land in the United States",
+        "From 1980 to 2014, conservation research papers based on fieldwork dropped by 20%",
+        "During the same period, research done by data analysts and modellers increased by at least sixfold",
+        "20% of environmental organizations founded from 2000 to 2010 had 'climate' in their name",
+        "That share rose to 52% among organizations founded in the 2010s",
+        "Global investment in 'energy transition' hit $2.3 trillion last year",
+        "The article says this is about 10 times the amount spent on 'nature-based solutions'",
+        "The global shortfall for nature protection is estimated at $700 billion a year",
+        "A 2025 poll found an 84-34 partisan gap on whether the U.S. should take a more active role in global climate efforts",
+        "Support for 'conservation lands and wildlife' was 80% among Democrats and 61% among Republicans",
+        "96 million Americans bird-watch, 58 million fish, and 14 million hunt"
+      ]
+    },
+    {
       "id": "4dab148eebd5",
       "title": "Stray Ukrainian Drones Trigger Latvian Government Collapse and Expose the Political Costs of Border Security Failures",
       "source": "BBC",
@@ -534,6 +1833,58 @@
         "President Trump met President Xi Jinping on 2026-05-14 during Trump's first day in China",
         "The article describes the meeting as a 'high-stakes summit' between the leaders of the United States and China",
         "The article text provided does not include any announced agreements, tariffs, security concessions, or joint statements"
+      ]
+    },
+    {
+      "id": "4388a620fe45",
+      "title": "The Iran War Accelerates a More Fragmented US-China Order",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/iran-war-lead-to-less-stable-and-more-fragmented-world-order-by-shlomo-ben-ami-2026-05",
+      "published": "2026-05-14T10:36:24Z",
+      "category": "IR",
+      "region": "Middle East / US-China global order",
+      "background": "The article argues that the Iran war launched by the United States and Israel will not produce a stabilizing new international settlement, but instead weaken the existing order. It is framed against a backdrop of major historical wars that reshaped global institutions, and it points to an upcoming US-China summit in Beijing where Chinese President Xi Jinping is said to have the upper hand. The piece situates the conflict as part of a broader contest over whether war can still generate a coherent postwar order in a multipolar system.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war weakens the US-led order by exposing American overreach and accelerating a shift toward a fragmented, China-favored multipolar system.",
+          "mechanisms": [
+            "First, the war undermines US credibility as a stabilizing hegemon. This is because (1) allies see Washington as willing to escalate major regional wars rather than contain them, (2) adversaries interpret the conflict as evidence that US security guarantees are costly and unreliable, and (3) neutral states hedge harder by diversifying away from US alignment.",
+            "Second, the war gives China and other revisionist powers diplomatic room to present themselves as the more responsible actors. Three reasons: one, Beijing can frame itself as opposing reckless escalation and defending sovereignty; two, it can use the crisis to deepen ties with states alarmed by US militarization; three, it benefits from the perception that the US is distracted and strategically overstretched.",
+            "Third, the war fragments the international system by making regional actors pursue independent security and economic strategies. This matters because once states expect the great powers to be unstable, they stop relying on universal institutions and instead build ad hoc blocs, transactional deals, and regional deterrence arrangements, which makes durable global order much harder to sustain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Iran war can strengthen order by deterring aggression, reasserting red lines, and forcing a clearer balance of power.",
+          "mechanisms": [
+            "First, the war can restore deterrence if it convinces Iran and other challengers that nuclear escalation, proxy warfare, and regional disruption carry prohibitive costs. One, credible punishment can reduce future adventurism; two, allies may feel safer under a more forceful US posture; three, adversaries may be less willing to test the system if the response is decisive.",
+            "Second, major wars sometimes produce clearer security architecture rather than chaos. One, they can force alliances to become more explicit and disciplined; two, they can clarify spheres of influence and reduce ambiguity; three, they can create incentives for negotiated settlements that stabilize the region after the fighting ends."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war creates deterrent clarity or systemic fragmentation. Prop wins if the round is about long-run order, because even a successful military campaign can still erode legitimacy, accelerate hedging, and hand China a narrative advantage; Opp wins only if they prove the war quickly produces a stable settlement and credible enforcement.",
+      "stock_connections": [
+        "Balance of power",
+        "Hegemonic stability theory",
+        "Security dilemma",
+        "Alliance credibility",
+        "Multipolarity",
+        "Revisionism",
+        "Regional security complex",
+        "Great power competition"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would launch a war against Iran",
+        "THBT military strikes against Iran are more likely to destabilize than stabilize the international order",
+        "THP a world where major powers respond to nuclear proliferation with preventive war",
+        "THBT the US should prioritize deterring China over containing Iran",
+        "THBT wars can no longer produce stable international orders"
+      ],
+      "data_points": [
+        "The article references a US-China summit in Beijing occurring the same week as the piece was published, with Xi Jinping described as having 'the upper hand.'",
+        "The war is described as having been launched by the United States and Israel.",
+        "The author explicitly compares the Iran war to system-shaping conflicts such as the Thirty Years' War, the Napoleonic Wars, World War II, and the Cold War."
       ]
     },
     {
