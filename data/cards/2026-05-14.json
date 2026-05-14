@@ -1,7 +1,1305 @@
 {
   "date": "2026-05-14",
-  "last_updated": "2026-05-14T17:10:11Z",
+  "last_updated": "2026-05-14T20:02:39Z",
   "cards": [
+    {
+      "id": "0f21045c33f3",
+      "title": "Israel’s Coercive Campaign in Lebanon Undermines the Only State Capacity That Could Disarm Hezbollah",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/14/israel-hezbollah-trump-iran-lebanon/",
+      "published": "2026-05-14T19:43:22Z",
+      "category": "IR",
+      "region": "Israel / Lebanon / Iran / United States",
+      "background": "The article argues that Israel wants the Lebanese state to disarm Hezbollah, but its own military and diplomatic actions are weakening the Lebanese Armed Forces (LAF), UNIFIL, and the Lebanese government. Lebanon’s defense budget fell from about $2 billion in 2019 to roughly $432 million in 2020 and around $240 million by 2023, while the LAF remained dependent on foreign aid and underpaid. The piece also notes that U.S. assistance to the LAF since 2006 totaled about $2.5 billion, and that after the 2024 cease-fire there was a brief opening to implement UN Resolution 1701 before renewed conflict and political drift.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s current Lebanon strategy is self-defeating because disarmament of Hezbollah requires a stronger Lebanese state, but Israeli actions are systematically destroying the very institutions needed to do that.",
+          "mechanisms": [
+            "First, Israel weakens the coercive arm that would have to enforce disarmament. This is because (1) it lobbied Washington against robust military assistance to the Lebanese Armed Forces, (2) it left the LAF under-equipped, underpaid, and without air defense, and (3) it made the army too weak to credibly occupy and hold the south before Hezbollah can reconstitute.",
+            "Second, Israel erodes the political legitimacy needed for any disarmament deal. Three reasons: one, repeated strikes on Lebanese governance infrastructure make the state look incapable of protecting civilians; two, attacks on UNIFIL and pressure to reduce its mandate remove international cover for Lebanese sovereignty; three, when the state is seen as acting under Israeli coercion, Hezbollah can frame disarmament as collaboration rather than national consolidation.",
+            "Third, this creates a repeatable cycle of tactical success and strategic failure. This matters because (1) Israel can damage Hezbollah militarily in the short term, (2) but without a functioning Lebanese state Hezbollah simply reconstitutes, and (3) the end state becomes a damaged Lebanon, a surviving Hezbollah, and a permanently insecure northern Israel."
+          ]
+        },
+        {
+          "thesis": "A phased, state-building approach is more likely to disarm Hezbollah than direct military pressure because armed-group demobilization only works when legitimacy, coercive capacity, and political absorption all exist together.",
+          "mechanisms": [
+            "First, the comparative record shows that disarmament succeeds through political integration, not pure force. This is because (1) the IRA decommissioned only after Sinn Féin was embedded in constitutional politics, (2) FARC disarmed alongside reintegration, transitional justice, and UN monitoring, and (3) Aceh’s separatists laid down arms only after autonomy, amnesty, and international monitoring were on the table.",
+            "Second, Lebanon is missing all the preconditions that made those cases work. Three reasons: one, the state is financially ruined and distrusted after the Beirut port explosion and elite predation; two, the LAF is too weak and dependent on donors to enforce a monopoly on force; three, the government lacks the authority to absorb backlash from Hezbollah’s base if it moves too fast.",
+            "Third, the right policy is to stabilize the cease-fire, rebuild the LAF, and reinforce UNIFIL. This matters because (1) it creates a credible enforcement mechanism, (2) it gives Beirut the capacity to occupy the south before Hezbollah returns, and (3) it turns disarmament from an Israeli war aim into a Lebanese sovereign project."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel is justified in prioritizing immediate coercion against Hezbollah because waiting for Lebanese state-building gives Hezbollah time to entrench, rearm, and keep threatening Israeli civilians.",
+          "mechanisms": [
+            "First, Hezbollah is not a normal domestic militia but an Iranian forward deterrent. Numbered reasons: one, it is funded and equipped by Tehran specifically to threaten Israeli population centers; two, it is part of Iran’s broader strategy to deter strikes on its nuclear program; three, leaving it intact preserves a permanent missile threat on Israel’s northern border.",
+            "Second, state-building may be too slow and too fragile to rely on. Three reasons: one, Lebanon’s institutions are factionalized and financially collapsed; two, any aid package can be captured, delayed, or politically blocked; three, Hezbollah can exploit the time lag to rebuild its arsenal and political leverage.",
+            "Third, military pressure can create the conditions for a better settlement. This is because (1) degrading Hezbollah’s capabilities changes the balance of power, (2) it may force Lebanese elites to accept disarmament terms they would otherwise reject, and (3) it signals that armed non-state actors cannot indefinitely outrun consequences."
+          ]
+        },
+        {
+          "thesis": "Israel cannot outsource its security to a weak Lebanese state, so it must retain freedom of action even if that complicates Lebanese sovereignty.",
+          "mechanisms": [
+            "First, sovereignty is not meaningful if the state cannot control armed territory. This is because (1) the LAF lacks the equipment and reach to disarm Hezbollah alone, (2) UNIFIL has limited enforcement power, and (3) any cease-fire that depends on Lebanese capacity alone may simply freeze the conflict.",
+            "Second, Israeli restraint can be strategically costly if Hezbollah reconstitutes. Three reasons: one, the group has already shown it can absorb damage and recover; two, a pause may allow it to rebuild tunnels, missiles, and command networks; three, Israel then faces a stronger enemy later with fewer options.",
+            "Third, domestic Israeli politics rewards visible deterrence. This matters because (1) after Oct. 7 Israeli leaders face pressure to show they are not tolerating another armed frontier, (2) northern evacuation creates urgency for decisive action, and (3) any policy seen as relying on Lebanese promises may be politically unsustainable."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Hezbollah is best defeated by destroying its military capacity now or by building the only institutions that can actually hold territory afterward. Prop wins if the judge prioritizes end-state durability, because military pressure without Lebanese capacity just recreates the same threat; opp wins if the judge thinks the time horizon is too short and the immediate security risk from Hezbollah outweighs long-run state-building.",
+      "stock_connections": [
+        "State capacity",
+        "Counterinsurgency",
+        "Security dilemma",
+        "Proxy warfare",
+        "Deterrence failure",
+        "Nation-building",
+        "Peacekeeping effectiveness",
+        "Demobilization and reintegration",
+        "Failed state governance",
+        "Spoiler problem"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would prioritize strengthening the Lebanese state over direct military action to disarm Hezbollah",
+        "THBT external powers should condition security assistance on state-building rather than immediate counterterror operations",
+        "THP a world where disarmament of armed non-state actors must occur through negotiated state reconstruction rather than coercive strikes",
+        "THBT the United States should back Lebanese sovereignty even if it constrains Israeli military freedom of action",
+        "TH, as the Trump administration, would pursue phased Hezbollah disarmament tied to Israeli withdrawal and Lebanese capacity-building"
+      ],
+      "data_points": [
+        "$2 billion Lebanon defense budget in 2019",
+        "About $432 million Lebanon defense budget in 2020 after the financial crisis",
+        "Around $240 million Lebanon defense budget by 2023",
+        "Roughly $2.5 billion in U.S. military financing and equipment to the LAF since 2006",
+        "LAF is about 80,000 strong on paper",
+        "UNIFIL is roughly 8,000 troops",
+        "More than 55 Hezbollah fighters were killed in the early post-Oct. 7 exchanges",
+        "Israel evacuated many northern communities after the border fighting began on Oct. 8, 2023",
+        "The first major Nasrallah speech after Oct. 7 was on Nov. 3, 2023",
+        "The article says Hezbollah at its peak commanded more precision-guided missiles than most European NATO members",
+        "In the final days of the Biden administration, Washington shifted roughly $117 million to the LAF for cease-fire implementation"
+      ]
+    },
+    {
+      "id": "843600d6f395",
+      "title": "California’s Proposed Software Tax Tests Whether Big Tech Can Be a New Revenue Base",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/newsom-pitches-software-tax-to-raise-billions-in-new-revenue",
+      "published": "2026-05-14T19:21:48Z",
+      "category": "Econ",
+      "region": "United States / California",
+      "background": "California Governor Gavin Newsom has pitched a new tax on software to raise billions in additional state revenue. The proposal is aimed at the state’s large technology sector, which is concentrated in California and has long benefited from the state’s role as the center of US software development. The article frames the tax as a major new source of public funding, but it also raises questions about how easily software can be taxed, who ultimately bears the cost, and whether firms would respond by shifting activity out of the state.",
+      "prop_args": [
+        {
+          "thesis": "A software tax is a justified and efficient way to make California’s most profitable sector pay for the public infrastructure and labor ecosystem that made it rich.",
+          "mechanisms": [
+            "First, it captures economic rents from a sector with unusually high margins rather than taxing low-income consumers or small businesses. This is because (1) software firms often have scalable products and concentrated profits, (2) California already hosts the talent, universities, and infrastructure that support those profits, and (3) taxing rents is less distortionary than taxing labor or consumption.",
+            "Second, it broadens the state’s revenue base and reduces dependence on volatile income and capital gains taxes. Three reasons: one, tech profits are large and recurring compared with cyclical personal income receipts; two, a dedicated software levy can stabilize budgets during downturns; three, more stable revenue improves planning for schools, housing, and transit.",
+            "Third, it creates distributive fairness by making firms that benefit from network effects and public goods contribute back. This matters because California’s public sector bears the costs of congestion, housing pressure, and infrastructure strain created by the tech boom, so a targeted tax helps align private gains with public compensation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A software tax is a bad policy because it is hard to define, easy to evade, and likely to be passed on to workers and consumers rather than absorbed by Big Tech.",
+          "mechanisms": [
+            "First, the tax base is administratively messy and invites avoidance. One, software is increasingly bundled into cloud services, subscriptions, and hardware, making it hard to distinguish taxable from non-taxable activity; two, firms can reclassify revenue streams or shift billing entities out of California; three, enforcement costs rise as the state litigates definitions and sourcing rules.",
+            "Second, the burden will not stay on giant firms and may harm the broader ecosystem. One, companies can respond by cutting hiring, reducing local investment, or relocating marginal teams; two, startups and mid-sized software firms have thinner margins and less ability to absorb new taxes; three, consumers and enterprise clients may face higher prices, reducing demand and innovation.",
+            "Third, the policy risks a long-run competitiveness hit for California’s tech cluster. One, firms can move future expansion to lower-tax states or countries; two, venture capital may favor jurisdictions with more predictable tax treatment; three, once the state signals that successful sectors will be singled out, it creates policy uncertainty that discourages capital formation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the software tax is a clean rent-extraction tool or a distortionary levy on a mobile, hard-to-define industry. Prop wins if it can show the tax is narrow and mostly captures surplus; opp wins if it proves the base is porous and the economic response is relocation, pass-through, and reduced investment.",
+      "stock_connections": [
+        "Tax Incidence",
+        "Race to the Bottom",
+        "Capital Flight",
+        "Regulatory Arbitrage",
+        "Rent Extraction",
+        "Progressive Taxation",
+        "Fiscal Federalism",
+        "Dutch Disease"
+      ],
+      "motion_areas": [
+        "TH, as California, would impose a software tax on major tech firms",
+        "THBT subnational governments should tax digital services to fund public goods",
+        "THP a world where states can levy sector-specific taxes on highly profitable tech industries"
+      ],
+      "data_points": [
+        "California is the US center of software development and home to the largest concentration of major tech firms",
+        "The proposal is intended to raise 'billions' in new state revenue",
+        "The tax targets software, a sector with high margins and scalable revenue streams",
+        "California’s budget is heavily exposed to volatile income and capital gains taxes"
+      ]
+    },
+    {
+      "id": "0ac4d20c7c89",
+      "title": "US Intelligence Gaps Leave Africa Counterterrorism Strategy Blind and Reactive",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/us-military-says-it-s-hobbled-in-tracking-africa-terror-groups",
+      "published": "2026-05-14T19:21:18Z",
+      "category": "IR",
+      "region": "Africa / United States",
+      "background": "On May 14, 2026, U.S. Africa Command commander Air Force Gen. Dagvin Anderson testified before the Senate Armed Services Committee in Washington, DC, as part of the FY2027 defense authorization review. The hearing covered the posture of U.S. Central Command and U.S. Africa Command and the future years defense program. The article frames the U.S. military as being 'hobbled' in tracking terror groups across Africa, indicating a capability and intelligence problem in U.S. counterterrorism operations on the continent.",
+      "prop_args": [
+        {
+          "thesis": "The U.S. should treat intelligence and surveillance capacity in Africa as a strategic necessity, because losing visibility over terror groups makes counterterrorism slower, costlier, and more likely to fail.",
+          "mechanisms": [
+            "First, better tracking prevents attacks before they scale. This is because (1) terror groups exploit weak surveillance to move fighters, money, and weapons across borders, (2) early detection allows targeted disruption before cells consolidate, and (3) the U.S. can support partners with actionable intelligence instead of broad, ineffective military presence.",
+            "Second, intelligence gaps force the U.S. into reactive, high-cost interventions. Three reasons: one, when the U.S. cannot locate groups precisely, it must rely on larger deployments or airstrikes with lower certainty; two, uncertainty increases civilian harm and political backlash; three, reactive operations are more expensive than persistent monitoring and partner capacity-building.",
+            "Third, restoring visibility preserves regional stability and U.S. credibility. This matters because if Washington cannot track threats, local allies doubt U.S. commitments, adversaries see an opening to expand, and extremist groups gain propaganda value by portraying the state as absent or incompetent."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The U.S. should reduce its Africa counterterrorism footprint because intelligence limitations show the strategy is overextended, and local actors are better placed to handle these threats.",
+          "mechanisms": [
+            "First, the U.S. cannot solve a fundamentally local intelligence problem from afar. one, African theaters are fragmented and politically complex, making external surveillance incomplete; two, host governments often control the most useful human intelligence and local networks; three, U.S. resources are better spent on training, logistics, and selective support rather than trying to micromanage every threat.",
+            "Second, a lighter footprint reduces blowback and dependency. one, visible U.S. military involvement can fuel anti-American narratives and recruitment for extremist groups; two, partner governments may become dependent on U.S. intelligence instead of building their own institutions; three, scaling back forces local ownership and long-term sustainability."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether intelligence gaps justify deeper U.S. involvement or expose the limits of external counterterrorism. Prop wins if the round is about preventing transnational terror spillover and preserving deterrence; Opp wins if the round is about sovereignty, blowback, and the failure of militarized intervention to produce durable local capacity.",
+      "stock_connections": [
+        "Counterinsurgency",
+        "Blowback",
+        "Security Dilemma",
+        "State Capacity",
+        "Dependency Theory",
+        "Proxy Warfare",
+        "Terrorism Prevention",
+        "Intelligence Failure"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would expand intelligence and surveillance operations against terror groups in Africa",
+        "THBT the United States should reduce its military footprint in Africa",
+        "THP a world where counterterrorism in Africa is led primarily by local governments rather than the U.S."
+      ],
+      "data_points": [
+        "AFRICOM commander Air Force Gen. Dagvin Anderson testified before the Senate Armed Services Committee on May 14, 2026",
+        "The hearing reviewed the posture of U.S. Central Command and U.S. Africa Command for FY2027 defense authorization",
+        "The article specifically describes U.S. forces as being 'hobbled' in tracking Africa terror groups"
+      ]
+    },
+    {
+      "id": "f62e261794c6",
+      "title": "China’s Beef Permit Renewal Signals Tactical Trade Thaw Between Beijing and Washington",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/china-renews-import-permits-for-us-beef-plants-video",
+      "published": "2026-05-14T19:14:06Z",
+      "category": "Econ",
+      "region": "China / United States",
+      "background": "China renewed import licenses for hundreds of US beef plants on Thursday, restoring access for American beef exports to the Chinese market. The permits are typically valid for five years, and the move came as Xi Jinping and Donald Trump met in Beijing to stabilize commercial and geopolitical relations between the two largest economies. The report was based on people with direct knowledge of the matter; Bloomberg noted the renewal revived trade in beef after prior restrictions.",
+      "prop_args": [
+        {
+          "thesis": "Targeted trade normalization between major powers reduces economic friction and creates a low-cost channel for broader diplomatic stabilization.",
+          "mechanisms": [
+            "First, renewing beef plant permits lowers the immediate transaction costs of trade, because (1) exporters regain predictable market access, (2) importers can resume long-term contracting, and (3) both sides get a visible, reversible confidence-building measure without conceding on core strategic disputes.",
+            "Second, sector-specific liberalization creates a bargaining template for wider de-escalation. Three reasons: one, it demonstrates that both governments can separate commercial issues from security rivalry; two, it gives each side a domestic win to sell to producers and consumers; three, it builds momentum for further technical approvals in agriculture, aviation, and manufacturing.",
+            "Third, reopening a major consumer market benefits supply chains and price stability. This matters because Chinese demand can absorb large volumes of US beef, which supports American ranchers, improves utilization of processing capacity, and can modestly ease food price pressures for Chinese consumers."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The permit renewal is mostly symbolic and does not change the underlying strategic competition or trade vulnerability between China and the US.",
+          "mechanisms": [
+            "First, the move is reversible and narrow, so it does not solve the core problem. One, five-year permits can be suspended again at any time; two, the action affects only one agricultural sector rather than the broader tariff and technology conflict; three, Beijing can use selective approvals as leverage without committing to durable liberalization.",
+            "Second, agricultural concessions are often used as political theater rather than structural reform. One, both governments can claim victory to domestic constituencies while keeping tariffs, export controls, and investment restrictions intact; two, the gesture may be timed to the Xi-Trump meeting rather than driven by market logic; three, this can actually entrench transactional bargaining over stable rules-based trade.",
+            "Third, the economic stakes are too small to shift the bilateral balance. One, beef is politically salient but not systemically important compared with semiconductors, finance, or energy; two, the trade flow can be disrupted by sanitary rules or retaliation; three, therefore the renewal does little to reduce the risk of future coercive trade conflict."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you treat the permit renewal as a durable signal of détente or as a narrow bargaining chip. Prop wins if the round is about confidence-building and incremental de-escalation; Opp wins if the focus is on structural rivalry, because one agricultural approval cannot offset the much larger strategic and tariff architecture.",
+      "stock_connections": [
+        "Trade interdependence",
+        "Confidence-building measures",
+        "Economic statecraft",
+        "Weaponized interdependence",
+        "Transactional diplomacy",
+        "Market access as leverage",
+        "Decoupling"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize sectoral trade concessions with China to reduce bilateral tensions",
+        "THBT major powers should use agricultural trade as a confidence-building tool in geopolitical disputes",
+        "THP a world where trade normalization between rival powers begins with low-stakes consumer goods rather than strategic sectors"
+      ],
+      "data_points": [
+        "China renewed import licenses for hundreds of US beef plants",
+        "The permits are usually valid for five years",
+        "The renewal occurred on Thursday as Xi Jinping and Donald Trump met in Beijing",
+        "The article describes China and the US as the world's two biggest economies"
+      ]
+    },
+    {
+      "id": "bd549994e75f",
+      "title": "US-Mediated Lebanon-Israel Talks Risk Trading Ceasefire Management for a De Facto Security Settlement",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
+      "published": "2026-05-14T19:00:50Z",
+      "category": "IR",
+      "region": "Lebanon / Israel / United States",
+      "background": "On 14 May 2026, Al Jazeera reported that the United States was hosting the third round of talks between Lebanese and Israeli officials while Israeli attacks on Lebanon continued despite an existing ceasefire. Hezbollah publicly opposed the meeting in Washington. The discussion centered on whether the process could create a path forward for Lebanon after decades of conflict and instability, with guests including analysts based in Beirut and a former US State Department official.",
+      "prop_args": [
+        {
+          "thesis": "US-backed talks are the only realistic channel to prevent renewed war by converting an unstable ceasefire into a managed political-security process.",
+          "mechanisms": [
+            "First, the talks create a direct deconfliction channel between two states that otherwise communicate through escalation. This is because (1) Lebanon and Israel lack normal diplomatic relations, so crisis management usually happens through proxies and military signaling; (2) a formalized forum lowers the risk of miscalculation from isolated border incidents; and (3) even limited agreements can freeze escalation ladders before they become full-scale war.",
+            "Second, US sponsorship gives the process enforcement credibility that Lebanon alone cannot generate. Three reasons: one, Washington can condition military aid, diplomatic cover, and coordination with allies; two, Israel is more likely to engage seriously when the US is involved; three, Lebanon’s fragmented state institutions need an external guarantor to make any ceasefire durable.",
+            "Third, even partial progress is strategically valuable because it reduces the humanitarian and political costs of continued fighting. This matters because a ceasefire framework can protect civilians, stabilize border communities, and create space for Lebanese state institutions to reassert authority over armed actors."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The talks are more likely to entrench Israeli leverage and weaken Lebanon’s sovereignty than to produce a fair or durable settlement.",
+          "mechanisms": [
+            "First, the process is structurally asymmetric in favor of Israel and the US. One, Lebanon is negotiating under active attack, which weakens its bargaining position; two, Hezbollah’s opposition means any deal lacks domestic legitimacy and risks being seen as imposed; three, Israel can use ongoing military pressure to extract concessions without making reciprocal commitments.",
+            "Second, the talks can sideline the real center of power inside Lebanon and therefore fail to solve the conflict. One, Hezbollah is not a minor spoiler but a core military actor, so excluding or bypassing it makes implementation impossible; two, a state-to-state format cannot address the militia-state balance that drives the conflict; three, any agreement that ignores this reality will collapse once enforcement becomes costly.",
+            "Third, US mediation may normalize a security-first settlement that prioritizes border quiet over Lebanese rights and long-term stability. One, Washington often prefers rapid de-escalation over structural justice; two, that can lock Lebanon into permanent vulnerability by leaving underlying disputes unresolved; three, a frozen conflict can be politically useful for external powers while imposing chronic insecurity on Lebanese civilians."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the talks are treated as a genuine peace process or as coercive crisis management under unequal conditions. Prop wins if the judge prioritizes immediate de-escalation and civilian protection; Opp wins if they show that any agreement reached under bombardment and without Hezbollah cannot be implemented and therefore merely institutionalizes Israeli advantage.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Security Dilemma",
+        "Proxy War",
+        "Peace Process Legitimacy",
+        "Frozen Conflict",
+        "Asymmetric Negotiation",
+        "State Sovereignty",
+        "Mediation Failure"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would mediate direct talks between Lebanon and Israel",
+        "THBT third-party mediation in asymmetric conflicts does more harm than good",
+        "THP a world where ceasefire negotiations require inclusion of all armed non-state actors",
+        "THBT states should prioritize deconfliction over comprehensive peace agreements in active conflicts"
+      ],
+      "data_points": [
+        "The article states this is the third round of talks between Lebanese and Israeli officials.",
+        "Israeli attacks on Lebanon were continuing at the time of the report despite a ceasefire.",
+        "Hezbollah publicly opposed the meeting in Washington.",
+        "The talks were hosted by the United States on 14 May 2026."
+      ]
+    },
+    {
+      "id": "cf8e15b41fa7",
+      "title": "Iran’s Tiered Internet Blackout Turns Connectivity Into a Security Rationing Tool",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
+      "published": "2026-05-14T19:00:34Z",
+      "category": "IR",
+      "region": "Iran",
+      "background": "Iran has been under a near-total internet blackout for 11 weeks, affecting 90 million-plus citizens, after the war with the United States and Israel began on February 28. The government has now introduced a tiered access model called “Internet Pro,” which gives approved users such as businesses, university professors and lawyers access to some services like Telegram, WhatsApp and ChatGPT, while most international platforms remain blocked. President Masoud Pezeshkian also announced a new cyberspace headquarters to review and reform internet governance, but authorities have not set a date to end the shutdown.",
+      "prop_args": [
+        {
+          "thesis": "Tiered internet access is a politically useful compromise that preserves state security while gradually restoring enough connectivity to keep the economy and institutions functioning.",
+          "mechanisms": [
+            "First, it reduces the immediate security risk of a full reopening by keeping sensitive traffic filtered and only expanding access to vetted users. This is because (1) the state can prioritize sectors it deems low-risk or economically essential, (2) it can continue monitoring communications through local apps and controlled gateways, and (3) it avoids a sudden return to fully open networks that officials believe could aid hostile intelligence or mobilization.",
+            "Second, it prevents total economic paralysis by giving businesses and professionals partial access to the tools they need to operate. Three reasons: one, firms can still use messaging and productivity platforms to coordinate trade and services; two, universities and lawyers can access research and communication channels needed for work; three, a tiered model is faster to implement than rebuilding trust and infrastructure for a full liberalization.",
+            "Third, it creates a managed off-ramp from blanket censorship, which is better than an all-or-nothing policy. This matters because a phased system can be expanded over time if the security environment improves, allowing the government to claim it is balancing public demand with wartime constraints rather than conceding outright to pressure."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Tiered internet access entrenches digital authoritarianism by formalizing inequality, corruption, and surveillance rather than solving the blackout.",
+          "mechanisms": [
+            "First, it creates a two-tier citizenship system where access depends on political approval, sectoral favoritism, or ability to pay. One, the article says Internet Pro is sold at prices several times higher than regular packages; two, some state-linked entities are already reselling access above the official price; three, this means connectivity becomes a patronage good rather than a public utility.",
+            "Second, it expands state surveillance and coercion by pushing users onto local apps and controlled infrastructure. One, the government can more easily monitor communications on weakly encrypted domestic platforms; two, blocking global services forces dependence on state-approved channels; three, this chills dissent, journalism, and organizing because users know their activity is more easily tracked.",
+            "Third, it damages the economy and state capacity more than it protects security. One, the science minister explicitly warned that continued disruption harms research and is against national security; two, the shutdown blocks access to global knowledge bases like PubMed and international services needed for trade and innovation; three, prolonged isolation increases transaction costs, capital flight, and public frustration, making the state less stable rather than more secure."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the policy is treated as a temporary security measure or as institutionalized repression. Pro wins if the round is about wartime risk management, but Opp has the structural advantage because the tiered model is already being monetized, normalized, and used to deepen surveillance, making the harms durable even if the blackout is later relaxed.",
+      "stock_connections": [
+        "Digital authoritarianism",
+        "Surveillance state",
+        "Two-tier citizenship",
+        "Rent-seeking / corruption",
+        "State capacity",
+        "Security vs liberty tradeoff",
+        "Information control",
+        "Censorship",
+        "Brain drain",
+        "Economic isolation"
+      ],
+      "motion_areas": [
+        "TH, as Iran, would implement tiered internet access during wartime",
+        "THBT governments should restrict internet access on national security grounds during armed conflict",
+        "THP a world where states can provide selective internet access to approved users",
+        "THBT partial internet restoration is preferable to a full blackout in authoritarian states"
+      ],
+      "data_points": [
+        "11 weeks of near-total internet blackout",
+        "90 million-plus citizens affected",
+        "Blackout began on February 28, when the war with the United States and Israel began",
+        "Internet Pro gives access to Telegram, WhatsApp and ChatGPT, but not YouTube or most international services",
+        "Internet Pro is priced at several times higher than regular internet packages",
+        "Local messaging apps Baleh and Eita reportedly have a combined user base of 100 million people",
+        "Iran’s first near-total internet shutdown lasted about a week during nationwide protests in November 2019",
+        "A prior 20-day outage occurred during deadly nationwide protests in January",
+        "PubMed was blocked and then reopened after a direct request from the science minister"
+      ]
+    },
+    {
+      "id": "f7344da0dbe8",
+      "title": "BJP’s West Bengal Breakthrough Exposes the Tradeoff Between Electoral Consolidation and Democratic Fairness",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/14/india-west-bengal-elections-bjp-victory-banerjee-aitc/",
+      "published": "2026-05-14T18:42:12Z",
+      "category": "IR",
+      "region": "India / West Bengal",
+      "background": "In West Bengal’s state election, the Bharatiya Janata Party (BJP) defeated the All India Trinamool Congress (AITC), ending the AITC’s 15-year rule. The BJP won 207 seats and nearly 46% of the vote, compared with the AITC’s 80 seats and 41%, and unseated Chief Minister Mamata Banerjee. The article says the result was driven by anti-incumbency, weak economic performance, Hindu consolidation, and controversy over a Special Intensive Revision of voter rolls that removed more than 9 million people, with 2.7 million challenges filed. Suvendu Adhikari was sworn in as chief minister on May 9.",
+      "prop_args": [
+        {
+          "thesis": "The West Bengal result shows that BJP-style majoritarian consolidation can win elections by turning identity anxiety and administrative control over the franchise into a durable governing advantage.",
+          "mechanisms": [
+            "First, the BJP converted latent Hindu-Muslim polarization into a decisive electoral coalition. This is because (1) it linked the AITC to Muslim appeasement, (2) it amplified fears over illegal immigration from Bangladesh and post-Hasina violence against Hindus, and (3) it reframed itself as the defender of Hindu security rather than just a party of the national government.",
+            "Second, the Special Intensive Revision gave the BJP a structural edge by shrinking the electorate in ways that likely hurt its opponents. Three reasons: one, more than 9 million people were removed from the rolls; two, many of those removed were poor voters lacking paperwork, especially Muslims and minorities; three, the removals were concentrated in constituencies the BJP had never won, suggesting the mechanism was politically selective even if some deletions were legitimate.",
+            "Third, the BJP’s victory can be defended as a response to real governance failure, not just manipulation. This matters because (1) the AITC had failed to attract investment, (2) manufacturing jobs stagnated and youth outmigration rose, and (3) corruption, extortion rackets, and women’s safety scandals created broad anti-incumbency that made a turnover outcome plausible even without procedural controversy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "West Bengal shows how a dominant party can weaponize state institutions and identity politics to distort democracy even when it wins on top-line vote share.",
+          "mechanisms": [
+            "First, the voter-roll purge likely changed the composition of the electorate in a way that systematically disadvantaged marginalized voters. One, 9 million removals are enormous in a state election; two, 2.7 million people challenged their deletions, indicating widespread contestation; three, poor voters are less able to produce the documents needed to reverse removal, so the burden falls hardest on groups least able to defend their franchise.",
+            "Second, the BJP’s campaign normalized communal polarization and undermined West Bengal’s secular political culture. One, it centered fears about Muslims and Bangladesh rather than policy competition; two, it portrayed the AITC as anti-Hindu to consolidate a religious bloc; three, this kind of messaging entrenches identity conflict and makes future elections less about governance and more about majoritarian mobilization.",
+            "Third, the episode weakens institutional trust by politicizing the Election Commission and the electoral process. One, the ECI is supposed to be neutral but was accused of facilitating selective deletions; two, if voters believe rolls can be manipulated on the eve of elections, losers will reject outcomes as illegitimate; three, that creates a precedent for future incumbents to use administrative tools to suppress opposition turnout."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the election reflects democratic accountability or democratic erosion. Pro wins if the round is about voter backlash against bad governance and the legitimacy of anti-fraud roll cleaning; opp wins if the round is about how state power, communal fear, and mass disenfranchisement can hollow out electoral competition even while preserving formal elections.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Majoritarianism",
+        "Electoral Manipulation",
+        "Identity Politics",
+        "State Capture",
+        "Institutional Trust",
+        "Anti-Incumbency",
+        "Race to the Bottom",
+        "Franchise Suppression",
+        "Communal Conflict"
+      ],
+      "motion_areas": [
+        "TH, as a democracy, would allow aggressive voter-roll purges to combat fraud",
+        "THBT opposition parties should prioritize identity-based mobilization when facing dominant-party rule",
+        "THP a world where electoral commissions have broad discretion to revise voter rolls before elections",
+        "THBT majoritarian parties are more likely to strengthen than weaken democratic accountability in divided societies"
+      ],
+      "data_points": [
+        "BJP won 207 seats in West Bengal; AITC won 80",
+        "BJP took nearly 46% of the vote; AITC took 41%",
+        "AITC had governed West Bengal for 15 years",
+        "More than 9 million people were removed from the voter rolls under the Special Intensive Revision",
+        "As many as 2.7 million people challenged their removals",
+        "Muslims make up 27% of West Bengal’s population",
+        "Suvendu Adhikari was sworn in as chief minister on May 9",
+        "The BJP controls 22 other Indian states and union territories",
+        "West Bengal’s voter-roll removals disproportionately affected constituencies the BJP had never won"
+      ]
+    },
+    {
+      "id": "47feafcd19cc",
+      "title": "Jerusalem Day March Normalizes Ethno-Nationalist Violence and Deepens Occupation Tensions in East Jerusalem",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
+      "published": "2026-05-14T18:41:50Z",
+      "category": "IR",
+      "region": "Jerusalem / Israel / occupied East Jerusalem",
+      "background": "During the annual Jerusalem Day march, tens of thousands of Israelis marched through Jerusalem’s Old City, including East Jerusalem, which Israel captured in the 1967 war and later annexed in a move the UN says is illegal under international law. Participants chanted slogans including \"Death to Arabs\" and \"May your villages burn,\" while many Palestinian residents shuttered their shops and stayed indoors. The event has repeatedly been associated with intimidation and violence against Palestinians, and this year took place amid Israel’s war with Iran and a Gaza ceasefire marked by near-daily violations by Israeli forces.",
+      "prop_args": [
+        {
+          "thesis": "The march is a state-enabled demonstration of impunity that entrenches occupation, normalizes anti-Palestinian violence, and makes any future coexistence in Jerusalem less likely.",
+          "mechanisms": [
+            "First, it signals that the state will tolerate or even protect extremist Jewish nationalism in contested space. This is because (1) the march is officially permitted and framed as a celebration of \"reunification,\" (2) police reportedly fail to intervene when participants chant racist slogans or harass residents, and (3) that selective enforcement teaches perpetrators that intimidation carries no meaningful cost.",
+            "Second, it directly degrades Palestinian civilian life and economic activity in East Jerusalem. Three reasons: one, shopkeepers preemptively close businesses to avoid attacks and vandalism; two, marchers bang on shutters and block movement, creating a climate of fear; three, repeated annual humiliation pushes residents to disengage from public space, which is a slow form of displacement.",
+            "Third, it radicalizes both communities and hardens the conflict’s political logic. This matters because the march is not just symbolic: (1) it gives young ultranationalists a mass socialization event where racist rhetoric is rewarded, (2) it convinces Palestinians that legal institutions cannot protect them, increasing support for resistance or internationalization, and (3) it makes moderation politically costly for Israeli leaders who fear backlash from the far right."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The march is a legally and politically legitimate expression of Jewish historical attachment to Jerusalem, and the real problem is isolated extremist behavior rather than the event itself.",
+          "mechanisms": [
+            "First, the march is a mainstream national ritual, not inherently a hate event. One, it commemorates Israel’s capture of East Jerusalem in 1967 and is treated by authorities as a public celebration of reunification; two, tens of thousands participate each year, so the event reflects broad social identity rather than only fringe extremism; three, banning or delegitimizing it would be seen as denying Jewish sovereignty over Jerusalem.",
+            "Second, the violence described is attributable to a subset of participants and poor policing, not the march’s existence. One, the article distinguishes between the march and the ultranationalists who chant racist slogans; two, better crowd control and targeted arrests could reduce abuse without eliminating the event; three, collapsing the whole march into the actions of extremists risks empowering those same extremists by turning them into martyrs.",
+            "Third, preserving the march can be framed as maintaining order and preventing broader escalation. One, allowing a controlled annual procession avoids a larger confrontation over sovereignty claims; two, the Western Wall destination and official route create a predictable security framework; three, if the state appears to concede the street to intimidation claims, it may embolden anti-Israeli actors to challenge Jewish access to holy sites elsewhere."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the march is treated as a legitimate national ceremony with bad actors, or as a structurally violent expression of occupation power. Prop wins if the judge prioritizes lived civilian harm and the compounding effect of state tolerance; Opp wins if they successfully isolate the abuse to a policing failure rather than an indictment of the event itself.",
+      "stock_connections": [
+        "Ethnic Nationalism",
+        "State Impunity",
+        "Occupation",
+        "Minority Persecution",
+        "Security Dilemma",
+        "Radicalization",
+        "Democratic Backsliding",
+        "Collective Punishment"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would ban the Jerusalem Day march through occupied East Jerusalem",
+        "THBT states should prohibit nationalist marches that traverse disputed or occupied territory",
+        "THP a world where police are required to shut down public events that systematically intimidate minority residents"
+      ],
+      "data_points": [
+        "Tens of thousands of Israelis participate in the annual Jerusalem Day march",
+        "The march routes through Jerusalem’s Old City and culminates at the Western Wall",
+        "East Jerusalem was captured by Israel in the 1967 war and annexed, a move the UN says is illegal under international law",
+        "Palestinian shopkeepers in the Old City reportedly closed their shutters and stayed indoors during the march",
+        "The event has frequently descended into violence over the years, including racist chants, intimidation, and physical assaults",
+        "Standing Together deployed volunteers to protect Palestinian-owned shops and residents during the march"
+      ]
+    },
+    {
+      "id": "f211a96a91ff",
+      "title": "2026 World Cup Heat Risk Exposes the Cost of Hosting Mega-Events in a Warming North America",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
+      "published": "2026-05-14T18:39:33Z",
+      "category": "Econ",
+      "region": "United States / Mexico / Canada",
+      "background": "World Weather Attribution warned that global warming has significantly increased the risk of extreme heat at the 2026 FIFA World Cup, which will be held across 16 stadiums in the United States, Mexico and Canada from June 11 to July 19. Its analysis says 26 of the 104 matches could be played at or above 26C Wet Bulb Globe Temperature (WBGT), while five matches could reach 28C WBGT or higher, a level FIFPRO says should trigger delay or postponement. FIFA has already mandated cooling breaks and says it will monitor WBGT and heat index conditions in real time, with three stadiums in Dallas, Houston and Atlanta equipped with air conditioning.",
+      "prop_args": [
+        {
+          "thesis": "The 2026 World Cup shows that climate risk now imposes hard economic and operational limits on mega-event hosting, making adaptation costs and event disruption a central burden for host states and FIFA.",
+          "mechanisms": [
+            "First, extreme heat raises the direct cost of staging the tournament. This is because (1) hosts must spend more on cooling infrastructure, medical readiness, and contingency planning, (2) FIFA must build in operational slack such as cooling breaks and possible postponements, and (3) some venues without air conditioning face higher retrofit or mitigation costs to remain usable.",
+            "Second, heat risk reduces the commercial value of the event. Three reasons: one, unsafe conditions can depress attendance and fan spending because outdoor spectators are more exposed than players; two, match delays or schedule changes weaken broadcast certainty and sponsor activation; three, repeated warnings about dangerous conditions damage the premium image of the World Cup brand.",
+            "Third, this creates a precedent for future mega-events in climate-stressed regions. This matters because the more tournaments are forced to internalize climate adaptation, the less economically attractive it becomes to bid for or host large sporting events in hot climates, shifting investment toward cooler or better-adapted locations."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The World Cup can absorb heat risk through adaptation, so climate change is a manageable operational challenge rather than a decisive economic threat to the tournament model.",
+          "mechanisms": [
+            "First, FIFA and host cities can mitigate most of the damage through infrastructure and scheduling. One, 17 of the 26 at-risk matches are already in stadiums with cooling systems, which lowers player and fan exposure; two, FIFA has formal contingency protocols and real-time WBGT monitoring; three, cooling breaks and timing adjustments preserve the tournament without requiring cancellation.",
+            "Second, the commercial incentives are strong enough to keep the event viable. One, the World Cup remains a globally scarce asset with enormous broadcasting and sponsorship demand, so short-term weather risk does not eliminate revenue; two, host countries can spread costs across federal, state, and municipal budgets; three, the tournament’s prestige means organizers will continue to invest in adaptation rather than abandon hosting.",
+            "Third, this is not a uniquely new problem, so markets and organizers already know how to price it. One, the 1994 US World Cup would also have had 21 games above the same 26C WBGT threshold, showing that hot-weather management is a recurring issue; two, sports bodies routinely adapt to weather disruptions; three, the existence of risk does not mean the event becomes uneconomic."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether climate risk is a marginal inconvenience or a structural cost that changes the economics of hosting mega-events. Prop wins if you prioritize the compounding cost of adaptation, disruption, and reputational damage; opp wins if you think FIFA’s scale and existing mitigation tools are enough to keep the tournament commercially intact.",
+      "stock_connections": [
+        "Climate Change Adaptation",
+        "Externalities",
+        "Public Goods",
+        "Cost-Benefit Analysis",
+        "Mega-Event Economics",
+        "Infrastructure Strain",
+        "Risk Pricing",
+        "Regulatory Burden"
+      ],
+      "motion_areas": [
+        "TH, as FIFA, would move the World Cup away from high-heat host countries",
+        "THBT international sporting bodies should prioritize climate resilience over market expansion",
+        "THP a world where major sporting events are only awarded to cities with climate-safe infrastructure"
+      ],
+      "data_points": [
+        "26 of 104 World Cup matches could be played at or above 26C WBGT",
+        "Five matches are expected to face 28C WBGT or higher, which FIFPRO says should trigger delay or postponement",
+        "17 of the 26 at-risk matches will be in stadiums with cooling systems",
+        "Three of the 16 stadiums — Dallas, Houston and Atlanta — have air conditioning",
+        "The 2026 World Cup final at MetLife Stadium has a one in eight chance of reaching 26C WBGT and a 2.7 percent chance of reaching 28C WBGT",
+        "WWA says dangerous heat risk has doubled since the 1994 US World Cup"
+      ]
+    },
+    {
+      "id": "fe74edb6a1dd",
+      "title": "Ben Gvir’s Al-Aqsa Incursion Turns Jerusalem Day Into a Flashpoint for Regional Escalation",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
+      "published": "2026-05-14T18:39:13Z",
+      "category": "IR",
+      "region": "Jerusalem / Israel / Al-Aqsa compound",
+      "background": "On 14 May 2026, far-right Israeli minister Itamar Ben Gvir entered the Al-Aqsa compound under heavy military protection during Jerusalem Day. The march marked Israel’s 1967 capture and occupation of East Jerusalem, and the event took place amid Israeli marches through occupied East Jerusalem. Al-Aqsa is one of the most politically and religiously sensitive sites in the Israeli-Palestinian conflict, with access and sovereignty disputes repeatedly triggering unrest.",
+      "prop_args": [
+        {
+          "thesis": "Ben Gvir’s Al-Aqsa provocation strengthens hardliners and increases the probability of broader Israeli-Palestinian escalation.",
+          "mechanisms": [
+            "First, it normalizes symbolic sovereignty grabs over a site that is central to Palestinian national and religious identity. This is because (1) the Al-Aqsa compound is treated as a red line by Palestinians and much of the wider Muslim world, (2) a minister entering under military protection signals state backing rather than a fringe stunt, and (3) repeated normalization lowers the political cost of future incursions, making each one easier to escalate.",
+            "Second, it empowers militant recruitment and retaliation narratives. Three reasons: one, groups like Hamas can frame the move as proof that diplomacy cannot protect holy sites, two, it gives local actors a concrete grievance that is easy to mobilize around, and three, it shifts attention away from governance or ceasefire issues toward identity-based confrontation.",
+            "Third, it hardens the domestic Israeli coalition around maximalist positions. This matters because the more the government is seen defending provocative actions, the harder it becomes for moderates to restrain settlement expansion, policing, or restrictions at holy sites, which in turn locks both sides into a cycle of reciprocal escalation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The incident is politically inflammatory, but it is unlikely to change the underlying conflict dynamics in a durable way.",
+          "mechanisms": [
+            "First, the event is largely symbolic and does not alter the core material balance of power. one, Israel already controls access and security in East Jerusalem, two, Palestinians already expect periodic provocations at Al-Aqsa, and three, without a broader military or diplomatic shift, the incident is absorbed into an existing pattern of tension.",
+            "Second, both sides have strong incentives to contain rather than escalate into full-scale confrontation. one, Israel wants to avoid a wider security crisis that would impose costs on tourism, policing, and international legitimacy, two, Palestinian leaderships often lack the capacity to convert outrage into sustained escalation, and three, regional actors typically prefer rhetorical condemnation over direct intervention."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolic provocation at a sacred site can translate into durable escalation. Prop wins if they show that repeated state-backed incursions shift incentives and empower extremists; Opp wins if they show the event is just another episode in an already stable cycle of outrage with limited strategic change.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Symbolic Politics",
+        "Ethnic Outbidding",
+        "Radicalization",
+        "Conflict Escalation",
+        "Spoilers in Peace Processes",
+        "Nationalism",
+        "Holy Site Politics"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would prohibit ministers from entering contested holy sites",
+        "THBT states should criminalize provocative religious-nationalist marches in disputed territories",
+        "THP a world where access to sacred sites is managed by international custodianship",
+        "THBT the international community should impose sanctions on officials who inflame holy-site tensions"
+      ],
+      "data_points": [
+        "Jerusalem Day commemorates Israel’s 1967 capture of East Jerusalem",
+        "Ben Gvir entered the Al-Aqsa compound under heavy military protection",
+        "The march took place in occupied East Jerusalem",
+        "Al-Aqsa is one of the most politically and religiously sensitive sites in the Israeli-Palestinian conflict"
+      ]
+    },
+    {
+      "id": "a6409915af94",
+      "title": "US Strikes Degrade Iran’s Naval Mines But Leave Hormuz Chokepoint Leverage Intact",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/us-needs-to-take-away-iran-s-offensive-punch-says-jensen-video",
+      "published": "2026-05-14T18:32:05Z",
+      "category": "IR",
+      "region": "Iran; United States; Middle East",
+      "background": "Ben Jensen of CSIS discussed the conflict with Iran and the prospect of renewed kinetic fighting. US Central Command chief Admiral Brad Cooper told lawmakers on Thursday that more than 700 airstrikes had destroyed over 90% of Iran’s inventory of roughly 8,000 naval mines. The statement did not specify how many mines were actually laid in the Strait of Hormuz versus destroyed in storage or on vessels, and it did not address Tehran’s continued control over the strait.",
+      "prop_args": [
+        {
+          "thesis": "The US should keep degrading Iran’s maritime offensive capacity because removing its ability to threaten Hormuz is the fastest way to prevent escalation and protect global energy flows.",
+          "mechanisms": [
+            "First, taking away Iran’s mine warfare capability reduces its cheapest and most deniable coercive tool. This is because (1) naval mines are low-cost but high-disruption weapons, (2) they can shut shipping lanes without requiring Iran to win a conventional naval battle, and (3) if the US can destroy most of the inventory before it is deployed, Tehran loses the ability to impose immediate costs on Gulf shipping.",
+            "Second, suppressing Iran’s offensive punch restores deterrence by making retaliation less credible. Three reasons: one, if Iran cannot credibly threaten the Strait of Hormuz, it has fewer escalation options short of overt missile strikes; two, that narrows the ladder of responses and makes limited conflict easier to contain; three, it signals to regional actors that the US can protect maritime commons, reducing panic buying and pre-emptive hedging.",
+            "Third, this matters because the strategic value of Hormuz is disproportionate to the number of weapons involved. The strait is a global energy chokepoint, so even partial disruption can spike insurance costs, reroute tankers, and create immediate inflationary pressure; preventing that shock is a major stability gain even if broader Iran policy remains unresolved."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Destroying Iran’s mine stockpile does not solve the core problem and may actually make escalation more dangerous by pushing Tehran toward asymmetric retaliation elsewhere.",
+          "mechanisms": [
+            "First, Iran retains multiple substitute tools even if mines are degraded. One, it can use missiles, drones, cyberattacks, and proxy forces to hit shipping, bases, or energy infrastructure; two, it can still exploit the Strait of Hormuz through harassment, seizures, and signaling even without mass mine deployment; three, the article itself notes that US strikes do not address Iran’s continued control over the strait.",
+            "Second, the campaign can create escalation incentives rather than deterrence. One, if Iran sees its preferred defensive/offensive tool being removed, it may conclude it is already in a losing war and escalate early; two, that can shorten decision time and increase the risk of miscalculation; three, it may also harden Iranian resolve by turning mine warfare into a prestige issue tied to regime survival.",
+            "Third, the US may be overestimating the operational effect of the strikes. One, the statement does not clarify how many mines were actually in the strait versus in storage or on vessels, so the real threat to shipping may be much smaller than claimed; two, even a reduced mine threat can still impose huge insurance and clearance costs; three, if the US cannot fully eliminate the chokepoint leverage, the campaign risks costs and escalation without delivering decisive security."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether degrading one weapon system meaningfully changes Iran’s coercive leverage or merely shifts it into other channels. Prop wins if the round is about immediate maritime stability and energy shock prevention; Opp wins if the focus is on escalation dynamics and the limits of military tools against a state with multiple asymmetric substitutes.",
+      "stock_connections": [
+        "Deterrence",
+        "Escalation dominance",
+        "Asymmetric warfare",
+        "Chokepoint politics",
+        "Energy security",
+        "Security dilemma",
+        "Miscalculation",
+        "Proxy warfare"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize degrading Iran’s maritime offensive capabilities",
+        "THBT the US should conduct limited strikes to neutralize Iran’s ability to threaten the Strait of Hormuz",
+        "THP a world where major powers pre-emptively destroy adversaries’ chokepoint weapons"
+      ],
+      "data_points": [
+        "US Central Command said more than 700 airstrikes destroyed over 90% of Iran’s inventory of around 8,000 naval mines",
+        "The statement did not specify how many mines were laid in the Strait of Hormuz versus destroyed in storage or on vessels",
+        "The Strait of Hormuz remains under Tehran’s continued control and is a vital global shipping chokepoint"
+      ]
+    },
+    {
+      "id": "e993cfdea633",
+      "title": "Bipartisan Capitol Hill misconduct taskforce tests whether internal reform can end elite workplace impunity",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/house-congress-sexual-misconduct",
+      "published": "2026-05-14T18:30:12Z",
+      "category": "IR",
+      "region": "United States / Congress",
+      "background": "On 14 May 2026, House Speaker Mike Johnson and Minority Leader Hakeem Jeffries announced a bipartisan effort to combat sexual misconduct on Capitol Hill. The initiative is being led by the Republican and Democratic women’s caucus chairs, Kat Cammack and Teresa Leger Fernández, and will work with the House Administration Committee on workplace rules and protections. The announcement follows a recent wave of allegations and resignations, including former Rep. Eric Swalwell stepping down in April after multiple allegations and Rep. Tony Gonzales resigning after acknowledging an extramarital affair with a staffer and facing expulsion pressure. At least two sitting lawmakers were also said to be under active ethics investigations.",
+      "prop_args": [
+        {
+          "thesis": "A bipartisan, institution-led reform process is the best way to reduce sexual misconduct in Congress because it can change incentives, improve reporting, and restore legitimacy without triggering partisan backlash.",
+          "mechanisms": [
+            "First, it lowers the political cost of enforcement. This is because (1) misconduct rules are more likely to survive if both parties own them, (2) members cannot dismiss sanctions as partisan witch-hunts, and (3) leadership buy-in makes retaliation against complainants or investigators harder to justify.",
+            "Second, it makes reporting faster and more accessible. Three reasons: one, staffers currently face opaque, intimidating complaint channels; two, clearer procedures reduce the time between abuse and consequence, which increases reporting rates; three, easier reporting creates a deterrent effect because perpetrators know complaints are more likely to stick.",
+            "Third, it protects institutional legitimacy. This matters because Congress is already facing public distrust; visible reform signals that the chamber can police itself, which helps retain staff, reduces scandal-driven resignations, and prevents the issue from becoming another symbol of elite impunity."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A bipartisan taskforce is mostly symbolic and will not meaningfully change misconduct because Congress has weak self-enforcement incentives and strong structural protections for powerful lawmakers.",
+          "mechanisms": [
+            "First, the people being regulated control the process. One, House leaders and committee structures are staffed by incumbents who benefit from minimizing scandal; two, internal reforms can be watered down into training and PR rather than sanctions; three, without independent enforcement, accused members still face low real costs.",
+            "Second, bipartisan cover can reduce accountability rather than increase it. One, both parties gain from suppressing damaging stories about their own members; two, compromise often means lowest-common-denominator rules that protect leadership over victims; three, the appearance of action can defuse pressure for stronger external oversight.",
+            "Third, workplace culture changes slowly and only when consequences are certain. One, harassment often persists because victims fear career damage, not because rules are absent; two, training alone rarely changes behavior of repeat offenders; three, unless there are automatic penalties, mandatory disclosures, and independent investigators, misconduct will continue under a new label."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic reform and enforceable deterrence. Prop wins if the question is whether Congress can improve its own internal culture at all; opp wins if the standard is whether elite self-regulation can reliably overcome entrenched impunity, since the structural incentives still favor cover-up and soft enforcement.",
+      "stock_connections": [
+        "Institutional capture",
+        "Elite impunity",
+        "Principal-agent problem",
+        "Symbolic politics",
+        "Whistleblower protection",
+        "Workplace harassment",
+        "Democratic legitimacy",
+        "Accountability deficit"
+      ],
+      "motion_areas": [
+        "TH, as the US House, would create a bipartisan taskforce to investigate and reform sexual misconduct procedures",
+        "THBT legislatures should not be allowed to self-regulate workplace misconduct",
+        "THP a world where allegations of sexual misconduct against lawmakers are handled by independent external bodies rather than internal ethics committees"
+      ],
+      "data_points": [
+        "Announcement made on 14 May 2026 by House Speaker Mike Johnson and Minority Leader Hakeem Jeffries",
+        "Taskforce led by Rep. Kat Cammack (R-FL) and Rep. Teresa Leger Fernández (D-NM)",
+        "Former Rep. Eric Swalwell stepped down in April 2026 after multiple allegations of sexual assault and misconduct",
+        "Rep. Tony Gonzales resigned after acknowledging an extramarital affair with a staffer and facing expulsion pressure",
+        "At least two sitting lawmakers were reported to face active ethics investigations",
+        "The proposed reforms include making reporting 'faster and more accessible' and increasing education and training resources"
+      ]
+    },
+    {
+      "id": "c075ac868494",
+      "title": "Trump’s Capture Push Turns Fed Independence Into the Core Economic Fault Line",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss",
+      "published": "2026-05-14T18:25:17Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "Jerome Powell’s term as chair of the US Federal Reserve ends on May 15, 2026, and he will be replaced by Kevin Warsh, a Trump appointee and former Fed governor (2006-2011). The article says Trump repeatedly pressured Powell for faster and deeper interest-rate cuts, including public attacks, threats to fire him, and an investigation into Fed headquarters renovations that prosecutors found had no evidence of wrongdoing. During Powell’s tenure, the Fed cut rates to 0-0.25 percent during COVID-19, supported CARES Act relief and lending facilities, then raised rates to 5.5 percent by July 2023 as inflation hit a 40-year high; current expectations are for rates to stay at 3.5-3.75 percent, with CME FedWatch assigning a 97 percent chance of no change at the June 16-17 meeting.",
+      "prop_args": [
+        {
+          "thesis": "Powell’s resistance to Trump protected the Fed’s credibility, preventing short-term political demands from undermining long-run inflation control and market stability.",
+          "mechanisms": [
+            "First, independence anchors inflation expectations. This is because (1) if markets believe rates are set to satisfy the president, they price in easier money and higher future inflation, (2) that raises borrowing costs and weakens the transmission of monetary policy, and (3) it forces the Fed to overcorrect later with harsher hikes.",
+            "Second, resisting White House pressure preserves institutional legitimacy. Three reasons: one, it signals that monetary policy is data-driven rather than election-driven; two, it protects the Fed from becoming a partisan branch of government; three, it reduces the precedent that future presidents can bully the central bank into stimulus before elections.",
+            "Third, Powell’s willingness to tighten when inflation surged shows the value of autonomy. This matters because the Fed raised rates to 5.5 percent by July 2023 despite political discomfort, which helped restore price stability after the pandemic shock and avoided a more persistent inflation regime."
+          ]
+        },
+        {
+          "thesis": "Powell’s COVID-era intervention showed that an independent Fed can act fast in a crisis without becoming a permanent arm of fiscal politics.",
+          "mechanisms": [
+            "First, the Fed’s emergency tools stabilized credit markets. This is because (1) rate cuts to 0-0.25 percent lowered financing costs immediately, (2) securities purchases and lending facilities prevented a liquidity freeze, and (3) coordination with Treasury under the CARES Act kept firms and households solvent during the shutdown.",
+            "Second, independence made the response more credible to markets. Three reasons: one, investors trusted the Fed would backstop panic without being forced into endless stimulus; two, the central bank could unwind support once conditions improved; three, it avoided the perception that relief was purely a political favor to the White House.",
+            "Third, the quick rebound after 2020 is evidence that decisive monetary action mattered. This matters because the article contrasts the rapid post-COVID recovery with the slower 2008 rebound, implying that a flexible but autonomous Fed can reduce the depth and duration of recessions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s pressure on Powell was justified because the Fed was too slow to respond to changing economic conditions and should be more accountable to elected leadership.",
+          "mechanisms": [
+            "First, unelected technocrats can become overly cautious. One, the Fed kept rates elevated in 2018 while growth concerns mounted; two, Trump’s criticism reflected a real political economy problem where tight policy can suppress employment and investment; three, democratic accountability matters when monetary policy has distributional effects.",
+            "Second, political pressure can force flexibility when the data support it. One, Powell did cut rates in summer 2019 after inflation stayed low and growth slowed; two, the Fed’s willingness to reverse course suggests external scrutiny can correct institutional inertia; three, if the Fed is insulated too much, it may miss recession risks or overprioritize abstract independence over real economic pain."
+          ]
+        },
+        {
+          "thesis": "The bigger lesson is not that the Fed should be fully insulated, but that its crisis actions and rate decisions inevitably have political consequences, so some coordination with the executive is necessary.",
+          "mechanisms": [
+            "First, monetary policy and fiscal policy are intertwined. One, the Fed’s COVID response worked alongside CARES Act spending and Treasury lending programs; two, that means the central bank was already part of a broader state response; three, pretending it is wholly separate can create policy incoherence in emergencies.",
+            "Second, the public ultimately judges outcomes, not institutional purity. One, if rate hikes or cuts affect jobs, mortgages, and inflation, voters bear the costs; two, elected officials have a mandate to respond to those costs; three, a rigid independence norm can shield the Fed from democratic correction even when policy is unpopular or mistaken."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether independence is a safeguard against inflationary capture or an excuse for technocratic unaccountability. Prop wins if the round is about long-run credibility and institutional design; opp wins only if they prove the Fed’s decisions were materially wrong and that political pressure improved outcomes rather than just making policy more partisan.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Technocracy vs Democracy",
+        "Institutional Capture",
+        "Moral Hazard",
+        "Inflation Expectations",
+        "Time Inconsistency",
+        "Political Business Cycles",
+        "Too Big To Fail",
+        "Crisis Management"
+      ],
+      "motion_areas": [
+        "TH, as the US President, would not publicly pressure the Federal Reserve on interest rates",
+        "THBT central banks should be fully independent of elected governments",
+        "THP a world in which monetary policy is insulated from partisan politics",
+        "TH, as a developing democracy, would prioritize central bank independence over executive control"
+      ],
+      "data_points": [
+        "Powell’s Fed kept the benchmark rate at 0-0.25 percent during the early COVID shock",
+        "The Fed raised rates to 5.5 percent by July 2023 in response to inflation",
+        "Current expected Fed range is 3.5-3.75 percent",
+        "CME FedWatch gives a 97 percent chance rates stay unchanged at the June 16-17 meeting",
+        "US inflation rose 3.8 percent year-on-year last month, the largest increase since May 2023",
+        "The Fed raised rates four times in 2018, from 1.25-1.50 percent to 2.25-2.50 percent",
+        "Powell’s term as Fed chair ends on May 15, 2026, and Kevin Warsh is set to replace him",
+        "Government prosecutors found no evidence of wrongdoing in the Fed headquarters renovations investigation"
+      ]
+    },
+    {
+      "id": "ff3faff2e1dc",
+      "title": "Trump’s UN Aid Pledge Tries to Buy Reform While Shrinking America’s Humanitarian Footprint",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/14/trump-administration-pledges-1-8bn-in-additional-humanitarian-aid-to-un?traffic_source=rss",
+      "published": "2026-05-14T18:24:00Z",
+      "category": "IR",
+      "region": "United States / United Nations / Global",
+      "background": "On 14 May 2026, the Trump administration announced an additional $1.8bn in humanitarian funding to the United Nations, on top of a $2bn commitment announced in December 2025. The White House framed the money as part of a push for UN reform and greater transparency, even as OECD estimates say US development assistance in 2025 fell by 56.9% compared with 2024 after Trump returned to office in January 2025 and shut down USAID in July 2025. The UN says the US is also badly behind on dues, with only $160m paid against nearly $4bn in arrears, while UN humanitarian chief Tom Fletcher said over 300 million people need support and global funding is declining.",
+      "prop_args": [
+        {
+          "thesis": "Conditioning aid on reform is a legitimate way to force the UN to become more efficient and deliver more humanitarian value per dollar.",
+          "mechanisms": [
+            "First, it creates leverage over a bloated institution. This is because (1) the UN depends heavily on US financing, so conditionality gives Washington bargaining power, (2) the threat of reduced or redirected funding forces bureaucracies to justify overheads and procurement practices, and (3) reform pressure can shift resources away from administrative waste and toward frontline delivery.",
+            "Second, it improves accountability and donor confidence. Three reasons: one, transparency requirements make it harder for funds to disappear into opaque contracting chains; two, clearer performance metrics let donors compare agencies and reward effective programs; three, visible reform can unlock broader burden-sharing by persuading other states that contributions will not be wasted.",
+            "Third, even a smaller but better-targeted package can save more lives than a larger inefficient one. This matters because humanitarian systems often suffer from leakage, duplication, and slow deployment, so if the same dollar reaches more beneficiaries, the relevant metric is impact per dollar rather than headline spending."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Using aid as a reform tool weakens humanitarian neutrality, reduces total support, and makes the world’s poorest people pay for great-power bargaining.",
+          "mechanisms": [
+            "First, conditionality turns emergency relief into a political weapon. One, agencies and recipient states cannot treat US support as predictable, which disrupts planning for food, health, and disaster response; two, recipients may avoid cooperation if they fear political strings; three, the precedent encourages other donors to attach their own agendas, fragmenting the humanitarian system.",
+            "Second, the scale of the US pullback overwhelms any efficiency gains. One, OECD data says US development assistance fell by 56.9% in 2025 versus 2024, which means the system loses far more money than reform can recover; two, the closure of USAID removes institutional capacity, field expertise, and rapid-response networks that cannot be replaced by rhetoric; three, humanitarian crises are time-sensitive, so delayed or reduced funding directly increases mortality and displacement.",
+            "Third, this damages the UN’s legitimacy and bargaining position. One, the US is itself in nearly $4bn of arrears, so demanding reform while withholding dues looks hypocritical; two, it encourages other states to free-ride or resist compliance when the largest power ignores obligations; three, it shifts the UN from a rules-based institution to a patronage system dominated by the biggest payer."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether conditional funding produces net efficiency gains or whether the loss of predictable, large-scale aid and institutional capacity dominates. Prop wins if the round is about governance quality and donor accountability; Opp wins on immediate humanitarian impact because the US cutback is massive relative to the extra $1.8bn and because crises punish uncertainty more than they reward reform.",
+      "stock_connections": [
+        "Conditionality",
+        "Soft Power",
+        "Humanitarian Intervention",
+        "Institutional Reform",
+        "Burden Sharing",
+        "Principal-Agent Problems",
+        "Aid Effectiveness",
+        "Moral Hazard",
+        "Rules-Based International Order",
+        "Great Power Bargaining"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would condition humanitarian aid to multilateral institutions on governance reform",
+        "THBT major donors should tie UN funding to institutional reform benchmarks",
+        "THP a world where humanitarian aid is routed through performance-based multilateral funding",
+        "THBT the US should prioritize efficiency over unconditional humanitarian commitments"
+      ],
+      "data_points": [
+        "$1.8bn additional humanitarian funding announced on 14 May 2026",
+        "$2bn 'anchor commitment' announced in December 2025",
+        "US humanitarian aid had reached as high as $17bn in fiscal year 2022",
+        "OECD estimates US development assistance fell by 56.9% in 2025 versus 2024",
+        "USAID was shuttered by the Trump administration in July 2025",
+        "UN General Assembly officials said the US had paid only $160m in dues against nearly $4bn in arrears",
+        "UN humanitarian chief Tom Fletcher said over 300 million people need support"
+      ]
+    },
+    {
+      "id": "f7f2af505288",
+      "title": "Musk v OpenAI Could Force a Reversal of the AI Giant’s For-Profit Turn",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/14/sam-altman-elon-musk-openai-lawsuit",
+      "published": "2026-05-14T18:12:24Z",
+      "category": "Business",
+      "region": "United States / California",
+      "background": "Closing arguments began on 14 May 2026 in Elon Musk’s lawsuit against Sam Altman, OpenAI, and OpenAI president Greg Brockman in federal court in Oakland, California. Musk alleges OpenAI breached a founding agreement by shifting from a non-profit mission to a for-profit structure and seeks the removal of Altman and Brockman, reversal of the restructuring, and $134bn redistributed from the for-profit arm to the non-profit. OpenAI argues Musk has no written contract, knew as early as 2017 that a for-profit structure was being considered, and filed too late under the statute of limitations. A nine-person jury will decide liability, after which Judge Yvonne Gonzalez Rogers would determine remedies if OpenAI is found liable.",
+      "prop_args": [
+        {
+          "thesis": "OpenAI’s conversion into a for-profit entity is exactly the kind of mission drift that justifies legal intervention to protect charitable founders, donors, and the public interest.",
+          "mechanisms": [
+            "First, the restructuring can be framed as a breach of trust even without a formal contract. This is because (1) charitable and quasi-charitable ventures often rely on founding understandings rather than dense written terms, (2) equity should not let sophisticated insiders exploit the absence of paperwork they themselves controlled, and (3) the jury can infer intent from conduct, internal documents, and later behavior.",
+            "Second, allowing OpenAI to keep the upside of the conversion creates a dangerous precedent for nonprofit-to-profit capture. Three reasons: one, it tells founders that they can solicit mission-based capital and then privatize the returns; two, it weakens donor confidence in AI safety and public-benefit institutions; three, it encourages a race to the bottom where every frontier-tech nonprofit becomes a future acquisition vehicle for insiders.",
+            "Third, the remedy matters because OpenAI is not a normal startup but a systemically important AI platform. This matters because (1) a $1tn IPO-bound company has enormous market power, (2) its governance affects how safety trade-offs are made across the sector, and (3) forcing accountability now deters other labs from treating “benefit humanity” language as marketing rather than binding purpose."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Musk’s case is a retroactive attempt to weaponize vague founding rhetoric against a company that openly evolved in response to commercial reality and the AI race.",
+          "mechanisms": [
+            "First, there is no enforceable promise if there was no clear written restriction. One, the article says no documents corroborate Musk’s story; two, witnesses including Shivon Zilis did not recall an explicit funding condition; three, courts should not invent obligations after the fact because that undermines commercial certainty.",
+            "Second, OpenAI can argue Musk knew and accepted the direction of travel long before suing. One, testimony suggests he knew as early as 2017 that a for-profit structure was being considered; two, he later tried to take control of the firm, which makes his suit look strategic rather than principled; three, the statute of limitations may bar claims that were available years earlier.",
+            "Third, preserving the for-profit structure is necessary to fund frontier AI at scale. One, training and deployment costs are enormous and require capital markets access; two, a nonprofit-only model would constrain talent, compute, and commercialization; three, if OpenAI is forced back into a purely charitable form, it may lose competitiveness to less accountable rivals, which could worsen safety outcomes overall."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between formal legal certainty and equitable protection of mission-driven institutions. Prop wins if the jury treats OpenAI as a trust-like entity where insiders cannot quietly privatize a public mission; opp wins if the absence of a written restriction and the statute of limitations make this look like an opportunistic, belated governance fight rather than a real breach.",
+      "stock_connections": [
+        "Corporate Governance",
+        "Mission Drift",
+        "Principal-Agent Problem",
+        "Moral Hazard",
+        "Nonprofit Capture",
+        "Regulatory Arbitrage",
+        "Founder Control",
+        "Statute of Limitations",
+        "Public Benefit vs Private Profit",
+        "Tech Monopoly"
+      ],
+      "motion_areas": [
+        "TH, as a court, would block the conversion of mission-driven AI labs into for-profit firms",
+        "THBT founders should be able to enforce informal founding agreements against later corporate restructuring",
+        "THP a world where frontier AI companies must remain nonprofit or public-benefit entities",
+        "THBT courts should prioritize public-interest governance over formal contract text in emerging-tech disputes"
+      ],
+      "data_points": [
+        "Trial began in an Oakland, California federal courthouse in April 2026; closing arguments began on 14 May 2026",
+        "A nine-person jury will decide liability",
+        "Musk seeks $134bn to be redistributed from OpenAI’s for-profit arm to its non-profit organization",
+        "OpenAI is seeking a public listing later in 2026 at a reported $1tn valuation",
+        "The case centers on whether OpenAI’s restructuring from nonprofit to for-profit breached a founding agreement",
+        "Judge Yvonne Gonzalez Rogers will decide remedies if the jury finds liability",
+        "OpenAI argues Musk knew by 2017 that a for-profit structure was being considered",
+        "Witness Shivon Zilis reportedly did not recall an explicit agreement conditioning Musk’s funding on nonprofit status"
+      ]
+    },
+    {
+      "id": "c81156d3f535",
+      "title": "Alito Stock Holdings Turn Supreme Court Climate Cases Into a Test of Judicial Capture",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/alito-stock-conflicts-senate-investigation",
+      "published": "2026-05-14T18:08:21Z",
+      "category": "IR",
+      "region": "United States / Supreme Court / Senate",
+      "background": "On 14 May 2026, a coalition of watchdog groups urged the Senate Judiciary Committee to investigate Supreme Court Justice Samuel Alito over alleged conflicts of interest tied to oil and gas stock holdings. The letter says Alito owns between $60,007 and $245,000 in individual stock across ConocoPhillips, Phillips 66, and five other energy companies, plus up to $100,000 in a Vanguard fund with Exxon as its third-largest holding. The immediate trigger is the Court’s February 2026 decision to hear a petition from Suncor Energy and Exxon seeking to block state and local climate lawsuits against oil companies. Alito did not recuse himself from that petition, though he had recused in 2023 from an earlier petition in the same underlying litigation.",
+      "prop_args": [
+        {
+          "thesis": "Senate scrutiny is necessary because financial conflicts at the Supreme Court erode the legitimacy of climate rulings and create a direct incentive for justices to protect industry.",
+          "mechanisms": [
+            "First, it restores institutional legitimacy by forcing transparency and accountability. This is because (1) the Court’s 2023 ethics code is self-enforced and widely described as toothless, (2) justices decide their own recusals, and (3) without external review, the public has no credible way to know whether outcomes are being shaped by private financial interests.",
+            "Second, it prevents biased adjudication in cases with massive industry-wide consequences. Three reasons: one, Alito’s holdings are not trivial side interests but direct exposure to oil and gas firms named in the broader climate litigation ecosystem; two, the Suncor/Exxon petition could affect dozens of parallel state and local lawsuits; three, even the appearance that a justice may benefit from a pro-industry ruling undermines the fairness of the entire docket.",
+            "Third, Senate investigation creates a deterrent effect for future conflicts. This matters because (1) Supreme Court justices currently face weak ex post consequences for nondisclosure or nonrecusal, (2) public investigation raises the political cost of holding conflicted assets, and (3) a credible enforcement threat pushes the Court toward stricter ethics norms across all justices, not just Alito."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is overreach because recusal and ethics decisions belong to the Court itself, and Senate intervention risks turning judicial ethics into partisan warfare.",
+          "mechanisms": [
+            "First, the institutional remedy is weak because the Senate cannot cleanly police individual recusals without politicizing the judiciary. One, any investigation will be read through a partisan lens given that climate litigation pits blue-state governments against oil companies; two, Congress has no easy neutral standard for second-guessing a justice’s financial decisions; three, aggressive oversight can become a tool to intimidate judges whenever their rulings are unpopular.",
+            "Second, the alleged conflict is overstated because the Court’s ethics rules already allow justices to decide whether they are sufficiently conflicted, and the holdings may be indirect or diversified. One, the Vanguard fund is not a direct bet on a single case outcome; two, the Court may need a justice’s vote to resolve a petition, which the code explicitly contemplates; three, punishing a justice for broad index exposure would create unworkable recusal incentives in a modern investment market.",
+            "Third, the practical harm of investigation may exceed the benefit. One, it could further delegitimize the Court by making every controversial ruling look corrupt; two, it may encourage strategic stock-accusation campaigns against justices; three, if the goal is ethics reform, a general rule change is better than a targeted Senate probe of one justice."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether legitimacy is protected by external enforcement or damaged by political interference. Prop wins if the judge prioritizes structural accountability in a self-policing Court; opp wins if they think Senate scrutiny becomes partisan retaliation that weakens judicial independence more than it improves ethics.",
+      "stock_connections": [
+        "Judicial legitimacy",
+        "Conflict of interest",
+        "Institutional capture",
+        "Checks and balances",
+        "Democratic accountability",
+        "Regulatory capture",
+        "Appearance of impropriety",
+        "Elite impunity"
+      ],
+      "motion_areas": [
+        "TH, as the U.S. Senate, would investigate Supreme Court justices for financial conflicts of interest",
+        "THBT Congress should have the power to enforce Supreme Court ethics rules",
+        "THP a world where Supreme Court justices are barred from holding sector-specific stocks",
+        "TH supports external oversight of judicial recusals",
+        "THBT the Supreme Court’s self-regulation of ethics is a failure"
+      ],
+      "data_points": [
+        "Alito’s 2024 financial disclosure listed individual stock worth between $60,007 and $245,000 in ConocoPhillips, Phillips 66, and five other oil and energy companies",
+        "Alito also held up to $100,000 in a Vanguard fund with Exxon as the third-largest holding",
+        "The Supreme Court agreed in February 2026 to hear Suncor Energy and Exxon’s petition in the climate litigation",
+        "More than 70 state and local governments are suing oil companies over alleged climate deception",
+        "The Supreme Court adopted its first formal ethics code in 2023, but it has no enforcement mechanism",
+        "In 2023, Alito recused himself from an earlier petition in the same lawsuit",
+        "Elliott Investment Management, founded by Paul Singer, owns more than 52 million shares of Suncor worth more than $2.3 billion"
+      ]
+    },
+    {
+      "id": "e99c56b1e15a",
+      "title": "Nottingham killings expose how under-resourced mental health systems fail to act on family warnings until crisis",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/14/mental-health-system-broken-says-celeste-valdo-calocane-mother-nottingham-killer",
+      "published": "2026-05-14T17:51:36Z",
+      "category": "Econ",
+      "region": "United Kingdom / Nottingham",
+      "background": "At an inquiry into the 2023 Nottingham attacks, Celeste Calocane, mother of Valdo Calocane, said the mental health system was \"broken\" and that \"no one listens to you\" until there is a crisis. Valdo Calocane, who has paranoid schizophrenia, killed students Barnaby Webber and Grace O’Malley-Kumar, both 19, and caretaker Ian Coates, 65, on 13 June 2023, and attempted to kill three others; he was sentenced to a suspended hospital order in January 2024. The inquiry heard he was sectioned four times between 2020 and 2023, that family members repeatedly warned clinicians about violent and paranoid messages, and that he was discharged after short admissions despite concerns that he could \"end up killing someone.\"",
+      "prop_args": [
+        {
+          "thesis": "The case shows that mental health systems should prioritize earlier, more aggressive intervention because waiting for a formal crisis creates catastrophic public-safety failures.",
+          "mechanisms": [
+            "First, early-warning information is being lost in fragmented care pathways. This is because (1) family members often hold the most continuous information about deterioration, (2) clinicians see patients episodically and may miss escalation between admissions, and (3) without a system that actively aggregates and escalates collateral information, repeated warnings never become action.",
+            "Second, crisis-only thresholds incentivize dangerous under-treatment. Three reasons: one, staff become focused on whether someone is immediately detainable rather than whether they are predictably deteriorating; two, short admissions and rapid discharge create a revolving-door pattern where risk is temporarily suppressed but not stabilized; three, families are left to do unpaid monitoring work without authority, training, or access to decision-making.",
+            "Third, the social cost of failure is enormous and asymmetric. This matters because one missed intervention can produce irreversible harm to victims, while the cost of earlier supervision, longer admission, or more intensive community follow-up is comparatively small and reversible."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The tragedy is not proof that the system is broadly broken; it shows the difficulty of balancing patient autonomy, confidentiality, and limited resources in high-risk psychiatric care.",
+          "mechanisms": [
+            "First, clinicians cannot simply act on every family concern without due process. One, mental illness is not the same as dangerousness, so overreacting risks unnecessary detention and rights violations; two, confidentiality rules exist because patients may refuse information-sharing, especially when capacity is contested; three, if the state lowers the threshold too far, it creates a system where people are institutionalized on suspicion rather than evidence.",
+            "Second, the real constraint is capacity, not just attitude. One, mental health services operate with limited beds, staff, and crisis-team availability, so even well-intentioned clinicians cannot provide long-term inpatient care to every concerning case; two, short admissions may reflect triage under scarcity rather than negligence; three, expanding coercive intervention without funding simply shifts the burden onto police, hospitals, and families without fixing the underlying shortage."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between preventable harm and overreach: prop wins if it shows that ignoring repeated, specific family warnings predictably produces lethal outcomes, while opp wins if it proves that more intervention would mainly expand coercion without reliably improving safety. This argument wins because the article contains multiple concrete missed signals, making the failure look systemic rather than isolated.",
+      "stock_connections": [
+        "State Failure",
+        "Duty of Care",
+        "Preventive Detention",
+        "Civil Liberties vs Public Safety",
+        "Moral Hazard",
+        "Institutional Negligence",
+        "Underfunded Public Services",
+        "Risk Management",
+        "Information Asymmetry"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would lower the threshold for involuntary psychiatric intervention in high-risk cases",
+        "THBT mental health services should be allowed to override patient confidentiality when family members report credible violence risks",
+        "THP a world where families have formal escalation rights in psychiatric care",
+        "THBT governments should prioritize preventive psychiatric detention over community-based care for severe psychosis"
+      ],
+      "data_points": [
+        "Valdo Calocane killed 3 people and attempted to kill 3 others on 13 June 2023",
+        "He was sectioned 4 times between 2020 and 2023",
+        "He was sentenced to a suspended hospital order in January 2024",
+        "A doctor reportedly said during the second admission that he could 'end up killing someone' and that schizophrenia was 'likely'",
+        "Celeste Calocane said she warned staff in May 2020 and again in August 2020 about a 'risk to others'",
+        "He was discharged after 2 weeks from a second hospital admission, despite his mother hoping for at least 6 months"
+      ]
+    },
+    {
+      "id": "5c7d3307ca0e",
+      "title": "UK Permits New Offshore Wind Farms to Test Whether Faster Buildout Can Cut Power Costs",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/uk-awards-permits-to-dogger-bank-south-north-fall-wind-farms",
+      "published": "2026-05-14T17:49:21Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "The article reports that the UK has awarded permits to the Dogger Bank South and North Fall offshore wind farms in the North Sea. The piece is framed around offshore wind infrastructure in the UK, where projects like the London Array already operate in the Thames Estuary with 175 Siemens turbines and a capacity of 630MW. The policy question is whether expanding offshore wind through permitting can accelerate the UK’s energy transition and affect electricity prices, investment, and industrial competitiveness.",
+      "prop_args": [
+        {
+          "thesis": "Fast-tracking offshore wind permits lowers long-run electricity costs and strengthens the UK’s energy security by expanding domestic clean generation.",
+          "mechanisms": [
+            "First, more permitted capacity increases supply and reduces exposure to volatile imported gas prices. This is because (1) the UK power market is still heavily influenced by gas-set marginal pricing, (2) domestic wind generation displaces imported fossil fuels, and (3) lower fuel exposure reduces price spikes for households and firms.",
+            "Second, permitting certainty unlocks private capital and speeds project delivery. Three reasons: one, developers can only commit billions when planning and regulatory risk falls; two, a visible pipeline supports turbine manufacturing, ports, and grid investment; three, faster buildout creates learning-by-doing that lowers unit costs over time.",
+            "Third, offshore wind improves strategic resilience. This matters because (1) it diversifies the UK’s energy mix, (2) it reduces geopolitical dependence on external suppliers, and (3) it gives the state more control over a critical input for industry and national security."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Permits alone do not solve the UK’s energy problem, and aggressive offshore wind expansion can raise costs and create new bottlenecks.",
+          "mechanisms": [
+            "First, new permits do not guarantee cheap power because the binding constraints are often grid, supply chain, and financing costs. One, transmission connections and offshore grid upgrades lag generation approvals; two, turbine and cable shortages raise capex; three, higher interest rates make long-duration infrastructure more expensive.",
+            "Second, offshore wind can be unreliable as a sole affordability strategy. One, output depends on weather, so the system still needs backup capacity; two, balancing and storage costs are passed through to consumers; three, if auctions are poorly designed, developers demand higher strike prices to hedge risk.",
+            "Third, the policy can crowd out better alternatives or create political backlash. One, large subsidies may divert capital from insulation, nuclear, or flexible storage; two, visible cost overruns undermine public support for the transition; three, if bills do not fall quickly, voters may punish green industrial policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the main constraint on UK energy prices is generation capacity or system integration. Prop wins if they can show permits are the bottleneck that unlocks cheaper domestic supply; opp wins if they show the real bottlenecks are grids, storage, and financing, meaning permits mostly add headline capacity without immediate consumer gains.",
+      "stock_connections": [
+        "Energy security",
+        "Industrial policy",
+        "Green transition",
+        "Subsidy efficiency",
+        "Infrastructure bottlenecks",
+        "Market design failure",
+        "Public goods provision",
+        "Dutch Disease"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would aggressively fast-track offshore wind permitting",
+        "THBT governments should prioritize offshore wind over other energy sources",
+        "THP a world where electricity markets are decoupled from fossil fuel price volatility through domestic renewables"
+      ],
+      "data_points": [
+        "London Array offshore wind farm has 175 Siemens turbines and a capacity of 630MW",
+        "The London Array is located in the Thames Estuary, east of London",
+        "The article concerns permits for the Dogger Bank South and North Fall offshore wind farms in the North Sea",
+        "Bloomberg article published on 2026-05-14T17:49:21Z"
+      ]
+    },
+    {
+      "id": "f3cf3482822d",
+      "title": "The Hague Refuses Humanitarian Release for Ratko Mladić, Prioritizing Retributive Justice Over End-of-Life Mercy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T17:45:39Z",
+      "category": "IR",
+      "region": "The Hague (Netherlands) / Bosnia and Herzegovina / former Yugoslavia",
+      "background": "A UN court in The Hague has denied convicted Bosnian Serb commander Ratko Mladić's request for release on medical grounds, despite acknowledging that he is in the 'final stages of his life.' Mladić, 84, was sentenced to life imprisonment in 2017 for genocide, war crimes, and crimes against humanity committed during the 1992-95 Bosnian war; his conviction was upheld on appeal in 2021. His lawyers argued he suffered a suspected stroke and faced imminent death, while Serbia indicated it could provide guarantees if he were released. Victims' groups in Bosnia strongly opposed the request, calling it a legal tactic rather than a genuine humanitarian appeal.",
+      "prop_args": [
+        {
+          "thesis": "International tribunals should deny release to convicted atrocity perpetrators when prison care is adequate, because accountability must survive even at the end of life.",
+          "mechanisms": [
+            "First, denying release preserves the credibility of international justice. This is because (1) atrocity trials are meant to signal that genocide and mass murder carry real, non-negotiable consequences, (2) releasing a convicted commander near death creates a precedent that punishment can be softened once political pressure and sympathy peak, and (3) that weakens deterrence for future war criminals who may otherwise assume they can outlast the system.",
+            "Second, keeping him in custody protects victims' dignity and the integrity of the historical record. Three reasons: one, survivors of Sarajevo, Srebrenica, and displaced Bosniak communities see continued detention as recognition of the scale of harm; two, release would be read as moral equivalence between perpetrator suffering and victim suffering, which distorts public memory; three, tribunals depend on the perception that they stand with victims rather than with the powerful men who ordered atrocities.",
+            "Third, the court can meet humanitarian obligations without release, so mercy does not require impunity. This matters because (1) the ruling says he has access to high-quality prison and hospital care, (2) he can receive frequent family visits and even have relatives present at his final moments, and (3) if adequate treatment exists in custody, the state avoids creating a loophole where serious offenders can convert age or illness into de facto sentence reduction."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Even the worst war criminals should be eligible for compassionate release when they are terminally ill, because justice does not require the state to prolong suffering unnecessarily.",
+          "mechanisms": [
+            "First, humanitarian release is consistent with the principle that punishment should not become cruelty. One, if a prisoner is in the final stages of life and no additional treatment is available elsewhere, continued incarceration adds little retributive value; two, states and tribunals gain moral legitimacy by showing that even perpetrators retain basic human dignity; three, refusing release can look like vengeance rather than justice, especially when the person is no longer a security threat.",
+            "Second, allowing release can reduce political martyrdom and ethnic grievance in the long run. One, keeping a dying Mladić in prison may be used by Serbian nationalists to sustain grievance narratives and portray him as persecuted; two, a controlled release to a hospital or hospice could lower the symbolic temperature around his death; three, this can help prevent his final days from becoming a rallying point for denialism and radicalization.",
+            "Third, the court's own humanitarian logic becomes inconsistent if it ignores the practical realities of dying in prison. One, the ruling admits he is in the 'final stages of his life' and that his condition is dire; two, if the only difference between prison and release is location, not treatment, then continued detention is symbolic punishment rather than necessary confinement; three, international justice is stronger when it distinguishes between protecting society and exacting symbolic closure."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the purpose of international punishment is deterrent accountability or humane proportionality at the end of life. Prop has the structural advantage on precedent and victim legitimacy because tribunals are built to punish atrocity without exception, but Opp can win if they frame release as a narrow, non-precedential mercy rule that does not erase conviction.",
+      "stock_connections": [
+        "Retributive Justice",
+        "Restorative Justice",
+        "Transitional Justice",
+        "Victim Dignity",
+        "Humanitarian Exception",
+        "Impunity",
+        "Deterrence",
+        "Rule of Law",
+        "War Crimes Accountability",
+        "Symbolic Politics"
+      ],
+      "motion_areas": [
+        "TH, as an international tribunal, would deny compassionate release to convicted war criminals in their final days",
+        "THBT international courts should prioritize victim justice over humanitarian release for atrocity perpetrators",
+        "THP a world where terminally ill prisoners convicted of genocide are not eligible for release"
+      ],
+      "data_points": [
+        "Ratko Mladić, 84, was sentenced to life imprisonment in 2017; conviction upheld on appeal in 2021",
+        "The court said he is in the 'final stages of his life' but that prison and hospital conditions in The Hague are of 'such high quality' that his comfort can be 'maximally ensured'",
+        "Mladić was convicted for genocide, war crimes, and crimes against humanity committed during the 1992-95 Bosnian war",
+        "The Bosnian war killed more than 100,000 people and displaced about two million",
+        "Bosnian Serb forces besieged Sarajevo, causing more than 10,000 deaths, and massacred 8,000 men and boys at Srebrenica",
+        "Mladić disappeared in 1995 and was arrested in rural Serbia in 2011 after 16 years on the run"
+      ]
+    },
+    {
+      "id": "a28fb831c31a",
+      "title": "Israel’s Threatened Defamation Suit Against the New York Times Escalates the Battle Over War Reporting and Press Accountability",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/14/israel-sue-new-york-times-sexual-abuse-palestinian-prisoners",
+      "published": "2026-05-14T17:43:04Z",
+      "category": "IR",
+      "region": "Israel / Palestinian territories; United States (NYT)",
+      "background": "On 14 May 2026, Israel’s prime minister Benjamin Netanyahu and foreign minister Gideon Sa’ar threatened to sue the New York Times for defamation over an opinion essay by Nicholas Kristof alleging sexual abuse, including rape, of Palestinian detainees in Israeli military custody. The Times said Kristof interviewed 14 men and women and corroborated accounts through family members, lawyers, human-rights groups, news reporting, independent research, and in one case UN testimony. Legal experts quoted in the article said a US court is extremely unlikely to entertain a defamation claim brought by a foreign government against critics of that government, citing First Amendment protections.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s threatened lawsuit is a legitimate attempt to defend state reputation against reckless, politically timed allegations that risk laundering unverified claims into public fact.",
+          "mechanisms": [
+            "First, the lawsuit can deter publication practices that blur the line between reporting and advocacy. This is because (1) the article appeared in the opinion section rather than straight news, (2) the allegations concern extremely serious crimes that require especially high evidentiary caution, and (3) a high-profile outlet can amplify claims globally before they are fully tested.",
+            "Second, legal action can force evidentiary scrutiny and correction of potentially misleading framing. Three reasons: one, the Times itself admits some accounts could not be fully corroborated, two, the piece relies partly on interviews and secondary corroboration rather than direct documentary proof, and three, the article’s publication alongside ongoing Israel-Hamas information warfare creates a strong incentive for adversarial actors to exploit weakly substantiated claims.",
+            "Third, defending against defamatory atrocity allegations matters because reputational harm has strategic consequences. This matters because (1) claims of rape and sexual abuse by state actors can delegitimize military operations internationally, (2) they can fuel diplomatic isolation and legal pressure in other forums, and (3) they can harden domestic and allied perceptions that Israel is acting outside the bounds of law."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel’s threatened suit is a censorship tactic designed to intimidate journalists and suppress scrutiny of alleged abuses in detention.",
+          "mechanisms": [
+            "First, the claim is structurally weak because governments generally cannot sue critics for defamation in the United States. One, First Amendment doctrine protects criticism of public officials and state conduct, two, legal experts in the article say no US court would countenance such a case, and three, the threat itself functions more as intimidation than as a viable legal remedy.",
+            "Second, the move chills reporting on war crimes and prison abuse. One, it signals to editors and correspondents that publishing victim testimony may trigger costly litigation, two, it encourages self-censorship around detainee abuse and military misconduct, and three, it reduces the flow of information needed for public accountability and humanitarian oversight.",
+            "Third, the underlying allegations are not frivolous and are already supported by multiple corroborative sources. One, Kristof says he interviewed 14 victims and cross-checked accounts with lawyers, family members, human-rights groups, and UN testimony, two, the Guardian notes similar allegations have been documented by B’Tselem, Save the Children, and other groups, and three, even if some details remain contested, the proper response is investigation rather than legal intimidation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between reputational defense and press freedom/accountability. The opposition has the structural advantage because the lawsuit appears legally implausible in the US and the chilling effect on reporting is immediate, while the government’s reputational harms are indirect and depend on proving the underlying reporting was knowingly false.",
+      "stock_connections": [
+        "Press Freedom",
+        "Chilling Effect",
+        "Strategic Lawsuits Against Public Participation (SLAPP)",
+        "State Accountability",
+        "Information Warfare",
+        "War Crimes Allegations",
+        "Democratic Backsliding",
+        "International Humanitarian Law",
+        "Reputation vs. Accountability"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would sue major foreign media outlets over war reporting",
+        "THBT governments should be able to sue foreign newspapers for defamatory coverage",
+        "THP a world where states cannot use litigation to challenge allegations of human rights abuses",
+        "THBT the New York Times should publish more opinion pieces on alleged war crimes even amid diplomatic backlash"
+      ],
+      "data_points": [
+        "Kristof said he interviewed 14 men and women alleging abuse in Israeli detention",
+        "The Times said the accounts were corroborated with family members, lawyers, human-rights groups, independent research, surveys, and in one case UN testimony",
+        "Legal experts quoted said there is 'no chance' a US court would countenance a defamation case by a government against critics of that government",
+        "Israel’s foreign ministry said it had instructed the initiation of a defamation lawsuit against the New York Times",
+        "The article notes prior allegations of sexual assault in Israeli custody documented by B’Tselem and Save the Children",
+        "Netanyahu previously threatened to sue the Times over Gaza starvation coverage in 2025, but Israel did not follow through"
+      ]
+    },
+    {
+      "id": "e67d25193384",
+      "title": "Trump’s Growth-First Agenda Reignites Inflation and Breaks the Post-Pandemic Price Truce",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/trump-inflation-economy/687175/?utm_source=feed",
+      "published": "2026-05-14T17:34:30Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The article argues that Donald Trump, elected in 2024 on a promise to bring down prices, has instead pursued policies that raise inflation. It cites a 2026 inflation rate of 3.8% year-on-year and producer prices up 6%, attributing the increase to a large tax cut, tighter immigration enforcement, tariffs, and the Iran war’s closure of the Strait of Hormuz. Goldman Sachs had previously estimated Trump’s tariffs could add about 1 percentage point to inflation in the second half of 2025 and first half of 2026.",
+      "prop_args": [
+        {
+          "thesis": "A government that prioritizes political goals over price stability will eventually lose public trust when inflation becomes the visible cost of its choices.",
+          "mechanisms": [
+            "First, Trump’s policy mix directly raises demand and supply-side prices at the same time. This is because (1) a tax cut adding more than $4 trillion to deficits puts more cash into consumer pockets, (2) immigration restrictions shrink labor supply in sectors like agriculture, construction, food processing, and hospitality, and (3) tariffs are explicitly designed to raise import prices so domestic production becomes relatively cheaper.",
+            "Second, once inflation is visibly policy-induced, voters punish the incumbent more harshly than they punish abstract macroeconomic trade-offs. Three reasons: one, people experience higher grocery and fuel bills immediately; two, they do not credit long-run industrial policy when prices rise now; three, the article notes Trump’s inflation approval is lower than any American president in polling history, showing the political salience of prices.",
+            "Third, inflation is especially dangerous because it erodes the one issue voters remember most from the post-pandemic period. This matters because (1) the public’s memory of the 2022 price shock remains fresh, (2) any new spike confirms that elites cannot protect purchasing power, and (3) once trust is lost, even unrelated policies are interpreted through a cost-of-living lens."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s inflation problem is largely inherited or externally driven, so blaming his administration overstates presidential control over prices.",
+          "mechanisms": [
+            "First, major inflation shocks come from global supply disruptions rather than domestic intent. One, the article itself says Biden-era inflation was mostly driven by pandemic reopening effects; two, the Iran war and Strait of Hormuz closure are external shocks that raise oil, fertilizer, and transport costs worldwide; three, elected officials cannot fully control global commodity markets.",
+            "Second, some of Trump’s policies may trade short-term price pressure for longer-term supply or strategic gains. One, tariffs can be defended as industrial policy to rebuild domestic production; two, immigration restrictions may be politically popular and framed as labor-market protection; three, voters may accept modest inflation if they believe it serves sovereignty, security, or manufacturing resilience.",
+            "Third, the article assumes voters will always punish inflation more than other priorities, but that is not guaranteed. One, Trump explicitly campaigned on immigration and border control as higher priorities for many supporters; two, if the public sees inflation as caused by war or the Fed rather than the White House, blame diffusion weakens the electoral cost; three, a president can survive temporary price spikes if broader identity or security issues dominate."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between controllable, policy-induced inflation and exogenous shocks. This argument wins because if inflation is seen as the direct result of deliberate choices—tariffs, deficits, labor shortages, and war risk—then the incumbent owns the pain; if it is framed as global turbulence, the political and economic blame is much weaker.",
+      "stock_connections": [
+        "Inflationary policy",
+        "Cost-push inflation",
+        "Demand-pull inflation",
+        "Trade protectionism",
+        "Tariff retaliation",
+        "Labor shortages",
+        "Political economy of inflation",
+        "Incumbency advantage",
+        "War and commodity shocks",
+        "Supply chain disruption"
+      ],
+      "motion_areas": [
+        "TH, as a government, should prioritize inflation reduction over all other economic goals",
+        "THBT populist governments should avoid tariffs even when they promise domestic industrial revival",
+        "THP a world where presidents are judged primarily on cost-of-living outcomes",
+        "TH, as the United States, would reverse restrictionist immigration policy to fight inflation",
+        "THBT governments should not use war as a tool of economic leverage"
+      ],
+      "data_points": [
+        "U.S. inflation rose 3.8% year-on-year in April 2026",
+        "U.S. producer prices increased 6% in April 2026",
+        "Trump’s tax cut increases the budget deficit by more than $4 trillion over the next decade",
+        "Goldman Sachs estimated Trump’s tariffs would add about 1 percentage point to inflation in the second half of 2025 and first half of 2026",
+        "Adriana Kugler warned in June 2025 that cutting off immigrant workers could add meaningful upward pressure to inflation in agriculture, construction, food processing, and leisure and hospitality",
+        "Trump’s approval on inflation is described as lower than any American president in the history of polling"
+      ]
+    },
+    {
+      "id": "8298ff7cf589",
+      "title": "US Crypto Clarity Bill and Tokenized Assets Could Shift Market Power Away From Incumbent Regulators",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/bob-diamond-on-uk-turmoil-tokenization-and-crypto-bill-video",
+      "published": "2026-05-14T17:29:30Z",
+      "category": "Econ",
+      "region": "UK / United States / Middle East",
+      "background": "On 14 May 2026, Bloomberg interviewed Bob Diamond, founding partner and CEO of Atlas Merchant Capital, about tokenized real-world assets, UK political turmoil, Middle East markets, and US crypto regulation. Diamond discussed the Senate Banking Committee advancing the so-called Clarity Act, which would make the CFTC the primary regulator for large parts of the crypto industry. The segment also framed tokenization as an emerging trend in financial markets, with implications for how assets are issued, traded, and regulated across major financial centers.",
+      "prop_args": [
+        {
+          "thesis": "A clearer US regulatory framework for crypto and tokenized assets will accelerate capital formation and make financial markets more efficient.",
+          "mechanisms": [
+            "First, regulatory clarity lowers compliance uncertainty for issuers and investors. This is because (1) firms can price legal risk more accurately, (2) institutional investors are more willing to enter markets when the rulebook is stable, and (3) startups can spend less on lawyers and more on product development.",
+            "Second, tokenization reduces frictions in asset markets. Three reasons: one, assets can be fractionalized so smaller investors can access high-value instruments; two, settlement can become faster and cheaper by reducing intermediaries; three, 24/7 trading can improve liquidity in previously illiquid assets like private credit, real estate, or commodities.",
+            "Third, moving large parts of crypto oversight to the CFTC can improve innovation by matching regulation to market structure. This matters because the CFTC has a derivatives-oriented framework that is often more flexible than securities-style regulation, which can allow new products to scale before they are overburdened by rules designed for traditional equities."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A crypto clarity bill risks weakening investor protection and creating systemic risks by legitimizing speculative markets before safeguards are mature.",
+          "mechanisms": [
+            "First, shifting oversight toward the CFTC can create regulatory gaps. One, many crypto products blur the line between commodities, securities, and payment instruments; two, firms can arbitrage between agencies to avoid stricter rules; three, weaker disclosure standards can leave retail investors exposed to fraud and manipulation.",
+            "Second, tokenization can import old financial risks into faster, less transparent infrastructure. One, if illiquid assets are made tradeable 24/7, price discovery can become more volatile rather than more stable; two, leverage and rehypothecation can spread faster through tokenized platforms; three, smart-contract or custody failures can create new single points of failure.",
+            "Third, legitimizing crypto at scale can deepen speculative excess and moral hazard. One, policymakers may feel pressured to bail out or stabilize a sector once it becomes systemically important; two, incumbents and politically connected firms can capture the new regime; three, the public bears downside risk while private actors capture upside during the boom."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether regulation unlocks productive innovation or simply lowers the guardrails for a risky asset class. Pro side wins if the judge prioritizes market efficiency and capital formation; opposition wins if they think investor protection and systemic stability should come first, especially when the technology is still immature.",
+      "stock_connections": [
+        "Regulatory Arbitrage",
+        "Moral Hazard",
+        "Financial Deregulation",
+        "Innovation vs. Consumer Protection",
+        "Systemic Risk",
+        "Race to the Bottom",
+        "Financial Inclusion",
+        "Market Efficiency",
+        "Capture Theory"
+      ],
+      "motion_areas": [
+        "TH, as the US Congress, would pass a crypto clarity bill that makes the CFTC the primary regulator for most crypto markets",
+        "THBT governments should prioritize tokenization of real-world assets over stricter crypto restrictions",
+        "THP a world in which tokenized assets are treated like mainstream financial instruments"
+      ],
+      "data_points": [
+        "The Senate Banking Committee advanced the so-called Clarity Act on 14 May 2026",
+        "The bill would establish the CFTC as the primary regulator for large parts of the crypto industry",
+        "The Bloomberg segment focused on tokenized real-world assets as an emerging market trend"
+      ]
+    },
+    {
+      "id": "33435965ee47",
+      "title": "China’s Boeing Purchase Becomes a Trade-Deal Symbol That Could Rewire US–China Bargaining",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/trump-says-boeing-wins-200-jet-plane-order-from-china-video",
+      "published": "2026-05-14T17:10:05Z",
+      "category": "IR",
+      "region": "United States / China / Iran",
+      "background": "On May 14, 2026, President Donald Trump said on Fox News that China had agreed to buy 200 Boeing planes, which would be China’s first purchase of US-made commercial jets in nearly a decade. Trump also said China was willing to support negotiations with Iran, although Beijing had not explicitly confirmed that position. The report frames the Boeing order as part of broader US–China diplomatic and commercial bargaining, with implications for trade leverage and Iran diplomacy.",
+      "prop_args": [
+        {
+          "thesis": "Using commercial aircraft sales as a bargaining chip gives the US tangible leverage over China and can convert symbolic diplomacy into enforceable economic concessions.",
+          "mechanisms": [
+            "First, the Boeing order creates a visible, high-value payoff that China can only deliver if it wants to signal cooperation. This matters because (1) aircraft purchases are large, politically salient contracts, (2) they are easy for Washington to publicize as a win, and (3) they can be linked to broader concessions on tariffs, market access, or security behavior.",
+            "Second, tying trade benefits to geopolitical cooperation raises the cost of noncompliance for Beijing. Three reasons: one, China’s leadership has to weigh domestic industrial policy against access to US aerospace supply chains; two, the US can threaten to slow or expand approvals, export licenses, or tariff relief; three, the deal creates a precedent that future Chinese cooperation is rewarded through concrete commercial access rather than vague diplomatic promises.",
+            "Third, if China is genuinely willing to support Iran talks, the US gains a low-cost channel to pressure Tehran through a third party. This matters because China has economic ties to Iran, can communicate indirectly when formal US-Iran diplomacy is stalled, and can help create the appearance of a broader coalition behind negotiations, which increases diplomatic momentum."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is mostly symbolic and risks turning US foreign policy into transactional theater that China can exploit without making meaningful strategic concessions.",
+          "mechanisms": [
+            "First, the Boeing order may reflect routine commercial procurement rather than a real diplomatic breakthrough. One, China needs aircraft for its aviation market regardless of politics; two, Boeing sales can be delayed, resized, or used as bargaining chips later; three, a single purchase does not prove durable alignment on trade or Iran.",
+            "Second, transactional diplomacy can weaken US credibility by making policy look purchasable. One, allies and rivals learn that Washington trades strategic positions for headline wins; two, China can offer selective economic carrots to split US priorities; three, the US may overstate gains from one-off deals while conceding on larger structural issues like technology transfer or market access.",
+            "Third, China’s alleged willingness to help on Iran may be non-committal and costless. One, Beijing can signal support for talks without changing its actual oil, finance, or sanctions behavior; two, it can use the claim to improve relations with Washington while preserving ties to Tehran; three, if negotiations fail, China bears little downside because the statement was never formally confirmed."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the Boeing order is a real lever or just a headline. Prop wins if the round is about converting economic interdependence into bargaining power; opp wins if the key issue is that China can offer symbolic cooperation without surrendering anything structural.",
+      "stock_connections": [
+        "Economic statecraft",
+        "Interdependence as leverage",
+        "Transactional diplomacy",
+        "Great power bargaining",
+        "Credibility and signaling",
+        "Trade war escalation",
+        "Sanctions diplomacy",
+        "Proxy negotiation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use major commercial contracts as bargaining chips in great power diplomacy",
+        "THBT the United States should prioritize transactional economic deals over abstract diplomatic engagement with China",
+        "THP a world where commercial interdependence is explicitly weaponized for foreign policy goals",
+        "TH, as China, would use large-scale purchases to extract concessions from rival powers"
+      ],
+      "data_points": [
+        "China agreed to buy 200 Boeing planes, according to Trump",
+        "This would be China’s first purchase of US-made commercial jets in nearly a decade",
+        "Trump made the claim on Fox News’ Hannity on May 14, 2026",
+        "Trump also said China was willing to support negotiations with Iran, but China had not explicitly confirmed this"
+      ]
+    },
     {
       "id": "82c89f80e063",
       "title": "Streeting’s NHS Reform Shows the Limits of Rhetoric Without Delivery Capacity",
@@ -276,6 +1574,64 @@
         "A reported additional $14bn weapons package has been awaiting Trump’s signoff for months",
         "Taiwan’s parliament ended a 16-month impasse on Friday by backing a much-reduced $25bn defence budget financing those purchases",
         "Washington maintains strategic ambiguity: it acknowledges China’s claim without endorsing it and says it could, but may not, intervene if Taiwan is invaded"
+      ]
+    },
+    {
+      "id": "8007ae69270c",
+      "title": "China’s Transnational Repression in the UK Turns Hong Kong Diaspora Politics Into a National Security Problem",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/transnational-repression-of-hong-kongers-in-the-uk-is-disturbingly-common/",
+      "published": "2026-05-14T16:21:00Z",
+      "category": "IR",
+      "region": "United Kingdom / Hong Kong / China",
+      "background": "On May 7, 2026, two British-Chinese dual nationals, Peter Wai and Bill Yuen, were convicted at the Old Bailey in London on espionage charges for running a “shadow policing” operation against Hong Kong dissidents. The article says they used access inside the Hong Kong Economic and Trade Office and the UK Home Office to surveil activists and attempt an illegal rendition-style seizure of a woman suspected of fraud. Hong Kong authorities have also issued bounties since 2022 on exiled activists: US$130,000 (HK$1 million) on 19 people and US$25,500 (HK$200,000) on 15 more, including 19-year-old Chloe Cheung. A Hong Kong Watch survey of Hong Kongers in the UK found 66% felt at risk of transnational repression, 32% reported experiencing it personally in the past year, and 42% avoided public events because of it.",
+      "prop_args": [
+        {
+          "thesis": "The UK should treat Hong Kong transnational repression as a systemic foreign interference threat, not an isolated activist-safety issue, because the current pattern is already chilling diaspora civic life at scale.",
+          "mechanisms": [
+            "First, repression works through broad deterrence rather than only direct arrests. This is because (1) 66 percent of surveyed Hong Kongers in the UK say they feel at risk, (2) 42 percent avoid public events, and (3) 86 percent believe participation could endanger family in Hong Kong, so the state can suppress dissent without needing mass physical violence.",
+            "Second, the tactic scales through infiltration of ordinary community spaces. Three reasons: one, one-fifth of respondents reported hostile actors infiltrating a group in the past year; two, 32 percent said they personally experienced some form of transnational repression; three, the article estimates this could mean roughly 40,000 BNO visa holders affected by infiltration or surveillance in a single year.",
+            "Third, a stronger state response is necessary because NGOs cannot substitute for law enforcement and intelligence capacity. This matters because the article shows the threat is subtle, harder to expose, and often tied to foreign-state-linked actors operating through institutions like HKETO, meaning only national-level coordination can credibly deter, investigate, and prosecute it."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The UK should avoid over-securitizing the Hong Kong diaspora because the evidence shows a real but limited threat that can be handled through targeted policing without broad political escalation.",
+          "mechanisms": [
+            "First, the most serious cases are already being addressed by existing legal tools. One, Wai and Yuen were convicted under the UK National Security Law, showing the system can prosecute concrete wrongdoing; two, this suggests the problem is enforcement capacity, not a need for sweeping new policy; three, targeted cases are easier to handle than treating an entire diaspora as a security risk.",
+            "Second, broad repression claims risk overreach and social harm. One, many BNO migrants are ordinary families in suburbs of London, Birmingham, and Manchester rather than activists; two, if the state responds too aggressively it may stigmatize Hong Kongers as suspect communities; three, that can reduce trust in police and discourage lawful integration and civic participation.",
+            "Third, the article itself shows the repression is often subtle and hard to prove, which makes heavy-handed policy prone to false positives. One, infiltration and doxxing are difficult to attribute; two, overbroad surveillance or restrictions could catch innocent community organizers; three, the best response is narrow protection for high-risk individuals rather than a maximal national-security framing."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether transnational repression is a niche activist problem or a scalable foreign-interference campaign affecting tens of thousands of residents. Prop wins if the judge prioritizes chilling effects and state capacity to protect civic space; opp wins if they persuade that the threat is real but manageable through existing law without broad securitization or collateral harm.",
+      "stock_connections": [
+        "Transnational Repression",
+        "Foreign Interference",
+        "Chilling Effect",
+        "Democratic Backsliding",
+        "Diaspora Politics",
+        "Surveillance State",
+        "Rule of Law",
+        "Minority Targeting",
+        "National Security vs Civil Liberties"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would classify Hong Kong transnational repression as a national security threat",
+        "THBT liberal democracies should expand legal and intelligence tools to counter foreign-state harassment of diaspora communities",
+        "THP a world where states can more easily prosecute transnational repression committed on their soil"
+      ],
+      "data_points": [
+        "May 7, 2026: Peter Wai and Bill Yuen convicted at the Old Bailey for espionage-related conduct tied to Hong Kong dissidents",
+        "Since 2022: Hong Kong authorities issued bounties of US$130,000 on 19 activists and US$25,500 on 15 more individuals",
+        "Hong Kong Watch survey: 66% of Hong Kongers in the UK feel at risk of transnational repression",
+        "Hong Kong Watch survey: 32% reported experiencing some form of transnational repression personally in the past year",
+        "Hong Kong Watch survey: 42% avoid participating in public events in the UK because of the risk",
+        "Hong Kong Watch survey: 86% said public participation could put family members in Hong Kong at risk",
+        "More than 180,000 Hong Kongers have moved to the UK since 2021 via the BNO visa program",
+        "The total BNO diaspora in the UK is estimated at over 200,000 people",
+        "The article estimates roughly 40,000 BNO visa holders may have experienced hostile infiltration of a group or civic event in the past year"
       ]
     },
     {
@@ -570,6 +1926,60 @@
         "Thousands were reportedly killed as people tried to flee",
         "Satellite imagery shows an earth barrier encircling el-Fasher",
         "The RSF has been accused by rights groups of systematic abuses in Darfur, including possible ethnic cleansing"
+      ]
+    },
+    {
+      "id": "800276c602d2",
+      "title": "Record Global Heat Intensifies Climate Shock, Raising Costs for States and Firms",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T15:29:02Z",
+      "category": "Econ",
+      "region": "Global",
+      "background": "The BBC reports on warnings of record global temperatures, with the story tagged to Australia, Peru, the Pacific Ocean, severe weather, El Niño, and climate effects. The piece comes amid continued concern that global warming is pushing temperatures to new highs and worsening extreme weather patterns. The article is a short video item rather than a long-form explainer, so the core factual frame is the escalation of heat-related climate risk across multiple regions.",
+      "prop_args": [
+        {
+          "thesis": "Record global temperatures justify stronger state intervention because climate shocks are now a macroeconomic threat, not just an environmental one.",
+          "mechanisms": [
+            "First, higher temperatures directly raise the cost of production and public spending. This is because (1) heat lowers labor productivity in outdoor and manual sectors, (2) it increases electricity demand for cooling and strains grids, and (3) governments must spend more on disaster response, health systems, and infrastructure repair.",
+            "Second, climate volatility destabilizes trade and investment planning. Three reasons: one, firms face more frequent supply-chain interruptions from droughts, floods, and fires; two, insurers reprice or withdraw coverage from high-risk areas, raising the cost of capital; three, investors discount long-term projects in vulnerable economies, reducing growth.",
+            "Third, aggressive mitigation and adaptation now are cheaper than repeated crisis management later. This matters because every year of delay compounds damages, locks in more expensive infrastructure, and forces states into a cycle where emergency spending crowds out development and social welfare."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Record temperatures do not automatically justify heavy-handed intervention because the economic costs of overreaction can be larger than the climate shock itself.",
+          "mechanisms": [
+            "First, rapid climate policy can impose regressive and growth-dampening costs. One, carbon taxes and energy-price hikes hit poor households and energy-intensive industries hardest; two, compliance costs can reduce competitiveness and push production offshore; three, governments may misallocate capital toward visible green projects instead of the most effective adaptation measures.",
+            "Second, climate shocks are better handled through targeted resilience than broad macro intervention. One, states can invest in flood defenses, irrigation, and heat-health systems without distorting the whole economy; two, market actors often adapt faster through innovation, relocation, and insurance pricing; three, centralized intervention risks corruption and policy capture, especially in weaker states."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether climate risk is treated as a systemic economic shock or as a manageable externality. Prop wins if it shows that heat now affects productivity, fiscal stability, and investment at scale; opp wins if it reframes the issue as one of policy design, arguing that blunt intervention creates its own economic harm.",
+      "stock_connections": [
+        "Externalities",
+        "Market Failure",
+        "Public Goods",
+        "Tragedy of the Commons",
+        "Intergenerational Justice",
+        "State Capacity",
+        "Risk Pricing",
+        "Insurance Market Failure",
+        "Green Industrial Policy"
+      ],
+      "motion_areas": [
+        "TH, as governments, would impose aggressive climate adaptation spending even at the cost of higher deficits",
+        "THBT developed countries should subsidize climate resilience in vulnerable economies",
+        "THP a world where insurers are forced to cover climate-related losses at regulated rates",
+        "TH, as a central bank, would treat climate risk as a financial stability issue",
+        "THBT the economic costs of climate inaction outweigh the costs of rapid decarbonization"
+      ],
+      "data_points": [
+        "BBC story dated 2026-05-14T15:29:02Z",
+        "Article tags: Australia, Peru, Pacific Ocean, severe weather, El Niño, climate",
+        "The report specifically frames the issue as 'record global temperatures'",
+        "The piece is a BBC video news item, indicating a short-form report rather than a detailed statistical article"
       ]
     },
     {
@@ -1177,6 +2587,87 @@
       ]
     },
     {
+      "id": "66f0bca65e9e",
+      "title": "Trump-Xi Summit Forces South Korea Into Harder Choices on Taiwan, Hormuz, and North Korea",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/trump-xi-summit-leaves-south-korea-navigating-familiar-pressures/",
+      "published": "2026-05-14T14:20:00Z",
+      "category": "IR",
+      "region": "United States; China; South Korea; Taiwan; Middle East",
+      "background": "U.S. President Donald Trump and Chinese leader Xi Jinping met in Beijing on May 14, 2026, in Trump’s first China visit since 2017. The summit produced public alignment on keeping the Strait of Hormuz open, but no public mention of North Korea and only a hard Chinese warning on Taiwan, with Xi saying mishandling Taiwan could lead to \"clashes and even conflicts.\" The article says South Korea now faces pressure to clarify its position on Taiwan, contribute to a Hormuz security mission, and revive stalled North Korea diplomacy even as Washington and Beijing show little interest in the peninsula.",
+      "prop_args": [
+        {
+          "thesis": "The summit increases pressure on South Korea to abandon strategic ambiguity and align more explicitly with the U.S. on regional security issues.",
+          "mechanisms": [
+            "First, the meeting narrows Seoul’s diplomatic room by making U.S.-China competition more explicit on Taiwan and Hormuz. This is because (1) Xi publicly drew a red line on Taiwan, (2) Washington and Beijing both signaled interest in Hormuz security, and (3) South Korea can no longer pretend these are separate issues from its alliance management.",
+            "Second, the summit makes ambiguity costlier because Washington is less tolerant of hedging by allies. Three reasons: one, the article says Seoul’s posture on Taiwan is already \"growing harder to sustain\"; two, Trump may seek operational flexibility for U.S. Forces Korea in a cross-strait scenario; three, allies that stay vague risk being treated as unreliable when crisis planning begins.",
+            "Third, this matters because alliance credibility and deterrence depend on visible commitments. If Seoul signals clearer support, it strengthens U.S. regional coordination, reduces uncertainty in a Taiwan contingency, and buys leverage in future bargaining with Washington over burden-sharing."
+          ]
+        },
+        {
+          "thesis": "South Korea should contribute to the Hormuz mission because the summit creates a rare alignment between its economic interests and U.S.-China security priorities.",
+          "mechanisms": [
+            "First, Hormuz stability directly protects South Korea’s energy security. This is because (1) South Korea is among the world’s largest importers of Middle Eastern oil, (2) any disruption raises import costs and inflation, and (3) a public U.S.-China consensus on keeping the strait open lowers the diplomatic cost of involvement.",
+            "Second, participation gives Seoul leverage in the alliance. Three reasons: one, Defense Secretary Pete Hegseth explicitly asked South Korea to \"stand shoulder to shoulder\" with allies; two, Ahn Gyu-back said Seoul would review contributions in phases, showing the issue is already on the table; three, limited military support can be traded for greater say in broader U.S. security planning.",
+            "Third, this matters because selective burden-sharing is how middle powers avoid free-riding accusations. By contributing, South Korea demonstrates reliability, preserves access to U.S. security guarantees, and reduces the chance that Washington later pressures it more aggressively on Taiwan or other contingencies."
+          ]
+        },
+        {
+          "thesis": "The summit’s silence on North Korea weakens the case for diplomacy and justifies a harder deterrence-first posture from South Korea.",
+          "mechanisms": [
+            "First, the absence of any public North Korea mention signals that both Washington and Beijing have deprioritized the issue. This is because (1) summit agendas reveal strategic priorities, (2) no joint pressure was created on Pyongyang, and (3) without great-power attention, North Korea has less incentive to compromise.",
+            "Second, Seoul cannot revive talks alone. Three reasons: one, any meaningful engagement with Pyongyang requires at least tacit U.S. and Chinese support; two, the article says neither side appears inclined to provide it; three, Kim Jong Un has no reason to enter negotiations if the major powers are not coordinating.",
+            "Third, this matters because failed diplomacy can waste political capital and weaken deterrence. If Seoul keeps chasing talks without external backing, it risks signaling weakness, while a stronger deterrence posture better protects against North Korea’s growing nuclear threats."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit does not fundamentally change South Korea’s strategy because Seoul can still hedge successfully between Washington and Beijing.",
+          "mechanisms": [
+            "First, South Korea’s existing ambiguity remains functional. One, Seoul has long avoided endorsing Beijing’s Taiwan claims while also avoiding explicit contingency commitments; two, that posture has held through previous crises; three, neither summit produced binding commitments that force an immediate policy shift.",
+            "Second, Seoul can compartmentalize the issues. One, Hormuz is an energy-security question, not a Taiwan alignment question; two, South Korea can support maritime security without endorsing a broader anti-China bloc; three, limited participation allows Seoul to satisfy Washington while minimizing retaliation from Beijing."
+          ]
+        },
+        {
+          "thesis": "The summit actually creates openings for South Korea on North Korea and regional stability, rather than closing them.",
+          "mechanisms": [
+            "First, U.S.-China cooperation on broader security issues can spill over into coordination on the Korean Peninsula. One, the article notes the leaders discussed the Korean Peninsula; two, even limited dialogue keeps the issue on the agenda; three, Beijing’s interest in regional stability can be leveraged by Seoul in future talks.",
+            "Second, Trump’s willingness to meet Kim Jong Un suggests diplomacy is still possible. One, the article says analysts hoped for side talks with Kim; two, that indicates the U.S. president is at least open to engagement; three, South Korea can use that opening to restart inter-Korean and U.S.-North Korea channels."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the summit meaningfully reduces Seoul’s strategic room to maneuver or merely raises the price of hedging. Prop wins if you think alliance politics and crisis planning force clearer alignment over time; opp wins if you think South Korea can still compartmentalize issues and preserve ambiguity without triggering immediate punishment.",
+      "stock_connections": [
+        "Strategic Ambiguity",
+        "Alliance Burden-Sharing",
+        "Security Dilemma",
+        "Great Power Competition",
+        "Free Riding",
+        "Deterrence vs Diplomacy",
+        "Middle Power Hedging",
+        "Entanglement"
+      ],
+      "motion_areas": [
+        "TH, as South Korea, would more explicitly align with the United States on Taiwan contingencies",
+        "THBT South Korea should contribute military assets to protect the Strait of Hormuz",
+        "THP a world where middle powers are forced to choose sides in U.S.-China rivalry",
+        "THBT South Korea should prioritize deterrence over renewed engagement with North Korea",
+        "THBT allies should abandon strategic ambiguity in great-power crises"
+      ],
+      "data_points": [
+        "May 14, 2026: Trump and Xi met in Beijing at the Great Hall of the People",
+        "Trump’s first visit to China since 2017",
+        "First time since 2001 that a U.S. president visited China without stopping in Japan, South Korea, or Australia",
+        "Xi said mishandling Taiwan could lead to \"clashes and even conflicts\"",
+        "U.S. White House said Xi expressed interest in purchasing more American oil to reduce China’s dependence on the Strait of Hormuz",
+        "Defense Secretary Pete Hegseth asked South Korea on May 11 to \"stand shoulder to shoulder\" with allies on Hormuz security",
+        "South Korea is among the world’s largest importers of Middle Eastern oil",
+        "Ahn Gyu-back said South Korea would review ways to contribute to the Hormuz mission in phases",
+        "The summit made no public mention of North Korea"
+      ]
+    },
+    {
       "id": "6b320d8c7b60",
       "title": "US-China Summit Tries to Freeze Rivalry Into Managed Stability, But Taiwan and Trade Keep the Relationship Fragile",
       "source": "Al",
@@ -1232,6 +2723,67 @@
         "The US formally severed official diplomatic ties with Taiwan in 1979 but remains committed under the Taiwan Relations Act to supporting its defence",
         "China restricted exports of some rare-earth metals in April 2026 and later planned further restrictions, which are currently paused under the October 2025 truce",
         "Trump dropped a threat of 100 percent tariffs on Chinese goods in exchange for China pausing rare-earth export restrictions"
+      ]
+    },
+    {
+      "id": "0d66dc7186a0",
+      "title": "China Locks Tajikistan Into a Binding Sphere of Influence as Investment, Security, and Trade Dependence Deepen",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/tajikistan-and-china-sign-permanent-friendship-treaty/",
+      "published": "2026-05-14T14:08:00Z",
+      "category": "IR",
+      "region": "Tajikistan / China / Central Asia",
+      "background": "On May 12, 2026, Tajik President Emomali Rahmon and Chinese President Xi Jinping signed the China-Tajikistan Treaty on Permanent Good-Neighborliness, Friendship and Cooperation in Beijing. The visit also produced a joint statement on a deeper comprehensive strategic partnership and roughly 31 intergovernmental cooperation documents spanning trade, AI, green mining, agriculture, education, and security-related areas. The day before, more than 50 business agreements were signed, projected to attract over $8 billion in investment, while a separate digital business forum yielded $647 million in deals and the AIIB committed more than $800 million in new financing on top of $400 million already allocated.",
+      "prop_args": [
+        {
+          "thesis": "The treaty is a strategic win for Tajikistan because it converts an already lopsided relationship into durable capital, infrastructure, and security support that Dushanbe cannot get from any other major power.",
+          "mechanisms": [
+            "First, it locks in long-term investment and infrastructure financing. This is because (1) Tajikistan has limited alternatives for foreign capital, (2) China is already the dominant investor with nearly $6 billion accumulated since 2017, and (3) the treaty is backed by concrete money: over $8 billion in projected business deals plus more than $800 million in new AIIB financing.",
+            "Second, it diversifies Tajikistan’s economic base beyond remittances and weak regional options. Three reasons: one, Chinese trade with Tajikistan hit about $4.3 billion in 2025 and rose more than 50 percent year-on-year in Q1 2026, two, more than 700 Chinese-capital companies now operate in the country, and three, new corridors and mineral cooperation can plug Tajikistan into higher-value supply chains in AI, green mining, and critical minerals.",
+            "Third, it improves regime and border security capacity. This matters because Chinese-funded border posts along the Afghan frontier, plus at least 15 existing Chinese-funded security facilities, help Tajikistan manage spillover from Afghanistan and reduce the state’s exposure to cross-border militant attacks that previously forced suspension of projects."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The treaty entrenches Tajikistan’s dependency on China, giving Beijing leverage over Tajik sovereignty, economic policy, and security architecture.",
+          "mechanisms": [
+            "First, it deepens asymmetric economic dependence. One, China already accounts for around $900 million, or 12.5 percent, of Tajikistan’s $7 billion in foreign investment last year, two, Tajik exports were only $560 million of the $4.3 billion in bilateral trade in 2025, and three, that trade deficit means Tajikistan becomes structurally reliant on Chinese demand, financing, and market access.",
+            "Second, it expands Chinese political and security influence inside Tajikistan. One, the treaty is paired with surveillance and border infrastructure, including nine new border posts and at least 15 prior Chinese-funded security facilities, two, Chinese workers and assets have already required embassy evacuations after attacks, and three, this creates a precedent for Beijing to justify deeper security involvement whenever its assets are threatened.",
+            "Third, it crowds out strategic autonomy and alternative partnerships. One, Russia’s relative decline leaves Tajikistan with fewer bargaining options, two, public endorsements of One China and Beijing’s governance initiatives signal diplomatic alignment beyond economics, and three, once a binding treaty exists, Tajikistan has less room to hedge between China, Russia, and Western partners."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the treaty is a source of development or a mechanism of lock-in. Prop wins if you prioritize immediate capital, infrastructure, and security capacity; opp wins if you think asymmetric dependence plus Chinese-built surveillance and leverage will outlast any short-term gains.",
+      "stock_connections": [
+        "Dependency Theory",
+        "Debt-Trap Diplomacy",
+        "Sovereignty Erosion",
+        "Sphere of Influence",
+        "Great Power Competition",
+        "Resource Curse",
+        "Security Dilemma",
+        "Authoritarian Diffusion",
+        "Trade Deficit Dependence"
+      ],
+      "motion_areas": [
+        "TH, as Tajikistan, would deepen strategic alignment with China",
+        "THBT small states should accept binding security and investment treaties with major powers",
+        "THP a world where China becomes the primary external patron of Central Asian states"
+      ],
+      "data_points": [
+        "Treaty signed on May 12, 2026 in Beijing by Emomali Rahmon and Xi Jinping",
+        "Over 31 intergovernmental cooperation documents signed covering trade, AI, green mining, agriculture, education, housing, and security-related areas",
+        "More than 50 company agreements projected to attract over $8 billion in investment",
+        "AIIB committed over $800 million in new financing, on top of $400 million already allocated",
+        "Bilateral trade reached $790 million in Q1 2026, up more than 50 percent year-on-year",
+        "China-Tajikistan trade in 2025 was around $4.3 billion, with Tajik exports at $560 million and imports at $3.7 billion",
+        "Rahmon said accumulated Chinese investment since 2017 was nearly $6 billion, including roughly $3.5 billion in direct investment",
+        "Around $900 million, or 12.5 percent, of Tajikistan’s $7 billion in foreign investment last year came from China",
+        "More than 700 Chinese-capital companies operate in Tajikistan",
+        "China’s trade with the five Central Asian republics surpassed $100 billion in 2025, up 12 percent year-on-year",
+        "At least 15 Chinese-funded security facilities have been built in Tajikistan over the past decade",
+        "Nine new border posts are being funded by China along the Afghan-Tajik frontier"
       ]
     },
     {
@@ -1404,6 +2956,62 @@
       ]
     },
     {
+      "id": "35a6f41e58d6",
+      "title": "India’s Early Bet on Nepal’s New Populist Government Is Turning Into a Border-and-Trade Confrontation",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/why-india-is-growing-suspicious-of-nepals-new-government/",
+      "published": "2026-05-14T13:52:00Z",
+      "category": "IR",
+      "region": "India / Nepal",
+      "background": "After Nepal’s Gen Z uprising, India backed an interim government led by Sushila Karki, which held elections on March 5. The Rashtriya Swatantra Party (RSP) won nearly a two-thirds majority, and its projected prime ministerial candidate Balendra Shah took office on March 26. Since then, ties have deteriorated: Shah declined a personal courtesy meeting with India’s ambassador, later refused to meet India’s foreign secretary Vikram Misri, Nepal protested a new India-China Lipulekh Pass trade and pilgrimage deal, and Kathmandu imposed taxes on Nepali purchases in Indian border towns and restrictions on Indian vehicles entering Nepal.",
+      "prop_args": [
+        {
+          "thesis": "India is right to treat Nepal’s new government with suspicion because Kathmandu is signaling strategic autonomy in ways that directly threaten India’s border leverage and regional influence.",
+          "mechanisms": [
+            "First, the new government is deliberately breaking diplomatic convention to reduce India’s privileged access. This matters because (1) refusing one-on-one meetings with the Indian ambassador and foreign secretary removes the informal channels India uses to shape Nepali policy, (2) it signals that Kathmandu will not treat India as a special case despite deep interdependence, and (3) it encourages other states to test India’s influence in its immediate neighborhood.",
+            "Second, Nepal is already using economic and border policy to impose costs on India. Three reasons: one, taxing Nepali nationals’ purchases in Indian border towns hits local Indian livelihoods and creates domestic pressure on New Delhi; two, restricting Indian vehicles through the open border shows Kathmandu is willing to weaponize access; three, protesting the Lipulekh deal demonstrates that Nepal will contest India-China arrangements rather than quietly absorb them.",
+            "Third, suspicion is justified because Nepal’s leadership is unstable and potentially vulnerable to external balancing. This matters because (1) Shah is already in domestic controversy and may seek nationalist legitimacy through anti-India moves, (2) if Kathmandu tilts toward China, India faces a classic encirclement problem on its northern frontier, and (3) early firmness deters future Nepali governments from assuming India will absorb repeated slights without response."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "India is overreacting; Nepal’s new government is asserting normal sovereignty, and coercive pressure will only push Kathmandu further away and strengthen anti-India nationalism.",
+          "mechanisms": [
+            "First, the behavior India reads as hostile is largely symbolic and domestic-politics driven. One, Shah has refused to meet resident Chinese, U.S., and other envoys too, so this is not uniquely anti-India; two, the no-special-treatment posture helps him build legitimacy after a volatile uprising; three, punishing symbolic slights as if they were strategic realignment misdiagnoses the problem.",
+            "Second, India’s coercive tools are costly and likely counterproductive. One, trade restrictions or quota pressure hurt Nepali consumers and border communities first, which creates resentment against India rather than compliance; two, Nepal can frame Indian pressure as bullying, reviving memories of the 2015 blockade and damaging India’s reputation; three, coercion gives China an opening to present itself as the more respectful partner.",
+            "Third, Nepal’s dependence on India makes long-term rupture unlikely, so India should preserve goodwill instead of escalating. One, the open border, trade flows, and people-to-people ties are structurally deeper with India than with any other country; two, Nepal’s economy and transit access still rely heavily on India, meaning Kathmandu has strong incentives to avoid a full break; three, patient engagement is more effective than suspicion in preventing a China tilt."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Nepal’s moves are read as temporary nationalist signaling or durable strategic drift. India has structural leverage through trade and geography, but coercion risks converting a manageable diplomatic dispute into a long-term anti-India alignment, so the side that best controls escalation and legitimacy likely wins.",
+      "stock_connections": [
+        "Small State Autonomy",
+        "Sphere of Influence",
+        "Coercive Diplomacy",
+        "Backlash to Intervention",
+        "Nationalism",
+        "Balancing and Bandwagoning",
+        "Border Politics",
+        "Trade Dependence",
+        "Great Power Competition"
+      ],
+      "motion_areas": [
+        "TH, as India, would use economic pressure to discipline Nepal’s new government",
+        "THBT India should treat Nepal as a strategic sphere of influence",
+        "THP a world where small states can more easily resist regional hegemons",
+        "THBT developing nations should prioritize strategic autonomy over special relationships with neighbors"
+      ],
+      "data_points": [
+        "Nepal’s March 5 parliamentary elections gave the Rashtriya Swatantra Party nearly a two-thirds majority",
+        "Balendra Shah took over the government’s reins on March 26",
+        "India and Nepal share an open border, and India has previously used a blockade in 2015 after Nepal promulgated its new constitution",
+        "India recently tightened imports of Nepali tea",
+        "Kathmandu imposed taxes on goods bought by Nepali nationals in Indian border towns and restricted Indian vehicles entering Nepal",
+        "Nepal protested the India-China deal to resume trade and pilgrimage through the Lipulekh Pass"
+      ]
+    },
+    {
       "id": "c8c442e4fa17",
       "title": "US-Israeli War on Iran Forces BRICS to Choose Between Bloc Solidarity and Strategic Ambiguity",
       "source": "Al",
@@ -1509,6 +3117,63 @@
         "The Online Safety Act 2023 requires search services to take 'proportionate measures' to mitigate and manage harm risks",
         "Ofcom has been urging compliance since last spring",
         "The regulator is preparing a court application to force UK access blocking if concerns are not addressed"
+      ]
+    },
+    {
+      "id": "b0e018d4733e",
+      "title": "Trump-Xi Rapprochement Trades Strategic Clarity for Vague Economic Stability",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/trump-xi-seek-new-chapter-in-china-us-relations/",
+      "published": "2026-05-14T13:36:00Z",
+      "category": "IR",
+      "region": "China / United States",
+      "background": "U.S. President Donald Trump visited China on May 13-15, 2026, his first trip to China as president since 2017. He met Xi Jinping in Beijing, where both sides publicly framed the summit as the start of a \"new chapter\" in China-U.S. relations, with Xi proposing a formula of \"constructive\" strategic stability. The visit included Trump bringing CEOs from Apple, Boeing, Goldman Sachs, Meta, Nvidia, Tesla, and Qualcomm, but the article says no concrete trade package was announced beyond vague references to Chinese interest in more U.S. oil and agricultural purchases. Taiwan, Ukraine, North Korea, and human rights were largely absent from the final agenda, while both sides publicly discussed keeping the Strait of Hormuz open amid regional tensions.",
+      "prop_args": [
+        {
+          "thesis": "This summit is a net positive because it lowers the risk of accidental escalation between the two most dangerous great powers by restoring direct leader-to-leader management.",
+          "mechanisms": [
+            "First, direct summit diplomacy reduces misperception and crisis spirals. This is because (1) Trump and Xi can signal red lines personally rather than through ambiguous bureaucratic channels, (2) both sides explicitly framed the relationship around \"strategic stability\" and \"manageable differences,\" and (3) Rubio himself said the point was to talk to China \"as opposed to at them,\" which is exactly how you prevent tactical disputes from becoming strategic confrontation.",
+            "Second, the meeting creates a working channel on the highest-risk flashpoints. Three reasons: one, Xi explicitly warned that Taiwan is the issue that could cause \"clashes and even conflicts,\" meaning the summit reopens a channel on the single most dangerous bilateral dispute; two, both sides discussed the Middle East, Ukraine, and the Korean Peninsula, so the summit is not just symbolic but a venue for deconfliction across multiple theaters; three, even a limited understanding on the Strait of Hormuz matters because it protects global energy flows and reduces the chance of a regional war spilling into great-power confrontation.",
+            "Third, stability itself has economic and systemic value. This matters because (1) U.S.-China tensions have been driving decoupling, export controls, and investment restrictions, (2) a calmer relationship gives firms like Apple, Nvidia, Qualcomm, and Boeing more predictability in supply chains and market access, and (3) even without a grand bargain, reduced uncertainty is valuable for global trade, capital markets, and allied states forced to hedge between the two powers."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This summit is mostly performative and dangerous because it normalizes Chinese coercion while giving the U.S. little in return.",
+          "mechanisms": [
+            "First, China gets legitimacy and concessions without making substantive changes. One, Xi gets photographed as an equal of the U.S. president and can sell \"strategic stability\" as recognition of China’s great-power status; two, the article says the U.S. side offered no concrete outcomes on trade, fentanyl, Ukraine, or North Korea; three, Beijing can pocket the symbolism while continuing the same coercive policies on Taiwan, technology, and regional pressure.",
+            "Second, the meeting weakens U.S. leverage on core strategic issues. One, Trump publicly ignored Xi’s warning on Taiwan, which signals that Beijing can raise the issue without paying a cost; two, the absence of human rights and semiconductor restrictions from the agenda suggests Washington is de-prioritizing issues where it previously had bargaining power; three, bringing CEOs to \"pay their respects\" looks like a return to market-access appeasement, which encourages China to believe economic carrots can override security concerns.",
+            "Third, vague détente can create moral hazard and future instability. One, if both sides claim success without resolving structural conflict, they may delay hard choices on export controls, military deterrence, and alliance coordination; two, China can use the summit to split business interests from security hawks in Washington; three, the result is not durable peace but a temporary lull that makes the next crisis more likely because underlying disputes remain untouched."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term crisis management and long-term strategic concession. Pro wins if the judge prioritizes avoiding immediate escalation in a nuclear-armed rivalry; Opp wins if they weigh that the summit appears to buy calm by conceding legitimacy and leverage to China without extracting meaningful commitments.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Deterrence",
+        "Crisis Stability",
+        "Appeasement",
+        "Economic Interdependence",
+        "Decoupling",
+        "Moral Hazard",
+        "Summit Diplomacy",
+        "Security Dilemma",
+        "Trade Dependence"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue summit diplomacy with China despite unresolved strategic disputes",
+        "THBT the United States should prioritize strategic stability over economic decoupling in its China policy",
+        "THP a world where great-power rivals maintain regular leader-level summits even amid ongoing competition"
+      ],
+      "data_points": [
+        "Trump’s May 13-15, 2026 visit was the first by a U.S. president to China since 2017",
+        "Trump brought CEOs from Apple, Boeing, Goldman Sachs, Meta, Nvidia, Tesla, and Qualcomm",
+        "The White House said the leaders discussed expanding market access for American businesses and increasing Chinese investment into U.S. industries",
+        "The White House said both sides agreed Iran can never have a nuclear weapon and that the Strait of Hormuz must remain open",
+        "China’s readout said Xi warned that Taiwan is the most important issue in China-U.S. relations and that mishandling it could lead to \"clashes and even conflicts\"",
+        "Rubio said China remains the United States’ \"top political challenge geopolitically\"",
+        "Rubio was previously banned from entering China in 2020 and later allowed in after Beijing changed the Chinese characters used for his name"
       ]
     },
     {
@@ -2028,6 +3693,64 @@
         "The Strait of Hormuz carries a major share of global energy flows and was described as blocked/rattled in the article",
         "China faces rising unemployment, uneven growth, a real estate crisis, and high local government debt",
         "Trump invited Xi to the White House in September"
+      ]
+    },
+    {
+      "id": "a093e3372482",
+      "title": "Turkmen Cotton’s Forced-Labor System Exposes the Limits of Supply-Chain Reform Under Autocracy",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/forced-labor-remains-central-to-turkmenistans-cotton-harvest/",
+      "published": "2026-05-14T12:50:00Z",
+      "category": "IR",
+      "region": "Turkmenistan / Global cotton supply chains",
+      "background": "A new Cotton Campaign report says Turkmenistan reversed limited progress made in the 2023 and 2024 cotton harvests and again forced state employees to pick cotton in the 2025 harvest. The report says that in 2025 the government forced all groups of state employees, including teachers, doctors, nurses, utility workers, and cultural staff, to pick cotton or pay for replacement pickers. Turkmenistan is the 14th-largest cotton producer in the world and exports cotton goods to Türkiye, Pakistan, and several European countries; Türkiye imported $96.6 million in Turkmen cotton goods in 2024 and Pakistan imported $33.8 million.",
+      "prop_args": [
+        {
+          "thesis": "External trade pressure and forced-labor import bans are necessary to break autocratic labor systems that domestic institutions will not reform on their own.",
+          "mechanisms": [
+            "First, sanctions and import bans change the regime's cost-benefit calculation. This is because (1) the state uses cotton exports as a revenue source, (2) buyers in the EU, US, and other regulated markets become compliance risks, and (3) the government must choose between preserving forced labor and preserving access to higher-value markets.",
+            "Second, market pressure reaches the real enforcement node: the procurement chain. Three reasons: one, Turkmenistan is highly closed, so domestic monitoring is weak; two, the state can reverse small reforms when pressure eases, as shown by the 2025 backtrack; three, brands and importers can cut off demand faster than civil society can change elite incentives.",
+            "Third, this is the only route to durable labor reform in an autocracy. This matters because (1) the report shows limited progress was unwound without sustained pressure, (2) Uzbekistan's reform only happened after years of coordinated external action, and (3) without outside leverage, the regime can simply absorb reputational costs while continuing coercion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Broad import bans and supply-chain pressure can be blunt tools that punish workers and consumers more than the authoritarian state.",
+          "mechanisms": [
+            "First, the state can externalize the pain onto workers and local firms. One, if buyers leave, the regime may still force production but at lower prices and worse conditions; two, workers lose income and alternative employment is scarce; three, the government can shift the burden onto replacement pickers, fines, or coercive quotas rather than reforming.",
+            "Second, compliance regimes often produce evasion rather than abolition. One, Turkmenistan is already opaque and hard to monitor, so firms may rely on paper audits and weak intermediaries; two, trade can reroute through third countries or mixed supply chains; three, enforcement costs fall on importers and NGOs, while the state retains control over labor allocation.",
+            "Third, leverage is limited when the target market share is not decisive. One, Turkmenistan also trades with Türkiye and Pakistan, so a partial Western boycott may not isolate it; two, the regime can substitute toward less regulated buyers; three, if the policy does not credibly threaten elite revenues, it becomes symbolic rather than transformative."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether external market pressure can actually reach an autocratic regime that has already shown it can reverse reforms when scrutiny fades. Prop wins if you believe trade access is one of the few leverage points available; opp wins if you think the regime can simply reroute exports and dump the costs onto workers without changing behavior.",
+      "stock_connections": [
+        "Forced labor",
+        "Human rights conditionality",
+        "Sanctions effectiveness",
+        "Supply-chain accountability",
+        "Race to the bottom",
+        "Authoritarian resilience",
+        "Civil society pressure",
+        "Moral hazard",
+        "Dependency theory"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would ban imports linked to state-imposed forced labor",
+        "THBT consumer states should impose mandatory due-diligence and import restrictions on goods produced with forced labor",
+        "THP a world in which major cotton buyers refuse to source from authoritarian producers using coercive labor",
+        "THBT international institutions should prioritize supply-chain pressure over diplomatic engagement in cases of state-imposed forced labor"
+      ],
+      "data_points": [
+        "Turkmenistan forced all groups of state employees in the 2025 cotton harvest, including teachers, doctors, nurses, utility workers, and cultural staff, to pick cotton or pay for replacement pickers",
+        "Turkmenistan is the 14th-largest cotton producer in the world",
+        "Türkiye imported $96.6 million worth of cotton goods from Turkmenistan in 2024",
+        "Pakistan imported $33.8 million worth of cotton goods from Turkmenistan in 2024",
+        "Turkmenistan has a Freedom House score of 1/100",
+        "The US, Canada, Mexico, and the EU already ban imports made with forced labor",
+        "The Cotton Campaign says the ILO faced persistent interference in monitoring during both the 2024 and 2025 harvests",
+        "Uzbekistan eliminated systemic state-imposed forced labor in 2021 after years of coordinated pressure from UN bodies, policymakers, brands, retailers, and civil society"
       ]
     },
     {
@@ -4481,6 +6204,77 @@
         "Nearly 2 million people in South Kivu alone have fled their homes due to persistent violence",
         "UN experts have accused Rwanda of having 'de facto control' over M23 operations",
         "Uvira is described as the gateway to Burundi, a key military ally of DR Congo"
+      ]
+    },
+    {
+      "id": "0e020544c984",
+      "title": "ICC Arrest Standoff Turns Philippine Senate Into Flashpoint for Elite Power Struggle",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/gunfire-erupts-at-philippine-senate-amid-standoff-over-icc-suspect/",
+      "published": "2026-05-14T05:07:00Z",
+      "category": "IR",
+      "region": "Philippines",
+      "background": "Gunfire erupted inside the Philippine Senate on May 13, 2026, after armed men tried to reach Senator Ronald “Bato” dela Rosa, a key architect of Rodrigo Duterte’s anti-drug campaign, who was hiding in the chamber to avoid arrest. The International Criminal Court had just unsealed a warrant for dela Rosa on crimes against humanity charges, following a November 6 warrant and a finding of reasonable grounds that he was an indirect co-perpetrator in murder. Senate President Peter Allan Cayetano, a Duterte ally, said dela Rosa was under Senate protection, while Interior Secretary Jonvic Remulla said Senate security fired warning shots and no casualties were reported.",
+      "prop_args": [
+        {
+          "thesis": "The ICC standoff strengthens rule-of-law institutions by forcing the Philippine state to choose legal accountability over elite impunity.",
+          "mechanisms": [
+            "First, it breaks the long-standing shield around Duterte-era officials. This is because (1) the ICC warrant names a senior enforcer rather than only the former president, (2) the state can no longer treat the drug war as a closed political chapter, and (3) visible enforcement signals that even powerful senators can be reached by legal process.",
+            "Second, it deters future abuses by raising the expected cost of mass violence. Three reasons: one, officials now see that command responsibility can survive office and factional protection; two, the 6,000 to 30,000 death estimates make the case symbolically huge, so accountability has broad signaling value; three, the arrest attempt itself shows that evasion creates political and operational chaos, making impunity less attractive.",
+            "Third, it can re-anchor civilian institutions above factional loyalty. This matters because the Senate, police, NBI, and executive are all being forced to publicly define their roles, and that transparency makes it harder for armed patronage networks to operate in the shadows."
+          ]
+        },
+        {
+          "thesis": "Marcos’s willingness to let the ICC case proceed is a necessary step toward weakening dynastic capture of Philippine politics.",
+          "mechanisms": [
+            "First, it gives the executive a legal pretext to constrain a rival clan. This works because (1) the Duterte camp has used anti-ICC nationalism as a mobilizing tool, (2) Marcos can frame enforcement as compliance with international law rather than personal vendetta, and (3) that framing reduces the legitimacy of Duterte loyalists’ claims that they are being politically persecuted.",
+            "Second, it fractures the Duterte coalition. Three reasons: one, the arrest threat forces allies like Cayetano to choose between institutional loyalty and factional solidarity; two, the Senate coup and protection claims expose how brittle their coalition is; three, once one high-profile enforcer is isolated, other allies become more likely to defect or bargain.",
+            "Third, it lowers the risk of a violent comeback by the Duterte network. This matters because the feud has already escalated to impeachment, public mobilization, and now armed confrontation, so a credible legal crackdown is preferable to leaving the conflict to be settled by street power."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The ICC intervention will deepen polarization and make the Philippines less governable by turning accountability into a clan war.",
+          "mechanisms": [
+            "First, it converts a legal case into a legitimacy crisis. One, Duterte supporters can portray the ICC as foreign interference and Marcos as collaborating with outsiders; two, that narrative is especially potent because Marcos previously opposed ICC jurisdiction, so his reversal looks opportunistic; three, once the case is framed as selective justice, compliance becomes politically costly.",
+            "Second, it incentivizes violent resistance and institutional sabotage. One, dela Rosa’s call for supporters to block his arrest shows that the network can mobilize street pressure; two, the Senate gunfire incident demonstrates how quickly security incidents can spiral around elite protection; three, if factions believe arrest is imminent, they have stronger incentives to hide, arm up, or obstruct investigations.",
+            "Third, it weakens the state’s neutrality by forcing agencies to pick sides. This is because (1) the Senate, NBI, PNP, and executive are all publicly contradicting each other, (2) that confusion makes enforcement look politicized, and (3) once institutions are seen as factional tools, broader compliance with law and order declines."
+          ]
+        },
+        {
+          "thesis": "Pursuing ICC arrests in a fragile democracy can backfire by empowering hardliners and distracting from governance.",
+          "mechanisms": [
+            "First, it gives hardliners a martyrdom narrative. This matters because (1) the drug war remains popular with parts of the electorate, (2) a prosecution of a senior enforcer can be sold as punishment for anti-crime policy rather than accountability for murder, and (3) martyr narratives are electorally useful for the Duterte bloc in future contests.",
+            "Second, it consumes political bandwidth and raises instability costs. One, the Marcos administration must now manage Senate conflict, police coordination, and public messaging simultaneously; two, the impeachment of Sara Duterte and the Bato standoff compound an already explosive feud; three, governance suffers when elite survival becomes the dominant political issue.",
+            "Third, it may not actually deliver justice if suspects evade capture. This matters because (1) dela Rosa has already disappeared from the Senate premises, (2) the identity of the armed men remains unclear, and (3) if the state cannot execute warrants, the ICC looks weak while domestic tensions still escalate."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether accountability produces institutional consolidation or factional escalation. Prop wins if you think credible enforcement against elite impunity is the only way to restore rule of law; opp wins if you think the Philippines’ weak institutions and dynastic politics mean ICC action mainly intensifies a zero-sum clan conflict.",
+      "stock_connections": [
+        "Rule of Law",
+        "Elite Impunity",
+        "Democratic Backsliding",
+        "Foreign Intervention",
+        "Political Polarization",
+        "Security Sector Politicization",
+        "Transitional Justice",
+        "Command Responsibility"
+      ],
+      "motion_areas": [
+        "TH, as the Philippines, would cooperate with the ICC to prosecute Duterte-era officials",
+        "THBT international courts should prioritize prosecuting former leaders and senior enforcers in fragile democracies",
+        "THP a world where domestic courts can be bypassed by international accountability mechanisms for mass atrocities"
+      ],
+      "data_points": [
+        "ICC unsealed a warrant for Senator Ronald 'Bato' dela Rosa on May 13, 2026, after initially issuing it on November 6",
+        "The ICC Pretrial Chamber found 'reasonable grounds' that dela Rosa was criminally responsible as an indirect co-perpetrator for murder as a crime against humanity",
+        "Duterte-era drug war death estimates range from around 6,000 officially to as many as 30,000",
+        "Rodrigo Duterte was arrested in March 2025 and extradited to the ICC",
+        "Sara Duterte has now been impeached twice by the Philippine House of Representatives",
+        "Reuters reported that more than a dozen shots were heard at the Senate during the incident",
+        "Interior Secretary Jonvic Remulla said the first shots were fired by Senate Office of the Sergeant-at-Arms personnel and that there were no casualties"
       ]
     },
     {
