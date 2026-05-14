@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-14T11:24:42Z",
+  "last_updated": "2026-05-14T17:10:11Z",
   "cards": [
     {
       "id": "b0d2e93857bf",
@@ -302,6 +302,57 @@
         "Savills: UK residential transactions in Q1 rose by just 1% year on year",
         "Bank of England warned last month that interest rates may have to increase because higher inflation is 'unavoidable' due to the Middle East war",
         "Price falls are strongest in London, the south-east, East Anglia and the south-west, while the north-west and north of England remain marginally positive"
+      ]
+    },
+    {
+      "id": "1d7be13e887c",
+      "title": "Trump-Xi Beijing Summit Tests Whether US-China Rivalry Can Be Managed or Accelerates Into Decoupling",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gl8?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T23:01:00Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "On 13 May 2026, BBC Business Daily aired an episode on US-China tensions as US President Donald Trump traveled to Beijing to meet Chinese President Xi Jinping. The episode frames the relationship between the world's two largest economies as the central issue, with the meeting taking place after a prior Trump-Xi handshake in Busan, South Korea on 30 October 2025. The discussion focuses on the economic and strategic tensions shaping bilateral ties, including trade, market access, and broader geopolitical competition.",
+      "prop_args": [
+        {
+          "thesis": "A high-level summit is the best available tool for preventing US-China rivalry from spiraling into costly economic decoupling and strategic miscalculation.",
+          "mechanisms": [
+            "First, direct leader-to-leader diplomacy reduces the risk of escalation by creating a channel for immediate signaling. This is because (1) both sides can clarify red lines without domestic bureaucratic distortion, (2) personal commitments are easier to verify in real time than vague public statements, and (3) crisis communication lowers the probability that trade disputes or military incidents get interpreted as hostile intent.",
+            "Second, summitry can produce narrow but valuable economic bargains that stabilize markets. Three reasons: one, even limited agreements on tariffs, export controls, or market access can reduce uncertainty for firms making investment decisions; two, predictable rules lower the cost of cross-border supply chains that still bind the two economies together; three, a temporary thaw buys time for businesses and regulators to adapt rather than forcing abrupt decoupling.",
+            "Third, maintaining engagement preserves leverage for both sides and avoids a self-fulfilling security dilemma. This matters because if the US and China stop talking, each side will assume the worst, expand military and industrial hedging, and lock in a more adversarial posture that becomes harder to reverse."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A summit between Trump and Xi is mostly symbolic and cannot overcome the structural drivers pushing the US and China toward confrontation and economic separation.",
+          "mechanisms": [
+            "First, the underlying conflict is systemic, so one meeting cannot change incentives. One, both states see the other as a long-term strategic competitor; two, domestic politics reward toughness and punish compromise; three, issues like technology controls, industrial policy, and security competition are not solvable through personal diplomacy alone.",
+            "Second, summitry can actually entrench bad outcomes by creating the illusion of progress. One, leaders may announce vague deals that do not address core disputes; two, firms may misread the meeting as a durable thaw and overinvest before restrictions return; three, repeated failed summits can reduce trust and make future negotiations harder.",
+            "Third, the more important effect is that the meeting normalizes rivalry rather than resolving it. This matters because if both sides continue to compete over supply chains, semiconductors, and strategic influence, the summit becomes a managed pause at best, not a genuine de-escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether elite diplomacy can meaningfully shape a rivalry driven by structural economic and security competition. Prop wins if the judge prioritizes crisis prevention and incremental stability; Opp wins if they emphasize that the core drivers of decoupling are domestic, strategic, and largely immune to one-off meetings.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Decoupling",
+        "Interdependence as Peace",
+        "Trade War",
+        "Great Power Competition",
+        "Signaling",
+        "Summit Diplomacy",
+        "Mutual Assured Economic Destruction"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China over punitive economic containment",
+        "THBT the US should pursue managed competition rather than economic decoupling from China",
+        "THP a world where US-China relations are governed by regular leader-level summits"
+      ],
+      "data_points": [
+        "US President Donald Trump traveled to Beijing on 13 May 2026 to meet Chinese President Xi Jinping",
+        "The BBC episode explicitly describes the US and China as 'the world's two biggest economies'",
+        "A prior Trump-Xi handshake took place in Busan, South Korea on 30 October 2025"
       ]
     },
     {
