@@ -1,7 +1,688 @@
 {
   "date": "2026-05-14",
-  "last_updated": "2026-05-14T22:20:43Z",
+  "last_updated": "2026-05-15T04:11:54Z",
   "cards": [
+    {
+      "id": "b0b8f8f59bf7",
+      "title": "India’s External Shock Forces a Choice Between Patriotic Austerity and Market Pain",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T23:49:30Z",
+      "category": "Econ",
+      "region": "India",
+      "background": "Prime Minister Narendra Modi urged Indians to work from home if possible, avoid unnecessary foreign travel, buy less gold, and consume less fuel as the Iran war entered its third month and the Strait of Hormuz remained shut for more than two months. India imports roughly 90% of its crude oil and half its gas needs, and the shock has pushed up air fares, gold import pressure, and demand for dollars. India still has about $690bn in foreign exchange reserves, but those reserves have fallen by $38bn since the war began and the balance of payments gap has crossed $70bn.",
+      "prop_args": [
+        {
+          "thesis": "Modi’s call for voluntary austerity is a rational way to buy time, protect reserves, and prevent a sharper macroeconomic crisis.",
+          "mechanisms": [
+            "First, it reduces immediate dollar demand. This is because (1) foreign travel, gold purchases, fuel consumption, and imported discretionary spending all directly increase import demand, (2) even small reductions matter when the current account is already under pressure and reserves have fallen by $38bn, and (3) slowing demand now helps avoid a disorderly rupee slide that would make all imports more expensive later.",
+            "Second, it gives the state fiscal breathing room. Three reasons: one, if the government keeps pump prices artificially low, state oil companies and public finances absorb the losses; two, targeted restraint lowers the need for emergency subsidies or deficit-financed support; three, it helps keep the projected fiscal deficit from worsening beyond Nomura’s 4.6% of GDP estimate for March 2027.",
+            "Third, it is a politically feasible form of adjustment compared to immediate price liberalization. This matters because (1) India has already delayed fuel price hikes amid state elections, (2) direct price shocks can trigger inflation and household backlash, and (3) voluntary restraint can spread the burden gradually instead of forcing a sudden, regressive adjustment on consumers."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Patriotic austerity is mostly symbolic and cannot solve India’s structural external imbalance, while delaying real price adjustment makes the eventual shock worse.",
+          "mechanisms": [
+            "First, the policy does not address the underlying supply problem. One, India still imports about 90% of its crude oil and half its gas, so the core vulnerability is structural; two, the war-driven shock is external and cannot be offset by moral appeals alone; three, if oil stays near $100 a barrel, the import bill rises regardless of consumer messaging.",
+            "Second, suppressing prices distorts the economy and worsens the eventual adjustment. One, keeping petrol artificially cheap encourages overconsumption and delays conservation; two, it forces state-run oil firms and the budget to absorb losses until they hit a capacity limit; three, when prices are finally passed through, inflation and household pain are larger than if adjustment had happened earlier.",
+            "Third, the real problem is weak investor confidence and poor long-term competitiveness, not just temporary demand. One, foreign investors have pulled about $22bn from Indian equities; two, net FDI has stagnated and the rupee is down about 6-7% this year; three, without stronger growth sectors like AI, renewables, semiconductors, or EVs, India cannot rely on austerity to restore external balance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the shock is temporary liquidity pressure or a structural external imbalance. Pro side wins if the question is short-run stabilization and reserve management; opposition wins if the round is about whether symbolic restraint can substitute for real price signals and long-term competitiveness.",
+      "stock_connections": [
+        "Austerity",
+        "Inflation",
+        "Balance of Payments Crisis",
+        "Dutch Disease",
+        "Currency Depreciation",
+        "Moral Hazard",
+        "Populism vs Technocracy",
+        "Energy Security",
+        "Import Dependence",
+        "External Shock"
+      ],
+      "motion_areas": [
+        "TH, as India, would prioritize voluntary consumption restraint over immediate fuel price liberalization during external shocks",
+        "THBT governments should shield consumers from global energy shocks only through targeted subsidies, not broad price controls",
+        "THP a world where states use patriotic appeals to manage balance-of-payments crises",
+        "TH, as a developing economy facing imported inflation, would allow currency depreciation rather than defend the exchange rate at all costs"
+      ],
+      "data_points": [
+        "India imports roughly 90% of its crude oil and half its gas needs",
+        "India’s foreign exchange reserves are about $690bn, enough to finance around 11 months of goods imports",
+        "India’s forex reserves have fallen by $38bn since the Iran war began",
+        "The balance of payments gap has crossed $70bn",
+        "Nomura projects India’s fiscal deficit at 4.6% of GDP by March 2027, above the 4.3% budget target",
+        "Foreign investors have pulled about $22bn from Indian equities in recent months",
+        "The rupee is down about 6-7% so far this year, making it one of Asia’s weakest-performing currencies",
+        "The government raised import duties on gold and silver to 15%",
+        "Oil at $100 a barrel is testing the government’s finances"
+      ]
+    },
+    {
+      "id": "6009cfdd33d9",
+      "title": "Bolivia’s Economic Collapse Turns Mining Unrest Into a Challenge to Presidential Rule",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
+      "published": "2026-05-14T23:28:00Z",
+      "category": "Econ",
+      "region": "Bolivia",
+      "background": "On Thursday, mining groups, rural unions, farmers and teachers staged protests in La Paz and across Bolivia, with small explosions heard as miners reportedly set off sticks of dynamite and some demonstrators attempting to breach the presidential palace. Protesters demanded the resignation of President Rodrigo Paz, who was elected in October on a platform of economic reform. The unrest comes after weeks of road blockades amid Bolivia’s worst economic crisis in decades: natural gas reserves have shrunk, production has collapsed, the country has become a net importer of fuel, and foreign currency shortages have driven inflation, supply shortages and long lines for fuel.",
+      "prop_args": [
+        {
+          "thesis": "The protests show that when a state’s economic model collapses, even a reformist government cannot govern without rapidly redistributing pain and rebuilding legitimacy.",
+          "mechanisms": [
+            "First, the collapse of export revenues destroys the state’s ability to buy social peace. This is because (1) Bolivia’s natural gas sector has shifted from major export earner to net importer, (2) foreign currency shortages reduce the government’s capacity to subsidize fuel and imports, and (3) once shortages hit food, medicine and transport, every constituency experiences the crisis directly and mobilizes independently.",
+            "Second, economic reform becomes politically toxic when the public only sees austerity and scarcity. Three reasons: one, fuel subsidies and welfare cuts are immediately legible as losses to households; two, even necessary reforms are blamed for price hikes because the benefits are delayed while the costs are instant; three, this creates a coordination point for miners, farmers, teachers and rural workers to unite around regime change rather than policy bargaining.",
+            "Third, the unrest can force institutional breakdown and policy paralysis. This matters because (1) repeated road blockades and palace confrontations raise the cost of enforcement, (2) the government is pushed into ad hoc concessions like repealing Law 1720, which signals weakness and invites more demands, and (3) once the president is seen as unable to restore basic supply chains, elite and mass confidence in the state erodes, making future stabilization harder."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The protests are evidence not of inevitable collapse, but of a transitional shock that a reform government can survive by negotiating targeted relief and isolating extremist actors.",
+          "mechanisms": [
+            "First, the government still has room to split the coalition of protesters. One, miners, farmers, teachers and rural unions have different material demands, so concessions on fuel subsidies or agrarian rules can peel off moderates; two, inviting 20 miners into the presidential palace shows the state can bargain rather than only repress; three, once some groups get partial wins, the incentive to sustain disruptive blockades falls.",
+            "Second, the unrest may actually strengthen reform if the public blames the old economic model. One, the crisis is rooted in the collapse of natural gas and foreign currency shortages, which predate Paz; two, voters may tolerate short-term pain if they believe the alternative is continued scarcity under MAS-era policies; three, a visible break from the past can give Paz political cover to pursue stabilization measures that were impossible before.",
+            "Third, the state can survive because protest pressure is not the same as regime replacement. One, officials have explicitly refused to let Paz resign, signaling institutional continuity; two, Morales and other opposition figures may be used as scapegoats, but that also fragments the protest narrative and reduces a single unified alternative; three, if the government restores fuel and supply flows, the immediate triggers for mobilization weaken even if underlying grievances remain."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether economic pain is a temporary shock that can be managed through bargaining, or a structural collapse that permanently destroys state legitimacy. Prop wins if it shows the crisis is broad-based and self-reinforcing; opp wins if it shows the government can divide protesters and convert blame for the crisis into support for reform.",
+      "stock_connections": [
+        "Economic crisis and regime legitimacy",
+        "Austerity backlash",
+        "State capacity collapse",
+        "Resource curse",
+        "Dependency on commodity exports",
+        "Populist backlash",
+        "Elite fragmentation",
+        "Mass protest and regime instability"
+      ],
+      "motion_areas": [
+        "TH, as a government facing a commodity collapse, would prioritize rapid subsidy cuts over social protection",
+        "THBT developing resource-dependent states should aggressively diversify even at the cost of short-term unrest",
+        "THP a world where governments can be removed through mass economic protest",
+        "TH, in a severe fiscal crisis, would negotiate with disruptive protest groups rather than crack down on them"
+      ],
+      "data_points": [
+        "Bolivia has shifted from a major natural gas exporter to a net importer of oil and natural gas",
+        "The unrest follows weeks of road blockades by miners, farmers, teachers and rural workers",
+        "Protesters attempted to breach the presidential palace in La Paz",
+        "A group of 20 miners was invited to meet President Rodrigo Paz at the presidential palace",
+        "Law 1720 was repealed on Wednesday after public outcry",
+        "Bolivia has experienced long lines for fuel and shortages of oxygen and medication in hospitals"
+      ]
+    },
+    {
+      "id": "15ed1fa5cbdf",
+      "title": "Humanitarian Coordination Fails as Drone Warfare Turns Aid Access Into a Battlefield in Kherson",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss",
+      "published": "2026-05-14T23:22:38Z",
+      "category": "IR",
+      "region": "Ukraine",
+      "background": "On 14 May 2026, a UN humanitarian convoy delivering aid to Kherson was hit twice by drones. The convoy had reportedly been coordinated in advance with both Ukrainian and Russian forces, but the UN said it had not attributed the attack to either side. No injuries were reported. The incident occurred in Kherson, a frontline city in southern Ukraine that has repeatedly been exposed to drone and artillery attacks during the war.",
+      "prop_args": [
+        {
+          "thesis": "This attack shows that humanitarian coordination is no longer enough to protect civilians in drone-heavy wars, so the only realistic way to preserve aid access is to impose stronger deterrence and enforcement against attacks on relief operations.",
+          "mechanisms": [
+            "First, coordination fails when the battlefield is saturated with cheap, deniable drones. This is because (1) even if both militaries are informed, local operators or proxy units can still strike, (2) drones are low-cost and easy to launch repeatedly, so the attacker can test red lines without major escalation costs, and (3) attribution is hard, which weakens immediate punishment and makes coordination agreements non-binding in practice.",
+            "Second, repeated attacks on aid convoys create a chilling effect that reduces humanitarian access over time. Three reasons: one, aid agencies will reroute or suspend missions after even near-misses, two, local staff and drivers face higher perceived risk and may refuse to operate, and three, communities in besieged areas lose trust that aid will arrive, which increases displacement and desperation.",
+            "Third, stronger external enforcement is necessary because voluntary restraint has failed. This matters because (1) humanitarian law only works when violations carry costs, (2) the UN cannot self-enforce in an active war zone, and (3) if attacks on aid are normalized, belligerents learn that starving or isolating civilians is a viable tactic."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The incident proves the limits of humanitarian coordination, but not that escalation or punitive enforcement will solve the problem; the better response is tighter operational security, not broader coercive measures.",
+          "mechanisms": [
+            "First, the core problem is battlefield complexity, not a lack of rules. One, drones can be launched by small units or even non-state actors outside central command, two, frontlines shift too quickly for static deconfliction channels to guarantee safety, and three, attribution uncertainty means retaliatory punishment risks hitting the wrong actor and worsening the war.",
+            "Second, punitive responses can reduce humanitarian access by making belligerents less willing to coordinate at all. One, if every incident triggers sanctions or escalation, militaries may stop sharing convoy routes, two, that makes convoys more vulnerable because they lose deconfliction protection, and three, the result is fewer aid deliveries rather than safer ones.",
+            "Third, the practical fix is better convoy protection and route adaptation. One, armored or smaller convoys are harder to target, two, more flexible timing and routing lowers predictability, and three, local partnerships and remote delivery can preserve aid without relying on unenforceable promises from combatants."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the attack is evidence that humanitarian norms need stronger enforcement, or evidence that enforcement is structurally ineffective in drone warfare. Prop wins if it can show that without credible costs, aid access will keep collapsing; opp wins if it shows that coercion reduces cooperation and therefore shrinks humanitarian space even further.",
+      "stock_connections": [
+        "Humanitarian Intervention",
+        "Protection of Civilians",
+        "Deterrence Failure",
+        "Deniable Warfare",
+        "Civilian Harm in Conflict",
+        "Coordination Failure",
+        "War Crimes Accountability",
+        "Escalation Risks"
+      ],
+      "motion_areas": [
+        "TH, as the UN, would impose stronger punitive measures for attacks on humanitarian convoys in active war zones",
+        "THBT humanitarian aid should be delivered only with armed protection in high-intensity conflicts",
+        "THP a world where attacks on aid convoys are treated as a major trigger for international sanctions"
+      ],
+      "data_points": [
+        "A UN humanitarian convoy delivering aid to Kherson was hit twice by drones",
+        "The convoy had been coordinated in advance with both Ukrainian and Russian forces",
+        "No injuries were reported in the attack",
+        "The UN did not attribute the attack to either side",
+        "Kherson is a frontline city in southern Ukraine"
+      ]
+    },
+    {
+      "id": "baed8ca0ca4b",
+      "title": "Trump DOJ Targets Yale Medical Admissions as the Post-Affirmative-Action Fight Moves From Policy to Enforcement",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/education/2026/may/14/justice-department-yale-medical-school-race-admissions",
+      "published": "2026-05-14T23:11:06Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "On 14 May 2026, the US Department of Justice accused Yale Medical School of illegally considering race in admissions, saying Black and Hispanic applicants had a higher chance of admission than white or Asian applicants despite lower median academic metrics. The DOJ said Yale’s admissions practices violated Title VI of the Civil Rights Act and sought a voluntary resolution agreement, while warning it could sue if Yale does not comply. The move follows the Supreme Court’s 2023 ruling in Students for Fair Admissions v Harvard/UNC banning affirmative action in college admissions, and comes one week after the DOJ sent a similar letter to UCLA’s medical school.",
+      "prop_args": [
+        {
+          "thesis": "Enforcing race-neutral admissions after the Supreme Court ruling is necessary to restore equal treatment and prevent elite institutions from laundering racial preferences through holistic review.",
+          "mechanisms": [
+            "First, it closes a loophole where universities can keep using race while claiming they are only assessing 'holistically'. This is because (1) subjective criteria like leadership, resilience, and mission fit are easy to manipulate, (2) the DOJ’s applicant-level comparison suggests race can still materially change odds of interview or admission, and (3) without enforcement, the 2023 ruling becomes symbolic rather than binding.",
+            "Second, it protects the legitimacy of higher education and the rule of law. Three reasons: one, applicants who are rejected on the basis of race perceive the system as rigged, two, public confidence in elite institutions falls when admissions look politically engineered, and three, compliance pressure forces schools to align practice with the legal standard rather than ideological preference.",
+            "Third, it improves fairness for all applicants by making admissions more merit-based and transparent. This matters because if Black applicants can have up to 29 times higher odds of an interview than similarly qualified Asian applicants, then race is not a marginal factor but a decisive one, meaning enforcement reduces arbitrary discrimination and creates clearer incentives for students to compete on measurable achievement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Aggressive DOJ enforcement will worsen inequality by stripping universities of the ability to build diverse classes and by pushing admissions toward narrow metrics that entrench privilege.",
+          "mechanisms": [
+            "First, race-neutral enforcement can reduce access for underrepresented groups even when they face structural barriers. One, standardized scores and GPAs reflect unequal schooling, wealth, and test prep access; two, holistic review is one of the few tools schools have to identify talent beyond raw numbers; three, if institutions fear litigation, they will overcorrect toward applicants with the safest paper credentials, who are disproportionately affluent and already advantaged.",
+            "Second, it undermines the educational and social benefits of diversity. One, medical schools train future doctors for diverse patient populations, two, racially mixed cohorts improve cultural competence and trust in healthcare, and three, removing any meaningful consideration of race can produce less representative classes and weaker long-term service outcomes in underserved communities.",
+            "Third, the federal government is substituting ideological control for institutional autonomy. One, universities are better placed to design admissions that fit their mission, two, the DOJ is using enforcement to force a national political settlement after the Supreme Court left some discretion in holistic review, and three, constant federal pressure can chill lawful diversity initiatives, scholarships, and pipeline programs that are essential for equal opportunity."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether race-conscious admissions are a necessary corrective to structural inequality or an unlawful form of discrimination that corrodes legitimacy. Prop has the stronger legal and rule-of-law framing because the Supreme Court has already narrowed the space for race-based admissions, but Opp can win if they prove the downstream harm is a durable loss of diversity and professional representation that outweighs formal equality.",
+      "stock_connections": [
+        "Affirmative Action",
+        "Equal Protection",
+        "Meritocracy vs Equity",
+        "Institutional Legitimacy",
+        "Race to the Bottom",
+        "Elite Capture",
+        "Democratic Backsliding",
+        "Structural Inequality",
+        "Pipeline Problem"
+      ],
+      "motion_areas": [
+        "TH, as the US Department of Justice, would aggressively enforce race-neutral admissions at elite universities",
+        "THBT universities should not be allowed to consider race in admissions even for diversity purposes",
+        "THP a world where medical schools are prohibited from using race as a factor in admissions",
+        "THBT the federal government should sue universities that continue race-conscious admissions after the 2023 Supreme Court ruling"
+      ],
+      "data_points": [
+        "Yale said Black students in its most recent medical class had a median GPA of 3.88 and a median MCAT score in the 95th percentile",
+        "Asian students in Yale’s most recent medical class had a median GPA of 3.98 and median MCAT scores in the 100th percentile",
+        "White students in Yale’s most recent medical class had a median GPA of 3.97 and median MCAT scores in the 100th percentile",
+        "The DOJ alleged a Black applicant could have as much as 29 times higher odds of getting an interview than an equally strong Asian applicant with similar academic credentials",
+        "The DOJ said it was the second institution to face discrimination allegations this month, after UCLA medical school",
+        "The Supreme Court banned affirmative action in college admissions in 2023 in Students for Fair Admissions v Harvard and UNC",
+        "In March 2026, 17 Democratic state attorneys general sued the Trump administration over a policy requiring colleges to collect data proving they are not considering race in admissions"
+      ]
+    },
+    {
+      "id": "1568c23ba63e",
+      "title": "AI Hype Risks Deepening the UK Tech Skills Shortage and Slowing Growth",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T23:01:20Z",
+      "category": "Econ",
+      "region": "UK",
+      "background": "Eben Upton, founder of Raspberry Pi, told the BBC that exaggerated claims about AI replacing programmers could discourage young people from entering tech careers and worsen the UK's existing engineer shortage. He argued that there is not yet enough data to make rational education choices based on an 'AI future,' and warned that this could damage economic growth. The comments come amid high-profile layoffs at Amazon, Meta and Microsoft that have been partly attributed to AI, though some experts say firms are also using AI as a justification for post-pandemic headcount cuts.",
+      "prop_args": [
+        {
+          "thesis": "AI hype is already distorting education and career choices in ways that worsen the UK's tech labour shortage and reduce long-run growth.",
+          "mechanisms": [
+            "First, exaggerated claims that AI will replace coders reduce entry into computing and engineering. This is because (1) students and parents respond to perceived job security when choosing GCSEs, A-levels and degrees, (2) uncertainty pushes risk-averse students toward safer-seeming fields, and (3) fewer entrants now means a smaller pipeline of mid-skill and senior engineers later.",
+            "Second, the UK already has a structural shortage of technical talent, so even a small fall in supply has outsized economic effects. Three reasons: one, firms cannot easily substitute away from engineers in hardware, software and industrial design; two, shortages raise wages and recruitment costs, which deter scaling; three, constrained labour supply reduces innovation, productivity and domestic investment.",
+            "Third, the damage is self-reinforcing because AI narratives can create a false signal that tech is a shrinking sector when in reality demand for builders remains high. This matters because if young people avoid the field for 5-10 years, the economy loses an entire cohort of skilled workers, and by the time the hype is corrected the labour market gap is already entrenched."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AI is more likely to reallocate workers and raise productivity than to permanently deter people from tech careers, so the net economic effect is positive or at least manageable.",
+          "mechanisms": [
+            "First, labour markets adapt faster than education panic narratives suggest. One, students do not choose careers based on a single headline but on wages, internships and actual hiring; two, AI creates new roles in model deployment, data engineering, safety and integration; three, even if some routine coding is automated, demand shifts toward higher-value technical work rather than disappearing.",
+            "Second, firms blaming AI for layoffs does not prove AI is destroying jobs, because many cuts reflect normal post-Covid correction and cost discipline. One, big tech overhired during the pandemic and is now resizing; two, AI is often used as a convenient explanation for investor-facing narratives; three, if the real issue is cyclical adjustment, then the long-term signal to students is much weaker than the article suggests.",
+            "Third, AI can actually make tech careers more attractive by lowering the barrier to entry and increasing the productivity of junior workers. This matters because if one engineer can do more with AI tools, the sector can expand output, create more startups, and absorb more talent rather than less."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI changes the underlying demand for technical talent or merely changes the tasks within it. Prop wins if you believe perception effects are strong and persistent enough to shrink the future talent pipeline; opp wins if labour markets and wage signals quickly correct the narrative and AI becomes a complement that expands the sector.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Labour Market Signalling",
+        "Skill Shortage",
+        "Human Capital Formation",
+        "Technological Displacement",
+        "Productivity Growth",
+        "Dutch Disease"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would regulate public claims about AI job displacement",
+        "THBT governments should subsidise STEM education in response to AI automation fears",
+        "THP a world where AI adoption is slower but more cautious in labour markets"
+      ],
+      "data_points": [
+        "Amazon, Meta and Microsoft have each announced tens of thousands of layoffs over the last year, with AI cited as a factor",
+        "Raspberry Pi floated on the London Stock Exchange in 2024",
+        "The UK has had among the highest energy costs in the G7 in recent years",
+        "Raspberry Pi is described as the most widely sold computer by a UK firm",
+        "Upton said there is 'no data' to inform rational GCSE choices in an AI future and suggested waiting 5-10 years for clearer evidence"
+      ]
+    },
+    {
+      "id": "8712e6652a38",
+      "title": "UK Online Safety Rules Face a Child-Sextortion Crisis That Current Platform Regulation Has Failed to Contain",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/15/nspcc-sharp-rise-children-blackmailed-over-sexual-images-uk",
+      "published": "2026-05-14T23:01:20Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "The NSPCC said Childline contacts relating to online sexual abuse and exploitation rose by 36% in the year to 31 March, with blackmail now mentioned in 1,043 of 2,444 counselling sessions. The charity said the most common forms included financial sextortion, AI-generated sexual image blackmail, and coercion by former partners. The report comes as the UK government consults on further online safety measures, including an Australian-style under-16 social media ban, app restrictions, and stronger duties under the Online Safety Act.",
+      "prop_args": [
+        {
+          "thesis": "The rise in child sextortion proves that voluntary or light-touch platform regulation has failed, so the state should impose much stricter age-gating, design limits, and platform liability.",
+          "mechanisms": [
+            "First, stronger regulation reduces the supply of exploitative contact at the point of entry. This is because (1) predators rely on easy access to children through open social platforms, (2) age verification and stricter age-ratings raise the cost of creating fake teen accounts, and (3) fewer entry points means fewer opportunities to initiate coercion, grooming, and image extraction.",
+            "Second, design restrictions cut the conversion rate from ordinary use into abuse. Three reasons: one, infinite scroll, livestreaming, and algorithmic recommendation systems increase exposure to strangers and manipulative content; two, mandatory safety-by-design features force platforms to detect suspicious messaging patterns and block nude-image sharing; three, if platforms face real penalties, they have incentives to invest in moderation rather than externalize harm onto children and families.",
+            "Third, the policy is justified by the scale and irreversibility of the harm. This matters because (1) 1,043 Childline sessions involved blackmail, showing this is not a niche edge case, (2) AI tools make image-based abuse scalable and permanent, and (3) once intimate images are circulated, the psychological and reputational damage persists even if the original account is removed."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The problem is criminal abuse, not social media access, so bans and heavy restrictions will mostly displace harm while creating new risks for children.",
+          "mechanisms": [
+            "First, age bans and stricter controls are easy to evade and therefore mostly shift abuse rather than eliminate it. One, determined offenders can move to encrypted apps, gaming chats, or offline contact; two, fake IDs and borrowed accounts undermine age-gating; three, if mainstream platforms become harder to use, children and predators migrate to less supervised spaces where detection is worse.",
+            "Second, overbroad restrictions can reduce the protective value of social media for vulnerable children. One, many children use these platforms for peer support, identity exploration, and access to safeguarding information; two, a hard under-16 ban can push usage underground, making it harder for parents, schools, and regulators to monitor; three, children who are isolated or questioning sexuality may be driven toward riskier, less visible networks.",
+            "Third, the better solution is targeted enforcement and digital literacy, not structural bans. This is because (1) sextortion is often cross-border and requires police, platform takedowns, and rapid reporting tools, (2) schools and parents can reduce victimization by teaching children not to share images and how to respond to blackmail, and (3) platform transparency and moderation improvements can address the specific abuse without imposing broad costs on all users."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between preventing a high-frequency, high-severity harm now and avoiding a broad regulatory overreach that merely displaces abuse. Prop wins if the question is whether the state should act aggressively against a documented and scalable child-safety failure; opp wins if the judge prioritizes enforceability and the risk that blunt bans push children into worse, less visible spaces.",
+      "stock_connections": [
+        "Paternalism",
+        "Harm Prevention",
+        "Regulatory Capture",
+        "Race to the Bottom",
+        "Moral Panic",
+        "Digital Literacy",
+        "Platform Liability",
+        "Safety by Design",
+        "Displacement"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would impose an under-16 social media ban",
+        "THBT governments should require social media platforms to adopt safety-by-design features for minors",
+        "THBT the state should prioritize platform liability over user education in combating online child exploitation",
+        "THP a world where social media platforms are legally liable for child sextortion facilitated on their services"
+      ],
+      "data_points": [
+        "Childline sessions relating to online sexual abuse and exploitation rose 36% in the year to 31 March",
+        "2,444 Childline sessions related to online sexual abuse and exploitation in the year to 31 March",
+        "Blackmail was mentioned in 1,043 of those 2,444 sessions",
+        "Blackmail threats were discussed in two out of five online abuse-related counselling sessions at Childline",
+        "The UK government consultation on online safety closes on 26 May",
+        "The consultation is considering an Australian-style under-16 social media age limit",
+        "The NSPCC warned an under-16 ban could have unintended consequences, including exposing children to dangerous platforms when they turn 16"
+      ]
+    },
+    {
+      "id": "e97109a75084",
+      "title": "Trump’s Strategic Silence on Taiwan Signals a U.S.-China Tradeoff Between Deterrence and De-escalation",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/14/trump-xi-meeting-summit-china-taiwan-arms-sale/",
+      "published": "2026-05-14T22:41:45Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan",
+      "background": "On Thursday, Donald Trump met Xi Jinping in Beijing for the first U.S. presidential visit to China in nearly a decade. Beijing’s readout said Xi called Taiwan “the most important issue in China-U.S. relations” and warned that Taiwanese independence and peace were “as irreconcilable as fire and water,” while the U.S. readout did not mention Taiwan at all. The visit came amid uncertainty over a proposed $14 billion U.S. weapons package for Taiwan, which Trump had not approved before the trip; the administration had already approved an $11 billion Taiwan package in December.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s refusal to foreground Taiwan reduces immediate escalation risk and preserves room for bargaining with China without formally abandoning U.S. commitments.",
+          "mechanisms": [
+            "First, strategic silence lowers the chance of a public red-line crisis. This is because (1) Taiwan is the most sensitive issue in the bilateral relationship, (2) public U.S. signaling on arms sales or sovereignty can force Beijing into retaliatory posturing, and (3) leaving the issue off the readout avoids locking both sides into maximalist positions before follow-up diplomacy.",
+            "Second, ambiguity preserves leverage over both Beijing and Taipei. Three reasons: one, China cannot claim a formal concession if Washington does not explicitly discuss Taiwan in public; two, Taiwan still receives deterrence through existing U.S. policy and prior arms sales; three, the White House keeps the option to approve or delay the $14 billion package later as bargaining capital.",
+            "Third, de-escalation matters because the biggest near-term risk is miscalculation, not a negotiated settlement. This matters because a crisis over Taiwan could trigger military mobilization, sanctions, and alliance panic across the Indo-Pacific, while a quieter channel keeps trade, technology, and security talks alive."
+          ]
+        },
+        {
+          "thesis": "Trump’s softer posture can be read as pragmatic statecraft that reduces the odds of a two-front confrontation over Taiwan and the broader U.S.-China relationship.",
+          "mechanisms": [
+            "First, it prevents Taiwan from poisoning cooperation on other urgent issues. One, the summit was already focused on trade, technology, and the Iran war; two, making Taiwan central would have derailed any chance of progress on tariffs, chips, or crisis management; three, keeping the issue muted allows both leaders to claim success domestically.",
+            "Second, it avoids forcing China into immediate military signaling. One, Beijing often responds to high-profile U.S. arms announcements with exercises and coercive diplomacy; two, delaying the package reduces the probability of an escalatory cycle; three, that buys time for the U.S. to strengthen deterrence later from a less volatile baseline.",
+            "Third, this matters because a managed rivalry is better than symbolic confrontation. The biggest delta in this debate is between a noisy but ineffective show of support and a quieter policy that still sustains deterrence while avoiding unnecessary crisis costs."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s silence on Taiwan weakens deterrence, signals wavering U.S. commitment, and makes Chinese coercion more likely over time.",
+          "mechanisms": [
+            "First, silence creates ambiguity that Beijing can interpret as retreat. One, Xi explicitly framed Taiwan as the core issue and demanded “extra caution”; two, the U.S. readout omitting Taiwan suggests Washington is willing to downplay the issue for other gains; three, that encourages China to test how far U.S. resolve has eroded.",
+            "Second, delaying or politicizing arms sales undermines Taiwan’s defense planning. One, the proposed $14 billion package would be the largest ever U.S. sale to Taiwan; two, Taiwan’s military needs predictable delivery timelines to plan procurement and training; three, uncertainty itself becomes a deterrence failure because it signals that support is conditional on Trump’s personal bargaining style.",
+            "Third, this matters because credibility is cumulative. If the U.S. appears willing to trade Taiwan away for trade or optics, allies in Japan, South Korea, and the Philippines will doubt U.S. security guarantees, which increases regional hedging and makes future deterrence harder."
+          ]
+        },
+        {
+          "thesis": "Trump’s approach incentivizes China to use economic and diplomatic leverage to peel Taiwan away from U.S. support.",
+          "mechanisms": [
+            "First, Beijing learns that pressure works. One, Trump arrived with tech CEOs and prioritized optics and deals over security clarity; two, Xi got a summit where Taiwan was not publicly confronted by the U.S.; three, China can conclude that sustained pressure plus selective cooperation yields concessions.",
+            "Second, the policy normalizes bargaining over Taiwan’s security. One, Trump previously suggested discussing weapons sales with Xi, which collides with the Six Assurances; two, that opens the door to treating Taiwan as a negotiable item; three, once arms sales become part of U.S.-China bargaining, Taiwan’s autonomy is structurally weakened.",
+            "Third, this matters because coercion rarely stops at one issue. If China sees the U.S. softening on Taiwan, it will push harder on chips, trade, and maritime claims, making the entire Indo-Pacific more unstable."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether ambiguity is stabilizing or corrosive. Prop wins if the judge prioritizes crisis avoidance and room for diplomacy; opp wins if the judge thinks deterrence depends on visible, credible commitments and that silence is itself a concession.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Credibility",
+        "Signaling",
+        "Security Dilemma",
+        "Appeasement",
+        "Alliance Reliability",
+        "Strategic Ambiguity",
+        "Miscalculation Risk"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would publicly reaffirm its commitment to Taiwan at every U.S.-China summit",
+        "THBT the United States should condition all major trade talks with China on explicit commitments regarding Taiwan",
+        "THP a world where the U.S. maintains strategic ambiguity on Taiwan",
+        "THBT the U.S. should prioritize de-escalation over deterrence in cross-strait relations"
+      ],
+      "data_points": [
+        "First U.S. presidential visit to China in nearly a decade",
+        "Beijing said Taiwan is 'the most important issue in China-U.S. relations'",
+        "Xi warned Taiwanese independence and peace are 'as irreconcilable as fire and water'",
+        "U.S. readout of the summit did not mention Taiwan at all",
+        "Trump had considered discussing U.S. weapons sales to Taiwan with Xi",
+        "Proposed Taiwan weapons package: $14 billion, which would be the largest-ever U.S. weapons sale to Taiwan",
+        "Trump administration approved an $11 billion Taiwan weapons package in December",
+        "The Six Assurances (1982) state the U.S. has 'not agreed' to consult China on arms sales to Taiwan"
+      ]
+    },
+    {
+      "id": "8f588bfd0bfb",
+      "title": "US-China Summit Produces Symbolism Without Concessions on Iran, Taiwan, or War Powers",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/china-summit-has-sizzle-not-steak-rep-auchincloss-video",
+      "published": "2026-05-14T22:37:01Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan / Iran",
+      "background": "On 2026-05-14, Rep. Jake Auchincloss (D-MA) said the US-China summit had “sizzle, not steak,” arguing that Xi Jinping was projecting confidence while the US should “watch what he does” rather than what he says. He specifically referenced President Trump’s claim that Xi would not send weapons to Iran, and said Congress should pass a War Powers Resolution after another vote failed in the House on Thursday. Auchincloss also questioned whether the administration would defend Taiwan and dismissed a federal gas tax holiday as ineffective for energy prices.",
+      "prop_args": [
+        {
+          "thesis": "The summit is strategically hollow because China can use diplomatic optics to buy time while continuing coercive behavior on Iran, Taiwan, and broader regional security.",
+          "mechanisms": [
+            "First, the summit creates a credibility gap between rhetoric and enforcement. This is because (1) Xi can make reassuring statements about Iran or stability without binding commitments, (2) the US then faces a public-relations trap where backing away looks escalatory, and (3) China gains diplomatic cover while preserving strategic ambiguity.",
+            "Second, the meeting lets China compartmentalize issues and avoid real concessions. Three reasons: one, Beijing can separate trade/diplomacy from military support decisions; two, it can keep supplying dual-use pressure points indirectly through third parties; three, it can extract symbolic recognition from Washington without changing behavior on Taiwan or Iran.",
+            "Third, the lack of concrete deliverables weakens deterrence. This matters because if the US cannot secure verifiable commitments or enforcement mechanisms, allies conclude that summitry is theater, adversaries infer that red lines are negotiable, and the risk of future coercion rises."
+          ]
+        },
+        {
+          "thesis": "Congress should reassert War Powers authority because executive drift on Iran and Taiwan increases the chance of unilateral escalation and alliance damage.",
+          "mechanisms": [
+            "First, a War Powers Resolution constrains the president’s ability to commit the US to conflict without legislative buy-in. This is because (1) it forces public debate before escalation, (2) it raises the political cost of unauthorized military action, and (3) it signals to Iran and China that US force decisions are not purely executive improvisation.",
+            "Second, congressional oversight improves strategic credibility. Three reasons: one, allies like Taiwan need to know US commitments are durable across administrations; two, adversaries are less likely to test ambiguous commitments when Congress is visibly involved; three, domestic checks reduce the chance that a single summit or leader-level promise drives policy.",
+            "Third, the issue is not just procedure but escalation control. This matters because miscalculation around Iran or the Taiwan Strait can trigger rapid military spirals, and institutional veto points are one of the few tools that slow down accidental war."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is still valuable because even symbolic engagement can reduce misperception, stabilize great-power competition, and create channels for crisis management.",
+          "mechanisms": [
+            "First, leader-level meetings lower the risk of accidental escalation. One, direct communication reduces the chance that military incidents are interpreted as deliberate attacks; two, it creates personal channels for deconfliction; three, it can produce tacit understandings even when no formal deal is announced.",
+            "Second, diplomacy can shape behavior without public concessions. One, China may be more cautious about overtly arming Iran if it wants to preserve summit gains; two, the US can use the meeting to communicate red lines on Taiwan; three, ambiguity can be useful when both sides need face-saving off-ramps.",
+            "Third, War Powers fights can be counterproductive if they signal disunity. One, visible congressional conflict may weaken deterrence by making US policy look unstable; two, adversaries can exploit domestic division to wait out pressure; three, the executive needs flexibility to respond quickly to fast-moving crises."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit diplomacy without hard commitments meaningfully changes adversary behavior or merely creates cover for inaction. Prop wins if you prioritize enforcement and deterrence, because structural incentives favor China using optics while preserving leverage; opp wins if you think crisis management and communication are themselves the main strategic goods.",
+      "stock_connections": [
+        "Cheap Talk",
+        "Deterrence Theory",
+        "Credibility",
+        "Strategic Ambiguity",
+        "Executive Overreach",
+        "War Powers",
+        "Great Power Competition",
+        "Alliance Assurance",
+        "Summit Diplomacy"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize congressional war powers constraints over executive flexibility in dealing with Iran and China",
+        "THBT summit diplomacy between great powers is more likely to produce optics than substantive security gains",
+        "THP a world where the US requires legislative approval before any military escalation involving Iran",
+        "THBT the United States should adopt a more explicit defense commitment to Taiwan"
+      ],
+      "data_points": [
+        "Rep. Jake Auchincloss (D-MA) said the China summit had “sizzle, not steak” on 2026-05-14",
+        "The House failed another vote on a War Powers Resolution on Thursday before the interview",
+        "Trump said Xi would not send weapons to Iran, which Auchincloss urged the US to verify through actions rather than words",
+        "Auchincloss questioned whether the administration would defend Taiwan"
+      ]
+    },
+    {
+      "id": "f368283868ed",
+      "title": "US Aid-for-Reform Offer Forces Cuba to Choose Between Regime Survival and Humanitarian Relief",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss",
+      "published": "2026-05-14T22:30:06Z",
+      "category": "IR",
+      "region": "Cuba / United States",
+      "background": "On 14 May 2026, Cuban President Miguel Diaz-Canel said Havana would accept US humanitarian aid if it followed internationally recognised practices, after Washington offered $100 million in assistance tied to “meaningful reforms.” The comments came amid a worsening fuel crisis: Cuba’s energy minister said on 13 May the country had completely run out of diesel and fuel oil, while island-wide blackouts have disrupted hospitals and public services. Since January 2026, the Trump administration has cut fuel flows from Venezuela to Cuba and threatened tariffs on countries supplying Havana with oil, creating what Cuban officials describe as a de facto fuel blockade.",
+      "prop_args": [
+        {
+          "thesis": "Conditional US aid is a coercive but effective lever that can force Cuban reforms while still addressing immediate humanitarian suffering.",
+          "mechanisms": [
+            "First, tying aid to reforms creates bargaining leverage over a regime that is already under acute economic stress. This works because (1) Cuba has run out of diesel and fuel oil, so the government cannot easily absorb further shocks, (2) blackouts and shortages increase domestic pressure on Diaz-Canel, and (3) the threat of withholding aid makes the cost of non-compliance immediate rather than abstract.",
+            "Second, aid conditionality can target the regime without fully punishing civilians. Three reasons: one, direct humanitarian assistance can be routed through internationally recognised channels, two, it allows the US to claim it is helping the Cuban people rather than the government, and three, it creates a distinction between relief and broader sanctions policy, making reform the price of access to life-saving supplies.",
+            "Third, if the goal is long-term liberalisation, this is a better tool than blanket embargo relief. This matters because (1) unconditional easing would remove pressure without guaranteeing political change, (2) selective aid can be used to extract concessions on repression and governance, and (3) the regime’s need for fuel, food, and medicines makes it more likely to trade real policy changes for survival."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The US aid offer is extortion disguised as humanitarianism, and it will likely deepen suffering while entrenching anti-US nationalism in Cuba.",
+          "mechanisms": [
+            "First, conditional aid politicises basic survival and makes civilians hostages to regime-change strategy. Numbered reasons: one, when food, fuel, and medicine are tied to reforms, the population pays the price for political deadlock; two, the Cuban government can credibly frame the US as deliberately inducing hardship through embargo and fuel pressure; three, this reduces the legitimacy of any aid package and makes acceptance politically toxic.",
+            "Second, coercive aid is unlikely to produce genuine reforms and may instead harden the regime. Numbered reasons: one, external pressure lets the government rally nationalist support against foreign interference, two, elite survival incentives mean leaders may prefer repression over concessions, and three, if the US is openly seeking regime change, Cuban officials have little reason to trust any promise that reforms will end the pressure."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether conditional aid changes regime incentives faster than it worsens civilian suffering. Prop wins if you believe Cuba’s fuel collapse makes the government too weak to resist; opp wins if you think overt coercion mainly strengthens the regime’s anti-imperialist narrative and delays relief.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Humanitarian Intervention",
+        "Sanctions and Embargoes",
+        "Regime Change",
+        "Collective Punishment",
+        "Anti-Imperialism",
+        "Moral Hazard",
+        "State Capacity Collapse"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would offer humanitarian aid to adversarial regimes only in exchange for political reforms",
+        "THBT sanctions relief should be conditional on democratic reforms",
+        "THP a world where humanitarian aid is separated from foreign policy conditionality"
+      ],
+      "data_points": [
+        "US offered $100 million in humanitarian assistance to Cuba on 13 May 2026",
+        "Cuba’s energy minister said on 13 May 2026 that the country had completely run out of diesel and fuel oil",
+        "The US and Cuba are separated by about 150 kilometres (90 miles)",
+        "Since January 2026, the Trump administration has cut fuel flows from Venezuela to Cuba and threatened tariffs on countries supplying Havana with oil",
+        "Cuba has faced island-wide blackouts that have left hospitals and public services at a standstill",
+        "The US embargo on Cuba has been in place since the 1960s"
+      ]
+    },
+    {
+      "id": "6b44bc2f4620",
+      "title": "US Coercive Diplomacy Toward Cuba Signals a Broader Bargain Over Sanctions and Regional Security",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-14/cia-chief-ratcliffe-leads-us-delegation-to-cuba-to-urge-talks",
+      "published": "2026-05-14T22:26:58Z",
+      "category": "IR",
+      "region": "United States–Cuba; Iran (context)",
+      "background": "Bloomberg reports that CIA Director John Ratcliffe led a US delegation to Cuba to urge talks. The article is framed in the context of the Trump administration’s broader diplomacy, including parallel negotiations with Iran, where Trump said talks were 'going well' ahead of a Tuesday night deadline for a deal. Trump also said freedom of navigation through the Strait of Hormuz must be part of any agreement, linking the Cuba outreach to a wider pattern of coercive bargaining over security and sanctions.",
+      "prop_args": [
+        {
+          "thesis": "Using high-level, intelligence-linked diplomacy with Cuba increases US leverage and creates a credible pathway to extract concessions without immediate military escalation.",
+          "mechanisms": [
+            "First, it signals seriousness and raises the credibility of US commitments and threats. This is because (1) sending a CIA chief rather than a lower-level envoy tells Havana the issue is tied to core national security, (2) it reduces Cuba’s ability to dismiss the outreach as symbolic, and (3) it makes future sanctions relief or escalation more believable as part of a bargain.",
+            "Second, it opens a channel for issue-linkage that can produce concrete concessions. Three reasons: one, Cuba is more likely to negotiate when talks are tied to economic pressure and diplomatic isolation; two, the US can trade limited normalization for cooperation on migration, intelligence, or regional security; three, backchannel diplomacy is often the only way to move adversarial regimes that publicly cannot afford to appear weak.",
+            "Third, even partial talks can reduce crisis risk and improve regional stability. This matters because (1) it lowers the chance of miscalculation in a long-hostile relationship, (2) it gives both sides a mechanism to manage migration, detention, and maritime incidents, and (3) it sets a precedent that the US can pursue pragmatic engagement instead of relying purely on punishment."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "High-profile coercive outreach by a security official is more likely to entrench Cuban distrust and produce cosmetic talks than durable concessions.",
+          "mechanisms": [
+            "First, it reinforces the Cuban regime’s siege narrative. One, if the CIA is the face of diplomacy, Havana reads the move as regime-change pressure rather than genuine negotiation; two, that lets the government justify repression domestically; three, it reduces the political space for reformers or pragmatists inside Cuba.",
+            "Second, it weakens the quality of any agreement by making talks transactional and unstable. One, Cuba will assume the US can reverse course after extracting concessions; two, that creates incentives to give only reversible, low-cost promises; three, without trust or verification, any deal is fragile and easy to collapse under domestic political shifts in Washington.",
+            "Third, it can backfire strategically by normalizing coercion over engagement. One, allies and adversaries see the US as prioritizing pressure over diplomacy, which lowers US soft power; two, it encourages other states to treat negotiations as hostage-taking; three, it may harden anti-US alignment in the region rather than isolating Cuba."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive diplomacy creates leverage or simply hardens resistance. Prop wins if the round is about extracting narrow concessions under pressure; opp wins if the judge prioritizes durability and legitimacy, because trust deficits make any short-term gain much less stable.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Backchannel Negotiations",
+        "Regime Security",
+        "Sanctions Leverage",
+        "Soft Power Erosion",
+        "Issue Linkage",
+        "Credible Commitment Problems",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would send intelligence chiefs to negotiate with adversarial regimes",
+        "THBT the US should prioritize coercive diplomacy over unconditional engagement with Cuba",
+        "THP a world where major powers use backchannel talks with sanctioned states to trade sanctions relief for security concessions"
+      ],
+      "data_points": [
+        "Article dated 2026-05-14T22:26:58Z",
+        "CIA Director John Ratcliffe led the US delegation to Cuba",
+        "Trump said talks with Iran were 'going well' ahead of a Tuesday night deadline for a deal",
+        "Trump said freedom of navigation through the Strait of Hormuz must be part of any Iran agreement"
+      ]
+    },
+    {
+      "id": "2cdc478bc342",
+      "title": "China Reopening to U.S. Beef Signals a Partial Thaw in Trade Tensions, but Leaves Broader U.S.-China Frictions Intact",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-14/china-beef-deal-is-a-big-deal-rep-stutzman-video",
+      "published": "2026-05-14T22:20:24Z",
+      "category": "Econ",
+      "region": "United States / China",
+      "background": "Representative Marlin Stutzman (R-IN), a member of the House Financial Services and Budget Committees, said China reopening its market to U.S. beef is a \"big deal\" for American farmers. In the same interview, he described President Trump's Beijing trip as one of the most consequential of his presidency. The clip also touched on a possible federal gas tax holiday and the CLARITY Act, but the core trade-relevant development is China’s renewed access for U.S. beef exports.",
+      "prop_args": [
+        {
+          "thesis": "Reopening China to U.S. beef is a meaningful trade win because it converts diplomatic engagement into immediate export demand for American producers.",
+          "mechanisms": [
+            "First, it creates direct revenue for U.S. ranchers and meatpackers. This is because (1) China is a massive consumer market, so even partial reopening can absorb large volumes, (2) higher export demand raises farmgate prices and improves margins for producers facing input-cost pressure, and (3) the gains are geographically concentrated in rural states, making the policy politically and economically salient.",
+            "Second, it strengthens the credibility of trade diplomacy by showing that negotiation can unlock market access faster than litigation or tariffs. Three reasons: one, market-opening deals are immediately legible to domestic constituencies, two, they create a visible payoff for high-level summits, and three, they can be used as a template for further sectoral concessions in agriculture and other goods.",
+            "Third, it reduces some of the uncertainty that has depressed investment in the U.S. agricultural sector. This matters because farmers make planting, herd-size, and capital decisions years in advance, and predictable export channels improve their willingness to expand production, borrow, and modernize."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The beef reopening is mostly symbolic and does little to change the structural imbalance in U.S.-China economic relations.",
+          "mechanisms": [
+            "First, the deal is narrow and sector-specific, so it cannot resolve the broader trade conflict. One, U.S.-China tensions are driven by technology controls, industrial policy, and security competition, not just agriculture; two, China can selectively open one market while keeping pressure on others; three, a limited concession may be reversible if political relations deteriorate.",
+            "Second, the benefits may be overstated because China can use agricultural access as leverage. One, Beijing can time purchases to influence U.S. domestic politics, two, it can switch sourcing to other suppliers if negotiations sour, and three, the U.S. farm sector remains exposed to retaliation in future disputes.",
+            "Third, the headline may distract from the costs of dependence on China as a major export destination. One, reliance on a politically sensitive market increases vulnerability to coercion, two, it encourages producers to overinvest in a market they do not control, and three, it can weaken incentives for the U.S. to diversify export destinations and build resilience."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate, concentrated gains for U.S. farmers and the much larger structural question of whether the U.S. is actually reducing dependence on China. The proposition wins if the round is about tangible economic relief and rural political payoff; the opposition wins if the clash is about durability, leverage, and whether one commodity deal meaningfully changes the bilateral relationship.",
+      "stock_connections": [
+        "Trade interdependence",
+        "Economic coercion",
+        "Comparative advantage",
+        "Protectionism",
+        "Dependency Theory",
+        "Rural political economy",
+        "Market access",
+        "Geoeconomics"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize sectoral trade deals with China over broad tariff escalation",
+        "THBT the United States should pursue agricultural market access deals with China despite broader strategic tensions",
+        "THP a world where trade diplomacy is used to reduce bilateral tensions between great powers"
+      ],
+      "data_points": [
+        "Rep. Marlin Stutzman is a member of the House Financial Services and Budget Committees",
+        "The interview was published on 2026-05-14T22:20:24Z",
+        "China reopened its market to U.S. beef, described by Stutzman as a \"big deal\" for farmers",
+        "Stutzman called Trump’s Beijing trip \"one of the most consequential\" of his presidency"
+      ]
+    },
+    {
+      "id": "5a4ba7cb9c53",
+      "title": "Musk v OpenAI Could Decide Whether Frontier AI Can Escape Its Nonprofit Origins",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/economy/2026/5/14/closing-arguments-begin-in-elon-musks-landmark-lawsuit-against-openai?traffic_source=rss",
+      "published": "2026-05-14T22:12:47Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "Closing arguments began on 14 May 2026 in Elon Musk’s lawsuit against OpenAI, Sam Altman, Greg Brockman, and Microsoft. Musk alleges OpenAI breached a charitable trust and abandoned its founding nonprofit mission in favor of profit and investor enrichment; OpenAI says Musk filed too late and that everyone involved knew by 2017 that the company needed more capital than a nonprofit could raise. The case also targets Microsoft, which invested $1bn in 2019 and another $10bn in 2023, and comes as OpenAI is moving toward a planned IPO that could be among the largest ever.",
+      "prop_args": [
+        {
+          "thesis": "OpenAI should be held to its original nonprofit commitments because letting it convert into a profit-maximizing AI giant rewards mission drift and weakens safeguards around frontier AI.",
+          "mechanisms": [
+            "First, enforcing the charitable-trust theory preserves institutional credibility in high-stakes tech. This is because (1) OpenAI marketed itself as a safety-first counterweight to pure commercial AI labs, (2) donors, employees, and early partners relied on that mission when contributing capital and talent, and (3) allowing a later pivot tells future AI firms that they can raise trust on altruistic terms and cash out once the technology becomes valuable.",
+            "Second, profit incentives predictably distort safety behavior in frontier AI. Three reasons: one, investors push for faster product release and scale to capture market share; two, executives face pressure to prioritize valuation and growth over slower safety testing; three, once a company is on an IPO path, governance becomes more accountable to capital markets than to public-interest constraints.",
+            "Third, a legal win for Musk can force better governance across the AI sector. This matters because it creates a precedent that mission-locked AI firms cannot quietly rebrand themselves after becoming strategically important, which raises the cost of opportunistic conversion and gives regulators and competitors a stronger benchmark for what “responsible AI” should mean."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "OpenAI had to evolve into a for-profit structure to scale frontier AI, and Musk’s lawsuit is an attempt to weaponize old promises against the reality of capital-intensive innovation.",
+          "mechanisms": [
+            "First, the statute-of-limitations defense and timing matter because (1) the relevant restructuring and financing needs were apparent by 2017, (2) Musk remained on the board and was aware of the shift, and (3) waiting until OpenAI is on the verge of an IPO suggests strategic litigation rather than genuine trust enforcement.",
+            "Second, the nonprofit model was structurally incapable of funding frontier AI at the required scale. Numbered reasons: one, training and deploying leading models requires massive compute, talent, and infrastructure; two, nonprofit fundraising cannot reliably supply the billions needed for long-run competition; three, without commercial returns, OpenAI would likely fall behind better-capitalized rivals, reducing rather than increasing the public’s access to advanced AI.",
+            "Third, a for-profit structure can improve safety by creating durable resources and clearer accountability. One, profits fund expensive alignment research, security, and red-teaming; two, public-market scrutiny and board duties can impose governance discipline; three, if OpenAI cannot raise capital competitively, the field may consolidate around less transparent or less safety-conscious actors, making the overall AI ecosystem worse."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether mission integrity or scale is the binding constraint on AI safety. Prop wins if you think frontier AI is so dangerous that preserving nonprofit constraints is worth sacrificing growth; opp wins if you think only massive capital and market structure can make safe AI viable at all.",
+      "stock_connections": [
+        "Mission drift",
+        "Principal-agent problem",
+        "Corporate governance",
+        "Moral hazard",
+        "Regulatory capture",
+        "Too big to fail",
+        "Public goods underprovision",
+        "Privatization of public goods",
+        "Founder control"
+      ],
+      "motion_areas": [
+        "TH, as a court, would force OpenAI to remain nonprofit",
+        "THBT frontier AI labs should be legally constrained from converting into for-profit companies",
+        "THP a world where charitable AI labs can be sued for mission drift",
+        "TH, as regulators, would prohibit AI companies from taking venture capital if they were founded as nonprofits"
+      ],
+      "data_points": [
+        "$38m Musk invested in OpenAI’s early years",
+        "Microsoft invested $1bn in OpenAI in 2019 and another $10bn in 2023",
+        "Judge Yvonne Gonzalez Rogers said that if the jury finds Musk filed outside the statute of limitations, she is highly likely to direct a verdict for defendants",
+        "OpenAI is moving toward a planned IPO expected to be among the largest ever",
+        "Five witnesses were cited by Musk’s lawyer as having called Sam Altman a liar under oath"
+      ]
+    },
     {
       "id": "cb914f5101fa",
       "title": "US-China Summit Delivers Symbolic De-escalation but No Breakthrough on Taiwan or Iran",
@@ -2292,6 +2973,80 @@
         "Goldman Sachs estimated Trump’s tariffs would add about 1 percentage point to inflation in the second half of 2025 and first half of 2026",
         "Adriana Kugler warned in June 2025 that cutting off immigrant workers could add meaningful upward pressure to inflation in agriculture, construction, food processing, and leisure and hospitality",
         "Trump’s approval on inflation is described as lower than any American president in the history of polling"
+      ]
+    },
+    {
+      "id": "746bb5dd0cec",
+      "title": "Beijing Uses 'Strategic Stability' to Reframe China-U.S. Rivalry on Its Own Terms",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/while-trump-sought-business-deals-beijing-came-prepared-to-redefine-china-us-relations/",
+      "published": "2026-05-14T17:30:00Z",
+      "category": "IR",
+      "region": "China / United States",
+      "background": "At a Beijing summit in May 2026, Xi Jinping and Donald Trump agreed in principle to make a \"constructive China-U.S. relationship of strategic stability\" the new framing for ties, according to Xinhua. The Chinese readout said the framework should provide \"strategic guidance for the next three years and beyond,\" and Chinese state media quickly unpacked it into four parts: cooperation as the mainstay, moderate competition, manageable differences, and peace. The article argues this follows earlier failed attempts by both sides to name the relationship, including the U.S. \"responsible stakeholder\" and \"G-2\" concepts, and Beijing's own \"new model of major-country relations.\"",
+      "prop_args": [
+        {
+          "thesis": "Beijing's framing is a strategic win because it normalizes long-term rivalry on Chinese terms while preventing the U.S. from defining the relationship as pure containment.",
+          "mechanisms": [
+            "First, it shifts the default language of the relationship from 'competition-first' to 'stability-first'. This matters because (1) the first actor to name the relationship sets the interpretive baseline for diplomats, bureaucrats, and allies, (2) 'stability' implies both sides have obligations to manage escalation, and (3) it makes U.S. pressure look like a deviation from a jointly accepted order rather than the natural state of affairs.",
+            "Second, it gives China a framework for paced, durable rivalry. Three reasons: one, 'cooperation as the mainstay' keeps trade and crisis channels open; two, 'moderate competition' legitimizes contestation without forcing a break; three, 'manageable differences' lets Beijing compartmentalize flashpoints like tariffs, tech controls, and Taiwan instead of letting them contaminate the whole relationship.",
+            "Third, it creates a diplomatic trap for Washington. This matters because if the U.S. later escalates, Beijing can accuse it of violating 'strategic stability'; if Washington accepts the frame, it implicitly concedes that rivalry must be bounded by Chinese-defined restraint, which weakens the logic of maximal pressure and alliance mobilization."
+          ]
+        },
+        {
+          "thesis": "The framework is useful for reducing the risk of accidental escalation between two nuclear superpowers.",
+          "mechanisms": [
+            "First, it institutionalizes crisis management. This is because (1) 'strategic stability' in U.S. lexicon already implies guardrails, hotlines, and verification logic, (2) both sides have incentives to avoid a catastrophic break in trade and security ties, and (3) a shared vocabulary lowers the chance that routine coercion is misread as a prelude to war.",
+            "Second, it creates space for selective cooperation even amid rivalry. Three reasons: one, both economies remain deeply interdependent, so decoupling is costly; two, issues like fentanyl, climate, finance, and maritime incidents require communication; three, a formalized stability frame makes it politically easier for leaders to justify engagement without appearing weak.",
+            "Third, it buys time for de-escalation in a period of volatile leadership politics. This matters because the article explicitly says the framework is meant to last 'three years and beyond,' which can outlive Trump-era transactionalism and reduce the chance that short-term domestic politics trigger irreversible strategic rupture."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The framework is mostly rhetorical cover that lets China buy time while continuing coercive competition underneath a softer label.",
+          "mechanisms": [
+            "First, it is asymmetric in meaning. One, Washington hears a generic stability slogan, while Beijing embeds a Maoist logic of paced struggle and red lines; two, that ambiguity lets China claim moderation without changing behavior; three, it can use the phrase to blunt criticism while still expanding pressure in trade, tech, and military domains.",
+            "Second, it may lull the U.S. into underreaction. One, if American officials treat 'strategic stability' as atmospherics, they may fail to notice Chinese efforts to lock in favorable norms; two, the article says the U.S. delegation lacked a senior China hand and was focused on transactions, not strategy; three, that makes it easier for Beijing to shape the agenda while Washington thinks it is merely doing business.",
+            "Third, the framework does not resolve the core conflict over Taiwan. This matters because (1) the article identifies Taiwan as the hard boundary condition of the whole relationship, (2) Beijing explicitly warns that mishandling Taiwan could create an 'extremely dangerous situation,' and (3) any stability architecture collapses once the central security issue remains unresolved."
+          ]
+        },
+        {
+          "thesis": "The framework is unlikely to endure because the U.S. and China are using the same words to mean fundamentally different things.",
+          "mechanisms": [
+            "First, the conceptual mismatch makes implementation unstable. One, the U.S. treats strategic stability as a technical arms-control problem; two, China treats it as a broader philosophy of managed rivalry and tempo; three, when crisis hits, each side will believe the other has violated the agreement even if both think they are complying.",
+            "Second, domestic and bureaucratic incentives push both sides back toward confrontation. One, U.S. politics rewards toughness on China and alliance-building; two, Chinese institutions are already building export controls, sanctions, and anti-sanctions tools; three, once bureaucracies operationalize rivalry, summit language becomes secondary to actual coercive policy.",
+            "Third, the historical pattern is that Chinese formulations fade when the relationship deteriorates. This matters because the article itself notes that earlier Chinese labels like the 'new model of major-country relations' never stuck with Washington, so the current phrase may also disappear once the next crisis or tariff round makes cooperation politically impossible."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether language changes behavior or merely disguises it. Prop wins if you think shared framing creates durable guardrails in a nuclear rivalry; Opp wins if you think Beijing is using ambiguity to entrench asymmetric leverage while leaving the underlying conflict untouched.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Strategic Ambiguity",
+        "Security Dilemma",
+        "Arms Control",
+        "Escalation Management",
+        "Rhetorical Entrapment",
+        "Soft Balancing",
+        "Alliance Politics",
+        "Containment",
+        "Miscalculation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would accept China's framing of 'strategic stability' in bilateral relations",
+        "THBT great powers should prioritize stability over ideological competition in managing rivalries",
+        "THP a world where the U.S. and China institutionalize managed rivalry through formal summit language",
+        "THBT the U.S. should pursue détente with China rather than explicit containment"
+      ],
+      "data_points": [
+        "\"three years and beyond\" was the stated horizon of the new framework",
+        "Xinhua said the relationship should be a 'constructive China-U.S. relationship of strategic stability'",
+        "CGTN rendered Xi's four-part formulation as 'positive stability with cooperation as the mainstay'; 'sound stability with moderate competition'; 'constant stability with manageable differences'; and 'enduring stability with promises of peace'",
+        "Trump posted in October 2025: 'THE G2 WILL BE CONVENING SHORTLY!'",
+        "Wang Yi rejected 'major power co-governance' in March 2026 at the Two Sessions press conference",
+        "The article says the U.S. summit operation was run substantially through the Treasury Department and lacked an obvious senior China hand",
+        "Marco Rubio said strategic stability was 'one of the things the Chinese emphasize – and we agree'"
       ]
     },
     {
