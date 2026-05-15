@@ -1,7 +1,682 @@
 {
   "date": "2026-05-15",
-  "last_updated": "2026-05-15T19:55:18Z",
+  "last_updated": "2026-05-15T22:07:15Z",
   "cards": [
+    {
+      "id": "75bd8ee3019c",
+      "title": "Pentagon Cuts Civilian-Harm Safeguards, Raising the Cost of U.S. Military Power",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/pentagon-civilian-death-program",
+      "published": "2026-05-15T21:34:30Z",
+      "category": "IR",
+      "region": "United States / Middle East",
+      "background": "A Pentagon inspector general report released on 13 May 2026 found the Department of War no longer had the staff, tools, or infrastructure to comply with two federal statutes requiring a civilian casualty policy and a Civilian Protection Center of Excellence (CP CoE). The civilian harm mitigation and response (CHMR) program, created in January 2022 under Defense Secretary Lloyd Austin, has seen funding end for its data platform, committee meetings stop, and many personnel reassigned or forced out. The report says senior officials proposed cutting or eliminating the program in February 2026, and that the military began acting as if the cuts had already been approved before the Pentagon responded to the watchdog.",
+      "prop_args": [
+        {
+          "thesis": "Gut civilian-harm safeguards and the U.S. becomes more likely to kill civilians, lose intelligence, and generate blowback that makes future operations more expensive and less effective.",
+          "mechanisms": [
+            "First, removing the CHMR apparatus increases operational error rates. This is because (1) the program existed to train strike cells on civilian-harm mitigation and cognitive-bias checks, (2) the data platform and committee structure were what turned lessons learned into repeatable procedures, and (3) with only seven staff left and operations locked out, there is no institutional capacity to catch mistakes before strikes happen.",
+            "Second, the cuts degrade battlefield intelligence and partner cooperation. Three reasons: one, civilian casualty review systems are how militaries learn which tactics are producing harm and adjust targeting; two, when local populations see no accountability, they are less likely to provide tips, access, or cooperation; three, allies and host governments become more reluctant to support U.S. operations if they expect political fallout from indiscriminate strikes.",
+            "Third, this creates strategic blowback that compounds over time. This matters because (1) civilian deaths are recruitment fuel for anti-U.S. armed groups, (2) repeated incidents erode the legitimacy of U.S. claims to act under international law, and (3) once the norm of restraint is weakened, future administrations inherit a lower baseline of accountability and a higher tolerance for mass harm."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Pentagon can still conduct effective military operations without a large civilian-harm bureaucracy, and overbuilt safeguards can slow decision-making without materially changing outcomes.",
+          "mechanisms": [
+            "First, the core military mission remains intact because (1) targeting, intelligence, and legal review still exist inside operational commands, (2) the article shows the program was not formally canceled, only reorganized and reduced, and (3) commanders can absorb some CHMR functions into existing chains of command rather than maintaining a separate center.",
+            "Second, the marginal value of the program may be limited relative to the scale of U.S. force structure. Three reasons: one, the U.S. already claims to use precision weapons and extensive pre-strike review; two, many civilian casualties in war zones come from enemy co-location with civilians rather than bureaucratic failure alone; three, if a program is incomplete, inaccurate, and underused, its existence may create compliance theater more than real protection.",
+            "Third, in high-tempo conflict, speed and flexibility can outweigh procedural safeguards. This matters because (1) adversaries exploit delay and bureaucratic friction, (2) commanders may need discretion to strike fleeting targets, and (3) if the U.S. is already engaged in a war, the immediate military objective may be to reduce enemy capability even at some civilian cost."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether civilian-harm mitigation is a marginal bureaucratic layer or a core constraint on how force is used. Prop wins if the round is about long-run strategic effectiveness and legality, because the article shows the institutional capacity has been hollowed out; Opp wins only if they can prove existing military law and targeting processes already capture most of the benefit.",
+      "stock_connections": [
+        "Civilian Harm",
+        "Blowback",
+        "Legitimacy",
+        "Militarization",
+        "Rule of Law",
+        "Institutional Decay",
+        "Bureaucratic Capture",
+        "Mission Creep",
+        "Security vs Liberty"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize civilian-harm mitigation over operational flexibility in military doctrine",
+        "THBT states should be legally required to maintain independent civilian casualty review bodies for all overseas military operations",
+        "THP a world where militaries cannot conduct strikes without a civilian-harm accountability mechanism"
+      ],
+      "data_points": [
+        "Inspector general report published 13 May 2026; Pentagon given until 12 June to provide a plan",
+        "CHMR program created in January 2022 under Lloyd Austin",
+        "Only seven people reportedly left in the program, with staff 'locked out of all operations'",
+        "Funding ended for the program's data management platform; steering committee last met in December 2025",
+        "Airwars estimated U.S. drone and airstrikes killed at least 22,000 civilians and perhaps as many as 48,000 in the 20 years after 9/11",
+        "The inspector general found the department had 133 CHMR actions with incomplete and inaccurate tracking data",
+        "One U.S. strike in Minab reportedly killed at least 175 people, a majority children, at an all-girls school"
+      ]
+    },
+    {
+      "id": "cc1047ddcb49",
+      "title": "Trump Signals Iran Could Keep Its Nuclear Programme Frozen for 20 Years, Reopening the Sunset-Clause Fight",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T21:17:05Z",
+      "category": "IR",
+      "region": "Iran / Israel / United States / Pakistan / Gulf",
+      "background": "US President Donald Trump said he would accept a 20-year suspension of Iran's nuclear programme, marking a shift from his earlier demand that Iran permanently end uranium enrichment. The comments came after talks in Beijing with Chinese President Xi Jinping, while US and Israeli air strikes on Iran began on 28 February and a ceasefire has largely held since last month to facilitate negotiations. Pakistan has been mediating, but both sides have rejected each other's latest proposals; Iran has reportedly demanded an end to attacks, a halt to the US naval blockade of Iranian ports, and guarantees against future strikes.",
+      "prop_args": [
+        {
+          "thesis": "A time-limited freeze is a pragmatic nonproliferation deal that reduces immediate war risk while preserving leverage over Iran.",
+          "mechanisms": [
+            "First, a 20-year suspension buys real strategic time. This is because (1) it blocks Iran from legally advancing enrichment for a generation, (2) it creates a long verification window for inspectors and intelligence agencies to detect cheating, and (3) it postpones the most dangerous proliferation decision until the regional security environment may be less volatile.",
+            "Second, it is more likely to be enforceable than maximalist demands for permanent dismantlement. Three reasons: one, Iran is far more likely to accept a temporary cap than unconditional surrender of its nuclear know-how; two, a deal that Iran actually signs is better than a perfect deal that collapses into war; three, partial concessions can be tied to sanctions relief and snapback mechanisms, making compliance more credible.",
+            "Third, this reduces the chance of escalation into a wider regional war. This matters because the current context already includes US-Israeli strikes, a fragile ceasefire, and a blockade of Iranian ports; if diplomacy fails, the likely alternative is renewed strikes, higher oil prices, and spillover into Lebanon and the Gulf."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A 20-year suspension is just a delayed sunset clause that legitimizes Iran's nuclear threshold status and leaves the core threat intact.",
+          "mechanisms": [
+            "First, delay is not disarmament. One, Iran keeps the scientific base, industrial capacity, and political legitimacy of a nuclear programme; two, once the suspension expires, it can rapidly reconstitute enrichment with far less international resistance; three, the deal teaches Iran that persistence eventually wins concessions.",
+            "Second, temporary freezes create a dangerous moral hazard for both Iran and its adversaries. One, Iran can wait out the clock while improving missile, drone, and proxy capabilities; two, Israel and the US may feel pressure to tolerate violations because the agreement is framed as 'working'; three, the region becomes locked into periodic crises rather than a durable settlement.",
+            "Third, the deal may be politically unworkable in Israel and the US. One, Netanyahu has already said Iran's enriched uranium stockpile must be 'taken out' before war can end; two, Trump's own base and prior rhetoric opposed sunset clauses as inherently unsafe; three, if key domestic actors reject the compromise, the agreement is unstable and may collapse after extracting concessions from the West."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether a temporary freeze meaningfully lowers the probability of war and proliferation, or merely postpones the same crisis. Prop wins if you prioritize immediate risk reduction and verifiable constraints; opp wins if you think nuclear latency plus sunset clauses simply institutionalize a future Iranian breakout and make the eventual conflict more dangerous.",
+      "stock_connections": [
+        "Sunset clauses",
+        "Nonproliferation",
+        "Moral Hazard",
+        "Deterrence",
+        "Security Dilemma",
+        "Arms Control Verification",
+        "Regional Escalation",
+        "Credible Commitment Problems"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would accept a 20-year suspension of Iran's nuclear programme",
+        "THBT temporary nuclear freezes are preferable to demands for permanent disarmament",
+        "THP a world where nuclear proliferation disputes are settled through long-term suspension deals rather than regime-change pressure"
+      ],
+      "data_points": [
+        "Trump said he would accept a 'real 20 years' suspension of Iran's nuclear programme",
+        "US media reported in April that JD Vance told Iranian negotiators a five-year enrichment pause was insufficient and that 20 years was the minimum",
+        "Israeli and US forces began massive air strikes on Iran on 28 February",
+        "A ceasefire has been in place since last month and has been largely observed despite occasional exchanges of fire",
+        "Iran is currently blocking the Strait of Hormuz, prompting a rise in world oil prices",
+        "Trump withdrew the US from the 2015 Iran nuclear deal in his first term over opposition to sunset clauses",
+        "Netanyahu has said Iran's enriched uranium stockpile must be 'taken out' before the war can end"
+      ]
+    },
+    {
+      "id": "fd18274418b9",
+      "title": "Trump-Style Immigration Enforcement Becomes a Tool for Political Retaliation Against Pro-Palestine Speech",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
+      "published": "2026-05-15T21:13:24Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "Mahmoud Khalil, a former Columbia University student and US permanent resident married to a US citizen, was detained by US immigration agents in March 2025 and later received a final order of removal from the Board of Immigration Appeals in April 2026. His lawyers have now asked the appeals court to reopen and terminate the case, citing new evidence that they say shows the Trump administration \"secretly engineered\" the outcome and fast-tracked the case. The administration has framed the deportation as part of an anti-Semitism crackdown, while Khalil says the case is meant to intimidate pro-Palestine speech; he has never been charged with a crime.",
+      "prop_args": [
+        {
+          "thesis": "The Khalil case shows that deportation powers can be weaponized to punish dissent, so courts should halt and scrutinize removals built on political targeting.",
+          "mechanisms": [
+            "First, this creates a chilling effect on speech. This is because (1) the government is using immigration status as the punishment for lawful advocacy, (2) other permanent residents and students infer that protest can trigger detention or removal, and (3) that fear suppresses organizing far beyond Khalil himself, especially on sensitive foreign-policy issues like Palestine.",
+            "Second, it corrodes due process and institutional legitimacy. Three reasons: one, the reported pre-flagging of the case as a \"high priority\" before it reached the appeals board suggests outcome-driven case management; two, instructing the court to treat him as if he were still detained creates an expedited track that disadvantages defense preparation; three, multiple recusals at a body meant to be independent make the process look politically managed rather than adjudicative.",
+            "Third, the broader impact is democratic backsliding through selective enforcement. This matters because if the executive can invoke rarely used national-security provisions against lawful beliefs, statements, or associations, then immigration law becomes a flexible tool for suppressing unpopular minorities rather than a neutral border regime."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The government is entitled to use immigration law aggressively when it believes a noncitizen poses a national-security or compliance risk, and this case does not prove political persecution.",
+          "mechanisms": [
+            "First, the state has broad sovereign discretion over immigration and removal. One, permanent residency is still conditional and can be revoked under statutory grounds; two, national-security provisions exist precisely because governments need preventive tools before harm occurs; three, the fact that Khalil was not charged criminally does not mean the executive cannot act on immigration-specific standards.",
+            "Second, the alleged procedural irregularities do not necessarily prove bad faith. One, high-priority designation and expedited handling can reflect the sensitivity of the case rather than manipulation; two, judge recusals can happen for ordinary conflict or workload reasons; three, the administration can argue that all steps were reviewed within the ordinary DOJ immigration framework, so the burden is on Khalil to show actual prejudice, not just suspicion.",
+            "Third, the anti-Semitism and disclosure concerns give the government a plausible enforcement basis. One, officials can claim they were responding to campus intimidation and safety concerns; two, failure to disclose prior UNRWA work may be framed as an immigration-compliance issue independent of speech; three, if courts block removals whenever the respondent claims political motive, they risk making immigration enforcement toothless."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the case is read as ordinary national-security immigration enforcement or as selective punishment for protected speech. Prop wins if it proves the process itself was engineered to produce a political outcome, because that turns the case into a precedent for executive abuse; Opp wins if it keeps the focus on sovereign immigration discretion and says the evidence shows suspicion, not proof of retaliation.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Rule of Law",
+        "Chilling Effect",
+        "Selective Enforcement",
+        "Civil Liberties vs Security",
+        "Due Process",
+        "Minority Rights",
+        "Executive Overreach"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would prioritize national security-based deportation powers over free speech protections for noncitizens",
+        "THBT courts should be skeptical of immigration removals involving political speech",
+        "THP a world where permanent residents can be deported for lawful political advocacy",
+        "TH, as a liberal democracy, would restrict executive discretion in immigration cases involving protest activity"
+      ],
+      "data_points": [
+        "Khalil was detained in March 2025 and received a final order of removal in April 2026",
+        "He is a US permanent resident married to a US citizen",
+        "Three judges at the Board of Immigration Appeals recused themselves from the case",
+        "The government invoked a rarely used provision of the Immigration and Nationality Act allowing deportation based on \"past, current or expected beliefs, statements, or associations that are otherwise lawful\"",
+        "Khalil was released from detention in June 2025 after a federal judge's order",
+        "The FBI reportedly closed an investigation into a tip alleging he called for \"violence on behalf of Hamas\" because it did not warrant further investigation",
+        "The government later added an allegation that he failed to disclose prior work for UNRWA on his immigration application"
+      ]
+    },
+    {
+      "id": "539c05a07d0d",
+      "title": "Rising Oil Prices Turn Geopolitical Tension Into a Global Inflation Shock",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/bloomberg-businessweek-daily-5-15-2026-video",
+      "published": "2026-05-15T21:09:32Z",
+      "category": "Econ",
+      "region": "Global (oil markets; US-China context)",
+      "background": "Bloomberg Businessweek Daily on 2026-05-15 reported that oil prices were rising enough to push bond yields higher and trigger a stock selloff. The episode also tied the market move to the broader geoeconomic backdrop, including Trump’s summit with China’s Xi Jinping in Beijing. The segment framed the oil move as a consumer price crunch, with higher energy costs feeding through to households and financial markets at the same time.",
+      "prop_args": [
+        {
+          "thesis": "Higher oil prices are a macroeconomic tax that hits consumers faster than it helps producers, so governments should treat energy shocks as a distributional crisis rather than a market fluctuation.",
+          "mechanisms": [
+            "First, oil is a universal input, so price rises transmit immediately into transport, food, and manufacturing costs. This is because (1) households cannot easily substitute away from gasoline and heating in the short run, (2) firms pass through higher logistics and production costs into retail prices, and (3) the shock lands across the entire consumption basket rather than one sector.",
+            "Second, higher oil prices tighten financial conditions by lifting inflation expectations and bond yields. Three reasons: one, investors demand higher nominal returns when they expect more inflation; two, higher yields raise borrowing costs for firms and governments; three, tighter credit then suppresses investment and hiring.",
+            "Third, the political economy effect is asymmetric: consumers experience pain immediately, while producers’ gains are concentrated and slower to recycle. This matters because it creates a visible cost-of-living crisis that can erode trust in incumbents, amplify wage demands, and force central banks into a painful tradeoff between growth and inflation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Oil price spikes are often temporary and can be economically absorbed, while the market reaction itself disciplines excess risk-taking and encourages adjustment.",
+          "mechanisms": [
+            "First, the shock may be short-lived if it is driven by geopolitical headlines rather than a durable supply collapse. One, markets often overreact to summit diplomacy and conflict risk; two, strategic reserves and OPEC spare capacity can soften the move; three, if prices normalize, the consumer hit is transitory rather than structural.",
+            "Second, higher oil prices can improve incentives for substitution and efficiency. One, they make EVs, public transit, and fuel-saving technologies more attractive; two, firms invest in energy efficiency and supply-chain optimization; three, producers in non-OPEC regions expand output, which eventually increases supply and lowers prices.",
+            "Third, the macro impact is not uniformly negative because energy exporters gain revenue and some sectors benefit from the reallocation. One, oil-producing states and firms see higher cash flow; two, commodity-linked equities and capital expenditure rise; three, the economy can rebalance rather than simply contract."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the oil spike is a temporary market wobble or a broad-based inflation shock that hits every household. Prop wins if it proves pass-through is immediate and politically salient; Opp wins if it shows the price move is short-lived and self-correcting, with adjustment mechanisms that blunt the long-run harm.",
+      "stock_connections": [
+        "Inflation Shock",
+        "Cost-Push Inflation",
+        "Terms of Trade Shock",
+        "Dutch Disease",
+        "Central Bank Credibility",
+        "Consumer Welfare",
+        "Energy Security",
+        "Commodity Supercycle",
+        "Market Overreaction"
+      ],
+      "motion_areas": [
+        "TH, as a government, would impose windfall taxes on oil producers during price spikes",
+        "THBT central banks should look through temporary oil price shocks",
+        "THP a world where major economies maintain larger strategic petroleum reserves",
+        "TH, as an oil-importing developing country, would subsidize fuel prices during global oil shocks"
+      ],
+      "data_points": [
+        "Bloomberg reported that oil prices were high enough to push bond yields higher and spark a stock selloff on 2026-05-15.",
+        "The episode linked the market move to Trump’s summit with China’s Xi Jinping in Beijing.",
+        "The article frames the issue as a consumer price crunch, indicating direct household exposure to energy costs."
+      ]
+    },
+    {
+      "id": "6d8b3d0de144",
+      "title": "Israel’s Targeted-Killing Campaign in Gaza Deepens Civilian Harm and Undermines Any Credible Ceasefire",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+      "published": "2026-05-15T21:05:22Z",
+      "category": "IR",
+      "region": "Gaza (Palestinian territories); Israel",
+      "background": "On 15 May 2026, Israeli air strikes hit a residential building and a civilian vehicle in Gaza City, killing at least seven Palestinians and injuring dozens, according to medical sources. Three women and one child were among the dead; Anadolu reported at least 45 injured, several critically. Israel said it was targeting Izz al-Din al-Haddad, described by Netanyahu and Defence Minister Israel Katz as the head of Hamas’s armed wing in Gaza and one of the architects of the October 7 attacks, though Hamas had not commented and the claim was not independently confirmed by Al Jazeera. The strikes came on Nakba Day, the 78th anniversary of the 1948 displacement of an estimated 750,000 Palestinians, and amid continued fighting despite the Trump-backed Gaza peace plan and October ceasefire, under which Gaza’s health ministry says nearly 850 Palestinians have still been killed.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s continued targeted strikes in Gaza are strategically self-defeating because they normalize civilian mass harm while failing to produce durable security gains.",
+          "mechanisms": [
+            "First, the strikes erode the legitimacy of Israel’s counterterrorism narrative. This is because (1) hitting a residential building and a civilian vehicle with no pre-warning creates a strong civilian-casualty frame, (2) the presence of women and a child among the dead makes proportionality claims harder to sustain, and (3) repeated incidents accumulate into a pattern that international audiences read as indiscriminate rather than surgical.",
+            "Second, the campaign undermines any ceasefire architecture by making compliance politically impossible for Hamas and impossible to sell to Palestinians. Three reasons: one, every new strike after a declared ceasefire proves to civilians that restraint brings no protection; two, it strengthens hardliners who argue negotiations are cover for continued killing; three, it reduces the credibility of mediators because the “peace deal” appears unable to constrain Israeli force.",
+            "Third, the operational value of killing one commander is outweighed by the strategic cost of radicalization and recruitment. This matters because (1) civilian deaths on symbolic dates like Nakba Day intensify collective grievance, (2) grief and humiliation are the main recruitment drivers for armed groups in asymmetric conflicts, and (3) even if Haddad were killed, Hamas’s decentralized structure means leadership decapitation is unlikely to end resistance but very likely to produce revenge attacks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel is justified in continuing targeted strikes because removing Hamas leadership is necessary to reduce future attacks and force demilitarization.",
+          "mechanisms": [
+            "First, leadership targeting degrades Hamas’s command-and-control capacity. One, commanders like Haddad are alleged to be responsible for planning mass-casualty attacks, so removing them can disrupt operational coordination; two, leadership losses create uncertainty and delay in decision-making; three, repeated attrition can raise the cost of sustaining organized attacks over time.",
+            "Second, targeted strikes are the only realistic coercive tool available when Hamas refuses to disarm. One, if Hamas retains weapons, any ceasefire is temporary and reversible; two, negotiations without pressure let armed groups pocket concessions while keeping military capacity; three, Israel can argue that precision strikes are preferable to a broader ground campaign or prolonged siege.",
+            "Third, the civilian harm is tragic but does not negate the military necessity claim if the target is high-value. One, urban warfare often places militants inside civilian infrastructure; two, Israel can argue it is acting on intelligence against a commander tied to October 7 and ongoing attacks; three, the responsibility for embedding among civilians is shifted onto Hamas, which uses human shields and thereby increases the likelihood of collateral damage."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether targeted killing actually improves long-term security or simply perpetuates the cycle of retaliation. Prop wins if the round is weighed on civilian protection, legitimacy, and ceasefire durability; opp wins if the judge prioritizes immediate deterrence and the right to remove high-value militant leaders who keep the war going.",
+      "stock_connections": [
+        "Counterterrorism",
+        "Civilian Harm",
+        "Proportionality",
+        "Human Shields",
+        "Cycle of Retaliation",
+        "Peace Process Failure",
+        "Leadership Decapitation",
+        "Asymmetric Warfare",
+        "Collective Punishment"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would continue targeted killings of Hamas leadership in Gaza",
+        "THBT states should prioritize military pressure over ceasefire compliance when negotiating with armed non-state actors",
+        "THP a world where counterterrorism operations require stricter civilian-harm thresholds than military necessity tests"
+      ],
+      "data_points": [
+        "At least 7 Palestinians killed in two Israeli air strikes in Gaza City on 15 May 2026",
+        "Three women and one child were among the dead",
+        "Anadolu reported at least 45 others injured, several in critical condition",
+        "Gaza’s civil defence spokesman said hundreds of people were living inside the targeted residential building",
+        "Since the October ceasefire, Gaza’s health ministry says close to 850 Palestinians have been killed in Israeli attacks",
+        "Nakba Day marks the 78th anniversary of the 1948 displacement of an estimated 750,000 Palestinians"
+      ]
+    },
+    {
+      "id": "3f1717ead9cd",
+      "title": "Fed Interim Leadership Signals a Potentially Disrupted US Monetary Transition",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/fed-says-powell-will-be-chair-pro-tempore-until-warsh-sworn-in",
+      "published": "2026-05-15T21:01:00Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The Federal Reserve said Jerome Powell will remain chair pro tempore until Kevin Warsh is sworn in as the next Fed chair. The article comes after the FOMC left interest rates unchanged on April 29, 2026, while officials disclosed a deepening split over the policy outlook amid heightened uncertainty from the conflict in the Middle East. The transition matters because the Fed is the central institution setting US interest rates and signaling monetary policy to markets, households, and firms.",
+      "prop_args": [
+        {
+          "thesis": "A clear interim leadership arrangement preserves market confidence and prevents a damaging vacuum at the center of US monetary policy.",
+          "mechanisms": [
+            "First, continuity reduces uncertainty in financial markets. This is because (1) investors price assets off expectations of Fed reaction functions, (2) even short leadership gaps can widen bond and equity volatility, and (3) Powell staying as chair pro tempore signals that the institution still has a functioning command structure.",
+            "Second, it protects the Fed’s credibility during a period of already high policy disagreement. Three reasons: one, the FOMC has already shown internal division over rates, two, external shocks like Middle East conflict are making the outlook less predictable, and three, a named interim chair prevents the impression that the central bank is leaderless or politically captured.",
+            "Third, it buys time for an orderly transition to Warsh without forcing rushed policy changes. This matters because the Fed’s legitimacy depends not just on who leads it, but on whether the handover looks procedural, stable, and insulated from panic."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Keeping Powell in place, even temporarily, risks entrenching policy drift and undermining the authority of the incoming chair.",
+          "mechanisms": [
+            "First, an interim arrangement can create dual-legitimacy problems. One, markets may treat Powell as the real decision-maker while Warsh is still waiting to assume office, two, that blurs accountability for rate decisions, and three, it weakens the incoming chair’s ability to reset expectations quickly.",
+            "Second, it may prolong the same policy indecision that already exists inside the Fed. One, the FOMC is divided on the outlook, two, uncertainty from the Middle East is increasing pressure on the committee to respond, and three, a temporary chair can incentivize caution and delay rather than decisive action.",
+            "Third, it opens the door to political perceptions that the transition is being managed for optics rather than substance. One, central bank independence depends on clear institutional succession, two, any ambiguity invites speculation about influence over rates, and three, that can reduce trust in future guidance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether continuity is stabilizing or whether it merely delays a necessary reset. Prop wins if you prioritize market confidence and institutional order during a sensitive transition; opp wins if you think the interim setup weakens the incoming chair’s authority and prolongs policy uncertainty.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Institutional Credibility",
+        "Market Confidence",
+        "Policy Uncertainty",
+        "Transition Costs",
+        "Signaling Theory",
+        "Political Capture"
+      ],
+      "motion_areas": [
+        "TH, as the US Federal Reserve, would appoint Powell chair pro tempore until Warsh is sworn in",
+        "THBT central banks should prioritize continuity over rapid leadership transition during periods of economic uncertainty",
+        "THP a world where outgoing central bank chairs remain in interim control until successors are formally installed"
+      ],
+      "data_points": [
+        "FOMC left interest rates unchanged on 29 April 2026",
+        "Fed officials disclosed a deepening division over the policy outlook",
+        "The policy uncertainty was linked to the conflict in the Middle East",
+        "Powell is serving as chair pro tempore until Kevin Warsh is sworn in"
+      ]
+    },
+    {
+      "id": "e26dc17392a5",
+      "title": "Trump-Xi Beijing Summit Signals a Bargain Over Trade, Taiwan, and Iran",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
+      "published": "2026-05-15T20:43:16Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan / Iran",
+      "background": "US President Donald Trump concluded a two-day summit in Beijing with Chinese leader Xi Jinping on 15 May 2026. The visit was framed as an attempt to reset US-China relations, with the two sides discussing trade, Taiwan, and the war on Iran. The article does not provide a detailed readout of any agreement, but the summit itself signals direct leader-level bargaining on the core flashpoints in the bilateral relationship.",
+      "prop_args": [
+        {
+          "thesis": "Leader-level engagement between the US and China can reduce escalation risk by creating a direct channel for bargaining on trade, Taiwan, and Iran.",
+          "mechanisms": [
+            "First, summit diplomacy lowers miscalculation. This is because (1) direct leader-to-leader contact reduces the chance that ambiguous military or economic signals are interpreted as hostile intent, (2) it allows both sides to clarify red lines on Taiwan and Iran without public posturing, and (3) it creates a personal commitment mechanism that bureaucracies can use to slow down escalation.",
+            "Second, a reset on trade can stabilize the wider relationship. Three reasons: one, trade interdependence gives both sides a material incentive to avoid tariff spirals and export controls; two, even partial deals can restore business confidence and reduce supply-chain uncertainty; three, economic cooperation can spill over into broader crisis management by making confrontation costlier.",
+            "Third, bargaining over Taiwan and Iran can produce managed competition rather than open conflict. This matters because (1) if the US and China can tacitly coordinate on restraint, Taiwan becomes less likely to become a trigger for immediate military escalation, (2) China may be more willing to pressure Iran if it gets concessions elsewhere, and (3) even limited understandings can buy time for de-escalation in multiple theaters simultaneously."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is more likely to entrench great-power bargaining and strategic ambiguity, which increases pressure on smaller states and makes flashpoints like Taiwan and Iran more dangerous.",
+          "mechanisms": [
+            "First, bilateral summitry can normalize sphere-of-influence politics. One, if the US and China negotiate over Taiwan as a bargaining chip, it signals that smaller states' security can be traded for great-power stability; two, this weakens deterrence because allies and partners cannot be sure the US will defend them consistently; three, it encourages China to keep probing for concessions through coercion rather than compromise.",
+            "Second, trade talks may be used as leverage rather than genuine liberalization. One, both sides can weaponize market access, tariffs, and export controls to extract political concessions; two, this creates a cycle where economic interdependence becomes a tool of coercion instead of peace; three, firms and third countries face higher uncertainty because any deal can be reversed in the next crisis.",
+            "Third, discussing Iran in a US-China summit risks transactional side deals that worsen regional instability. One, China may reduce pressure on Iran only if it gets benefits on trade or Taiwan, which incentivizes opportunistic behavior; two, Iran can interpret great-power bargaining as cover to escalate or delay compromise; three, Middle Eastern security becomes dependent on US-China relations rather than on durable regional deterrence or diplomacy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit diplomacy creates credible restraint or merely formalizes great-power bargaining. Prop wins if you think direct communication meaningfully reduces miscalculation; opp wins if you think the real effect is to legitimize coercive trade-offs over Taiwan and Iran, with smaller states bearing the downside.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Deterrence",
+        "Sphere of Influence",
+        "Transactional Diplomacy",
+        "Interdependence as Peace",
+        "Coercive Diplomacy",
+        "Alliance Credibility",
+        "Miscalculation Risk"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue leader-level summit diplomacy with China",
+        "THBT the US should prioritize direct bargaining with China over containment",
+        "THP a world where great powers negotiate over regional flashpoints through summit diplomacy"
+      ],
+      "data_points": [
+        "Two-day summit in Beijing concluded on 15 May 2026",
+        "Trump aimed to 'reset relations' with Beijing",
+        "Discussions reportedly covered trade, Taiwan, and the war on Iran",
+        "The summit involved direct talks between US President Donald Trump and Chinese leader Xi Jinping"
+      ]
+    },
+    {
+      "id": "50083b170284",
+      "title": "US Cartel Prosecutions Turn Mexican Security Apparatus Into a Bilateral Flashpoint",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/ex-sinaloa-security-chief-in-mexico-arrested-in-us-over-alleged-cartel-ties?traffic_source=rss",
+      "published": "2026-05-15T20:31:24Z",
+      "category": "IR",
+      "region": "Mexico / United States",
+      "background": "On May 11, 2026, US authorities arrested Gerardo Merida Sanchez, Mexico’s former public security secretary in Sinaloa state, in Arizona and later transferred him to New York. He was charged in a Manhattan federal indictment unsealed on April 29 alongside former Sinaloa governor Ruben Rocha, alleging they conspired with the Sinaloa Cartel to import narcotics into the US in exchange for political support and bribes. Prosecutors allege Merida Sanchez accepted more than $100,000 per month from Los Chapitos, used police to shield cartel operations, and leaked raid intelligence, including advance warning before at least 10 raids in 2023.",
+      "prop_args": [
+        {
+          "thesis": "US prosecution of cartel-linked Mexican officials is necessary to break the state-cartel nexus that makes anti-narcotics enforcement fail from the inside.",
+          "mechanisms": [
+            "First, it attacks the cartel's institutional protection network. This is because (1) cartels do not just rely on violence, they rely on compromised police and governors to survive, (2) removing senior officials raises the cost of collusion for future elites, and (3) it disrupts the information pipeline that lets cartels evade raids and investigations.",
+            "Second, it restores deterrence inside Mexican security institutions. Three reasons: one, public indictments show that office does not equal immunity, two, the threat of extradition and US custody weakens the incentive to take cartel money, and three, it forces lower-level officers to choose between career survival and criminal loyalty.",
+            "Third, it improves bilateral enforcement capacity. This matters because the US can use financial intelligence, extradition leverage, and cross-border prosecutions to reach actors that local institutions may be unable or unwilling to touch, making the crackdown more credible than purely domestic reform."
+          ]
+        },
+        {
+          "thesis": "Treating cartel-linked officials as transnational criminal targets strengthens rule of law and signals that political office cannot be used as a shield for organized crime.",
+          "mechanisms": [
+            "First, it closes the impunity gap. One, local investigations can be blocked by captured prosecutors or governors, two, US federal courts provide an external venue when domestic accountability is compromised, and three, the public nature of indictments creates reputational and political costs even before conviction.",
+            "Second, it deters future collusion by making the payoff structure worse. One, bribes become riskier when officials know foreign prosecutors can trace payments and communications, two, cartel protection becomes harder to sustain when senior figures are arrested abroad, and three, the threat of asset freezes and travel restrictions hits the personal incentives of elites.",
+            "Third, it can weaken cartel territorial control over time. One, if security chiefs cannot reliably warn or protect traffickers, raids become more effective, two, rival groups and informants gain confidence to cooperate with authorities, and three, cartels lose the state resources that help them monopolize violence."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "US extraterritorial cartel prosecutions can backfire by politicizing anti-drug policy, undermining Mexican sovereignty, and making cooperation with Washington less sustainable.",
+          "mechanisms": [
+            "First, they trigger nationalist backlash inside Mexico. One, when US prosecutors indict governors and security chiefs, Mexican leaders can frame it as foreign interference, two, that framing protects accused officials politically even if evidence exists, and three, it makes the public less willing to trust US claims or cooperate with joint operations.",
+            "Second, they can degrade intelligence-sharing. One, Mexican officials become more cautious about sharing sensitive information if they fear it will be used in US indictments, two, agencies may compartmentalize or slow cooperation to protect domestic political allies, and three, the result is fewer joint operations and weaker operational access to cartels.",
+            "Third, they may incentivize securitized escalation over institution-building. One, designating cartels as 'terrorist organisations' and using terrorism statutes pushes the issue toward militarized enforcement, two, militarization often produces more violence and civilian harm without dismantling corruption, and three, it diverts attention from police reform, prosecution capacity, and anti-money-laundering work."
+          ]
+        },
+        {
+          "thesis": "Targeting individual officials is insufficient because cartel capture is systemic, so the arrests may produce headlines without changing the underlying political economy of organized crime.",
+          "mechanisms": [
+            "First, the supply of corruptible officials remains. One, cartel profits are large enough to buy new collaborators, two, removing one security chief does not eliminate the incentives facing local police and politicians, and three, the network simply adapts by recruiting replacements.",
+            "Second, enforcement can be selectively symbolic. One, high-profile indictments are easier than dismantling financing and logistics chains, two, prosecutors may focus on politically useful cases rather than the most damaging nodes, and three, the cartel's core trafficking capacity can survive even if a few elites are exposed.",
+            "Third, the crackdown can fragment violence rather than reduce it. One, when a cartel loses state protection, rival groups compete for territory, two, splintering increases homicide and instability in the short term, and three, communities may experience worse insecurity even if the state claims progress."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether external prosecution actually changes cartel-state incentives or just provokes sovereignty backlash. Prop wins if you prioritize breaking entrenched impunity and the information shield around cartels; opp wins if you think the decisive constraint is political cooperation, which US indictments may undermine.",
+      "stock_connections": [
+        "State capture",
+        "Rule of law",
+        "Extraterritorial jurisdiction",
+        "Sovereignty vs intervention",
+        "Militarization of drug policy",
+        "Corruption",
+        "Organized crime",
+        "Principal-agent problems",
+        "Institutional decay",
+        "Security dilemma"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prosecute foreign officials accused of cartel collaboration in US courts",
+        "THBT the US should designate Mexican cartels as terrorist organisations",
+        "THP a world where foreign governments can indict and extradite officials for transnational organized crime",
+        "TH, as Mexico, would cooperate with US prosecutions of cartel-linked politicians and security officials"
+      ],
+      "data_points": [
+        "Gerardo Merida Sanchez was arrested in Arizona on May 11, 2026 and transferred to New York",
+        "Merida Sanchez served as Sinaloa’s public security secretary from September 2023 to December 2024",
+        "The indictment was unsealed in Manhattan federal court on April 29, 2026",
+        "Prosecutors allege Merida Sanchez accepted more than $100,000 in monthly cash bribes from Los Chapitos",
+        "Authorities allege he warned the cartel ahead of at least 10 raids in 2023",
+        "Former Sinaloa governor Ruben Rocha temporarily stepped down on May 2, 2026 and requested a 30-day leave of absence",
+        "The Trump administration reportedly instructed prosecutors to consider using terrorism-related statutes against Mexican officials linked to narcotics trade",
+        "The US has also increased military operations targeting suspected traffickers in the Caribbean Sea and Pacific Ocean"
+      ]
+    },
+    {
+      "id": "5d87960cf5f8",
+      "title": "U.S. Energy Blockade Turns Cuba Into a Coercive Bargaining Chip in a Regime-Change Push",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/15/cuba-ratcliffe-cia-regime-change-us-blockade-oil-fuel-blackouts-china-russia/",
+      "published": "2026-05-15T20:02:14Z",
+      "category": "IR",
+      "region": "Cuba / United States / Caribbean / Latin America",
+      "background": "On May 15, 2026, CIA Director John Ratcliffe traveled to Havana to deliver a message from President Donald Trump that the United States would only seriously engage on economic and security issues if Cuba made “fundamental changes.” The Trump administration has publicly framed Cuba as part of its broader “Donroe Doctrine,” while Secretary of State Marco Rubio said Washington could not change Cuba’s trajectory while the current regime remains in power. The trip came hours after Havana said it had run out of fuel, with Energy Minister Vicente de la O Levy reporting no fuel oil or diesel and blackouts in Havana exceeding 20-22 hours; Cuba says the crisis worsened after the U.S. seized Venezuelan oil assets and imposed a blockade barring foreign oil from reaching the island.",
+      "prop_args": [
+        {
+          "thesis": "The U.S. can use energy leverage to force political concessions from a vulnerable authoritarian regime, making coercive diplomacy more effective than indefinite containment.",
+          "mechanisms": [
+            "First, the blockade creates immediate material pain that the Cuban state cannot easily absorb. This is because (1) Cuba has no fuel oil or diesel, (2) blackouts in Havana exceed 20-22 hours, and (3) the regime’s legitimacy depends on basic service delivery, so energy scarcity directly raises the domestic cost of defiance.",
+            "Second, tying aid to reforms gives Washington a credible bargaining chip rather than a blank check. Three reasons: one, the U.S. can condition $100 million in humanitarian aid on “meaningful reforms”; two, Cuba needs external relief to prevent collapse; three, selective relief lets the U.S. reward compliance while preserving pressure if Havana stalls.",
+            "Third, coercive pressure can weaken the regime’s external lifelines and reduce hostile great-power footholds. This matters because Cuba is accused by Washington of hosting Russian and Chinese intelligence activity, so forcing concessions could limit adversarial access 90 miles from Florida and improve U.S. regional security."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The blockade and regime-change pressure will backfire by entrenching the Cuban government, worsening humanitarian suffering, and pushing Havana closer to rival powers.",
+          "mechanisms": [
+            "First, external coercion lets the regime frame every hardship as U.S. aggression. One, Díaz-Canel can blame blackouts and shortages on a “genocidal energy blockade”; two, that narrative reduces domestic blame on the government; three, repression becomes easier when the state can present dissent as collaboration with a foreign enemy.",
+            "Second, sanctions-style pressure often strengthens authoritarian resilience rather than producing reform. One, the leadership can ration scarce resources to loyalists and security forces; two, the opposition suffers most from shortages and is less able to organize; three, the regime can survive longer than the population, meaning the policy extracts pain without achieving change.",
+            "Third, coercion increases dependency on China and Russia instead of reducing it. One, if the U.S. cuts off fuel and aid, Cuba has stronger incentives to seek alternative financing and intelligence support; two, that expands rival influence in the Caribbean; three, the U.S. ends up with a more isolated but not more democratic Cuba."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether pain translates into leverage or just suffering. The proposition wins if it proves the Cuban state is so dependent on external energy that the U.S. can trade relief for reforms; the opposition wins if it shows authoritarian regimes can absorb coercion, redirect blame, and survive while civilians bear the costs.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Sanctions Backfire",
+        "Humanitarian Harm",
+        "Authoritarian Resilience",
+        "Regime Change",
+        "Great Power Competition",
+        "Dependency Theory",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use economic blockade to force democratic reforms in Cuba",
+        "THBT states should prioritize coercive diplomacy over unconditional humanitarian aid when dealing with hostile authoritarian regimes",
+        "THP a world where major powers can condition energy access on political liberalization",
+        "TH, as a regional power, would trade relief for regime concessions in neighboring authoritarian states"
+      ],
+      "data_points": [
+        "Cuba reported it had \"absolutely no fuel oil\" and \"absolutely no diesel\"",
+        "Blackouts in Havana exceeded 20-22 hours",
+        "The U.S. offered Cuba $100 million in humanitarian aid conditional on \"meaningful reforms\"",
+        "The U.S. says Cuba is a state sponsor of terrorism",
+        "Washington claims Cuba is 90 miles from the U.S. coast",
+        "The article says the U.S. seized Venezuelan President Nicolás Maduro and took control of Caracas’s oil industry, stopping Venezuelan crude flows to Cuba",
+        "Trump imposed a blockade barring all foreign oil from reaching Havana"
+      ]
+    },
+    {
+      "id": "28c82ad5bc73",
+      "title": "Trump’s Beijing Reset Exposes the Limits of MAGA China Hawkishness",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T19:52:54Z",
+      "category": "Econ",
+      "region": "United States / China",
+      "background": "Donald Trump visited Beijing this week after years of campaigning on hardline anti-China rhetoric and after imposing tariffs that rose from 10% in February 2025 to 145% by mid-April. China retaliated with 125% tariffs and restrictions on rare earth exports, escalating the trade war. In Beijing, Trump praised Xi Jinping as a friend and touted unspecified trade deals, while key unresolved issues remained, especially Taiwan and a delayed $14bn US arms sale to the island. The Chinese read-out warned that failure to address Taiwan could lead to 'clashes and even conflicts,' while the White House statement omitted Taiwan entirely.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s softer Beijing posture is a pragmatic correction that can reduce economic damage without meaningfully conceding core US interests.",
+          "mechanisms": [
+            "First, de-escalation lowers the immediate costs of a tariff war. This is because (1) 145% US tariffs and 125% Chinese retaliation are already choking trade flows, (2) China’s rare earth export restrictions create supply-chain risk for US industry, and (3) even modest deals like Nvidia access, Boeing orders, and Citi approvals show that selective bargaining can recover value that blanket confrontation destroys.",
+            "Second, a top-down reset gives the US more leverage than performative hawkishness. Three reasons: one, Trump’s personal diplomacy can override bureaucratic inertia and force faster dealmaking; two, Beijing is more likely to respond to direct leader-level incentives than to diffuse congressional pressure; three, the administration can trade tone for concrete concessions on market access, IP, and sectoral openings without abandoning strategic competition.",
+            "Third, softening rhetoric can preserve room for long-term competition on the issues that actually matter. This matters because the US does not need constant escalation to contain China; it needs targeted pressure on technology, security, and supply chains, while avoiding a full economic rupture that hurts American consumers, firms, and allies more than it hurts Beijing."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s Beijing reset signals weakness, emboldens China, and undermines the credibility of US deterrence on Taiwan and trade.",
+          "mechanisms": [
+            "First, inconsistency destroys bargaining credibility. One, Trump spent years framing China as an existential economic enemy, so a sudden friendly pivot makes future threats less believable; two, Beijing learns that escalation can be rewarded with concessions and softer rhetoric; three, if the US backs away from the $14bn Taiwan arms sale, allies and adversaries will infer that Washington is willing to trade security commitments for short-term trade optics.",
+            "Second, the softening weakens the domestic coalition for sustained China containment. One, MAGA hawks like Steve Bannon and congressional China critics are already uneasy, which fractures the coalition needed for durable policy; two, if Trump’s base follows his tone, anti-China policy becomes personality-driven rather than institutionally anchored; three, that makes US policy volatile across administrations, encouraging China to wait out pressure rather than reform.",
+            "Third, the dealmaking approach risks strategic overreach and under-delivery. One, the article shows the concrete gains are modest and vague compared with the scale of the trade war; two, the core structural problems—market access, IP theft, subsidies—remain unresolved after eight years of tariffs; three, if the US normalizes symbolic summits without enforcement, China gets legitimacy and time while the US gets headlines instead of concessions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term economic stabilization and long-term strategic credibility. The prop side wins if the judge prioritizes avoiding self-harm from tariff escalation; the opp side wins if they frame Taiwan and deterrence as irreversible credibility goods that are far harder to rebuild once Trump signals softness.",
+      "stock_connections": [
+        "Credibility",
+        "Deterrence",
+        "Trade War",
+        "Economic Interdependence",
+        "Tit-for-Tat Escalation",
+        "Bargaining Theory",
+        "Alliance Reliability",
+        "Domestic Audience Costs",
+        "Security Dilemma"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue a softer diplomatic approach to China",
+        "THBT the United States should prioritize trade normalization over tariff escalation with China",
+        "THP a world where US-China relations are managed through leader-level bargaining rather than institutional confrontation"
+      ],
+      "data_points": [
+        "US tariffs on China rose from 10% in February 2025 to 145% by mid-April 2025",
+        "China retaliated with 125% tariffs on US goods",
+        "China blocked rare earth exports during the trade war",
+        "Trump reportedly secured a go-ahead for Nvidia to sell semiconductors to 10 Chinese companies",
+        "Boeing reportedly received an order for 200 aircraft",
+        "Citi was granted approval to operate a securities business in China",
+        "A delayed $14bn US arms sale to Taiwan remains unresolved",
+        "The Chinese read-out warned that Taiwan tensions could lead to 'clashes and even conflicts'",
+        "The White House read-out made no mention of Taiwan",
+        "The article notes that the US and China still face unresolved issues on market access, intellectual property rights, and subsidies after eight years of tariffs"
+      ]
+    },
+    {
+      "id": "e698e488bd92",
+      "title": "Trump-China Trip Raises the Stakes Between Strategic De-Risking and Great-Power Bargaining",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/balance-of-power-early-edition-5-15-2026-video",
+      "published": "2026-05-15T19:42:51Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "Bloomberg's 'Balance of Power: Early Edition' on 15 May 2026 discussed the conclusion of President Trump's trip to China. The segment featured Bloomberg Washington correspondents Joe Mathieu and Kailey Leinz, alongside Republican Congressman Vince Fong, Stonecourt Capital Partner Rick Davis, Third Way Executive Vice President Jim Kessler, and former Fed Vice Chair Lael Brainard. The article itself is a short program listing and does not provide substantive policy details, agreements, or outcomes from the trip.",
+      "prop_args": [
+        {
+          "thesis": "A high-level Trump-China summit can reduce immediate escalation risk and create room for transactional deals that stabilize the bilateral relationship.",
+          "mechanisms": [
+            "First, direct leader-to-leader diplomacy lowers the chance of miscalculation. This is because (1) it creates a clear channel for signaling red lines, (2) it reduces reliance on ambiguous bureaucratic messaging, and (3) it can quickly de-escalate crises before they spill into tariffs, sanctions, or military posturing.",
+            "Second, even limited transactional agreements can improve predictability for markets and firms. Three reasons: one, businesses can plan around clearer rules on tariffs, export controls, and investment screening; two, supply chains benefit from reduced policy shock; three, investors price in lower geopolitical risk, which supports trade and capital flows.",
+            "Third, summitry can buy time for longer-term strategic management. This matters because it allows both sides to compartmentalize disputes, preserve cooperation on issues like finance or fentanyl enforcement, and avoid a spiral where every disagreement becomes a zero-sum confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A Trump-China trip is more likely to legitimize coercive bargaining and deepen strategic dependence without resolving the underlying rivalry.",
+          "mechanisms": [
+            "First, summit diplomacy can reward China and the US for hardball tactics rather than cooperation. One, if concessions are extracted through threats, both sides learn that escalation pays; two, temporary deals are fragile because they are not backed by durable institutions; three, this encourages repeated crisis bargaining instead of stable rules.",
+            "Second, any apparent normalization can mask deeper decoupling and security competition. One, firms may still face export controls, investment restrictions, and sanctions uncertainty; two, allies may interpret bilateral dealmaking as abandonment and hedge away from US leadership; three, China can use the optics of engagement to buy time while continuing military and industrial buildup.",
+            "Third, the trip can intensify domestic political polarization in the US. One, critics may frame it as appeasement while hawks demand tougher measures; two, policy swings become more likely across administrations; three, that volatility itself is damaging because it makes long-term strategy toward China less credible."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether summit diplomacy actually changes state behavior or merely manages optics. Prop wins if the round centers on immediate crisis reduction and market stability; opp wins if the clash is about structural rivalry, because one trip cannot reverse the incentives driving US-China competition.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Trade Interdependence",
+        "Decoupling",
+        "Summit Diplomacy",
+        "Transactional Foreign Policy",
+        "Alliance Credibility",
+        "Miscalculation Risk"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue summit diplomacy with China",
+        "THBT the US should prioritize transactional engagement over containment in its China policy",
+        "THP a world where major powers rely more on leader-level summits to manage rivalry"
+      ],
+      "data_points": [
+        "Bloomberg segment aired on 15 May 2026 and centered on the conclusion of President Trump's China trip",
+        "Guests included former Fed Vice Chair Lael Brainard, Republican Congressman Vince Fong, and policy figures from Stonecourt Capital and Third Way",
+        "The source provided is a short video program listing, not a substantive policy report"
+      ]
+    },
+    {
+      "id": "0ef65d31d958",
+      "title": "Israel’s Targeted Killing Policy Risks Collapsing Gaza’s Fragile Ceasefire and Disarmament Track",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T19:38:38Z",
+      "category": "IR",
+      "region": "Gaza (Palestinian territories); Israel",
+      "background": "Israel said it killed Hamas commander Izz ad-Din al-Haddad in an air strike on Gaza City, describing him as one of the architects of the 7 October 2023 attack. The strike hit a residential building known as Al-Mu'taz, and eyewitnesses said a second strike hit a car fleeing the scene; Hamas has not confirmed or denied Haddad’s death. The attack came despite a ceasefire that took effect on 10 October 2025, and the BBC reports that Israel has carried out regular strikes in Gaza since then. US-led peace efforts have stalled, with talks on Hamas disarmament deadlocked and Hamas reactivating its police force while reasserting authority in Gaza.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s continued targeted strikes are necessary enforcement that prevents Hamas from exploiting the ceasefire to rearm, reconstitute command, and evade disarmament.",
+          "mechanisms": [
+            "First, decapitation strikes degrade Hamas’s operational capacity. This is because (1) commanders like Haddad sit at the intersection of planning, discipline, and battlefield coordination, (2) removing them creates short-term confusion in command-and-control, and (3) that confusion raises the cost of reconstituting military capability during a ceasefire window.",
+            "Second, the strikes create credible deterrence against ceasefire cheating. Three reasons: one, Hamas can no longer assume that signing a ceasefire guarantees immunity for senior operatives; two, Israel signals that participation in the October 7 attack remains a standing target set; three, this increases the expected cost of refusing disarmament or reactivating armed structures.",
+            "Third, this improves bargaining leverage in the disarmament track. This matters because if Hamas believes it can preserve armed leadership while waiting out diplomacy, it has no incentive to concede; sustained pressure forces it to choose between political survival and military preservation, which is the only way to make demilitarisation credible."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel’s strikes undermine the ceasefire and make disarmament and reconstruction less likely by convincing Hamas and civilians that compliance does not buy safety.",
+          "mechanisms": [
+            "First, the strikes destroy trust in the ceasefire architecture. One, if Israel keeps attacking after the truce begins, Hamas can frame disarmament as unilateral surrender; two, that weakens moderates who argue for compliance; three, it makes future enforcement mechanisms look like cover for continued military action.",
+            "Second, the strikes strengthen Hamas politically and operationally. One, civilian casualties and strikes on residential buildings create recruitment and legitimacy gains for Hamas; two, the group can present itself as the only actor resisting Israeli coercion; three, that makes rearmament and police reassertion more likely, not less.",
+            "Third, the strikes risk collapsing the broader peace process. One, the US-led second phase depends on transitional governance and demilitarisation; two, repeated violations make third-party mediation harder because guarantors lose credibility; three, once the process is seen as dead, both sides revert to maximalist military logic."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion produces compliance or backlash. Pro wins if you believe Hamas only disarms under sustained military pressure; opp wins if you think ceasefire legitimacy and civilian trust are the scarce resources that make any political settlement possible, and those are being destroyed faster than Hamas’s military capacity.",
+      "stock_connections": [
+        "Deterrence",
+        "Counterinsurgency",
+        "Peace Process Credibility",
+        "Security Dilemma",
+        "Collective Punishment",
+        "Moral Hazard",
+        "Spoilers in Peace Agreements",
+        "Decapitation Strategy"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would continue targeted killings of Hamas commanders during a ceasefire",
+        "THBT ceasefire agreements with non-state armed groups should permit continued strikes on senior militants",
+        "THP a world where peace agreements prioritize coercive disarmament over immediate territorial reconstruction"
+      ],
+      "data_points": [
+        "Ceasefire in Gaza began on 10 October 2025",
+        "Israel says Haddad was 'one of the architects of the October 7 massacre'",
+        "About 1,200 people were killed and 251 taken hostage in the 7 October 2023 Hamas attack",
+        "More than 72,744 people have been killed in Gaza since the war began, according to the Hamas-run health ministry",
+        "Hamas says 857 people have been killed since the ceasefire began",
+        "US announced the start of the second phase of the Gaza plan in January 2026",
+        "Talks on disarmament remain deadlocked, while Hamas has reactivated its police force"
+      ]
+    },
     {
       "id": "cce4ff9f26fa",
       "title": "US Taiwan Concessions Signal a Shift From Deterrence to Bargaining With Beijing",
