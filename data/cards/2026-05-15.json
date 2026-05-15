@@ -1,7 +1,990 @@
 {
   "date": "2026-05-15",
-  "last_updated": "2026-05-15T17:01:07Z",
+  "last_updated": "2026-05-15T19:55:18Z",
   "cards": [
+    {
+      "id": "cce4ff9f26fa",
+      "title": "US Taiwan Concessions Signal a Shift From Deterrence to Bargaining With Beijing",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/15/is-the-us-dialling-down-its-support-for-taiwan?traffic_source=rss",
+      "published": "2026-05-15T19:31:21Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan",
+      "background": "The article discusses whether the US is reducing its support for Taiwan amid a broader thaw in US-China relations under Donald Trump. It says the White House suspended a $14 billion arms sale to Taiwan ahead of Trump’s visit to Beijing, after Trump had already made concessions following his earlier meeting with Xi Jinping. China continues to claim Taiwan as its sovereign territory, and Xi described Taiwan as “the single most important issue” in relations with the US.",
+      "prop_args": [
+        {
+          "thesis": "Dialling down support for Taiwan is a dangerous concession that weakens deterrence, emboldens Beijing, and increases the risk of coercion or conflict.",
+          "mechanisms": [
+            "First, it undermines deterrence credibility. This is because (1) Taiwan’s security depends on the US signaling that military support will be sustained, (2) suspending a $14 billion arms sale creates doubt about future commitments, and (3) Beijing can interpret ambiguity as permission to intensify military pressure, gray-zone operations, or blockade planning.",
+            "Second, it shifts the bargaining balance toward China. Three reasons: one, Taiwan becomes a bargaining chip in US-China trade or diplomatic negotiations; two, once Washington shows willingness to trade away security commitments, Beijing has incentives to demand more concessions on tariffs, technology, and regional influence; three, allies and partners in Asia read this as US retrenchment, which weakens the broader anti-coercion coalition.",
+            "Third, it raises the probability of miscalculation and crisis escalation. This matters because if China believes the US is less willing to defend Taiwan, it may act more aggressively around the island, while Taiwan may respond by accelerating asymmetric defense or political signaling, creating a more unstable security environment with less room for crisis management."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Reducing support for Taiwan can be a pragmatic de-escalation strategy that lowers immediate conflict risk and preserves US flexibility in managing China.",
+          "mechanisms": [
+            "First, it can reduce provocation and buy time for diplomacy. One, arms sales and high-profile support are seen by Beijing as violations of the One China framework; two, dialing them back can lower the temperature during sensitive US-China negotiations; three, that may prevent a spiral in which symbolic support triggers military escalation.",
+            "Second, it helps the US prioritize broader strategic interests. One, Washington has to manage trade, technology, and global security issues with China, not only Taiwan; two, a limited concession on arms sales may secure gains elsewhere, such as tariff relief or crisis communication channels; three, if Taiwan is not immediately under attack, preserving room for maneuver may be more valuable than maximal signaling.",
+            "Third, Taiwan is not abandoned, only recalibrated. One, the US can continue informal support, intelligence sharing, and deterrence through presence without every arms package; two, Taiwan’s own defense spending and asymmetric capabilities matter more than one sale; three, a more measured approach may encourage Taipei to take its own defense seriously instead of relying on automatic US backing."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the concession is read as credible deterrence failure or as controlled de-escalation. Prop wins if the round is about long-term security architecture and alliance credibility; opp wins if the judge prioritizes immediate crisis avoidance and strategic flexibility in US-China relations.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Credibility and Commitment Problems",
+        "Security Dilemma",
+        "Appeasement",
+        "Great Power Competition",
+        "Alliance Reliability",
+        "Crisis Escalation",
+        "Bargaining Theory"
+      ],
+      "motion_areas": [
+        "TH, as the US, would maintain unconditional military support for Taiwan",
+        "THBT the US should not trade Taiwan security commitments for concessions from China",
+        "THP a world where the US reduces arms sales to Taiwan in exchange for improved relations with Beijing"
+      ],
+      "data_points": [
+        "$14 billion suspended US arms sale to Taiwan",
+        "Trump announced his \"Liberation Day\" tariffs a year earlier, triggering one of the lowest points in US-China relations",
+        "Xi Jinping called Taiwan \"the single most important issue\" in relations with the US",
+        "The article frames the suspension as occurring in the run-up to Trump’s visit to Beijing"
+      ]
+    },
+    {
+      "id": "e1ce155f8873",
+      "title": "US-Brokered Ceasefire Extension Freezes, But Does Not Resolve, the Israel-Hezbollah Border War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T19:30:39Z",
+      "category": "IR",
+      "region": "Israel / Lebanon / United States",
+      "background": "Israel and Lebanon have agreed to a 45-day extension of a shaky ceasefire after two days of talks in Washington DC, according to the US state department. The truce was originally announced by US President Donald Trump on 16 April, but Israel and Hezbollah have continued exchanging fire almost daily since then. Lebanon's health ministry says Israeli strikes killed 22 people, including eight children, on Wednesday alone, while Lebanon says more than 1 million people have been displaced and 2,896 people have been killed since the conflict escalated on 2 March. Israel says 18 soldiers and four civilians have been killed over the same period, and it says its operations aim to create a buffer zone in southern Lebanon to prevent future Hezbollah attacks.",
+      "prop_args": [
+        {
+          "thesis": "Extending the ceasefire is the least-bad option because it buys time for diplomacy, reduces immediate civilian harm, and creates a framework for separating military escalation from political negotiation.",
+          "mechanisms": [
+            "First, the extension lowers the probability of immediate escalation. This is because (1) both sides have already shown they will keep firing absent a formal pause, (2) a time-bound extension creates a clear off-ramp from constant retaliation, and (3) even a fragile pause can interrupt the action-reaction cycle that turns border clashes into full-scale war.",
+            "Second, it creates space for structured bargaining instead of battlefield bargaining. Three reasons: one, the state department has already set a political track for June and a security track at the Pentagon on May 29, so there is now an institutional process; two, military delegations can negotiate border arrangements, verification, and deconfliction mechanisms that are impossible under active bombardment; three, diplomacy is more likely to produce enforceable commitments when both sides face costs from continued fighting.",
+            "Third, it reduces civilian casualties and displacement in the short term. This matters because (1) more than one million people have already been displaced in Lebanon, (2) southern Lebanon has been under constant bombardment with reports of children among the dead, and (3) even temporary pauses can allow humanitarian access, medical evacuation, and reconstruction planning, which are valuable regardless of whether a final settlement is reached."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A repeated ceasefire extension entrenches instability because it rewards escalation, gives both sides time to rearm, and substitutes performative diplomacy for a durable settlement.",
+          "mechanisms": [
+            "First, the extension can incentivize continued low-level violence rather than compliance. One, Israel and Hezbollah have kept trading fire even after the original truce, showing that neither side sees the ceasefire as binding; two, if violations carry no decisive cost, each side learns that limited attacks can be used to signal resolve without triggering a full response; three, this normalizes a permanent gray-zone conflict instead of ending it.",
+            "Second, it gives military actors time to consolidate gains and prepare for the next round. One, Israel says it is creating a buffer zone in southern Lebanon, so a pause may simply lock in territorial facts on the ground; two, Hezbollah can use the lull to reposition fighters, repair infrastructure, and replenish rockets and drones; three, when both sides rearm under cover of diplomacy, the next war is likely to be deadlier and harder to deter.",
+            "Third, the ceasefire can weaken Lebanon's sovereignty and internal political balance. One, the talks are being mediated and sequenced by the US, which means Lebanon's security agenda is being shaped externally; two, Hezbollah's dominance in the south means any deal that ignores domestic power-sharing will lack legitimacy and enforcement; three, if the state cannot protect civilians while foreign powers manage the border, public trust in Lebanese institutions erodes further."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the extension is treated as a bridge to a real settlement or as a way to freeze an unresolved war. Prop wins if the judge prioritizes immediate harm reduction and the value of creating negotiating space; opp wins if they show the pause merely institutionalizes a cycle of rearmament and future escalation. The structural advantage is slightly with prop on short-term humanitarian impact, but opp has strong comparative on long-run durability if the extension lacks enforcement.",
+      "stock_connections": [
+        "Conflict de-escalation",
+        "Security dilemma",
+        "Deterrence failure",
+        "Frozen conflict",
+        "Humanitarian intervention",
+        "Proxy war",
+        "State sovereignty",
+        "Peace process legitimacy",
+        "Civilian protection"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize ceasefire extensions over immediate military victory in Lebanon",
+        "THBT negotiated ceasefires in asymmetric conflicts do more harm than good",
+        "THP a world where border conflicts are managed through repeated temporary ceasefires and phased negotiations"
+      ],
+      "data_points": [
+        "45-day ceasefire extension agreed after two days of talks in Washington DC",
+        "Original truce announced by US President Donald Trump on 16 April",
+        "Lebanon's health ministry said Israeli strikes killed 22 people in one day, including eight children",
+        "More than 1 million people displaced in Lebanon, or about one in five of the population",
+        "2,896 people killed in Lebanon since 2 March, according to the health ministry",
+        "Israel says 18 soldiers and four civilians killed over the same period",
+        "Political track to be reconvened in June; security track to launch at the Pentagon on 29 May"
+      ]
+    },
+    {
+      "id": "7dff39243099",
+      "title": "Trump-Era ICE Detention Expansion Triggers Federalism Clash Over Local Infrastructure and Environmental Law",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/george-town-ice-detention-center-lawsuit",
+      "published": "2026-05-15T19:22:53Z",
+      "category": "IR",
+      "region": "US (Georgia)",
+      "background": "Officials in Social Circle, Georgia have sued ICE and DHS in US district court for the Middle District of Georgia over plans to convert a warehouse at 1365 East Hightower Trail into a large immigration detention facility. The town says the project could hold up to 10,000 detainees and employ about 2,500 workers, while Social Circle itself has only about 5,000 residents across roughly 11 square miles. The complaint argues the federal agencies bought the property in February and moved ahead without completing required environmental reviews under the National Environmental Policy Act and Administrative Procedure Act, and that the facility would overwhelm local water, sewer, and public services.",
+      "prop_args": [
+        {
+          "thesis": "Federal detention mega-centers imposed on small towns are a textbook case of central government overreach that externalizes massive costs onto unwilling local communities.",
+          "mechanisms": [
+            "First, the project shifts the fiscal and infrastructural burden onto a town that did not consent to host it. This is because (1) Social Circle's population is about 5,000 while the facility could hold 10,000 detainees and employ 2,500 workers, (2) the town says its water and sewer network is already strained, and (3) federal agencies can capture the policy benefit of mass detention while local taxpayers absorb the service costs.",
+            "Second, bypassing robust environmental review creates predictable public-health and governance failures. Three reasons: one, NEPA-style assessments are designed to identify whether a site can physically handle a project before construction begins; two, without them, agencies can understate risks like sewage overflow, water shortages, and contamination; three, once the facility is built, the town is locked into a high-cost, hard-to-reverse infrastructure crisis.",
+            "Third, local resistance matters because detention policy depends on territorial legitimacy and operational cooperation. This matters because (1) towns can obstruct permitting, utilities, roads, and emergency response, (2) visible conflict turns detention expansion into a political liability that slows implementation nationwide, and (3) forcing compliance against local opposition fuels broader backlash against federal immigration enforcement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The federal government should be able to site detention infrastructure where it is operationally efficient, even if local governments object, because immigration enforcement is a national function.",
+          "mechanisms": [
+            "First, centralized siting avoids a patchwork of local vetoes that would make immigration enforcement impossible. One, if every town can block facilities, the federal government cannot scale detention capacity at all; two, immigration control is constitutionally and politically a federal responsibility; three, allowing local lawsuits to stall projects creates a de facto sanctuary-by-zoning system.",
+            "Second, the town's harms may be manageable through mitigation, making the lawsuit an overreach rather than a necessity. One, federal agencies can upgrade utilities, fund infrastructure, or contract for off-site services; two, warehouse conversion may be faster and cheaper than building from scratch, which matters during capacity shortages; three, courts should not substitute local political preferences for agency expertise on detention needs.",
+            "Third, stronger detention capacity can improve immigration enforcement and public order. One, more beds reduce overcrowding and release pressure in the system; two, predictable detention capacity can speed removals and case processing; three, if the government cannot detain at scale, it may incentivize unlawful entry and undermine border policy credibility."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between local externalities and national enforcement capacity. Prop wins if the round prioritizes who bears the costs of policy implementation, while Opp wins if the round treats immigration detention as a core federal function that cannot be hostage to local vetoes.",
+      "stock_connections": [
+        "Federalism",
+        "Local veto / NIMBYism",
+        "Externalities",
+        "Environmental justice",
+        "Administrative law / regulatory compliance",
+        "Public goods provision",
+        "Centralization vs decentralization",
+        "State capacity"
+      ],
+      "motion_areas": [
+        "TH, as the federal government, would prioritize building immigration detention facilities in rural communities over urban areas",
+        "THBT local governments should be able to block federal detention facilities on environmental grounds",
+        "THP a world where federal immigration enforcement facilities require local consent before construction"
+      ],
+      "data_points": [
+        "Social Circle population: about 5,000",
+        "Proposed detention capacity: up to 10,000 detainees",
+        "Planned workforce: approximately 2,500 workers",
+        "Town area: about 11 square miles",
+        "Warehouse address: 1365 East Hightower Trail",
+        "Federal purchase of the property: February 2026",
+        "Lawsuit filed: Wednesday in US district court for the Middle District of Georgia",
+        "Claims invoke the National Environmental Policy Act, the Administrative Procedure Act, and Georgia public nuisance law"
+      ]
+    },
+    {
+      "id": "7aa70655d7a1",
+      "title": "US-Brokered Ceasefire Extension Buys Time But Risks Freezing the Israel-Hezbollah Conflict",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/israel-and-lebanon-agree-ceasefire-extension-us-says",
+      "published": "2026-05-15T19:05:13Z",
+      "category": "IR",
+      "region": "Israel / Lebanon / US",
+      "background": "Israel and Lebanon agreed to a 45-day extension of their ceasefire after two days of talks in Washington, according to the US state department. The previous truce between Israel and Hezbollah was due to expire on Sunday, and further negotiations are scheduled for 2-3 June. On the same day, the Israeli military said it struck Hezbollah sites in southern Lebanon, while Lebanon’s health ministry said nearly 40 people were wounded near Tyre and that a primary healthcare centre was levelled and Hiram hospital was damaged, injuring six medical staff.",
+      "prop_args": [
+        {
+          "thesis": "Extending the ceasefire is the least-bad option because it prevents immediate escalation while creating diplomatic space for a more durable border settlement.",
+          "mechanisms": [
+            "First, it reduces the risk of a rapid military spiral. This is because (1) the truce was about to expire, so any lapse would have created a high-risk window for retaliation, (2) both sides are still actively exchanging fire, as shown by Israeli strikes and reported launches/alerts on the same day, and (3) even a short extension lowers the probability of miscalculation turning into a broader war.",
+            "Second, it preserves US leverage over both parties. Three reasons: one, Washington is already hosting the talks, so the extension keeps the US at the center of the process; two, a time-bound extension forces continued negotiations rather than letting either side declare victory and walk away; three, the stated agenda of sovereignty, territorial integrity, and border security gives the US a concrete framework to push for implementation steps.",
+            "Third, it protects civilians and critical infrastructure in the short run. This matters because (1) the article shows direct harm to non-combatants, including nearly 40 wounded and six medical staff injured, (2) damage to a primary healthcare centre and hospital creates cascading humanitarian costs beyond the immediate strike, and (3) even temporary de-escalation can keep aid, medical access, and displacement levels from worsening further."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A ceasefire extension without enforcement merely freezes the conflict, giving Hezbollah and Israel time to rearm, regroup, and continue low-level violence under diplomatic cover.",
+          "mechanisms": [
+            "First, it entrenches a status quo of managed instability. One, the article shows the truce is already shaky and violations are ongoing; two, if neither side pays a cost for continued strikes, the extension becomes a permission structure for limited violence; three, this normalizes a border regime where periodic attacks replace real peace.",
+            "Second, it weakens incentives for a final settlement. One, time-bound extensions let both sides postpone hard concessions on sovereignty, territorial integrity, and border arrangements; two, each side can use the pause to improve its bargaining position militarily and politically; three, repeated extensions can become an endless holding pattern that avoids the core dispute.",
+            "Third, it can worsen humanitarian and political outcomes by prolonging uncertainty. One, civilians and hospitals remain exposed because the conflict is not actually resolved; two, repeated strikes during a nominal ceasefire undermine trust in diplomacy and make local populations less willing to support compromise; three, the longer the conflict drags on, the more likely it is that a single incident triggers a larger breakdown."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the extension is a genuine bridge to settlement or just a pause that institutionalizes low-level war. Prop wins if the round prioritizes immediate civilian protection and crisis prevention; opp wins if it shows that without enforcement and a political endgame, the extension simply delays a larger explosion.",
+      "stock_connections": [
+        "Conflict De-escalation",
+        "Security Dilemma",
+        "Peace Process Credibility",
+        "Humanitarian Protection",
+        "Managed Instability",
+        "Deterrence Failure",
+        "Diplomatic Leverage"
+      ],
+      "motion_areas": [
+        "TH, as the US, would broker short-term ceasefire extensions in active border conflicts",
+        "THBT temporary ceasefire extensions are preferable to allowing truces to expire when final peace is not yet possible",
+        "THP a world where ceasefires can be extended repeatedly without a final settlement"
+      ],
+      "data_points": [
+        "45-day ceasefire extension agreed after two days of talks in Washington",
+        "Further negotiations scheduled for 2-3 June",
+        "The previous truce was due to end on Sunday",
+        "Nearly 40 people wounded in Israeli strikes near Tyre",
+        "One strike levelled a primary healthcare centre and damaged Hiram hospital",
+        "Six medical staff members wounded in the strike on the healthcare centre/hospital area"
+      ]
+    },
+    {
+      "id": "f6301ff1c632",
+      "title": "Alberta Separatism Exposes the Limits of Canadian Federal Bargaining Over Oil and Climate",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/canadas-carney-travels-to-alberta-as-separatists-face-legal-setback?traffic_source=rss",
+      "published": "2026-05-15T18:40:05Z",
+      "category": "Econ",
+      "region": "Canada (Alberta), United States",
+      "background": "Canadian Prime Minister Mark Carney visited Alberta on Friday to announce a preliminary agreement on a crude oil pipeline with Premier Danielle Smith. The trip came days after a provincial court ruled that separatists had not followed proper procedure in collecting signatures for a referendum on Alberta secession, saying the process should have triggered consultation with Indigenous peoples whose treaty rights could be affected. One separatist group, Stay Free Alberta, said it had submitted more than 300,000 signatures, while polls have shown roughly one-third of Albertans support secession. The political backdrop includes Ottawa’s climate regulations, Alberta’s oil-and-gas economy, and tensions with the United States under President Donald Trump, including tariffs and reported separatist outreach to U.S. State Department officials.",
+      "prop_args": [
+        {
+          "thesis": "Ottawa should compromise more aggressively with Alberta on pipelines and resource policy because economic accommodation is the best way to neutralize separatist pressure and preserve the Canadian federation.",
+          "mechanisms": [
+            "First, accommodation undercuts the core grievance driving separatism. This is because (1) Alberta’s separatist pitch is built around the claim that Ottawa over-regulates oil and gas, (2) visible policy wins like a pipeline and looser investment conditions give moderates a reason to stay inside Canada, and (3) when the federal government delivers material benefits, it splits the coalition between hard separatists and frustrated but persuadable voters.",
+            "Second, federal compromise reduces the risk of a self-reinforcing political escalation. Three reasons: one, if Ottawa is seen as dismissive, separatists can frame themselves as the only defenders of Alberta’s interests; two, a court setback does not eliminate the underlying anger, so symbolic confrontation can revive the movement; three, a negotiated settlement is cheaper than managing a long-term legitimacy crisis in a province that is economically central to Canada’s energy sector.",
+            "Third, stabilizing Alberta protects national economic output and bargaining power with the United States. This matters because (1) Alberta’s oil and gas sector is a major export engine, (2) federal-provincial unity strengthens Canada’s hand in tariff disputes with Trump-era U.S. pressure, and (3) uncertainty over secession or conflict over pipelines raises investment risk, delays infrastructure, and depresses long-run growth."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Ottawa should resist separatist pressure and maintain stronger federal climate and constitutional constraints because conceding to Alberta rewards coercive regional politics and weakens national governance.",
+          "mechanisms": [
+            "First, concessions create moral hazard for regional blackmail. One, if Alberta gets policy wins whenever separatism rises, other provinces learn that threatening exit is an effective bargaining tool; two, this incentivizes more radical provincial politics over time; three, the federal government loses the ability to set coherent national standards on climate, taxation, and infrastructure.",
+            "Second, weakening environmental rules for a pipeline locks Canada into high-carbon dependence and long-term policy costs. One, carbon-intensive infrastructure creates stranded-asset risk if global climate policy tightens; two, it makes it harder for Ottawa to meet emissions targets and maintain credibility with investors and allies; three, the short-term economic gain may be outweighed by higher transition costs later.",
+            "Third, the legal setback shows separatism is procedurally and constitutionally fragile, so Ottawa does not need to overreact. One, the court ruling already slowed the referendum path by requiring Indigenous consultation; two, the movement still lacks a clear majority, with support around one-third of the province; three, firm federalism can contain the issue without paying the political price of major concessions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether accommodation buys durable stability or simply rewards a veto threat. Prop wins if you prioritize immediate federation management and investment certainty; opp wins if you think conceding on pipelines and climate creates a long-term moral hazard that erodes national policy capacity.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Federalism",
+        "Resource Curse",
+        "Dutch Disease",
+        "Center-Periphery Conflict",
+        "Nationalism and Secession",
+        "Race to the Bottom",
+        "Regulatory Capture",
+        "Climate-Development Tradeoff",
+        "Investment Uncertainty"
+      ],
+      "motion_areas": [
+        "TH, as the Canadian federal government, would make major policy concessions to Alberta to prevent separatism",
+        "THBT federal governments should prioritize territorial unity over environmental regulation in resource-rich regions",
+        "THP a world where subnational separatist movements can credibly force economic concessions from central governments"
+      ],
+      "data_points": [
+        "Stay Free Alberta said it delivered a petition with more than 300,000 signatures",
+        "Polls have regularly shown about one-third of Alberta’s population supports secession",
+        "The court ruled the referendum-signature process should have triggered consultation with Indigenous peoples whose rights might be violated by Alberta’s secession",
+        "Premier Danielle Smith’s government had already lowered the number of signatures required to trigger a referendum",
+        "Carney’s pipeline deal came with preconditions including more stringent industrial carbon taxing and a new carbon capture project",
+        "Earlier this year, Alberta separatist leaders met with members of the U.S. Department of State to discuss logistics of possible secession"
+      ]
+    },
+    {
+      "id": "3c7ae8045936",
+      "title": "Powell’s Exit Opens a Battle Over Whether the Fed Should Prioritize Inflation Discipline or Growth Support",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/fed-faces-regime-change-as-powell-s-steps-down-as-chair-video",
+      "published": "2026-05-15T18:30:37Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "Jerome Powell’s term as Federal Reserve Chair ends on May 15, 2026, after a tenure shaped by the COVID-19 pandemic and the subsequent inflation surge. Bloomberg’s coverage frames the transition as a possible “regime change” at the Fed, with Kevin Warsh discussed as a potential successor and Lael Brainard commenting on the institution’s future. The key context is that the Fed has spent the past several years balancing high inflation, interest-rate hikes, and concerns about growth and financial stability.",
+      "prop_args": [
+        {
+          "thesis": "A more hawkish, credibility-focused Fed leadership is necessary to anchor inflation expectations and preserve long-run economic stability.",
+          "mechanisms": [
+            "First, a tougher chair restores anti-inflation credibility. This is because (1) households and firms form wage and price expectations based on whether the Fed is willing to keep rates high, (2) after the post-pandemic inflation spike, any sign of softness risks re-embedding inflation into contracts and pricing behavior, and (3) a credible commitment to price stability lowers the risk premium investors demand on U.S. assets.",
+            "Second, regime change can reduce the chance of policy being too politically reactive. Three reasons: one, an independent Fed can absorb short-term pain that elected officials cannot, two, a chair willing to tolerate slower growth can prevent premature easing, and three, clearer anti-inflation signaling reduces the boom-bust cycle caused by stop-start monetary policy.",
+            "Third, the long-run welfare gain outweighs the short-run growth cost. This matters because inflation is a regressive tax that hits low-income households hardest through food, rent, and borrowing costs, so even if tighter policy slows hiring temporarily, it protects purchasing power and avoids a deeper later recession caused by unanchored inflation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A regime shift at the Fed risks over-tightening, politicizing monetary policy, and causing unnecessary damage to employment and financial stability.",
+          "mechanisms": [
+            "First, a more hawkish chair can overshoot and engineer avoidable recession. One, monetary policy works with long and variable lags, two, the Fed can keep tightening after inflation has already peaked because the data arrives late, and three, that delay means rate hikes hit jobs, housing, and credit conditions after the economy has already cooled.",
+            "Second, changing leadership can undermine institutional continuity and market confidence. One, investors may read the transition as a break from the Powell-era consensus, two, uncertainty about the new chair’s reaction function increases volatility in bond and equity markets, and three, firms delay investment when they cannot predict the cost of capital.",
+            "Third, prioritizing inflation too narrowly ignores distributional and systemic risks. One, higher rates disproportionately crush mortgage borrowers, small businesses, and leveraged sectors, two, unemployment and bankruptcies create scarring that lasts beyond the inflation episode, and three, the Fed’s mandate is dual-purpose, so sacrificing labor-market health for symbolic toughness is economically inefficient."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the main threat is persistent inflation or policy-induced recession. Prop wins if you believe credibility is fragile and that the Fed must overcorrect to prevent a second inflation wave; opp wins if you think the post-pandemic inflation shock is already fading and the real danger is lagged monetary tightening causing avoidable damage.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Credibility Trap",
+        "Inflation Expectations",
+        "Phillips Curve",
+        "Time Inconsistency",
+        "Moral Hazard",
+        "Recession vs Inflation Tradeoff",
+        "Policy Lags",
+        "Financial Instability"
+      ],
+      "motion_areas": [
+        "TH, as the Federal Reserve, would prioritize inflation over unemployment even at the cost of a recession",
+        "THBT central banks should be more hawkish after an inflation shock",
+        "THP a world where the Fed is led by a more politically independent and anti-inflation chair",
+        "TH, as the United States, would appoint a more aggressive Fed Chair after a major inflation episode"
+      ],
+      "data_points": [
+        "Jerome Powell’s term as Fed Chair ends on May 15, 2026",
+        "The article explicitly frames the transition as a possible Fed 'regime change'",
+        "Powell’s tenure was defined by the COVID-19 pandemic and the subsequent inflation surge",
+        "Kevin Warsh is discussed as a possible successor in Bloomberg’s coverage",
+        "Lael Brainard is cited as a commentator on the Fed’s future and Warsh’s chairmanship"
+      ]
+    },
+    {
+      "id": "89aeba8521e0",
+      "title": "Aggressive War Remains Largely Unpunished as Nuremberg’s Promise Fades",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/15/criminal-state-lawrence-douglas-book-review-nuremberg-international-law-aggression-atrocity-war-genocide/",
+      "published": "2026-05-15T18:20:35Z",
+      "category": "IR",
+      "region": "Global",
+      "background": "The article reviews Lawrence Douglas’s book The Criminal State and argues that international law has shifted away from prosecuting the crime of aggression since the 1946 Nuremberg trials. It notes that the ICC issued an arrest warrant for Vladimir Putin for war crimes, but aggression charges remain effectively unavailable against non-party states such as the United States, Israel, and Russia. The piece also cites the 2010 criminal definition of aggression and argues that recent conflicts, including Russia’s invasion of Ukraine, show the limits of current enforcement.",
+      "prop_args": [
+        {
+          "thesis": "Reviving aggression prosecutions would restore deterrence against the most upstream cause of mass atrocities and make international law meaningfully constrain war-makers.",
+          "mechanisms": [
+            "First, aggression prosecutions target the decision-makers who start wars, not just the battlefield excesses that follow. This is because (1) leaders can often frame atrocities as accidental or rogue behavior, (2) punishing only war crimes leaves the strategic choice to invade untouched, and (3) making initiation of war itself criminal raises the personal cost for presidents, generals, and cabinets who otherwise externalize the human cost onto civilians.",
+            "Second, a real aggression regime would strengthen deterrence by closing the current impunity gap. Three reasons: one, the article shows that the ICC can issue war-crimes warrants but not meaningful aggression charges against major powers; two, states currently calculate that they can invade first and litigate later; three, even symbolic legal exposure can constrain travel, coalition-building, asset access, and post-war legitimacy for elites.",
+            "Third, this improves the quality of post-conflict justice and prevention. This matters because (1) atrocity trials alone treat symptoms after mass death has already occurred, (2) aggression findings establish the causal chain from invasion to later crimes, and (3) that record helps victims, historians, and future courts identify responsibility earlier and more accurately."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Aggression prosecutions are politically selective, legally vague, and likely to weaken international law by overpromising what cannot be enforced.",
+          "mechanisms": [
+            "First, the crime of aggression is inherently contested and easy to weaponize politically. One, the article notes that states only agreed on a criminal definition in 2010 after decades of disagreement; two, self-defense and aggression are often disputed in real time; three, powerful states and their allies will always argue that their interventions were lawful, making prosecutions look like victor’s justice.",
+            "Second, the enforcement architecture is structurally incapable of reaching the most important targets. One, non-parties such as the United States, Israel, and Russia cannot be charged with aggression at the ICC; two, even member-state exemptions hollow out the rule; three, without universal jurisdiction or Security Council consensus, the regime mainly captures weaker states and leaves great powers untouched.",
+            "Third, focusing on aggression can crowd out the more achievable and valuable atrocity cases. One, war-crimes and crimes-against-humanity trials already generate victim testimony and historical record; two, they are more legible to courts because they focus on conduct rather than the legality of a war’s initiation; three, a failed aggression regime risks discrediting the broader project of international criminal justice."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic norm-setting and actual enforcement. Pro side wins if the question is whether international law should condemn war initiation in principle; opposition wins if the standard is whether a rule that cannot bind great powers will improve outcomes rather than simply create selective, politicized justice.",
+      "stock_connections": [
+        "Impunity",
+        "Selective Enforcement",
+        "Victors' Justice",
+        "Rule of Law",
+        "Deterrence",
+        "International Institutions Failure",
+        "Great Power Politics",
+        "Legal Formalism vs Realism",
+        "Humanitarian Intervention",
+        "Sovereignty"
+      ],
+      "motion_areas": [
+        "TH, as the ICC, would prioritize prosecuting the crime of aggression over war crimes",
+        "THBT the international community should create an ad hoc tribunal for aggression against Russia",
+        "THP a world where leaders can be held personally liable for starting wars",
+        "THBT international law should treat aggressive war as the primary international crime",
+        "TH, as developing states, would support expanding aggression jurisdiction at the ICC"
+      ],
+      "data_points": [
+        "The ICC issued an arrest warrant for Vladimir Putin for war crimes, but not for aggression.",
+        "States only agreed on a criminal definition of aggression in 2010.",
+        "The article says the Trump administration launched airstrikes against eight countries in one year.",
+        "The ICC’s aggression jurisdiction excludes non-parties such as the United States, Israel, and Russia.",
+        "Nuremberg convicted 19 Nazi leaders in 1946.",
+        "After World War I, only eight low-ranking soldiers were convicted in the Leipzig trials, and many sentences were light or quickly commuted.",
+        "Britain released 118 Turks from prison after World War I despite genocide-era atrocities."
+      ]
+    },
+    {
+      "id": "e370f5b549ce",
+      "title": "Trump’s Boeing Deal With China Looks More Like Summit Optics Than a Trade Breakthrough",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/economy/2026/5/15/trump-says-china-to-buy-200-boeing-planes-much-lower-than-expected?traffic_source=rss",
+      "published": "2026-05-15T18:12:41Z",
+      "category": "Business",
+      "region": "United States / China",
+      "background": "On 15 May 2026, US President Donald Trump said China had agreed to buy 200 Boeing jets, with the possibility of up to 750 planes if Boeing “does a good job.” Neither the Chinese government nor Boeing confirmed the deal, and key details such as aircraft type, delivery schedule, and whether the planes are new orders were not disclosed. Aviation intelligence firm IBA estimated the 200-plane package at about $17bn to $19bn if 80% are 737 MAX jets, or up to $25bn if a larger share are widebody aircraft. The announcement came during Trump’s trip to Beijing, where Boeing CEO Kelly Ortberg joined other US executives seeking market access in China.",
+      "prop_args": [
+        {
+          "thesis": "Even an unconfirmed Boeing package is economically and politically meaningful because it signals a partial reopening of China’s market to US aerospace and gives both sides a face-saving off-ramp from trade escalation.",
+          "mechanisms": [
+            "First, the deal restores commercial access to a strategically important market. This is because (1) China is one of the world’s largest aviation growth markets, (2) Boeing had been largely shut out amid US-China trade tensions, and (3) even a 200-plane order creates a pipeline for future maintenance, parts, and services revenue beyond the headline sale.",
+            "Second, the announcement improves bargaining leverage for both governments. Three reasons: one, Trump can present it as proof that tariffs and pressure yielded concrete gains; two, Beijing can use the purchase to buy time and reduce immediate trade friction without making a broad policy concession; three, the prospect of a larger 750-plane follow-on creates a credible incentive structure for continued engagement.",
+            "Third, the deal helps Boeing and GE Aerospace materially. This matters because Boeing shares had already fallen nearly 4 percent on Thursday and were still down about 2.6 percent on Friday, while GE Aerospace fell 2 percent; a large order book supports production planning, supplier confidence, and investor sentiment in a sector where scale and backlog are critical."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is mostly political theatre, not a durable economic breakthrough, because the announcement lacks confirmation, lacks detail, and is vulnerable to reversal or re-bundling.",
+          "mechanisms": [
+            "First, the absence of formal confirmation makes the headline unreliable as a real trade gain. One, neither Boeing nor the Chinese government issued a confirming statement; two, planemakers usually disclose major deals only once formalised; three, China has previously bundled repeat announcements with diplomatic visits, so the same aircraft may be counted more than once.",
+            "Second, the deal does not solve the structural reasons Boeing has lost ground in China. One, Airbus has already pulled far ahead in the Chinese market; two, China’s homegrown COMAC C919 is intended to reduce dependence on foreign suppliers; three, concerns over after-sales support and US export restrictions on parts make Chinese buyers wary of long-term reliance on Boeing.",
+            "Third, the announcement may have limited macroeconomic impact. One, Trump’s broader tariff strategy has not significantly reduced the US trade deficit; two, the trade truce still expires in five months and was not extended; three, without follow-on purchases in agriculture and energy, the summit remains heavy on atmospherics and light on substance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a symbolic headline and a durable commercial shift. Prop wins if the question is whether the announcement creates real leverage and market confidence; opp wins if the standard is whether this is a confirmed, structurally meaningful breakthrough, because the deal is unverified, potentially recycled, and does not resolve Boeing’s deeper competitive disadvantages in China.",
+      "stock_connections": [
+        "Trade War Escalation",
+        "Economic Statecraft",
+        "Summit Diplomacy",
+        "Market Access",
+        "Industrial Policy",
+        "Dependency Theory",
+        "Strategic Decoupling",
+        "Corporate Lobbying",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use tariff pressure to secure sector-specific trade concessions from China",
+        "THBT summit diplomacy is a more effective tool than broad tariffs for managing US-China economic competition",
+        "THP a world in which major aerospace purchases are used as bargaining chips in great-power trade negotiations"
+      ],
+      "data_points": [
+        "Trump said China agreed to buy 200 Boeing jets, with a possible rise to 750 planes",
+        "IBA estimated the 200-plane package at roughly $17bn to $19bn if 80% are MAX jets",
+        "IBA said the package could reach $25bn if about 40% are widebody aircraft",
+        "Boeing shares fell nearly 4% on Thursday after the initial announcement and were down about 2.6% on Friday",
+        "GE Aerospace shares fell 2% on Friday",
+        "Industry sources said Boeing had originally been negotiating for at least 500 narrowbody jets tied to the Beijing summit",
+        "China’s COMAC C919 production falls short of ambitious targets",
+        "Airbus has pulled far ahead of Boeing in China in recent years",
+        "The US-China trade truce expires in five months"
+      ]
+    },
+    {
+      "id": "d109832b8414",
+      "title": "Russian Mass Aerial Strikes Push Ukraine Toward Escalatory Deep-Strike Strategy",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
+      "published": "2026-05-15T18:08:51Z",
+      "category": "IR",
+      "region": "Ukraine / Russia / Belarus",
+      "background": "On Thursday, Russia launched what Ukraine described as its largest aerial assault since the war began more than four years ago, striking a nine-storey apartment block in Kyiv’s Darnytskyi district and killing at least 24 people, including three children. In response, President Volodymyr Zelenskyy said strikes on Russia’s oil industry and military production facilities were “entirely justified” and said he had discussed long-range strikes with senior military, security and intelligence officials. Ukraine then launched a large-scale drone attack on Friday against energy and military infrastructure across several Russian regions, including a strike on the Ryazan oil refinery that killed at least four people, including a child. The escalation came alongside a 205-for-205 prisoner swap and the exchange of 526 Russian bodies for 41 Ukrainian bodies, following a three-day ceasefire brokered by US President Donald Trump.",
+      "prop_args": [
+        {
+          "thesis": "Ukraine is rationally escalating deep strikes because only by imposing direct costs on Russia’s war economy can it deter further mass bombardment and improve its bargaining position.",
+          "mechanisms": [
+            "First, deep strikes target the material base of Russia’s war machine. This is because (1) oil refineries, military production sites, and logistics nodes are the inputs that sustain missile production, drone operations, and sustained air campaigns; (2) hitting these assets forces Russia to divert air defenses, repair capacity, and budget away from the front; and (3) repeated damage compounds over time, making each new strike more expensive to absorb than the last.",
+            "Second, escalation creates deterrence by punishment. Three reasons: one, Russia has shown it is willing to absorb diplomatic costs for civilian strikes, so only military/economic pain changes incentives; two, striking inside Russia raises the domestic political cost for the Kremlin by showing the war is no longer geographically contained; three, it signals that attacks on Kyiv will trigger asymmetric retaliation rather than one-sided victimhood.",
+            "Third, this improves Ukraine’s leverage in any ceasefire or peace process. This matters because (1) Trump’s own comments suggest battlefield shocks can delay or shape peace efforts; (2) if Russia’s energy and military infrastructure becomes vulnerable, Moscow has stronger reasons to accept limits on strikes; and (3) Ukraine needs to demonstrate it can impose costs even without matching Russia’s scale in conventional firepower."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Deep-strike escalation is strategically self-defeating because it invites retaliation, hardens Russian resolve, and reduces the chances of a negotiated settlement.",
+          "mechanisms": [
+            "First, escalation can trigger a spiral that harms Ukraine more than Russia. One, Russia has already shown willingness to conduct the largest aerial assault of the war, so it can respond with even more intense strikes on civilian and energy infrastructure; two, Ukraine’s limited air defense capacity means each Russian retaliation has a higher marginal effect on civilian casualties; three, the conflict becomes less controllable once both sides normalize attacks on rear-area economic targets.",
+            "Second, strikes on Russian territory can strengthen Kremlin propaganda and mobilization. One, Moscow can frame them as proof that Ukraine is an aggressor rather than a victim, helping justify further conscription, repression, and war spending; two, civilian casualties in places like Ryazan create domestic outrage that reduces pressure on Putin to compromise; three, the Russian state can use the attacks to rally nationalist support around a defensive war narrative.",
+            "Third, this undermines diplomacy at the exact moment limited progress exists. One, the 205-for-205 prisoner swap and body exchange show that transactional de-escalation channels still exist; two, Trump’s ceasefire-brokered process is fragile and can be derailed by headline-grabbing strikes; three, if the goal is a ceasefire, signaling willingness to hit Russian oil infrastructure makes Moscow less likely to trust or accept future terms."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive escalation actually changes Russian behavior faster than it provokes counter-escalation. Prop wins if the round is about stopping an ongoing war economy, because Ukraine cannot outgun Russia conventionally and therefore needs asymmetric leverage; Opp wins if the round prioritizes civilian protection and peace prospects, because each escalation cycle can produce immediate civilian costs before any strategic gains materialize.",
+      "stock_connections": [
+        "Deterrence by punishment",
+        "Escalation ladder",
+        "Security dilemma",
+        "War of attrition",
+        "Civilian protection vs military necessity",
+        "Coercive diplomacy",
+        "Peace process fragility",
+        "Asymmetric warfare"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize deep strikes on Russian energy infrastructure",
+        "THBT states under invasion should escalate attacks on the aggressor’s war economy",
+        "THP a world where Ukraine is given unrestricted long-range strike capability",
+        "THBT peace negotiations should not constrain a defending state’s ability to retaliate"
+      ],
+      "data_points": [
+        "At least 24 people killed in the Kyiv apartment block strike, including 3 children",
+        "Ukraine said Thursday’s attack was the largest aerial assault since the war began more than four years ago",
+        "Ukraine launched a large-scale drone attack on Friday across several Russian regions",
+        "At least 4 people, including a child, were killed in a drone strike in Ryazan",
+        "205 prisoners of war were exchanged by each side",
+        "Russia handed over 526 bodies in exchange for 41 Ukrainian bodies",
+        "The ceasefire was brokered by US President Donald Trump"
+      ]
+    },
+    {
+      "id": "bf0c59509416",
+      "title": "US Capital Punishment in a Terror Case Hardens the Domestic Response to Anti-Israel Political Violence",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgep2273d5go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T18:03:57Z",
+      "category": "IR",
+      "region": "United States / Israel",
+      "background": "The US Department of Justice said on 15 May 2026 that it will seek the death penalty for Elias Rodriguez, 31, who is charged with killing two Israeli embassy staff members outside the Capital Jewish Museum in Washington DC in May 2025. Prosecutors say Rodriguez fired 20 shots at Yaron Lischinsky, 30, and Sarah Lynn Milgrim, 26, after traveling from Chicago to Washington with a handgun and researching a networking event for young Jewish professionals. He faces 13 charges, including murder of a foreign official, hate crimes, and acts of terrorism; he has pleaded not guilty. The move comes after President Donald Trump restored and expanded federal death-penalty policy, reversing Joe Biden’s moratorium on federal executions.",
+      "prop_args": [
+        {
+          "thesis": "Seeking the death penalty is the strongest available signal that the state will treat politically motivated anti-Semitic violence as terrorism, not protest, and will deter copycat attacks.",
+          "mechanisms": [
+            "First, it reclassifies the act in the public mind from a politically charged homicide into a high-salience terror offense. This is because (1) the target was foreign diplomatic staff, (2) the attack was allegedly premeditated with online research and a manifesto, and (3) the maximum punishment communicates that the state sees this as an assault on the political order, not a spontaneous crime.",
+            "Second, it increases deterrence for would-be extremists who are motivated by notoriety and ideological validation. Three reasons: one, the death penalty raises the personal cost of carrying out a symbolic attack; two, it reduces the chance that attackers view prison as a platform for radicalization and martyrdom; three, it signals to online networks that the US will not normalize violence wrapped in political language.",
+            "Third, it reassures vulnerable communities and foreign diplomats that the US will defend them with the full force of the law. This matters because (1) Jewish communities and embassy personnel are likely to feel more protected, (2) allied states read leniency as weakness in protecting diplomats, and (3) a firm response preserves the credibility of US commitments to counterterrorism and diplomatic security."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Seeking death in a politically charged case is counterproductive because it turns the defendant into a martyr, deepens polarization, and does little to improve security.",
+          "mechanisms": [
+            "First, it can amplify extremist narratives and create a martyrdom effect. One, the suspect already framed the attack in ideological terms; two, a capital case gives propaganda value to supporters who portray him as being killed for his politics; three, the long appeals process keeps the case in the public eye and sustains radical attention.",
+            "Second, it risks normalizing the death penalty as a tool for symbolic politics rather than narrow public safety. One, once the state uses capital punishment in a highly salient terror case, future administrations can expand it to more categories; two, it lowers the threshold for politically motivated executions; three, it undermines the moral distinction between justice and revenge.",
+            "Third, it may worsen domestic and international backlash without addressing root causes. One, Jewish communities may face retaliatory hate if the case inflames tensions; two, Palestinians and pro-Palestinian activists may see the prosecution as proof of selective justice, increasing alienation; three, the policy does nothing to reduce online radicalization, hate speech, or access to weapons."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic deterrence and symbolic escalation. Prop wins if the judge prioritizes state credibility and protection of vulnerable targets; opp wins if they think the death penalty mainly feeds martyrdom and polarization while adding little marginal security.",
+      "stock_connections": [
+        "Deterrence",
+        "Martyrdom effect",
+        "Political violence",
+        "Rule of law",
+        "Selective enforcement",
+        "Punishment vs rehabilitation",
+        "Security dilemma",
+        "Normalization of extremism",
+        "State legitimacy"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would seek the death penalty for ideologically motivated terrorist murderers",
+        "THBT states should abolish the federal death penalty even for terrorism cases",
+        "THP a world where governments prioritize life imprisonment over capital punishment for political violence"
+      ],
+      "data_points": [
+        "Elias Rodriguez is 31 and has been charged with 13 offences",
+        "Prosecutors say he fired 20 shots outside the Capital Jewish Museum in Washington DC",
+        "Two victims were killed: Yaron Lischinsky, 30, and Sarah Lynn Milgrim, 26",
+        "The DOJ is seeking death for 3 charges: murder of a foreign official, discharge of a firearm during a crime of violence, and causing death through the use of a firearm",
+        "The attack allegedly occurred in May 2025, with the death-penalty notice filed on 15 May 2026",
+        "Trump restored federal executions on his first day back in office and the administration has expanded execution methods to include firing squad"
+      ]
+    },
+    {
+      "id": "b37631405bb2",
+      "title": "Russia Can Exploit NATO’s Decision Lag to Sever the Baltics Before Article 5 Bites",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/15/russia-war-game-nato-invasion-baltics-ukraine-putin-germany-ernstfall/",
+      "published": "2026-05-15T18:00:02Z",
+      "category": "IR",
+      "region": "Russia / NATO (Europe) / Baltics / Ukraine / Germany",
+      "background": "The article reports on a December 2025 war game at Germany’s Helmut Schmidt University in Hamburg, where the author played the Russian chief of general staff and won by attacking Lithuania. The scenario assumed a hypothetical Russia-Ukraine ceasefire in summer 2026, after which Russia could redeploy experienced forces from the Ukraine war and threaten NATO’s eastern flank. The Red Team used roughly 100,000 Russian troops in the wider theater, including about 12,000 forward troops from Belarus and additional forces from Kaliningrad, to cut the Suwalki Gap and isolate the Baltics from Poland and the rest of NATO.",
+      "prop_args": [
+        {
+          "thesis": "Russia’s post-Ukraine force regeneration and NATO’s slow reinforcement cycle create a real window in which Moscow can coerce or sever the Baltics before the alliance can respond effectively.",
+          "mechanisms": [
+            "First, Russia can mass faster than NATO in the opening phase. This is because (1) Russian troops and equipment can already be pre-positioned in Belarus and Kaliningrad, (2) NATO needs days to weeks to move reinforcements into the theater, and (3) a limited offensive can seize key terrain before a counterattack is organized.",
+            "Second, Russia can convert a small incursion into strategic paralysis. Three reasons: one, cutting the Suwalki Gap isolates Lithuania, Latvia, and Estonia from overland NATO support; two, hybrid cover and exercises let Russia hide mobilization until the last moment; three, once the corridor is fortified, NATO faces a much harder and bloodier retaking operation.",
+            "Third, Russian escalation dominance deters NATO from reversing the fait accompli. This matters because (1) Moscow can threaten tactical nuclear use from Belarus, Kaliningrad, or western Russia, (2) Germany and other European states may not be willing to risk direct war without U.S. backing, and (3) if Washington stays out for 48 hours, European resolve is likely to fracture before Article 5 becomes operationally meaningful."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The war game overstates Russian advantage because a real attack on the Baltics would trigger faster allied adaptation, stronger political unity, and severe Russian escalation costs.",
+          "mechanisms": [
+            "First, NATO is not a static target. One, intelligence and surveillance would likely detect Russian buildup earlier than the game assumes; two, forward-deployed allied forces, air policing, and rapid U.S. reinforcement could blunt the initial thrust; three, once the attack is unmistakable, Article 5 creates strong pressure for collective response rather than German unilateral hesitation.",
+            "Second, Russia’s operation is far more fragile than the scenario suggests. One, the terrain in Lithuania is narrow, forested, and swampy, which favors defenders and ambushes; two, the forward force is only about 12,000 troops on the main axis, making it vulnerable to attrition; three, if the incursion stalls, Russia risks losing the political shock effect that the whole plan depends on.",
+            "Third, nuclear brinkmanship is not costless and may backfire. One, threatening tactical nuclear use could unify NATO and justify U.S. intervention; two, it would intensify sanctions and isolate Russia diplomatically; three, European states may conclude that yielding once only invites more coercion, so they may choose escalation now to avoid a worse precedent later."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between military capability and political willingness: the article’s core claim is not that Russia can win a long war, but that it can win the first 48 hours by exploiting allied hesitation. Prop wins if the judge believes decision lag and nuclear fear matter more than battlefield attrition; opp wins if they show NATO can absorb the shock, mobilize faster, and treat any Baltic incursion as a credibility test too costly to lose.",
+      "stock_connections": [
+        "Deterrence failure",
+        "Credibility",
+        "Security dilemma",
+        "Escalation dominance",
+        "Alliance cohesion",
+        "First-mover advantage",
+        "Decapitation / fait accompli strategy",
+        "Nuclear brinkmanship",
+        "Collective action problem",
+        "Forward defense"
+      ],
+      "motion_areas": [
+        "TH, as NATO, would pre-commit to automatic military retaliation against any incursion into the Baltics",
+        "THBT Europe should prioritize rapid-reaction conventional forces over nuclear deterrence in defending the eastern flank",
+        "THP a world where the U.S. reduces its security guarantee to Europe",
+        "THBT Germany should adopt a more explicit war-fighting posture toward Russia",
+        "TH, as the EU, would station permanent combat brigades in the Baltics"
+      ],
+      "data_points": [
+        "War game held in December 2025 at Germany’s Helmut Schmidt University in Hamburg",
+        "Scenario assumed a hypothetical Russia-Ukraine ceasefire in summer 2026",
+        "Red Team used roughly 100,000 Russian troops in the wider theater",
+        "About 12,000 ground troops formed the forward advance force from Belarus",
+        "Russia’s plan relied on elements of the 1st Guards Tank Army, 76th Guards Air Assault Division, 20th Guards Combined Arms Army, and 6th Combined Arms Army",
+        "The operation aimed to cut the Suwalki Gap and link Kaliningrad with Belarus within 24 hours",
+        "NATO’s European response was modeled as delayed by days to weeks, with the U.S. staying out for at least 48 hours",
+        "The article explicitly cites Russia’s improved dynamic targeting, drones, artillery, and air/missile defense as post-Ukraine advantages"
+      ]
+    },
+    {
+      "id": "387e89e9e884",
+      "title": "Trump’s China Reset Buys Trade Optics While Deferring Taiwan and Iran Escalation",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
+      "published": "2026-05-15T17:46:06Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan / Iran",
+      "background": "US President Donald Trump completed a three-day visit to China, his first trip there in his second term, and said the talks produced broad trade deals but little clarity on Taiwan or Iran. Trump said he discussed Taiwan with Xi Jinping but made no commitment on the island’s status, and he also said he was still deciding whether to approve a major new US weapons package for Taipei. On Iran, Trump said he and Xi discussed the US-Israeli war and the reopening of the Strait of Hormuz, while Chinese officials said only that disputes should be resolved through negotiations. Trump also claimed China agreed to buy 200 Boeing jets and may increase purchases of US oil and farm goods, though neither side released detailed agreements and Beijing’s official recap did not mention new deals.",
+      "prop_args": [
+        {
+          "thesis": "A transactional US-China thaw can reduce immediate escalation risks by keeping Taiwan and Iran in managed ambiguity while preserving channels for trade and crisis communication.",
+          "mechanisms": [
+            "First, the visit creates a face-saving off-ramp for both sides on Taiwan. This is because (1) Trump explicitly made no commitment either way on Taiwan, (2) Xi got a public reiteration that the US is not endorsing Taiwanese independence, and (3) ambiguity lowers the chance that either side feels forced into a maximalist response in the short term.",
+            "Second, trade engagement gives both governments incentives to avoid confrontation. Three reasons: one, China’s reported interest in Boeing jets, oil, and farm goods ties economic cooperation to stability; two, the US delegation of business leaders signals that commercial gains are politically valuable; three, both sides can point to “success” domestically, which reduces pressure to escalate on security issues to prove toughness.",
+            "Third, keeping Iran discussions within diplomacy rather than coercion can help reopen the Strait of Hormuz and reduce spillover into a wider regional war. This matters because (1) China has leverage with Tehran and can act as a channel, (2) both Washington and Beijing publicly endorsed negotiations, and (3) even limited coordination on shipping lanes lowers global energy shock risk."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit mainly exposes strategic drift: vague trade promises do not solve the underlying security conflict, and ambiguity on Taiwan and Iran increases the risk of miscalculation later.",
+          "mechanisms": [
+            "First, the lack of concrete commitments on Taiwan makes deterrence less credible. One, Trump said he had not decided on the weapons package, which signals hesitation to Beijing; two, China can read this as an opening to pressure Taipei more aggressively; three, Taiwan is left uncertain about US resolve, which weakens allied confidence and invites brinkmanship.",
+            "Second, the Iran discussion is too shallow to change battlefield realities. One, Trump said he was not 'asking for any favors,' so China has no binding role in enforcement; two, Chinese officials only repeated generic support for negotiations, showing no shift in leverage over Tehran; three, without concrete coordination, the Strait of Hormuz remains vulnerable and the war can still widen through shipping disruption or proxy escalation.",
+            "Third, the trade announcements may be mostly optics and therefore create false confidence. One, no detailed agreements were released, so the supposed deals may not materialize; two, China’s official statement omitted new purchases, suggesting divergence between rhetoric and reality; three, if the summit is sold as a success without substance, both sides may delay harder decisions until the next crisis, when bargaining space is smaller."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether ambiguity is stabilizing or merely postpones confrontation. Prop wins if you prioritize immediate crisis management and the value of keeping both sides talking; opp wins if you think deterrence and credibility matter more than short-term optics, because unresolved Taiwan and Iran flashpoints remain live and can escalate fast.",
+      "stock_connections": [
+        "Strategic ambiguity",
+        "Deterrence credibility",
+        "Great power competition",
+        "Trade interdependence as peace mechanism",
+        "Crisis bargaining",
+        "Alliance reassurance",
+        "Miscalculation risk",
+        "Economic statecraft"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize trade détente with China over immediate confrontation on Taiwan",
+        "THBT the US should seek Chinese cooperation on Iran even at the cost of softening pressure on Beijing over Taiwan",
+        "THP a world where major powers use economic deals to manage security disputes",
+        "THBT strategic ambiguity is preferable to explicit commitments in US-China relations"
+      ],
+      "data_points": [
+        "Trump’s first China visit of his second term lasted three days",
+        "Trump said he had not decided on a new US arms package for Taiwan",
+        "US lawmakers have approved a massive new weapons sale to Taipei that still requires Trump’s sign-off",
+        "Trump claimed China agreed to buy 200 Boeing jets",
+        "The White House said China could soon begin buying more US oil and farm goods",
+        "The October trade-war truce last year involved US tariff surges on China and Chinese threats of rare earth export controls",
+        "Taiwan’s foreign minister said Taipei would seek to deepen ties with the US amid increasing regional risks",
+        "China and the US both said they wanted the Strait of Hormuz reopened"
+      ]
+    },
+    {
+      "id": "6ef103323788",
+      "title": "Ukraine’s Drone Interdiction Is Turning Russia’s War Into a Logistics Attrition Trap",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss",
+      "published": "2026-05-15T17:32:33Z",
+      "category": "IR",
+      "region": "Ukraine / Russia",
+      "background": "Russia launched more than 1,400 drones and 56 missiles into Ukraine across May 9-14, with the heaviest strikes hitting Kyiv and killing at least 12 people in one apartment collapse. Ukraine said it intercepted 92% of the 1,930 drones launched that week and 41 of 57 missiles, while also claiming net territorial gains of 116 sq km in April. The Institute for the Study of War estimated Russian advances in the first four months of 2026 averaged just 2.9 sq km per day, down from 9.76 sq km per day in early 2025 and 14.9 sq km per day between October 2024 and March 2025.",
+      "prop_args": [
+        {
+          "thesis": "Ukraine’s interdiction campaign is materially degrading Russia’s ability to sustain offensive operations, making battlefield attrition and long-range strikes more decisive than territorial mass.",
+          "mechanisms": [
+            "First, Ukraine is attacking the war’s logistics backbone, which slows Russian advances even when Russia still has manpower. This is because (1) fuel, diesel, and ammunition must move through a finite transport network, (2) drone strikes on tankers, depots, highways, and pumping stations force rerouting and delays, and (3) front-line units become supply-starved, which reduces tempo and makes offensives stall.",
+            "Second, deep strikes create cumulative operational paralysis rather than one-off damage. Three reasons: one, repeated hits on the same infrastructure force Russia to spend scarce air defense and repair capacity on rear areas; two, the range of Ukrainian drones has expanded to 120-150 km and even 1,700 km inside Russia, meaning Russia cannot simply move assets farther back; three, Russian reports already describe roads and logistics corridors as 'paralysed' by FPV surveillance, showing the effect is systemic, not symbolic.",
+            "Third, this changes the strategic balance by converting Russian numerical advantage into a vulnerability. This matters because (1) Russia can launch 1,400+ drones and still fail to translate that into territorial gains, (2) Ukraine’s 92% drone interception rate and net April gains show defensive resilience plus offensive leverage, and (3) if Russia cannot convert firepower into movement, its war becomes politically and economically unsustainable over time."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Russia’s escalation against Kyiv shows it can absorb interdiction pressure and still impose severe costs, so Ukraine’s drone campaign is not enough to force a strategic reversal.",
+          "mechanisms": [
+            "First, Russia can substitute massed long-range strikes for lost ground momentum. One, even with slower advances, Russia can still launch 1,930 drones and 57 missiles in a week; two, such strikes kill civilians, damage infrastructure, and keep pressure on Ukrainian air defenses; three, this allows Moscow to punish Ukraine and signal resolve without needing rapid territorial gains.",
+            "Second, Russia’s larger manpower and offensive depth mean temporary logistics disruption does not equal collapse. One, the article says Russia has concentrated about 106,000 personnel in the Pokrovsk direction; two, a 2.9 sq km daily advance is slower, but still positive territorial movement; three, Russia can absorb attrition longer than Ukraine because it has greater mobilization capacity and a larger rear area.",
+            "Third, Ukraine’s gains may be tactically impressive but strategically limited. One, net gains of 116 sq km in April are small relative to the scale of the war; two, deep strikes on oil infrastructure do not necessarily stop Russian production or exports quickly enough to change Kremlin decision-making; three, Russia can adapt by dispersing logistics, hardening routes, and increasing drone and missile production."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether logistics interdiction can translate into strategic coercion faster than Russia can adapt. Prop wins if the round is about war-fighting capacity over time, because the article shows a clear trend of slowing Russian advances and rising rear-area vulnerability; Opp wins if the judge prioritizes immediate coercive power, since Russia can still inflict mass civilian damage and maintain offensive pressure despite the slowdown.",
+      "stock_connections": [
+        "Attrition warfare",
+        "Logistics and supply chain vulnerability",
+        "Asymmetric warfare",
+        "Military adaptation",
+        "Escalation dominance",
+        "War of endurance",
+        "Civilian cost of war",
+        "Strategic depth"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize deep-strike campaigns over holding every inch of frontline territory",
+        "THBT states under invasion should target the enemy’s logistics and energy infrastructure even at the risk of escalation",
+        "THP a world where drone warfare makes rear-area logistics the decisive battlefield"
+      ],
+      "data_points": [
+        "Russia launched more than 1,400 drones and 56 missiles into Ukraine on May 9-14",
+        "Ukraine said it shot down 92% of the 1,930 drones launched during the week and 41 of 57 missiles",
+        "At least 12 people were killed in a Kyiv apartment building collapse from the strikes",
+        "ISW estimated Russian advances at 2.9 sq km per day in the first four months of 2026, down from 9.76 sq km per day in early 2025 and 14.9 sq km per day from Oct 2024 to Mar 2025",
+        "Ukraine recorded net territorial gains of 116 sq km in April, its first such gain since September 2023",
+        "Ukraine said it increased strikes at 120-150 km depth five-fold over the past year",
+        "Ukrainian forces claimed about 5,000 successful strikes per month at depths of 20+ km",
+        "Russian forces were said to have about 106,000 personnel concentrated in the Pokrovsk direction",
+        "Ukraine’s deep-strike capabilities received $1bn in German investment, according to Ukraine’s defence minister"
+      ]
+    },
+    {
+      "id": "58e02fb52628",
+      "title": "US Indictment Threats Turn Cuba’s Energy Collapse Into Regime-Change Leverage",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/raul-castro-indictment-cuba-trump",
+      "published": "2026-05-15T17:31:49Z",
+      "category": "IR",
+      "region": "United States / Cuba",
+      "background": "Reports say the US may seek an indictment against Raúl Castro, Cuba’s 94-year-old former president, over the 1996 shootdown of two Brothers to the Rescue planes. The move comes as Cuba faces 22-hour blackouts, fuel shortages, and protests in Havana, while the US has tightened pressure through a four-month oil blockade and talks with Cuban officials. The article says US officials, including Marco Rubio and Donald Trump, are openly framing policy around forcing political or economic change in Cuba.",
+      "prop_args": [
+        {
+          "thesis": "Threatening indictment and tightening coercive pressure is the fastest way to break Cuba’s ruling coalition and force concessions.",
+          "mechanisms": [
+            "First, it personalizes the cost of defiance for the Cuban elite. This is because (1) Raúl Castro remains the regime’s symbolic center of gravity even after retirement, (2) targeting him signals that no senior figure is immune, and (3) it creates fear of asset freezes, travel restrictions, and legal exposure for the broader inner circle.",
+            "Second, it exploits Cuba’s acute material vulnerability to create bargaining leverage. Three reasons: one, the island is already suffering 22-hour blackouts and has admitted it is out of fuel oil; two, the economy has been collapsing for five years, so even modest external pressure has outsized effects; three, when the state cannot provide electricity or food, public unrest becomes harder to contain and the leadership needs relief quickly.",
+            "Third, it can force a split between hardliners and pragmatists inside the regime. This matters because if some officials believe sanctions relief, aid, or a negotiated opening is the only way to stabilize the country, the threat of indictment and isolation makes compromise more attractive than collective resistance."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Indictment threats and blockade pressure will entrench Cuban nationalism, worsen humanitarian suffering, and reduce the chance of meaningful reform.",
+          "mechanisms": [
+            "First, external coercion lets the regime frame the crisis as US aggression. One, this strengthens propaganda that blames shortages on Washington rather than domestic mismanagement; two, it rallies nationalist sentiment around the state; three, it makes opposition look like collaboration with a hostile power.",
+            "Second, sanctions-style pressure hits civilians before elites. One, the article describes 9.5 million people facing blackouts, food insecurity, and heat without fans; two, the government can ration pain and protect core security forces longer than ordinary households; three, humanitarian collapse can increase dependence on the state rather than weaken it.",
+            "Third, legal escalation may close off diplomacy and make escalation more likely. One, indicting a former head of state creates a face-saving problem for Havana; two, it reduces room for quiet bargaining over aid and reforms; three, it increases the risk of tit-for-tat retaliation, including military signaling and deeper alignment with Russia or other anti-US partners."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion creates leverage or just pain. Pro wins if the key actor is the Cuban elite and the threat of indictment fractures them; opp wins if the key actor is the population, because the state can absorb elite pressure while civilians bear the costs and nationalism hardens resistance.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Sanctions Blowback",
+        "Rally Around the Flag",
+        "Regime Change",
+        "Humanitarian Harm",
+        "Elite Defection",
+        "Authoritarian Resilience",
+        "Economic Statecraft"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use indictments and sanctions to force regime change in Cuba",
+        "THBT the US should prioritize coercive pressure over diplomatic engagement with authoritarian regimes in its neighborhood",
+        "THP a world where great powers can use legal indictments as tools of foreign policy"
+      ],
+      "data_points": [
+        "Raúl Castro is 94 years old and remains the most potent figure in Cuban politics after Fidel Castro’s death in 2016",
+        "Cuba experienced 22-hour blackouts in Havana amid protests",
+        "Cuba’s energy minister said the island was out of fuel oil: 'We have absolutely nothing'",
+        "Cuba has a population of 9.5 million",
+        "The US has imposed a strict oil blockade on Cuba for the last four months, allowing only one Russian crude carrier, the Anatoly Kolodkin, in for claimed humanitarian reasons",
+        "The US State Department reportedly offered $100m in aid conditional on 'meaningful reforms'",
+        "The Cuban economy has been collapsing for five years"
+      ]
+    },
+    {
+      "id": "3acebc5ca987",
+      "title": "Europe’s Asylum “Return Hubs” Deal Pits Border Control Against ECHR Protections",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
+      "published": "2026-05-15T17:30:06Z",
+      "category": "IR",
+      "region": "Europe / UK / Council of Europe",
+      "background": "The UK and 45 other European countries signed a political declaration in Chişinău, Moldova, endorsing new approaches to irregular migration, including processing asylum claims in third countries and creating third-country “return hubs” for rejected applicants. The declaration says states have an “undeniable sovereign right” to control borders and calls for more scope to deport people even where they may face inhuman or degrading treatment, while limiting courts’ ability to intervene. The Council of Europe has 46 members and oversees the European Convention on Human Rights (ECHR), whose articles 3 and 8 have been central to legal challenges against removals. The UK government says it is already in active negotiations with several countries, while the previous Rwanda scheme cost £715m by 2024 and sent no one before being cancelled as unlawful by the Supreme Court.",
+      "prop_args": [
+        {
+          "thesis": "Return hubs and a tougher ECHR interpretation restore state capacity to control migration and deter irregular arrivals.",
+          "mechanisms": [
+            "First, they increase the credibility of removal. This is because (1) asylum seekers and smugglers currently assume that once someone reaches UK territory they can exploit lengthy legal appeals, (2) third-country hubs create a visible endpoint for rejected claims, and (3) that changes the expected payoff of paying smugglers or attempting small-boat crossings.",
+            "Second, they reduce the domestic bottleneck in asylum processing. Three reasons: one, the UK can separate initial protection claims from final settlement decisions; two, it can remove people who have exhausted claims faster; three, it frees detention, housing, and caseworker capacity for genuinely meritorious cases.",
+            "Third, they strengthen the broader migration-control architecture. This matters because (1) cooperation with transit and destination states gives governments leverage over smuggling routes, (2) multilateral coordination reduces free-riding where one country’s laxity shifts pressure onto neighbours, and (3) visible enforcement reassures voters that the state can still govern borders, reducing the political space for anti-system parties."
+          ]
+        },
+        {
+          "thesis": "Reforming how the ECHR is applied can preserve human rights while preventing courts from turning every removal into a de facto veto on border policy.",
+          "mechanisms": [
+            "First, it recalibrates proportionality rather than abolishing rights. This is because (1) article 3 and article 8 have been interpreted expansively in some cases, (2) governments argue that this blocks removals even for people with weak claims, and (3) a political declaration can signal that public safety and border integrity should weigh more heavily in judicial balancing.",
+            "Second, it protects democratic accountability. Three reasons: one, migration policy is a core political question that voters punish governments for failing to control; two, elected ministers—not judges—should set the threshold for removal policy; three, if courts are seen as overriding repeated electoral mandates, trust in both the judiciary and the convention erodes.",
+            "Third, it preserves the convention by preventing exit pressure. This matters because (1) if mainstream governments cannot reform the system from within, harder-line parties gain traction on outright withdrawal, (2) a managed reform path is less destabilising than a UK or European break with the ECHR, and (3) keeping states inside the human-rights framework is better than letting them abandon it entirely."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Return hubs weaken human rights protections, create legal ambiguity, and are unlikely to materially reduce irregular migration.",
+          "mechanisms": [
+            "First, they erode the non-refoulement norm. One, sending people to third countries where they may face inhuman or degrading treatment risks indirect refoulement; two, political declarations cannot override binding domestic and international case law; three, once courts are pressured to defer, the protection against torture becomes easier to relativise in future cases.",
+            "Second, they are operationally fragile and expensive. One, the Rwanda scheme cost £715m by 2024 and removed nobody, showing how hard these policies are to implement; two, third countries may demand high payments, legal guarantees, or political concessions; three, if the hubs are unsafe or unstable, removals will be blocked again by litigation and public scandal.",
+            "Third, they do little to change the drivers of migration. One, asylum seekers are often fleeing war, persecution, or economic collapse, so deterrence is limited; two, smugglers adapt by shifting routes and pricing rather than disappearing; three, if legal pathways remain scarce, desperate people still attempt crossings regardless of offshore processing."
+          ]
+        },
+        {
+          "thesis": "The deal damages the legitimacy of the ECHR and risks a broader race to the bottom on rights across Europe.",
+          "mechanisms": [
+            "First, it normalises exceptionalism. One, once major states publicly endorse weakening article 3 constraints, smaller states face pressure to follow; two, the declaration signals that rights are conditional on political convenience; three, that undermines the convention’s role as a stable floor of protection.",
+            "Second, it incentivises governments to externalise responsibility. One, hubs shift asylum burdens onto poorer transit states such as Libya, Rwanda, Tunisia, or Uganda; two, those states often have weaker oversight and worse detention conditions; three, Europe effectively exports legal and humanitarian risk rather than solving it.",
+            "Third, it fuels domestic authoritarian politics. One, when governments promise harsh removals but fail to deliver, they empower the far right by validating its framing; two, if removals do happen through legally dubious means, civil liberties groups and minority communities lose trust in institutions; three, the long-run result is more polarisation and less consent for migration policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic deterrence and rights erosion: if return hubs actually work, they may reduce irregular arrivals, but if they fail, the main consequence is a durable weakening of ECHR protections and judicial oversight. Prop has the structural advantage on political salience and state capacity; Opp has the stronger claim on legality, implementation risk, and the irreversibility of normalising rights dilution.",
+      "stock_connections": [
+        "Non-refoulement",
+        "Race to the Bottom",
+        "Human Rights Backsliding",
+        "Judicial Overreach",
+        "Deterrence Theory",
+        "Externalisation of Borders",
+        "Smuggler Adaptation",
+        "Democratic Accountability",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the UK, would establish third-country return hubs for rejected asylum seekers",
+        "THBT European states should be allowed to process asylum claims in third countries",
+        "THP a world where the ECHR is interpreted more narrowly on migration removals",
+        "THBT democracies should prioritise border control over expansive judicial review in asylum cases"
+      ],
+      "data_points": [
+        "46 Council of Europe members signed the Chişinău political declaration",
+        "The UK government says it is in active negotiations with several countries on return hubs",
+        "The Rwanda scheme cost £715m by 2024 and removed no one before being cancelled",
+        "The UK Supreme Court ruled the Rwanda policy unlawful because Rwanda was not a safe country",
+        "The declaration explicitly references articles 3 and 8 of the ECHR",
+        "Discussions have reportedly centred on 11 countries: Armenia, Egypt, Ethiopia, Ghana, Libya, Mauritania, Rwanda, Senegal, Tunisia, Uganda and Uzbekistan",
+        "Austria, Denmark, Germany, Greece and the Netherlands are involved in EU talks on return hubs"
+      ]
+    },
+    {
+      "id": "caa954e4a723",
+      "title": "Partisan Redistricting in Tennessee Erases a Black-Majority Seat and Pushes Democrats Toward Electoral Extinction",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/tennessee-democrat-steve-cohen-ends-re-election-bid",
+      "published": "2026-05-15T17:27:50Z",
+      "category": "IR",
+      "region": "United States (Tennessee)",
+      "background": "On 15 May 2026, Democratic Rep. Steve Cohen announced he would end his re-election bid after Tennessee Republicans enacted a new US House map that carves up his Memphis-based, majority-Black district. The move follows a recent US Supreme Court decision that significantly weakened federal Voting Rights Act protections for minorities, triggering redistricting fights in Tennessee and potentially other Southern states. Cohen, who has represented the district for about two decades, said he may re-enter the race if a court challenge restores the old map.",
+      "prop_args": [
+        {
+          "thesis": "Aggressive partisan redistricting is a legitimate tool for entrenching electoral control when the legal environment no longer protects minority representation.",
+          "mechanisms": [
+            "First, it converts a narrow legislative advantage into durable seat security. This is because (1) the governing party can translate a slim statewide edge into a disproportionate House delegation, (2) it reduces the number of competitive districts that can flip in a wave election, and (3) it insulates incumbents from demographic or national swings.",
+            "Second, it allows parties to respond to judicially created openings in the electoral rules. Three reasons: one, the Supreme Court decision weakened Voting Rights Act constraints, so states now have more room to redraw; two, if one side does not use the new latitude, the other side will, creating a unilateral disarmament problem; three, the map can be framed as restoring “neutral” districting after prior race-conscious line drawing.",
+            "Third, it can improve policy continuity by preventing hostile federal control from swinging on a handful of seats. This matters because a party that holds the chamber can protect its agenda, avoid impeachment threats, and maintain bargaining leverage over federal funding, appointments, and oversight."
+          ]
+        },
+        {
+          "thesis": "Redistricting that fragments minority communities is a democratic harm because it suppresses representation and weakens accountability for historically marginalized voters.",
+          "mechanisms": [
+            "First, it dilutes the voting power of cohesive minority communities. This is because (1) splitting a majority-Black district reduces the chance that Black voters can elect a candidate of choice, (2) it forces minority voters into larger, whiter districts where their preferences are outvoted, and (3) it turns descriptive representation into a casualty of map design rather than voter choice.",
+            "Second, it breaks the link between local communities and their congressional advocate. Three reasons: one, Memphis voters lose a dedicated champion for city-specific projects; two, the representative becomes less accountable to a coherent constituency; three, policy issues like civil rights, transit, and infrastructure receive less sustained attention when the district is carved up.",
+            "Third, it normalizes a race-to-the-bottom in electoral engineering. This matters because once one state successfully uses map manipulation to eliminate opposition seats, other states copy the tactic, escalating polarization and making Congress less representative overall."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Tennessee map is a partisan power grab that undermines minority representation and accelerates democratic backsliding.",
+          "mechanisms": [
+            "First, it disenfranchises a cohesive minority electorate by splitting a majority-Black district. One, Black voters lose the ability to elect a preferred candidate in a district designed around their community; two, the map converts a protected seat into a likely Republican seat; three, it signals that minority political power can be overridden whenever courts weaken federal protections.",
+            "Second, it weakens democratic competition and accountability. One, safe seats reduce incentives for politicians to respond to voters; two, the governing party can entrench itself even when statewide support is close to evenly divided; three, voters lose meaningful choice, especially in states where one party already dominates the legislature.",
+            "Third, it creates a cascading national precedent. One, Tennessee is the first state to pass new congressional districts after the Supreme Court ruling, so it becomes a template; two, Louisiana, Alabama, and South Carolina are already moving toward redistricting; three, if multiple Southern states follow, the cumulative effect is a structural lock-in of Republican House power."
+          ]
+        },
+        {
+          "thesis": "The redistricting effort is strategically short-sighted because it may provoke backlash, litigation, and long-term partisan realignment.",
+          "mechanisms": [
+            "First, it can backfire by mobilizing Democratic turnout and registration. One, visibly stripping a Black-majority district can increase anger and civic engagement; two, it gives Democrats a clear mobilizing narrative about stolen representation; three, if turnout spikes in targeted communities, the expected seat gain may not materialize.",
+            "Second, it invites court challenges and legal uncertainty. One, Cohen is already suing to restore the old district; two, if courts later strike down the map, Republicans waste political capital and create instability; three, repeated redraws can confuse voters and weaken trust in the electoral system.",
+            "Third, it may damage governance and state influence. One, if Tennessee becomes an all-Republican delegation, Democrats in Washington have less incentive to prioritize state projects; two, the state loses bipartisan brokers who can secure federal funding, as Cohen did on infrastructure like the Mississippi River bridge; three, extreme partisan maps can reduce the quality of representation by eliminating moderating voices."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether map-drawing is a defensible response to weakened legal constraints or an illegitimate escalation that strips communities of representation. Prop has the structural advantage on hard-nosed seat maximization, but Opp wins if the round is framed around democratic legitimacy, minority voice, and the long-run race to the bottom in American elections.",
+      "stock_connections": [
+        "Gerrymandering",
+        "Democratic Backsliding",
+        "Minority Vote Dilution",
+        "Race to the Bottom",
+        "Electoral Entrenchment",
+        "Representation vs. Descriptive Representation",
+        "Judicialization of Politics",
+        "Partisan Polarization"
+      ],
+      "motion_areas": [
+        "TH, as a state legislature, would redraw districts to maximize partisan advantage",
+        "THBT US states should be allowed to aggressively gerrymander congressional maps",
+        "THP a world where courts no longer constrain partisan redistricting",
+        "THBT minority-majority districts should be preserved even if they reduce partisan competitiveness"
+      ],
+      "data_points": [
+        "Steve Cohen has represented his Memphis-based district for about two decades",
+        "Tennessee enacted a new US House map in May 2026 that carves up Cohen’s majority-Black district",
+        "The redistricting follows a recent US Supreme Court decision that significantly weakened federal Voting Rights Act protections for minorities",
+        "Republicans in Louisiana, Alabama and South Carolina have also taken steps toward redistricting",
+        "Cohen said Tennessee could shift to an entirely Republican congressional delegation after the next election",
+        "Cohen said the map was drawn to help Donald Trump hold on to a slim House majority in the November midterm elections",
+        "Justin Pearson, a Black Democrat, is continuing his campaign in the newly redrawn ninth congressional district"
+      ]
+    },
+    {
+      "id": "362a6e51574a",
+      "title": "U.S.-China Coordination on Iran Remains Ambiguous as Hormuz Pressure Becomes a Geopolitical Bargaining Chip",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/trump-says-he-didn-t-ask-xi-for-any-favors-on-iran-video",
+      "published": "2026-05-15T17:15:19Z",
+      "category": "IR",
+      "region": "United States / China / Iran / Gulf",
+      "background": "On 15 May 2026, President Donald Trump said he did not ask Chinese President Xi Jinping for any favors regarding Iran. Trump added that Xi largely agrees with him that Iran becoming a nuclear power is risky, but denied asking China to pressure Iran to reopen the Strait of Hormuz. The statement comes against the backdrop of U.S.-China strategic rivalry and recurring concerns that Iran could use disruption in the Strait of Hormuz to threaten global energy flows.",
+      "prop_args": [
+        {
+          "thesis": "Even limited U.S.-China convergence on Iran is strategically valuable because it raises the cost of Iranian escalation and reduces the risk of a wider regional shock.",
+          "mechanisms": [
+            "First, even without a formal deal, public alignment between Washington and Beijing creates a deterrent signal. This is because (1) Iran cannot easily dismiss pressure if both its main oil customer and its main geopolitical adversary are speaking in the same direction, (2) Tehran depends heavily on Chinese demand and sanctions evasion channels, and (3) coordinated rhetoric increases the perceived probability of future material punishment.",
+            "Second, Chinese pressure is uniquely effective on Iran because Beijing has leverage that the U.S. lacks. Three reasons: one, China is one of Iran’s most important trade and energy partners, so it can tighten or loosen economic oxygen; two, China can influence shipping, insurance, and informal oil purchasing networks; three, even modest Chinese signaling can make Iranian elites fear isolation from their most viable external lifeline.",
+            "Third, preventing escalation around the Strait of Hormuz protects the global economy and lowers the chance of miscalculation. This matters because (1) the Strait is a critical chokepoint for energy exports, (2) any disruption quickly transmits into oil prices, inflation, and shipping costs, and (3) de-escalation through great-power coordination is cheaper and faster than relying on military deterrence alone."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This kind of U.S.-China interaction is mostly performative and cannot reliably change Iran’s behavior, while risking strategic confusion and legitimizing China as a regional power broker.",
+          "mechanisms": [
+            "First, China has weak incentives to actually squeeze Iran hard enough to matter. One, Beijing benefits from discounted Iranian energy and therefore prefers ambiguity over enforcement; two, it wants to preserve leverage over both Tehran and Washington, so it avoids binding commitments; three, it will not jeopardize broader anti-U.S. strategic goals for an issue where it can free-ride on American pressure.",
+            "Second, even if China signals concern, Iran may interpret it as bluffing rather than credible coercion. This is because (1) Tehran has repeatedly survived sanctions and pressure by diversifying smuggling and gray-market channels, (2) Iranian leaders can frame external pressure as proof that resistance works, and (3) without concrete enforcement, rhetoric does not change the regime’s core security calculus.",
+            "Third, involving China in Iran diplomacy can backfire by normalizing a multipolar security order that weakens U.S. influence. Three reasons: one, it gives Beijing a seat at Middle East crisis management without corresponding responsibility; two, it encourages allies to hedge by treating China as an indispensable mediator; three, it blurs accountability, making it harder for the U.S. to build a clear coalition for sanctions or deterrence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is credibility versus symbolism: if China’s leverage is real, even partial coordination can materially raise the cost of Iranian escalation; if not, the move is mostly diplomatic theater. Prop wins if it can show that Iran’s dependence on Chinese trade makes even soft pressure consequential, while Opp wins if it proves Beijing will not sacrifice its own interests enough to create any binding constraint.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Coercive Diplomacy",
+        "Deterrence Theory",
+        "Sanctions Evasion",
+        "Energy Security",
+        "Chokepoint Vulnerability",
+        "Multipolarity",
+        "Free-Riding"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would seek Chinese pressure on Iran",
+        "THBT great powers should coordinate on nuclear proliferation even amid strategic rivalry",
+        "THP a world where China acts as a mediator in Middle East security crises",
+        "THBT the U.S. should prioritize de-escalation over unilateral coercion in the Strait of Hormuz"
+      ],
+      "data_points": [
+        "Trump said he did not ask Xi Jinping for any favors on Iran",
+        "Trump said Xi largely agrees that Iran becoming a nuclear power is risky",
+        "Trump said he did not ask China to pressure Iran to reopen the Strait of Hormuz",
+        "The Strait of Hormuz is the key maritime chokepoint for Gulf energy exports"
+      ]
+    },
     {
       "id": "103147451f3b",
       "title": "UAE Pipeline Expansion Signals Gulf Shift Away From Hormuz Chokepoint Dependence",
@@ -70,6 +1053,61 @@
         "The Strait of Hormuz previously carried around one-fifth of the world’s oil",
         "Saudi Arabia’s East-West pipeline is 1,200km long from Abqaia to Yanbu",
         "The UAE announced its departure from OPEC last month to focus on 'national interests'"
+      ]
+    },
+    {
+      "id": "77a46d4c73f8",
+      "title": "Trump-Xi Trade Truce Could Reprice Global Tail Risks and Reset the World Economy",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/trump-xi-summit-offers-some-clarity-for-the-world-economy-by-shang-jin-wei-2026-05",
+      "published": "2026-05-15T16:48:05Z",
+      "category": "Econ",
+      "region": "United States / China / Global",
+      "background": "Donald Trump and Xi Jinping held a summit in Beijing in May 2026, with the optics designed to signal parity between the two powers. The article says the summit could produce a sustained Sino-American trade truce and a path to reopening the Strait of Hormuz, which would reduce the global economy's tail risks after roughly a year and a half of heightened uncertainty. Trump was accompanied by senior US business leaders including Tesla's Elon Musk, Apple's Tim Cook, Boeing's Kelly Ortberg, and Nvidia's Jensen Huang, reflecting the stakes for firms dependent on stable US-China relations.",
+      "prop_args": [
+        {
+          "thesis": "A durable Trump-Xi trade truce would be a global economic stabilizer because it lowers uncertainty, restores investment planning, and reduces the probability of cascading supply-chain shocks.",
+          "mechanisms": [
+            "First, it reduces policy uncertainty for firms exposed to both markets. This is because (1) companies can no longer assume tariffs, export controls, or retaliatory restrictions will escalate arbitrarily, (2) lower uncertainty raises capital expenditure and hiring by making future cash flows more predictable, and (3) multinationals can resume long-horizon planning in semiconductors, autos, aviation, and consumer tech.",
+            "Second, it prevents a feedback loop of retaliation that would otherwise fragment trade. Three reasons: one, US tariffs invite Chinese countermeasures on critical inputs and market access; two, firms then reroute supply chains at high cost, raising prices globally; three, once supply chains are duplicated for political reasons, the world economy becomes permanently less efficient and more inflationary.",
+            "Third, it improves global financial sentiment by cutting tail-risk pricing. This matters because markets do not need a perfect relationship to rally; they need a credible ceiling on escalation, and even partial détente lowers risk premia, supports equity valuations, and reduces the chance of a shock-driven recession."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit may create only a temporary pause, not a real reset, because the underlying strategic rivalry between the US and China still makes trade conflict and decoupling structurally likely.",
+          "mechanisms": [
+            "First, the truce is fragile because the core dispute is geopolitical, not just commercial. (1) The US wants to constrain China's technological rise through export controls and alliance coordination, (2) China sees those measures as containment and will keep building self-sufficiency, and (3) any future shock in Taiwan, semiconductors, or security policy can instantly collapse the truce.",
+            "Second, firms may not reverse diversification even if tariffs ease. (1) Companies have already spent heavily on 'China-plus-one' supply chains, (2) boardrooms will treat the truce as reversible and keep hedging, and (3) that means the agreement may reduce panic without restoring the pre-conflict level of trade or investment.",
+            "Third, the summit can entrench a managed rivalry that still harms the world economy. (1) A narrow truce can legitimize selective coercion and bargaining-by-threat, (2) it may encourage both sides to weaponize market access more strategically, and (3) that leaves global trade more politicized, less rules-based, and more vulnerable to future shocks."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the summit changes expectations or merely delays conflict. Prop wins if the key effect is a credible reduction in tail risks that unlocks investment and stabilizes markets; Opp wins if structural US-China rivalry means any truce is too shallow and reversible to matter for real economic behavior.",
+      "stock_connections": [
+        "Trade War",
+        "Policy Uncertainty",
+        "Decoupling",
+        "Supply Chain Resilience",
+        "Tail Risk",
+        "Risk Premiums",
+        "Managed Rivalry",
+        "Economic Interdependence"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue a trade truce with China despite strategic rivalry",
+        "THBT major powers should prioritize economic stabilization over long-term decoupling",
+        "THP a world where the US and China maintain a durable trade détente",
+        "THBT firms should continue China-plus-one diversification even after a trade truce",
+        "TH, as China, would reopen market access to US firms in exchange for reduced tariffs"
+      ],
+      "data_points": [
+        "Trump was the first US president to visit mainland China in nearly a decade",
+        "The summit included CEOs from Tesla, Apple, Boeing, and Nvidia",
+        "The article frames the last year and a half as a period of elevated global tail risks",
+        "A sustained Sino-American trade truce is presented as a potential driver of lower global uncertainty",
+        "The article also links the summit to a possible reopening of the Strait of Hormuz, another major global energy-shipping chokepoint"
       ]
     },
     {
@@ -290,6 +1328,60 @@
       ]
     },
     {
+      "id": "3a43b38f8c5e",
+      "title": "Hyundai Lobby Exit Signals How Tariffs Force Foreign Automakers to Reprice, Reorganize, or Retreat in the US",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/hyundai-s-top-us-lobbyist-to-depart-after-one-year-in-key-role",
+      "published": "2026-05-15T16:30:46Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "Bloomberg reports that Hyundai Motor Co. is preparing to increase prices across all of its US vehicles to cushion the impact of tariffs imposed by President Donald Trump. The article also says Hyundai’s top US lobbyist is set to depart after roughly one year in the role, suggesting a period of strategic adjustment in the company’s Washington-facing operations. The photo caption places the company’s US retail presence in Richmond, California, and the reporting is dated May 15, 2026.",
+      "prop_args": [
+        {
+          "thesis": "Tariffs on imported cars and components force foreign automakers to pass costs onto consumers and reorganize their US strategy, which makes protectionism a blunt but effective industrial policy tool.",
+          "mechanisms": [
+            "First, tariffs raise the landed cost of imported vehicles and parts, so firms cannot absorb the shock indefinitely. This is because (one) margins in mass-market auto sales are thin, (two) supply chains are globally integrated, and (three) a company like Hyundai has to protect profitability across its entire US lineup rather than only on a few premium models.",
+            "Second, the tariff shock pushes firms to localize production, sourcing, and political engagement in the United States. Three reasons: one, building or expanding US capacity becomes cheaper than paying recurring border taxes; two, firms need lobbyists and compliance teams to navigate exemptions, rules of origin, and future tariff changes; three, the policy shifts bargaining power toward domestic plants, suppliers, and workers.",
+            "Third, the consumer price increase is politically useful because it makes the cost of foreign dependence visible. This matters because (1) it weakens the perception that globalization delivers cheap goods without strategic vulnerability, (2) it creates pressure on foreign firms to invest locally if they want market access, and (3) it can support a broader reshoring agenda in politically salient sectors like autos."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Tariffs on foreign automakers mainly function as a consumer tax that distorts markets without guaranteeing durable domestic industrial gains.",
+          "mechanisms": [
+            "First, the cost is passed through to buyers rather than absorbed by firms. One, automakers face limited room to eat tariff costs because vehicle pricing is already constrained by competition; two, higher prices reduce demand and hurt sales volumes; three, lower sales can then reduce dealer activity, service revenue, and downstream employment.",
+            "Second, tariffs do not automatically create competitive US manufacturing capacity. One, building plants takes years, capital, and permitting, so firms may simply delay investment rather than localize; two, companies can re-route supply chains through third countries or redesign products to minimize tariff exposure; three, the policy can protect inefficient incumbents instead of generating innovation.",
+            "Third, the departure of a top lobbyist suggests firms will spend more on political defense, not productive investment. This matters because (1) resources are diverted into rent-seeking and regulatory arbitrage, (2) uncertainty makes long-term planning harder for suppliers and workers, and (3) the policy can trigger tit-for-tat trade retaliation that hurts US exporters in other sectors."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the tariff-induced price rise is a feature or a bug: prop says it disciplines foreign firms into localizing and strengthens domestic industry, while opp says it mostly transfers costs to consumers and creates uncertainty. This argument wins because the immediate, certain effect is higher prices, whereas any reshoring or industrial upgrading is slower, conditional, and easier for firms to evade.",
+      "stock_connections": [
+        "Protectionism",
+        "Industrial Policy",
+        "Consumer Tax",
+        "Race to the Bottom",
+        "Reshoring",
+        "Trade War",
+        "Rent-Seeking",
+        "Supply Chain Resilience",
+        "Comparative Advantage"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would impose tariffs on imported automobiles",
+        "THBT governments should use tariffs to force industrial reshoring",
+        "THP a world where foreign automakers are taxed to subsidize domestic manufacturing",
+        "THBT protectionism is a justified tool for strategic industries"
+      ],
+      "data_points": [
+        "Hyundai is preparing to increase the price of all of its US vehicles in response to tariffs",
+        "The tariffs were imposed by President Donald Trump",
+        "Hyundai’s top US lobbyist is departing after about one year in the role",
+        "The report is dated 2026-05-15"
+      ]
+    },
+    {
       "id": "660d0ca42f9e",
       "title": "Israel’s Libel Threat Against the New York Times Becomes a Test of Press Freedom and Wartime Accountability",
       "source": "BBC",
@@ -493,6 +1585,63 @@
         "Western diplomats say the proposal could allow Iran to arbitrarily select which ships may pass, including by nationality of ownership",
         "Iran signed Unclos in 1982 but never ratified it",
         "The US says there can be no permanent solution involving payment of a toll to Iran"
+      ]
+    },
+    {
+      "id": "4ce1f333551f",
+      "title": "Kazakhstan Rewrites Victory Day to Signal Distance From Russia and a More Independent Foreign Policy",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/the-fall-of-victory-day-in-kazakhstan/",
+      "published": "2026-05-15T15:56:00Z",
+      "category": "IR",
+      "region": "Kazakhstan / Russia / Former Soviet space",
+      "background": "Kazakhstan has steadily reduced Soviet symbolism in its Victory Day commemorations, especially after Russia’s full-scale invasion of Ukraine in 2022. The last full Victory Day parade in Kazakhstan was in Almaty in 2019; this year there were no military parades, and the main public march in Almaty was approved only on May 7, then held under the renamed Tribute to the Heroes banner with Kazakh flags outnumbering Soviet ones. President Kassym-Jomart Tokayev attended Russia’s May 9 commemoration in Moscow, but his domestic message emphasized Kazakh bravery and national identity rather than Soviet victory nostalgia.",
+      "prop_args": [
+        {
+          "thesis": "Kazakhstan’s de-Sovietized Victory Day is a low-cost but strategically important way to reduce Russian soft-power leverage and assert sovereign identity.",
+          "mechanisms": [
+            "First, it weakens Russia’s narrative monopoly over post-Soviet history. This is because (1) Victory Day has been one of Moscow’s most powerful symbolic tools for binding the former Soviet space to a shared imperial memory, (2) replacing Soviet flags and St. George ribbons with Kazakh symbols shifts public loyalty away from Moscow, and (3) once the state normalizes alternative commemorations, future generations internalize a national rather than Russian-centered identity.",
+            "Second, it gives Astana more room to pursue a multi-vector foreign policy without looking ideologically subordinate to Russia. Three reasons: one, symbolic distancing makes it easier to deepen ties with the EU and US without domestic accusations of betrayal; two, it signals to other partners that Kazakhstan is not in Russia’s cultural orbit; three, it reduces the diplomatic cost of resisting Russian pressure on security, trade, or sanctions compliance.",
+            "Third, it helps Kazakhstan manage long-term regime security by aligning nationalism with state institutions rather than imported Soviet memory. This matters because a state-sponsored national narrative is easier to control than a transnational Russian one, and because the more Kazakhstan’s legitimacy rests on Kazakh symbols and armed forces, the less vulnerable it is to Russian information influence and historical revisionism."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The symbolic downgrade of Victory Day is mostly cosmetic and risks provoking Russia without materially improving Kazakhstan’s strategic position.",
+          "mechanisms": [
+            "First, Kazakhstan still depends heavily on Russia, so symbolic distancing cannot translate into real autonomy. One, Kazakhstan remains tied to Russian geography, transit routes, and security architecture; two, Tokayev still attended Moscow’s parade, showing continued diplomatic deference; three, if Russia chooses to retaliate economically or politically, Kazakhstan lacks the leverage to absorb major costs.",
+            "Second, the policy may alienate a substantial pro-Soviet or Russian-speaking constituency at home. One, Victory Day and the Immortal Regiment remain popular across the former Soviet space; two, abrupt changes can be read as erasing veterans’ memory rather than modernizing commemoration; three, this creates domestic polarization and gives Moscow-friendly actors a grievance to mobilize around.",
+            "Third, the shift may be more reactive than strategic, meaning it creates uncertainty without delivering clear gains. One, the change accelerated after Russia’s invasion of Ukraine, so it looks like hedging under pressure rather than confident statecraft; two, inconsistent approvals of marches and last-minute decisions suggest weak policy coherence; three, symbolic ambiguity can undermine credibility with both Russia and Western partners."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbols actually move geopolitical alignment. Prop wins if you think identity and memory are upstream of foreign policy behavior, because even low-cost symbolic shifts can compound into real autonomy over time. Opp wins if you think Kazakhstan’s material dependence on Russia caps the strategic value of any commemorative change and makes retaliation the more immediate, concrete risk.",
+      "stock_connections": [
+        "Soft Power",
+        "Sphere of Influence",
+        "National Identity Formation",
+        "Multi-Vector Foreign Policy",
+        "Post-Colonial Statecraft",
+        "Historical Revisionism",
+        "Democratic Backsliding",
+        "Information Warfare",
+        "Small State Hedging"
+      ],
+      "motion_areas": [
+        "TH, as Kazakhstan, would de-emphasize Soviet-era commemorations",
+        "THBT post-Soviet states should replace Soviet victory holidays with national remembrance days",
+        "THP a world where former Soviet states publicly distance themselves from Russian historical narratives",
+        "TH, as a small state in Russia’s sphere of influence, would prioritize symbolic sovereignty over historical continuity"
+      ],
+      "data_points": [
+        "The last full Victory Day parade in Kazakhstan was in Almaty in 2019",
+        "No military parades were held anywhere in Kazakhstan in 2026 for Victory Day",
+        "Astana’s 80th-anniversary parade in 2025 was held on May 7, not May 9",
+        "Tokayev was one of only two Central Asian heads of state present at Russia’s May 9 commemoration",
+        "Almaty’s mayor approved the Immortal Regiment march only on May 7 before the event",
+        "During the march, a participant shouted 'Glory to the Red Army' and was booed by much of the crowd",
+        "Kazakh flags and turquoise-and-yellow ribbons outnumbered Soviet symbols at the Almaty procession"
       ]
     },
     {
@@ -1000,6 +2149,59 @@
       ]
     },
     {
+      "id": "870aaeebbef5",
+      "title": "India–Netherlands Ties Evolve From Trade Corridor to Indo-Pacific Strategic Partnership",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/india-and-the-netherlands-from-quiet-cooperation-to-strategic-partnership/",
+      "published": "2026-05-15T14:24:00Z",
+      "category": "IR",
+      "region": "India / Netherlands / EU / Indo-Pacific",
+      "background": "Indian Prime Minister Narendra Modi’s visit to the Netherlands in May 2026 is expected to produce an official strategic partnership after months of preparation. The Netherlands is now the main EU destination for Indian goods exports, largely because Rotterdam functions as a major entry hub for Asian imports into Europe, while Dutch firms are increasingly using India in China+1 diversification strategies. The relationship has expanded beyond trade into semiconductors, AI, green hydrogen, digital infrastructure, climate adaptation, and water management, and it is being framed against the backdrop of the Ukraine war, US-China rivalry, and Europe’s growing focus on economic security.",
+      "prop_args": [
+        {
+          "thesis": "A formal India–Netherlands strategic partnership is valuable because it converts an under-the-radar economic relationship into a durable geopolitical and supply-chain alignment for both sides.",
+          "mechanisms": [
+            "First, it gives both states a credible diversification channel away from China-centric dependency. This is because (1) Dutch firms need a large non-China production base for China+1 strategies, (2) India needs advanced European capital, logistics, and technology to scale manufacturing, and (3) formal state backing lowers transaction costs and political risk for long-horizon investment.",
+            "Second, it strengthens Europe’s economic security architecture through a trusted gateway relationship. Three reasons: one, the Netherlands already functions as the main EU entry point for Indian exports via Rotterdam, two, deeper cooperation can harden supply chains in semiconductors, AI, and green tech, and three, embedding India in EU-facing logistics reduces vulnerability to single-country chokepoints.",
+            "Third, it creates strategic leverage in the Indo-Pacific and broader multipolar order. This matters because (1) the Netherlands gains a partner with scale and maritime relevance in a region central to global trade, (2) India gains a European advocate beyond France and Germany, and (3) both can coordinate on open sea lanes, resilient trade routes, and rules-based connectivity at a time of rising great-power competition."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The partnership is mostly symbolic and risks overpromising because the bilateral relationship lacks the political depth and strategic necessity needed to justify a major diplomatic upgrade.",
+          "mechanisms": [
+            "First, the relationship is structurally shallow and elite-driven rather than society-wide. One, the article says cooperation has mainly been technical and economic, two, public visibility remains low and the visit was only confirmed late, and three, without broad domestic buy-in the partnership will not survive changes in leadership or external shocks.",
+            "Second, the strategic label may create expectations that neither side can operationalize. One, the Netherlands is a medium-sized European state with limited independent geopolitical weight, two, India still prioritizes larger European partners like France and Germany, and three, if the partnership does not produce concrete security or market-access gains, it becomes diplomatic branding rather than policy substance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether formalization creates real strategic capacity or just repackages existing trade. Prop wins if you value supply-chain resilience and diversification under current US-China and Europe-China tensions; opp wins if you think strategic partnerships only matter when they unlock hard security commitments or major market access, which this relationship may still lack.",
+      "stock_connections": [
+        "Economic Security",
+        "Supply Chain Resilience",
+        "China+1 Diversification",
+        "Interdependence as Leverage",
+        "Small State Hedging",
+        "Multipolarity",
+        "Trade Dependency",
+        "Institutional Deepening"
+      ],
+      "motion_areas": [
+        "TH, as the Netherlands, would prioritize a strategic partnership with India",
+        "THBT middle powers should formalize strategic partnerships with rising Asian powers to reduce dependence on China",
+        "THP a world where the EU treats India as a core strategic partner",
+        "THBT India should deepen strategic alignment with smaller European states over exclusive focus on France and Germany"
+      ],
+      "data_points": [
+        "The Netherlands is the main destination within the EU for Indian goods exports, largely because Rotterdam is a major hub for Asian imports into Europe",
+        "Modi’s Netherlands visit in May 2026 is expected to announce an official strategic partnership",
+        "The EU-India Free Trade Agreement was strengthened earlier in 2026",
+        "Dutch companies are increasingly using India in China+1 diversification strategies",
+        "New cooperation areas named in the article include semiconductors, artificial intelligence, green hydrogen, digital infrastructure, climate adaptation, and water management"
+      ]
+    },
+    {
       "id": "f5d417a83b4f",
       "title": "Trump’s Taiwan Ambiguity Risks Weakening Deterrence and Forcing Beijing to Test the Line",
       "source": "BBC",
@@ -1052,6 +2254,66 @@
         "China has not ruled out taking Taiwan by force",
         "Taiwan is a self-governing island and a long-standing US ally",
         "The US is legally bound to provide Taiwan with the means to defend itself"
+      ]
+    },
+    {
+      "id": "cb8d60fd23c5",
+      "title": "Southeast Asia’s Drone Arms Race Rewards Adaptation Over Cheap Jamming",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/southeast-asias-counter-drone-efforts/",
+      "published": "2026-05-15T14:10:00Z",
+      "category": "IR",
+      "region": "Southeast Asia (Malaysia, Singapore, Indonesia, Cambodia, Thailand)",
+      "background": "Southeast Asian militaries are rapidly expanding counter-drone capabilities after lessons from Russia-Ukraine, the Middle East, and the Thailand-Cambodia border clashes. Malaysia unveiled a locally developed interceptor drone called “The Ghost,” Singapore said every basic military recruit will learn drone and counter-drone operations and created a Counter-UAS Development and Operations group, and Thailand established a UAS warfare center and battalion after Cambodian fiber-optic drones proved difficult to stop. The article argues that effective defense now requires a multilayered system: detection, AI-based identification, non-kinetic disruption, high-energy weapons, and kinetic interception.",
+      "prop_args": [
+        {
+          "thesis": "Southeast Asian states should prioritize layered, adaptive counter-drone ecosystems over single-point fixes like jammers, because drone warfare is now a fast-moving attritional contest.",
+          "mechanisms": [
+            "First, a multilayered defense increases the probability of stopping drones at different stages of the kill chain. One, detection systems such as RF, acoustic, radar, and infrared sensors catch drones earlier. Two, AI decision-support can fuse sensor data to identify friendly versus hostile drones and prioritize threats. Three, if one layer fails, jamming, spoofing, cyber takeover, lasers, HPM, interceptor drones, nets, or conventional air defense can still engage the target.",
+            "Second, adaptation matters more than any single technology because drone-counterdrone cycles are moving faster than procurement cycles. One, Thailand’s jammers were ineffective against Cambodian fiber-optic drones. Two, drones with turbojet engines can fly two or three times faster and higher than interceptor drones, making yesterday’s solution obsolete. Three, states that build flexible doctrine and work with startups can update faster than adversaries can innovate.",
+            "Third, layered systems reduce the strategic cost-exchange problem that favors cheap drones over expensive missiles. One, a Patriot missile costs about $4 million while a Shahed drone costs roughly $20,000 to $50,000. Two, high-energy weapons and interceptor drones offer much lower per-shot costs, making sustained defense feasible. Three, if Southeast Asian militaries keep firing expensive missiles at cheap drones, they will bleed readiness and budget over time."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Southeast Asian states should be cautious about overinvesting in sophisticated counter-drone systems because the civilian, financial, and escalation costs can outweigh the security gains.",
+          "mechanisms": [
+            "First, electronic warfare tools like jamming and spoofing create broad collateral disruption. One, GNSS jamming can interfere with aviation, shipping, and telecommunications. Two, spoofing can misdirect not just hostile drones but also civilian navigation systems and nearby platforms. Three, in dense Southeast Asian air and maritime corridors, that spillover can impose major economic costs.",
+            "Second, the most advanced layers are expensive and may still be outpaced by innovation. One, lasers, HPM, AI systems, and interceptor drones require sustained R&D, integration, and training budgets that smaller militaries may struggle to maintain. Two, adversaries can respond with fiber-optic links, turbojet engines, swarm tactics, or autonomous routing that reduce the effectiveness of current defenses. Three, this creates a perpetual procurement race that benefits defense firms more than national security.",
+            "Third, militarizing drone defense can normalize escalation and lower the threshold for border conflict. One, dedicated UAS battalions and counter-UAS centers signal that states expect drone warfare as a routine tool of coercion. Two, once both sides invest in drone and counter-drone assets, border incidents become more frequent and more automated. Three, this can harden rivalries, especially in contested areas like the Thailand-Cambodia border, rather than encouraging de-escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between operational resilience and cost/escalation risk. Prop wins if the round is about immediate battlefield survivability and avoiding a catastrophic cost-exchange ratio; opp wins if the judge prioritizes civilian spillovers and the danger that an arms race in counter-drone tech entrenches militarized border tensions.",
+      "stock_connections": [
+        "Arms race",
+        "Cost-exchange ratio",
+        "Security dilemma",
+        "Military innovation cycle",
+        "Escalation",
+        "Civilian spillover",
+        "Procurement inefficiency",
+        "Technological adaptation",
+        "Deterrence by denial"
+      ],
+      "motion_areas": [
+        "TH, as Southeast Asian states, would prioritize layered counter-drone defenses over offensive drone capabilities",
+        "THBT Southeast Asian militaries should invest in counter-drone systems rather than traditional air defense",
+        "THP a world where states rely on AI-enabled layered defenses to counter drone warfare",
+        "THBT developing countries should adopt low-cost counter-UAS systems instead of expensive missile-based air defense"
+      ],
+      "data_points": [
+        "Malaysia unveiled a locally developed interceptor drone called “The Ghost”",
+        "Singapore said every recruit entering basic military training will learn drone and counter-drone operations",
+        "Singapore established the SAF Counter-Unmanned Aerial System (UAS) Development and Operations group",
+        "Thailand created a UAS warfare center and a UAS battalion after clashes with Cambodia",
+        "Cambodia used fiber-optic drones against Thailand in border clashes last year",
+        "A Patriot missile costs approximately $4 million",
+        "A Shahed drone may cost between $20,000 and $50,000",
+        "The Chinese Norinco Hurricane 3000 can disable drones at ranges exceeding 3 kilometers",
+        "Operational costs of HPM weapons can be as low as a few yuan per shot",
+        "Russian drones with turbojet engines can fly two or three times faster and at higher altitudes than interceptor drones"
       ]
     },
     {
@@ -1109,6 +2371,62 @@
       ]
     },
     {
+      "id": "e80540904b99",
+      "title": "Trump-Xi Thaw Gives Pakistan Breathing Room to Multi-Align Between Washington, Beijing, and Tehran",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/pakistan-and-the-trump-xi-summit-in-beijing/",
+      "published": "2026-05-15T14:04:00Z",
+      "category": "IR",
+      "region": "Pakistan / China / United States / West Asia / Strait of Hormuz",
+      "background": "U.S. President Donald Trump and Chinese President Xi Jinping met in Beijing in May 2026 after the visit had originally been planned for April but was delayed by the Israel-U.S. war on Iran. The summit took place amid a fragile U.S.-Iran ceasefire, maritime disruption in the Strait of Hormuz, and wider regional instability affecting South Asia and the Gulf. Pakistan had recently played a diplomatic role in helping broker and extend a two-week ceasefire between the U.S. and Iran, and China has encouraged Islamabad to continue mediation efforts.",
+      "prop_args": [
+        {
+          "thesis": "A reduction in U.S.-China confrontation is net good for Pakistan because it lowers the cost of balancing, reduces regional shocks, and expands Islamabad’s room for pragmatic diplomacy and economic cooperation.",
+          "mechanisms": [
+            "First, it reduces the pressure on Pakistan to choose sides. This is because (1) Pakistan’s foreign policy depends on simultaneously managing ties with the U.S., China, Iran, and Gulf states, (2) great-power rivalry turns every regional issue into a loyalty test, and (3) lower rivalry lets Islamabad preserve access to all sides without triggering retaliation from any one bloc.",
+            "Second, it lowers material economic costs created by regional instability. Three reasons: one, conflict around the Strait of Hormuz raises energy and shipping costs for Pakistan and its neighbors; two, reduced U.S.-China tension makes it easier to coordinate on reopening maritime routes and stabilizing trade flows; three, calmer great-power relations reduce the risk premium on investment and trade in South Asia.",
+            "Third, it creates space for development-focused diplomacy instead of crisis management. This matters because Pakistan can spend more political capital on CPEC’s next phase, agricultural modernization, and connectivity projects rather than emergency mediation, and because middle powers gain leverage when they can present themselves as useful intermediaries rather than frontline battlegrounds."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit does not meaningfully help Pakistan because great-power rapprochement is unstable, instrumental, and likely to leave Pakistan exposed to pressure from all sides without solving its core vulnerabilities.",
+          "mechanisms": [
+            "First, any U.S.-China thaw is likely tactical rather than structural. One, the article itself notes that Taiwan, West Asia, and maritime security remain unresolved flashpoints; two, temporary coordination can collapse once interests diverge again; three, Pakistan cannot build long-term strategy on a relationship that may reverse after the next crisis.",
+            "Second, improved U.S.-China relations can actually reduce Pakistan’s bargaining power. One, when Washington and Beijing are less hostile, Pakistan’s value as a bridge or intermediary declines; two, Pakistan loses the ability to extract concessions by playing one side against the other; three, both powers may then expect compliance rather than reward mediation.",
+            "Third, the underlying economic and security problems are local, not just geopolitical. One, Pakistan still faces energy dependence, weak growth, and fiscal strain; two, maritime stabilization does not automatically fix domestic governance or investment bottlenecks; three, even with better great-power relations, Pakistan may still be forced into difficult trade-offs over sanctions, security cooperation, and regional alignments."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether great-power détente creates durable structural space for Pakistan or merely temporary diplomatic breathing room. The proposition wins if the round is about immediate economic and strategic relief; the opposition wins if it frames Pakistan’s dependence on external balancing as fragile and ultimately unable to solve deeper domestic constraints.",
+      "stock_connections": [
+        "Multi-alignment",
+        "Great Power Competition",
+        "Small State Hedging",
+        "Security Dilemma",
+        "Trade Interdependence",
+        "Regional Stability",
+        "Dependency Theory",
+        "Middle Power Diplomacy",
+        "Economic Statecraft"
+      ],
+      "motion_areas": [
+        "TH, as Pakistan, would welcome a U.S.-China thaw",
+        "THBT small states benefit more from great-power cooperation than from great-power competition",
+        "THP a world where regional middle powers can mediate between rival superpowers",
+        "THBT Pakistan should prioritize multi-alignment over bloc politics"
+      ],
+      "data_points": [
+        "Trump’s Beijing visit was originally planned for April 2026 but delayed by the Israel-U.S. war on Iran",
+        "Pakistan helped broker and extend a two-week ceasefire between the U.S. and Iran",
+        "The summit agenda expanded to include reopening critical maritime routes and resolving the Iran dispute",
+        "The Strait of Hormuz disruption raised energy prices and forced countries like Pakistan, India, and Sri Lanka to source oil elsewhere",
+        "Pakistan’s CPEC next phase is framed around agriculture, technology, and connectivity",
+        "The article cites Pakistan’s 1971 role in facilitating the U.S.-China rapprochement that led to Kissinger’s July 1971 Beijing visit and Nixon’s 1972 trip"
+      ]
+    },
+    {
       "id": "9613ab909525",
       "title": "Supreme Court Weakening of Voting Rights Act Enables Southern Republicans to Rebuild Black Vote Suppression Through Redistricting",
       "source": "Guardian",
@@ -1162,6 +2480,134 @@
         "Bennie Thompson has represented Mississippi’s second district since 1993",
         "Mississippi once had more than 100 Black elected officials across state and local levels during Reconstruction",
         "The VRA was passed in 1965 and helped elect Mississippi’s first Black state representative since Reconstruction in 1967"
+      ]
+    },
+    {
+      "id": "6f962be49ffa",
+      "title": "Vietnam Uses Rare Earths to Bargain for Autonomy Without Fully Choosing a Side",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/what-takaichis-hanoi-visit-reveals-about-vietnams-critical-minerals-strategy/",
+      "published": "2026-05-15T14:00:00Z",
+      "category": "Econ",
+      "region": "Vietnam / Japan / China / United States",
+      "background": "On May 1, 2026, Japanese Prime Minister Takaichi Sanae visited Hanoi and, with Vietnamese Prime Minister Le Minh Hung, signed six cooperation documents and launched the first project under Japan’s POWERR Asia Initiative. The joint statement elevated \"economic security\" — including energy, critical minerals, semiconductors, AI, and space — as a new priority in bilateral ties, with rare earth supply chains explicitly included. Vietnam’s January 1, 2026 amended Law on Geology and Minerals classified rare earths as a special strategic mineral, banned export of unprocessed rare earth ore, and restricted exploration, mining, and processing rights to state-designated or state-approved enterprises.",
+      "prop_args": [
+        {
+          "thesis": "Vietnam’s critical minerals strategy is a smart model of strategic autonomy that lets it extract technology, capital, and bargaining power without becoming a client state of either China or the West.",
+          "mechanisms": [
+            "First, state control over extraction and export gives Hanoi bargaining leverage over foreign partners. This is because (1) banning unprocessed ore exports forces investors to negotiate for processing access rather than simple resource extraction, (2) restricting rights to state-approved firms keeps the government in the driver’s seat, and (3) selective partnerships with Japan, Russia, and South Korea let Vietnam shop for the best technology and financing terms instead of locking into one bloc.",
+            "Second, rare earth policy can be integrated into industrial upgrading rather than raw commodity dependence. Three reasons: one, Vietnam’s legal changes explicitly push the country toward domestic refining and higher value capture; two, Japan’s involvement signals a pathway to transfer processing know-how and capital; three, aligning minerals with energy and semiconductor policy creates a broader industrial ecosystem rather than a one-off mining boom.",
+            "Third, strategic autonomy reduces geopolitical vulnerability in a fragmented supply chain world. This matters because (1) China’s dominance in refining has already been weaponized through export licensing, (2) the United States is building coalitions but cannot offer a single dominant alternative, and (3) middle powers like Vietnam gain leverage by refusing binary alignment and making both sides compete for access."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Vietnam’s strategy is over-ambitious and likely to produce low value capture, high costs, and continued dependence on foreign powers despite the rhetoric of autonomy.",
+          "mechanisms": [
+            "First, Vietnam lacks the domestic industrial base to turn mineral control into real downstream power. One, Dong Pao and other major reserves remain undeveloped despite announced partnerships, two, high-purity rare earth oxide processing capacity is still thin, and three, most ore has historically been exported for refining elsewhere, meaning Hanoi may control the resource but not the profitable part of the chain.",
+            "Second, the economics of domestic processing are structurally unattractive. One, industrial electricity averaged 2,204 Vietnamese dong per kWh in 2025, two, energy costs already make up 25 to 35 percent of expenses in adjacent heavy industries like aluminum and tungsten, and three, without subsidies or cheaper power, Vietnam cannot compete with established processors, so the policy risks becoming symbolic rather than transformative.",
+            "Third, Vietnam’s autonomy is incomplete because its broader manufacturing model still depends on China. One, VinFast and other industrial exporters rely on Chinese battery cell technology and chassis integration, two, rare earth controls do not remove China’s leverage over downstream components, and three, this means Vietnam may simply shift dependence from raw ore buyers to technology suppliers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether state control over a strategic resource actually translates into industrial power. Prop wins if the question is bargaining leverage and sovereignty; opp wins if the question is whether Vietnam can realistically build a competitive downstream sector, because the capital, energy, and technology constraints are immediate and structural.",
+      "stock_connections": [
+        "Strategic Autonomy",
+        "Resource Nationalism",
+        "Dependency Theory",
+        "Value Chain Upgrading",
+        "Dutch Disease",
+        "Great Power Competition",
+        "Supply Chain Resilience",
+        "Industrial Policy",
+        "State Capacity"
+      ],
+      "motion_areas": [
+        "TH, as Vietnam, would prioritize strategic autonomy over bloc alignment in critical minerals policy",
+        "THBT developing nations with critical mineral reserves should restrict raw ore exports",
+        "THP a world where middle powers use strategic resources to hedge between China and the West",
+        "THBT states should nationalize or tightly regulate rare earth extraction and processing",
+        "TH, as Japan, would deepen critical minerals partnerships with Vietnam despite its non-aligned posture"
+      ],
+      "data_points": [
+        "Vietnam’s amended Law on Geology and Minerals took effect on 2026-01-01 and classifies rare earths as a special strategic mineral",
+        "The law bans export of unprocessed rare earth ore and restricts mining/processing rights to state-designated or state-approved enterprises",
+        "Between October 2023 and July 2024, 14 people were arrested in the Yen Phu rare earth case, including chairmen of two major firms",
+        "Authorities said more than 291,000 tons of rare earth and iron ore were extracted and sold, with some smuggled to China via falsified customs documents",
+        "China processes between 85 and 100 percent of global rare earth refining",
+        "In April 2025, China imposed export licensing on seven heavy rare earth elements",
+        "The United States convened 55 partner countries at the Critical Minerals Ministerial since February 2026",
+        "Washington has signed 13 new bilateral mineral agreements and launched Project Vault as a strategic stockpile",
+        "Vietnam holds the world’s sixth-largest rare earth reserves",
+        "Industrial electricity costs in Vietnam averaged 2,204 Vietnamese dong per kilowatt-hour in 2025",
+        "Electricity accounts for 25 to 35 percent of total expenses in adjacent heavy industries such as aluminum and tungsten production"
+      ]
+    },
+    {
+      "id": "0ce3d67641f7",
+      "title": "China’s Pandemic Lockdowns Conditioned the Public to Accept a Permanent Airtight State",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/how-chinas-population-stopped-noticing-their-country-had-been-sealed/",
+      "published": "2026-05-15T13:49:00Z",
+      "category": "IR",
+      "region": "China",
+      "background": "This article argues that China’s COVID-era lockdowns from 2020 to 2022 were not just public-health measures but a conditioning sequence that normalized state closure. It cites Wuhan’s 11-million-person lockdown in January 2020, Shanghai’s two-month lockdown in spring 2022, and the nationwide dynamic-zero policy through December 2022. The piece then claims that by 2023 China had shifted into a more permanent “airtight seal,” built through exit bans, firewall upgrades, January 2026 cybersecurity revisions, and a mid-2025 extension of cadre-reporting rules.",
+      "prop_args": [
+        {
+          "thesis": "The CCP used COVID lockdowns to normalize a permanent model of social control, making later restrictions politically and psychologically invisible.",
+          "mechanisms": [
+            "First, the lockdowns acted as a compliance test. This is because (1) Wuhan showed the state could seal an 11-million-person city for 76 days without regime-threatening disorder, (2) Shanghai proved it would absorb massive economic costs to preserve political control, and (3) the nationwide dynamic-zero campaign habituated citizens to app-mediated permission as the default condition of life.",
+            "Second, the sequence changed expectations, not just behavior. Three reasons: one, repeated closures taught people that extraordinary restrictions could last months or years; two, the White Paper protests were dispersed quickly, signaling that resistance was futile; three, once the policy was abandoned, the population had already internalized closure as normal, so the state no longer needed to announce it explicitly.",
+            "Third, this matters because a society that no longer recognizes coercion as coercion is far easier to govern and far harder to mobilize. The biggest impact is not the lockdown itself but the long-run collapse of civic imagination: if people treat surveillance, exit controls, and digital permission systems as ordinary infrastructure, then the regime can deepen authoritarianism without paying the usual legitimacy costs."
+          ]
+        },
+        {
+          "thesis": "China’s post-lockdown restrictions are a qualitatively new form of peacetime closure that strengthens regime resilience and reduces the risk of mass dissent.",
+          "mechanisms": [
+            "First, the state has layered multiple control systems across different domains. One, exit bans expanded through four major laws limit physical departure; two, firewall enhancements culminating in the April 2026 Great Unplug restrict information access; three, January 2026 cybersecurity revisions bring private communications under monitoring, making coordination harder.",
+            "Second, the regime has fragmented repression so no single policy looks like a total lockdown. Three reasons: one, each rule is introduced on a separate administrative track with a narrow technical justification; two, this prevents unified opposition because people experience different constraints as isolated inconveniences; three, it lowers the chance of a single mass trigger event that could unify urban middle-class resistance.",
+            "Third, this improves regime durability because coercion becomes ambient rather than exceptional. The key strategic advantage is that the state can suppress dissent preemptively while avoiding the visible spectacle of emergency rule, which makes elite defection and public backlash less likely."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The article overstates continuity: China’s lockdowns were emergency public-health responses, and later controls are better explained by routine authoritarian governance than by a deliberate conditioning strategy.",
+          "mechanisms": [
+            "First, the original lockdowns had a clear epidemiological rationale. One, Wuhan in January 2020 faced an unfamiliar outbreak and the state had limited information; two, many governments used extraordinary measures during COVID, so China’s actions were not uniquely revealing; three, the later abandonment of dynamic-zero in late 2022 suggests the policy was contingent and reversible, not a permanent master plan.",
+            "Second, the claim that the public was psychologically conditioned is hard to prove and may confuse compliance with belief. One, people often obey under coercion without internalizing legitimacy; two, the White Paper protests show visible resistance still existed; three, once restrictions eased, citizens could and did resume normal life, which cuts against the idea of a fully invisible permanent seal.",
+            "Third, the real driver is standard authoritarian control, not a novel post-lockdown transformation. Three reasons: one, the CCP has long used censorship, surveillance, and exit controls independent of COVID; two, the article bundles unrelated policies into one grand narrative; three, if repression is already the regime’s baseline, then the lockdowns are not the cause of current closure but just one episode in a much older system."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether COVID created a new authoritarian equilibrium or merely revealed an existing one. Prop wins if it can show the lockdowns lowered the political cost of permanent control; opp wins if it reframes the article as narrative overreach and argues the CCP’s coercive capacity predated the pandemic.",
+      "stock_connections": [
+        "Authoritarian Learning",
+        "Normalization of Repression",
+        "Surveillance State",
+        "Social Control",
+        "Path Dependence",
+        "State Capacity",
+        "Democratic Backsliding",
+        "Moral Hazard",
+        "Security vs Liberty"
+      ],
+      "motion_areas": [
+        "TH, as China, would have used COVID-19 to entrench permanent social control",
+        "THBT pandemic emergency powers create durable authoritarian institutions",
+        "THP a world where states can condition populations through repeated lockdowns",
+        "THBT the CCP’s post-COVID governance is a more dangerous model of authoritarianism than pre-2020 China"
+      ],
+      "data_points": [
+        "Wuhan was locked down in late January 2020 and remained closed until April 8, 2020 — 76 days",
+        "Wuhan’s population was about 11 million",
+        "Shanghai’s lockdown in spring 2022 lasted two months",
+        "Shanghai has about 25 million people and is China’s commercial and financial capital",
+        "The nationwide dynamic-zero policy ran from spring 2022 through December 2022",
+        "The article says the White Paper protests appeared in a half-dozen Chinese cities in November 2022",
+        "The piece claims China’s exit-ban regime was expanded across four major laws",
+        "It cites January 2026 cybersecurity law revisions and an April 2026 Great Unplug as part of the seal"
       ]
     },
     {
@@ -1403,6 +2849,82 @@
       ]
     },
     {
+      "id": "ddec094dc215",
+      "title": "Global Opinion Poll Shows the U.S. Losing Soft Power to China, Accelerating Hedging by Third Countries",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/poll-how-the-us-lost-the-hearts-and-minds-of-people-worldwide/",
+      "published": "2026-05-15T13:22:00Z",
+      "category": "IR",
+      "region": "Global",
+      "background": "NIRA Data’s annual public opinion survey, commissioned by the Alliance of Democracies, surveyed people in 85 countries between March 19 and April 21, 2026. The article says that in just three years the U.S. has gone from having a comfortable global soft-power lead to being viewed less favorably than China in most countries, with Russia also now seen more positively than the U.S. on average. The author links much of the shift to Donald Trump’s return to the White House in January 2025, alongside wars, tariffs, and domestic turmoil that have crowded out negative attention on China.",
+      "prop_args": [
+        {
+          "thesis": "The collapse of U.S. soft power will push third countries to hedge away from Washington, reducing American leverage and making China the default beneficiary.",
+          "mechanisms": [
+            "First, reputational decline changes elite incentives in states that depend on external partners. This is because (1) governments face domestic pressure not to be seen as aligned with an unpopular U.S., (2) business and diplomatic elites prefer partners with lower political risk, and (3) public opinion makes it harder to justify security, trade, or technology dependence on Washington.",
+            "Second, the U.S. losing the moral and informational contest makes its coercive tools less effective. Three reasons: one, sanctions and pressure campaigns work best when allies and neutrals trust U.S. leadership; two, countries are more willing to ignore U.S. demands if they think Washington is hypocritical or unstable; three, the U.S. can still be powerful materially, but it cannot easily convert power into compliance without legitimacy.",
+            "Third, China benefits relatively even without becoming universally loved. This matters because (1) many states are not choosing China over the U.S. on ideology, they are choosing diversification, (2) if the U.S. is the more disliked actor, China only needs to look less threatening to win contracts and influence, and (3) over time this normalizes Chinese standards, infrastructure, and diplomatic framing in the Global South."
+          ]
+        },
+        {
+          "thesis": "The poll signals a structural shift in the global balance of influence, not just a temporary dip in U.S. popularity.",
+          "mechanisms": [
+            "First, the change is broad-based across regions, which suggests a systemic rather than local backlash. This is because (1) the article reports negative U.S. views and positive China views in the Middle East and North Africa, parts of Asia-Pacific, Sub-Saharan Africa, Latin America, and Europe, (2) the U.S. is now negative in many places where it previously had a lead, and (3) even countries that dislike both powers are no longer defaulting to the U.S.",
+            "Second, the shift compounds over time through path dependence. Three reasons: one, repeated negative impressions harden into durable priors; two, firms and governments make long-term procurement and alignment choices based on those priors; three, once institutions and supply chains are built around alternative partners, reversing them becomes costly.",
+            "Third, the U.S. still has hard power, but soft power determines the ceiling of that hard power. This matters because (1) military and economic strength can compel in the short term, (2) but influence over coalition-building, agenda-setting, and norm-setting depends on trust, and (3) losing trust means the U.S. may win isolated fights while losing the broader strategic competition."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Soft power is secondary to material power, so the U.S. can remain globally dominant even if its image worsens.",
+          "mechanisms": [
+            "First, states ultimately respond to capabilities, not popularity. Numbered reasons: one, the U.S. still has unmatched military reach and alliance networks; two, its financial system, market access, and technology ecosystem remain indispensable; three, countries may dislike Washington but still need it for security guarantees, trade, and crisis management.",
+            "Second, public opinion does not automatically translate into foreign policy change. Numbered reasons: one, many regimes can ignore popular sentiment when making strategic decisions; two, elites often prioritize regime survival and economic gain over image; three, governments can compartmentalize relations with the U.S. even when domestic audiences are skeptical.",
+            "Third, the article itself admits the U.S. remains hugely powerful. Numbered reasons: one, that means immediate influence may not change much, two, hedging does not equal alignment with China, and three, many states will diversify rather than defect, limiting any real strategic loss for Washington."
+          ]
+        },
+        {
+          "thesis": "The poll may reflect temporary anti-Trump sentiment rather than a durable realignment against the United States.",
+          "mechanisms": [
+            "First, perceptions can swing quickly with political cycles. Numbered reasons: one, the article attributes much of the decline to Trump’s return in January 2025, which is a leadership-specific shock; two, a future administration could restore credibility; three, foreign publics often react to current headlines rather than long-run structural preferences.",
+            "Second, China’s improved image may be relative rather than absolute. Numbered reasons: one, the U.S. got worse while China stayed roughly stable or improved slightly, two, many countries still view both powers negatively, and three, being 'less bad' is not the same as being trusted or preferred.",
+            "Third, China’s own constraints limit how much it can capitalize. Numbered reasons: one, many states remain wary of Chinese coercion, debt, and surveillance; two, developed-country perceptions of China remain negative overall; three, without credible security guarantees and open political appeal, China cannot fully replace U.S. leadership."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether soft power changes actual state behavior or merely public mood. Prop wins if you think legitimacy is what converts U.S. material strength into durable coalition leadership; opp wins if you think states mostly follow hard interests and can compartmentalize dislike from strategy.",
+      "stock_connections": [
+        "Soft Power",
+        "Hegemonic Decline",
+        "Hedging",
+        "De-risking",
+        "Alliance Credibility",
+        "Legitimacy",
+        "Relative Decline",
+        "Multipolarity",
+        "Anti-Americanism",
+        "Great Power Competition"
+      ],
+      "motion_areas": [
+        "TH, as a middle power, would hedge away from the United States",
+        "THBT developing nations should prioritize strategic autonomy over alignment with the United States",
+        "THP a world where global public opinion determines great power influence",
+        "THBT the decline of American soft power is a greater strategic threat than the rise of Chinese hard power",
+        "TH supports the global South’s turn toward non-alignment in great power competition"
+      ],
+      "data_points": [
+        "NIRA Data surveyed 85 countries between March 19 and April 21, 2026",
+        "The article says that in 2026 most countries now view China more favorably than the United States",
+        "Only Israel is described as decidedly in the category of positive U.S. / negative China, with Ukraine and the Philippines on the edges",
+        "Much of Europe and a large chunk of the Asia-Pacific now reportedly have negative views of both the U.S. and China",
+        "The article states that even Russia is now seen more positively than the United States",
+        "Trump returned to the White House in January 2025, which the article identifies as a major driver of the U.S. image decline",
+        "China’s image is described as having moved into positive territory on average",
+        "The article notes that the U.S. still remains hugely powerful due to its economic, military, political, and other sources of power"
+      ]
+    },
+    {
       "id": "a1788404e23e",
       "title": "Philippine Cooperation With ICC Tests Whether Domestic Elites Can Still Shield Duterte-Linked Abuses",
       "source": "Al",
@@ -1623,6 +3145,61 @@
         "More than 20 people killed in recent attacks in northwest Pakistan",
         "At least 372 Afghan civilians killed and nearly 400 injured in the first three months of 2026, according to the UN",
         "Pakistan and Afghanistan agreed in March to pause hostilities, and held China-brokered talks last month, but no formal ceasefire has been signed"
+      ]
+    },
+    {
+      "id": "f37d4a7ecf2e",
+      "title": "Trump-Xi Summit Avoids Taiwan Concessions, But Leaves Taipei Exposed to Future Bargaining",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/after-trump-xi-summit-taiwan-breathes-a-sigh-of-relief/",
+      "published": "2026-05-15T12:54:00Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan",
+      "background": "On May 13-15, 2026, U.S. President Donald Trump met Chinese President Xi Jinping in Beijing. No new deals were announced, and the U.S. readout did not mention Taiwan, despite Chinese claims that Taiwan was discussed. The summit came amid fears that Washington might trade concessions on Taiwan arms sales or political support for Beijing, especially after Trump had said in February that he was 'talking to' Xi about U.S. arms sales to Taiwan and had not yet approved roughly $14 billion in pending arms notifications.",
+      "prop_args": [
+        {
+          "thesis": "The summit is a short-term win for Taiwan because it preserved the status quo on arms sales and avoided legitimizing Beijing’s bargaining frame over Taiwan.",
+          "mechanisms": [
+            "First, it prevents an immediate policy concession. This is because (1) the U.S. did not announce any new deal that linked Taiwan to broader U.S.-China negotiations, (2) the U.S. readout omitted Taiwan entirely, which signals no public shift in policy, and (3) Rubio publicly reiterated that U.S. Taiwan policy is unchanged, making it harder for Beijing to claim a formal concession.",
+            "Second, it preserves deterrence by keeping arms sales alive. Three reasons: one, the administration still has not formally canceled the $14 billion package, two, bipartisan senators have already pressured Trump to move forward, and three, the presence of Rubio and Jensen Huang in the delegation reassured Taipei that the U.S. still has influential pro-Taiwan voices.",
+            "Third, it buys Taiwan time to strengthen domestic defense and coalition politics. This matters because the DPP can continue pushing defense spending, the legislature has already ratified part of the supplementary budget, and avoiding a summit sellout reduces the credibility of pro-China arguments inside Taiwan that Washington is abandoning the island."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is bad for Taiwan because it normalizes the idea that Taiwan is a negotiable issue and increases long-term uncertainty over U.S. commitments.",
+          "mechanisms": [
+            "First, Trump has already signaled willingness to bargain over Taiwan. One, he publicly said in February that he was 'talking to' Xi about arms sales, two, the administration stalled notification of $14 billion in arms sales during the summit period, and three, Trump’s refusal to answer Taiwan questions after the meeting reinforces the perception that Taiwan can be managed quietly in U.S.-China talks.",
+            "Second, ambiguity itself weakens deterrence and emboldens Beijing. One, Xi repeatedly warned of 'clashes and even conflict' if the U.S. mishandles Taiwan, two, China can interpret silence as room to pressure Washington in future talks, and three, repeated summit cycles create a precedent where Beijing expects Taiwan to be part of every major bilateral negotiation.",
+            "Third, the uncertainty damages Taiwan’s internal defense politics. One, KMT and TPP leaders can use U.S. unreliability to justify cutting domestic defense spending, two, the legislature has already cut the domestic drone program while keeping U.S. weapons spending, and three, this makes Taiwan more dependent on foreign arms that may be delayed or politicized by Trump."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate reassurance and structural precedent. Pro side wins if the round is about whether Taiwan was sold out this week; opp wins if the round is about how Trump’s transactional style steadily erodes deterrence by making every future summit a bargaining opportunity.",
+      "stock_connections": [
+        "Credible Commitment Problem",
+        "Deterrence",
+        "Alliance Reliability",
+        "Transactional Diplomacy",
+        "Security Dilemma",
+        "Small State Vulnerability",
+        "Domestic Audience Costs",
+        "Appeasement"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would never negotiate Taiwan arms sales with China",
+        "THBT the United States should codify the Six Assurances into law",
+        "THP a world where U.S.-China summits cannot include Taiwan-related bargaining",
+        "THBT Taiwan should prioritize domestic defense spending over reliance on U.S. arms sales"
+      ],
+      "data_points": [
+        "$14 billion in pending U.S. arms sales to Taiwan had not yet received official notification at the time of the summit",
+        "The Six Assurances have been U.S. policy since 1982 and include a promise not to consult Beijing on arms sales to Taiwan",
+        "Trump said in February 2026 that he was 'talking to' Xi about U.S. arms sales to Taiwan",
+        "The U.S. readout from the May 13-15, 2026 Trump-Xi summit did not mention Taiwan, while China claimed it was discussed",
+        "Taiwan’s legislature cut the domestic drone program while leaving intact spending on U.S. weapons systems",
+        "The annual Balikatan 2026 exercises in the Philippines included a Taiwan contingency scenario"
       ]
     },
     {
@@ -1953,6 +3530,64 @@
         "Trump claimed China would buy 200 Boeing jets, plus US oil and soya beans, but the deal was not confirmed by China or Boeing",
         "Xi said 'Taiwan independence' and peace in the Taiwan Strait were 'incompatible'",
         "The White House readout of the meeting omitted any mention of Taiwan"
+      ]
+    },
+    {
+      "id": "a9840f51dc82",
+      "title": "North Korea’s Real Regime Threat Is Information, Not Crime",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/what-kim-jong-un-really-fears-outside-information/",
+      "published": "2026-05-15T12:10:00Z",
+      "category": "IR",
+      "region": "North Korea / South Korea",
+      "background": "A Transitional Justice Working Group report analyzed 144 cases of execution or death sentences under Kim Jong Un and found at least 358 people executed across 136 confirmed cases. It found that after North Korea sealed its border in January 2020, executions rose from 30 before the closure to 65 after, while the stated grounds shifted away from murder and toward outside information, South Korean culture, religion, and political dissent. The article also notes that documented execution regions expanded from 8 to 19, reaching all four directly administered and special cities and all eight provinces.",
+      "prop_args": [
+        {
+          "thesis": "North Korea’s post-COVID crackdown shows the regime is fundamentally vulnerable to information flows, so expanding outside information is one of the most effective long-term pressures on the Kim system.",
+          "mechanisms": [
+            "First, outside information erodes the regime’s monopoly on reality. This is because (1) South Korean dramas, foreign music, and religion create direct comparison points, (2) comparison makes propaganda less credible, and (3) once people can imagine a better alternative, loyalty becomes harder to sustain.",
+            "Second, the regime’s own behavior proves information is a strategic threat. Three reasons: one, execution cases tied to outside culture and information rose from 4 before the border closure to 14 after; two, the number of individuals punished in those cases rose from 7 to 38; three, the state expanded punishment nationwide, showing it no longer sees this as a border-only problem.",
+            "Third, information pressure is structurally more destabilizing than military pressure. This matters because (1) nuclear deterrence blunts external coercion, (2) internal legitimacy is the real weak point of authoritarian systems, and (3) once fear shifts from external enemies to internal dissent, the regime must spend more resources on repression, which increases brittleness over time."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Cracking down on outside information can actually strengthen the regime by improving control, deterring dissent, and preventing organized opposition from forming.",
+          "mechanisms": [
+            "First, repression can be highly effective at short-run compliance. One, public executions create visible deterrence through terror; two, secret executions remove sensitive dissidents without creating martyrs or leaks; three, the shift to nationwide enforcement shows the state can adapt and extend control beyond border areas.",
+            "Second, information access does not automatically translate into mobilization. One, fear of punishment can keep people consuming foreign media privately without acting; two, North Korea’s surveillance and punishment apparatus can fragment trust and prevent collective action; three, many citizens may prefer survival over resistance even if they know the outside world exists."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether information exposure meaningfully weakens authoritarian control faster than the regime can repress it. Prop wins if the judge believes legitimacy is the real center of gravity in North Korea; opp wins if they think coercive capacity and surveillance can neutralize information before it becomes political action.",
+      "stock_connections": [
+        "Information Control",
+        "Authoritarian Resilience",
+        "Legitimacy Crisis",
+        "State Surveillance",
+        "Repression Backfire",
+        "Propaganda",
+        "Human Rights vs Security",
+        "Democratic Backsliding"
+      ],
+      "motion_areas": [
+        "TH, as the international community, would prioritize information access into North Korea over punitive sanctions",
+        "THBT foreign governments should fund the spread of outside media into North Korea",
+        "THP a world where authoritarian regimes cannot fully control cross-border information flows",
+        "TH, as South Korea, would escalate information campaigns into North Korea"
+      ],
+      "data_points": [
+        "TJWG analyzed 144 cases of execution or death sentences under Kim Jong Un",
+        "At least 358 people were executed across 136 confirmed cases",
+        "Execution/death sentence cases rose from 30 before the COVID border closure to 65 after it, a 116.7% increase",
+        "Individuals executed or sentenced to death rose from 44 to 153, a 247.7% increase",
+        "Cases tied to outside culture, information, religion, and superstition rose from 4 to 14, a 250% increase",
+        "Individuals in those cases rose from 7 to 38, a 442.9% increase",
+        "Political execution cases rose from 4 before the closure to 13 after, a 225% increase",
+        "Individuals in political cases rose from 4 to 28, a 600% increase",
+        "Documented execution regions expanded from 8 to 19 after the border closure",
+        "Public executions accounted for 66 of 129 classified executions, or 51.1%; secret executions accounted for 29, or 22.5%; executions before a targeted group accounted for 28, or 21.7%"
       ]
     },
     {
