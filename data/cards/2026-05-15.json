@@ -1,7 +1,892 @@
 {
   "date": "2026-05-15",
-  "last_updated": "2026-05-15T04:11:54Z",
+  "last_updated": "2026-05-15T09:24:29Z",
   "cards": [
+    {
+      "id": "46f5a62e6a1d",
+      "title": "Leadership Turmoil and Leftward Fiscal Expectations Push UK Gilts Higher and Pound Lower",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T09:01:31Z",
+      "category": "Econ",
+      "region": "United Kingdom / Europe",
+      "background": "UK government borrowing costs rose and the pound fell on Friday as Labour leadership tensions intensified after Andy Burnham said he would fight a by-election to enter Parliament. The 10-year gilt yield rose to 5.11% from 4.99% at the start of trade, while the pound fell 0.3% against the dollar to $1.3371 and was 1.5% lower on the week. The 30-year gilt yield also climbed to 5.779%, even as other European borrowing costs rose too amid concerns that the Iran war could push Brent crude above $109 a barrel and raise inflation.",
+      "prop_args": [
+        {
+          "thesis": "Political instability and a credible shift toward higher borrowing make UK assets riskier, so markets are rationally repricing gilts and sterling downward.",
+          "mechanisms": [
+            "First, leadership uncertainty raises the probability of policy discontinuity. This is because (1) investors cannot price the next fiscal stance with confidence, (2) a protracted leadership contest delays clear budget commitments, and (3) uncertainty itself increases the risk premium demanded on government debt.",
+            "Second, Burnham is being read as more fiscally expansionary than rival candidates. Three reasons: one, analysts explicitly linked his prospects to fears of higher deficits; two, his past comment about getting beyond being 'in hock to the bond markets' signals a willingness to challenge fiscal orthodoxy; three, markets reacted more negatively to his move than to Wes Streeting's resignation, suggesting the issue is not just politics but policy expectations.",
+            "Third, higher borrowing costs and a weaker pound reinforce each other. This matters because (1) a falling currency can raise imported inflation, (2) higher inflation expectations push gilt yields up further, and (3) a weaker pound can trigger foreign capital outflows from UK debt and equities, deepening the selloff."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The market reaction is overstated and driven more by global inflation and energy shocks than by any real change in UK fundamentals.",
+          "mechanisms": [
+            "First, borrowing costs are rising across Europe, so the UK move is not uniquely political. One, the article says other European government borrowing costs also rose on Friday; two, Brent crude jumped from $105.72 to over $109 a barrel, which raises inflation expectations everywhere; three, gilt yields can rise simply because global rates are moving up, not because of domestic leadership drama.",
+            "Second, the leadership story is still speculative and may never translate into policy. One, Burnham still needs local party selection and then a by-election win; two, he may not even secure the leadership contest; three, markets often overreact to headlines before any actual fiscal change occurs.",
+            "Third, the UK still has institutional constraints that limit radical fiscal drift. One, bond markets, the Treasury, and fiscal rules constrain any government; two, a Labour leadership change does not automatically mean uncontrolled borrowing; three, if Burnham moderates in office, the current selloff would reverse, showing the reaction was premature."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether markets are reacting to a real expected shift in fiscal policy or just a noisy political headline layered onto a global inflation shock. Prop wins if you think credibility and expectations matter before policy is enacted; opp wins if you think the move is mostly temporary and driven by oil prices and broader rate pressure.",
+      "stock_connections": [
+        "Market confidence",
+        "Risk premium",
+        "Capital flight",
+        "Policy uncertainty",
+        "Inflation expectations",
+        "Currency depreciation",
+        "Bond vigilantes",
+        "Credibility trap"
+      ],
+      "motion_areas": [
+        "TH, as a government, would prioritize fiscal credibility over short-term political flexibility",
+        "THBT markets should punish parties that signal higher borrowing before they enter office",
+        "THP a world where central banks and bond markets constrain elected governments more aggressively",
+        "THBT leadership contests in major economies should be treated as material market events"
+      ],
+      "data_points": [
+        "10-year UK gilt yield rose to 5.11% from 4.99% at the start of trade",
+        "30-year gilt yield climbed to 5.779%",
+        "Pound fell 0.3% against the dollar to $1.3371",
+        "Pound was 1.5% lower on the week",
+        "Brent crude rose from $105.72 to over $109 a barrel",
+        "FTSE 100 fell 0.6%",
+        "Burnham would need local party selection and then a by-election win in Makerfield before any leadership bid"
+      ]
+    },
+    {
+      "id": "cf7da88ecb0f",
+      "title": "Xi-Trump Summit Projects a New US-China Relationship Without Resolving Core Rivalry",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/xi-hails-landmark-summit-as-trump-departs-video-mp6od98r",
+      "published": "2026-05-15T08:48:12Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "US President Donald Trump completed a two-day visit to China on 15 May 2026. President Xi Jinping described the summit as a \"landmark\" and said the two sides had agreed on a new relationship, but the report says major tensions remained unresolved and only limited deals were announced. The article frames the meeting as politically significant but substantively thin, with optimism from both leaders despite the lack of a comprehensive breakthrough.",
+      "prop_args": [
+        {
+          "thesis": "A high-profile summit that creates even a limited new US-China framework is valuable because it lowers escalation risk and reopens channels for managed competition.",
+          "mechanisms": [
+            "First, the summit reduces miscalculation risk by restoring direct leader-to-leader communication. This is because (1) personal diplomacy gives both sides a faster crisis channel than bureaucratic back-and-forth, (2) it allows red lines to be clarified before incidents spiral, and (3) it signals to militaries and markets that neither side is currently seeking immediate confrontation.",
+            "Second, even limited agreements can stabilize the bilateral relationship by creating a floor under cooperation. Three reasons: one, partial deals on trade or protocol build habits of compliance and reciprocity, two, they create domestic constituencies on both sides that benefit from continued engagement, and three, they make future breakdowns politically costlier because leaders have publicly invested in the relationship.",
+            "Third, the optics of a successful summit matter strategically because they shape third-party behavior. This matters because allies, firms, and regional states calibrate their own policies based on whether US-China ties look governable or chaotic; a visible thaw can reduce hedging, panic buying, and security escalation in Asia."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A summit that produces symbolism without substantive settlement is mostly performative and can entrench a more dangerous status quo by masking unresolved rivalry.",
+          "mechanisms": [
+            "First, limited deals can create false reassurance. One, leaders may claim success and delay harder concessions, two, domestic audiences may believe tensions have been managed when core disputes remain intact, and three, the absence of real resolution means the same flashpoints will reappear with greater disappointment later.",
+            "Second, the summit can strengthen each side's bargaining position without changing underlying behavior. One, Xi can use the optics of engagement to project calm while continuing strategic competition, two, Trump can sell the meeting as a win without paying the political cost of compromise, and three, both sides preserve maximalist positions because the meeting substitutes for policy change.",
+            "Third, summit diplomacy can worsen long-term instability if it legitimizes a pattern of crisis management over structural settlement. One, it encourages reactive, leader-centric diplomacy instead of institutionalized rules, two, it makes future cooperation dependent on personal chemistry rather than durable mechanisms, and three, it leaves the most dangerous issues — security, technology, and trade coercion — unresolved."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether signaling and communication are enough to reduce real-world risk, or whether they merely postpone confrontation. Prop wins if the round is about crisis prevention and immediate stability; opp wins if the judge prioritizes substantive resolution and the danger of papering over structural rivalry.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Deterrence",
+        "Summit Diplomacy",
+        "Trade Interdependence",
+        "Rising Power Conflict",
+        "Miscalculation Risk",
+        "Symbolic Politics"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China over coercive containment",
+        "THBT great powers should use leader-level summits to manage rivalry even without comprehensive agreements",
+        "THP a world where US-China relations are governed by regular high-level summits",
+        "TH, as China, would publicly frame limited bilateral deals as landmark breakthroughs"
+      ],
+      "data_points": [
+        "Trump completed a two-day visit to China on 15 May 2026",
+        "Xi Jinping described the summit as a \"landmark\" and said the two sides agreed on a new relationship",
+        "The report explicitly says tensions remained unresolved",
+        "Only limited deals were announced so far"
+      ]
+    },
+    {
+      "id": "8d7b45b6d654",
+      "title": "Xi-Trump Charm Offensive Signals a Tactical Thaw, Not a Durable US-China Reset",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/xi-praises-us-milestone-visit-and-relationship-offers-trump-roses?traffic_source=rss",
+      "published": "2026-05-15T08:46:40Z",
+      "category": "IR",
+      "region": "China / United States",
+      "background": "On 15 May 2026, Chinese President Xi Jinping publicly praised Donald Trump’s visit to Beijing as a “milestone” and described the bilateral relationship as “constructive and strategic.” During a tour of Zhongnanhai gardens, Xi also offered to send Trump roses after Trump commented on their size. The article frames the trip as a symbolic moment at the end of Trump’s China visit, suggesting a visible thaw in rhetoric between the two powers.",
+      "prop_args": [
+        {
+          "thesis": "A high-profile personal thaw between Xi and Trump can reduce escalation risk and create space for pragmatic cooperation on trade, security, and crisis management.",
+          "mechanisms": [
+            "First, elite signaling lowers the probability of immediate confrontation. This is because (1) public praise and symbolic gestures like the roses create face-saving off-ramps for both leaders, (2) they reduce domestic pressure to perform toughness in the short term, and (3) they make backchannel bargaining easier by establishing a cooperative tone before substantive talks.",
+            "Second, improved leader-to-leader relations can unlock issue-specific deals even when structural rivalry remains. Three reasons: one, both sides can compartmentalize disputes and trade concessions in narrower domains; two, personal trust reduces transaction costs and the fear of being blindsided; three, a “constructive and strategic” frame can justify cooperation to hawks at home as a national-interest bargain rather than weakness.",
+            "Third, the immediate impact is stability, which matters more than ideological purity in great-power relations. This matters because even temporary de-escalation can prevent tariff spirals, military incidents, and market shocks, and in IR the first-order good is avoiding miscalculation between nuclear-armed states."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This kind of performative diplomacy is mostly cosmetic and cannot overcome the structural competition driving US-China relations.",
+          "mechanisms": [
+            "First, the relationship is constrained by hard strategic interests, not interpersonal warmth. One, the US and China still compete over technology, supply chains, Taiwan, and military primacy; two, these conflicts are zero-sum enough that symbolic gestures do not change incentives; three, any agreement reached under a charm offensive is vulnerable to reversal once the next crisis hits.",
+            "Second, personal diplomacy can actually increase volatility by creating false expectations. One, if leaders sell the public on a breakthrough without resolving core disputes, disappointment later looks like betrayal; two, the optics of closeness can provoke domestic backlash from nationalist factions and security establishments; three, that backlash can make future compromise politically harder than before.",
+            "Third, the real effect may be to mask continued coercion. One, both sides can use friendly rhetoric while still pursuing tariffs, export controls, and military posturing; two, this allows each government to claim moderation without paying the cost of substantive concessions; three, the result is not peace but a more confusing and less transparent rivalry."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term crisis management and long-term strategic rivalry. Prop wins if the motion rewards immediate de-escalation and reduced miscalculation; opp wins if the judge prioritizes whether the underlying conflict structure has actually changed, because the symbolism here is easy while durable concessions are much harder.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Deterrence",
+        "Diplomatic Signaling",
+        "Leader-Level Diplomacy",
+        "Nationalism",
+        "Trade War",
+        "Miscalculation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue leader-level charm diplomacy with China",
+        "THBT symbolic diplomacy between great powers is more useful than public confrontation",
+        "THP a world where US-China relations are managed primarily through personal leader summits",
+        "THBT the US should prioritize de-escalation with China over coercive containment"
+      ],
+      "data_points": [
+        "Xi described the US-China relationship as “constructive and strategic” during Trump’s Beijing visit",
+        "The article dates the event to 15 May 2026",
+        "The setting was Zhongnanhai gardens in Beijing, where Xi offered to send Trump roses after Trump commented on their size",
+        "The article characterizes the visit as a “milestone” in bilateral relations"
+      ]
+    },
+    {
+      "id": "e184a71379a9",
+      "title": "Labour Party Rebellion Threatens Starmer’s Grip on Power and UK Political Stability",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5822492/u-k-prime-minister-keir-starmer-faces-challenges-from-his-own-party",
+      "published": "2026-05-15T08:41:42Z",
+      "category": "IR",
+      "region": "United Kingdom",
+      "background": "NPR reports that Keir Starmer is facing a week of rebellion inside Britain’s ruling party, with contenders openly vying for his job. The article says the process is expected to be drawn out and it is still unclear whether Starmer will be forced out. The immediate context is an internal Labour leadership challenge rather than a formal general election or opposition-led parliamentary defeat.",
+      "prop_args": [
+        {
+          "thesis": "Internal rebellion against Starmer is a healthy correction mechanism that can restore party legitimacy and improve governance by forcing accountability at the top.",
+          "mechanisms": [
+            "First, leadership challenges discipline an unpopular or ineffective prime minister. This is because (1) MPs can credibly punish poor performance rather than protecting incumbency, (2) the threat of removal forces the leadership to respond to factional concerns, and (3) it signals to voters that the party is not trapped by one figure, which can preserve broader electoral credibility.",
+            "Second, a drawn-out contest can produce a stronger leader with a clearer mandate. Three reasons: one, contenders must publicly defend policy choices and expose weaknesses in the current direction; two, the eventual winner can claim internal legitimacy from winning a contested process; three, the party can reset its message before the next electoral cycle instead of carrying unresolved tensions into government.",
+            "Third, the rebellion can improve policy quality by surfacing internal disagreement early. This matters because (1) it prevents bad policy from being locked in through elite inertia, (2) it forces compromise between factions that represent different voter blocs, and (3) it reduces the risk of a future split that would be more damaging if it emerged after a major policy failure or election loss."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The rebellion weakens Labour’s ability to govern by projecting instability, distracting from policy delivery, and encouraging factional capture.",
+          "mechanisms": [
+            "First, leadership turmoil destroys governing bandwidth. One, ministers and MPs spend time on internal manoeuvring instead of legislation and implementation; two, civil servants face unclear direction because authority is contested; three, opponents exploit the chaos to block or dilute the government’s agenda.",
+            "Second, a drawn-out succession fight damages public trust in the party. One, voters interpret open rebellion as proof that the leadership lacks competence or unity; two, media coverage amplifies the image of a government in crisis, which can depress approval ratings quickly; three, once the party looks unstable, every policy failure is read through the lens of incompetence, making recovery harder.",
+            "Third, internal challenges empower the most factional actors rather than the most capable ones. One, leadership contests reward mobilization of activists and loyal blocs over broad national appeal; two, candidates may promise short-term ideological concessions to win support, weakening policy coherence; three, the party can become more beholden to internal veto players, making it harder to govern decisively."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether internal accountability outweighs the costs of visible instability. Opposition wins if the round is about governing capacity and public confidence, because leadership turmoil directly reduces the state’s ability to act; proposition wins if the round is about long-run party renewal, because a contested reset can produce a more legitimate and electorally viable leadership.",
+      "stock_connections": [
+        "Party Unity",
+        "Elite Accountability",
+        "Political Legitimacy",
+        "Factionalism",
+        "Government Stability",
+        "Leadership Contest",
+        "Mandate Theory"
+      ],
+      "motion_areas": [
+        "TH, as a ruling party, would allow open leadership challenges against an incumbent prime minister",
+        "THBT parties should prioritize internal democracy over leadership stability",
+        "THP a world where governing parties can replace their leader mid-term without triggering a general election"
+      ],
+      "data_points": [
+        "The article says it has been 'a week of rebellion' inside Britain’s ruling party",
+        "Contenders are 'vying for Prime Minister Keir Starmer's job'",
+        "The leadership process is expected to be 'drawn-out'",
+        "It is 'unclear if Starmer will go'"
+      ]
+    },
+    {
+      "id": "0279ac8e1236",
+      "title": "US Criminal Indictment Threat Turns Cuba Policy Into Regime-Change Escalation",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/us-seeks-indictment-of-former-cuban-leader-raul-castro?traffic_source=rss",
+      "published": "2026-05-15T08:38:55Z",
+      "category": "IR",
+      "region": "United States / Cuba",
+      "background": "The US is reportedly preparing to seek an indictment of former Cuban president Raúl Castro, 94, over Cuba’s 1996 downing of planes flown by the anti-Castro group Brothers to the Rescue. The move comes as the Trump administration has sharply escalated pressure on Havana in 2025–26, including cutting fuel flows from Venezuela, threatening tariffs on countries that supply Cuba with oil, and backing a de facto fuel blockade. Cuba, a country of about 11 million people, is facing severe fuel shortages and blackouts; Energy Minister Vicente de la O Levy said on Thursday the country had completely run out of diesel and fuel oil. The reports came hours after CIA Director John Ratcliffe met Cuban officials in Havana and offered $100 million in humanitarian assistance conditional on “meaningful reforms.”",
+      "prop_args": [
+        {
+          "thesis": "A US indictment of Raúl Castro is a coercive escalation that can accelerate elite fracture and force concessions from Havana.",
+          "mechanisms": [
+            "First, it personalizes the cost of defiance for the Cuban ruling class. This is because (1) it signals that senior officials are no longer insulated by age, retirement, or diplomatic ambiguity, (2) it raises the expected cost of staying loyal to the regime, and (3) it can trigger internal blame-shifting among elites who fear being next.",
+            "Second, it strengthens the US bargaining position by combining legal pressure with material leverage. Three reasons: one, Cuba is already under acute energy stress with diesel and fuel oil exhausted, two, the indictment threat adds reputational and travel risk to the leadership, and three, the US can package sanctions relief or humanitarian aid as a conditional off-ramp.",
+            "Third, it may deter future repression and external adventurism by making accountability credible. This matters because if the regime believes past acts like the 1996 shootdown can still generate consequences, it becomes more cautious about using lethal force against dissidents, exiles, or foreign actors in future crises."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "An indictment is mostly symbolic and will harden Cuban nationalism while worsening humanitarian suffering.",
+          "mechanisms": [
+            "First, it gives Havana a propaganda gift. (1) The government can frame the move as imperialist lawfare and use it to rally domestic support, (2) it shifts attention away from fuel shortages and governance failures, and (3) it helps the regime justify further repression against internal critics as alleged foreign collaborators.",
+            "Second, it reduces the chance of negotiated de-escalation. (1) Criminal charges make compromise politically costly for Cuban leaders because appearing in talks can look like surrender, (2) they narrow the space for backchannel diplomacy, and (3) they can push the regime to entrench rather than reform when faced with existential pressure.",
+            "Third, the practical impact on Raúl Castro is limited because of age, jurisdiction, and enforcement constraints. (1) He is 94 and unlikely to be physically exposed to US arrest, (2) any indictment still requires a grand jury and may never translate into custody, and (3) without enforceability, the move risks being pure symbolism that does not change state behavior."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive legal escalation creates leverage or just nationalist backlash. Prop wins if you believe Cuba’s acute energy crisis and elite vulnerability make the regime unusually susceptible to pressure; Opp wins if you think the indictment is unenforceable symbolism that mainly strengthens the government’s siege narrative.",
+      "stock_connections": [
+        "Regime Change",
+        "Coercive Diplomacy",
+        "Sanctions Backfire",
+        "Rally Around the Flag",
+        "Lawfare",
+        "Humanitarian Intervention",
+        "Elite Defection",
+        "Authoritarian Resilience"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would indict former foreign leaders for past human rights abuses to pressure hostile regimes",
+        "THBT coercive legal action is a better tool than sanctions for regime change",
+        "THP a world where major powers use international criminal charges as leverage against authoritarian governments"
+      ],
+      "data_points": [
+        "Raúl Castro is 94 years old",
+        "Cuba has about 11 million people",
+        "Cuba reportedly ran out of diesel and fuel oil on Thursday",
+        "The US offered $100 million in humanitarian assistance conditional on 'meaningful reforms'",
+        "The alleged underlying incident dates to 1996",
+        "The US cut the flow of funds and fuel from Venezuela to Cuba in January 2026",
+        "The Trump administration threatened heavy tariffs against any country that provides Havana with oil"
+      ]
+    },
+    {
+      "id": "5a004f3a64f5",
+      "title": "Ebola Outbreak in Eastern DR Congo Exposes the Tradeoff Between Containment and Fragile Border Economies",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T08:27:42Z",
+      "category": "IR",
+      "region": "Democratic Republic of Congo (Ituri province), Uganda, South Sudan",
+      "background": "Africa CDC says a new Ebola outbreak has been detected in DR Congo’s eastern Ituri province, with around 246 cases and 65 deaths reported, mainly in the gold-mining towns of Mongwalu and Rwampara. Preliminary tests at the Institut National de Recherche Biomédicale in Kinshasa found Ebola in 13 of 20 samples analysed, while additional suspected cases have been reported in Bunia and confirmation is pending. Africa CDC said it is coordinating with DR Congo, Uganda, South Sudan and other partners on response and cross-border surveillance; the Congolese government had not yet formally declared an outbreak at the time of reporting.",
+      "prop_args": [
+        {
+          "thesis": "Aggressive cross-border containment is justified because Ebola is a fast-moving transnational biosecurity threat that can overwhelm weak health systems and spill into neighboring states if not contained early.",
+          "mechanisms": [
+            "First, rapid containment reduces exponential spread. This is because (1) Ebola transmits through direct contact with bodily fluids, so each missed case can infect caregivers, family members, and burial participants; (2) early symptoms are non-specific, meaning cases are often misdiagnosed until clusters are established; (3) once transmission reaches dense trading and mining networks, the number of contacts rises sharply and tracing becomes much harder.",
+            "Second, coordinated border surveillance is necessary because the outbreak is already embedded in a mobility hub. Three reasons: one, the affected towns are gold-mining centers, which attract circular migration and informal labor flows; two, Ituri borders Uganda and is close enough to South Sudan for regional movement to matter; three, weak local governance and military rule in Ituri make purely domestic containment less reliable than a regional public-health perimeter.",
+            "Third, the humanitarian and economic payoff of early action is large. This matters because (1) DR Congo has already suffered a 2018-2020 outbreak that killed nearly 2,300 people, showing the scale of worst-case failure; (2) the country has now seen its 17th Ebola outbreak, so recurrence is not hypothetical; (3) preventing a wider outbreak avoids school closures, market shutdowns, and the diversion of scarce health resources from routine care."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Heavy-handed containment and border restrictions can backfire by undermining trust, disrupting livelihoods, and pushing the outbreak further underground.",
+          "mechanisms": [
+            "First, coercive measures can reduce cooperation with health workers. One, communities in conflict-affected Ituri already face armed-group violence and military rule, so they may distrust state and international actors; two, if people fear quarantine or movement bans, they hide symptoms and avoid testing; three, delayed reporting makes contact tracing and isolation less effective than a voluntary, community-led response.",
+            "Second, border and market restrictions impose serious economic harm on already fragile populations. One, the outbreak is centered in gold-mining towns where daily mobility is tied to income, so shutdowns hit informal workers immediately; two, cross-border trade with Uganda and South Sudan is often essential for food and medicine access; three, if livelihoods collapse, people may ignore restrictions to survive, making enforcement both costly and ineffective.",
+            "Third, the best response is targeted public health, not securitized containment. This matters because (1) Ebola is spread by bodily fluids, so focused case isolation, safe burials, and ring vaccination are more efficient than broad closures; (2) the article notes preliminary testing and pending confirmation, so overreaction risks wasting scarce resources on suspected but unconfirmed cases; (3) regional coordination can happen without punitive border regimes that damage trust."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between speed of containment and the social costs of enforcement. Pro wins if the judge prioritizes preventing a potentially exponential cross-border epidemic; Opp wins if they show that trust and compliance are the binding constraints, making coercive measures self-defeating in a conflict-affected, mobile region.",
+      "stock_connections": [
+        "Biosecurity",
+        "Public health externalities",
+        "Collective action problems",
+        "State capacity",
+        "Trust in institutions",
+        "Humanitarian intervention",
+        "Border securitization",
+        "Informal economy disruption"
+      ],
+      "motion_areas": [
+        "TH, as DR Congo, would impose strict cross-border movement controls in response to the Ebola outbreak",
+        "THBT regional organizations should prioritize aggressive border surveillance over local autonomy during epidemic outbreaks",
+        "THP a world where epidemic containment is coordinated by regional health bodies rather than national governments",
+        "THBT governments should quarantine affected mining towns during Ebola outbreaks"
+      ],
+      "data_points": [
+        "Around 246 cases and 65 deaths reported in Ituri province",
+        "13 of 20 samples analysed at INRB in Kinshasa tested positive for Ebola",
+        "Four deaths were among lab-confirmed cases",
+        "This is DR Congo’s 17th Ebola outbreak",
+        "DR Congo’s 2018-2020 Ebola outbreak killed nearly 2,300 people",
+        "Around 50,000 people have died from Ebola across African countries over the past 50 years",
+        "Last year’s Ebola outbreak in Kasai province killed 45 people",
+        "Ituri has been under military rule since 2021",
+        "The outbreak is centered in the gold-mining towns of Mongwalu and Rwampara"
+      ]
+    },
+    {
+      "id": "35bbbaabfc93",
+      "title": "British Gas Forced Meter Scandal Exposes the Limits of Regulating Utility Debt Recovery",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T08:19:31Z",
+      "category": "Business",
+      "region": "United Kingdom",
+      "background": "British Gas has agreed to pay £20m into a redress fund and compensate customers after Ofgem investigated the forced fitting of prepayment meters. The regulator said the company breached licence conditions protecting vulnerable customers, and that British Gas had been aware of the issue since 2018, with an internal audit flagging it again in 2021, but did not stop the practice until 2023. The wider scandal affected the industry: 40,000 customers had prepayment meters installed without permission between 2022 and 2023, and suppliers including EDF, E.On and Scottish Power have already agreed compensation. The full British Gas settlement package could cost up to £112m, including compensation, debt write-offs of up to £70m, and a voluntary support package.",
+      "prop_args": [
+        {
+          "thesis": "This scandal proves that weak ex post penalties are not enough to stop utilities from abusing vulnerable customers, so regulators need much stricter ex ante limits on forced debt collection.",
+          "mechanisms": [
+            "First, the current regime creates a profit-maximizing incentive to push the boundary until caught. This is because (1) suppliers can recover debt faster by forcing customers onto prepayment, (2) the harm is dispersed across vulnerable households while the gains accrue immediately to the firm, and (3) a later fine or redress payment is often cheaper than changing collection practices upfront.",
+            "Second, the case shows internal compliance failures are predictable when firms are allowed to self-police. Three reasons: one, British Gas was warned in 2018, warned again in 2021, and still continued until 2023; two, the use of contractors and debt agents creates distance between decision-makers and harm; three, vulnerable customers are least able to litigate or complain effectively, so misconduct persists longer.",
+            "Third, banning or tightly restricting forced prepayment installation protects basic welfare and prevents energy poverty from becoming a coercive debt instrument. This matters because (1) losing access to heat and cooking is not a normal commercial consequence, (2) the threat of disconnection or enforced rationing disproportionately hits disabled, elderly, and low-income households, and (3) the state has a stronger interest in preventing utility access from being used as leverage than in maximizing debt recovery."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The right response is targeted enforcement and compensation, not sweeping restrictions that undermine legitimate debt recovery and raise costs for everyone else.",
+          "mechanisms": [
+            "First, utilities still need a credible way to recover unpaid bills or the costs are socialized across the customer base. One, if firms cannot use prepayment as a last resort, arrears rise; two, higher bad debt gets priced into tariffs for paying customers; three, this can reduce investment and worsen service quality.",
+            "Second, the scandal is evidence of regulatory failure, not proof that the tool itself is illegitimate. One, Ofgem already requires warrants and welfare checks; two, the problem was non-compliance and delayed intervention by firms, which can be fixed through audits, personal liability, and tougher sanctions; three, banning the practice entirely removes a useful enforcement mechanism even for households that can repay but refuse to engage.",
+            "Third, prepayment meters can protect consumers from larger debt spirals if used properly. One, they cap future consumption and stop arrears from compounding; two, they can be paired with repayment plans and support funds; three, for some households they are a budgeting tool rather than a punishment, so a blanket moral panic may reduce flexibility for both suppliers and customers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between preventing severe harm to vulnerable households and preserving a workable system for debt recovery in a regulated market. Prop wins if the round prioritizes abuse prevention and the asymmetry of power; opp wins if the round prioritizes system-wide cost discipline and argues that targeted enforcement can fix the problem without banning the tool.",
+      "stock_connections": [
+        "Regulatory failure",
+        "Moral hazard",
+        "Corporate accountability",
+        "Consumer protection",
+        "Vulnerability and exploitation",
+        "Privatisation failures",
+        "Access to essential services",
+        "Punitive regulation vs compliance incentives"
+      ],
+      "motion_areas": [
+        "THBT regulators should ban forced installation of prepayment meters in essential utilities",
+        "TH, as a regulator, would impose criminal liability on executives for systematic consumer abuse",
+        "THBT governments should prioritize consumer protection over debt recovery in essential services",
+        "THP a world in which utilities cannot use coercive debt collection against vulnerable customers"
+      ],
+      "data_points": [
+        "British Gas settlement package could cost up to £112m",
+        "£20m will go into a redress fund and customer compensation",
+        "Up to £70m of vulnerable customers' energy debt will be written off",
+        "40,000 customers had prepayment meters installed without permission between 2022 and 2023",
+        "British Gas was first made aware of the issue in 2018 and flagged again in an internal audit in 2021",
+        "Ofgem says suppliers must go to court for a warrant before installing a meter without consent",
+        "The scandal affected multiple suppliers, including EDF, E.On and Scottish Power"
+      ]
+    },
+    {
+      "id": "57033419c4a0",
+      "title": "US Settlement Lets Adani Contain Legal Risk While Exposing How Foreign Bribery Enforcement Can Be Bargained Away",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T06:41:19Z",
+      "category": "Business",
+      "region": "United States / India",
+      "background": "Gautam Adani and his nephew Sagar Adani have agreed to pay a combined $18m to settle a civil fraud lawsuit brought by the US Securities and Exchange Commission. The SEC had accused them in 2024 of paying bribes to Indian officials for renewable energy projects and misleading US investors about anti-bribery compliance while raising funds, including about $175m from US investors as part of a $750m bond-related fundraising. The proposed settlement still needs court approval and does not include an admission or denial of wrongdoing. Separately, reports from the New York Times, Reuters and Bloomberg said the US Department of Justice was moving to drop criminal fraud charges, amid reporting that Adani had hired a new legal team and offered a $10bn US investment and 15,000 jobs.",
+      "prop_args": [
+        {
+          "thesis": "Settling the case is the least-bad outcome because it preserves market stability while limiting the immediate damage from a long, uncertain cross-border enforcement fight.",
+          "mechanisms": [
+            "First, the settlement removes the overhang of open-ended litigation. This is because (1) investors hate uncertainty more than they hate a known fine, (2) a civil case can drag on for years and keep financing costs elevated, and (3) a negotiated resolution lets the company refocus on operations rather than legal defense.",
+            "Second, it protects the broader Adani ecosystem from a contagion effect. Three reasons: one, Adani Group spans energy, airports and other strategic sectors, two, a prolonged fraud trial could trigger lender panic and supplier caution across multiple subsidiaries, and three, a settlement signals that the worst-case scenario is being capped rather than escalating into a systemic collapse.",
+            "Third, the deal shows that enforcement can be calibrated to punish misconduct without destroying productive capital. This matters because the group is a major Indian conglomerate with global financing links, and a contained penalty is less economically disruptive than a full criminal conviction or asset freeze."
+          ]
+        },
+        {
+          "thesis": "The case strengthens the argument that US securities law remains a powerful tool against foreign corporate misconduct, even when the target is politically connected and overseas.",
+          "mechanisms": [
+            "First, the SEC extracted a monetary penalty and compliance restrictions from a billionaire-controlled conglomerate. This is because (1) access to US capital markets creates jurisdictional leverage, (2) the alleged misconduct involved misleading US investors, and (3) the settlement bars future violations of key anti-fraud laws, which creates ongoing deterrence.",
+            "Second, the case signals to other multinational firms that anti-bribery disclosures matter. Three reasons: one, the allegations centered on misrepresenting compliance with anti-bribery rules, two, the fundraising involved US investors and therefore reputationally sensitive disclosure obligations, and three, even a non-admission settlement can still damage credibility with banks and counterparties.",
+            "Third, the fact that the company’s shares rose after the announcement suggests markets view resolution as a positive discipline mechanism. This matters because it implies enforcement can improve transparency and lower the discount investors apply to opaque conglomerates."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The settlement is evidence that elite firms can buy their way out of accountability, weakening anti-corruption enforcement and encouraging future misconduct.",
+          "mechanisms": [
+            "First, the penalty is tiny relative to the scale of the alleged conduct and the defendant's wealth. One, $18m is negligible against Adani's reported $82bn fortune, two, the alleged fundraising was $750m with about $175m from US investors, and three, a low-cost settlement creates a moral hazard by making violations look like a manageable business expense.",
+            "Second, the lack of an admission or denial blunts deterrence. One, it allows the firm to avoid a formal finding of wrongdoing, two, counterparties and domestic regulators can be left with ambiguity rather than a clear precedent, and three, future executives learn that settlement can erase legal exposure without reputational confession.",
+            "Third, the reported DOJ retreat suggests enforcement is becoming politicized and negotiable. One, if dropping criminal charges can be linked to promises of $10bn in US investment and 15,000 jobs, two, foreign bribery enforcement becomes a bargaining chip rather than a rule-based system, and three, that undermines trust in US legal institutions and encourages forum shopping by powerful firms."
+          ]
+        },
+        {
+          "thesis": "The broader effect is to entrench crony capitalism in India and weaken anti-corruption reform.",
+          "mechanisms": [
+            "First, the allegations concern bribes to Indian officials for renewable energy projects. This matters because (1) it suggests state allocation of strategic projects can be captured by politically connected firms, (2) settlement without admissions leaves domestic accountability weak, and (3) local elites may infer that international scrutiny can be managed rather than feared.",
+            "Second, the case can distort India’s investment environment in the long run. One, clean firms face unfair competition from conglomerates with political access, two, foreign investors may price in governance risk across the whole market, and three, repeated scandals can reduce confidence in India’s regulatory institutions even when the immediate market reaction is positive."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term market stabilization and long-term deterrence. Prop wins if the round is about preventing immediate financial contagion and preserving productive capacity; Opp wins if the round is about rule-of-law credibility, because a low-cost, non-admission settlement for an $82bn tycoon looks like enforcement for sale.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Regulatory Capture",
+        "Rule of Law",
+        "Crony Capitalism",
+        "Too Big to Fail",
+        "Selective Enforcement",
+        "Investor Confidence",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as the US SEC, would settle with major foreign conglomerates accused of bribery",
+        "THBT the US should prioritize market stability over aggressive prosecution of foreign corporate bribery",
+        "THP a world where cross-border anti-corruption enforcement is negotiated through investment pledges"
+      ],
+      "data_points": [
+        "$18m combined penalty agreed by Gautam Adani and Sagar Adani",
+        "SEC accused the Adanis in 2024 of bribing Indian officials and misleading US investors about anti-bribery compliance",
+        "The fundraising allegedly totaled $750m, including approximately $175m from US investors",
+        "Forbes estimated Gautam Adani's net worth at $82bn",
+        "Reuters, Bloomberg and the New York Times reported the DOJ was moving to drop criminal fraud charges",
+        "Reportedly, Adani pledged $10bn in US investment and 15,000 jobs if charges were dropped"
+      ]
+    },
+    {
+      "id": "7bd99048eb89",
+      "title": "Labour Leadership Challenge Risks a Higher-Tax, Higher-Spend UK That Slows Investment",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/labour-power-struggle-highlights-uk-fiscal-dilemma-video",
+      "published": "2026-05-15T06:26:17Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "Bloomberg reports that pressure is mounting on UK Prime Minister Keir Starmer after senior Labour rivals moved to potentially challenge his leadership. Hetal Mehta, chief economist at St. James's Place, said markets are watching the UK fiscal outlook closely and warned that a more left-leaning leader could mean higher spending and higher taxes. Her concern is that this would push the UK into a zone where economic activity is disincentivized, with gilt markets reacting to the prospect of looser fiscal policy.",
+      "prop_args": [
+        {
+          "thesis": "A leftward Labour shift would worsen the UK’s fiscal credibility by raising taxes and spending in ways that suppress investment and growth.",
+          "mechanisms": [
+            "First, higher taxes reduce private-sector incentives to invest and expand. This is because (1) firms face lower post-tax returns on capital, (2) entrepreneurs delay hiring and expansion when marginal tax rates rise, and (3) mobile capital can relocate to lower-tax jurisdictions, shrinking the domestic tax base over time.",
+            "Second, higher spending without a credible productivity payoff worsens debt dynamics and market confidence. Three reasons: one, investors price in larger future borrowing needs; two, gilt yields can rise as compensation for fiscal risk; three, a weaker fiscal reputation makes future consolidation more painful because the state must borrow at higher cost.",
+            "Third, the political signal matters as much as the policy itself. This matters because a leadership challenge creates uncertainty about the UK’s medium-term fiscal direction, and uncertainty alone can freeze business planning, delay long-term investment, and amplify volatility in sterling and gilts."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A more interventionist Labour leadership could strengthen the UK economy by restoring demand, public services, and long-run productive capacity.",
+          "mechanisms": [
+            "First, higher public spending can crowd in growth if it targets binding constraints. One, investment in health, transport, housing, and skills raises labor productivity; two, better public services reduce private costs that firms otherwise bear; three, stronger demand can lift utilization in a weak economy, encouraging firms to hire and invest.",
+            "Second, higher taxes do not automatically kill activity if they are designed progressively and credibly. One, taxing windfall rents or wealth can raise revenue with limited effect on productive investment; two, if markets believe the tax plan is stable, uncertainty falls rather than rises; three, redistribution can support consumption among lower-income households with higher marginal propensities to spend.",
+            "Third, the real fiscal risk is underinvestment, not activism. One, austerity can leave the UK with low growth and a shrinking tax base; two, weak growth makes debt ratios worse even if spending is restrained; three, a government that improves long-term productivity can ultimately make debt more sustainable than one obsessed with short-term market appeasement."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether markets and firms react more to higher tax rates or to the credibility of the government’s growth strategy. Prop wins if the round is framed around immediate investor confidence and capital flight; opp wins if they can show that targeted spending raises productivity enough to improve the fiscal position over time.",
+      "stock_connections": [
+        "Laffer Curve",
+        "Crowding Out",
+        "Fiscal Credibility",
+        "Bond Vigilantes",
+        "Austerity vs Stimulus",
+        "Public Goods Provision",
+        "Tax Incidence",
+        "Growth vs Redistribution"
+      ],
+      "motion_areas": [
+        "TH, as the UK Labour Party, would prioritize fiscal credibility over redistribution",
+        "THBT left-wing governments should raise taxes on wealth and capital to fund public spending",
+        "THP a world where governments can borrow more aggressively to fund social investment",
+        "THBT markets should not be allowed to discipline democratic governments through bond yields"
+      ],
+      "data_points": [
+        "Article date: 2026-05-15T06:26:17Z",
+        "The article states that senior Labour Party rivals are considering a challenge to Keir Starmer's leadership",
+        "Bloomberg cites Hetal Mehta, chief economist at St. James's Place, warning that a more left-leaning leader could mean higher spending and higher taxes",
+        "The article notes concern about gilt market reaction to the UK fiscal situation"
+      ]
+    },
+    {
+      "id": "301114461df1",
+      "title": "Trump Reopens Cuba Channel Through Coercive Bargaining Over Sanctions, Security, and Regime Change",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5823340/cia-director-john-ratcliffe-met-with-raul-castros-grandson-in-havana-us-and-cuban-officials-say",
+      "published": "2026-05-15T05:50:02Z",
+      "category": "IR",
+      "region": "United States / Cuba",
+      "background": "CIA Director John Ratcliffe met Cuban officials in Havana on Thursday, including Raúl Castro’s grandson Raúl Guillermo Rodríguez Castro, Interior Minister Lázaro Álvarez Casas, and the head of Cuban intelligence. The talks covered intelligence cooperation, economic stability, and security, and came after earlier U.S.-Cuba meetings this year; the article says these were the first U.S. government flights to land in Cuba other than at Guantanamo Bay since 2016. The Trump administration says it is prepared to engage on economic and security issues only if Cuba makes “fundamental changes,” while Cuba rejects being a threat and objects to its U.S. terrorism designation. The visit comes amid Cuba’s worsening energy crisis, including a collapsed power grid, fuel shortages, reduced work hours, and food spoilage, and after Trump threatened tariffs on countries that sell or supply oil to Cuba in late January.",
+      "prop_args": [
+        {
+          "thesis": "Coercive engagement gives the United States leverage to extract security concessions and force Cuba to change behavior without immediately escalating to war.",
+          "mechanisms": [
+            "First, direct talks create a credible bargaining channel that sanctions alone cannot. This is because (1) the U.S. can tie humanitarian relief, internet support, and economic normalization to specific concessions, (2) Cuba’s acute energy and food crisis makes it more sensitive to conditional relief, and (3) face-to-face intelligence and security contacts reduce miscalculation and allow side payments on migration, counterintelligence, and regional security.",
+            "Second, pressure works better when Cuba is already economically vulnerable. Three reasons: one, the power grid collapse and fuel blockade increase the regime’s need for external inputs; two, the threat of tariffs on oil suppliers raises the cost of third-party support; three, the terrorism designation and sanctions regime give Washington multiple escalation ladders, so Cuba has incentives to bargain before conditions worsen.",
+            "Third, this is strategically valuable because it reduces the chance of a chaotic collapse or military confrontation. This matters because a managed opening lets the U.S. test whether limited concessions can improve security outcomes, while keeping the option of tougher measures if Havana refuses meaningful reforms."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The meeting mainly legitimizes coercion and will entrench Cuban hardliners without producing real reform.",
+          "mechanisms": [
+            "First, conditional diplomacy under threat is likely to be read as blackmail, not compromise. One, Cuba can frame the talks as proof that the U.S. is still trying to dictate domestic politics; two, that strengthens regime propaganda and nationalist rallying; three, it reduces incentives for internal liberalization because concessions look like surrender to an enemy.",
+            "Second, the U.S. pressure toolkit is blunt and may worsen the humanitarian situation before it changes elite behavior. One, tariffs on oil suppliers and the energy blockade can deepen blackouts, food spoilage, and unemployment; two, ordinary Cubans bear the costs while the leadership insulates itself, so public suffering does not translate into policy change; three, worsening conditions can actually increase dependence on the security apparatus and reduce space for dissent.",
+            "Third, intelligence and security engagement can backfire by giving the regime diplomatic breathing room. One, Havana gains the prestige of being treated as an equal interlocutor; two, it can use talks to buy time and split U.S. policymakers between hawks and pragmatists; three, without a clear path to sanctions relief, the talks become symbolic rather than transformative."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether pressure plus dialogue produces leverage or simply entrenches a besieged regime. Prop has the structural advantage if the round is about crisis management and preventing escalation, but Opp wins if they prove the costs of coercion are borne by civilians while elites remain insulated and politically strengthened.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Sanctions Effectiveness",
+        "Regime Legitimacy",
+        "Humanitarian Harm",
+        "Rally Around the Flag",
+        "Security Dilemma",
+        "Great Power Influence",
+        "State Capacity Collapse"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use coercive diplomacy to engage Cuba",
+        "THBT the United States should condition humanitarian and economic relief on political reform in Cuba",
+        "THP a world where the U.S. normalizes security talks with authoritarian adversaries only through sanctions leverage"
+      ],
+      "data_points": [
+        "This was the first U.S. government flight to land in Cuba other than at Guantanamo Bay since 2016",
+        "The U.S. State Department said it would provide Cuba with $100 million in humanitarian assistance and support for satellite internet if the Cuban regime permits it",
+        "Trump threatened tariffs in late January on any country that sells or supplies oil to Cuba",
+        "Cuba’s power grid has collapsed and energy to its eastern provinces has been cut",
+        "The article says reduced work hours and food spoilage are already occurring because refrigerators stop working",
+        "The U.S. says Cuba cannot continue to be a safe haven for adversaries in the Western Hemisphere"
+      ]
+    },
+    {
+      "id": "ed9b86bed5f7",
+      "title": "Burnham’s Bid Turns Labour’s Internal Rift Into a Credible Leadership Challenge",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/burnham-s-move-escalates-labour-revolt-against-starmer-video",
+      "published": "2026-05-15T05:46:36Z",
+      "category": "IR",
+      "region": "United Kingdom",
+      "background": "On 15 May 2026, Bloomberg reported that Manchester Mayor Andy Burnham secured a path to challenge Keir Starmer for the UK prime minister’s job after a Labour MP resigned from the House of Commons. Burnham said he would seek permission from Labour’s National Executive Committee to contest the vacant seat in a by-election. The development comes amid an escalating Labour party revolt against Starmer and raises the prospect of a direct leadership contest inside the governing party.",
+      "prop_args": [
+        {
+          "thesis": "Burnham’s move strengthens Labour by forcing accountability, resetting the party’s political direction, and giving voters a more competitive governing alternative.",
+          "mechanisms": [
+            "First, it disciplines a weak or unpopular leadership. This is because (1) the mere possibility of a challenge forces Starmer to respond to internal criticism rather than govern on autopilot, (2) leadership threats create incentives to adopt more electorally viable policies, and (3) MPs and activists gain leverage to push the party toward positions that better match the median voter.",
+            "Second, it can improve Labour’s electoral coalition. Three reasons: one, Burnham is associated with a more openly social-democratic, pro-public-services brand that may reconnect Labour with disaffected working-class and northern voters; two, a leadership contest can re-energize party membership and turnout by making the party feel competitive rather than managerial; three, visible internal democracy can reduce the perception that Labour is a closed elite project.",
+            "Third, this matters because a stronger internal contest can produce a more legitimate and durable governing mandate. If the party resolves its leadership dispute before or during a general-election cycle, the eventual winner can claim a clearer mandate and a more unified base, which reduces post-election factional sabotage and improves policy implementation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Burnham’s challenge weakens Labour by exposing division, distracting from governing, and making the party look unstable to voters and markets.",
+          "mechanisms": [
+            "First, it creates a public signal of disunity. One, leadership coups tell voters the party cannot manage itself, which undermines trust in its ability to manage the country; two, factional warfare crowds out policy messaging and lets opponents define Labour as chaotic; three, the longer the contest drags on, the more it normalizes the idea that Starmer is a lame duck.",
+            "Second, it damages governing capacity. One, ministers and MPs spend time on internal maneuvering instead of legislation, constituency work, and delivery; two, civil servants and external stakeholders face uncertainty over who will set policy, which slows implementation; three, a contested leadership environment encourages short-term positioning over coherent long-term reform.",
+            "Third, it can backfire electorally if Burnham is seen as opportunistic or if the challenge splits Labour’s coalition. One, centrist voters may dislike overt party infighting and defect to stability-oriented alternatives; two, Burnham’s brand may energize one faction while alienating another, making reunification harder; three, if the challenge fails, Starmer emerges weakened but still in office, leaving Labour with the worst of both worlds."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether internal contestation is a corrective mechanism or a destabilizing one. Prop wins if the key issue is Labour’s long-term electoral credibility and policy responsiveness; Opp wins if the immediate effect of visible revolt is to signal incompetence and reduce governing capacity.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Party Cohesion",
+        "Leadership Accountability",
+        "Elite Capture",
+        "Factionalism",
+        "Electoral Realignment",
+        "Political Legitimacy"
+      ],
+      "motion_areas": [
+        "TH, as a governing party, would allow open leadership challenges during a parliamentary term",
+        "THBT internal party democracy is more important than party unity",
+        "THP a world where major parties can replace their leaders mid-term without triggering a general election"
+      ],
+      "data_points": [
+        "Andy Burnham is the Mayor of Manchester",
+        "A Labour Party MP resigned from the House of Commons, creating a by-election opportunity",
+        "Burnham said he would seek permission from Labour’s National Executive Committee to run for the vacant seat",
+        "The report was published on 15 May 2026"
+      ]
+    },
+    {
+      "id": "7ba8fa1b18d2",
+      "title": "AI-Directed Warfare Accelerates a Global Arms Race Between Human Control and Autonomous Annihilation",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/g-s1-122205/pope-decries-rise-of-ai-directed-warfare",
+      "published": "2026-05-15T05:33:59Z",
+      "category": "IR",
+      "region": "Middle East; Ukraine; Europe (Italy/Rome)",
+      "background": "On 15 May 2026, Pope Leo XIV delivered a speech at Rome’s Sapienza University condemning the rise of AI-directed warfare and warning that military investment was driving the world into a \"spiral of annihilation.\" He specifically cited Ukraine, Gaza and the Palestinian territories, Lebanon, and Iran as examples of how new technologies are changing the nature of conflict. The speech came amid sharply rising military spending in Europe and ongoing efforts by Italy and Catholic organizations to bring Palestinian students and patients to Italy through humanitarian corridors since the Gaza war began in 2023.",
+      "prop_args": [
+        {
+          "thesis": "AI-enabled warfare makes conflict more likely to escalate, because it lowers the political and operational costs of violence while weakening human restraint.",
+          "mechanisms": [
+            "First, AI reduces the marginal cost of using force. This is because (1) targeting, surveillance, and decision-making become faster and cheaper, (2) commanders can run more operations with fewer soldiers at risk, and (3) states therefore face less domestic resistance to initiating or sustaining conflict.",
+            "Second, AI compresses escalation timelines and increases the chance of accidental war. Three reasons: one, machine-speed targeting leaves less time for diplomacy or verification; two, algorithmic systems can misread ambiguous signals and recommend overreaction; three, once both sides automate response loops, small incidents can cascade into rapid retaliation.",
+            "Third, AI weakens accountability and moral inhibition. This matters because when leaders can blame software, they are more willing to authorize lethal force, civilians become easier to treat as data points rather than protected persons, and the threshold for atrocities falls."
+          ]
+        },
+        {
+          "thesis": "The spread of AI in military systems entrenches an arms race that diverts resources away from social welfare and locks regions into permanent insecurity.",
+          "mechanisms": [
+            "First, AI warfare creates a competitive procurement spiral. One, states fear falling behind adversaries with better drones, targeting systems, and autonomous defenses; two, that fear pushes continuous upgrades rather than stable deterrence; three, the result is a self-reinforcing cycle of spending and counter-spending.",
+            "Second, military AI crowds out public investment. Three reasons: one, budgets are finite and defense outlays rise at the expense of education and healthcare; two, high-tech procurement enriches defense contractors and elite networks rather than broad populations; three, this worsens inequality and public distrust in government priorities.",
+            "Third, it destabilizes conflict regions by making war more sustainable. This matters because cheaper, more precise, and more persistent violence allows states and non-state actors to keep fighting longer, which prolongs displacement, destroys infrastructure, and makes negotiated settlements harder to reach."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AI in warfare can reduce casualties and improve deterrence by making military force more precise, more defensive, and less reliant on mass human slaughter.",
+          "mechanisms": [
+            "First, AI can improve targeting accuracy. One, better sensor fusion and data analysis can distinguish combatants from civilians more effectively than humans under stress; two, precision reduces collateral damage compared with indiscriminate shelling or bombing; three, that can make limited force more humane.",
+            "Second, AI strengthens deterrence and defense. One, autonomous detection systems can intercept drones, missiles, and cyberattacks faster than human operators; two, credible defensive capability raises the cost of aggression; three, stronger deterrence can prevent wars from starting in the first place.",
+            "Third, AI can reduce the need for large troop deployments. This matters because fewer soldiers on the ground means fewer body bags, less occupation-style warfare, and less domestic pressure to escalate through mass mobilization."
+          ]
+        },
+        {
+          "thesis": "The real driver of war is political intent, not technology, so regulating AI alone will not stop conflict and may even leave responsible states vulnerable.",
+          "mechanisms": [
+            "First, states fight for strategic, territorial, and ideological reasons that predate AI. One, leaders decide to invade or repress based on interests; two, the same conflicts would exist with or without autonomous systems; three, blaming technology risks ignoring the underlying causes of war.",
+            "Second, unilateral restraint creates security asymmetry. One, if democratic states limit AI while authoritarian rivals do not, the restrained side loses intelligence and battlefield advantage; two, that can embolden aggressors rather than deter them; three, the result may be more civilian harm, not less.",
+            "Third, effective governance is better than alarmism. This matters because existing arms-control, export-control, and human-in-the-loop standards can manage risk without freezing innovation or sacrificing legitimate defense needs."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI changes the frequency and intensity of war enough to outweigh its precision benefits. Prop wins if you think speed, scale, and accountability failures make escalation structurally more likely; Opp wins if you think the main effect is better defense and lower collateral damage, with politics still doing the real causal work.",
+      "stock_connections": [
+        "Arms Race",
+        "Security Dilemma",
+        "Moral Hazard",
+        "Automation Bias",
+        "Civilian Harm",
+        "Military-Industrial Complex",
+        "Technological Determinism",
+        "Escalation Dominance",
+        "Accountability Gap"
+      ],
+      "motion_areas": [
+        "TH, as a state, would ban autonomous weapons systems",
+        "THBT NATO should impose strict limits on AI in military decision-making",
+        "THP a world where all lethal military AI must have meaningful human control",
+        "THBT developing nations should prioritize social spending over military AI procurement"
+      ],
+      "data_points": [
+        "Pope Leo XIV said military spending had increased dramatically in 2026, especially in Europe, at the expense of education and healthcare",
+        "He cited Ukraine, Gaza and the Palestinian territories, Lebanon, and Iran as examples of AI and new technologies changing war",
+        "Italy has brought hundreds of Palestinians to study and receive medical care through humanitarian corridors since the Gaza war began in 2023",
+        "The speech was delivered at Sapienza University in Rome, the largest university in Europe"
+      ]
+    },
+    {
+      "id": "d081b317ee41",
+      "title": "Rising Funeral Costs Push UK Families Toward Direct Cremations, Trading Affordability for Grief and Closure",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqlpyr97n3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T05:24:21Z",
+      "category": "Econ",
+      "region": "United Kingdom (England)",
+      "background": "A BBC report says the average basic funeral in England in 2025 cost around £4,285, up 3.5% from 2024 according to insurer SunLife. The article says rising costs for fuel, food, travel, and funeral inputs have made cheaper options like direct cremation more common, where no one is present. SAIF says nearly one in five people who arrange a direct cremation later regret it, and one in five say they were left with unresolved grief.",
+      "prop_args": [
+        {
+          "thesis": "The rising cost of funerals is forcing a harmful market outcome where low-income families are pushed into cheaper arrangements that undermine bereavement and social welfare.",
+          "mechanisms": [
+            "First, funeral inflation creates a coercive affordability squeeze. This is because (1) the average basic funeral now costs £4,285, (2) the price rose 3.5% in a single year, and (3) families facing a sudden death have little time to shop around or save, so they accept the cheapest available option rather than the most emotionally appropriate one.",
+            "Second, the market shift toward direct cremation externalizes emotional costs onto families. Three reasons: one, direct cremation removes the communal ritual of goodbye; two, SAIF reports nearly one in five people who choose it regret the decision; three, one in five report unresolved grief, showing that the savings are often purchased through longer-term psychological harm.",
+            "Third, the burden falls disproportionately on poorer households and widows/widowers, making this a distributional justice issue. This matters because (1) the government Funeral Expenses Payment only covers about 46% of total funeral costs on average, (2) even with support there is still a large out-of-pocket gap, and (3) when dignity in death becomes income-dependent, inequality is reproduced at the most vulnerable moment."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Cheaper funeral options are a rational and necessary response to cost pressures, and the state should not force families into expensive rituals they cannot afford.",
+          "mechanisms": [
+            "First, direct cremation expands consumer choice and prevents debt spirals. One, funerals are often sudden, so families face liquidity constraints; two, a £4,285 average cost is unaffordable for many households; three, choosing a cheaper option can avoid borrowing, arrears, or sacrificing essentials like rent and utilities.",
+            "Second, the emotional harm is real but not universal, so policy should not assume one-size-fits-all preferences. One, some families value privacy or simplicity; two, the article itself notes the deceased may have chosen unattended cremation deliberately; three, open conversations about wishes can preserve dignity without mandating expensive ceremonies.",
+            "Third, the existing safety net already targets hardship more efficiently than blanket subsidies would. One, the Funeral Expenses Payment and Bereavement Support Payments exist for eligible families; two, public health funerals provide a basic fallback; three, expanding universal funeral support would subsidize higher-income households too and create fiscal inefficiency."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between affordability and ritual dignity: one side sees funeral inflation as a welfare failure, while the other sees low-cost options as necessary consumer protection. The prop side wins if the round is about inequality and hidden psychological costs; the opp side wins if the round is about fiscal realism and respecting diverse preferences.",
+      "stock_connections": [
+        "Cost of Living Crisis",
+        "Market Failure",
+        "Welfare State Targeting",
+        "Inequality",
+        "Consumer Choice",
+        "Poverty Trap",
+        "Externalities",
+        "Grief and Mental Health"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would fully subsidize basic funerals for low-income families",
+        "THBT the state should cap funeral service prices",
+        "THP a world where direct cremation is the default funeral option",
+        "THBT families should be encouraged to pre-plan and pre-pay funerals",
+        "TH, as local authorities, would provide universal public funeral services"
+      ],
+      "data_points": [
+        "Average basic funeral cost in England in 2025: £4,285",
+        "Funeral costs increased 3.5% from 2024 to 2025",
+        "SAIF found nearly 1 in 5 people who arrange a direct cremation regret it",
+        "SAIF found 1 in 5 direct cremation arrangers report unresolved grief",
+        "Funeral Expenses Payment covers approximately 46% of total funeral costs on average",
+        "The UK government offers an additional £1,000 with Funeral Expenses Payment for other funeral expenses"
+      ]
+    },
+    {
+      "id": "56cca4672b99",
+      "title": "Iran’s Seizures in Hormuz Turn Maritime Chokepoint Into Bargaining Chip",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz",
+      "published": "2026-05-15T05:11:32Z",
+      "category": "IR",
+      "region": "Strait of Hormuz; Iran; United States; United Arab Emirates; Oman",
+      "background": "On Thursday, a ship anchored off the UAE was seized and taken toward Iran, while an Indian-flagged cargo ship near Oman sank after an attack that caused a fire aboard the vessel. The incidents come amid escalating Iran-U.S. tensions over the Strait of Hormuz, through which about one-fifth of the world’s oil passed before the war. The White House said President Donald Trump and Chinese leader Xi Jinping agreed the strait must remain open, while Iran has insisted it has sovereignty over the waterway and a right to seize tankers linked to the U.S.",
+      "prop_args": [
+        {
+          "thesis": "Allowing Iran to treat Hormuz as a sovereign bargaining chip is dangerous because it normalizes coercive control over a global chokepoint and raises the cost of any future settlement.",
+          "mechanisms": [
+            "First, it converts a commercial shipping lane into a political hostage. This is because (1) ships do not need to be sunk to create leverage — even the threat of seizure is enough to force rerouting, (2) insurers price in uncertainty immediately, so premiums and freight rates jump before any formal blockade, and (3) Iran can extract concessions without needing to win a conventional military contest.",
+            "Second, it weakens the international norm of freedom of navigation. Three reasons: one, if a state can claim 'historic ownership' over a strait used by global trade, other coastal powers get a precedent for similar claims; two, it incentivizes tit-for-tat maritime harassment by rivals; three, it makes every future negotiation about shipping rights a sovereignty dispute rather than a technical security issue.",
+            "Third, it creates a global economic shock that is disproportionate to the local conflict. This matters because the article notes that roughly a fifth of world oil passed through Hormuz before the war, so even limited disruption can spike fuel prices far beyond the Middle East, hit import-dependent states, and force major powers to intervene."
+          ]
+        },
+        {
+          "thesis": "The U.S. and its partners should resist Iran’s maritime coercion because conceding now would reward escalation and make future diplomacy less credible.",
+          "mechanisms": [
+            "First, concessions under threat create moral hazard. One, Iran learns that seizures and attacks produce bargaining power; two, other armed actors observe that disrupting trade gets attention; three, the expected payoff from escalation rises, making future crises more likely.",
+            "Second, backing down would undermine deterrence and alliance confidence. One, Gulf states like the UAE and Oman need assurance that commercial shipping will be protected; two, if Washington cannot secure a vital route, partners will hedge by accommodating Iran or seeking their own military capabilities; three, that erodes the U.S.-led security architecture in the Gulf.",
+            "Third, a firm response preserves the possibility of a cleaner deal later. This matters because if Iran gets recognized control over Hormuz now, any later negotiation starts from a worse baseline, whereas demonstrating that coercion fails keeps the diplomatic table centered on sanctions relief, inspections, and de-escalation rather than territorial revision."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Iran’s actions are a rational response to war and sanctions, and the real solution is to address its security and economic grievances rather than escalate militarily.",
+          "mechanisms": [
+            "First, Iran is using asymmetric leverage because it cannot match the U.S. conventionally. One, the article says its military capabilities have been 'dramatically degraded'; two, maritime disruption is one of the few tools that can impose costs on the U.S. and its partners; three, this makes the behavior strategically understandable even if it is disruptive.",
+            "Second, the conflict is being driven by unresolved bargaining failures. One, Iran has set conditions for talks including reparations and recognition of sovereignty over Hormuz; two, the U.S. is unlikely to accept those terms, so coercion becomes Iran’s way of forcing attention; three, without a political off-ramp, military pressure alone will not stabilize shipping.",
+            "Third, a hardline response risks widening the war and worsening global energy prices. One, direct U.S. escort or strikes could trigger retaliation across the Gulf; two, the article already shows attacks on commercial shipping and civilian mariners, so escalation would endanger more neutral states; three, the economic shock would be borne by consumers worldwide, not just Iran."
+          ]
+        },
+        {
+          "thesis": "International actors should prioritize keeping Hormuz open through negotiation and managed deconfliction, not maximalist demands about sovereignty.",
+          "mechanisms": [
+            "First, the immediate objective is safe passage, not final legal settlement. One, merchant shipping and insurance markets need predictability now; two, insisting on a full sovereignty victory for either side prolongs the crisis; three, temporary protocols can reduce attacks even if the underlying dispute remains unresolved.",
+            "Second, third-party diplomacy is more feasible than coercive enforcement. One, the article notes China’s involvement and Chinese vessels passing under new Iranian protocols; two, major importers have leverage over Tehran because they care about energy flows; three, a multilateral arrangement can create face-saving off-ramps that bilateral U.S.-Iran talks cannot.",
+            "Third, the costs of permanent militarization are too high. One, escorting every vessel turns the strait into a standing military theater; two, that increases accident and miscalculation risks; three, it locks the region into an arms race around one chokepoint rather than building a durable maritime order."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive control over Hormuz is treated as a temporary bargaining tactic or a precedent that rewrites maritime order. Prop wins if the judge prioritizes deterrence and systemic stability; opp wins if they think immediate de-escalation and avoiding a wider war outweigh the long-term norm costs.",
+      "stock_connections": [
+        "Freedom of Navigation",
+        "Chokepoint Diplomacy",
+        "Moral Hazard",
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Energy Security",
+        "Coercive Diplomacy",
+        "Great Power Competition",
+        "Escalation Dominance",
+        "Economic Interdependence"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would use military force to reopen the Strait of Hormuz",
+        "THBT states should not negotiate over maritime chokepoints under threat of force",
+        "THP a world where major powers guarantee freedom of navigation in strategic straits",
+        "THBT the international community should recognize temporary deconfliction arrangements over strict sovereignty claims in contested waterways"
+      ],
+      "data_points": [
+        "About one-fifth of the world’s oil passed through the Strait of Hormuz before the war",
+        "A ship was seized 38 nautical miles northeast of Fujairah, near a major UAE oil export terminal",
+        "The Indian-flagged cargo ship Haji Ali carried 14 Indian crew members, all rescued by Oman’s coast guard",
+        "The U.S. sanctioned the tanker Ocean Koi in February as part of a 'shadow fleet' transporting Iranian oil",
+        "Adm. Brad Cooper said the U.S. has the military power to 'permanently reopen the strait and escort ships'",
+        "Iran said it would not enter more talks unless five conditions were met, including reparations and acceptance of Iranian sovereignty over Hormuz"
+      ]
+    },
+    {
+      "id": "5aa73adfaf2d",
+      "title": "Trump’s Counterterrorism Strategy Politicizes Threat Priorities and Leaves Far-Right, Drone, and Online Extremism Undercovered",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/15/trump-counterterrorism-strategy/",
+      "published": "2026-05-15T04:01:07Z",
+      "category": "IR",
+      "region": "United States; Iran; Middle East; Europe; Sahel; Global",
+      "background": "On 2026-05-15, the White House released the 2026 U.S. Counterterrorism Strategy. The article argues the document prioritizes legacy Islamist terrorists, violent left-wing extremists, and narcoterrorists/transnational gangs, while giving minimal attention to Iranian-backed terrorism, far-right extremism, online radicalization, and emerging tech threats like drones and generative AI. It also notes that Trump had already designated multiple cartels and gangs as Foreign Terrorist Organizations, including Cártel de Sinaloa, CJNG, Cártel del Noreste, Cártel de Golfo, La Nueva Familia Michoacana, Cárteles Unidos, MS-13, and Tren de Aragua.",
+      "prop_args": [
+        {
+          "thesis": "A politically distorted counterterrorism strategy makes the U.S. less safe by misallocating finite resources away from the most lethal and fast-evolving threats.",
+          "mechanisms": [
+            "First, it misallocates scarce personnel, intelligence, and funding. This is because (1) counterterrorism resources are finite, (2) expanding the mission to cartels and broad ideological buckets dilutes focus on ISIS, al Qaeda, and affiliates, and (3) bureaucracies tend to chase presidential priorities rather than threat severity, so the highest-risk targets get less attention.",
+            "Second, it creates blind spots in the threat picture. Three reasons: one, far-right extremism has been among the deadliest forms of terrorism in the U.S. over the last decade; two, the strategy barely addresses Iranian-backed terrorism despite the U.S. being at war with Iran; three, it underweights online radicalization and tech-enabled plots, which are now core pathways into violence.",
+            "Third, it weakens prevention against emerging modalities of attack. This matters because (1) drones and 3D-printing lower the cost of spectacular attacks, (2) online ecosystems and generative AI accelerate recruitment and imitation, and (3) if the state is slow to adapt, lone actors and small cells can inflict outsized casualties before traditional CT tools detect them."
+          ]
+        },
+        {
+          "thesis": "Treating cartels and gangs as terrorists can be justified as a necessary expansion of counterterrorism to match the real-world violence they generate.",
+          "mechanisms": [
+            "First, these groups already function like strategic security threats rather than ordinary criminals. One, they control territory and challenge state authority; two, they use mass violence, intimidation, and cross-border networks; three, fentanyl trafficking has produced a public health catastrophe that kills Americans at scale.",
+            "Second, FTO designation can unlock stronger tools. This is because (1) it increases legal and financial pressure on facilitators, (2) it signals to allies and banks that these actors are not just local criminals, and (3) it broadens intelligence and interagency coordination beyond standard law-enforcement approaches.",
+            "Third, the strategy can be defended as adapting to hybrid threats. Three reasons: one, cartels increasingly use military-grade tactics and transnational logistics; two, they overlap with migration, corruption, and border security concerns; three, a narrow old-school CT framework may miss actors who do not fit cleanly into the terrorism/crime divide."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strategy is dangerously politicized and therefore less effective than a threat-based counterterrorism doctrine.",
+          "mechanisms": [
+            "First, it suppresses the most relevant threat categories. One, far-right extremism has produced major mass-casualty attacks in Pittsburgh, El Paso, and Buffalo; two, the document gives only passing attention to online radicalization and nihilistic violence; three, it underplays Iranian-backed terrorism even amid active conflict with Iran.",
+            "Second, it distorts institutional incentives. One, agencies will chase the president’s preferred enemies rather than the most lethal ones; two, this encourages symbolic designations over operational disruption; three, it erodes analytic credibility, making allies and career officials less likely to treat the strategy as serious.",
+            "Third, it turns CT into partisan messaging. One, references to praise for Trump and ideological attacks on left-wing groups suggest domestic political framing; two, that crowds out evidence-based prioritization; three, once CT becomes a culture-war tool, it becomes harder to sustain bipartisan support and long-term continuity."
+          ]
+        },
+        {
+          "thesis": "Expanding counterterrorism to cartels, gangs, and broad ideological categories risks diluting the concept of terrorism and weakening cooperation.",
+          "mechanisms": [
+            "First, it blurs the line between political violence and profit-driven crime. One, terrorists seek political change while cartels seek profit; two, if every violent transnational criminal group is treated as terrorism, the FTO label loses meaning; three, diluted definitions reduce the deterrent and diplomatic value of designation.",
+            "Second, it can crowd out the collective-security model that actually works. One, counterterrorism against ISIS and al Qaeda historically depended on intelligence sharing with Europe and regional partners; two, browbeating allies into accepting more burden undermines trust; three, offloading responsibility onto Sahel or European partners ignores that terrorism is transnational and requires coordinated burden-sharing.",
+            "Third, it may produce perverse operational tradeoffs. One, resources shifted to cartel suppression can reduce focus on drone proliferation, online radicalization, and far-right cells; two, law-enforcement tools are often better suited to organized crime than CT tools; three, over-securitization can create civil-liberties backlash and make domestic prevention harder."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic expansion and actual threat prioritization. The pro side wins if it proves cartels and gangs are a more immediate security problem than traditional jihadist CT targets; the opposition wins if it shows that the strategy’s blind spots on far-right, online, and tech-enabled extremism are the deadliest and most under-addressed risks.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Mission Creep",
+        "Resource Allocation",
+        "Collective Security",
+        "Securitization",
+        "Politicization of Institutions",
+        "Threat Inflation",
+        "Blowback",
+        "Radicalization Online",
+        "Asymmetric Warfare"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize counterterrorism resources toward domestic far-right extremism over transnational jihadist threats",
+        "THBT governments should designate major drug cartels as terrorist organizations",
+        "THP a world where counterterrorism strategy is insulated from partisan politics",
+        "THBT states should treat online radicalization as a core national security threat rather than a law-enforcement issue",
+        "THBT allies should bear a greater share of counterterrorism burdens in their own regions"
+      ],
+      "data_points": [
+        "2026-05-15: White House released the 2026 U.S. Counterterrorism Strategy",
+        "Trump designated Cártel de Sinaloa, CJNG, Cártel del Noreste, Cártel de Golfo, La Nueva Familia Michoacana, Cárteles Unidos, MS-13, and Tren de Aragua as FTOs",
+        "Pittsburgh synagogue attack (2018): 11 killed",
+        "El Paso Walmart shooting (2019): 23 killed",
+        "Buffalo supermarket shooting (2022): 10 killed",
+        "Christchurch attack (2019): 51 killed",
+        "Utøya/Oslo attacks (2011): 77 killed",
+        "Belgian jihadi drone plot discovered in October 2025; suspects allegedly had a 3D printer for payload construction",
+        "Sahel jihadists, including JNIM, have used cheap drones in coordinated attacks on Malian government assets"
+      ]
+    },
     {
       "id": "89ace4af9d6f",
       "title": "Trump–Xi Summit Trades Iran De-escalation for Fragile China–US Economic Bargains",

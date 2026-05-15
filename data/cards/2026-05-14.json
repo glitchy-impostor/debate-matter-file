@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "last_updated": "2026-05-15T04:11:54Z",
+  "last_updated": "2026-05-15T09:24:29Z",
   "cards": [
     {
       "id": "b0b8f8f59bf7",
@@ -334,6 +334,60 @@
         "The UK government consultation on online safety closes on 26 May",
         "The consultation is considering an Australian-style under-16 social media age limit",
         "The NSPCC warned an under-16 ban could have unintended consequences, including exposing children to dangerous platforms when they turn 16"
+      ]
+    },
+    {
+      "id": "23b970f270f2",
+      "title": "US Supreme Court Temporarily Shields Mail-Order Abortion Access From State-Level Bans",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21x27d4jdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T22:46:28Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "The US Supreme Court issued an emergency stay on Thursday allowing mifepristone, the abortion pill, to continue being accessed by mail while litigation continues. The order blocks a lower-court restriction that would have reinstated an in-person dispensing requirement after Louisiana sued the FDA last October to stop nationwide delivery of the drug. Mifepristone is the first pill in the FDA-recommended two-drug abortion regimen and is the most common method of terminating pregnancies in the US, especially in states where abortion is banned; more than 20 states have banned or restricted abortion since Roe v Wade was overturned in 2022.",
+      "prop_args": [
+        {
+          "thesis": "Preserving mail access to mifepristone protects practical reproductive autonomy and prevents state bans from becoming de facto nationwide through litigation.",
+          "mechanisms": [
+            "First, mail access preserves real-world access to abortion in restrictive states. This is because (1) many women cannot travel out of state for time, money, childcare, or immigration reasons, (2) telemedicine and mail delivery reduce the need for clinic visits and therefore lower delay costs, and (3) mifepristone is the most common method of abortion in the US, so restricting it would sharply reduce the number of people who can actually obtain care.",
+            "Second, the stay prevents a single state from exporting its abortion policy beyond its borders. Three reasons: one, Louisiana's lawsuit is explicitly aimed at stopping nationwide delivery even though the state's ban only applies locally; two, allowing one state to block FDA-approved distribution creates a precedent for forum-shopping and patchwork national regulation; three, if every hostile state can choke off mail access, abortion rights in permissive states become functionally weaker through supply-chain interference.",
+            "Third, the court avoids immediate public-health harms while the merits are unresolved. This matters because (1) abortion delays increase medical risk and cost, (2) forcing in-person dispensing would disproportionately hit low-income, rural, and out-of-state patients, and (3) the stay is temporary, so it preserves the status quo without finally deciding the constitutional or statutory question."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Restricting mail-order mifepristone is justified because states should be able to enforce their own abortion laws and prevent federal agencies from nullifying local democratic choices.",
+          "mechanisms": [
+            "First, the restriction restores state sovereignty over a morally contested issue. One, Louisiana's legislature and voters have chosen a near-total abortion ban, two, allowing FDA mail distribution lets an unelected federal agency override that policy in practice, and three, if states cannot control access to abortion drugs, then their bans become symbolic rather than enforceable.",
+            "Second, in-person dispensing can be defended as a safety and accountability measure. One, requiring a clinician visit can screen for contraindications, gestational age, and coercion, two, it creates a clearer record for adverse-event monitoring and legal compliance, and three, the court can treat abortion medication differently from ordinary consumer goods because it involves medical risk and contested life-ending effects.",
+            "Third, limiting access may reduce the scale of abortions in states that have democratically banned them. One, easier access by mail lowers the friction cost of obtaining the drug, two, higher friction can deter some abortions and thereby align outcomes with state policy, and three, opponents can argue that the law should not facilitate conduct the state has deemed unlawful."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the court is preserving rights or enabling regulatory overreach. Prop has the structural advantage on immediate harm and access because the stay merely maintains the status quo while litigation continues, but Opp can win if the round is framed around federalism and democratic legitimacy in abortion regulation.",
+      "stock_connections": [
+        "Federalism",
+        "Judicial Activism",
+        "Rights vs Democracy",
+        "Public Health Externalities",
+        "Regulatory Preemption",
+        "Access to Healthcare",
+        "Democratic Backsliding"
+      ],
+      "motion_areas": [
+        "TH, as the US Supreme Court, would preserve mail-order access to abortion pills pending litigation",
+        "THBT federal courts should prioritize maintaining the status quo in contested reproductive rights cases",
+        "THP a world where abortion medication can be delivered by mail regardless of state bans"
+      ],
+      "data_points": [
+        "Mifepristone is the first pill in the FDA-recommended two-pill abortion regimen",
+        "More than 20 US states have banned or restricted abortion since Roe v Wade was overturned in 2022",
+        "The FDA permanently allowed mifepristone to be sent by mail in 2023",
+        "The Supreme Court unanimously rejected a prior effort to restrict access to mifepristone in 2024",
+        "The current Supreme Court stay came through the emergency docket with no reasoning attached",
+        "Louisiana filed suit in October 2025 to stop nationwide delivery of mifepristone",
+        "The lower-court order would have reinstated an in-person dispensing requirement while litigation continues"
       ]
     },
     {
@@ -1314,6 +1368,58 @@
         "Two US citizens, Alex Pretti and Renee Nicole Good, were shot dead by federal agents during Operation Metro Surge in January",
         "Markwayne Mullin was confirmed as Homeland Security secretary on March 24",
         "David Venturella, a former Geo Group executive, was approved this Tuesday as acting ICE director"
+      ]
+    },
+    {
+      "id": "4941facaa684",
+      "title": "Israeli Sovereignty Marches in Jerusalem Deepen Annexation, Exclusion, and Urban Conflict",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-14T20:51:47Z",
+      "category": "IR",
+      "region": "Jerusalem (Israel/Palestinian territories)",
+      "background": "On 14 May 2026, tens of thousands of Israeli celebrants marched through Jerusalem's Old City, which Israel captured in the 1967 Arab-Israeli war. Israel's annexation of East Jerusalem is not recognised by many allies, including the UK. The annual march has repeatedly been associated with racist chants and violence toward Palestinian residents and businesses, and BBC correspondent Lucy Williamson reported from the ground during the commemorations.",
+      "prop_args": [
+        {
+          "thesis": "Normalising large-scale nationalist marches through East Jerusalem entrenches de facto annexation and makes a negotiated two-state settlement less likely.",
+          "mechanisms": [
+            "First, it turns a disputed area into a lived reality of Israeli sovereignty. This is because (1) repeated mass marches create facts on the ground that signal permanent control, (2) Palestinian residents are forced to adapt to Israeli dominance in daily space, and (3) international non-recognition becomes symbolic when enforcement is absent.",
+            "Second, it intensifies local coercion against Palestinians. Three reasons: one, racist chants and harassment raise the social cost of remaining in the area; two, violence against shops and residents damages the Palestinian economic base and pushes displacement; three, the march incentivises heavier policing and security restrictions that Palestinians experience as collective punishment.",
+            "Third, it hardens political identities on both sides and shrinks compromise space. This matters because the event rewards maximalist Israeli nationalism, validates Palestinian claims that negotiations cannot protect them, and makes any future territorial compromise look like capitulation rather than peace."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Allowing the march is a legitimate expression of national identity and does not materially change the underlying sovereignty dispute.",
+          "mechanisms": [
+            "First, the march is mostly symbolic rather than determinative. One, Jerusalem's status is already governed by larger diplomatic and military realities, not by one annual event; two, international recognition debates are decided by states and institutions, not street-level commemorations; three, banning the march would not alter Israel's control over the city.",
+            "Second, restricting the march would likely inflame tensions more than permitting it. One, bans can be framed by Israeli nationalists as discrimination against Jewish access to holy and historic sites; two, confrontation between police and marchers can create more immediate violence than the march itself; three, suppression can strengthen hardliners who argue coexistence is impossible.",
+            "Third, the event can be managed through policing and route controls rather than treated as inherently destabilising. One, targeted security measures can reduce harassment; two, enforcement against hate speech and assaults can punish actual violence without banning expression; three, preserving lawful public rituals can prevent the state from appearing to privilege one community's veto over another's rights."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic expression and cumulative political reality: Opp can say one march does not decide sovereignty, but Prop can show that repeated mass events create durable facts on the ground and normalise exclusion. Prop has the structural advantage because the harm is not just immediate disorder, but the long-term erosion of Palestinian rights, bargaining power, and the viability of a negotiated settlement.",
+      "stock_connections": [
+        "Facts on the Ground",
+        "Annexation by Stealth",
+        "Ethnic Nationalism",
+        "Collective Punishment",
+        "Security Dilemma",
+        "Two-State Solution Erosion",
+        "Minority Rights",
+        "Urban Segregation"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would ban nationalist marches through disputed East Jerusalem",
+        "THBT states should not permit public commemorations that entrench contested territorial claims",
+        "THP a world where disputed capitals are governed by strict neutrality rules on public demonstrations"
+      ],
+      "data_points": [
+        "Tens of thousands of Israeli celebrants participated in the annual march through Jerusalem's Old City",
+        "Jerusalem's Old City was captured by Israel in the 1967 Arab-Israeli war",
+        "Israel's annexation of East Jerusalem is not recognised by many allies, including the UK",
+        "The march is frequently accompanied by racist chants and violence toward Palestinian residents and businesses"
       ]
     },
     {
