@@ -1,7 +1,1361 @@
 {
   "date": "2026-05-15",
-  "last_updated": "2026-05-15T09:24:29Z",
+  "last_updated": "2026-05-15T14:31:45Z",
   "cards": [
+    {
+      "id": "25ac9fc46c98",
+      "title": "UK Airport Expansion Becomes a Competition Policy Fight Over Who Captures Heathrow’s £33bn Buildout",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqxpz4q5vdvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T14:08:28Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "The Civil Aviation Authority (CAA) is consulting on regulatory changes for a possible Heathrow expansion, including forcing Heathrow Airport Limited (HAL) to let rival firms bid to build a third runway and a new terminal. Heathrow’s current expansion plan is estimated at £33bn and would raise capacity to 756,000 flights and 150 million passengers a year. The government said in November it preferred Heathrow’s own proposal over a rival plan from the Arora Group, but a final planning decision is not expected until 2029.",
+      "prop_args": [
+        {
+          "thesis": "Opening Heathrow’s expansion to competitive tendering will lower costs, improve efficiency, and protect consumers from monopoly pricing.",
+          "mechanisms": [
+            "First, competitive tendering disciplines construction costs. This is because (1) HAL currently faces weak competitive pressure as the incumbent airport operator, (2) rival developers can underbid on design, finance, and build costs, and (3) the CAA can use the threat of losing the contract to force HAL to trim waste and overengineering.",
+            "Second, allowing a rival to directly provide services to airlines creates an ongoing market check on Heathrow’s pricing power. Three reasons: one, airlines can compare terminal and infrastructure charges against an alternative operator; two, Heathrow can no longer pass every cost overrun through to captive users; three, the prospect of direct competition incentivises better service quality and punctuality.",
+            "Third, this is the only credible way to stop a £33bn project from becoming a consumer bill. This matters because (1) Heathrow is already described by businesses as the world’s most expensive airport, (2) infrastructure megaprojects routinely suffer cost escalation when a single incumbent controls procurement, and (3) lower airport charges support wider economic activity by reducing costs for airlines, exporters, and passengers."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Fragmenting Heathrow’s expansion will delay delivery, raise coordination costs, and risk undermining the economic growth the airport is meant to generate.",
+          "mechanisms": [
+            "First, splitting design, finance, and construction between competing developers creates coordination failure. One, runway, terminal, road tunnel, and M25 works are tightly interdependent; two, multiple operators increase contractual disputes over interfaces and liability; three, delays become more likely because no single actor can optimise the whole project.",
+            "Second, competition may be illusory in a project of this scale because Heathrow is a natural monopoly with highly specific infrastructure. One, the airport’s physical layout and safety requirements limit the number of viable bidders; two, bidders may lowball to win and then renegotiate once sunk costs rise; three, the state still bears the political cost if expansion slips beyond 2029.",
+            "Third, the cheapest bidder is not necessarily the best long-term operator. One, Heathrow’s value comes from integrated management with airline partnerships and operational expertise; two, a rival terminal operator could create incompatible systems and lower reliability; three, if service quality falls, airlines and passengers pay through disruption even if headline construction costs are lower."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether competition actually disciplines a monopoly megaproject or instead fragments a complex infrastructure build. Prop wins if the round is about consumer protection and cost control; opp wins if the round prioritises delivery certainty, integration, and the risk that delay wipes out any theoretical savings.",
+      "stock_connections": [
+        "Natural Monopoly",
+        "Monopoly Pricing",
+        "Regulatory Capture",
+        "Principal-Agent Problem",
+        "Infrastructure Cost Overruns",
+        "Race to the Bottom",
+        "Public-Private Partnership Incentives",
+        "Market Competition vs Coordination Failure"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would force Heathrow expansion to be competitively tendered",
+        "THBT regulators should require monopoly infrastructure providers to open major expansion projects to rival bidders",
+        "THP a world where airport expansion is subject to direct competition between developers"
+      ],
+      "data_points": [
+        "Heathrow expansion plan estimated at £33bn",
+        "Planned capacity increase to 756,000 flights and 150 million passengers per year",
+        "Government preferred Heathrow’s proposal over Arora Group’s alternative in November",
+        "Heathrow’s proposed runway is 2.2 miles (3.5km) and would require a new road tunnel plus moving part of the M25",
+        "The government is aiming for a planning decision on Heathrow expansion by 2029",
+        "Businesses say the current model makes Heathrow the most expensive airport in the world"
+      ]
+    },
+    {
+      "id": "9613ab909525",
+      "title": "Supreme Court Weakening of Voting Rights Act Enables Southern Republicans to Rebuild Black Vote Suppression Through Redistricting",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/bennie-thompson-voting-rights-act",
+      "published": "2026-05-15T14:00:42Z",
+      "category": "IR",
+      "region": "United States (Mississippi; Louisiana; Tennessee; Florida; Alabama)",
+      "background": "The US Supreme Court’s recent decision in Louisiana v Callais effectively gutted key Voting Rights Act protections under section 2, weakening the legal standard used to challenge racially discriminatory district maps. In response, Republican officials across the South have moved quickly to redraw maps, including Tennessee eliminating its one Black congressional district and Florida and Alabama preparing or enacting new maps. Mississippi Rep. Bennie Thompson, the state’s lone Black and only Democratic congressional representative, says GOP leaders are openly targeting his district, which is nearly 300 miles long and has been repeatedly redrawn by Republican legislators.",
+      "prop_args": [
+        {
+          "thesis": "Weakening the Voting Rights Act predictably reopens racial gerrymandering and strips Black communities of meaningful political representation.",
+          "mechanisms": [
+            "First, it removes the legal backstop that previously stopped legislatures from packing, cracking, or otherwise diluting Black voting power. This is because (1) section 2 litigation was one of the few tools forcing states to draw majority-Black or influence districts, (2) without it lawmakers can claim facial neutrality while still engineering maps that reduce minority representation, and (3) the article shows southern Republicans immediately treating the ruling as permission to redraw districts targeting Black incumbents.",
+            "Second, it incentivizes partisan actors to use redistricting as direct racial retaliation. Three reasons: one, officials like Andy Gipson and Shad White publicly called for Thompson’s district to be redrawn after the ruling; two, Governor Tate Reeves explicitly framed the issue as a question of when, not if, to target the map; three, when the political reward is eliminating Black representation, state-level majorities have both motive and capacity to act fast before courts or voters can respond.",
+            "Third, the democratic harm compounds over time because district manipulation changes who can win office, not just who can vote. This matters because (1) Black communities lose descriptive and substantive representation on issues like education, infrastructure, and civil rights, (2) fewer Black elected officials means weaker recruitment pipelines and less institutional power, and (3) once maps are locked in, the effects persist across multiple election cycles, making the decline in representation durable rather than symbolic."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The ruling does not destroy democracy; it restores state control over redistricting and prevents courts from freezing political maps into racial quotas.",
+          "mechanisms": [
+            "First, it corrects what opponents describe as judicial overreach in map-drawing. One, section 2 had increasingly been used to force race-conscious districting even when states argued they were pursuing legitimate compactness or community-of-interest goals; two, the Supreme Court can claim it is limiting litigation abuse rather than endorsing discrimination; three, states retain the formal obligation to avoid overt racial discrimination under other constitutional and statutory rules.",
+            "Second, not every redraw that hurts a Black incumbent is necessarily voter suppression. One, districts can be changed for population equality, geographic coherence, or partisan advantage without violating the law; two, Mississippi’s second district is already unusually long and geographically awkward, which gives reformers a plausible nonracial justification; three, if Black voters remain numerous statewide, they can still influence elections through turnout, coalition-building, and candidate recruitment even without a protected district.",
+            "Third, the political backlash may be overstated because legal and electoral constraints still exist. One, redrawn maps face ongoing court challenges and public scrutiny; two, aggressive gerrymanders can trigger counter-mobilization and national attention that hurts Republicans electorally; three, if Democrats and civil-rights groups organize effectively, the ruling could energize turnout and fundraising rather than permanently entrench suppression."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the ruling merely shifts redistricting power to elected officials or whether it predictably enables durable racial exclusion. Prop wins because the article shows immediate, explicit targeting by Republican officials, which is strong evidence of mechanism, while Opp has to rely on formal legal safeguards and speculative voter mobilization after the fact.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Minority Rights",
+        "Gerrymandering",
+        "Voter Suppression",
+        "Race to the Bottom",
+        "Institutional Capture",
+        "Descriptive Representation",
+        "Path Dependence"
+      ],
+      "motion_areas": [
+        "TH, as the US Supreme Court, would preserve strong Voting Rights Act protections against racial vote dilution",
+        "THBT states should be prohibited from redrawing electoral maps that reduce minority representation without federal preclearance",
+        "THP a world where racial gerrymandering is treated as a core democratic emergency",
+        "THBT the South should be forced to use independent redistricting commissions for congressional maps"
+      ],
+      "data_points": [
+        "Mississippi is about 38% Black, the largest Black population share of any US state",
+        "By 1964, only about 6.7% of eligible Black Mississippians were registered to vote",
+        "Mississippi’s second congressional district is nearly 300 miles long",
+        "Tennessee eliminated the state’s one Black congressional district last week",
+        "Bennie Thompson has represented Mississippi’s second district since 1993",
+        "Mississippi once had more than 100 Black elected officials across state and local levels during Reconstruction",
+        "The VRA was passed in 1965 and helped elect Mississippi’s first Black state representative since Reconstruction in 1967"
+      ]
+    },
+    {
+      "id": "29294addefa9",
+      "title": "Palestinian Right of Return Remains the Core Fault Line in Any Israel-Palestine Settlement",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/78-years-later-palestinians-are-still-denied-their-right-to-return?traffic_source=rss",
+      "published": "2026-05-15T13:44:25Z",
+      "category": "IR",
+      "region": "Palestinian territories; Israel",
+      "background": "On 15 May 2026, Al Jazeera published a report marking 78 years since the 1948 Nakba, when thousands of Palestinians were expelled from their land during the creation of Israel. The piece focuses on Aida refugee camp and the continued denial of the Palestinian right of return, with many families still living in refugee camps across the region. The article frames the issue as an unresolved historical and political demand passed down across generations.",
+      "prop_args": [
+        {
+          "thesis": "Recognizing and operationalizing the Palestinian right of return is necessary for any durable peace because it addresses the original grievance at the heart of the conflict.",
+          "mechanisms": [
+            "First, it restores political legitimacy to any settlement. This is because (1) the conflict is not just about borders but about dispossession and exile, (2) generations of refugees see return as a non-negotiable justice claim rather than a symbolic issue, and (3) without addressing that core grievance, any agreement looks like imposed surrender rather than reconciliation.",
+            "Second, it reduces long-term radicalization and cyclical violence. Three reasons: one, refugee camps and statelessness sustain a permanent pool of grievance and recruitment; two, intergenerational trauma makes compromise harder when people believe their basic rights were permanently erased; three, acknowledging return creates a pathway for political moderation by showing that peaceful bargaining can recover rights.",
+            "Third, it creates a more stable post-conflict order. This matters because a peace deal that ignores millions of displaced people leaves a permanent spoiler constituency, whereas a rights-based framework can be paired with phased return, compensation, and resettlement to manage demographic concerns while still defusing the conflict's moral core."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A full right of return is politically and demographically incompatible with a two-state or even negotiated settlement, so insisting on it can make peace impossible.",
+          "mechanisms": [
+            "First, it threatens the viability of Israel as a Jewish-majority state. one, large-scale return would alter the demographic balance in a way Israeli governments will treat as existential; two, that makes any Israeli concession on return politically impossible domestically; three, if a demand cannot be accepted by the other side, it becomes a recipe for deadlock rather than justice.",
+            "Second, it can crowd out more realistic remedies. one, compensation, limited family reunification, and third-country resettlement may be the only options that can actually be implemented; two, maximalist demands can weaken moderates who might otherwise secure incremental gains; three, in peace processes, insisting on the ideal outcome can leave refugees with nothing at all.",
+            "Third, it risks destabilizing the region if implemented abruptly. one, mass return would create severe pressure on housing, jobs, and public services in already fragile areas; two, it could trigger renewed communal violence over land and property claims; three, neighboring states hosting refugees may resist any settlement that shifts the burden onto them without guarantees."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between moral legitimacy and implementability: prop wins if the motion is about justice, recognition, or long-term peace architecture, while opp wins if the motion is about immediate settlement feasibility. This argument wins because the right of return is both a symbolic core issue and a practical spoiler, so the round turns on whether the judge prioritizes conflict resolution or conflict management.",
+      "stock_connections": [
+        "Right to self-determination",
+        "Historical injustice",
+        "Refugee repatriation",
+        "Two-state settlement viability",
+        "Demographic security",
+        "Peace process spoilers",
+        "Intergenerational trauma",
+        "Collective punishment"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would recognize the Palestinian right of return",
+        "THBT a just peace in Israel-Palestine requires a right of return for Palestinian refugees",
+        "THP a world where refugee return is prioritized over demographic concerns in post-conflict settlements"
+      ],
+      "data_points": [
+        "78 years since the 1948 Nakba",
+        "Palestinians displaced in 1948 are now represented by grandchildren living in refugee camps",
+        "Aida refugee camp is cited as a living site of the unresolved right-of-return claim"
+      ]
+    },
+    {
+      "id": "494684e80630",
+      "title": "Trump-Xi Summit Exposes How Trade Rhetoric Masks Deepening US-China Strategic Friction",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/trump-xi-summit-china-us-disagree-on-what-they-agreed-on?traffic_source=rss",
+      "published": "2026-05-15T13:39:45Z",
+      "category": "IR",
+      "region": "China / United States / Taiwan / Gulf",
+      "background": "US President Donald Trump met Chinese President Xi Jinping in Beijing for a two-day summit and left on Friday, 15 May 2026. The White House and Chinese Foreign Ministry issued readouts that overlapped only partially: Washington emphasized trade, fentanyl, Iran, and market access, while Beijing emphasized Taiwan, strategic stability, and opposition to militarisation of the Strait of Hormuz. Trump claimed China had agreed to buy 200 Boeing jets, but neither Beijing nor Boeing confirmed the deal, and Boeing shares fell more than 4 percent on Friday after markets had expected a much larger order.",
+      "prop_args": [
+        {
+          "thesis": "The summit is more useful as a tactical de-escalation than as a real reset, because it exposes how fragile US-China cooperation is when core security issues are on the table.",
+          "mechanisms": [
+            "First, the lack of overlap in the two official readouts shows that each side is still speaking to its domestic audience rather than building a shared agenda. This is because (1) the White House highlighted trade wins and fentanyl, (2) Beijing highlighted Taiwan and strategic stability, and (3) neither side confirmed the other's key claims, which means there is no durable joint commitment to enforce.",
+            "Second, any trade gains are narrow, reversible, and politically contingent. Three reasons: one, the alleged Boeing purchase was not confirmed by China or Boeing; two, markets had expected 500 jets but Trump claimed only 200, which shows how easily expectations can be disappointed; three, the absence of a confirmed Nvidia chip breakthrough means the summit did not resolve the core technology rivalry.",
+            "Third, the summit can still reduce immediate escalation risk by keeping channels open on the most dangerous flashpoints. This matters because (1) even partial agreement on Iran and the Strait of Hormuz helps prevent miscalculation in a region that carries around 20 percent of global oil and LNG flows, (2) a temporary understanding on fentanyl precursors gives both governments a face-saving way to claim progress, and (3) strategic dialogue over Taiwan lowers the chance that a single incident spirals into crisis."
+          ]
+        },
+        {
+          "thesis": "Trump can use selective economic deals to pressure China into concessions without needing a full strategic bargain.",
+          "mechanisms": [
+            "First, targeted commercial carrots create leverage because China still wants access to US technology, aviation, and agricultural markets. One, the reported Boeing deal signals that Beijing can reward US firms when politically useful; two, the White House said the sides discussed expanding market access and Chinese investment into US industries; three, even the possibility of more Chinese purchases of US farm goods gives Washington a constituency for continued engagement.",
+            "Second, partial deals let the US claim victory while keeping pressure on China over fentanyl and Taiwan. This works because (1) Trump can frame any reduction in fentanyl precursors as a domestic public health win, (2) he can avoid conceding on Taiwan by simply not mentioning it in the joint messaging, and (3) he can preserve tariff leverage if China fails to deliver on the promised economic openings.",
+            "Third, ambiguity itself is strategically useful. The reason is that (1) it allows both sides to de-escalate without formally backing down, (2) it keeps future bargaining space open on chips, aviation, and agriculture, and (3) it prevents China from extracting a public US recognition of its Taiwan position."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is mostly performative and does not change the underlying trajectory of US-China rivalry.",
+          "mechanisms": [
+            "First, the absence of verified deliverables means there is no binding shift in the relationship. One, the Boeing order was only claimed by Trump and not confirmed by China or Boeing; two, there was no announced breakthrough on Nvidia chips despite Jensen Huang's presence; three, the Chinese statement omitted the specific trade concessions Washington touted, showing that the 'deal' may not exist in practice.",
+            "Second, the core disputes are strategic, not commercial, so trade optics cannot solve them. One, Taiwan remains the most important issue in Beijing's view and the White House did not even mention it; two, the two sides gave conflicting accounts of Iran and the Strait of Hormuz, which shows they disagree on regional order; three, the US and China still have incompatible red lines on sovereignty, sanctions, and military posture.",
+            "Third, the summit may actually worsen mistrust by creating false expectations. This is because (1) markets reacted to the Boeing claim and then punished the stock when the number disappointed, (2) each side can accuse the other of misrepresenting the meeting, and (3) future negotiations become harder when leaders publicly claim agreement that the other side denies."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic engagement and substantive convergence. Pro wins if the question is whether summits can lower immediate risk and create bargaining space; Opp wins if the question is whether this changes the structural US-China rivalry, because the core issues of Taiwan, technology, and regional security remain unresolved and publicly disputed.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Signaling and Credibility",
+        "Deterrence",
+        "Trade Interdependence",
+        "Decoupling",
+        "Security Dilemma",
+        "Summit Diplomacy",
+        "Domestic Audience Costs",
+        "Alliance Politics",
+        "Energy Security"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China over public confrontation",
+        "THBT major powers should use trade concessions to manage strategic rivalry",
+        "THP a world where US-China relations are managed through ambiguous summit agreements",
+        "THBT the US should avoid explicitly taking positions on Taiwan in bilateral talks with China",
+        "THW prefer limited economic deals over comprehensive strategic agreements in great power negotiations"
+      ],
+      "data_points": [
+        "Trump claimed China would buy 200 Boeing jets; markets had expected 500, and Boeing shares fell more than 4 percent on Friday",
+        "The summit lasted two days in Beijing and ended on Friday, 15 May 2026",
+        "The White House said the two sides discussed ending the flow of fentanyl precursors into the United States",
+        "The White House said the Strait of Hormuz carries about 20 percent of the world's oil and LNG supplies",
+        "Iran is believed to have about 440kg of uranium enriched to 60 percent; 90 percent enrichment is needed for a nuclear weapon",
+        "The Chinese Foreign Ministry said the two presidents agreed on a new vision of a constructive China-US relationship of strategic stability for the next three years and beyond",
+        "Taiwan has a population of about 23 million people",
+        "The US formally severed official diplomatic ties with Taiwan in 1979 but remains committed under the Taiwan Relations Act to support its defence"
+      ]
+    },
+    {
+      "id": "0c20fb7dbd5e",
+      "title": "Trump-Xi Beijing Summit Produces Symbolic De-escalation Without Resolving Core US-China Flashpoints",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
+      "published": "2026-05-15T13:37:46Z",
+      "category": "IR",
+      "region": "United States / China / Iran / Taiwan / Global",
+      "background": "Donald Trump made his first presidential visit to Beijing in nearly a decade, meeting Xi Jinping in what was described as a “stalemate summit.” Trump said the two sides had “settled a lot of different problems,” but neither the White House nor Chinese state media gave a detailed readout of concrete agreements. The talks covered Iran, Taiwan, trade, rare earths, and human rights, including a possible $14bn Taiwan arms package, Chinese purchases of US farm goods and Boeing jets, and China’s export controls on rare earth minerals.",
+      "prop_args": [
+        {
+          "thesis": "The summit is still strategically valuable because even partial, issue-by-issue deals reduce the risk of immediate escalation between the two largest powers.",
+          "mechanisms": [
+            "First, it creates crisis-management space on the most dangerous flashpoints. This is because (1) both sides publicly signaled concern over Iran, Taiwan, and trade at the same time, (2) summit diplomacy lets leaders trade concessions across unrelated issues, and (3) even vague understandings can buy time and lower the chance of accidental escalation while bureaucracies implement follow-up.",
+            "Second, it gives each side incentives to keep bargaining instead of hardening into confrontation. Three reasons: one, China gets leverage on Taiwan and rare earths without immediate conflict; two, the US can extract farm and aircraft purchases that create domestic stakeholders for stability; three, the existence of a truce and continued talks makes a tariff spiral less likely before the November deadline.",
+            "Third, the optics themselves matter because they preserve the channel. This matters because (1) the first US presidential visit in nearly a decade signals that direct leader-level diplomacy is still possible, (2) summitry can prevent misperception in a relationship where both sides are already suspicious, and (3) even symbolic de-escalation can be enough to avoid a security dilemma turning into a military crisis."
+          ]
+        },
+        {
+          "thesis": "The summit shows transactional diplomacy can produce concrete economic gains even without a grand bargain.",
+          "mechanisms": [
+            "First, the meeting appears to have unlocked real commercial commitments. This is because (1) the US trade representative said China would buy 'double-digit billions' of US farm goods over three years, (2) China reportedly agreed to buy 200 Boeing jets, and (3) these deals directly benefit politically important US constituencies like farmers and manufacturing workers.",
+            "Second, targeted deals are more achievable than comprehensive normalization. Three reasons: one, the US and China have incompatible strategic goals on Taiwan and technology, so a full settlement is unrealistic; two, narrow sectoral deals avoid the domestic political cost of appearing to concede on sovereignty; three, even limited trade flows can stabilize supply chains and reduce uncertainty for firms.",
+            "Third, the summit can be judged by whether it keeps the economic relationship functioning, not by whether it solves every dispute. This matters because (1) the US and China remain each other's major trading partners, (2) business certainty depends on predictable access to goods like soybeans, beef, aircraft, and rare earths, and (3) incremental agreements can preserve interdependence that deters worse outcomes."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is mostly a photo-op because it failed to resolve the core strategic disputes and may even encourage coercive bargaining.",
+          "mechanisms": [
+            "First, the absence of a written, comprehensive deal means the underlying conflict remains unchanged. One, there was no clear agreement on tariffs, rare earths, or Taiwan; two, both sides issued vague statements rather than binding commitments; three, unresolved disputes will re-emerge as soon as the next crisis hits.",
+            "Second, transactional concessions can weaken deterrence. One, if the US delays the $14bn Taiwan arms package, Beijing learns that pressure on Taiwan can extract concessions; two, if sanctions on Chinese firms buying Iranian oil are lifted, China gets rewarded despite helping sustain a sanctions-busting network; three, this signals that coercion works better than restraint.",
+            "Third, the summit may create false confidence and delay harder policy choices. One, leaders can claim success without solving rare earth dependence or trade imbalances; two, domestic audiences may be misled into thinking tensions are easing; three, the result is strategic drift rather than durable stability."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term de-escalation and long-term strategic change. Pro wins if the round is about preventing immediate crisis and preserving bargaining channels; opp wins if the judge prioritizes whether the summit altered the structural rivalry, because on that metric the core issues on Taiwan, tariffs, and supply-chain leverage remain unresolved.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Deterrence",
+        "Security Dilemma",
+        "Transactional Diplomacy",
+        "Interdependence",
+        "Coercive Diplomacy",
+        "Summitry",
+        "Trade War",
+        "Supply Chain Vulnerability",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize transactional summit diplomacy with China over comprehensive containment",
+        "THBT the US should trade limited concessions on Taiwan for Chinese cooperation on trade and Iran",
+        "THP a world where great-power summits are used to manage rivalry rather than resolve it",
+        "THBT the US should indefinitely postpone major arms sales to Taiwan if it secures broader strategic concessions from China"
+      ],
+      "data_points": [
+        "First US presidential visit to Beijing in nearly a decade",
+        "Proposed Taiwan arms package worth $14bn (£10.5bn)",
+        "US trade representative said China could buy 'double-digit billions' of US farm goods over the next three years",
+        "China announced purchase of 200 Boeing jets, with Trump later floating a figure as high as 750",
+        "China restricted rare earth exports last year, disrupting global supply chains",
+        "The US-China tariff truce is set to expire in November",
+        "Jimmy Lai was sentenced to 20 years in prison last year",
+        "Trump said he was considering lifting sanctions on Chinese companies that purchase Iranian oil"
+      ]
+    },
+    {
+      "id": "af91e39d5e71",
+      "title": "Trump-Xi Beijing Summit Raises the Prospect of Symbolic Trade Wins Without Structural US-China Breakthroughs",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T13:25:23Z",
+      "category": "IR",
+      "region": "China / United States",
+      "background": "President Trump completed a two-day visit to Beijing for a high-stakes summit with Chinese leader Xi Jinping. Trump described the trip as a success and said he had struck \"fantastic trade deals,\" but neither side has announced any major trade breakthroughs or business deals. As of the BBC report, the substance of the talks remains unclear and the public record contains little detail beyond the leaders' positive framing.",
+      "prop_args": [
+        {
+          "thesis": "Even a vague summit can reduce immediate US-China escalation by creating political space for de-escalation and future bargaining.",
+          "mechanisms": [
+            "First, the summit creates a face-saving off-ramp for both leaders. This is because (1) Trump can claim domestic victory through the language of \"fantastic trade deals,\" (2) Xi can present engagement as proof that China is treated as an equal counterpart, and (3) both sides can quietly pause retaliatory measures without publicly conceding weakness.",
+            "Second, leader-level diplomacy can stabilize expectations even without a formal agreement. Three reasons: one, markets and firms respond to signals of dialogue rather than only signed texts; two, direct contact reduces the risk of miscalculation in a rivalry where tariffs and sanctions can escalate quickly; three, it opens channels for follow-up negotiations on narrower issues like tariffs, export controls, or market access.",
+            "Third, symbolic progress still matters because it can reset the political baseline for later deals. This matters because once both governments have publicly invested in the idea of a successful summit, the cost of renewed escalation rises, making future compromise more likely than if the visit had ended in open confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is mostly performative and risks entrenching bad policy by substituting optics for real trade resolution.",
+          "mechanisms": [
+            "First, vague summitry allows both sides to claim success without making enforceable concessions. One, Trump can sell the trip domestically while avoiding hard details; two, Xi can avoid changing core industrial or trade practices; three, the absence of announced breakthroughs means the underlying disputes remain untouched.",
+            "Second, symbolic diplomacy can weaken pressure for substantive change. One, if leaders can frame a photo-op as a win, domestic constituencies may stop demanding tougher negotiations; two, firms may falsely assume stability and delay adaptation; three, the lack of transparency makes it easier for both governments to later blame the other side when talks collapse.",
+            "Third, the visit may normalize transactional, leader-centered bargaining that is unstable in the long run. One, it personalizes a structural rivalry that actually requires institutional solutions; two, it encourages short-term dealmaking over durable rules; three, it increases the chance that future disputes will be resolved through ad hoc threats rather than predictable trade architecture."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolism can buy time for real de-escalation or merely masks the absence of substantive concessions. Prop wins if you prioritize immediate crisis management and signaling; opp wins if you prioritize enforceable outcomes and the risk that vague diplomacy entrenches the status quo.",
+      "stock_connections": [
+        "Signaling",
+        "Deterrence",
+        "Leader-level diplomacy",
+        "Trade war escalation",
+        "Transactional diplomacy",
+        "Credible commitment problems",
+        "Rally-around-the-flag politics"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize high-level summit diplomacy with China over immediate tariff escalation",
+        "THBT symbolic trade agreements between rival great powers are net beneficial",
+        "THP a world where major power disputes are managed primarily through leader summits rather than formal institutions"
+      ],
+      "data_points": [
+        "Trump completed a two-day visit to Beijing",
+        "Trump said he had struck \"fantastic trade deals\"",
+        "Neither side announced any major trade breakthroughs",
+        "Neither side announced any business deals",
+        "The summit was described as \"high-stakes\" by the BBC"
+      ]
+    },
+    {
+      "id": "a1788404e23e",
+      "title": "Philippine Cooperation With ICC Tests Whether Domestic Elites Can Still Shield Duterte-Linked Abuses",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/philippines-vows-to-hand-fugitive-senator-to-icc-following-shootout?traffic_source=rss",
+      "published": "2026-05-15T13:09:36Z",
+      "category": "IR",
+      "region": "Philippines / International Criminal Court",
+      "background": "The Philippines said it will cooperate with an International Criminal Court arrest request for Senator Ronald “Bato” dela Rosa, the former national police chief and a key figure in ex-president Rodrigo Duterte’s anti-drug campaign. The ICC unsealed a warrant on Monday charging dela Rosa with crimes against humanity over the 2016–2019 drug war, which the court estimates killed between 12,000 and 30,000 people. Dela Rosa evaded arrest earlier this week after appearing at the Senate, where reports of gunfire followed an attempt by armed soldiers to detain him. Duterte has been in ICC custody in The Hague since March 2025.",
+      "prop_args": [
+        {
+          "thesis": "Cooperating with the ICC is necessary to break elite impunity and restore the credibility of rule of law in the Philippines.",
+          "mechanisms": [
+            "First, ICC cooperation signals that even the most politically connected actors can be reached by legal accountability. This is because (1) dela Rosa is not a low-level operative but a sitting senator and former police chief, (2) Duterte-era allies have historically relied on office and patronage to avoid consequences, and (3) a visible arrest and transfer would show that political status no longer guarantees immunity.",
+            "Second, handing him over strengthens domestic institutions by forcing the state to subordinate force to procedure. Three reasons: one, the attempted arrest and gunfire at the Senate exposed how easily coercive actors can intimidate institutions; two, compliance with the ICC creates an external legal backstop when domestic courts are slow or captured; three, it reassures victims that the state is not protecting perpetrators simply because they are powerful.",
+            "Third, this improves long-run governance and deterrence by making future abuses more costly. This matters because (1) the drug war involved thousands of alleged extrajudicial killings, (2) if senior officials see that international justice can still reach them years later, they have less incentive to authorize mass violence, and (3) a credible accountability process can reduce the normalization of death-squad politics as a tool of statecraft."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Turning over a sitting senator to the ICC risks undermining sovereignty, politicizing justice, and deepening domestic instability.",
+          "mechanisms": [
+            "First, the move can be framed as external interference in a politically contested domestic process. One, the Philippines is still waiting for its Supreme Court to rule on the legality of the arrest request; two, if the executive acts before domestic legal review is complete, opponents can claim the state is bypassing constitutional safeguards; three, that perception can delegitimize both the government and the ICC in the eyes of the public.",
+            "Second, aggressive ICC cooperation may intensify elite backlash and institutional polarization. One, dela Rosa is tied to a powerful Duterte-aligned network that can mobilize supporters against the administration; two, the Senate confrontation and reports of gunfire show the risk of escalation when arrest is pursued in a highly charged environment; three, if the process is seen as selective punishment of one faction, it can harden political camps rather than produce neutral accountability.",
+            "Third, the ICC route may be slow, symbolic, and weak at delivering justice compared with domestic reconciliation. One, international proceedings are lengthy and remote, so victims may not see timely closure; two, the court depends on state cooperation, meaning enforcement can become a spectacle rather than a clean legal outcome; three, a domestic truth-and-accountability process could better balance punishment, institutional reform, and political stability."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether accountability or sovereignty is the more urgent institutional good. Prop wins if the round prioritizes ending impunity for mass atrocities, because the case involves a former police chief and thousands of alleged killings; Opp wins if the round prioritizes constitutional legitimacy and political stability, especially given the contested legality and the risk of elite backlash.",
+      "stock_connections": [
+        "Impunity",
+        "Rule of Law",
+        "Democratic Backsliding",
+        "Elite Capture",
+        "Transitional Justice",
+        "Sovereignty vs Human Rights",
+        "International Criminal Court legitimacy",
+        "Security Sector Accountability"
+      ],
+      "motion_areas": [
+        "TH, as the Philippines, would cooperate fully with the ICC in arresting former officials accused of mass atrocities",
+        "THBT states should prioritize international criminal accountability over domestic political stability when prosecuting former leaders",
+        "THP a world where the ICC can compel member-state cooperation against sitting politicians",
+        "THBT transitional justice is best served by international tribunals rather than domestic courts in post-authoritarian states"
+      ],
+      "data_points": [
+        "ICC unsealed an arrest warrant on Monday, 2026-05-11, for Senator Ronald 'Bato' dela Rosa",
+        "Dela Rosa is 64 years old and was former Philippine national police chief",
+        "The ICC estimates the Duterte drug war killed between 12,000 and 30,000 people from 2016 to 2019",
+        "Duterte has been in ICC custody in The Hague since March 2025",
+        "Dela Rosa is named as one of eight co-perpetrators in the ICC case",
+        "Reports said more than a dozen gunshots were heard at the Senate during the attempted arrest"
+      ]
+    },
+    {
+      "id": "c921d0476b18",
+      "title": "Burnham Leadership Challenge Triggers Sterling Sell-Off and UK Bond Market Stress",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation",
+      "published": "2026-05-15T13:08:03Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "Sterling fell almost 3 cents, or 2%, over the week to $1.336, its weakest level in five weeks, as markets priced in a possible leadership challenge to Keir Starmer from Manchester mayor Andy Burnham. UK 10-year gilt yields rose to almost 5.17%, their highest since 2008, while 30-year yields hit 5.84%, reflecting investor concern that a Burnham-led Labour government could loosen fiscal rules and increase borrowing. The move came alongside a broader sovereign debt sell-off and higher oil prices, which added to inflation worries.",
+      "prop_args": [
+        {
+          "thesis": "A Burnham leadership bid would raise the UK’s political risk premium by signaling looser fiscal policy, pushing up borrowing costs and weakening sterling.",
+          "mechanisms": [
+            "First, markets price leadership change as a fiscal regime shift. This is because (1) Burnham has publicly attacked the UK as being \"in hock to the bond markets\" and trapped in a \"low-growth doom-loop,\" (2) investors therefore infer a higher probability of more borrowing and weaker fiscal rules, and (3) even before any policy change, expectations alone trigger asset repricing in gilts and FX.",
+            "Second, higher expected borrowing feeds directly into gilt sell-offs. Three reasons: one, bondholders demand a larger risk premium when they fear fiscal expansion; two, the UK already has fragile debt dynamics, so marginal credibility losses matter more; three, the article shows 10-year yields jumping to almost 5.17% and 30-year yields to 5.84%, indicating the market is already testing the government’s fiscal anchor.",
+            "Third, sterling weakness amplifies the macro shock. This matters because a falling pound raises import prices, worsens inflation expectations, and can force the Bank of England to keep rates higher for longer, which then further pressures growth and public finances."
+          ]
+        },
+        {
+          "thesis": "The prospect of a Burnham premiership creates prolonged uncertainty that will depress UK financial assets even before any formal leadership contest is resolved.",
+          "mechanisms": [
+            "First, uncertainty itself is costly in capital markets. One, investors hate unclear policy direction because it makes long-duration assets harder to price; two, leadership speculation increases volatility in gilts and FX; three, the article notes markets are already reacting to the possibility of a challenge rather than any enacted policy.",
+            "Second, the transition process is messy and slow. One, Burnham must first win a byelection before he can challenge Starmer; two, that leaves weeks of speculation with no resolution; three, the longer the uncertainty persists, the more likely funds demand a persistent political-risk discount on UK assets.",
+            "Third, continuity is what stabilizes markets, so any sign of rupture hurts. This is because keeping Rachel Reeves as chancellor would signal fiscal continuity, meaning the opposite — a leadership shake-up — is read as a break from the current market-friendly framework."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Burnham could restore Labour’s electoral legitimacy and medium-term growth prospects, which would ultimately support markets rather than damage them.",
+          "mechanisms": [
+            "First, a more popular leader can reduce the risk of policy paralysis and electoral collapse. One, the article says Burnham is the only major UK politician with a net positive approval rating in YouGov polling; two, stronger public legitimacy can improve Labour’s chances of governing effectively; three, markets may prefer a stable, electorally viable government over a weakened incumbent facing internal revolt.",
+            "Second, Burnham may not actually be fiscally reckless in office. One, he has already softened his rhetoric in interviews; two, leadership candidates often campaign to the left but govern more cautiously once confronted with bond markets; three, if Rachel Reeves remains chancellor, the fiscal framework could stay intact, limiting any market reaction.",
+            "Third, the current sell-off may be driven more by global factors than Burnham specifically. One, US and German bond yields also rose in the same period; two, oil prices were up, fueling inflation concerns across advanced economies; three, this means the pound’s fall is partly a broader macro move rather than a uniquely UK political crisis."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether markets are reacting to credible policy change or just headline uncertainty. Prop wins if you think leadership change would genuinely loosen fiscal discipline and force a higher risk premium; opp wins if Burnham is mostly a political signal with limited room to diverge from Reeves-style orthodoxy, especially given the broader global bond sell-off.",
+      "stock_connections": [
+        "Political Risk Premium",
+        "Credibility Trap",
+        "Bond Vigilantes",
+        "Capital Flight",
+        "Expectations and Signaling",
+        "Fiscal Dominance",
+        "Market Discipline",
+        "Policy Uncertainty"
+      ],
+      "motion_areas": [
+        "TH, as the UK Labour Party, would replace Keir Starmer with Andy Burnham",
+        "THBT markets should punish parties that signal looser fiscal rules before they take office",
+        "THP a world where bond markets can veto leadership changes in major democracies"
+      ],
+      "data_points": [
+        "Sterling fell to $1.336, down almost 3 cents or 2% in a week",
+        "This was the pound’s worst weekly drop against the US dollar since Donald Trump’s election win in early November 2024",
+        "UK 10-year gilt yields rose to almost 5.17%, the highest since 2008",
+        "UK 30-year gilt yields hit 5.84%, up 19 basis points and above a 28-year high",
+        "The sitting MP Josh Simons has a majority of just over 5,000 votes in Makerfield",
+        "Burnham is the only major UK politician with a net positive approval rating in YouGov polling, according to ABN Amro's Bill Diviney"
+      ]
+    },
+    {
+      "id": "b881113fc71b",
+      "title": "Border Violence and TTP Attacks Threaten to Collapse the Fragile Pakistan-Afghanistan Truce",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/15/deadly-attack-on-pakistan-outpost-puts-afghanistan-ceasefire-at-risk?traffic_source=rss",
+      "published": "2026-05-15T12:55:06Z",
+      "category": "IR",
+      "region": "Afghanistan / Pakistan",
+      "background": "An attack on a security compound in Bajaur district in northwest Pakistan killed around 8 or 9 Pakistani soldiers, with the Pakistan Taliban (TTP) claiming responsibility. Pakistani officials said the attackers rammed an explosives-laden vehicle into the camp gate before opening fire, and at least 10 attackers were reportedly killed while about 35 security personnel were wounded. The incident comes amid several other deadly attacks in the same border region in recent days, including a car bomb and a market explosion that together killed more than 20 people. Islamabad and Kabul agreed last month in China-brokered talks to avoid escalation, but there is still no formal ceasefire or agreement, and the UN says the cross-border conflict killed at least 372 Afghan civilians and injured nearly 400 in the first three months of 2026.",
+      "prop_args": [
+        {
+          "thesis": "This attack makes a negotiated Pakistan-Afghanistan truce less credible and more likely to collapse, because it strengthens hardliners, exposes enforcement gaps, and raises the domestic political cost of restraint.",
+          "mechanisms": [
+            "First, it empowers security hawks on both sides to argue that diplomacy is failing. This is because (1) Pakistan can point to a high-casualty attack as proof that the Taliban cannot or will not restrain TTP, (2) Afghan Taliban leaders can frame Pakistani retaliation as bad faith and sovereignty violation, and (3) once each side publicly blames the other, leaders lose room to compromise without appearing weak.",
+            "Second, it reveals that the current truce has no enforcement architecture. Three reasons: one, there is no formal ceasefire text or verification mechanism, two, the violence is coming from non-state actors operating across a porous border, and three, sporadic attacks create constant incentives for tit-for-tat escalation because neither side can credibly guarantee restraint by proxy groups.",
+            "Third, the political pressure inside Pakistan makes escalation more likely than patience. This matters because (1) the attack killed paramilitary officers and damaged a security compound, which creates a public demand for retaliation, (2) repeated incidents in Bajaur and nearby areas make the government look unable to secure the border, and (3) if Islamabad believes Kabul is sheltering militants, it has stronger incentives to conduct cross-border strikes or tighten coercive border measures that further destabilize talks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The violence does not necessarily end the truce; instead, it can push both governments toward a more durable security arrangement because neither side can afford full-scale escalation.",
+          "mechanisms": [
+            "First, both states have strong incentives to contain the conflict rather than widen it. One, Pakistan faces the costs of fighting on a mountainous border with limited control over militant sanctuaries, two, the Afghan Taliban need external legitimacy and cannot openly tolerate endless cross-border chaos, and three, both sides know open war would impose civilian, economic, and military costs far beyond the gains from retaliation.",
+            "Second, repeated attacks can actually create pressure for more serious negotiations. One, high-profile incidents expose the failure of informal understandings and make a formal mechanism more attractive, two, China-brokered talks show that regional actors can still mediate, and three, the shared threat from TTP violence gives both governments a common interest in intelligence-sharing, border coordination, and deconfliction even if trust is low.",
+            "Third, the scale of violence may still be below the threshold that forces a total breakdown. One, the article describes a fragile and volatile situation rather than a collapsed one, two, the March pause and last month’s talks show that channels remain open, and three, states often absorb isolated attacks while preserving the broader diplomatic track when the alternative is uncontrollable escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether repeated militant attacks make restraint politically impossible or simply make a formal security deal more necessary. Prop wins if you think proxy violence and blame-shifting destroy trust faster than diplomacy can rebuild it; opp wins if you think both governments are rational enough to absorb shocks and keep talking because war is even worse.",
+      "stock_connections": [
+        "Proxy War",
+        "Security Dilemma",
+        "Failed Ceasefire",
+        "Militant Sanctuaries",
+        "Cross-border Terrorism",
+        "Tit-for-Tat Escalation",
+        "State Capacity",
+        "Spoilers to Peace Processes"
+      ],
+      "motion_areas": [
+        "TH, as Pakistan, would prioritize military retaliation over negotiations with Afghanistan",
+        "THBT fragile ceasefires with non-state armed groups are more likely to fail than succeed",
+        "THP a world in which regional powers broker security deals between hostile neighbors"
+      ],
+      "data_points": [
+        "8 or 9 Pakistani soldiers killed in the Bajaur outpost attack",
+        "At least 10 attackers killed and about 35 security personnel wounded",
+        "More than 20 people killed in recent attacks in northwest Pakistan",
+        "At least 372 Afghan civilians killed and nearly 400 injured in the first three months of 2026, according to the UN",
+        "Pakistan and Afghanistan agreed in March to pause hostilities, and held China-brokered talks last month, but no formal ceasefire has been signed"
+      ]
+    },
+    {
+      "id": "ac89cf1642dc",
+      "title": "Trump’s Beijing Summit Exposes US-China Strategic Stalemate on Iran, Taiwan and AI",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive",
+      "published": "2026-05-15T12:48:47Z",
+      "category": "IR",
+      "region": "United States; China; Iran; Taiwan",
+      "background": "Donald Trump concluded a two-day summit in Beijing with Xi Jinping on 15 May 2026, the first US presidential visit to China in nearly a decade. The meeting produced vague claims of “fantastic trade deals” but no confirmed breakthroughs on Iran, Taiwan, or the US-China AI race. Trump said the US and China discussed keeping the Strait of Hormuz open, while Beijing reiterated its opposition to militarisation of the strait and stressed Taiwan as the “most important issue” in bilateral relations. The White House had reportedly stalled a planned $14bn Taiwan arms package, after the US approved a record $11bn package last year.",
+      "prop_args": [
+        {
+          "thesis": "The summit shows that US-China diplomacy is now mostly performative, because neither side is willing to pay the real costs needed to resolve the core security disputes.",
+          "mechanisms": [
+            "First, the meeting failed to produce binding outcomes on the three issues that actually matter — Iran, Taiwan and AI — which means the summit did not change incentives on the ground. This is because (1) Iran still depends on Chinese oil purchases and Beijing has no reason to sacrifice cheap energy imports, (2) Taiwan remains a red-line issue for Xi, who explicitly warned of “clashes and even conflicts”, and (3) AI competition is structurally zero-sum, so photo-op diplomacy cannot substitute for export controls, chip access and industrial policy.",
+            "Second, the optics of the summit weaken US leverage rather than strengthen it. Three reasons: one, Trump appeared to accept Xi’s framing without pushing back on Taiwan, signaling reluctance to escalate; two, he publicly floated lifting sanctions on Chinese firms buying Iranian oil, which tells Beijing pressure is negotiable; three, the absence of concrete deliverables lets both sides claim success domestically while avoiding concessions.",
+            "Third, this matters because strategic ambiguity without enforcement encourages future coercion. If China sees that a high-profile summit can neutralize US pressure without costs, it has more room to keep pressuring Taiwan and to hedge on Iran while waiting for a more favorable balance of power."
+          ]
+        },
+        {
+          "thesis": "Trump’s failure to secure Chinese cooperation on Iran leaves the US isolated in a conflict where Beijing controls a major economic pressure point.",
+          "mechanisms": [
+            "First, China is the biggest buyer of Iranian oil, so it has direct leverage over Tehran’s revenue stream. This matters because (1) if Beijing keeps buying, sanctions leak and Iran can sustain its war effort, (2) if Beijing slows purchases, Iran’s fiscal room narrows quickly, and (3) Trump’s suggestion that sanctions on Chinese buyers could be lifted shows Washington is already bargaining from weakness.",
+            "Second, China has incentives to free-ride rather than solve the crisis. Three reasons: one, Beijing says the Iran conflict is not its responsibility, so it can demand restraint without committing resources; two, it benefits from cheaper or discounted oil while others bear the security cost; three, it can posture as a peacemaker while avoiding direct confrontation with Iran or the US.",
+            "Third, this matters because the US needs Chinese cooperation to keep Hormuz open and stabilize energy markets. If China refuses, the conflict can raise global oil prices, worsen recession risk, and magnify the political cost for Washington at home."
+          ]
+        },
+        {
+          "thesis": "The Taiwan portion of the summit reinforces deterrence failure, because Beijing extracted ambiguity while Washington signaled hesitation on arms sales.",
+          "mechanisms": [
+            "First, Xi publicly elevated Taiwan as the central issue and warned of “clashes and even conflicts,” which normalizes the idea that coercion is on the table. This is because (1) repeated Chinese threats shift the baseline of acceptable behavior, (2) they test whether the US will respond with concrete military support, and (3) they pressure Taipei by making US backing look uncertain.",
+            "Second, Trump’s refusal to commit to the planned $14bn arms package weakens deterrence. Three reasons: one, Taiwan’s defense depends on credible future resupply, not just past packages; two, Beijing interprets hesitation as a sign that the US may trade away Taiwan for broader bilateral stability; three, even if no policy formally changes, delay itself creates a capability gap for Taiwan.",
+            "Third, this matters because deterrence is about perception. If China believes the US is distracted, weakened by Iran, and unwilling to pay escalation costs, it becomes more likely to intensify gray-zone pressure or military signaling around Taiwan."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit still matters because even without dramatic breakthroughs, it can reduce immediate escalation risks and preserve channels for crisis management.",
+          "mechanisms": [
+            "First, direct leader-to-leader contact lowers the chance of miscalculation. One, it clarifies red lines on Iran, Hormuz, and Taiwan; two, it creates personal communication channels for future crises; three, it reduces the probability that lower-level bureaucracies escalate through misunderstanding.",
+            "Second, the vague trade and security language may be strategically useful. One, both sides can claim victory domestically, which makes compromise politically survivable; two, ambiguity can freeze dangerous moves like new tariffs, sanctions, or arms escalations; three, even partial understandings on oil, aircraft, or export flows can stabilize markets.",
+            "Third, this matters because in great-power politics, preventing deterioration can be as valuable as achieving a grand bargain. A managed stalemate may be preferable to open confrontation, especially when both sides are nuclear powers and the alternative is uncontrolled escalation."
+          ]
+        },
+        {
+          "thesis": "China has strong reasons to cooperate on Iran and Taiwan, so the summit can still produce meaningful restraint even without a headline deal.",
+          "mechanisms": [
+            "First, Beijing’s economic interests push it toward de-escalation. One, about half of China’s crude oil passes through Hormuz, so a prolonged conflict threatens energy security; two, a Middle East shock can trigger a global recession and crush demand for Chinese exports; three, instability raises shipping and insurance costs that directly hit Chinese firms.",
+            "Second, China may prefer to avoid being dragged into Iran’s confrontation. One, it gains little from openly backing Tehran militarily; two, supplying weapons would risk secondary sanctions and worsen relations with Washington; three, staying neutral allows China to preserve its image as a responsible power.",
+            "Third, on Taiwan, Beijing may still choose patience over force. One, military action would be costly and uncertain; two, Xi can continue long-term pressure while waiting for US political fatigue; three, a summit that keeps the issue contained may be enough for Beijing if it believes time is on its side."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolic diplomacy changes hard security incentives. Prop wins if the round is about credibility and deterrence, because the article shows no concrete concessions and multiple signs of US hesitation; opp wins if the round is about crisis management, because even a shallow summit can still reduce the risk of accidental escalation between two nuclear powers.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Deterrence Theory",
+        "Strategic Ambiguity",
+        "Credibility Gap",
+        "Security Dilemma",
+        "Rising Power Revisionism",
+        "Sanctions Evasion",
+        "Energy Security",
+        "Alliance Reliability",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China over coercive containment",
+        "THBT the US should condition Taiwan arms sales on Chinese cooperation over Iran",
+        "THP a world where US-China relations are managed through strategic stalemate rather than confrontation",
+        "THBT major powers should use leader-level summits to resolve security disputes with rivals"
+      ],
+      "data_points": [
+        "Trump made the first US presidential visit to China in nearly a decade",
+        "The White House reportedly stalled a planned $14bn arms package for Taiwan",
+        "The US approved a record $11bn arms package for Taiwan last year",
+        "Trump said he was considering lifting sanctions on Chinese companies that buy Iranian oil",
+        "About half of China’s crude oil passes through the Strait of Hormuz",
+        "Trump claimed China would buy 200 Boeing jets, with a potential commitment of up to 750 planes, though Chinese officials did not confirm this",
+        "The summit lasted more than two hours of talks between Trump and Xi on Thursday",
+        "Xi warned of “clashes and even conflicts” if Taiwan was not handled properly"
+      ]
+    },
+    {
+      "id": "4cb33551ac3c",
+      "title": "UK Regulator Forces X to Police Terror Content, Raising the Tradeoff Between Online Safety and Platform Speech",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/15/x-ofcom-agreement-block-uk-access-accounts-linked-banned-terrorist-groups",
+      "published": "2026-05-15T12:32:10Z",
+      "category": "Business",
+      "region": "United Kingdom",
+      "background": "On 15 May 2026, Ofcom announced that X had agreed to block UK access to accounts linked to proscribed terrorist groups and to review at least 85% of illegal terrorist and hate content flagged through its reporting tool within 48 hours. The commitments come under the UK’s Online Safety Act, which requires platforms to reduce access to illegal content, including terror- and hate-related material. Ofcom said the move followed intensive engagement with X, while also continuing a separate investigation into images manipulated with Musk’s Grok AI tool. The announcement comes amid heightened concern over online hate content after a spate of hate crimes against the UK’s Jewish community and criticism that X has been slow to moderate harmful content since Musk bought the platform for $44bn in 2022.",
+      "prop_args": [
+        {
+          "thesis": "Forcing X to remove terrorist and hate content is a necessary correction that improves user safety and reduces the real-world spillovers of online extremism.",
+          "mechanisms": [
+            "First, it cuts off amplification and recruitment pathways. This is because (1) terrorist groups rely on mainstream platforms to reach mass audiences cheaply, (2) algorithmic recommendation can turn fringe content into high-visibility material, and (3) blocking UK access to linked accounts raises the cost of dissemination and makes it harder to normalize extremist narratives.",
+            "Second, it improves response speed and platform accountability. Three reasons: one, a 48-hour review target forces moderation teams to prioritize the most harmful content; two, the 85% reporting threshold creates measurable compliance rather than vague promises; three, regulator monitoring reduces the incentive for platforms to underinvest in trust-and-safety when moderation is expensive.",
+            "Third, it protects vulnerable communities and public order. This matters because online hate often translates into offline intimidation, harassment, and copycat violence; because Jewish communities and other minorities face disproportionate exposure to targeted abuse; and because reducing the visibility of illegal content lowers the chance that online mobilization spills into street-level unrest."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The agreement risks overbroad censorship and weakens the open internet by pushing platforms to remove content defensively rather than accurately.",
+          "mechanisms": [
+            "First, it creates incentives for over-removal. One, platforms facing legal and reputational pressure will err on the side of takedown to avoid liability; two, automated systems are bad at context and can misclassify journalism, counter-speech, or documentation as extremist content; three, this chills legitimate political speech, especially around conflict zones and controversial movements.",
+            "Second, it is easy to evade and may not meaningfully reduce harm. One, banned groups can reappear through new accounts, coded language, or mirror networks; two, UK blocking does not stop access through VPNs or cross-platform migration; three, the most committed extremists often move to smaller encrypted spaces where moderation is weaker and monitoring is harder.",
+            "Third, it concentrates power in regulators and private platforms without solving root causes. One, Ofcom and X are making ad hoc enforcement decisions without transparent judicial standards; two, content moderation treats symptoms rather than the drivers of radicalization such as grievance, polarization, and offline networks; three, the policy can be used as precedent for broader state pressure on speech beyond genuine terrorism."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate harm reduction and long-run speech costs. Prop has the structural advantage on urgency because terrorist and hate content can directly fuel violence and intimidation, but Opp can win if it proves the enforcement is overbroad, easily evaded, and sets a dangerous precedent for censorship.",
+      "stock_connections": [
+        "Free Speech vs Public Safety",
+        "Chilling Effect",
+        "Overregulation",
+        "Platform Liability",
+        "Content Moderation",
+        "Radicalization",
+        "Moral Panic",
+        "State Censorship",
+        "Algorithmic Amplification",
+        "Private Governance"
+      ],
+      "motion_areas": [
+        "TH, as the UK regulator, would require social media platforms to block access to accounts linked to proscribed terrorist groups",
+        "THBT governments should compel social media companies to remove terrorist and hate content within strict time limits",
+        "THP a world where platforms are legally liable for failing to moderate illegal extremist content"
+      ],
+      "data_points": [
+        "X was bought by Elon Musk for $44bn (£33bn) in 2022",
+        "Ofcom said X must review at least 85% of illegal terrorist and hate content flagged by its reporting tool within 48 hours",
+        "The UK agreement specifically targets accounts linked to terrorist organisations proscribed by the UK government",
+        "Ofcom is still investigating X over Grok AI images depicting women and girls as partly unclothed",
+        "Amnesty International previously accused X of creating a 'staggering amplification of hate' during the riots after the Southport murders in 2024"
+      ]
+    },
+    {
+      "id": "84e6ebfee1b1",
+      "title": "U.S.-Brokered Israel-Lebanon Talks Humiliate Beirut While Entrenching Israeli Freedom of Action",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/15/trump-lebanon-beirut-israel-hezbollah-negotiations-ceasefire/",
+      "published": "2026-05-15T12:29:40Z",
+      "category": "IR",
+      "region": "Lebanon / Israel / United States",
+      "background": "On April 16, 2026, the Trump administration announced a 10-day cessation of hostilities between Lebanon and Israel after convening the first direct talks between the two countries in decades, later extending it by three weeks to mid-May. The article says the cease-fire followed 46 days of open war, with Israeli strikes killing more than 2,800 people in Lebanon and displacing roughly a fifth of the population, while Hezbollah attacks killed more than 20 Israelis, mostly soldiers. Since the cease-fire, Israel has continued bombing southern Lebanon, occupying a section of south Lebanon described as a \"forward defensive line\" or \"yellow line,\" and the U.S. has pushed Lebanon toward direct talks and even a possible Aoun-Netanyahu meeting.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s negotiation format weakens Lebanon’s state capacity by forcing its leaders to accept an asymmetrical deal that they cannot credibly sell at home.",
+          "mechanisms": [
+            "First, the talks strip Lebanese leaders of bargaining power. This is because (1) the U.S. is presenting Israeli strikes and continued occupation as a baseline, (2) the cease-fire text gives Israel an open-ended self-defense license while demanding Lebanon prove sovereignty, and (3) Beirut is asked to concede before receiving any reciprocal Israeli withdrawal or restraint.",
+            "Second, the process destroys domestic legitimacy for the Lebanese government. Three reasons: one, public optics like the ambassador’s \"MLGA\" praise make leaders look like supplicants; two, Hezbollah and Amal reject direct talks, so the government lacks cross-sectarian consensus; three, conflicting official accounts of what Lebanon actually agreed to create the impression that the state is either incompetent or lying.",
+            "Third, this weakens sovereignty in the long run because it incentivizes non-state actors to reassert themselves. This matters because if the state cannot secure territorial integrity or protect civilians, Hezbollah can claim it is the only actor capable of resisting Israel, which further erodes the monopoly on arms that Aoun and Salam say they want."
+          ]
+        },
+        {
+          "thesis": "The Trump approach increases the risk of renewed war by creating a cease-fire that rewards Israeli escalation and leaves the core territorial dispute unresolved.",
+          "mechanisms": [
+            "First, the deal institutionalizes a permissive environment for continued Israeli strikes. This is because (1) the agreement contains no Israeli withdrawal from south Lebanon, (2) it explicitly preserves Israel’s right to take \"all necessary measures\" in self-defense, and (3) Israel has already continued bombing south Lebanon and ordering evacuations north of the yellow line.",
+            "Second, it gives Hezbollah incentives to keep fighting rather than accept a humiliating status quo. Three reasons: one, Hezbollah has said it will not return to a prewar arrangement where Israel occupies Lebanese territory and attacks with impunity; two, continued Israeli operations make restraint look like surrender; three, if the Lebanese state cannot deliver protection, Hezbollah can justify further attacks as defensive retaliation.",
+            "Third, the U.S. is tying Lebanon’s fate to a broader U.S.-Iran track that may bypass Beirut entirely. This matters because if Washington and Tehran reach a separate understanding, it will expose Lebanese leaders as irrelevant intermediaries and could trigger either a sudden collapse of the current arrangement or a scramble by local actors to rearm before the next round of violence."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "U.S.-backed direct talks are still the best available path to reducing violence because they create leverage over both Israel and Hezbollah that Lebanon cannot generate alone.",
+          "mechanisms": [
+            "First, external mediation can force de-escalation where bilateral deterrence has failed. One, the war had already lasted 46 days and killed thousands; two, the U.S. was able to secure a cease-fire extension and convene direct talks after years without them; three, even limited pauses can reduce civilian casualties and buy time for diplomacy.",
+            "Second, pressuring Lebanon to formalize a state monopoly on arms is necessary for long-term stability. One, Hezbollah’s unilateral entry into war repeatedly drags Lebanon into conflicts it cannot control; two, disarmament and army control are prerequisites for any credible sovereign state; three, if the Lebanese government never takes responsibility, Hezbollah remains a veto player over peace.",
+            "Third, the asymmetry is a reflection of reality, not just humiliation. This is because (1) Israel has military superiority and can keep striking unless constrained by a deal, (2) Lebanon’s internal politics make strong concessions difficult, and (3) only U.S. pressure can extract even partial Israeli restraint or a future withdrawal commitment."
+          ]
+        },
+        {
+          "thesis": "Even a flawed cease-fire can be strategically useful if it prevents a wider regional war and creates space for later bargaining.",
+          "mechanisms": [
+            "First, stopping escalation now is preferable to waiting for a perfect settlement. This is because (1) the article itself says renewed escalation is likely absent a deal, (2) every additional day of fighting increases displacement and infrastructure destruction, and (3) imperfect pauses can still save lives even if they do not resolve the conflict.",
+            "Second, the talks can separate the Lebanon file from the Iran file and reduce the chance of a multi-front war. One, the U.S. wants de-escalation in Lebanon so Iran negotiations are not derailed; two, compartmentalizing conflicts prevents one theater from triggering another; three, a narrower bargaining table is easier to manage than a regional conflagration.",
+            "Third, Lebanese leaders may gain leverage over time if they can demonstrate seriousness. One, army deployment and operational control in the south can build institutional credibility; two, international partners may reward visible state-building; three, even if the first deal is lopsided, it can lay groundwork for future reciprocal concessions."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the talks are a necessary coercive step toward peace or a sovereignty-destroying trap that entrenches future war. Prop wins if you prioritize legitimacy, because a cease-fire that cannot be sold domestically or enforced on the ground simply recreates the conflict under worse political conditions; opp wins if you prioritize immediate harm reduction, because even a lopsided pause can still cut deaths and buy time.",
+      "stock_connections": [
+        "Asymmetric bargaining",
+        "State sovereignty",
+        "Proxy war dynamics",
+        "Peace process legitimacy",
+        "Security dilemma",
+        "Civil conflict / intra-state fragmentation",
+        "Great power mediation",
+        "Conflict de-escalation vs conflict resolution"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would broker direct peace talks between Israel and Lebanon",
+        "THBT external mediators should prioritize cease-fires over comprehensive settlements in active wars",
+        "THP a world where Lebanon is forced into direct negotiations with Israel",
+        "THBT weak states should refuse asymmetrical peace deals even if they reduce short-term violence"
+      ],
+      "data_points": [
+        "April 16, 2026: U.S. announced a 10-day cessation of hostilities between Lebanon and Israel",
+        "Cease-fire extended by three weeks to mid-May 2026",
+        "War described as 46 days of open conflict before the cease-fire",
+        "Israeli strikes killed more than 2,800 people in Lebanon and injured thousands more",
+        "Roughly one-fifth of Lebanon’s population has been displaced",
+        "Hezbollah attacks killed more than 20 Israelis, mostly soldiers",
+        "Since the cease-fire, Israeli bombing in southern Lebanon has killed hundreds more people",
+        "Israel continues to occupy a section of south Lebanon called the \"yellow line\" / \"forward defensive line\"",
+        "Lebanese army said in January it had established \"operational control\" in southern Lebanon",
+        "Lebanon’s government banned Hezbollah military and security activities after the March escalation"
+      ]
+    },
+    {
+      "id": "0ee2784615df",
+      "title": "Trump-China Rapprochement Leaves Iran and Taiwan Unresolved, Exposing Limits of Great-Power Bargaining",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/us-china-visit-trump-jinping-iran",
+      "published": "2026-05-15T12:29:09Z",
+      "category": "IR",
+      "region": "United States / China / Iran / Taiwan Strait",
+      "background": "Donald Trump wrapped up a visit to Beijing on Friday after meeting Xi Jinping, with both sides publicly emphasizing warmth but announcing no major breakthrough on Taiwan or Iran. Trump said the US and China 'feel very similar' about ending the war in Iran and keeping the Strait of Hormuz open, but gave no details; China’s foreign ministry separately called for a ceasefire in Iran and said the strait should be opened 'as soon as possible.' Before the summit, there had been speculation Washington might ask Beijing, Iran’s biggest buyer of oil, to use its leverage, but US Secretary of State Marco Rubio later said: 'We don’t need their help.'",
+      "prop_args": [
+        {
+          "thesis": "Great-power diplomacy with China can be a useful de-escalation channel on Iran, even if it does not produce a formal accord.",
+          "mechanisms": [
+            "First, it creates a backchannel for crisis management. This is because (1) China is one of the few actors with direct leverage over Tehran through oil purchases and diplomatic ties, (2) the US and China both publicly endorsed keeping the Strait of Hormuz open, and (3) even vague alignment can reduce miscalculation when military escalation is already underway.",
+            "Second, it can shift incentives inside Iran without direct US-Iran talks. Three reasons: one, if Beijing signals that continued instability threatens Chinese energy security and trade, Tehran faces pressure from a major customer; two, China can offer face-saving off-ramps that the US cannot; three, coordinated pressure from both superpowers makes sanctions-busting and escalation costlier.",
+            "Third, even limited coordination can prevent wider regional spillover. This matters because a ceasefire in Iran and open shipping lanes protect global oil flows, reduce insurance and freight shocks, and lower the risk that the conflict drags in Gulf states, Israel, or US forces."
+          ]
+        },
+        {
+          "thesis": "The summit shows that transactional US-China engagement can still deliver concrete economic gains even when strategic disputes remain unresolved.",
+          "mechanisms": [
+            "First, both sides have incentives to compartmentalize. This is because (1) Trump claimed deals were struck on 200 Boeing jets plus US oil and soya beans, (2) China benefits from stabilizing trade ties while facing external pressure, and (3) the US can extract sector-specific wins without settling Taiwan or broader security issues.",
+            "Second, economic deals can build a floor under the relationship. Three reasons: one, trade commitments reduce the chance of immediate retaliation; two, business constituencies on both sides lobby against escalation; three, visible commercial wins help leaders sell diplomacy domestically even when geopolitics stays tense.",
+            "Third, partial cooperation is still strategically valuable. This matters because in great-power politics, preventing total rupture often matters more than solving every dispute at once; maintaining channels on trade and energy can preserve leverage for future negotiations."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is evidence that US-China diplomacy is mostly performative and cannot produce durable outcomes on Iran or Taiwan.",
+          "mechanisms": [
+            "First, the core strategic interests are fundamentally incompatible. One, the US wants to constrain Iran and preserve freedom of navigation; two, China wants cheap energy and avoids openly sacrificing its relationship with Tehran; three, on Taiwan, Xi explicitly said 'Taiwan independence' and peace in the strait are 'incompatible,' showing zero room for compromise.",
+            "Second, neither side is willing to pay the domestic or strategic cost of real concessions. One, Rubio publicly walked back the idea that Washington needed China’s help on Iran, signaling no serious joint strategy; two, Trump sidestepped Taiwan entirely in public, suggesting he avoided commitments; three, the White House readout omitted Taiwan, indicating deliberate ambiguity rather than agreement.",
+            "Third, the absence of concrete deliverables means the summit cannot alter facts on the ground. One, no breakthrough on Taiwan, no confirmed Iran accord, and no verified China-Boeing deal were announced; two, without implementation mechanisms, any verbal alignment is reversible; three, adversaries interpret vagueness as weakness, not deterrence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolic alignment between Washington and Beijing can actually change Iranian or regional behavior. Pro wins if you think even partial coordination reduces escalation risk and protects shipping; opp wins if you think the absence of enforceable commitments means the summit is just optics with no structural effect.",
+      "stock_connections": [
+        "Great Power Politics",
+        "Transactional Diplomacy",
+        "Deterrence",
+        "Security Dilemma",
+        "Energy Security",
+        "Economic Statecraft",
+        "Alliance Politics",
+        "Conflict De-escalation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would seek Chinese mediation in Middle East conflicts",
+        "THBT great powers should prioritize transactional cooperation over ideological confrontation",
+        "THP a world where the US and China coordinate on regional security crises",
+        "THBT the US should trade concessions on trade for Chinese pressure on Iran"
+      ],
+      "data_points": [
+        "Trump said the US and China 'feel very similar' about ending the war in Iran, but gave no details of an accord",
+        "China’s foreign ministry called for a ceasefire in Iran and said the Strait of Hormuz should be opened 'as soon as possible'",
+        "Marco Rubio said on Thursday: 'We don’t need their help.'",
+        "Trump claimed China would buy 200 Boeing jets, plus US oil and soya beans, but the deal was not confirmed by China or Boeing",
+        "Xi said 'Taiwan independence' and peace in the Taiwan Strait were 'incompatible'",
+        "The White House readout of the meeting omitted any mention of Taiwan"
+      ]
+    },
+    {
+      "id": "7debcd62f79f",
+      "title": "Milei’s Macro Stabilization Is Colliding With Wage Collapse and Political Backlash",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/15/argentina-milei-economy-austerity-wages-approval-rating/",
+      "published": "2026-05-15T12:00:18Z",
+      "category": "Econ",
+      "region": "Argentina",
+      "background": "On Tuesday, tens of thousands of Argentines — with one government estimate putting the number in the hundreds of thousands — protested in Buenos Aires against President Javier Milei’s austerity program. Milei’s approval rating has fallen to around 35 percent, while average formal-sector wages in February were nearly 9 percent below their November 2023 level, adjusted for inflation. At the same time, Argentina’s inflation and deficit have fallen, and the economy grew 4.4 percent in real terms last year according to the IMF.",
+      "prop_args": [
+        {
+          "thesis": "Milei’s austerity is economically justified because it restores macro stability first, which is a prerequisite for durable growth and investment.",
+          "mechanisms": [
+            "First, fiscal consolidation breaks the inflation-deficit spiral. This is because (1) cutting spending reduces the need for monetary financing, (2) lower deficits anchor inflation expectations, and (3) stable prices make long-term contracts, credit, and investment viable again.",
+            "Second, the policy shifts Argentina toward tradable, high-productivity sectors. Three reasons: one, mining and oil can expand under a more credible policy regime; two, removing subsidies and distortions reallocates capital away from uncompetitive sectors; three, export-oriented sectors are more likely to generate foreign exchange and reduce recurring balance-of-payments crises.",
+            "Third, short-term pain is politically costly but economically necessary. This matters because (1) Argentina’s prior model repeatedly produced boom-bust cycles, (2) delaying adjustment only increases the eventual correction, and (3) once inflation falls and growth resumes, wage recovery is more sustainable than under artificial wage support."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Milei’s austerity is politically and socially unsustainable because it imposes concentrated pain on workers while the gains are delayed and uneven.",
+          "mechanisms": [
+            "First, the adjustment is regressive in the short run. One, average formal-sector wages are nearly 9 percent below November 2023 levels in real terms; two, manufacturing and other protected sectors are shedding jobs; three, households experience immediate welfare losses while macro indicators improve only on paper.",
+            "Second, the growth model is too narrow to absorb displaced labor. One, Milei is prioritizing mining and oil, which employ relatively few people; two, workers leaving manufacturing and other uncompetitive sectors do not automatically transition into these jobs; three, without an active labor-market strategy, unemployment and informality rise even if GDP improves.",
+            "Third, the backlash weakens reform durability. One, approval has fallen to around 35 percent, making coalition maintenance harder; two, frequent protests create incentives for policy reversal or legislative obstruction; three, if the opposition eventually unifies, the austerity gains can be undone before they become politically locked in."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between macro stabilization and lived welfare. Pro side wins if the round is about whether Argentina needed a hard reset to escape chronic inflation and fiscal dysfunction; opposition wins if the judge prioritizes distribution, political sustainability, and whether growth that bypasses workers can really count as success.",
+      "stock_connections": [
+        "Austerity",
+        "Structural Adjustment",
+        "Distribution vs Growth",
+        "Political Economy of Reform",
+        "Social Backlash",
+        "Labor Market Dislocation",
+        "Credibility and Inflation Expectations",
+        "Dutch Disease"
+      ],
+      "motion_areas": [
+        "TH, as Argentina, would implement Milei-style austerity",
+        "THBT governments should prioritize inflation reduction over wage protection during macroeconomic crises",
+        "THP a world where elected leaders can impose severe fiscal adjustment without immediate electoral punishment"
+      ],
+      "data_points": [
+        "Tens of thousands, and possibly hundreds of thousands, protested in Buenos Aires on Tuesday against Milei’s austerity",
+        "Milei’s approval rating fell to around 35 percent last month, according to AtlasIntel",
+        "Average formal-sector wages in February were nearly 9 percent below their November 2023 level in real terms",
+        "Argentina’s economy grew 4.4 percent in real terms last year, according to the IMF",
+        "Inflation and the fiscal deficit both fell under Milei",
+        "The United States pledged $20 billion in potential financial support for Argentina ahead of last year’s midterms"
+      ]
+    },
+    {
+      "id": "e4e5100a8818",
+      "title": "UAE Pipeline Bypass Lets Abu Dhabi Defy Hormuz Chokepoint and OPEC Quotas",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/15/uae-oil-pipeline-strait-of-hormuz-by-2027",
+      "published": "2026-05-15T11:28:08Z",
+      "category": "Econ",
+      "region": "United Arab Emirates / Gulf of Oman / Strait of Hormuz / Saudi Arabia / Iran",
+      "background": "The UAE has announced it will fast-track a second oil pipeline that bypasses the Strait of Hormuz and is expected to be completed by 2027. The existing Habshan-Fujairah pipeline can already move up to 1.8 million barrels per day to the port of Fujairah on the Gulf of Oman, and the new line is expected to double that capacity to 3.6 million barrels per day. The move comes after an 11-week blockade of the Strait of Hormuz, through which roughly 20% of global oil and seaborne gas flowed before the Iran war, and just weeks after the UAE quit Opec after 60 years of membership.",
+      "prop_args": [
+        {
+          "thesis": "By building bypass infrastructure, the UAE reduces its exposure to a single geopolitical chokepoint and gains durable leverage over both conflict outcomes and future oil policy.",
+          "mechanisms": [
+            "First, the pipeline de-risks export revenue by removing dependence on the Strait of Hormuz. This is because (1) the current blockade has already shown that tankers can be stopped by force, (2) the UAE can keep shipping crude even if maritime traffic remains disrupted, and (3) investors and buyers price in lower supply risk, which stabilizes state revenue and fiscal planning.",
+            "Second, it gives Abu Dhabi strategic autonomy from both Iran and Saudi Arabia. Three reasons: one, it weakens Iran's ability to hold Gulf exporters hostage through maritime disruption; two, it reduces Saudi leverage inside Opec by letting the UAE pump and export outside cartel discipline; three, it allows the UAE to pursue its own production strategy after quitting Opec.",
+            "Third, it improves the UAE's long-run bargaining position in any peace settlement. This matters because the UAE no longer needs a full reopening of Hormuz to restore export volumes, so it can resist rushed or unfavorable diplomatic deals and instead negotiate from a position of energy security rather than vulnerability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The pipeline is a costly symptom of regional instability that entrenches fossil dependence and accelerates fragmentation among Gulf producers.",
+          "mechanisms": [
+            "First, it locks in hydrocarbon expansion at exactly the moment the world is trying to reduce oil dependence. Numbered reasons: one, doubling export capacity to 3.6 million barrels per day increases the UAE's incentive to keep drilling and exporting; two, it diverts capital toward stranded fossil infrastructure instead of diversification; three, it prolongs global exposure to oil price shocks and emissions.",
+            "Second, it weakens collective Gulf coordination and makes crisis management harder. Numbered reasons: one, the UAE's exit from Opec and pipeline expansion signal a break with Saudi-led quota discipline; two, if each producer builds unilateral bypasses, the region becomes more competitive and less cooperative; three, that fragmentation can trigger price wars or retaliatory production decisions once the conflict ends.",
+            "Third, it does not solve the underlying security problem and may even intensify it. Numbered reasons: one, the pipeline still runs through a conflict-prone region and can be targeted in future attacks; two, bypass capacity cannot fully replace the strategic importance of Hormuz for the wider Gulf; three, by normalizing permanent wartime logistics, it reduces pressure for a diplomatic settlement that would reopen the strait."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you prioritize immediate resilience or long-run systemic costs. Pro side wins if the round is about state survival under coercion, because the pipeline directly converts a vulnerable chokepoint into controllable infrastructure; opposition wins if the frame is regional order and energy transition, because the move entrenches fragmentation and fossil lock-in.",
+      "stock_connections": [
+        "Chokepoint Politics",
+        "Energy Security",
+        "Resource Curse",
+        "Dutch Disease",
+        "Cartel Breakdown",
+        "Strategic Autonomy",
+        "Geoeconomic Coercion",
+        "Fossil Fuel Lock-in"
+      ],
+      "motion_areas": [
+        "TH, as the UAE, would build bypass infrastructure to reduce dependence on maritime chokepoints",
+        "THBT Gulf states should prioritize bilateral energy security over Opec coordination",
+        "THP a world where major oil exporters can route crude outside contested straits",
+        "TH, as a middle power dependent on a single export route, would diversify away from that route even at high fiscal cost"
+      ],
+      "data_points": [
+        "Current Habshan-Fujairah pipeline capacity: up to 1.8 million barrels per day",
+        "Expected combined pipeline capacity after expansion: 3.6 million barrels per day",
+        "The Strait of Hormuz carried about 20% of global oil and seaborne gas before the Iran war",
+        "The blockade of Hormuz is approaching the 11-week mark",
+        "The UAE quit Opec after 60 years of membership",
+        "Saudi Arabia can transport roughly 7 million barrels per day from eastern oilfields to Yanbu, with about 5 million barrels per day exported"
+      ]
+    },
+    {
+      "id": "628c573238ed",
+      "title": "Trump’s Assault on Fed Independence Threatens to Reprice U.S. Monetary Credibility",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/15/federal-reserve-independence-trump",
+      "published": "2026-05-15T11:00:38Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "Jerome Powell stepped down this week as chair of the Federal Reserve after overseeing a rare U.S. “soft landing” following the post-Covid inflation surge. The article says Donald Trump has repeatedly attacked Powell, threatened to indict him over renovation costs at Fed headquarters, and is now expected to replace him with Kevin Warsh, a more dovish pick. Trump has also tried to remove Fed governor Lisa Cook “for cause,” with lower courts blocking the move for now while the case sits before the Supreme Court.",
+      "prop_args": [
+        {
+          "thesis": "Preserving Fed independence is essential because once markets believe monetary policy is politically captured, inflation expectations, borrowing costs, and institutional credibility deteriorate quickly.",
+          "mechanisms": [
+            "First, political control of the Fed weakens anti-inflation credibility. This is because (1) elected leaders have incentives to cut rates before elections or to mask fiscal stress, (2) markets anticipate that bias and demand higher inflation premia, and (3) once expectations move, the Fed must raise rates more aggressively later, causing deeper economic pain.",
+            "Second, independence protects the Fed from becoming a tool of patronage and retaliation. Three reasons: one, a president can pressure the central bank to reward allies and punish enemies through rate decisions; two, this distorts credit allocation across sectors and firms, not just macro policy; three, it turns a technocratic institution into another battlefield in broader democratic erosion.",
+            "Third, the U.S. system relies on the Fed as a credibility anchor during shocks. This matters because the article notes the Fed already delivered a soft landing after the pandemic inflation spike; if that anchor is removed, the U.S. loses the one institution that can credibly stabilize prices without immediate political interference, making future crises more volatile and harder to manage."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Fed is not meaningfully endangered because markets, courts, and the institution’s internal structure still constrain any president’s ability to politicize monetary policy.",
+          "mechanisms": [
+            "First, the Fed’s decision-making is diffuse and hard to capture. One, the FOMC has 12 members, so even a Trump-appointed chair cannot unilaterally dictate policy; two, only a small minority of current members are presidential appointees, limiting immediate takeover; three, bureaucratic norms and professional reputation make open obedience costly for governors and staff.",
+            "Second, legal and market constraints deter extreme interference. One, lower courts have already blocked the removal of Lisa Cook on due-process grounds; two, the Supreme Court has so far treated the Fed as a special case with distinct historical protections; three, bond markets and the dollar still have not priced in a loss of credibility, suggesting investors expect institutional resistance to survive.",
+            "Third, some presidential pressure can correct technocratic overreach rather than destroy independence. One, central banks can be too slow or too detached from employment conditions, as the article itself notes with the Fed’s delayed response to post-Covid inflation; two, elected oversight can force accountability when unelected officials make major distributional decisions; three, limited democratic control may improve legitimacy without fully eliminating expertise."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic pressure and actual policy capture. Prop wins if it proves that even partial politicization raises inflation expectations and borrowing costs, because credibility is the Fed’s core asset; Opp wins if it shows the institutional veto points are strong enough that markets never truly reprice the risk.",
+      "stock_connections": [
+        "Central Bank Independence",
+        "Institutional Credibility",
+        "Democratic Backsliding",
+        "Unitary Executive Theory",
+        "Moral Hazard",
+        "Inflation Expectations",
+        "Technocracy vs Democracy",
+        "Rule of Law"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would strengthen legal protections for central bank independence",
+        "THBT central banks should be fully insulated from elected executives",
+        "THP a world where presidents cannot remove central bank governors without supermajority legislative approval"
+      ],
+      "data_points": [
+        "Powell delivered a rare U.S. 'soft landing' after the post-Covid inflation surge",
+        "The FOMC has 12 members, only 2 of whom are Trump appointees",
+        "Trump attempted to remove Fed governor Lisa Cook 'for cause'; lower courts blocked the move pending appeal",
+        "The Supreme Court has allowed Trump to fire members of the NLRB, MSPB, CPSC and FTC",
+        "The article says markets have not yet priced in a loss of Fed credibility: long-term interest rates and the dollar have not behaved as if the Fed has lost its inflation-fighting capacity"
+      ]
+    },
+    {
+      "id": "67e4ee00c050",
+      "title": "Trump-Xi Pageantry Masks a Thin U.S.-China Reset With Taiwan Still the Core Flashpoint",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5822512/trump-china-xi-summit-takeaways",
+      "published": "2026-05-15T11:00:16Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "President Trump completed a two-day visit to China and described it as \"incredible,\" but the trip produced few concrete written agreements. Trump said China would buy more soybeans and 200 Boeing jets, though Beijing had not confirmed the purchases at the time of reporting. The visit centered on a rare lunch at Zhongnanhai with Xi Jinping, where both sides emphasized stability in bilateral ties while Taiwan, Iran, and trade remained major discussion points.",
+      "prop_args": [
+        {
+          "thesis": "The summit lowers immediate U.S.-China tensions by creating a personal channel that can prevent escalation and unlock incremental deals.",
+          "mechanisms": [
+            "First, leader-to-leader diplomacy reduces miscalculation. This is because (1) Trump treats diplomacy as personal trust-building rather than bureaucratic bargaining, (2) Xi can use direct access to signal red lines like Taiwan without public humiliation, and (3) both sides can clarify intent on sensitive issues such as tariffs, Taiwan, and the Middle East before they spiral into crisis.",
+            "Second, the pageantry itself can produce real policy movement. Three reasons: one, Trump is visibly influenced by symbolic respect and may be more willing to soften confrontation when he feels personally honored; two, Chinese protocol is designed to reward that psychology and keep negotiations open; three, even vague summit-level commitments can translate into follow-on purchases and sectoral deals, especially in soybeans and aircraft.",
+            "Third, even limited economic commitments matter strategically. This matters because (1) soybean and Boeing purchases create domestic constituencies in the U.S. that benefit from continued engagement, (2) trade interdependence raises the cost of a full rupture, and (3) a temporary stabilization buys time for both sides to manage bigger disputes like Taiwan without immediate coercive escalation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is mostly performative and risks entrenching a dangerous, personalized diplomacy that leaves structural conflicts unresolved.",
+          "mechanisms": [
+            "First, the lack of written agreements means the trip produces little durable policy. One, Trump has a record of announcing China deals that later collapse or are never confirmed; two, Beijing deliberately treats leader meetings as agenda-setting rather than issue-resolution; three, without codified commitments, both sides can later reinterpret the summit however they want.",
+            "Second, personal diplomacy increases strategic ambiguity on the most dangerous issue: Taiwan. One, Trump refused to answer whether the U.S. would defend Taiwan, which weakens deterrence; two, Xi explicitly framed Taiwan as a red line and warned mishandling it would jeopardize stability; three, ambiguity invites Chinese testing while making allies doubt U.S. resolve.",
+            "Third, the optics may actually strengthen China’s bargaining position. This matters because (1) Xi gets to project calm, control, and parity while Trump seeks validation, (2) the spectacle normalizes the idea that the U.S. needs Chinese cooperation more than China needs U.S. pressure, and (3) it can encourage Trump to override hawkish advisors, reducing the credibility of coercive U.S. policy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolism translates into restraint or just masks unresolved rivalry. Prop wins if you prioritize crisis management and incremental de-escalation; Opp wins if you think the core issue is deterrence, because Taiwan ambiguity and the absence of binding agreements leave the underlying security dilemma untouched.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Deterrence",
+        "Strategic Ambiguity",
+        "Summit Diplomacy",
+        "Personalist Leadership",
+        "Trade Interdependence",
+        "Economic Statecraft",
+        "Alliance Credibility"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize leader-level summit diplomacy with China over public confrontation",
+        "THBT the United States should maintain strategic ambiguity over Taiwan",
+        "THP a world where major power rivalries are managed through personal diplomacy rather than institutional confrontation"
+      ],
+      "data_points": [
+        "Trump said China would buy 'lots of soybeans and Boeing aircraft' but the White House had not released a detailed written account of the agreements.",
+        "Trump announced China had agreed to order 200 jets, then immediately hedged that it was 'sort of' a commitment.",
+        "China has not yet confirmed the reported Boeing or soybean purchases.",
+        "The visit included a rare lunch at Zhongnanhai, the Beijing compound where top Chinese officials live and work.",
+        "Xi said mishandling Taiwan could put China-U.S. relations in 'jeopardy.'",
+        "Trump said he would not discuss whether the U.S. would defend Taiwan.",
+        "Trump returned to office after imposing 'sky high tariffs' on Chinese exports last year."
+      ]
+    },
+    {
+      "id": "5d2139d549e9",
+      "title": "Trump-Xi Summit Reopens the Question of US-China Decoupling vs Managed Rivalry",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5822445/china-economist-shares-takeaways-from-the-trump-xi-summit",
+      "published": "2026-05-15T11:00:05Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "This NPR segment features Chinese economist Keyu Jin discussing the takeaways from a Trump-Xi summit. The article text provided does not include the substantive policy details of the meeting, but the context is a high-level bilateral summit between the leaders of the United States and China on 15 May 2026. The relevant debate frame is whether the summit signals a durable stabilization of the relationship or merely a temporary pause in strategic competition.",
+      "prop_args": [
+        {
+          "thesis": "The summit is valuable because even limited leader-level engagement reduces escalation risk and creates a channel for managed competition.",
+          "mechanisms": [
+            "First, direct summit diplomacy lowers the probability of miscalculation. This is because (1) it gives both sides a clear read on red lines, (2) it restores elite-to-elite communication after periods of tariff, tech, or military tension, and (3) it creates a political commitment that lower-level bureaucrats can use to de-escalate incidents rather than harden them.",
+            "Second, a summit can produce issue-specific cooperation even when broader rivalry remains. Three reasons: one, the two economies are deeply interdependent, so both have incentives to preserve trade and financial stability; two, cooperation on narrow areas like tariffs, export controls, fentanyl, or climate can generate tangible gains without requiring trust; three, incremental deals can build a floor under the relationship and prevent a spiral into full decoupling.",
+            "Third, managed rivalry is strategically superior to uncontrolled confrontation. This matters because (1) it preserves global supply-chain stability, (2) it reduces the chance that allies are forced into binary alignment, and (3) it keeps competition inside rules and institutions rather than letting it spill into military or financial coercion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is mostly symbolic because structural US-China rivalry is driven by incompatible strategic goals, not by a lack of dialogue.",
+          "mechanisms": [
+            "First, summitry cannot solve the core security dilemma. One, the US sees China as a systemic challenger in technology, trade, and military power; two, China sees US pressure as containment; three, when both sides interpret concessions as weakness, any agreement is fragile and easily reversed.",
+            "Second, domestic politics on both sides reward confrontation over compromise. One, US leaders face bipartisan pressure to appear tough on China, especially on tariffs and industrial policy; two, Chinese leaders cannot be seen as yielding to external pressure; three, this means even if leaders agree in principle, implementation is constrained by nationalist audiences and bureaucratic resistance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether leader-level contact can change incentives or merely manage symptoms. Prop wins if the round is about preventing crisis and preserving stability; Opp wins if the round is about whether the underlying strategic competition is actually being resolved, since summitry does little against structural rivalry.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Managed Competition",
+        "Decoupling",
+        "Interdependence",
+        "Great Power Rivalry",
+        "Signaling",
+        "Summit Diplomacy",
+        "Nationalism"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would pursue summit diplomacy with China despite ongoing strategic rivalry",
+        "THBT the US should prioritize managed competition over economic decoupling from China",
+        "THP a world where US-China relations are governed by leader-level bargaining rather than institutional containment"
+      ],
+      "data_points": [
+        "Trump-Xi summit date: 15 May 2026",
+        "The article is an NPR interview with Chinese economist Keyu Jin on the summit's takeaways",
+        "The provided text does not include substantive policy details, so the debate frame must be inferred from the summit context"
+      ]
+    },
+    {
+      "id": "c77a68e13f5b",
+      "title": "Escalating Drone War Pushes Russia-Ukraine Conflict Toward Total Retaliation and War-Crimes Diplomacy",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-attacks-russia-with-drones-after-suffering-three-days-of-strikes",
+      "published": "2026-05-15T10:21:41Z",
+      "category": "IR",
+      "region": "Ukraine / Russia / Moldova",
+      "background": "Ukraine launched a large-scale long-range drone attack on several Russian regions, including the Ryazan oil refinery, after three consecutive days of major Russian drone and missile strikes on Ukraine. In Kyiv, a cruise missile hit a nine-storey apartment block in Darnytskyi district, killing 24 people including three children; about 50 were wounded and around 400 required psychological support. Ukraine said Russia fired more than 1,500 drones and dozens of missiles across the country this week, while the Council of Europe said at a summit in Moldova that it was moving toward setting up a war-crimes tribunal for Russia’s leadership.",
+      "prop_args": [
+        {
+          "thesis": "Ukraine’s retaliatory drone campaign is strategically necessary because it raises the costs of Russian escalation and forces Moscow to confront the war’s material consequences.",
+          "mechanisms": [
+            "First, it targets Russia’s war-making infrastructure rather than only symbolic sites. This is because (1) hitting assets like the Ryazan oil refinery directly disrupts fuel supply and military logistics, (2) it imposes economic costs on sectors that sustain the Russian state and war effort, and (3) it signals that rear-area safety no longer exists, forcing Russia to divert air defenses and resources away from the front.",
+            "Second, it restores deterrence by showing that civilian massacres will not be cost-free. Three reasons: one, Russia has used repeated mass strikes to normalize punishment without consequence; two, reciprocal pressure creates a visible escalation ladder that can alter Kremlin calculations; three, it reassures Ukrainian society and allies that Ukraine can still impose pain despite being under attack.",
+            "Third, it strengthens Ukraine’s diplomatic position by making Russian aggression look like a continuing, punishable crime rather than a frozen conflict. This matters because (1) the war-crimes tribunal push becomes more credible when paired with active resistance, (2) it keeps international attention on Russian culpability, and (3) it helps sustain external military aid by demonstrating that support is producing tangible battlefield and strategic effects."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Ukraine’s retaliation is strategically counterproductive because it invites escalation while doing little to change Russia’s core ability to wage war.",
+          "mechanisms": [
+            "First, it gives Moscow a pretext for further escalation and domestic mobilization. One, Russia can frame Ukrainian strikes on civilian or industrial targets as terrorism, strengthening propaganda and public support for harsher attacks; two, it allows the Kremlin to justify wider bombardment of Ukrainian cities; three, it reduces pressure on Russia to negotiate by hardening its narrative of existential war.",
+            "Second, the military effect is limited relative to the scale of Russian capacity. One, Russia has a much larger stockpile of missiles, drones, and industrial depth, so isolated refinery damage is unlikely to cripple the war economy; two, repair and redundancy can blunt the impact of single-site strikes; three, Ukraine risks spending scarce long-range drones on targets that are more symbolic than decisive.",
+            "Third, reciprocal strikes increase civilian harm and entrench a tit-for-tat logic that worsens the humanitarian situation. This matters because (1) both sides can claim retaliation for civilian casualties, (2) the conflict becomes less politically containable as each round of strikes normalizes attacks on cities, and (3) the side with greater escalation capacity — Russia — is more likely to win a war of attrition."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether retaliation meaningfully changes Russian behavior or simply deepens escalation under asymmetric conditions. Prop wins if the key issue is imposing costs and signaling resolve; opp wins if the key issue is that Russia’s larger military and propaganda advantage makes reciprocal strikes strategically and humanitarianly self-defeating.",
+      "stock_connections": [
+        "Deterrence",
+        "Escalation Ladder",
+        "Asymmetric Warfare",
+        "War of Attrition",
+        "Civilian Harm / Proportionality",
+        "Propaganda and Information War",
+        "Collective Security",
+        "War Crimes Accountability"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize retaliatory strikes on Russian infrastructure",
+        "THBT states under invasion should target the aggressor’s economic assets even at the risk of escalation",
+        "THP a world where attacked states can conduct long-range retaliation against the aggressor’s territory"
+      ],
+      "data_points": [
+        "24 people killed in the Kyiv apartment block strike, including 3 children",
+        "About 50 people wounded in Kyiv and about 400 required psychological support",
+        "Russia launched more than 1,500 drones and dozens of missiles across Ukraine over three consecutive days",
+        "The search-and-rescue operation at the Kyiv building lasted more than 28 hours",
+        "Hundreds of rescuers sifted through 3,000 cubic metres of rubble",
+        "The Ryazan target was one of Russia’s largest oil refineries",
+        "The Council of Europe summit in Moldova involved 46 European foreign ministers",
+        "Ukraine said the strike on Kyiv was part of Russia’s biggest barrage since the full-scale invasion began in February 2022"
+      ]
+    },
+    {
+      "id": "7edb769167a7",
+      "title": "Australian Court Expands Transgender Anti-Discrimination Protections Over Female-Only Platform Access",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T10:06:59Z",
+      "category": "IR",
+      "region": "Australia",
+      "background": "Australia's Federal Court has dismissed an appeal in the 'Tickle v Giggle' case and increased compensation for Roxanne Tickle to AU$20,000 (about US$14,000), after she was blocked from the female-only app Giggle for Girls. The court found that the app founder, Sall Grover, had directly discriminated against Tickle on the basis of gender identity, rather than indirectly discriminating on the basis of sex. The dispute began after Tickle downloaded the app in 2021, passed registration, used it for about six months, and was then removed after Grover said she saw 'male facial features' in Tickle's profile photo.",
+      "prop_args": [
+        {
+          "thesis": "The ruling strengthens equal-access protections for trans people and prevents private platforms from using vague 'women-only' branding to exclude users arbitrarily.",
+          "mechanisms": [
+            "First, it clarifies that gender identity is a protected ground under the Sex Discrimination Act, which means private service providers cannot evade liability by relabeling exclusion as a 'sex-based' safety policy. This is because (1) the court treated the blocking as direct discrimination, (2) the decision sets a clearer legal standard for future cases, and (3) it reduces the ability of platforms to make ad hoc visual judgments about who 'looks' female.",
+            "Second, it improves access to digital spaces for trans women by making exclusion costlier and less defensible. Three reasons: one, online communities increasingly function as real social infrastructure, two, arbitrary bans can isolate already vulnerable users, and three, legal protection encourages platforms to adopt objective moderation rules instead of discriminatory gatekeeping.",
+            "Third, the judgment has broader signaling value for equality law and civil rights enforcement. This matters because it tells courts, employers, and service providers that 'safety' rhetoric does not override anti-discrimination obligations, which can shift norms beyond this single app and deter copycat exclusion across the private sector."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The ruling risks undermining women-only spaces by making it harder for platforms to define and enforce sex-based boundaries that some users rely on for safety.",
+          "mechanisms": [
+            "First, it creates legal uncertainty for female-only services that were built around sex-segregated access rather than gender-identity inclusion. One, providers may fear litigation if they try to enforce membership rules, two, they may be unable to rely on visual or self-ID screening, and three, the result is either over-compliance or the collapse of women-only spaces altogether.",
+            "Second, it can be framed as privileging one protected class over another in contexts where users seek protection from male violence or harassment. One, women-only spaces are often justified as a response to documented abuse, two, platform founders may argue they need discretion to exclude anyone they believe threatens that purpose, and three, courts intervening too aggressively may weaken trust in the legitimacy of such spaces.",
+            "Third, the decision may intensify backlash and politicize trans rights litigation. One, high-profile rulings can mobilize conservative actors against broader anti-discrimination law, two, appeals to the High Court suggest the issue remains contested and unstable, and three, backlash can produce worse long-term outcomes if legislatures respond by narrowing protections."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between equal access for trans users and autonomy for women-only services. Prop wins if the judge prioritizes clear anti-discrimination norms and the harms of arbitrary exclusion; opp wins if they persuade that the ruling chills legitimate safety-based spaces and triggers broader backlash against the protected group it aims to help.",
+      "stock_connections": [
+        "Anti-discrimination law",
+        "Civil rights enforcement",
+        "Protected classes",
+        "Backlash politics",
+        "Safe spaces",
+        "Platform governance",
+        "Identity-based exclusion",
+        "Legal precedent"
+      ],
+      "motion_areas": [
+        "TH, as Australia, would strengthen legal protections for gender identity in access to private services",
+        "THBT courts should prioritize gender identity over sex-based exclusion claims in private platform disputes",
+        "THP a world where women-only digital spaces must justify exclusion under anti-discrimination law"
+      ],
+      "data_points": [
+        "AU$20,000 compensation awarded to Roxanne Tickle, doubled from the original amount",
+        "Tickle downloaded the Giggle for Girls app in 2021 and used it for about half a year before being blocked",
+        "The Federal Court found direct discrimination on the ground of gender identity under Australia's Sex Discrimination Act",
+        "This was the first Federal Court case in Australia to hear an alleged gender identity discrimination claim",
+        "Grover said she removed Tickle after seeing 'male facial features' in the profile photo"
+      ]
+    },
+    {
+      "id": "fc832bc8537a",
+      "title": "US Boat Strikes in the Caribbean Turn Anti-Drug Policy Into Extrajudicial Killing Campaign",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
+      "published": "2026-05-15T10:00:37Z",
+      "category": "IR",
+      "region": "Caribbean / eastern Pacific / Latin America",
+      "background": "A five-month investigation by 20 journalists led by the Latin American Center for Investigative Journalism (CLIP) identified 13 previously unnamed victims of US strikes on boats allegedly carrying narcotics in the Caribbean and eastern Pacific. The campaign, which began during last year’s US military buildup toward Venezuela, has killed nearly 200 people over eight months, with no public evidence presented by the US that the victims were trafficking drugs. The US Southern Command says the strikes were \"deliberate, lawful and precise,\" while the UN, states, and rights groups have condemned them as extrajudicial executions.",
+      "prop_args": [
+        {
+          "thesis": "US boat strikes are a strategic and moral failure because they kill poor civilians and low-level couriers without reducing drug flows, making the campaign both unlawful and ineffective.",
+          "mechanisms": [
+            "First, the strikes collapse the distinction between cartel leadership and expendable labor. This is because (1) the victims identified so far come from extremely poor communities, (2) several were fishers or drivers taking precarious jobs to support families, and (3) the US has not publicly shown evidence that any of the 194 victims were trafficking drugs, so the policy is selecting for vulnerability rather than culpability.",
+            "Second, the campaign does not solve the underlying supply chain, so violence is substituted for disruption. Three reasons: one, drug trafficking networks are decentralized and replaceable, two, killing small-time couriers does not touch the financiers, brokers, or demand-side market in the US, and three, the article notes that security analysts and other reports conclude the strikes have not reduced the flow of drugs to the US.",
+            "Third, the policy normalizes extrajudicial force and corrodes regional trust in the US. This matters because (1) repeated killings without trial create a precedent that the US can execute suspected criminals at sea, (2) Latin American and Caribbean communities see the US as punishing poverty rather than crime, and (3) that perception weakens intelligence cooperation, maritime coordination, and broader US legitimacy in a region already sensitive to intervention."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strikes are a legitimate and necessary use of force against narco-trafficking networks that traditional law enforcement cannot stop.",
+          "mechanisms": [
+            "First, the US can argue the operational environment makes arrest-based enforcement unrealistic. One, these boats move fast across open water and can jettison evidence, two, many routes pass through weak or compromised jurisdictions where interdiction is unreliable, and three, the administration claims the targets are 'narco-terrorists' and enablers, framing them as combatants rather than ordinary criminals.",
+            "Second, the campaign can create deterrence and raise the cost of maritime trafficking. One, if smugglers believe boats may be destroyed, they may reduce shipments, two, higher risk and insurance costs can disrupt logistics and profits, and three, even partial suppression may be politically valuable to a US administration under pressure to show action on drugs.",
+            "Third, the US can claim sovereignty and self-defense against a transnational threat. One, narcotics entering the US are treated as a national security issue, two, the administration can say it is preventing harm before drugs reach American streets, and three, if intelligence is strong enough, preemptive strikes may be presented as lawful under an armed-conflict or counterterrorism framework."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between visible punishment and actual disruption of drug markets. Prop wins if the round is about legality, civilian protection, and whether the policy changes incentives; opp wins only if they can prove the strikes materially deter trafficking at a scale that outweighs the civilian and institutional costs.",
+      "stock_connections": [
+        "Extrajudicial Killing",
+        "War on Drugs",
+        "Counterterrorism Overreach",
+        "Civilian Harm",
+        "State Legitimacy",
+        "Deterrence",
+        "Moral Hazard",
+        "Security Theater",
+        "Imperial Overreach",
+        "Rule of Law"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would authorize lethal strikes on suspected drug-trafficking boats",
+        "THBT states should treat transnational narcotics trafficking as a military rather than law-enforcement problem",
+        "THP a world where suspected smugglers can be targeted with lethal force at sea without prior arrest"
+      ],
+      "data_points": [
+        "Nearly 200 people killed in US strikes on boats in the Caribbean and eastern Pacific over eight months",
+        "13 previously unidentified victims named by a five-month investigation led by 20 journalists",
+        "16 victims identified so far: 8 Venezuelans, 3 Colombians, 2 Ecuadorians, 2 Trinidadians, 1 Saint Lucian",
+        "The US has not publicly provided evidence that any of the 194 victims were involved in drug trafficking",
+        "The strikes began during last year’s US military buildup toward Venezuela",
+        "One strike described in the report occurred on 3 October",
+        "Families say some victims were fishers or drivers from extremely poor communities"
+      ]
+    },
+    {
+      "id": "171a4b3baaaf",
+      "title": "Russia’s Escalating Missile Campaign Exposes the Limits of Ceasefire Signaling and Sanctions Enforcement",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24",
+      "published": "2026-05-15T09:28:02Z",
+      "category": "IR",
+      "region": "Ukraine / Russia / Global sanctions network",
+      "background": "On May 14, a Russian cruise missile struck a nine-story apartment building in Kyiv, killing 24 people, including three children, and wounding 48 others. Ukrainian officials said the attack came during Russia’s largest aerial barrage since the full-scale invasion, with more than 1,560 drones launched at Ukrainian population centers since Wednesday and damage reported at around 180 sites nationwide. Zelenskyy said the missile used in the strike was built in the second quarter of 2026, arguing that Russia is still obtaining components and equipment despite sanctions. The attack followed a May 9-11 ceasefire period that U.S. President Donald Trump had urged both sides to observe, and it came alongside a 205-for-205 prisoner exchange brokered with UAE assistance as part of a planned 1,000-for-1,000 swap.",
+      "prop_args": [
+        {
+          "thesis": "Russia’s continued mass-casualty strikes prove that only tighter sanctions enforcement and expanded external pressure can meaningfully constrain its war machine.",
+          "mechanisms": [
+            "First, the attack shows sanctions leakage is still feeding Russian missile production. This is because (1) Zelenskyy says the missile was built in the second quarter of 2026, (2) that implies Russia is still importing components and equipment despite existing restrictions, and (3) if the supply chain remains intact, sanctions that are only nominally in place do not change battlefield behavior.",
+            "Second, large-scale civilian attacks are designed to break Ukrainian morale and force political concessions, so failing to raise the cost of escalation rewards coercion. Three reasons: one, the strike killed 24 civilians in a residential block, which maximizes terror value; two, Russia paired this with a record drone barrage of more than 1,560 drones since Wednesday, signaling capacity for sustained pressure; three, if the international response is limited to statements and prisoner swaps, Moscow learns that escalation is cheaper than compromise.",
+            "Third, stronger enforcement matters because it targets the bottleneck that actually sustains the war: industrial inputs and transshipment networks. This works because (1) missile production depends on specialized components, (2) those components often move through third countries and shell intermediaries, and (3) coordinated secondary sanctions, customs enforcement, and export controls can raise procurement costs faster than symbolic diplomacy can alter Kremlin incentives."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The attack demonstrates that sanctions and pressure alone are insufficient; the only realistic path is negotiated de-escalation and managed prisoner/ceasefire diplomacy.",
+          "mechanisms": [
+            "First, Russia has already adapted to sanctions, so additional restrictions may have diminishing returns. One, the article indicates the missile was still produced in 2026 despite years of sanctions; two, that suggests Russia has built alternative procurement channels and domestic substitution; three, if the state can absorb pressure and keep firing, escalation in sanctions may punish civilians globally more than it changes Kremlin strategy.",
+            "Second, the existence of a 205-for-205 prisoner exchange shows that even in active war, limited bargaining channels can produce concrete humanitarian gains. One, both sides can still coordinate through the UAE; two, such exchanges build minimal trust and reduce immediate suffering; three, prioritizing these channels may be more effective than maximalist pressure that hardens positions and prolongs the war.",
+            "Third, ceasefire signaling remains valuable because it creates off-ramps and tests whether either side is willing to de-escalate. This matters because (1) the article notes Trump and Putin suggested the war is close to ending, (2) even imperfect ceasefires can reduce civilian deaths in the short term, and (3) diplomacy can exploit war fatigue and battlefield stalemate better than punitive measures that risk entrenching both sides."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Russia’s continued strike capacity means sanctions are failing, or whether it means they need to be enforced more aggressively. Prop has the structural advantage if the motion is about coercing Russia, because the article gives direct evidence of sanctions evasion and civilian targeting; opp is stronger only if the motion prioritizes immediate de-escalation over long-term constraint.",
+      "stock_connections": [
+        "Sanctions Evasion",
+        "Coercive Diplomacy",
+        "Civilian Targeting",
+        "War of Attrition",
+        "Arms Production Supply Chains",
+        "Moral Hazard",
+        "Negotiated Settlement",
+        "Security Dilemma",
+        "Humanitarian Intervention"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would impose secondary sanctions on states and firms facilitating Russian missile production",
+        "THBT Western states should prioritize sanctions enforcement over ceasefire diplomacy in the Russia-Ukraine war",
+        "THP a world where humanitarian prisoner exchanges are used as the main channel of Russia-Ukraine engagement",
+        "THBT the international community should treat attacks on civilian infrastructure as evidence that peace talks are premature"
+      ],
+      "data_points": [
+        "24 people killed, including 3 children, in the Kyiv apartment building strike",
+        "48 wounded in Kyiv, including 2 children",
+        "More than 1,560 drones launched by Russia against Ukrainian population centers since Wednesday",
+        "Around 180 sites across Ukraine damaged in the latest wave of attacks",
+        "More than 50 residential buildings damaged, according to Zelenskyy",
+        "Previous largest Russian drone attack: nearly 1,000 drones and missiles over March 23-24",
+        "205 prisoners exchanged by each side in the first phase of a planned 1,000-for-1,000 swap",
+        "The missile was reportedly built in the second quarter of 2026"
+      ]
+    },
+    {
+      "id": "24bf4cbce26f",
+      "title": "Trump’s Beijing Pageantry Masks a Fragile U.S.-China Bargain Over Trade, Iran, and Status",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T09:17:59Z",
+      "category": "IR",
+      "region": "China / United States / Middle East",
+      "background": "US President Donald Trump ended a two-day visit to Beijing with a tour of Zhongnanhai, the heavily guarded compound that serves as the seat of power for China’s Communist leadership. The trip was described as heavy on pageantry but light on concrete policy detail, even as tensions remained over trade and the Iran war. Trump said China had agreed to buy US oil, 200 Boeing jets, and more American farm products, while Beijing only referred vaguely to a set of new \"consensuses\" and did not publicly confirm the specifics.",
+      "prop_args": [
+        {
+          "thesis": "The visit strengthens great-power stability by creating a face-saving channel for de-escalation, even if the immediate policy output is vague.",
+          "mechanisms": [
+            "First, the optics of Xi personally hosting Trump inside Zhongnanhai signal elite-level trust and direct leader-to-leader communication. This matters because (1) it bypasses bureaucratic deadlock, (2) it gives both sides political cover to soften their positions, and (3) it raises the diplomatic cost of immediate escalation after the summit.",
+            "Second, the summit gives both governments a transactional off-ramp on trade and Iran. Three reasons: one, Trump can sell visible wins like Boeing sales and farm purchases to domestic audiences; two, China can present itself as a responsible mediator on Iran without formally aligning with Washington; three, even partial economic deals reduce incentives for retaliatory tariffs or sanctions.",
+            "Third, symbolic engagement can lock in a broader détente by making future confrontation more expensive. This matters because repeated high-level contact creates expectations of continued negotiation, which can stabilize markets, reassure allies and firms, and reduce the risk of accidental crisis spirals between two nuclear powers."
+          ]
+        },
+        {
+          "thesis": "China benefits from the summit because it uses status diplomacy to normalize its rise while extracting economic concessions from the United States.",
+          "mechanisms": [
+            "First, hosting Trump in Zhongnanhai elevates China’s diplomatic status on the world stage. This is because (1) Zhongnanhai is widely treated as China’s equivalent of the White House, (2) rare invitations signal closeness and hierarchy, and (3) Beijing can frame itself as the indispensable counterpart to Washington rather than a subordinate power.",
+            "Second, China can trade vague promises for concrete economic gains. Three reasons: one, Trump publicly claimed China would buy 200 Boeing jets and more US agricultural goods; two, Beijing can delay or dilute implementation while preserving the appearance of cooperation; three, this lets China secure access to US markets and technology without making binding strategic concessions.",
+            "Third, the summit helps China widen its diplomatic room on Iran and global trade. This matters because Beijing can present itself as a broker with leverage over Tehran while continuing to buy Iranian oil, which increases its bargaining power with both the US and Middle Eastern actors."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The summit is mostly performative and therefore unlikely to produce durable de-escalation or meaningful policy change.",
+          "mechanisms": [
+            "First, the article shows a lack of concrete agreements. One, China did not confirm Trump’s claims about Boeing jets, oil, or farm purchases; two, Beijing only referred vaguely to \"new consensuses\"; three, the trip was explicitly described as scant on details, which means there is little institutional commitment behind the optics.",
+            "Second, the underlying strategic conflict remains unresolved. One, tensions over trade and the Iran war are still active; two, China’s economic relationship with Iran directly conflicts with US pressure on Tehran; three, both sides have incentives to use the summit for domestic messaging rather than real compromise, so any truce is fragile and reversible."
+          ]
+        },
+        {
+          "thesis": "The visit may actually entrench rivalry by legitimizing China’s leverage and exposing U.S. dependence on transactional deals.",
+          "mechanisms": [
+            "First, the summit signals that China can force the US into leader-level bargaining. One, Beijing’s growing global standing comes from diversifying trade away from the US; two, Trump’s need to secure visible wins shows Washington is under pressure to accommodate China; three, this encourages future coercive bargaining rather than principled cooperation.",
+            "Second, the pageantry can weaken US credibility with allies and partners. One, if Trump publicly praises Xi as \"warm\" and \"very smart\" while getting no verifiable commitments, allies may read the US as inconsistent; two, China can use the optics to portray itself as equal to or more stable than the US; three, that perception shift can accelerate alignment with Beijing among states seeking business over security."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolism and implementation: if you think elite contact itself reduces crisis risk, prop wins; if you think only verifiable commitments matter, opp wins. The structural advantage sits with opp because the article gives almost no hard policy detail, making it easier to argue the summit is a photo-op that leaves the core trade and Iran disputes intact.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Summit Diplomacy",
+        "Transactional Foreign Policy",
+        "Deterrence and Signaling",
+        "Soft Power",
+        "Alliance Credibility",
+        "Economic Interdependence",
+        "Status Competition"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China over public confrontation",
+        "THBT the US should pursue transactional détente with China",
+        "THP a world where great-power relations are managed through leader-level personal diplomacy",
+        "THBT China benefits more than the US from high-profile bilateral summits"
+      ],
+      "data_points": [
+        "Trump’s visit to Beijing lasted two days and ended with a tour of Zhongnanhai, China’s Communist Party seat of power",
+        "Trump claimed China agreed to buy 200 Boeing jets, US oil, and \"a lot\" of American farm products",
+        "China is the largest buyer of Iranian oil and Iran’s biggest trade partner",
+        "Zhongnanhai is described as extremely rare for foreign dignitaries to visit",
+        "US presidents Barack Obama, George W. Bush, and Richard Nixon have previously visited Zhongnanhai",
+        "Trump said a second summit is already on the calendar, with Xi invited to the White House in September"
+      ]
+    },
     {
       "id": "46f5a62e6a1d",
       "title": "Leadership Turmoil and Leftward Fiscal Expectations Push UK Gilts Higher and Pound Lower",
@@ -382,6 +1736,63 @@
         "British Gas was first made aware of the issue in 2018 and flagged again in an internal audit in 2021",
         "Ofgem says suppliers must go to court for a warrant before installing a meter without consent",
         "The scandal affected multiple suppliers, including EDF, E.On and Scottish Power"
+      ]
+    },
+    {
+      "id": "8eaaa46d34b2",
+      "title": "ASEAN’s Myanmar Stalemate Hardens as the Junta Seeks Legitimacy Amid Civil War and Suu Kyi’s Disappearance",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/myanmars-junta-cries-foul-as-kim-aris-pleads-for-proof-his-mother-is-alive/",
+      "published": "2026-05-15T07:04:00Z",
+      "category": "IR",
+      "region": "Myanmar / ASEAN",
+      "background": "Ahead of the 48th ASEAN Summit in Cebu, Myanmar’s exiled opposition and regional governments were again clashing over whether the junta should be treated as a legitimate government. Kim Aris, the son of Aung San Suu Kyi, wrote to French President Emmanuel Macron asking for proof that his 80-year-old mother is alive after she was reportedly moved from prison to a \"designated residence\" in Naypyidaw. ASEAN kept Myanmar’s military leadership blacklisted, while Cambodia, Laos, and Thailand publicly welcomed junta leader Min Aung Hlaing’s self-styled presidency after January 2026 elections widely viewed as a sham.",
+      "prop_args": [
+        {
+          "thesis": "ASEAN and external powers should continue isolating Myanmar’s junta because recognition would legitimize repression without producing any meaningful political opening.",
+          "mechanisms": [
+            "First, diplomatic recognition creates regime legitimacy. This is because (1) the junta is using the language of elections and \"equal representation\" to launder a coup government into normal statehood, (2) even limited engagement from ASEAN states gives it propaganda value domestically and internationally, and (3) the military can then claim it has regional acceptance despite ruling through coercion.",
+            "Second, isolation preserves leverage over the junta and protects opposition actors. Three reasons: one, the military has shown no incentive to compromise when it already controls the state apparatus; two, blacklisting keeps pressure on elites who care about travel, finance, and diplomatic access; three, it signals to the National Unity Government, ethnic armed groups, and civil society that ASEAN has not abandoned democratic outcomes.",
+            "Third, continued non-recognition is justified by the scale of atrocities. This matters because the conflict has already produced around 95,000 fatalities since the 2021 coup, ACLED estimates about 1,550 people are being killed every month, and more than 28.6 million people were exposed to violence in the past year, so normalizing the regime would reward mass violence rather than reduce it."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Engaging the junta, even without full recognition, is necessary because ASEAN’s current isolation strategy has failed to stop the war or improve humanitarian conditions.",
+          "mechanisms": [
+            "First, the junta is already entrenched, so exclusion has diminishing returns. One, after five years of conflict the military still controls Naypyidaw and key institutions; two, symbolic blacklisting has not prevented it from holding sham elections or appointing Min Aung Hlaing as president; three, if isolation cannot change behavior, it becomes performative rather than strategic.",
+            "Second, limited engagement can create humanitarian and de-escalatory channels. One, ASEAN and external actors need access to negotiate prisoner welfare, aid delivery, and ceasefire corridors; two, even hostile regimes respond to incentives tied to sanctions relief, diplomatic access, and technical support; three, refusing contact can leave civilians with fewer avenues for mediation and protection.",
+            "Third, total ostracism can push Myanmar further toward hardline patrons and fragmentation. One, if ASEAN closes off all channels, the junta may rely more heavily on coercion and alternative partners; two, neighboring states may prioritize border stability over democratic principles and break ranks anyway; three, a fragmented regional response weakens ASEAN’s credibility more than a messy engagement strategy would."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether engagement changes junta behavior or merely launders it. Prop has the structural advantage on legitimacy and norm-setting because the military is explicitly seeking recognition, but Opp can win if they prove isolation has no coercive bite and that humanitarian access requires some contact.",
+      "stock_connections": [
+        "Legitimacy",
+        "Recognition Politics",
+        "Democratic Backsliding",
+        "Authoritarian Entrenchment",
+        "Humanitarian Access",
+        "Sanctions Efficacy",
+        "Regional Security Architecture",
+        "Civil War Spillover"
+      ],
+      "motion_areas": [
+        "TH, as ASEAN, would refuse to recognize Myanmar’s junta as the legitimate government",
+        "THBT regional organizations should isolate coup regimes even when this does not immediately change behavior",
+        "THP a world where ASEAN prioritizes democratic legitimacy over diplomatic inclusivity",
+        "THBT external powers should condition engagement with Myanmar on verifiable political and humanitarian concessions"
+      ],
+      "data_points": [
+        "ACLED estimates around 95,000 total fatalities from political violence in Myanmar since the February 2021 coup",
+        "ACLED estimates an average of around 1,550 people killed every month in Myanmar’s conflict as of early 2026",
+        "More than 28.6 million people were exposed to violence in Myanmar in the past year",
+        "Aung San Suu Kyi is 80 years old and was reportedly moved from prison to a \"designated residence\" in Naypyidaw",
+        "Myanmar’s junta held elections in January 2026 that were widely regarded as a sham",
+        "ASEAN maintained blacklisting of Myanmar’s military leadership at the 48th ASEAN Summit in Cebu",
+        "Cambodia, Laos, and Thailand publicly congratulated Min Aung Hlaing on his appointment as \"president\"",
+        "The ICJ is expected to deliver a verdict within months on whether Myanmar’s senior generals committed genocide against the Rohingya in 2017-18"
       ]
     },
     {
@@ -808,6 +2219,66 @@
         "The U.S. sanctioned the tanker Ocean Koi in February as part of a 'shadow fleet' transporting Iranian oil",
         "Adm. Brad Cooper said the U.S. has the military power to 'permanently reopen the strait and escort ships'",
         "Iran said it would not enter more talks unless five conditions were met, including reparations and acceptance of Iranian sovereignty over Hormuz"
+      ]
+    },
+    {
+      "id": "aa2cf16738c4",
+      "title": "Foreign-Based AI Disinformation Networks Weaponise UK Immigration Anxiety for Profit and Influence",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T05:01:37Z",
+      "category": "IR",
+      "region": "United Kingdom / Sri Lanka / Iran / UAE / Global",
+      "background": "BBC Panorama and the Top Comment podcast identified dozens of interconnected Facebook and Instagram accounts pushing anti-immigration AI-generated content about the UK. The report says many of the pages are run from outside the UK, including Sri Lanka, the US, Vietnam, the Maldives and elsewhere in Europe, with some linked to Iran and the UAE through transparency tools and social-media traces. One account, 'Great British People', had 1.3 million views on a video of an elderly white British man crying about his pension, while another 'Britain Today' page based in Sri Lanka posted AI videos of a dystopian UK in 2050 and accumulated more than 20 million views. London Mayor Sadiq Khan said the material harms London's reputation and can deter visitors, students and investors, while Meta said it removes coordinated inauthentic behaviour and content violating Community Standards.",
+      "prop_args": [
+        {
+          "thesis": "The rise of overseas AI disinformation pages justifies stronger platform regulation and state intervention because they are cheap, scalable tools for foreign influence and domestic polarisation.",
+          "mechanisms": [
+            "First, these networks lower the cost of influence operations to near-zero. This is because (1) AI-generated video and recycled pages can be produced cheaply, (2) foreign operators can buy old UK-based accounts to appear authentic, and (3) a small number of creators can reach millions of users through algorithmic amplification.",
+            "Second, they distort democratic debate by manufacturing a false social consensus around immigration. Three reasons: one, fake 'ordinary Britons' make xenophobic claims look locally grounded; two, repeated exposure makes users less able to distinguish real from fake, with research cited in the article showing only about 55% accuracy in spotting fakes; three, even when users suspect AI, they may still share it because it confirms their worldview.",
+            "Third, the harm is not just online but economic and diplomatic. This matters because (1) the videos portray London and other UK cities as unsafe and chaotic, (2) Khan argues that this can put off tourists, overseas students and investors, and (3) if hostile states or profit-seekers can cheaply poison perceptions of a major city, the state has a strong interest in intervention to protect soft power and social cohesion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "These accounts are a symptom of existing political demand, so the real problem is domestic grievance and media literacy rather than foreign creators or AI itself.",
+          "mechanisms": [
+            "First, the content succeeds because it resonates with pre-existing anti-immigration sentiment. One, the article shows some creators openly frame their work as 'informing' voters about trends people already fear; two, commenters often accept the content even when they think it is probably AI; three, some UK-based accounts are also part of the same ecosystem, showing the demand is domestic as well as foreign.",
+            "Second, heavy-handed regulation risks overreach and censorship. One, platforms already claim to remove coordinated inauthentic behaviour and Community Standards violations; two, AI labels or algorithmic suppression can be applied inconsistently and may catch legitimate political satire, commentary, or activism; three, governments may use 'disinformation' rules to suppress unpopular but real concerns about immigration.",
+            "Third, the structural drivers of distrust are real-world policy failures, not just fake videos. This is because (1) people are reacting to housing pressure, public service strain, and identity politics, (2) removing the videos does not remove those grievances, and (3) if the state focuses on takedowns rather than underlying integration and service delivery, the narrative simply migrates to other channels."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the core harm is the content itself or the underlying demand for it. Prop wins if the round prioritises information integrity and foreign influence, because the article shows a scalable cross-border ecosystem that can cheaply manipulate public opinion; Opp wins if the round prioritises free expression and root causes, because takedowns cannot eliminate the social anxieties that make the content persuasive.",
+      "stock_connections": [
+        "Foreign interference",
+        "Disinformation",
+        "Algorithmic amplification",
+        "Moral panic",
+        "Democratic backsliding",
+        "Media literacy",
+        "Free speech vs harm",
+        "Soft power erosion",
+        "Trust collapse",
+        "Platform accountability"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would impose stricter regulation on AI-generated political content on social media",
+        "THBT social media platforms should be legally liable for foreign-origin disinformation that targets domestic politics",
+        "THP a world where AI-generated political content must be clearly labelled and algorithmically deprioritised",
+        "THBT Western democracies should treat AI disinformation networks as a national security threat",
+        "TH, as the UK, would ban anonymous foreign-run pages from posting domestic political content"
+      ],
+      "data_points": [
+        "Great British People page received 1.3 million views on one AI-generated video",
+        "Britain Today Facebook page is based in Sri Lanka according to Meta transparency tools",
+        "One account described in the report has more than 20 million views",
+        "BBC identified dozens of interconnected Facebook and Instagram accounts",
+        "Research cited in the article suggests people detect AI fakes with only about 55% accuracy",
+        "Some accounts were traced to Sri Lanka, the US, Vietnam, the Maldives, Europe, Iran and the UAE",
+        "Sadiq Khan said the content can deter visitors, overseas students and investors",
+        "Meta said it has specialised global teams to identify and disrupt coordinated inauthentic behaviour"
       ]
     },
     {
