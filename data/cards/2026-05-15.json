@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "last_updated": "2026-05-16T03:52:15Z",
+  "last_updated": "2026-05-16T08:16:23Z",
   "cards": [
     {
       "id": "11aed76483a4",
@@ -184,6 +184,118 @@
         "China’s 2021 State Council human-rights report on the US opened with George Floyd’s words: “I can’t breathe”",
         "Trump told Xi: “You’re a great leader... it’s an honour to be your friend”",
         "Trump told Fox News he discussed Jimmy Lai and detained pastors, but neither side’s official readout included human rights"
+      ]
+    },
+    {
+      "id": "14a271ccd256",
+      "title": "Fatah’s Succession Crisis Exposes a Legitimacy Vacuum in the Palestinian Authority",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T23:05:19Z",
+      "category": "IR",
+      "region": "Palestinian territories / US / EU / Arab states / Israel",
+      "background": "Top leaders of Fatah, the dominant faction in the Palestinian Authority, held their first major conference in a decade and re-elected 90-year-old Mahmoud Abbas as party head. Abbas promised future presidential and parliamentary elections, but gave no timeline, while polls show deep public dissatisfaction: one late-2025 survey found 80% wanted him to resign. The conference comes amid the Gaza war, expanding Israeli settlements in the West Bank and East Jerusalem, and a financial crisis worsened by Israel withholding around $5bn in tax transfers owed to the PA.",
+      "prop_args": [
+        {
+          "thesis": "A forced Fatah refresh is necessary to preserve Palestinian political relevance and prevent total institutional collapse.",
+          "mechanisms": [
+            "First, leadership renewal can restore domestic legitimacy. This is because (1) Abbas is 90 and rules by decree, so his continued dominance signals stagnation; (2) 80% wanting him to resign shows the PA is operating without a social mandate; (3) a credible succession process gives Palestinians a reason to believe politics can still change through institutions rather than armed factions.",
+            "Second, internal reform is necessary to keep the PA viable under external pressure. Three reasons: one, the US, EU, and Arab states are explicitly pushing reforms and elections, so failure risks diplomatic isolation and loss of aid; two, the PA is already weakened by Israel withholding tax revenues, so only a more legitimate leadership can negotiate emergency support and administrative breathing room; three, if Fatah does not adapt, Hamas or other challengers can fill the vacuum as the more authentic nationalist vehicle.",
+            "Third, even imperfect elections and party competition create a pathway to long-term state-building. This matters because (1) the PA’s current model depends on bureaucracy without consent, which breeds corruption and cronyism; (2) elections can re-anchor the Palestinian cause in politics rather than pure humanitarian victimhood; (3) a more accountable leadership is better positioned to unify West Bank and Gaza governance after the war."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This conference is cosmetic factional management that entrenches the same elite and deepens Palestinian public cynicism.",
+          "mechanisms": [
+            "First, the process lacks genuine democratic renewal. One, Abbas is still being re-elected as head despite being 90 and having ruled by decree, so the core power structure remains unchanged; two, no election timeline was given, so promises of reform are non-binding; three, the inclusion of Yasser Abbas on the ballot makes the exercise look like managed succession and nepotism rather than open competition.",
+            "Second, the PA’s structural incentives reward survival over liberation. One, Fatah is already seen as a bureaucracy that works for the PA rather than a national liberation movement; two, security coordination with Israel makes the PA look like an occupying-power subcontractor, which further erodes legitimacy; three, because the PA depends on external funding and Israeli tax transfers, it is incentivized to prioritize donor approval over popular demands.",
+            "Third, weak legitimacy makes reform politically useless and potentially destabilizing. This is because (1) elections held under occupation, amid war and displacement, are unlikely to produce a credible mandate; (2) if the public sees the conference as a fix, it can intensify alienation and boost Hamas or other anti-PA actors; (3) succession infighting between figures like Jibril Rjoub and Hussein al-Sheikh may fragment Fatah rather than unify it."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether institutional renewal can still rescue Palestinian politics or whether the PA has already crossed the point where reform is credible. Prop wins if you think legitimacy is a prerequisite for state capacity; opp wins if you think the same elite controls the process and any 'reform' only launders decay.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Legitimacy Crisis",
+        "Elite Capture",
+        "Nepotism",
+        "State Capacity",
+        "Institutional Decay",
+        "Succession Crisis",
+        "Security Coordination with Occupying Power",
+        "Dependency Theory",
+        "Resistance vs Governance Tradeoff"
+      ],
+      "motion_areas": [
+        "TH, as the Palestinian Authority, would prioritize internal political reform over immediate diplomatic bargaining",
+        "THBT the Palestinian Authority should hold elections before any renewed peace negotiations",
+        "THP a world where Palestinian leadership succession is externally conditioned on democratic reform",
+        "THBT Fatah should separate its liberation movement identity from the Palestinian Authority’s governing role"
+      ],
+      "data_points": [
+        "Mahmoud Abbas is 90 years old and was re-elected as Fatah head at the conference",
+        "A late-2025 poll found 80% of Palestinians wanted Abbas to resign",
+        "The PA says Israel owes it about $5bn in withheld tax transfers",
+        "More than 2,500 Fatah members attended the conference, with a few hundred joining from Beirut, Cairo, and Gaza",
+        "The conference is electing 18 members to Fatah’s central committee and 80 to its revolutionary council",
+        "This is Fatah’s first major conference in a decade, and the last general conference was at the end of 2016"
+      ]
+    },
+    {
+      "id": "c2f887a75195",
+      "title": "Canada’s MAID Expansion Pits Autonomy Against Suicide-Prevention Safeguards for Mental Illness",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T23:04:41Z",
+      "category": "Econ",
+      "region": "Canada",
+      "background": "Claire Brosseau, a 49-year-old Toronto woman with bipolar disorder and PTSD, says she has exhausted decades of treatment across four North American cities, including therapy, medication and electroconvulsive therapy, and now wants access to Canada’s medical assistance in dying (MAID) regime. Canada already allows MAID for terminal illness and for some non-terminal grievous and irremediable conditions, but it does not yet allow MAID where mental illness is the sole condition; Ottawa has delayed that expansion twice, most recently to next year, while a parliamentary committee reviews the issue. In 2024, about 96% of Canadian assisted-dying requests were granted to patients whose death was foreseeable, mostly terminal cancer patients, while the remaining 4% were for non-imminent deaths. The Netherlands, Belgium and Luxembourg allow assisted dying for sole mental illness, and Dutch approvals for psychiatric suffering rose from 2 in 2010 to 219 in 2024.",
+      "prop_args": [
+        {
+          "thesis": "Canada should expand MAID to treatment-resistant mental illness because denying it entrenches stigma and forces some patients to endure unbearable suffering without a meaningful exit.",
+          "mechanisms": [
+            "First, equal access to MAID corrects a discriminatory double standard between physical and psychiatric illness. This is because (1) Canada already treats irreversible suffering from physical conditions as sufficient for MAID, (2) mental illness can be just as persistent, disabling and treatment-resistant as cancer or neurodegeneration, and (3) excluding psychiatric patients implies their suffering is less real or less worthy of autonomy.",
+            "Second, a tightly regulated MAID pathway can be safer than forcing desperate patients toward violent self-harm. Three reasons: one, a supervised process creates repeated assessments, cooling-off periods and specialist review; two, it reduces the chance of traumatic, impulsive, or botched suicides; three, it gives clinicians a structured way to distinguish enduring incapacity from transient suicidal crises.",
+            "Third, the policy respects patient autonomy in cases where medicine has already failed. This matters because (1) Brosseau-style cases involve decades of treatment, (2) some patients are functionally unable to work, leave the house or sustain relationships, and (3) if the state cannot restore a tolerable life, it should not force indefinite biological survival as the only acceptable outcome."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Canada should not expand MAID to sole mental illness because the risk of error, coercion and normalizing suicide is too high in a field where prognosis is deeply uncertain.",
+          "mechanisms": [
+            "First, psychiatry cannot reliably determine irreversibility or distinguish a settled wish to die from treatable suicidal ideation. One, mental illness often fluctuates over time; two, many patients who appear hopeless later improve with new treatment, social support or changed circumstances; three, a mistaken MAID approval is irreversible.",
+            "Second, expanding access creates structural pressure on vulnerable people to choose death over care. One, disabled and poor patients may internalize the message that they are burdensome; two, if housing, income support and therapy are inadequate, MAID becomes a substitute for welfare; three, reports that some patients were offered assisted dying without requesting it show how easily the system can slide into coercion.",
+            "Third, the policy risks a contagion effect and broader suicide normalization. One, public authorization can make death look like a legitimate response to suffering; two, Dutch testimony cited a rise from 2 psychiatric MAID deaths in 2010 to 219 in 2024, which critics frame as evidence of expanding social acceptance; three, once the norm shifts, safeguards tend to erode under pressure for broader access."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is irreversibility versus autonomy: one side is arguing for a rare, supervised escape from unbearable suffering, while the other is warning that one wrong psychiatric diagnosis cannot be undone. The opposition has a structural advantage on error and coercion because mental illness is inherently harder to assess than terminal physical decline, but the proposition wins if it can prove robust safeguards and show that denying access simply displaces suffering into violent self-harm.",
+      "stock_connections": [
+        "Autonomy vs paternalism",
+        "Right to die",
+        "Medical ethics",
+        "Suicide contagion",
+        "Disability rights",
+        "State duty of care",
+        "Slippery slope",
+        "Welfare substitution",
+        "Stigma and discrimination"
+      ],
+      "motion_areas": [
+        "TH, as Canada, would expand MAID to people whose sole condition is mental illness",
+        "THBT states should permit assisted dying for treatment-resistant psychiatric illness",
+        "THP a world in which medically assisted dying is available for severe mental illness under strict safeguards"
+      ],
+      "data_points": [
+        "Canada delayed expansion of MAID to sole mental illness twice, most recently to next year",
+        "About 96% of Canadian assisted-dying requests in 2024 were granted to people whose death was foreseeable, mostly terminal cancer patients",
+        "The remaining 4% of Canadian MAID deaths in 2024 were for patients whose death was not imminent but who had a grievous and irremediable medical condition",
+        "The Netherlands saw psychiatric assisted-dying approvals rise from 2 in 2010 to 219 in 2024",
+        "In the Netherlands, psychiatric suffering accounts for about 2% of all assisted-dying deaths",
+        "Canada extended MAID to non-terminal patients five years ago after a legal battle by two people with disabilities"
       ]
     },
     {
