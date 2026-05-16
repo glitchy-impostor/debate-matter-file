@@ -1,7 +1,187 @@
 {
   "date": "2026-05-16",
-  "last_updated": "2026-05-16T13:51:27Z",
+  "last_updated": "2026-05-16T19:17:43Z",
   "cards": [
+    {
+      "id": "eb3e462250da",
+      "title": "US Lets Russia Oil Waiver Expire, Tightening Global Supply and Raising Sanctions Stakes",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/us-allows-russia-oil-sales-waiver-to-expire-despite-tight-market",
+      "published": "2026-05-16T16:13:58Z",
+      "category": "Econ",
+      "region": "United States / Russia / Global oil markets (incl. Europe)",
+      "background": "The article reports that the US allowed a waiver permitting certain Russia oil sales to expire on 16 May 2026, even as global oil markets remain tight. The waiver had been one of the mechanisms that let some transactions continue despite sanctions pressure on Russia’s energy sector. The policy move comes at a time when Europe and other importers are still exposed to volatility in crude and refined-product prices.",
+      "prop_args": [
+        {
+          "thesis": "Letting the waiver expire is a necessary sanctions escalation that reduces Russia’s oil revenue and strengthens the credibility of Western economic pressure.",
+          "mechanisms": [
+            "First, it directly constrains Russia’s ability to monetize exports. This is because (1) oil sales remain one of the Kremlin’s largest hard-currency earners, (2) removing a waiver raises transaction frictions for buyers, insurers, shippers, and banks, and (3) even partial disruption forces Russia to accept deeper discounts or reroute through more costly channels.",
+            "Second, it improves sanctions credibility by closing loopholes. Three reasons: one, waivers create expectations that enforcement is negotiable; two, ending them signals that the US is willing to absorb some market pain for strategic goals; three, stronger credibility increases compliance by third parties who fear secondary exposure.",
+            "Third, the political and strategic payoff outweighs the market cost. This matters because (1) Russia’s war-financing capacity is a long-run security threat, (2) oil markets can adjust through OPEC spare capacity, SPR releases, and demand-side responses, and (3) allowing sanctions to erode for the sake of short-term price stability would normalize aggression as a low-cost strategy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Allowing the waiver to expire is self-defeating because it tightens an already fragile oil market, raises prices for consumers, and may not meaningfully reduce Russian revenue.",
+          "mechanisms": [
+            "First, it worsens inflationary pressure in a market with limited slack. One, when spare capacity is thin, even modest supply disruptions can move benchmark prices sharply; two, higher crude prices feed directly into gasoline, diesel, and freight costs; three, that hits households and firms across the US and Europe, creating a domestic political backlash.",
+            "Second, the revenue hit to Russia may be smaller than advertised. One, Russia can redirect barrels to non-Western buyers willing to discount compliance risk; two, the state can offset lower unit prices with higher volumes or fiscal adjustments; three, sanctions often create shadow-market intermediaries that preserve trade while increasing opacity rather than stopping flows.",
+            "Third, the policy can fragment the sanctions coalition. One, allies more exposed to energy inflation may resist follow-on measures; two, inconsistent enforcement encourages free-riding by buyers who exploit loopholes; three, if the policy is seen as US unilateralism, it weakens the broader coalition needed to sustain pressure on Russia."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the marginal reduction in Russian oil revenue is worth the systemic cost of higher energy prices. Prop wins if the round prioritizes strategic coercion and sanctions credibility; opp wins if the judge prioritizes inflation, consumer welfare, and the limits of coercive economic policy in a tight market.",
+      "stock_connections": [
+        "Sanctions effectiveness",
+        "Energy security",
+        "Inflation pass-through",
+        "Secondary sanctions",
+        "Coalition maintenance",
+        "War financing",
+        "Market substitution",
+        "Shadow trade / sanctions evasion"
+      ],
+      "motion_areas": [
+        "TH, as the US, would let Russia oil waivers expire even in a tight market",
+        "THBT Western states should prioritize sanctions credibility over short-term energy price stability",
+        "THP a world where major energy sanctions are enforced even at the cost of higher consumer prices"
+      ],
+      "data_points": [
+        "Waiver expired on 16 May 2026",
+        "Policy change occurred despite a tight global oil market",
+        "The waiver had allowed certain Russia oil sales to continue despite sanctions pressure",
+        "Russia’s oil exports remain a major source of hard-currency revenue"
+      ]
+    },
+    {
+      "id": "29a635f62962",
+      "title": "Fragile US-Brokered Ceasefires Fail to Restrain Israel’s Multi-Front Escalation",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/israeli-strikes-southern-lebanon-hours-after-extension-of-ceasefire",
+      "published": "2026-05-16T15:57:44Z",
+      "category": "IR",
+      "region": "Israel / Lebanon / Gaza / Iran",
+      "background": "Israel carried out airstrikes in southern Lebanon that killed at least six people, including three paramedics at a health centre, only hours after envoys from Israel and Lebanon agreed in Washington to extend a month-long partly observed ceasefire by 45 days. Lebanon’s state media said strikes hit at least five villages in the south, while Israel said it was targeting Hezbollah infrastructure and militants preparing to fire rockets. In Gaza, Israel also said it killed Hamas military chief Izz al-Din al-Haddad, while US and Israeli reports said Donald Trump had been briefed on military options in Iran as a five-week-old truce there frays.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s continued strikes show that partial ceasefires without enforceable compliance mechanisms are structurally unstable and will collapse into renewed regional war.",
+          "mechanisms": [
+            "First, the ceasefire lacks credible enforcement. This is because (1) Israel has already shown it will selectively comply by limiting attacks in some areas while continuing operations in the south, (2) Hezbollah and Hamas have no trusted neutral arbiter to verify violations, and (3) the new US-supervised mechanism is only being created after repeated breaches, so it cannot deter the first wave of escalation.",
+            "Second, continued strikes create a retaliation ladder. Three reasons: one, every Israeli strike that kills civilians or paramedics increases domestic pressure on Hezbollah and Hamas to respond; two, each response gives Israel a fresh justification to expand operations; three, the result is a self-reinforcing cycle where tactical actions become strategic war.",
+            "Third, this undermines diplomatic credibility across the region. This matters because (1) Lebanon sees talks in Washington as cover for Israeli military freedom of action, (2) Iran reads the Iran truce as similarly reversible, and (3) once actors believe ceasefires are tactical pauses rather than binding settlements, they rearm and prepare for the next round instead of de-escalating."
+          ]
+        },
+        {
+          "thesis": "Israel’s strikes are rational deterrence enforcement that prevents militant groups from using ceasefires to rearm and regain operational capacity.",
+          "mechanisms": [
+            "First, the strikes impose immediate costs on Hezbollah and Hamas command structures. This works because (1) killing militants and senior commanders disrupts planning and communications, (2) targeting infrastructure reduces launch capacity, and (3) repeated losses force these groups to spend resources on survival rather than escalation.",
+            "Second, limited force can preserve a broader ceasefire by signaling red lines. Three reasons: one, if Israel tolerates violations, armed groups learn that ceasefires are cover for reconstitution; two, selective strikes against launch preparations deter future attacks without necessarily requiring full-scale invasion; three, this can keep the conflict below the threshold of all-out war.",
+            "Third, Israel’s security concerns are asymmetric and existential. This matters because (1) Hamas and Hezbollah are non-state actors embedded near civilian areas, (2) a single rocket barrage or cross-border raid can produce mass casualties in Israel, and (3) governments facing such threats have strong incentives to act preemptively rather than wait for attacks to materialize."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strikes are counterproductive because they destroy the credibility of ceasefire diplomacy and make regional de-escalation politically impossible.",
+          "mechanisms": [
+            "First, they signal that Israel can violate agreements with impunity. One, this convinces Lebanon that negotiations do not constrain Israeli behavior; two, it weakens moderates who argued for talks over resistance; three, it makes future mediation by the US or others look like a sham.",
+            "Second, civilian casualties expand the conflict’s political base. One, killing paramedics and hitting clinics generates outrage beyond militant circles; two, that outrage increases recruitment and support for Hezbollah and Hamas; three, it hardens public opinion against compromise, making any ceasefire less durable.",
+            "Third, the strikes increase the risk of multi-front war. One, Lebanon, Gaza, and Iran-linked dynamics are now linked in public perception; two, escalation in one arena can trigger responses in another; three, once actors believe war is already underway, the incentives shift from restraint to preemption."
+          ]
+        },
+        {
+          "thesis": "Israel’s strategy may be tactically effective but strategically unsustainable because it entrenches militant adaptation and regional blowback.",
+          "mechanisms": [
+            "First, militant groups adapt faster than airpower can eliminate them. One, leadership decapitation often produces replacement commanders rather than surrender; two, dispersed guerrilla networks are hard to destroy from the air; three, repeated strikes can actually improve operational discipline and secrecy.",
+            "Second, the campaign deepens Israel’s diplomatic isolation. One, repeated attacks after ceasefire extensions make allies question Israeli commitments; two, this increases pressure on the US to restrain Israel rather than back it unconditionally; three, over time Israel loses the coalition support needed for sustained military campaigns.",
+            "Third, the broader regional context makes escalation especially dangerous. One, the Gaza war, Lebanon front, and Iran truce are now interconnected; two, a misread strike or retaliatory attack could pull in the US or Iran directly; three, once great powers are involved, the conflict becomes much harder to contain."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether force preserves deterrence or destroys the credibility of diplomacy. Prop wins if you think only credible punishment can stop armed groups from exploiting ceasefires; Opp wins if you think repeated violations make every agreement meaningless and push all actors toward a wider war.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Deterrence Theory",
+        "Escalation Ladder",
+        "Credible Commitment Problem",
+        "Peace Process Failure",
+        "Civilian Backlash",
+        "Decapitation Strategy",
+        "Proxy War Dynamics"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would continue limited strikes during a fragile ceasefire",
+        "THBT the US should condition ceasefire guarantees on strict enforcement mechanisms",
+        "THP a world where partial ceasefires are backed by automatic sanctions for violations",
+        "THBT states should prioritize deterrence over diplomacy when negotiating with non-state armed groups"
+      ],
+      "data_points": [
+        "At least 6 killed in southern Lebanon strikes, including 3 paramedics",
+        "Israel-Lebanon ceasefire was extended by 45 days after talks in Washington",
+        "The ceasefire in Gaza was described as eight months old and fragile",
+        "The original Israel-Hamas war was triggered by the 7 October 2023 attack that killed about 1,200 people",
+        "Reports said Trump had been briefed on US military options in Iran after a five-week-old truce",
+        "Lebanon’s state media said at least 5 villages in the south were hit"
+      ]
+    },
+    {
+      "id": "039724e006b3",
+      "title": "Iran Uses Hormuz Leverage to Raise US Economic Pain While Negotiations Collapse",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/16/iran_warns_of_readiness_for_war_and_economic_costs_as_us_talks_falter?traffic_source=rss",
+      "published": "2026-05-16T15:33:13Z",
+      "category": "IR",
+      "region": "Iran / United States / Strait of Hormuz / Middle East",
+      "background": "Iranian Foreign Minister Abbas Araghchi said Tehran is ready to resume direct military conflict with the United States if talks fail, while also warning that the war is raising costs for ordinary Americans. The article says the conflict beginning on February 28 has effectively closed the Strait of Hormuz, through which around one-fifth of the world’s oil and gas normally passes, pushing up US energy and inflation costs. Iranian officials say trust is the main obstacle in negotiations, while Tehran has also floated a managed traffic mechanism in the strait that would charge fees and exclude vessels linked to Washington’s 'Project Freedom.'",
+      "prop_args": [
+        {
+          "thesis": "Iran’s willingness to weaponize the Strait of Hormuz gives it leverage in negotiations and forces the US to absorb the domestic economic costs of escalation.",
+          "mechanisms": [
+            "First, Iran turns a narrow geographic chokepoint into bargaining power. This is because (1) around a fifth of global oil and gas normally moves through Hormuz, (2) even partial disruption immediately raises shipping, insurance, and energy prices, and (3) those price shocks transmit directly into US inflation and borrowing costs.",
+            "Second, the economic pain is politically salient in the United States. Three reasons: one, higher gas prices are visible to voters almost immediately; two, the article links the conflict to rising Treasury yields and mortgage rates, which broadens the pain from fuel to housing and debt; three, if the Fed tightens to contain inflation, the war becomes a macroeconomic issue rather than a foreign-policy abstraction.",
+            "Third, this improves Iran’s strategic position even without a battlefield victory. This matters because (1) Tehran can claim it is imposing costs on a much larger adversary at relatively low marginal cost, (2) it creates pressure on Washington to accept a deal to restore shipping stability, and (3) it signals to Gulf states that any anti-Iran alignment carries direct economic blowback."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Iran’s Hormuz strategy is self-defeating because it inflicts equal or greater damage on Iran, hardens US resolve, and risks regional isolation.",
+          "mechanisms": [
+            "First, the blockade and war economy crush Iran’s own domestic stability. One, official food inflation hit 115 percent in the first Persian calendar month ending in late April; two, staples like cooking oil, rice, and chicken have reportedly tripled over the past year; three, the rial is around 1.8 million to the dollar, near an all-time low, so the regime is already paying severe internal costs.",
+            "Second, coercion can backfire by unifying opponents and justifying escalation. One, if the US frames Hormuz disruption as an attack on global commerce, it can build a broader coalition with Gulf states and shipping powers; two, the article says Gulf states reject Iranian claims of sovereignty over the strait, so Tehran’s maximalist demand isolates it diplomatically; three, Washington may prefer military containment over conceding under pressure, especially if it fears setting a precedent that chokepoint threats work.",
+            "Third, Iran’s domestic militarization suggests weakness rather than strength. One, the state is relying on checkpoints, internet shutdowns, and daily executions to suppress dissent, which indicates insecurity; two, public gun displays and call-to-arms messaging can signal regime fragility and fear of unrest; three, if the regime needs coercive mobilization to survive, it has less room to sustain a prolonged external confrontation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Hormuz disruption creates usable leverage or simply accelerates mutual economic damage. Prop wins if the round is about bargaining power and short-term coercion; opp wins if the judge prioritizes sustainability, because Iran’s own inflation, currency collapse, and internal repression make prolonged escalation structurally costly for Tehran.",
+      "stock_connections": [
+        "Chokepoint leverage",
+        "Economic coercion",
+        "Mutually assured economic destruction",
+        "Domestic audience costs",
+        "Sanctions and isolation",
+        "Security dilemma",
+        "Escalation spiral",
+        "Regime survival"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would concede limited Iranian control over the Strait of Hormuz to secure a ceasefire",
+        "THBT economic warfare is a more effective tool than direct military confrontation in the US-Iran conflict",
+        "THP a world where regional chokepoints can be used as bargaining chips in peace negotiations",
+        "TH, as Iran, would prioritize economic coercion over battlefield escalation against the United States"
+      ],
+      "data_points": [
+        "Around one-fifth of the world’s oil and gas normally ships through the Strait of Hormuz",
+        "US government auctioned $25bn of 30-year bonds at a 5% yield, the first such level in nearly two decades",
+        "Benchmark 10-year US Treasury yields hit their highest in about a year",
+        "Iran’s food inflation hit 115% in the first Persian calendar month ending in late April",
+        "Staples such as cooking oil, rice, and chicken have tripled in price over the past year",
+        "The Iranian rial is around 1.8 million to the US dollar in the open market, near an all-time low",
+        "Iran says the internet shutdown has lasted 78 days",
+        "The judiciary has announced near-daily executions of alleged dissidents during the war"
+      ]
+    },
     {
       "id": "f6a4f3c6b00b",
       "title": "Cuba’s Fuel Collapse Turns Energy Sanctions Into Regime-Change Pressure",
