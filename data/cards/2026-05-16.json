@@ -1,7 +1,550 @@
 {
   "date": "2026-05-16",
-  "last_updated": "2026-05-16T10:24:36Z",
+  "last_updated": "2026-05-16T13:51:27Z",
   "cards": [
+    {
+      "id": "f6a4f3c6b00b",
+      "title": "Cuba’s Fuel Collapse Turns Energy Sanctions Into Regime-Change Pressure",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/cuba-is-out-of-oil-can-the-regime-survive",
+      "published": "2026-05-16T13:30:00Z",
+      "category": "Econ",
+      "region": "Cuba / United States / Venezuela / Iran",
+      "background": "Bloomberg reports that after the US captured Venezuelan President Nicolás Maduro on Jan. 3 and launched an attack on Iran, Washington warned Cuba would be next. Under the US-imposed economic blockade, Cuba has received almost no fuel in 2026. On May 13, Cuba’s energy minister said the country had completely run out of diesel and fuel oil needed to keep power plants running.",
+      "prop_args": [
+        {
+          "thesis": "Energy blockade is a coercive tool that can rapidly cripple an adversarial regime when it depends on imported fuel for basic state functions.",
+          "mechanisms": [
+            "First, it disables the state’s core service-delivery capacity. This is because (1) power plants cannot run without diesel and fuel oil, (2) electricity shortages cascade into water pumping, transport, hospitals, and food distribution, and (3) the public experiences the regime as incapable of providing basic survival needs.",
+            "Second, it weakens the regime’s coercive apparatus and patronage networks. Three reasons: one, security forces and state logistics also depend on fuel; two, shortages force the government to ration scarce resources to loyalists, exposing elite favoritism; three, blackouts and transport disruption make protest coordination and elite communication harder to control.",
+            "Third, it increases the probability of political fracture or negotiated surrender. This matters because when a regime cannot secure fuel imports, it loses the ability to buy time, and external pressure can convert economic pain into elite defection, bargaining, or collapse."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Fuel starvation often hardens authoritarian regimes rather than toppling them, because external pressure shifts blame outward and entrenches siege politics.",
+          "mechanisms": [
+            "First, sanctions can strengthen regime legitimacy through nationalist framing. One, the government can blame the US blockade for shortages; two, external aggression allows it to portray dissent as collaboration; three, historical anti-US sentiment can mobilize some domestic support even amid hardship.",
+            "Second, coercive shortages do not automatically translate into regime change. One, authoritarian systems can survive severe deprivation by rationing, repression, and informal markets; two, the opposition may be too fragmented to convert suffering into an organized alternative; three, the population may prioritize survival over mobilization when basic services collapse.",
+            "Third, humanitarian collapse can backfire strategically. One, it creates refugee flows and regional instability; two, it can reduce the credibility of the coercing power if civilian suffering is seen as disproportionate; three, it may push Cuba toward alternative patrons or black-market suppliers rather than political capitulation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether material deprivation translates into political change faster than it translates into regime adaptation. Prop wins if you think fuel is a hard input for state survival and that the blockade directly attacks the regime’s ability to govern; opp wins if you think authoritarian incumbents can externalize blame and outlast economic pain through repression and rationing.",
+      "stock_connections": [
+        "Sanctions Backfire",
+        "Coercive Diplomacy",
+        "Regime Legitimacy",
+        "Authoritarian Resilience",
+        "Humanitarian Harm",
+        "State Capacity Collapse",
+        "External Threat Rally"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would impose comprehensive energy sanctions on hostile authoritarian regimes",
+        "THBT economic blockades are an effective tool of regime change",
+        "THP a world in which access to fuel is treated as a lever of foreign policy coercion"
+      ],
+      "data_points": [
+        "Cuba had 'completely run out' of diesel and fuel oil by May 13, 2026, according to its energy minister",
+        "Cuba received 'almost no fuel in 2026' under the US-imposed economic blockade",
+        "US forces captured Venezuelan President Nicolás Maduro on Jan. 3, 2026",
+        "The article states Washington launched an attack on Iran before warning Cuba it would be next"
+      ]
+    },
+    {
+      "id": "502564539e81",
+      "title": "Trump Uses Federal Water Funding as Political Leverage Against Colorado Over Election-Denier Prosecution",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/16/lauren-boebert-trump-funds-colorado-drink-water-funds-tina-peters",
+      "published": "2026-05-16T13:02:18Z",
+      "category": "Econ",
+      "region": "United States / Colorado",
+      "background": "In January 2026, Donald Trump vetoed a bipartisan bill that would have funded a clean drinking water project in Lauren Boebert’s Colorado district, despite the bill passing both chambers unanimously. The project was intended to support clean water access for about 50,000 people. On Friday, Colorado governor Jared Polis commuted the nearly nine-year sentence of Tina Peters, the former county clerk convicted over unauthorized access to voting records during efforts to overturn the 2020 election.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s use of federal funding as retaliation turns infrastructure spending into a tool of partisan coercion, weakening democratic governance and harming ordinary constituents.",
+          "mechanisms": [
+            "First, it converts neutral public goods into political hostages. This is because (1) local communities become dependent on federal grants for basic infrastructure like drinking water, (2) the president can selectively punish disfavored states or officials without needing formal legal authority, and (3) that creates a chilling effect where governors and lawmakers are pressured to comply on unrelated political disputes.",
+            "Second, it imposes direct economic and public health costs on residents. Three reasons: one, delaying water infrastructure raises the risk of contamination and service shortages; two, the affected district’s 50,000 people lose access to a project that had already cleared both chambers unanimously; three, the uncertainty discourages long-term municipal planning and raises financing costs for local governments.",
+            "Third, it normalizes a transactional model of federalism that rewards loyalty over need. This matters because it erodes the principle that infrastructure allocation should be based on public welfare, not partisan punishment, which in turn makes future spending less efficient and more corrupt."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s veto was a legitimate exercise of executive discretion over spending, and the political controversy around Tina Peters is separate from the merits of the water project.",
+          "mechanisms": [
+            "First, the president has broad authority to reject spending he believes is fiscally unsound or strategically misaligned. One, a veto does not prove retaliation by itself; two, the administration can argue budget constraints or prioritization across competing national needs; three, Congress can still override a veto if there is sufficient bipartisan consensus, so the system contains checks.",
+            "Second, the causal link between Peters and the water project is speculative. One, Boebert’s statement is an inference rather than direct evidence of a quid pro quo; two, federal decisions often involve multiple considerations, including cost, timing, and broader budget negotiations; three, without clear proof, treating the veto as extortion overstates the case.",
+            "Third, even if politically motivated, the broader policy impact may be limited. One, the project can be reintroduced in future appropriations; two, state and local governments can seek alternative financing or phased implementation; three, voters may punish overtly partisan behavior, which constrains how far this tactic can be used."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the veto is treated as normal executive bargaining or as coercive punishment that weaponizes essential public goods. Prop wins if it frames the issue as a structural precedent: once water and infrastructure are used as leverage, every state becomes vulnerable to partisan extortion; opp wins if it reduces the case to a single disputed veto with limited evidence of direct retaliation.",
+      "stock_connections": [
+        "Weaponization of the state",
+        "Federalism",
+        "Political patronage",
+        "Public goods provision",
+        "Executive overreach",
+        "Partisan retaliation",
+        "Moral hazard",
+        "Democratic backsliding"
+      ],
+      "motion_areas": [
+        "TH, as the US federal government, would prohibit presidents from vetoing congressionally approved local infrastructure projects for political reasons",
+        "THBT the US should remove presidential discretion over bipartisan infrastructure funding",
+        "THP a world where federal grants to states are insulated from partisan retaliation"
+      ],
+      "data_points": [
+        "The vetoed bill would have funded clean drinking water for 50,000 people in Colorado",
+        "The House and Senate passed the water bill unanimously before Trump vetoed it in January 2026",
+        "Tina Peters received a nearly nine-year prison sentence before Colorado governor Jared Polis commuted it on 16 May 2026",
+        "Trump was impeached in 2019 over withholding congressionally mandated military aid to Ukraine"
+      ]
+    },
+    {
+      "id": "b949cb43e2ea",
+      "title": "LIRR Strike Exposes the Political Cost of Keeping Commuter Transit Affordable",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/16/new-york-long-island-rail-road-strike",
+      "published": "2026-05-16T12:41:19Z",
+      "category": "Econ",
+      "region": "United States (New York)",
+      "background": "The Long Island Rail Road, North America’s largest commuter rail system, shut down on Saturday after five unions representing about half its workforce went on strike. The LIRR serves roughly 250,000 riders each weekday commuting from Long Island into New York City, and this is its first strike since a two-day walkout in 1994. Contract talks have stalled over wages and health care premiums, with the MTA warning that union demands could force fare increases, while unions argue pay must keep up with inflation and living costs.",
+      "prop_args": [
+        {
+          "thesis": "The strike is a necessary bargaining shock that forces the MTA and state government to internalize the real cost of underpaying essential transit labor.",
+          "mechanisms": [
+            "First, the strike raises the immediate cost of labor disputes, which shifts bargaining power away from an agency that can otherwise delay and impose low settlements. This is because (1) commuter rail is a high-leverage essential service, so even a short shutdown creates visible disruption, (2) the MTA cannot easily replace trained engineers, machinists, and signal workers, and (3) the threat of continued paralysis forces management to make a serious offer rather than rely on procedural stalling.",
+            "Second, higher wages and better health coverage are economically justified because transit workers face the same inflation and housing pressures as the riders they serve. Three reasons: one, Long Island and New York City have some of the highest living costs in the country; two, if wages lag, the system loses experienced workers to better-paying sectors, worsening service quality; three, retaining skilled labor lowers long-run costs from turnover, overtime, and operational mistakes.",
+            "Third, if the settlement requires fare increases, that is a politically visible but economically manageable way to preserve service quality. This matters because (1) transit is a public good with broad spillovers into labor markets and city productivity, (2) modest fare hikes are less harmful than chronic understaffing or service degradation, and (3) the state can choose progressive subsidies instead of forcing workers to absorb the entire burden."
+          ]
+        },
+        {
+          "thesis": "The strike can improve the long-run efficiency of the commuter system by preventing a race to the bottom in public-sector labor conditions.",
+          "mechanisms": [
+            "First, it sets a floor on compensation across the transit sector. This is because (1) the MTA said the unions' demands could affect other unionized workers, (2) if one essential workforce is forced to accept stagnant pay, others will follow, and (3) that creates a downward wage spiral that makes recruitment and retention harder system-wide.",
+            "Second, it protects service reliability by making transit work financially sustainable. Three reasons: one, underpaid workers are more likely to leave or disengage; two, chronic vacancies force agencies into expensive overtime and emergency staffing; three, better compensation reduces the probability of future labor unrest, which is itself highly costly for riders and the regional economy.",
+            "Third, the political pressure generated by the shutdown can push the state toward a more realistic funding model for transit. This matters because (1) commuter rail is structurally under constant fiscal pressure, (2) hiding labor costs through austerity simply defers the problem, and (3) a visible crisis may be the only way to force long-term reform."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strike is economically harmful because it imposes immediate costs on workers, businesses, and the wider New York regional economy while offering no guarantee of a better settlement.",
+          "mechanisms": [
+            "First, the shutdown creates direct productivity losses. One, roughly 250,000 daily riders are forced onto roads or into work-from-home arrangements that many jobs cannot accommodate; two, congestion on Long Island roads increases travel time and fuel costs for everyone, not just commuters; three, missed shifts in sectors like construction, healthcare, and education reduce output in industries that cannot fully substitute remote work.",
+            "Second, the strike imposes spillover losses on the city’s broader economy and event sector. One, the LIRR has dedicated stops for major venues like Yankee Stadium, Citi Field, and Madison Square Garden; two, reduced attendance hurts ticketing, hospitality, and nearby small businesses; three, the reputational damage of unreliable transit can deter future commuting and investment in the region.",
+            "Third, the union may still lose politically and financially, making the strike a high-risk tactic. One, the MTA says it already offered the pay the unions wanted, so public sympathy may shift against the workers; two, if the eventual deal is weaker than hoped, riders still absorb the disruption without meaningful gains; three, fare increases or subsidy cuts can simply redistribute the cost onto consumers rather than solve the underlying fiscal problem."
+          ]
+        },
+        {
+          "thesis": "Allowing a strike in an essential public transit system creates a dangerous precedent that empowers organized labor to hold the public hostage.",
+          "mechanisms": [
+            "First, it weakens the state’s ability to guarantee continuity in critical infrastructure. One, commuter rail is not a luxury good but a backbone service for a major metropolitan labor market; two, if workers can shut it down at will, the public bears the bargaining risk even when it has no role in the dispute; three, that encourages future brinkmanship in other essential sectors.",
+            "Second, it can trigger a politically regressive outcome if the only way to end the strike is through higher fares. One, the MTA warned that union demands could mean next year’s fare increase doubling from 4% to 8%; two, transit users are often lower- and middle-income workers who cannot easily absorb higher commuting costs; three, the burden falls on riders rather than on the broader tax base that benefits from the system.",
+            "Third, it distorts labor negotiations by rewarding the most disruptive actors rather than the most deserving claims. One, the unions were legally allowed to strike and chose to walk out after months of talks; two, if disruption is what secures concessions, future negotiations become more extreme; three, that undermines stable collective bargaining and increases the frequency of shutdowns."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term disruption and long-term labor-market discipline. Prop wins if it proves the strike is the only credible way to force a fair settlement in an essential system; opp wins if it shows the public and regional economy absorb the costs while the union merely shifts the burden onto riders through fares.",
+      "stock_connections": [
+        "Collective bargaining",
+        "Public goods",
+        "Moral Hazard",
+        "Race to the Bottom",
+        "Labor market power",
+        "Cost-push inflation",
+        "Public sector wage setting",
+        "Externalities",
+        "Essential services"
+      ],
+      "motion_areas": [
+        "TH, as the New York state government, would ban strikes by essential transit workers",
+        "TH, in a public transit system, would prioritize worker pay increases over fare stability",
+        "THBT governments should allow strikes in essential public services",
+        "THP a world where commuter rail workers can strike without legal restrictions"
+      ],
+      "data_points": [
+        "The LIRR serves roughly 250,000 riders each weekday",
+        "Five unions representing about half the workforce walked off the job",
+        "This is the first LIRR strike since a two-day strike in 1994",
+        "The MTA said union demands could lead to next year’s fare increase rising from 4% to 8%",
+        "The strike began at 12:01am on Saturday after unions became legally allowed to strike",
+        "The system is North America’s largest commuter rail network"
+      ]
+    },
+    {
+      "id": "9cac29388d09",
+      "title": "Iran’s Proxy-Arson Campaign Exposes the Limits of Deniable Terror Networks",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/mohammad-baqer-saad-dawood-al-saadi-iran-guards-hayi",
+      "published": "2026-05-16T12:18:24Z",
+      "category": "IR",
+      "region": "United States, Iraq, Iran, UK, Europe (France, Belgium, Germany, Netherlands), Canada",
+      "background": "US authorities arrested Mohammad Baqer Saad Dawood al-Saadi, a 32-year-old Iraqi alleged commander in an Iran-backed militia, after a federal complaint in Manhattan accused him of organizing 18 terrorist attacks in the UK, Europe, and Canada since the start of the Iran war. The complaint alleges involvement in firebombings, an arson attack on a synagogue, a shooting at the US consulate in Toronto in March, and attacks on Jewish targets in the UK, including the stabbing of two Jewish men in north London in April. Prosecutors say al-Saadi used the supposed group Harakat Ashab al-Yamin al-Islamia (HAYI), which appeared online only in early March, and communicated with an FBI informant and undercover agent while allegedly offering payments up to $10,000 for attacks in the US.",
+      "prop_args": [
+        {
+          "thesis": "This arrest proves that Iran’s proxy model is becoming a liability: the more Tehran relies on deniable networks, the easier it becomes for Western states to map, infiltrate, and punish the chain of command.",
+          "mechanisms": [
+            "First, proxy warfare creates operational signatures that intelligence services can pattern-match. This is because (1) the same recruitment channels recur across cases, such as Snapchat, Telegram, and criminal intermediaries; (2) the same target set recurs, especially Jewish sites, synagogues, and diplomatic facilities; and (3) the same low-cost attack methods recur, like arson, firebombing, and opportunistic stabbing, which makes attribution easier over time.",
+            "Second, deniability does not just protect Iran; it also forces proxies to communicate more often and with more people, increasing exposure. Three reasons: one, al-Saadi allegedly spoke to an FBI informant and undercover agent while trying to expand attacks; two, HAYI’s claims of responsibility were posted so quickly that investigators could link them to a live operator; three, using disposable recruits means more weak links who can be flipped, tracked, or arrested.",
+            "Third, once a network is exposed, the political costs to Iran rise sharply because the attacks are no longer abstract allegations but documented transnational terrorism. This matters because it gives Western governments a stronger basis for sanctions, arrests, intelligence cooperation, and public justification for countermeasures against the IRGC and Quds Force."
+          ]
+        },
+        {
+          "thesis": "Western counterterrorism is more effective against decentralized proxy violence than against state-on-state conflict, so Iran’s campaign is strategically self-defeating.",
+          "mechanisms": [
+            "First, small-cell and criminal-network operations are easier to disrupt than conventional military assets. This is because (1) the operatives are often low-skill and underpaid, making them replaceable but also careless; (2) the financial trail is shallow, with payments like €1,000 to €1,400 or $10,000 offers creating traceable incentives; and (3) the attacks are nonlethal and public-facing, which increases surveillance and police attention.",
+            "Second, the campaign invites cross-border intelligence coordination that Iran cannot easily deter. Three reasons: one, the alleged attacks span the UK, France, Belgium, Germany, the Netherlands, Canada, and the US, forcing agencies to share data; two, the shared target profile creates a common investigative frame; three, once one node is arrested, it can reveal contacts, handlers, and logistics in other jurisdictions.",
+            "Third, the strategic payoff is limited because fear and disruption do not necessarily translate into durable political gains. This matters because if the objective is to pressure enemies, but the result is more arrests, more sanctions, and more security cooperation against Iran, then the campaign generates blowback rather than leverage."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Iran’s proxy model remains effective because it allows Tehran to project power internationally while preserving plausible deniability and limiting direct retaliation.",
+          "mechanisms": [
+            "First, deniable proxies lower the threshold for action by separating the state from the operation. One, Iran can plausibly claim non-involvement because the attacks are carried out by militia figures, criminal recruits, or front groups like HAYI; two, this complicates legal attribution and slows coordinated retaliation; three, it lets Tehran test enemy red lines without triggering open war.",
+            "Second, the use of disposable recruits makes the network resilient even when individual operatives are arrested. One, low-level recruits are cheap and easy to replace, as shown by payments around €1,000 or $1,000-$1,400; two, the real value lies in the organizer and the method, not the foot soldiers; three, even failed attacks can still generate fear, media attention, and community insecurity.",
+            "Third, the campaign can still achieve strategic goals even if some nodes are exposed. One, it spreads anxiety across multiple countries and forces Jewish communities and governments to spend more on security; two, it demonstrates reach into Europe and North America; three, it signals to allies and adversaries that Iran can retaliate asymmetrically after regional conflict."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term disruption and long-term strategic payoff. Prop wins if the question is whether deniable proxy terror is sustainable under modern intelligence cooperation; opp wins if the question is whether Iran can still extract fear, leverage, and plausible deniability before being punished.",
+      "stock_connections": [
+        "Plausible Deniability",
+        "Proxy Warfare",
+        "Blowback",
+        "Asymmetric Warfare",
+        "Counterterrorism Cooperation",
+        "State Sponsorship of Terrorism",
+        "Security Dilemma",
+        "Terror Networks",
+        "Criminalization of Conflict"
+      ],
+      "motion_areas": [
+        "TH, as Western intelligence agencies, would prioritize covert infiltration over public attribution in responding to Iranian proxy terror",
+        "THBT states should treat proxy militias as extensions of the sponsoring state for purposes of retaliation",
+        "THP a world where states are held directly liable for transnational attacks carried out by their proxies"
+      ],
+      "data_points": [
+        "18 alleged terrorist attacks across the UK, Europe, and Canada since the beginning of the Iran war",
+        "Al-Saadi is 32 years old and was arrested by US authorities, then held in solitary confinement in Brooklyn",
+        "The complaint alleges a $10,000 offer for attacks on synagogues and Jewish community centres in the US",
+        "European recruits were allegedly paid as little as €1,000 to €1,400 for arson or surveillance tasks",
+        "The alleged campaign included attacks in France, Belgium, Germany, the Netherlands, the UK, and Canada",
+        "The stabbing of two Jewish men in north London in April is specifically cited in the complaint",
+        "HAYI first appeared on social media channels associated with Iran-backed militia in Iraq in early March",
+        "A former drug dealer in France allegedly received €1,000 for surveillance on a Jewish businessman’s home in Munich"
+      ]
+    },
+    {
+      "id": "02ae764a1c20",
+      "title": "Russia’s War Stalemate Exposes the Limits of Attritional Warfare and Domestic War Fatigue",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/16/nx-s1-5822468/the-war-in-ukraine-is-at-a-standstill-as-societal-fatigue-grows-in-russia",
+      "published": "2026-05-16T11:43:41Z",
+      "category": "IR",
+      "region": "Ukraine / Russia",
+      "background": "The article says the war in Ukraine is at a standstill while the peace process remains stalled. It reports signs of growing public fatigue inside Russia over the Kremlin’s war, even as Ukraine continues fighting through robotic warfare and other asymmetric methods. The piece frames the conflict as increasingly shaped by domestic endurance on both sides rather than rapid battlefield movement.",
+      "prop_args": [
+        {
+          "thesis": "A prolonged stalemate is strategically unsustainable for Russia because domestic fatigue eventually constrains the Kremlin’s ability to keep financing and legitimizing the war.",
+          "mechanisms": [
+            "First, prolonged war erodes regime legitimacy through cumulative social exhaustion. This is because (1) ordinary Russians bear rising costs through casualties, mobilization pressure, and inflation, (2) the state must spend more on repression and propaganda to suppress dissent, and (3) the longer the war lasts without visible gains, the harder it becomes to sell sacrifice as patriotic necessity.",
+            "Second, stalemate weakens Russia’s military position over time rather than preserving it. Three reasons: one, attritional warfare burns through equipment and trained manpower faster than Russia can replace them; two, sanctions and wartime isolation reduce access to advanced components and investment; three, Ukraine’s robotic and asymmetric warfare lets Kyiv impose costs without matching Russia tank-for-tank.",
+            "Third, this matters because domestic fatigue creates a ceiling on escalation and bargaining power. If the Kremlin cannot credibly promise victory, it faces a choice between costly escalation and negotiated settlement, and in either case its strategic freedom shrinks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Russia can absorb a long stalemate better than Ukraine and turn societal fatigue into a manageable political cost rather than a war-ending constraint.",
+          "mechanisms": [
+            "First, authoritarian control allows the Kremlin to suppress fatigue before it becomes mass opposition. one, censorship and policing prevent coordinated anti-war organizing; two, the state can selectively punish dissent while insulating most of the population from direct political consequences; three, propaganda can reframe stalemate as endurance and sacrifice rather than failure.",
+            "Second, Russia’s larger resource base makes attrition strategically tolerable. one, it has greater manpower, industrial depth, and access to external partners than Ukraine; two, it can redirect the economy toward war production and sustain losses longer; three, even slow progress can be enough if the goal is to grind down Ukrainian capacity and Western patience.",
+            "Third, stalemate can actually favor Russia diplomatically by increasing pressure on Ukraine’s allies. one, prolonged conflict raises the cost of aid for Europe and the US; two, war fatigue in donor states can weaken long-term support; three, if external assistance softens, Russia can convert a frozen front into a favorable settlement later."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether fatigue translates into political constraint or merely background noise under authoritarian rule. Prop wins if it proves that Russia’s war machine depends on social consent and economic sustainability; Opp wins if it shows the Kremlin can outlast both domestic discomfort and Western patience.",
+      "stock_connections": [
+        "War of Attrition",
+        "War Fatigue",
+        "Authoritarian Resilience",
+        "Regime Legitimacy",
+        "Sanctions Evasion",
+        "Asymmetric Warfare",
+        "Security Dilemma",
+        "Alliance Fatigue",
+        "Domestic Audience Costs"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize long-term attritional resistance over negotiated settlement",
+        "THBT Western states should continue military aid to Ukraine despite war fatigue",
+        "THP a world where wars are increasingly decided by domestic endurance rather than battlefield breakthroughs"
+      ],
+      "data_points": [
+        "The article states the war is 'at a standstill' and the peace process is 'stalled'",
+        "The article reports 'growing public fatigue in Russia' over the Kremlin’s war",
+        "Ukraine is using 'robotic warfare' to stay in the fight"
+      ]
+    },
+    {
+      "id": "9178b7a16ba8",
+      "title": "Andalucía’s Conservative Landslide Could Cement PP Dominance While Exposing Vox’s Ceiling",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/andalucia-regional-election-spain-politics-moreno-montero-sanchez",
+      "published": "2026-05-16T11:01:07Z",
+      "category": "IR",
+      "region": "Spain (Andalucía)",
+      "background": "Voters in Andalucía, Spain’s most populous region, are voting in a regional election that polls suggest will give the conservative People’s party (PP) an absolute majority in the 109-seat parliament. The PP won 58 seats in 2022 and is now projected to repeat or improve that result, while the PSOE is expected to fall to around 27-28 seats, its worst-ever showing in the region. Vox, which won 14 seats four years ago, is forecast to gain only one or two more, making the result a key test of whether the far right is still expanding or has plateaued ahead of Spain’s next general election.",
+      "prop_args": [
+        {
+          "thesis": "A strong PP victory in Andalucía would normalize center-right governance without Vox and weaken the far right’s leverage over Spain’s national politics.",
+          "mechanisms": [
+            "First, an absolute majority lets the PP govern alone, which removes Vox’s coalition blackmail. This is because (1) Vox loses the ability to extract concessions on immigration, housing priority, and cultural issues, (2) the PP can present itself as the only viable anti-socialist governing alternative, and (3) voters see that the right can win without depending on extremists.",
+            "Second, it helps the PP nationalize anti-Sánchez sentiment while keeping its ideological brand moderate. Three reasons: one, Andalucía is Spain’s biggest regional prize and a symbolic former socialist stronghold; two, a clean PP win turns corruption allegations against Sánchez into a broader referendum on competence; three, it gives Feijóo a proof-of-concept for winning next year’s general election with a broad, non-radical coalition.",
+            "Third, it may cap Vox’s growth by showing that protest voters do not need to keep escalating to the far right. This matters because (1) Vox’s ceiling appears stuck around 13-14% in the region, (2) if it cannot translate discontent into coalition power, its strategic value falls, and (3) a stagnant far right is easier for the PP to outcompete than a rising one."
+          ]
+        },
+        {
+          "thesis": "The election could punish the PSOE’s credibility nationally by confirming that its old southern base is collapsing under corruption and governance fatigue.",
+          "mechanisms": [
+            "First, a disastrous PSOE result in Andalucía would signal that the party’s brand damage is structural, not just temporary. This is because (1) Andalucía was historically one of its safest strongholds from 1982 to 2019, (2) losing ground there suggests voters are no longer loyal even in core territory, and (3) regional weakness feeds a national narrative that Sánchez’s coalition is exhausted.",
+            "Second, the campaign links national scandal to local decline in a way that is electorally potent. Three reasons: one, the PP is explicitly framing the vote as a referendum on Sánchez and Montero; two, corruption allegations around the national government make the PSOE look morally compromised; three, Montero’s “workplace accident” remark on Guardia Civil deaths reinforces perceptions of incompetence and disrespect.",
+            "Third, a weak PSOE in Andalucía reduces its ability to mobilize turnout and defend the left in the next general election. This matters because (1) regional defeats depress activist energy and donor confidence, (2) the party loses a narrative of inevitability in the south, and (3) opposition parties can use the result to argue that Sánchez is already a lame duck."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A PP landslide may still be bad for Spain because it entrenches right-wing politics and leaves Vox as a permanent agenda-setter even without formal coalition power.",
+          "mechanisms": [
+            "First, the PP can win alone electorally while still adopting Vox’s policy frame. One, the PP has already moved right on immigration and public-service prioritization to compete for Vox voters; two, once the far right sets the issue agenda, mainstream conservatives often copy it to avoid losing support; three, this shifts the Overton window even if Vox is not in government.",
+            "Second, Vox’s stagnation does not mean decline; it can mean durable normalization. One, a stable 13-14% base is enough to pressure the PP in future hung parliaments; two, regional successes keep Vox visible and institutionally credible; three, if national politics polarize further, Vox can still surge quickly off scandal or insecurity.",
+            "Third, the PP’s own governance record may be undermined by the same structural problems it uses against Sánchez. This is because (1) healthcare scandals and housing shortages are local failures that voters experience directly, (2) a majority can increase accountability for PP mismanagement rather than diffuse it, and (3) if the PP cannot solve these issues, anti-incumbent backlash can return at the national level."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the election is mainly about party-system consolidation or about the durability of right-wing drift. The pro side wins if you prioritize coalition math and the immediate weakening of Vox’s leverage; the opposition wins if you think agenda-setting matters more than formal coalition participation, because even a solo PP victory can still move Spanish politics rightward.",
+      "stock_connections": [
+        "Coalition blackmail",
+        "Normalization of the far right",
+        "Overton window shift",
+        "Incumbency advantage",
+        "Anti-incumbency backlash",
+        "Party system realignment",
+        "Regionalism and decentralization",
+        "Corruption fatigue",
+        "Urban housing crisis",
+        "Privatization of public services"
+      ],
+      "motion_areas": [
+        "TH, as the PP, would seek absolute majorities over coalition bargains with the far right",
+        "THBT center-right parties should refuse to govern with populist radical right parties even at the cost of losing office",
+        "THP a world where regional elections are treated as referendums on national governments",
+        "THBT opposition parties should nationalize local elections to punish scandal-plagued incumbents",
+        "THBT governments should prioritize public healthcare over private provision in decentralized systems"
+      ],
+      "data_points": [
+        "Andalucía is Spain’s most populous region and has 109 seats in its regional parliament",
+        "PP won 58 of 109 seats in the 2022 Andalucía election",
+        "PSOE is projected to fall from 30 seats to 27-28 seats, its worst-ever result in Andalucía",
+        "Vox won 14 seats in 2022 and is forecast to gain only one or two more",
+        "42.2% of Andalucía voters identify healthcare as the region’s biggest problem",
+        "More than 2,300 women were not informed of inconclusive mammogram results in the regional cancer-screening scandal",
+        "Campaigners claim at least six women died after delayed follow-up from the screening failure",
+        "Some patients reportedly face up to three months for cancer surgery and 21 days for a GP appointment"
+      ]
+    },
+    {
+      "id": "ed000663bdae",
+      "title": "US Cancer Venture Capital Looks to Turn UK Research Strength Into Commercial Oncology Breakthroughs",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/16/steve-jobs-son-reed-jobs-invest-uk-cancer-care-yosemite",
+      "published": "2026-05-16T11:00:09Z",
+      "category": "Business",
+      "region": "United Kingdom / United States",
+      "background": "Reed Jobs, 34, runs Yosemite, an oncology-focused venture capital fund managing more than $1bn in assets. He was in London on 16 May 2026 to look for UK investment opportunities, saying the UK has “world class” research and that Yosemite wants to meet pharmaceutical partners and academics. Yosemite has already invested in about 20 healthcare startups, including companies working on gene therapy, cancer vaccines, radiopharmaceuticals and AI, and is backed by investors including Amgen, MIT, Memorial Sloan Kettering Cancer Center and John Doerr. The fund also has a donor-advised grant arm and receives investment from LifeArc, a UK life sciences charity linked to the Medical Research Council.",
+      "prop_args": [
+        {
+          "thesis": "Attracting US oncology venture capital is a net win for the UK because it converts world-class research into faster commercialization, more capital, and better patient outcomes.",
+          "mechanisms": [
+            "First, it fills the UK’s translation gap between academic discovery and market-ready therapies. This is because (1) UK universities like Oxford and Cambridge generate high-quality early-stage science, (2) venture capital provides the risky capital that public grants usually will not, and (3) the presence of specialist investors increases the odds that promising research becomes a startup, trial, or licensed therapy rather than sitting in a lab.",
+            "Second, it strengthens the UK life sciences ecosystem through clustering effects. Three reasons: one, foreign funds bring networks of pharma partners, regulators, and later-stage investors; two, that makes the UK a more attractive place for founders, clinicians, and scientists to build companies; three, successful exits and follow-on investment create a self-reinforcing hub that keeps talent and IP in the country.",
+            "Third, cancer is a high-value area where marginal improvements have huge welfare returns. This matters because (1) cancer remains a leading cause of death and rare and pediatric cancers are under-served, (2) private capital can accelerate immunotherapy, gene therapy, and early-detection tools, and (3) even a small number of successful therapies can generate outsized benefits in survival, quality of life, and downstream NHS cost savings."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Foreign venture capital in UK cancer care can distort priorities, extract value, and leave the public sector carrying the risk while private investors capture the upside.",
+          "mechanisms": [
+            "First, it can skew research toward commercially lucrative diseases and away from the hardest public-health needs. One, investors prefer scalable, patentable treatments over low-margin prevention or rare pediatric cancers; two, that means resources flow to areas with the highest exit potential rather than the highest social value; three, the UK can end up with a research agenda shaped by venture returns instead of patient need.",
+            "Second, it creates dependency and value leakage in the innovation pipeline. One, if key funding, IP strategy, or commercialization decisions are controlled by US-backed funds, UK institutions lose bargaining power; two, successful startups may be acquired or headquartered abroad, exporting jobs and profits; three, the NHS and UK taxpayers often pay twice — once through public research support and again through high prices for resulting treatments.",
+            "Third, the benefits are uncertain and concentrated while the costs are systemic. One, oncology VC is inherently high-risk, so many investments fail and do not translate into patient benefit; two, the gains accrue to elite universities, biotech clusters, and investors rather than the broader health system; three, this can deepen inequality in access to cutting-edge care if new therapies remain expensive or geographically limited."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether foreign capital is a catalyst for translation or a mechanism of extraction. Prop wins if the judge prioritizes speed, scale, and the fact that UK science already exists but lacks commercialization firepower; Opp wins if they show that the public bears the risk while private actors capture the returns and shape the research agenda.",
+      "stock_connections": [
+        "Brain Drain",
+        "Dependency Theory",
+        "Public-Private Partnerships",
+        "Market Failure",
+        "Innovation Gap",
+        "Race to the Bottom",
+        "Privatization of Public Goods",
+        "Rent Extraction",
+        "Health Inequality"
+      ],
+      "motion_areas": [
+        "TH, as the UK, would welcome foreign venture capital into its life sciences sector",
+        "THBT governments should rely on private investment to commercialize medical research",
+        "THP a world where cancer research is primarily funded by venture capital rather than public grants"
+      ],
+      "data_points": [
+        "Yosemite manages more than $1bn in assets",
+        "Yosemite has invested in about 20 healthcare startups",
+        "The UK has only eight new medications targeted at children in the last two decades",
+        "About 4,000 new childhood cancer cases are diagnosed every year in the UK",
+        "20% of cancers are classified as rare",
+        "Yosemite is backed by Amgen, MIT, Memorial Sloan Kettering Cancer Center, and John Doerr",
+        "LifeArc was set up in 2000 as part of the UK Medical Research Council",
+        "The fund is focused on gene therapy, cancer vaccines, radiopharmaceuticals, and AI"
+      ]
+    },
+    {
+      "id": "a31b422a00dd",
+      "title": "Trump’s Endorsement Turns Republican Primaries Into Loyalty Purges",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/16/trump-bill-cassidy-louisiana-senate-race",
+      "published": "2026-05-16T11:00:09Z",
+      "category": "IR",
+      "region": "United States (Louisiana)",
+      "background": "Louisiana holds Republican primary elections on Saturday in which incumbent Senator Bill Cassidy faces a serious threat from challengers backed by Donald Trump. Cassidy voted to impeach Trump after the January 6 attack, later supported the confirmation of Robert F Kennedy Jr as health secretary, and now trails in an Emerson College poll that put him in third place among likely Republican voters. Louisiana changed its Senate primary rules in 2024 so that only party members and unaffiliated voters can participate, a reform that critics say favors hardline Trump-aligned candidates.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s intervention makes Republican primaries more ideologically coherent by punishing disloyal elites and forcing the party to align around its base.",
+          "mechanisms": [
+            "First, it disciplines intra-party elites. This is because (1) incumbents can no longer assume party loyalty will protect them, (2) politicians who cross the leader face credible electoral punishment, and (3) future candidates internalize that survival depends on staying aligned with the dominant coalition.",
+            "Second, it improves representation of the party’s actual voters. Three reasons: one, Trump-backed primaries mobilize the most committed Republican voters rather than low-information general-election coalitions; two, they reduce the influence of moderates who are less representative of the activist base; three, they make the nominee more likely to reflect the policy preferences that won the party its current identity.",
+            "Third, it creates clearer accountability and stronger message discipline. This matters because a party that tolerates public dissent on impeachment, judicial appointments, or executive priorities produces mixed signals, whereas loyalty-based selection makes it easier to govern, campaign, and negotiate with a unified brand."
+          ]
+        },
+        {
+          "thesis": "Using Trump’s endorsement to reshape primaries can be defended as a corrective to elite insulation in safe seats.",
+          "mechanisms": [
+            "First, safe-seat incumbents are often protected from voter sanction. This is because (1) general elections are noncompetitive in deeply partisan states, (2) the real contest becomes the primary, and (3) primary voters are the only group capable of meaningfully disciplining officeholders.",
+            "Second, Trump-backed challenges can break complacency and careerism. Three reasons: one, they force senators to answer to the party’s core electorate; two, they reduce the incentive to triangulate toward national media approval; three, they make betrayal of party commitments politically costly.",
+            "Third, this can strengthen democratic responsiveness within parties. This matters because parties are not neutral institutions; if the base wants a more confrontational, populist, or anti-establishment representative, primaries are the mechanism through which that preference is translated into office."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s endorsement weaponizes primaries into loyalty tests that weaken democratic accountability and punish competence.",
+          "mechanisms": [
+            "First, it replaces policy evaluation with personal fealty. One, Cassidy is being judged less on legislative performance than on whether he obeyed Trump after January 6; two, this incentivizes future politicians to prioritize survival over principle; three, it narrows the range of acceptable Republican behavior to unconditional loyalty.",
+            "Second, it increases the risk of selecting less competent or more extreme candidates. One, challengers win by signaling devotion rather than governing skill; two, the Louisiana rules and Trump’s endorsement advantage hardliners who can mobilize a narrow base; three, this can produce weaker general-election candidates and poorer policy outcomes in office.",
+            "Third, it entrenches presidential domination over the party. One, Trump is effectively able to end the careers of elected officials in his own party; two, that chills internal dissent and oversight; three, it makes Congress less independent and more willing to rubber-stamp executive preferences."
+          ]
+        },
+        {
+          "thesis": "Trump-driven primary purges damage the Republican Party’s long-term electoral coalition by rewarding purity over breadth.",
+          "mechanisms": [
+            "First, they alienate moderate and unaffiliated voters. One, candidates selected for maximal Trump loyalty often carry baggage in suburban or swing constituencies; two, the party becomes less adaptable to changing demographics; three, this can shrink the coalition over time even if it helps in the short term.",
+            "Second, they intensify factionalism and retaliation. One, incumbents learn that crossing Trump means career destruction, so they either submit or resist more aggressively; two, internal trust collapses; three, the party becomes more unstable and less capable of coordinated governance.",
+            "Third, they normalize revenge as a governing principle. One, the Cassidy race is explicitly framed as punishment for impeachment and later criticism; two, that encourages future leaders to use state power and endorsements to settle scores; three, institutions become personalized around one figure rather than durable rules."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether primaries should maximize party responsiveness or protect institutional competence and internal dissent. Prop wins if the round is about democratic legitimacy inside parties; opp wins if the round is about long-term institutional health, because loyalty purges create a durable chilling effect and make Congress more subordinate to one leader.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Cult of Personality",
+        "Party Discipline",
+        "Elite Capture",
+        "Populism vs Technocracy",
+        "Primary Electorate Radicalization",
+        "Institutional Independence",
+        "Factionalism"
+      ],
+      "motion_areas": [
+        "TH, as the Republican Party, would allow Trump to shape primary outcomes",
+        "THBT parties should prioritize loyalty to their leader over ideological moderation in safe seats",
+        "THP a world where former presidents can effectively determine their party’s nominees",
+        "THBT primary voters should be empowered to punish incumbents who break with the party’s dominant faction"
+      ],
+      "data_points": [
+        "Bill Cassidy voted to impeach Trump after January 6 and later cast the pivotal vote to advance Robert F Kennedy Jr’s nomination as health secretary",
+        "An Emerson College poll last month placed Cassidy in third among likely Republican voters, behind Julia Letlow and John Fleming",
+        "Louisiana changed its US Senate primary rules in 2024 so that candidates are nominated only by party members and unaffiliated voters",
+        "Cassidy was censured by the Louisiana Republican Party in 2021 for his impeachment vote",
+        "Trump-backed challenges helped defeat five of seven Republican Indiana state senators who blocked a Trump-backed gerrymander",
+        "Cassidy’s campaign said its goal is to finish in the top two and advance to a runoff election in June"
+      ]
+    },
+    {
+      "id": "06e588c3d411",
+      "title": "Israel Uses a ‘Ceasefire’ to Sustain Pressure on Southern Lebanon, Undermining Truce Credibility",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
+      "published": "2026-05-16T10:34:53Z",
+      "category": "IR",
+      "region": "Israel / Lebanon",
+      "background": "Israel and Lebanon agreed on Friday to extend a ceasefire arrangement for another 45 days after talks in Washington, following the first direct talks in decades between the two states. Despite that extension, Israel launched new air and artillery strikes on at least five villages in southern Lebanon on Saturday and issued forced displacement orders for nine villages near Sidon and Nabatieh. Lebanese authorities say Israeli attacks have killed more than 2,900 people in Lebanon since the war began, including more than 500 since the truce supposedly took effect on April 17.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s continued strikes show that ceasefire extensions without credible enforcement simply entrench coercion rather than produce peace.",
+          "mechanisms": [
+            "First, the truce loses deterrent value when one side can violate it with no immediate cost. This is because (1) Israel can keep striking while still benefiting from diplomatic cover, (2) Lebanon’s side sees no reason to disarm or comply if attacks continue, and (3) the agreement becomes a paper commitment rather than a binding security architecture.",
+            "Second, ongoing bombardment strengthens hardliners and weakens moderates on both sides. Three reasons: one, Hezbollah can point to continued Israeli attacks to justify resistance and reject negotiations; two, the Lebanese government looks powerless if it cannot protect civilians; three, Israeli leaders face less domestic pressure to compromise if military pressure appears effective.",
+            "Third, the humanitarian and displacement effects make renewed escalation more likely. This matters because repeated evacuation orders, strikes on villages, and civilian deaths create fear, destroy trust in de-escalation, and push local actors toward pre-emptive mobilization rather than restraint."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Israel’s strikes are a necessary enforcement tool against Hezbollah infrastructure, and the ceasefire can only hold if violations are punished.",
+          "mechanisms": [
+            "First, the strikes preserve deterrence by signaling that ceasefire language does not shield military assets. One, if Hezbollah infrastructure remains intact, it can rearm and reposition; two, targeted pressure raises the cost of future attacks; three, enforcement is what makes any truce credible in the first place.",
+            "Second, continued military pressure can improve bargaining leverage in negotiations. One, Israel can force Lebanon’s delegation to take security demands seriously; two, Hezbollah is excluded from formal talks and therefore cannot dictate terms unilaterally; three, a stronger Israeli position may produce a longer-term settlement rather than a temporary pause.",
+            "Third, the strikes may reduce future cross-border attacks by degrading operational capacity. One, destroying launch or logistics sites limits immediate threat; two, displacement orders and bombardment can push armed groups away from the border; three, a degraded battlefield environment lowers the chance of a larger regional war."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether force is stabilizing enforcement or self-defeating escalation. Prop wins if the round is about ceasefire credibility and civilian protection; opp wins if the judge prioritizes deterrence and assumes Hezbollah remains a live military threat that cannot be managed through diplomacy alone.",
+      "stock_connections": [
+        "Ceasefire credibility",
+        "Deterrence theory",
+        "Security dilemma",
+        "Escalation spiral",
+        "Civilian protection",
+        "Hardliner empowerment",
+        "Peace process legitimacy",
+        "Coercive diplomacy"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would continue limited strikes on Hezbollah targets despite a ceasefire extension",
+        "THBT ceasefire agreements in asymmetric conflicts should be enforced through continued military pressure",
+        "THP a world where truce violations are met with immediate punitive strikes"
+      ],
+      "data_points": [
+        "Ceasefire was extended for another 45 days after Washington talks",
+        "Israel struck at least five villages in southern Lebanon in one day",
+        "Israel issued forced displacement orders for nine villages near Sidon and Nabatieh",
+        "Lebanese authorities say more than 2,900 people have been killed in Lebanon since the war began",
+        "Lebanese authorities say more than 500 people have been killed since the truce took effect on April 17",
+        "The ceasefire was first supposed to take effect on April 17",
+        "The talks in Washington were the first direct Israel-Lebanon talks in decades"
+      ]
+    },
     {
       "id": "2adcde92dde1",
       "title": "London’s Dual Mass Marches Test Whether Security Powers Protect Public Order or Chill Protest Rights",
@@ -196,6 +739,63 @@
         "More than 37,000 U.S. forces remain in Germany",
         "The U.S. Army’s 2nd Cavalry Regiment has been based in Vilseck for decades",
         "U.S. forces in Germany have been stationed there since World War II and the Cold War"
+      ]
+    },
+    {
+      "id": "d0daa8368935",
+      "title": "Trump’s Lame-Duck Militarism Exposes U.S. Decline and Accelerates China’s Strategic Patience",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/05/trump-lame-duck-superpower/687189/?utm_source=feed",
+      "published": "2026-05-16T10:00:00Z",
+      "category": "IR",
+      "region": "China / United States / Taiwan / Middle East / Indo-Pacific",
+      "background": "The article argues that Trump’s visit to Beijing this week produced little substantive gain: Xi Jinping publicly hosted him with ceremony, but offered no major trade deal, no Iran breakthrough, and no promise of rare earth access. It claims the U.S. war in Iran has depleted American munitions and raised allied concern about whether enough firepower remains for Taiwan contingencies, while Gulf states have increasingly turned to China for security systems. The piece also says Iran has restored access to 30 of 33 missile sites along the Strait of Hormuz and roughly 90% of its underground missile storage after U.S. strikes.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s aggressive, high-visibility foreign policy is accelerating perceptions of American decline, which weakens deterrence and pushes rivals and allies toward strategic hedging.",
+          "mechanisms": [
+            "First, the U.S. burns credibility when it overpromises and underdelivers. This is because (1) every failed summit or deal signals that Washington cannot convert threats into outcomes, (2) adversaries learn that escalation can be absorbed without decisive punishment, and (3) allies conclude that U.S. commitments are less reliable than before.",
+            "Second, military overreach creates real capability constraints, not just reputational ones. Three reasons: one, the Iran war reportedly forced the Pentagon to worry about munitions shortages for Taiwan contingency planning; two, allies in the Pacific see U.S. stockpiles as finite and therefore doubt extended deterrence; three, a state that visibly depletes its arsenal in one theater has less room to deter in another.",
+            "Third, strategic patience by China and Iran is rationalized by U.S. exhaustion. This matters because (1) if rivals can wait out a lame-duck president, they can avoid concessions until a more favorable administration arrives, (2) delay lets them rebuild military capacity and deepen partnerships, and (3) the longer Washington looks ineffective, the more the international system shifts toward accommodation with Beijing."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s hardline posture can still extract concessions and signal resolve, so apparent theatrics may preserve deterrence rather than destroy it.",
+          "mechanisms": [
+            "First, coercive diplomacy can work even if public outcomes look modest. One, adversaries may offer partial cooperation to avoid worse escalation; two, summit optics and threats can force rivals to spend political capital managing U.S. pressure; three, visible U.S. willingness to act can deter immediate challenges even without a grand bargain.",
+            "Second, the article may overstate decline by conflating short-term strain with long-term weakness. One, munitions drawdowns are temporary and can be replenished through industrial mobilization; two, allies hedge with China but still rely on the U.S. security umbrella for core defense; three, China’s caution may reflect its own fear of direct confrontation, not American collapse.",
+            "Third, U.S. pressure can still impose costs on rivals and buy bargaining leverage. One, Iran’s damaged infrastructure and need to restore missile sites show it is not immune to strikes; two, China’s public support for restraint may be opportunistic rather than evidence of dominance; three, even limited U.S. actions can shape the agenda and keep adversaries reacting to Washington."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether visible U.S. overextension changes behavior enough to alter the balance of power. Prop wins if you think deterrence is mostly psychological and that repeated failures teach rivals to wait out America; Opp wins if you think material capability and alliance dependence still anchor U.S. primacy despite noisy setbacks.",
+      "stock_connections": [
+        "Declining Hegemon",
+        "Credibility of Deterrence",
+        "Extended Deterrence",
+        "Overextension",
+        "Security Dilemma",
+        "Alliance Hedging",
+        "Strategic Patience",
+        "Balance of Power",
+        "Military Readiness",
+        "Lame-Duck Leadership"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would avoid major military escalation in order to preserve credibility",
+        "THBT the United States should prioritize strategic restraint over demonstrations of force in the Indo-Pacific",
+        "THP a world where declining great powers are unable to use military adventurism to restore prestige",
+        "THBT China benefits more from American overreach than from direct confrontation",
+        "THBT allies should hedge toward China when U.S. commitments appear overstretched"
+      ],
+      "data_points": [
+        "The article says the Pentagon is worried it lacks the firepower to execute contingency plans for defending Taiwan.",
+        "The article says intelligence assessments warned Gulf states have begun acquiring from Beijing systems to protect oil infrastructure and bases.",
+        "The article says Iran has restored access to 30 out of 33 missile sites along the Strait of Hormuz.",
+        "The article says Iran has regained roughly 90% of its underground missile storage.",
+        "The article says Xi offered no major trade deal, no Iran solution, and no promise of rare earth access during Trump’s Beijing visit."
       ]
     },
     {
