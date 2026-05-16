@@ -1,7 +1,813 @@
 {
   "date": "2026-05-16",
-  "last_updated": "2026-05-16T19:17:43Z",
+  "last_updated": "2026-05-16T21:59:02Z",
   "cards": [
+    {
+      "id": "209603cf4ed0",
+      "title": "Election-Season Political Violence in Colombia Threatens Democratic Participation and Hardens Security Politics",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
+      "published": "2026-05-16T21:42:04Z",
+      "category": "IR",
+      "region": "Colombia",
+      "background": "Two campaign staffers for Colombian presidential candidate Abelardo de la Espriella were killed by gunmen on motorbikes in Meta, a central department long associated with rebel activity and cocaine trafficking. The killings came two weeks before Colombia’s May 31 presidential election to replace Gustavo Petro, and the citizens’ rights ombudsman warned the violence could hinder the exercise of political rights and democratic participation. At least three candidates have reported death threats, and frontrunners travel with heavy security; in 2025, senator and presidential hopeful Miguel Uribe was shot at a rally in Bogota and later died from his wounds.",
+      "prop_args": [
+        {
+          "thesis": "Political violence in Colombia will push voters and elites toward a harder security agenda, strengthening candidates who promise order over negotiated peace.",
+          "mechanisms": [
+            "First, the killings raise the salience of insecurity in the campaign. This is because (1) voters update on the most visible threat they face, (2) candidates can credibly frame the state as losing territorial control, and (3) media coverage of assassinations crowds out slower issues like reform or anti-corruption.",
+            "Second, violence advantages right-wing and law-and-order candidates. Three reasons: one, it validates their claim that negotiation with armed groups has failed; two, it makes heavy security and militarized policing look like immediate solutions; three, it punishes incumbents and left-leaning candidates associated with dialogue and restraint.",
+            "Third, the broader democratic effect is to narrow participation and reduce turnout in contested areas. This matters because intimidation does not just kill individuals; it changes who can campaign, where rallies can happen, and whether ordinary citizens feel safe engaging in politics, which structurally benefits organized, well-protected actors."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The killings will not fundamentally alter the election outcome because Colombia’s political competition is already structured by deep polarization and security concerns.",
+          "mechanisms": [
+            "First, voters already know violence is endemic, so one more attack has limited marginal effect. One, Meta and similar regions have long been associated with armed groups and trafficking; two, candidates have already been campaigning under heavy security; three, the main contenders are already positioned around security versus negotiation.",
+            "Second, the state and institutions can absorb the shock without collapsing participation. One, the ombudsman and public reporting of threats show monitoring capacity; two, elections still proceed with multiple candidates and 14 registered contenders; three, high-profile violence can even trigger a backlash in favor of democratic continuity rather than fear-driven abstention.",
+            "Third, the attack may not clearly benefit the right because blame can be diffuse and the victim is a campaign staffer rather than a major candidate. This weakens the causal link between the incident and a durable shift in vote choice, especially when the frontrunner Ivan Cepeda is already leading with 37-40 percent support."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the violence is merely another symptom of Colombia’s chronic insecurity or a decisive shock that changes voter behavior and campaign strategy. Prop is stronger on structural incentives: even if the election continues, intimidation tends to advantage security-first actors and shrink meaningful participation in the long run.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Political Violence",
+        "Security Dilemma",
+        "Law and Order Politics",
+        "State Capacity",
+        "Electoral Intimidation",
+        "Peace Process Failure"
+      ],
+      "motion_areas": [
+        "TH, as Colombia, would prioritize hard security responses over peace negotiations with armed groups",
+        "THBT democracies should ban campaigning in high-violence regions during election periods",
+        "THP a world where election security is internationally monitored in conflict-affected states"
+      ],
+      "data_points": [
+        "Two presidential campaign staffers were killed in Meta by gunmen on motorbikes",
+        "The election is scheduled for May 31, with the killings occurring two weeks before polling day",
+        "At least three candidates have reported receiving death threats",
+        "The presidential race has 14 registered candidates",
+        "Ivan Cepeda is polling at 37-40 percent support",
+        "Abelardo de la Espriella is polling above 20 percent",
+        "Miguel Uribe was shot at a rally in Bogota in June 2025 and died in August 2025",
+        "Aida Quilcue, Cepeda’s vice presidential running mate, was briefly kidnapped last year by a FARC dissident group"
+      ]
+    },
+    {
+      "id": "88735589063e",
+      "title": "UK-France ‘One In, One Out’ Pilot Shows Border Deterrence Can Be Extended Without Solving Channel Migration",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/16/uk-and-france-extend-one-in-one-out-small-boats-pilot-scheme-until-october",
+      "published": "2026-05-16T21:07:45Z",
+      "category": "IR",
+      "region": "UK / France / English Channel",
+      "background": "The UK and France signed a “one in, one out” asylum deal in July 2025, under which one person arriving in the UK by small boat is returned to France in exchange for another asylum seeker in France being brought to the UK legally. The pilot was due to end on 11 June 2026, but Home Office sources say it has now been extended until 1 October 2026. As of 28 April 2026, 605 people had been returned to France and 581 had been brought to the UK under the scheme, while thousands of people have still crossed the Channel in small boats since the deal began.",
+      "prop_args": [
+        {
+          "thesis": "Extending the scheme is a rational deterrence tool because it increases the expected cost of irregular entry and gives governments a cooperative mechanism to manage asylum flows.",
+          "mechanisms": [
+            "First, it raises the perceived risk of attempting the Channel crossing. This is because (1) asylum seekers now know arrival does not guarantee settlement in the UK, (2) smugglers lose part of the promise they sell to clients, and (3) even partial uncertainty can reduce demand in a market where people are making high-stakes, information-poor decisions.",
+            "Second, it disrupts the business model of smuggling networks. Three reasons: one, the deal creates a return pipeline that makes the UK less attractive as a final destination; two, smugglers are forced to adapt routes and modes, which increases their operating costs and reduces margins; three, the article notes they have already shifted toward Belgium departures and more expensive lorry journeys, showing the scheme is changing incentives rather than doing nothing.",
+            "Third, it creates a politically and administratively workable compromise between border control and legal migration. This matters because (1) the UK can demonstrate enforcement to domestic audiences, (2) France can preserve cooperation rather than unilateral blame-shifting, and (3) the legal resettlement channel gives governments a controlled alternative that is easier to defend than pure pushback or mass detention."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The scheme is mostly symbolic and harmful because it displaces rather than solves irregular migration while imposing serious humanitarian and legal costs.",
+          "mechanisms": [
+            "First, it does not remove the underlying drivers of movement, so people keep trying. Numbered reasons: (1) conflict, persecution, and family reunification pressures remain unchanged; (2) the article says thousands have still crossed since the deal was signed; (3) smugglers simply adapt by using Belgium departures and lorry routes, meaning the policy shifts risk instead of eliminating it.",
+            "Second, it creates a coercive and unstable asylum system that can worsen vulnerability. Numbered reasons: (1) detention and forced return increase trauma and uncertainty for asylum seekers; (2) people returned to France may go missing from the system or avoid registration out of fear of onward removal, reducing oversight and protection; (3) the policy can push people into even more dangerous routes, which increases deaths and exploitation.",
+            "Third, it is a poor use of diplomatic capital because it normalizes burden-shifting rather than burden-sharing. Numbered reasons: (1) the UK externalizes asylum processing to France without addressing wider EU coordination; (2) the scheme depends on constant bilateral management and can be politically fragile; (3) if the numbers remain modest relative to total arrivals, governments may spend legitimacy on a policy that cannot scale."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether deterrence effects are enough to justify the humanitarian and systemic costs. Prop wins if the round is about marginal reductions and signalling control; opp wins if the judge prioritizes whether the policy actually solves the migration problem rather than merely rerouting it.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Smuggling Market Adaptation",
+        "Burden Shifting",
+        "Race to the Bottom",
+        "Humanitarian Harm vs Security",
+        "Externalization of Borders",
+        "Policy Displacement",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would extend the one-in-one-out asylum scheme with France",
+        "THBT bilateral return-and-resettlement deals are a better response to irregular migration than unilateral enforcement",
+        "THP a world where asylum seekers can be returned to a safe third country in exchange for legal resettlement slots"
+      ],
+      "data_points": [
+        "Pilot extended from 11 June 2026 to 1 October 2026",
+        "605 people returned to France and 581 brought to the UK under the scheme as of 28 April 2026",
+        "Thousands of asylum seekers have continued to cross the Channel since the deal was signed in July 2025",
+        "Channel crossings this year are down by approximately one-third versus the same period last year, though the article says weather is a major factor",
+        "Home Office says nearly 60,000 illegal migrants have been returned since July 2024, up 31% on the 19 months prior"
+      ]
+    },
+    {
+      "id": "444c82a4f93a",
+      "title": "US-Israel Bombing Campaign Fuels Iranian Regime-Change Sentiment Despite Civilian Trauma",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/16/nx-s1-5820984/iranian-man-barely-survives-bombing-but-wants-war-to-go-on",
+      "published": "2026-05-16T21:06:33Z",
+      "category": "IR",
+      "region": "Iran / Israel / United States",
+      "background": "NPR reports on an Iranian man who was buried under rubble during a US-Israel bombing campaign but says he wants the war to continue because he believes it could destroy the Iranian regime. The article is framed around the tension between civilian suffering and the possibility that external military pressure could accelerate regime collapse. The piece is dated 2026-05-16 and concerns the ongoing conflict dynamics involving Iran, Israel, and the United States.",
+      "prop_args": [
+        {
+          "thesis": "External military pressure can be justified if it meaningfully weakens an authoritarian regime and creates a pathway to political change.",
+          "mechanisms": [
+            "First, sustained bombing can erode the regime's coercive capacity. This is because (1) it forces the state to divert resources from governance to survival, (2) it degrades military and security infrastructure that underpins repression, and (3) it increases elite uncertainty about the regime's ability to protect them, which can trigger defections.",
+            "Second, war can intensify internal opposition by exposing the regime's weakness. Three reasons: one, civilians who already resent the regime may interpret the conflict as proof that the leadership has failed to provide security; two, opposition networks gain a rallying point when the regime looks vulnerable; three, external pressure can break the aura of invincibility that sustains authoritarian compliance.",
+            "Third, if the alternative is indefinite repression, even severe short-term harm may be weighed against a potential long-term liberation payoff. This matters because regime change is often impossible through peaceful means when the state monopolizes media, prisons, and coercion, so outside force may be the only available shock that changes the political equilibrium."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Bombing campaigns rarely produce liberation and instead entrench authoritarianism, civilian suffering, and regional escalation.",
+          "mechanisms": [
+            "First, external attacks usually strengthen the regime's domestic legitimacy. One, leaders can frame the war as foreign aggression and rally nationalist sentiment; two, repression becomes easier because dissent can be labeled collaboration; three, populations often prioritize security over reform when under bombardment.",
+            "Second, military pressure creates a high risk of state collapse without a workable successor. One, opposition groups are often fragmented and unprepared to govern; two, power vacuums invite militia conflict, fragmentation, or civil war; three, the destruction of institutions makes post-war reconstruction far harder than pre-war reform.",
+            "Third, escalation between Iran, Israel, and the United States can widen into a broader regional conflict. One, retaliatory strikes can hit shipping, bases, and allies; two, proxy groups may be activated across the region; three, the conflict can normalize a cycle of tit-for-tat attacks that increases civilian casualties without delivering regime change."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether war is a credible route to regime change or just a mechanism for mass suffering and entrenchment. Prop wins only if it can prove a realistic transition after pressure; Opp has the structural advantage because authoritarian regimes often survive external attack by weaponizing nationalism and repression.",
+      "stock_connections": [
+        "Regime Change",
+        "Rally Around the Flag",
+        "Security Dilemma",
+        "Civilian Harm vs Strategic Gain",
+        "State Collapse",
+        "Power Vacuum",
+        "Authoritarian Resilience",
+        "Escalation Spiral",
+        "Proxy War"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would support military pressure on Iran to force regime change",
+        "THBT external bombing campaigns are a legitimate tool for overthrowing authoritarian regimes",
+        "THP a world where foreign intervention is used to accelerate democratic change in closed regimes"
+      ],
+      "data_points": [
+        "Article dated 2026-05-16T21:06:33Z",
+        "The report describes an Iranian civilian who was buried under rubble during a US-Israel bombing campaign",
+        "The civilian quoted in the article says he wants the war to continue so the regime can be destroyed"
+      ]
+    },
+    {
+      "id": "7d88c6f82bc8",
+      "title": "Brazil’s 2026 Presidential Race Hinges on Whether Bolsonaro Scandals Can Break Lula’s Narrow Lead",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/16/poll-shows-lula-and-bolsonaro-tied-before-brazils-presidential-election?traffic_source=rss",
+      "published": "2026-05-16T21:05:10Z",
+      "category": "IR",
+      "region": "Brazil",
+      "background": "A Datafolha poll released on May 16 found Luiz Inacio Lula da Silva and Flavio Bolsonaro tied at 45 percent each in a hypothetical head-to-head runoff, with 9 percent saying they would cast null ballots and 1 percent undecided. The survey interviewed 2,004 respondents on May 12-13, before reporting emerged on May 13 about leaked WhatsApp messages linking Bolsonaro to banker Daniel Vorcaro, who was arrested in an alleged fraud scheme. Lula, 80, is seeking a fourth nonconsecutive term, while Flavio Bolsonaro, a senator from Rio de Janeiro, entered the race in December with his imprisoned father Jair Bolsonaro’s backing; Jair Bolsonaro is serving a 27-year sentence for attempting a coup after the 2022 election.",
+      "prop_args": [
+        {
+          "thesis": "The scandal around Flavio Bolsonaro’s campaign and his father’s legacy will ultimately benefit Lula by reactivating anti-Bolsonaro voters and framing the election as a choice between democratic stability and impunity.",
+          "mechanisms": [
+            "First, the Dark Horse funding controversy gives Lula a clean corruption-and-elite-capture attack line. This is because (1) the leaked WhatsApp messages suggest Bolsonaro sought $24 million from Daniel Vorcaro, a banker arrested in an alleged fraud scheme, (2) that lets Lula tie the campaign to money laundering, patronage, and criminal networks, and (3) Brazilian swing voters who are already skeptical of Bolsonaro are more likely to consolidate around the incumbent when the opposition looks tainted.",
+            "Second, the Bolsonaro brand is structurally overexposed to scandal because it is inseparable from Jair Bolsonaro’s conviction and imprisonment. Three reasons: one, Jair Bolsonaro is already serving 27 years for plotting a coup, so any campaign defending him must also defend anti-democratic behavior; two, Flavio has publicly pledged to seek his father’s release, which keeps the family’s legal troubles at the center of the race; three, this makes it easier for Lula to mobilize institutional and democratic voters who may dislike him but fear Bolsonaro more.",
+            "Third, the timing matters because the poll was conducted before the scandal fully broke. This matters because (1) the 45-45 tie is a snapshot before the latest negative information was absorbed, (2) late-breaking corruption stories tend to move undecided and soft voters more than entrenched partisans, and (3) even a small shift away from Bolsonaro in a runoff is decisive in a race where Lula is already competitive and the null/undecided bloc is relatively small."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Bolsonaro family’s scandals will not meaningfully hurt Flavio because his base is already hardened, and the broader anti-incumbent mood gives him enough room to win despite controversy.",
+          "mechanisms": [
+            "First, Bolsonaro supporters are likely to discount the scandal as political persecution. One, the family has long framed Jair Bolsonaro as a victim of the system, so allegations against Flavio fit an existing narrative of elite and judicial bias; two, the leaked messages concern private sponsorship rather than direct state corruption, which allows the campaign to argue there was no public theft; three, in polarized elections, voters often process scandals through identity rather than evidence, so the story may not move the core right-wing electorate.",
+            "Second, Lula is vulnerable to fatigue and incumbency backlash. One, he is 80 years old and seeking a fourth nonconsecutive term, which can feed concerns about renewal and competence; two, voters may blame the government for economic or governance frustrations regardless of scandal; three, if the election becomes a referendum on the status quo, Bolsonaro can still consolidate anti-Lula sentiment even while under legal pressure.",
+            "Third, the scandal may not reach enough voters in time to change the runoff arithmetic. One, the poll was taken before the controversy gained traction, so the baseline tie already shows Bolsonaro competitive; two, only 9 percent were null and 1 percent undecided, leaving limited persuadable space; three, in a highly polarized race, even damaging revelations often reinforce existing loyalties rather than produce large vote swings."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the scandal changes the behavior of soft voters or merely hardens polarization. Prop wins if you think the Bolsonaro brand is uniquely toxic because it combines corruption, dynastic politics, and anti-democratic baggage; Opp wins if you think Brazilian voters are already sorted and the race is driven more by anti-incumbency than by new revelations.",
+      "stock_connections": [
+        "Corruption Backlash",
+        "Democratic Backsliding",
+        "Dynastic Politics",
+        "Anti-Incumbency",
+        "Polarization",
+        "Scandal Fatigue",
+        "Rule of Law",
+        "Political Persecution Narrative"
+      ],
+      "motion_areas": [
+        "TH, as Brazil’s opposition, would distance itself from dynastic political families",
+        "THBT corruption scandals are more electorally damaging in polarized democracies than in stable ones",
+        "THP a world where candidates with imprisoned family members are barred from running",
+        "THBT Latin American democracies should prioritize anti-corruption vetting over electoral competition"
+      ],
+      "data_points": [
+        "Datafolha poll: Lula 45%, Flavio Bolsonaro 45%, null 9%, undecided 1%",
+        "Survey size: 2,004 respondents",
+        "Polling dates: May 12-13, 2026",
+        "Daniel Vorcaro was arrested in an alleged fraud scheme",
+        "Bolsonaro reportedly sought $24 million, or 134 million Brazilian reals, for the film project",
+        "Jair Bolsonaro is serving a 27-year prison sentence for attempting to plot a coup after the 2022 election",
+        "Lula is 80 years old and seeking a fourth nonconsecutive term"
+      ]
+    },
+    {
+      "id": "5d7c46fd41c0",
+      "title": "Trump’s Arms-Sale Ambiguity Pushes Taiwan to Reassert Sovereignty Amid US-China Signaling",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/taiwan-says-it-is-an-independent-nation-after-trump-arms-sale-remarks?traffic_source=rss",
+      "published": "2026-05-16T20:58:38Z",
+      "category": "IR",
+      "region": "Taiwan / United States / China",
+      "background": "On 16 May 2026, Taiwan said it is a “sovereign and independent” nation after US President Donald Trump raised uncertainty over a major weapons sale to Taipei. The statement came amid heightened cross-strait tensions and renewed attention to US security commitments in the region. In response, the Chinese government said it would deepen security cooperation with the US while also insisting that Beijing has no right to claim the island.",
+      "prop_args": [
+        {
+          "thesis": "US ambiguity over arms sales to Taiwan is strategically dangerous because it weakens deterrence and forces Taiwan to harden its posture publicly.",
+          "mechanisms": [
+            "First, uncertainty over weapons deliveries undermines deterrence. This is because (1) Taiwan’s defense planning depends on credible US support, (2) Beijing can interpret hesitation as reduced willingness to defend Taiwan, and (3) that lowers the perceived cost of coercion or escalation.",
+            "Second, it pushes Taiwan into louder sovereignty signaling. Three reasons: one, Taipei must reassure its domestic public that it is not being abandoned; two, it must signal resolve to Beijing; three, it must signal to other partners that it remains a viable security partner.",
+            "Third, it increases crisis instability. This matters because when both sides doubt the other’s red lines, they are more likely to misread routine military or diplomatic moves as preparation for force, which raises the chance of accidental escalation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s uncertainty can be useful leverage because it pressures Taiwan and China into more flexible security arrangements and reduces automatic US entanglement.",
+          "mechanisms": [
+            "First, ambiguity can discipline Taiwan. One, it reduces moral hazard by making Taipei less able to assume unconditional US backing; two, it incentivizes greater self-reliance and defense spending; three, it can push Taiwan to avoid provocative moves that raise cross-strait tensions.",
+            "Second, it can create bargaining space with China. One, if Beijing believes Washington is less committed to escalation, it may be more willing to negotiate confidence-building measures; two, the US can use arms-sale uncertainty as a bargaining chip in broader US-China talks; three, this may reduce the probability of a direct great-power confrontation.",
+            "Third, it protects US strategic flexibility. This matters because the US can avoid locking itself into a rigid commitment over Taiwan, preserving room to manage multiple theaters and preventing a small trigger from forcing a larger war."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether ambiguity deters or invites coercion. Prop wins if you think Taiwan’s security depends on credible commitments and that any doubt increases Chinese risk-taking; Opp wins if you think overcommitment creates moral hazard and that controlled ambiguity preserves bargaining space and reduces automatic escalation.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Moral Hazard",
+        "Credibility of Commitments",
+        "Escalation Ladder",
+        "Alliance Reliability",
+        "Strategic Ambiguity",
+        "Great Power Competition"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would maintain strategic ambiguity on Taiwan arms sales",
+        "THBT the US should make explicit security commitments to Taiwan",
+        "THP a world where major powers use arms sales as bargaining leverage in territorial disputes"
+      ],
+      "data_points": [
+        "Article date: 16 May 2026",
+        "Taiwan described itself as a 'sovereign and independent' nation",
+        "Trump raised uncertainty over a 'major weapons sale' to Taipei",
+        "China said it had 'no right to claim the island' while also pledging to deepen security cooperation with the US"
+      ]
+    },
+    {
+      "id": "ca44a7347cb7",
+      "title": "Fuel Shock Protests Push Bolivia Toward Militarized Domestic Order Over Civilian Bargaining",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/bolivian-army-attempts-to-clear-roads-after-11-days-of-protests?traffic_source=rss",
+      "published": "2026-05-16T20:44:15Z",
+      "category": "IR",
+      "region": "Bolivia",
+      "background": "On 16 May 2026, Bolivian military police moved to clear road blockades after 11 days of protests, arresting demonstrators and using tear gas. The protests were driven by fuel shortages linked to the effective closure of the Strait of Hormuz, which disrupted global energy flows and triggered domestic scarcity. Even after a deal was signed on Friday between protesters and the government, rallies continued and roads remained blocked.",
+      "prop_args": [
+        {
+          "thesis": "Using coercive force to reopen roads is a necessary emergency response that restores state capacity and prevents a fuel shock from cascading into broader economic and social collapse.",
+          "mechanisms": [
+            "First, clearing road blockades restores the basic logistics chain that keeps the economy functioning. This is because (1) fuel shortages quickly paralyze transport, food distribution, and emergency services, (2) prolonged blockades create secondary shortages far beyond the original fuel problem, and (3) the state loses the ability to guarantee movement of goods and people if it cannot reopen arteries of commerce.",
+            "Second, a visible coercive response deters copycat mobilization and prevents protest tactics from becoming a permanent veto over governance. Three reasons: one, if blockades are rewarded with concessions, groups learn that shutting roads is the fastest way to extract policy changes; two, delay signals weakness and invites escalation by more radical actors; three, restoring order early lowers the probability that local unrest spreads into nationwide instability.",
+            "Third, the government needs to demonstrate monopoly control over critical infrastructure in a crisis. This matters because (1) in a fuel emergency, the public judges the state on whether it can keep hospitals, supply chains, and security services running, (2) negotiated deals are meaningless if protesters can ignore them and continue blockades, and (3) short-term repression can be justified if it prevents a much larger humanitarian and economic shock."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Militarized road clearing deepens the crisis by escalating grievances, undermining legitimacy, and failing to solve the underlying fuel shortage.",
+          "mechanisms": [
+            "First, repression can transform an economic protest into a political legitimacy crisis. One, arrests and tear gas create martyrs and broaden sympathy for protesters; two, communities that already feel abandoned over fuel scarcity interpret force as the state punishing victims rather than solving the shortage; three, this increases the likelihood of renewed and more organized resistance after the immediate crackdown.",
+            "Second, force does not address the root cause of the unrest, so the disruption returns. One, the protests were triggered by fuel shortages linked to the Strait of Hormuz closure, which is an external supply shock; two, clearing roads does nothing to restore imports or stabilize prices; three, if the government cannot credibly fix scarcity, coercion only buys a temporary pause before the next round of blockades.",
+            "Third, militarizing domestic policing creates long-term institutional damage. One, repeated use of the army or military police normalizes the armed forces as a domestic political actor; two, that weakens civilian conflict resolution and makes future governments more dependent on coercion; three, once security forces become the default tool for social control, democratic accountability and protest rights erode."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the state is judged on immediate order or long-term legitimacy. Pro wins if the priority is preventing a logistics collapse during an acute fuel emergency; Opp wins if the round weighs durable governance, because force cannot fix the external supply shock and may entrench a cycle of repression and renewed unrest.",
+      "stock_connections": [
+        "Law and Order",
+        "State Monopoly on Violence",
+        "Civil-Military Relations",
+        "Legitimacy Crisis",
+        "Collective Action",
+        "Repression Backfire",
+        "Resource Scarcity",
+        "Supply Shock",
+        "Protest Escalation",
+        "Democratic Backsliding"
+      ],
+      "motion_areas": [
+        "TH, as the Bolivian government, would use military force to clear protest blockades during fuel shortages",
+        "THBT governments should prioritize restoring order over negotiating with protest movements during acute supply shocks",
+        "THP a world where states can deploy military police to reopen critical infrastructure during domestic unrest"
+      ],
+      "data_points": [
+        "11 days of protests and road blockades in Bolivia",
+        "Military police used tear gas and arrested demonstrators to disrupt blockades",
+        "A deal between protesters and the government was signed on Friday, but blockades continued",
+        "The protests were driven by fuel shortages linked to the effective closure of the Strait of Hormuz"
+      ]
+    },
+    {
+      "id": "bcecf0b629dd",
+      "title": "Cruise-Ship Disease Containment Exposes the Tradeoff Between Mobility and Biosecurity",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-16T20:36:53Z",
+      "category": "Econ",
+      "region": "Canada / British Columbia / International cruise travel",
+      "background": "British Columbia health officials said a Canadian passenger from the cruise ship MV Hondius has tested presumptive positive for hantavirus after the ship experienced an outbreak in April. The case brings the total number of infections to 11 among cruise passengers, with three deaths and two confirmed hantavirus deaths; the ship carried 147 passengers and crew from 23 countries and only docked in Tenerife, Spain, less than a week before the report. The affected Canadians were isolated on Vancouver Island or at home in Ontario, and officials said none had contact with the public after returning to Canada. The WHO recommended 42 days of isolation for each exposed person, while British Columbia had initially required 21 days and said that timeline could be adjusted.",
+      "prop_args": [
+        {
+          "thesis": "Stricter quarantine and public-health controls on international cruise travel are justified because the economic cost of temporary disruption is far smaller than the cost of uncontrolled cross-border disease spread.",
+          "mechanisms": [
+            "First, quarantine reduces the probability that a ship becomes a mobile transmission hub. This is because (1) cruise ships concentrate hundreds of people in enclosed spaces, (2) passengers move across multiple jurisdictions in a short period, and (3) delayed detection means one infected traveler can seed outbreaks in several countries before anyone notices.",
+            "Second, strong isolation rules protect the wider economy from much larger downstream losses. Three reasons: one, outbreaks trigger port closures, medical costs, and emergency response spending; two, they damage consumer confidence in cruise tourism and international travel; three, they create reputational shocks that can depress bookings across the whole sector, not just on the affected ship.",
+            "Third, clear containment rules preserve public trust in trade and travel systems. This matters because if governments appear unable to stop imported disease, they face pressure for blanket border restrictions, which are far more economically damaging than targeted quarantine of exposed passengers."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Overly strict quarantine rules on cruise passengers impose disproportionate economic harm and are a poor substitute for targeted, evidence-based health screening.",
+          "mechanisms": [
+            "First, blanket isolation creates large costs for a relatively low-probability event. One, officials said the risk of a major outbreak is very low; two, the exposed Canadians had no public contact after returning, so the marginal public-health benefit is limited; three, long quarantines can strand travelers, disrupt insurance claims, and impose hotel and logistics costs on governments and firms.",
+            "Second, heavy-handed restrictions can damage the cruise and tourism economy beyond the immediate incident. One, cruise travel depends on predictable itineraries and port access, so uncertainty raises operating costs; two, passengers may avoid the sector if they expect long post-trip restrictions; three, smaller tourism-dependent ports and service businesses lose revenue when ships are treated as biohazards.",
+            "Third, targeted monitoring is more efficient than broad isolation because the disease is not easily spread person-to-person in ordinary settings. One, officials emphasized hantavirus is different from Covid, influenza, or measles and not considered to have pandemic potential; two, the main risk comes from specific exposure pathways rather than casual community spread; three, that means testing, symptom monitoring, and isolation of confirmed cases can capture the risk without over-regulating all travelers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between preventing a low-probability but high-consequence outbreak and avoiding unnecessary economic disruption to travel. Prop has the structural advantage if the round prioritizes systemic risk and contagion externalities; Opp wins if it can show the public-health threat is tightly bounded and that broad restrictions mostly punish an already compliant, low-risk group.",
+      "stock_connections": [
+        "Precautionary Principle",
+        "Negative Externalities",
+        "Public Goods",
+        "Moral Hazard",
+        "Overregulation",
+        "Risk Pooling",
+        "Tourism Shock",
+        "Border Control"
+      ],
+      "motion_areas": [
+        "TH, as a government, would impose mandatory quarantine on all passengers from cruise ships with confirmed infectious disease outbreaks",
+        "THBT states should prioritize public-health containment over tourism revenues when managing cross-border disease incidents",
+        "THP a world where cruise travel is subject to stricter international biosecurity regulation"
+      ],
+      "data_points": [
+        "11 total hantavirus infections among cruise passengers",
+        "3 deaths linked to the outbreak, with 2 confirmed hantavirus deaths",
+        "147 passengers and crew on the MV Hondius from 23 countries",
+        "WHO recommended 42 days of isolation for exposed individuals",
+        "British Columbia initially required 21 days of isolation for the Canadians",
+        "The infected Canadian was one of 4 people isolating on Vancouver Island after leaving the ship",
+        "6 Canadians were on the ship; 2 isolated at home in Ontario, 2 couples isolated on Vancouver Island"
+      ]
+    },
+    {
+      "id": "9b9456d21ba8",
+      "title": "Venezuela Tightens Oil Sector Rules in Bid to Reassert State Control Over Foreign Operators",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/venezuela-circulates-draft-of-oil-law-regulations-for-companies",
+      "published": "2026-05-16T20:34:35Z",
+      "category": "Econ",
+      "region": "Venezuela",
+      "background": "Venezuelan authorities circulated draft regulations for companies operating under the country’s oil law, signaling a new round of rule-setting over the sector. The move comes against the backdrop of PDVSA’s long-running collapse, sanctions pressure, and a corruption probe that in March 2023 led to 11 arrest warrants over billions of dollars in missing oil revenue. Venezuela remains heavily dependent on oil exports, so any change in the legal regime directly affects foreign operators, state revenue, and production incentives.",
+      "prop_args": [
+        {
+          "thesis": "Stricter oil-law regulations are necessary to restore state capacity, reduce leakage, and force the sector to generate public revenue rather than elite rent extraction.",
+          "mechanisms": [
+            "First, tighter regulations improve revenue capture. This is because (1) Venezuela’s oil sector has been plagued by missing revenue and opaque contracting, (2) clearer rules and compliance requirements make it harder for intermediaries and insiders to divert funds, and (3) higher state take from each barrel matters more in a fiscally broken economy where oil is the main source of hard currency.",
+            "Second, the regulations can discipline foreign firms and domestic operators into more predictable behavior. Three reasons: one, formalized licensing and reporting reduce arbitrary side deals; two, stronger oversight lowers the scope for corruption inside PDVSA and ministries; three, predictable rules can actually attract serious capital from firms willing to operate in a high-risk environment if the legal framework is clearer.",
+            "Third, this is a sovereignty and bargaining-power play. This matters because (1) Venezuela has historically been forced into unfavorable arrangements under sanctions and crisis conditions, (2) reasserting legal control prevents foreign firms from capturing strategic assets at fire-sale terms, and (3) even modest improvements in state leverage can translate into more policy autonomy and better long-run bargaining over production, exports, and debt."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "New oil regulations will worsen production and investment by increasing uncertainty, politicizing the sector, and driving away the few firms still willing to operate in Venezuela.",
+          "mechanisms": [
+            "First, regulatory tightening raises investor risk. one, companies already face sanctions, payment restrictions, and reputational risk; two, additional rules increase the chance of arbitrary enforcement and expropriation-by-red-tape; three, when expected returns fall, firms delay investment, cut maintenance, or exit entirely.",
+            "Second, the move can deepen the production collapse. one, Venezuela’s oil industry depends on foreign technology, capital, and operational expertise; two, if regulations make partnerships harder, output falls further because PDVSA cannot replace that capacity domestically; three, lower production means less export revenue, so the policy can backfire fiscally.",
+            "Third, stronger state control often means more corruption, not less. one, concentrated discretion in a weak institutional environment gives officials more opportunities to rent-seek; two, opaque enforcement can be used to punish rivals and reward loyalists; three, the 2023 corruption probe itself shows that the problem is not lack of rules but elite capture of the sector."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether regulation actually improves governance or just adds another layer of discretion in a corrupt, sanctions-hit system. Prop wins if the key issue is revenue capture and sovereignty; opp wins if the decisive metric is production and investment, because Venezuela’s oil sector is so fragile that even small increases in uncertainty can have outsized negative effects.",
+      "stock_connections": [
+        "Resource Curse",
+        "Rent-Seeking",
+        "Dutch Disease",
+        "State Capacity",
+        "Foreign Direct Investment",
+        "Expropriation Risk",
+        "Corruption",
+        "Sanctions Evasion"
+      ],
+      "motion_areas": [
+        "TH, as Venezuela, would impose stricter regulations on foreign oil companies",
+        "THBT resource-rich developing states should prioritize state control over foreign investment in strategic sectors",
+        "THP a world where sanctioned petro-states can unilaterally rewrite oil-sector rules"
+      ],
+      "data_points": [
+        "PDVSA corruption probe in March 2023 led to 11 arrest warrants",
+        "The probe centered on billions of dollars in missing oil revenue",
+        "Venezuela’s economy remains heavily dependent on oil exports for hard currency",
+        "The article concerns draft regulations under Venezuela’s oil law affecting companies operating in the sector"
+      ]
+    },
+    {
+      "id": "3c0b453223ec",
+      "title": "Eurovision Boycott Exposes the Limits of Europe’s Cultural Neutrality on Israel",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
+      "published": "2026-05-16T20:31:57Z",
+      "category": "IR",
+      "region": "Israel; Gaza; Austria; Europe (Spain, Netherlands, Ireland, Iceland, Slovenia)",
+      "background": "At the Eurovision Song Contest final in Vienna, thousands protested outside over Israel’s participation amid the war on Gaza. Spain, the Netherlands, Ireland, Iceland and Slovenia withdrew from the contest, and some of their national broadcasters refused to air the show. The European Broadcasting Union (EBU) kept Israel in the competition despite banning Russia after its 2022 invasion of Ukraine; Eurovision drew 166 million viewers last year and is seeing its largest boycott in its 70-year history.",
+      "prop_args": [
+        {
+          "thesis": "Keeping Israel in Eurovision is a form of normalization that weakens international pressure and helps entrench impunity.",
+          "mechanisms": [
+            "First, cultural inclusion gives Israel reputational legitimacy at a moment when states and civil society are trying to isolate it. This is because (1) Eurovision is a mass-audience event with 166 million viewers, so participation signals 'business as usual'; (2) the EBU’s refusal to suspend Israel creates a visible double standard versus Russia, making exclusion from sanctions look selective; (3) that selectivity blunts the moral force of boycott campaigns by letting Israel claim it is still accepted in European public life.",
+            "Second, the boycott itself shows that allowing Israel in imposes real diplomatic and coalition costs on Europe. Three reasons: one, five countries withdrawing is the largest boycott in Eurovision’s history, so the issue is no longer symbolic fringe activism; two, when national broadcasters refuse to air the event, the dispute spills from culture into state institutions and public diplomacy; three, the controversy forces governments like Spain’s to publicly align on Gaza, increasing pressure for broader policy changes.",
+            "Third, the EBU’s decision undermines the credibility of international rule-based institutions. This matters because (1) if institutions punish Russia for aggression but not Israel for Gaza, audiences infer that enforcement depends on geopolitics rather than principle; (2) that perception reduces trust in multilateral bodies and encourages more states to ignore them; (3) over time, selective enforcement weakens the norm that civilian harm and war conduct carry reputational consequences."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Eurovision should remain politically neutral, and excluding Israel would turn cultural institutions into inconsistent tools of geopolitical punishment.",
+          "mechanisms": [
+            "First, the EBU’s mandate is to run a broadcasting competition, not adjudicate every armed conflict. One, once you exclude countries based on contested wartime conduct, there is no principled stopping point because many states have ongoing or recent abuses; two, selective bans create accusations of bias and politicization, especially when the criteria differ from case to case; three, neutrality preserves the contest’s legitimacy as a cultural event rather than a sanctions regime.",
+            "Second, keeping Israel in avoids collective punishment of artists and audiences who are not the decision-makers. One, Eurovision participants are performers and broadcasters, not the Israeli cabinet or military; two, exclusion would likely harden domestic opinion by feeding victimhood narratives rather than changing policy; three, cultural isolation can reduce channels for dialogue and make compromise harder, especially when public opinion is already polarized.",
+            "Third, the Russia comparison is not clean enough to justify a ban. One, the Ukraine invasion triggered a broad, near-universal security response across European institutions, while the Israel-Gaza war is politically contested across Europe; two, inconsistent application of precedent makes institutions look arbitrary rather than principled; three, if the EBU wants to avoid endless boycott cycles, it should keep the competition separate from state accountability disputes."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether cultural exclusion meaningfully increases pressure on Israel or merely politicizes a public entertainment event. Prop wins if you think mass-audience legitimacy and coordinated boycotts create reputational costs that matter; opp wins if you think selective bans are arbitrary and undermine the neutrality that makes institutions credible in the first place.",
+      "stock_connections": [
+        "Soft Power",
+        "Norm Entrepreneurship",
+        "Selective Enforcement",
+        "Double Standards",
+        "Collective Punishment",
+        "Cultural Boycott",
+        "Legitimacy Costs",
+        "Institutional Credibility"
+      ],
+      "motion_areas": [
+        "TH, as the EBU, would have excluded Israel from Eurovision",
+        "THBT cultural institutions should boycott states accused of mass atrocities",
+        "THP a world where international sports and entertainment bodies enforce human-rights-based exclusions",
+        "THBT Europe should use cultural boycotts as a tool of foreign policy"
+      ],
+      "data_points": [
+        "Eurovision attracted 166 million viewers last year",
+        "Five countries — Spain, the Netherlands, Ireland, Iceland and Slovenia — withdrew in protest",
+        "The boycott is described as the largest in Eurovision’s 70-year history",
+        "Around 2,000 demonstrators gathered in Vienna on the day of the final",
+        "More than 1,000 artists signed an open letter calling for a boycott of Eurovision over Israel’s participation",
+        "The EBU banned Russia from Eurovision after its 2022 invasion of Ukraine",
+        "Israel finished second in Eurovision last year, prompting later accusations of unfair voting influence and new rules"
+      ]
+    },
+    {
+      "id": "1e935fa32464",
+      "title": "Pakistan-Afghanistan Proxy Tensions Risk Collapsing a Fragile Border Truce",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss",
+      "published": "2026-05-16T20:00:48Z",
+      "category": "IR",
+      "region": "Pakistan / Afghanistan",
+      "background": "Pakistan and Afghanistan have remained tense since the Taliban returned to power in 2021. In February 2026, a major border skirmish escalated the relationship, before mediation by Saudi Arabia, Qatar, Turkiye and China produced a pause in fighting in March. Since then, both sides have continued to accuse each other of hostile acts: on Monday Pakistan summoned a senior Afghan diplomat after an attack claimed by the Pakistan Taliban (TPP), and the group said it had carried out two more attacks against security forces. Pakistan says Kabul backs the fighters, which the Afghan side denies.",
+      "prop_args": [
+        {
+          "thesis": "The renewed violence is likely to push Pakistan and Afghanistan back into open border clashes because neither side has credible control over the armed actors driving escalation.",
+          "mechanisms": [
+            "First, the conflict is being driven by non-state militants rather than a clean state-to-state dispute. This is because (1) the Pakistan Taliban can keep attacking even when diplomats pause, (2) Pakistan cannot deter them through normal border diplomacy alone, and (3) Kabul can deny responsibility while still being blamed, which keeps the escalation ladder open.",
+            "Second, each side has strong domestic incentives to respond forcefully, making restraint politically costly. Three reasons: one, Pakistan’s security establishment is under pressure to show it can protect its territory; two, the Taliban government cannot appear subordinate to Islamabad without losing nationalist legitimacy; three, every new attack creates public and military pressure for retaliation rather than compromise.",
+            "Third, the March mediation only produced a pause, not a settlement, so the truce lacks enforcement. This matters because a ceasefire without monitoring, disarmament, or agreed border security rules collapses as soon as either side believes the other is cheating, turning isolated incidents into a renewed cycle of strikes and skirmishes."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A full-scale border clash is still unlikely because both governments have strong incentives to contain violence and rely on mediation rather than escalation.",
+          "mechanisms": [
+            "First, both states face high costs from open conflict. one, Pakistan is already dealing with internal insurgency and cannot afford a second front; two, Afghanistan’s economy and humanitarian situation are too weak to sustain prolonged fighting; three, neither side gains much from a war that would mostly damage trade, border movement, and legitimacy.",
+            "Second, external mediators create a credible off-ramp that reduces the chance of uncontrolled escalation. one, Saudi Arabia, Qatar, Turkiye and China have already shown they can broker pauses; two, their involvement raises diplomatic costs for violating agreements; three, regional powers prefer stability and can pressure both sides into de-escalation.",
+            "Third, the current pattern looks more like managed coercion than war. one, the sides are using strikes, summonses, and accusations to signal resolve; two, that allows them to satisfy domestic audiences without committing to sustained combat; three, limited retaliation can remain below the threshold of a broader border war."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the existing pause is a durable security arrangement or just a temporary lull between retaliatory cycles. Prop wins if the round is about structural instability and weak control over militants; opp wins if the focus is on rational restraint and the high costs of escalation for both governments.",
+      "stock_connections": [
+        "Proxy conflict",
+        "Security dilemma",
+        "State capacity",
+        "Border militarization",
+        "Retaliatory escalation",
+        "Insurgent sanctuary",
+        "Credible commitment problems",
+        "Regional mediation"
+      ],
+      "motion_areas": [
+        "TH, as Pakistan, would prioritize cross-border military retaliation against militant sanctuaries in Afghanistan",
+        "THBT regional powers should impose a monitored border security regime on Pakistan and Afghanistan",
+        "THP a world where Pakistan and Afghanistan are forced into a formal anti-insurgency security pact",
+        "THBT the Taliban government should be internationally recognized only if it suppresses anti-Pakistan militant groups"
+      ],
+      "data_points": [
+        "Major Pakistan-Afghanistan border skirmish occurred in February 2026",
+        "Saudi Arabia, Qatar, Turkiye and China mediated a pause in fighting in March 2026",
+        "Pakistan summoned a senior Afghan diplomat on Monday after an attack claimed by the Pakistan Taliban (TPP)",
+        "The Pakistan Taliban said it carried out two more attacks since, mostly against security forces",
+        "A Pakistani strike on a drug rehabilitation centre reportedly killed more than 250 people"
+      ]
+    },
+    {
+      "id": "d88bfb45682f",
+      "title": "Coalition’s Housing-Linked Migration Cap Risks Normalising One Nation-Style Anti-Immigrant Politics in Australia",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/17/liberal-party-corroded-by-hate-mp-says-amid-concerns-of-dog-whistling-on-immigration",
+      "published": "2026-05-16T20:00:20Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "On Thursday night, Liberal leader Angus Taylor said the Coalition would directly link Australia’s temporary migration intake to the number of new homes built, effectively making housing completion figures a hard ceiling for overseas arrivals. The announcement came amid internal Liberal concerns that the party was adopting Pauline Hanson/One Nation-style rhetoric on immigration, including Taylor’s recent description of some countries as “bad” and his earlier move to block permanent residents from accessing a first-home buyer program. Labor and migrant advocacy groups immediately criticised the policy as “dog-whistling,” while Taylor denied it was aimed at chasing One Nation voters and said “citizenship is a privilege.”",
+      "prop_args": [
+        {
+          "thesis": "Linking migration to housing supply is a politically and economically rational constraint that forces governments to match population growth with infrastructure capacity.",
+          "mechanisms": [
+            "First, it aligns intake with real capacity rather than political slogans. This is because (1) housing shortages are already a binding constraint on living standards, (2) tying arrivals to completions creates a measurable rule instead of discretionary blame-shifting, and (3) it pressures governments to speed up planning, approvals, and construction rather than treating migration as an abstract scapegoat.",
+            "Second, it can reduce distributional backlash against migration by making the policy look like burden-sharing rather than open-ended expansion. Three reasons: one, voters are more likely to accept migration when they see a direct link to housing delivery; two, it lowers the salience of rent pressure in anti-immigrant politics; three, it gives mainstream parties a way to reclaim the issue from One Nation by offering a technocratic, not purely cultural, frame.",
+            "Third, the policy can improve social cohesion by preventing the perception that elites are importing labour without providing services. This matters because (1) overcrowded housing and strained infrastructure are the most visible channels through which migration becomes politically toxic, (2) if those pressures are reduced, immigrants are less likely to be blamed for broader cost-of-living problems, and (3) a stable migration regime is easier to defend than one that looks detached from material conditions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The policy is a politically coded restriction that scapegoats migrants for a housing crisis caused by domestic supply failures, while empowering xenophobic politics.",
+          "mechanisms": [
+            "First, it misdiagnoses the cause of the housing shortage. One, Australia’s housing crisis is driven heavily by planning bottlenecks, construction costs, land release constraints, and investor incentives; two, using migration as the visible lever lets governments avoid harder reforms on zoning and supply; three, it creates the false impression that reducing arrivals is the main solution when the binding issue is domestic underbuilding.",
+            "Second, it legitimises dog-whistling and shifts the political centre of gravity toward anti-immigrant rhetoric. One, once mainstream conservatives adopt One Nation language, they validate the premise that migrants are the problem; two, this normalises harsher cultural sorting and suspicion toward multicultural communities; three, it makes future escalation easier because parties compete on who can sound tougher rather than who can govern better.",
+            "Third, it carries economic costs by weakening labour supply and long-run growth. One, temporary migrants and permanent residents fill shortages in construction, care, hospitality, and other sectors; two, cutting intake in response to housing shortages can worsen the very bottlenecks needed to build more homes; three, lower migration reduces consumer demand, tax base growth, and dynamism, especially in an ageing economy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether migration is treated as a genuine capacity constraint or as a politically convenient proxy for housing failure. Prop wins if the judge prioritises immediate voter backlash and visible service pressure; opp wins if they prioritise long-run supply-side reform and the danger of mainstreaming xenophobia.",
+      "stock_connections": [
+        "Scapegoating",
+        "Dog Whistling",
+        "Race to the Bottom",
+        "Populism",
+        "Housing Supply Constraints",
+        "Labour Shortage",
+        "Multicultural Backlash",
+        "Elite Capture of Anti-Immigrant Politics"
+      ],
+      "motion_areas": [
+        "TH, as a conservative party, would link migration targets to housing supply",
+        "THBT governments should cap migration based on infrastructure capacity",
+        "THP a world where mainstream parties adopt stricter immigration rhetoric to neutralise the far right"
+      ],
+      "data_points": [
+        "Taylor said the Coalition would directly link Australia’s temporary immigration intake to the number of new homes built, using housing completion figures as a hard ceiling for overseas arrivals.",
+        "Taylor previously announced permanent residents would be blocked from accessing a popular first-home buyer program.",
+        "Pauline Hanson publicly claimed she 'set the agenda' in Australian politics and welcomed other parties copying her policies.",
+        "A Liberal MP said the party’s soul was being 'corroded by hate' and described the policy as a 'white flag of surrender' to One Nation."
+      ]
+    },
+    {
+      "id": "9921cd86c98d",
+      "title": "Trump’s Ambivalence on Taiwan Tests Strategic Ambiguity and Raises the Cost of Deterrence",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss",
+      "published": "2026-05-16T19:44:47Z",
+      "category": "IR",
+      "region": "Taiwan / United States / China",
+      "background": "After meeting Chinese President Xi Jinping in Beijing, US President Donald Trump told Fox News he was \"not looking to have somebody go independent\" in reference to Taiwan and said he had made \"no commitment either way\" on Taiwan. Taiwan’s foreign ministry responded on 16 May 2026 by saying the island is \"sovereign and independent\" while also reaffirming the cross-strait \"status quo\" and saying it would deepen ties with the US. Trump also said he has not yet decided whether to approve an $11bn arms package for Taiwan that has already been approved by the US Congress.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s softer line on Taiwan is dangerous because it weakens deterrence, incentivizes Chinese coercion, and forces Taipei into a more precarious security posture.",
+          "mechanisms": [
+            "First, ambiguity that looks like retrenchment reduces deterrence credibility. This is because (1) Beijing updates not on formal statements alone but on perceived willingness to pay costs, (2) Trump’s refusal to commit and his public discomfort with defending Taiwan signal lower US resolve, and (3) that makes Chinese military planners more willing to test red lines through air, naval, or blockade pressure.",
+            "Second, uncertainty over the $11bn arms package directly degrades Taiwan’s ability to defend itself. Three reasons: one, delayed or cancelled arms sales create immediate capability gaps in air defense, anti-ship missiles, and resilience; two, Taiwan must plan around US political volatility, which pushes it toward expensive over-preparation and stockpiling; three, Beijing can exploit the pause to accelerate its own military balance before Taiwan receives replacements.",
+            "Third, this shifts the regional balance toward crisis instability. This matters because if Taiwan doubts US backing, it may either overreact to show resolve or underinvest in deterrence, while allies like Japan and the Philippines infer that US commitments in Asia are negotiable, increasing the risk of miscalculation across the first island chain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s caution on Taiwan can reduce the chance of war by discouraging formal independence moves and lowering the immediate risk of a US-China military clash.",
+          "mechanisms": [
+            "First, clearer restraint on Taipei may prevent provocation. One, Taiwan’s independence rhetoric is the most escalatory trigger in cross-strait politics; two, if Washington signals it will not automatically back a declaration, Taipei has less incentive to gamble on unilateral moves; three, that preserves the status quo that has kept peace for decades.",
+            "Second, strategic restraint can buy diplomatic space with Beijing. One, Xi has repeatedly framed Taiwan as the core issue in China-US relations, so US moderation can lower the temperature after a summit; two, if Trump prioritizes a business-first relationship, both sides may have incentives to compartmentalize Taiwan; three, reduced rhetorical escalation can avert accidental spirals from military signaling.",
+            "Third, ambiguity can still preserve deterrence without locking the US into a costly war. One, the US can continue arms sales and informal ties without making an explicit defense guarantee; two, that keeps China uncertain about escalation while avoiding a blank cheque to Taipei; three, it protects US credibility by avoiding commitments the public may not support in a Taiwan contingency."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Trump’s posture is read as credible restraint or as abandonment. The prop side has the structural advantage because deterrence depends on perception, and public hesitation over both defense commitments and arms sales is exactly the kind of signal that Beijing can exploit.",
+      "stock_connections": [
+        "Strategic Ambiguity",
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Credibility and Commitment Problems",
+        "Alliance Reliability",
+        "Escalation Ladders",
+        "Balance of Power",
+        "First Island Chain",
+        "Miscalculation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would explicitly commit to defending Taiwan",
+        "THBT the United States should end strategic ambiguity over Taiwan",
+        "THP a world where Taiwan receives unconditional US military backing",
+        "THBT major powers should avoid public ambiguity on territorial disputes",
+        "TH, as Taiwan, would declare formal independence if guaranteed US protection"
+      ],
+      "data_points": [
+        "Trump said he was \"not looking to have somebody go independent\" and \"made no commitment either way\" on Taiwan",
+        "Trump has not yet approved an $11bn arms package for Taiwan that Congress already approved",
+        "The US has maintained strategic ambiguity since 1979 and does not formally recognize Taiwan",
+        "Taiwan’s foreign ministry said the US position \"remains unchanged\" and that Taipei will deepen ties with Washington",
+        "Taiwan said China’s military threat is \"the only real insecurity\" in the region",
+        "Trump said the US is \"supposed to travel 9,500 miles [15,289km] to fight a war\" in reference to defending Taiwan"
+      ]
+    },
+    {
+      "id": "4c3b6df4e81a",
+      "title": "Drone Incidents and Coalition Collapse Push Latvia Toward an Opposition-Led Wartime Government",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/16/latvias-president-asks-opposition-leader-to-form-new-government?traffic_source=rss",
+      "published": "2026-05-16T19:22:27Z",
+      "category": "IR",
+      "region": "Latvia / NATO Baltics / Ukraine / Russia",
+      "background": "Latvian Prime Minister Evika Silina resigned after her coalition lost its majority following a dispute over repeated drone incidents linked to the Russia-Ukraine war. On May 7, two Ukrainian drones flew over from Russia into Latvia; one crashed into a petrol depot in eastern Latvia and caused a fire that was quickly contained. President Edgars Rinkevics has asked opposition lawmaker Andris Kulbergs, leader of the United List, to form a new government, but any cabinet still needs parliamentary approval before Latvia’s October 3 elections.",
+      "prop_args": [
+        {
+          "thesis": "A broader opposition-led government is the most rational response to a security crisis because it restores parliamentary legitimacy and creates a more credible wartime consensus.",
+          "mechanisms": [
+            "First, it reduces coalition fragility. This is because (1) Silina’s government already lost its majority when The Progressives withdrew support, (2) a minority or collapsing coalition cannot make fast decisions on air defence, border security, and crisis response, and (3) an enlarged cross-party cabinet is more likely to survive until the October 3 election without constant veto politics.",
+            "Second, it improves security coordination. Three reasons: one, the drone incidents exposed gaps in Latvia’s air-defence posture; two, opposition inclusion lowers the chance that defence policy becomes hostage to intra-coalition blame games; three, a broader mandate makes it easier to adopt emergency measures, procure systems, and coordinate with NATO and Ukraine.",
+            "Third, it strengthens public trust in the state. This matters because repeated drone incursions into NATO territory create fear that the government cannot protect basic sovereignty, and a new cabinet formed after consultation across parties signals seriousness, national unity, and accountability rather than partisan paralysis."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Replacing the government during a security scare risks politicising defence failures and creating instability exactly when Latvia needs continuity.",
+          "mechanisms": [
+            "First, it can weaken policy continuity: (1) Silina had already been managing the response to repeated drone incidents, (2) a new prime minister and cabinet need time to negotiate portfolios and priorities, and (3) any transition period delays concrete fixes like air-defence upgrades and incident protocols.",
+            "Second, it may reward opposition opportunism over competence: (1) the government fell because of coalition arithmetic, not a full electoral mandate, (2) opposition parties can exploit fear to demand office without necessarily having a better defence plan, and (3) this encourages short-term blame shifting rather than long-term institutional reform."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term stability and long-term legitimacy. Prop wins if the round is about whether a fractured coalition can credibly manage a border-security crisis; opp wins if the focus is on transition costs and the danger of politicising defence during an active threat environment.",
+      "stock_connections": [
+        "Coalition instability",
+        "Crisis governance",
+        "National unity government",
+        "Security dilemma",
+        "Democratic accountability",
+        "Executive legitimacy",
+        "Wartime governance",
+        "Institutional trust"
+      ],
+      "motion_areas": [
+        "TH, as Latvia, would form a national unity government after repeated drone incursions",
+        "THBT NATO frontline states should prioritize cross-party wartime coalitions over partisan continuity",
+        "THP a world where governments facing external security shocks are replaced by opposition-led cabinets"
+      ],
+      "data_points": [
+        "Latvia’s parliament must approve any new cabinet after the president’s nomination",
+        "Prime Minister Evika Silina resigned after losing coalition support",
+        "The Progressives withdrew support, leaving the government without a majority",
+        "On May 7, two Ukrainian drones flew into Latvia from Russia; one hit a petrol depot in eastern Latvia and caused a fire that was quickly contained",
+        "Silina had been prime minister since 2023",
+        "Latvia’s next parliamentary elections are scheduled for October 3",
+        "President Rinkevics gave Kulbergs 10 days to try to form a government",
+        "Ukrainian President Volodymyr Zelenskyy said Ukraine would send experts to help Latvia boost air defences"
+      ]
+    },
+    {
+      "id": "fca080b55737",
+      "title": "Western Media Attention Amplifies Israeli Sexual Violence Allegations Only After Elite Outlets Validate Them",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
+      "published": "2026-05-16T18:46:54Z",
+      "category": "IR",
+      "region": "Israel / Palestinian territories",
+      "background": "On 16 May 2026, Al Jazeera aired an interview with UN Special Rapporteur Francesca Albanese on allegations of sexual violence against Palestinians by Israeli forces and the role of Western media coverage. The segment references a recent New York Times article that brought renewed attention to claims that human rights groups and Palestinian organisations say have been documented for years. The discussion centers on Israeli impunity, the credibility of reporting, and why international attention appears to spike only when a major Western outlet covers the issue.",
+      "prop_args": [
+        {
+          "thesis": "Western media validation is decisive because it turns long-documented abuses into internationally legible facts, increasing pressure for accountability.",
+          "mechanisms": [
+            "First, elite outlet coverage changes the information environment. This is because (1) many governments, diplomats, and aid institutions rely on a narrow set of Western media as a credibility filter, (2) allegations that circulate only through advocacy groups are often dismissed as partisan, and (3) a major newspaper report lowers the reputational cost for officials to acknowledge and act on the claims.",
+            "Second, it expands the enforcement coalition. Three reasons: one, it gives UN officials, NGOs, and foreign ministries a shared factual baseline; two, it makes sanctions, investigations, and public condemnations politically safer for hesitant states; three, it forces mainstream audiences to treat sexual violence as a governance and human-rights issue rather than a fringe allegation.",
+            "Third, the asymmetry itself is part of the harm. This matters because when abuses are only believed after Western validation, perpetrators face delayed scrutiny, victims are denied timely recognition, and impunity is prolonged through selective attention."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The real problem is not Western media gatekeeping but the underlying power imbalance and institutional impunity that persist regardless of coverage.",
+          "mechanisms": [
+            "First, media attention is not the binding constraint on accountability. one, states and armed actors often ignore reporting when it conflicts with strategic interests; two, international institutions already have access to testimony and documentation but lack enforcement power; three, even sustained coverage does not automatically translate into prosecutions or policy change.",
+            "Second, centering Western media can distort the issue. one, it privileges narratives that fit editorial standards over local documentation; two, it encourages performative outrage rather than material remedies; three, it reproduces the same hierarchy where Palestinian testimony is treated as secondary until validated externally."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether attention is a meaningful lever on accountability or merely a reflection of deeper power structures. Prop wins if the round is about agenda-setting and institutional pressure; Opp wins if they prove that without coercive enforcement, media coverage mainly changes optics rather than outcomes.",
+      "stock_connections": [
+        "Media bias",
+        "Agenda-setting",
+        "Selective outrage",
+        "Impunity",
+        "Human rights accountability",
+        "Epistemic injustice",
+        "Double standards in international relations"
+      ],
+      "motion_areas": [
+        "TH, as Western media, would prioritize reporting on allegations only after corroboration by major elite outlets",
+        "THBT Western media coverage is necessary for human rights accountability in conflict zones",
+        "THP a world where international attention to abuses is not dependent on Western news organizations"
+      ],
+      "data_points": [
+        "The segment was published on 16 May 2026 and explicitly references a recent New York Times article on sexual violence allegations.",
+        "Francesca Albanese is the UN Special Rapporteur referenced in the interview.",
+        "The article states that the allegations have been documented for years by human rights groups and Palestinian organisations."
+      ]
+    },
+    {
+      "id": "fdb77c7e9165",
+      "title": "Spain’s Gaza Stance Tests Whether Europe Can Afford Strategic Autonomy From the US",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/spanish-foreign-minister-on-spains-clash-with-the-trump-administration?traffic_source=rss",
+      "published": "2026-05-16T18:41:31Z",
+      "category": "IR",
+      "region": "Spain / United States / EU",
+      "background": "On 16 May 2026, Spanish Foreign Minister Jose Manuel Albares discussed Spain’s clash with the Trump administration over Spain’s foreign policy. Spain has been one of Europe’s most vocal critics of Israel’s war on Gaza, which has created friction with the US and some other Western allies. Madrid has also renewed calls for Europe to reduce its military dependence on the US, including support for a standing European Union army.",
+      "prop_args": [
+        {
+          "thesis": "Spain’s willingness to confront Washington is a necessary step toward European strategic autonomy and a more credible international-law-based foreign policy.",
+          "mechanisms": [
+            "First, public disagreement with the US reduces Europe’s dependence on American security guarantees. This is because (1) it signals that EU states can set independent red lines, (2) it pressures other European governments to invest in their own defense capacity, and (3) it weakens the habit of treating US preferences as automatically binding on European policy.",
+            "Second, Spain’s stance strengthens the norm that international law should constrain allied behavior. Three reasons: one, it shows that alliance politics do not override legal principles; two, it gives diplomatic cover to other states that want to criticize civilian harm without being isolated; three, it raises the reputational cost of unconditional support for military operations seen as violating humanitarian law.",
+            "Third, the long-term strategic payoff outweighs short-term diplomatic friction. This matters because Europe’s biggest vulnerability is overreliance on a single security patron; even if Madrid absorbs pressure now, it helps build a more resilient EU foreign policy architecture that is less exposed to changes in US domestic politics."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Spain’s confrontation with the Trump administration weakens alliance cohesion without materially improving European security or Gaza outcomes.",
+          "mechanisms": [
+            "First, it creates diplomatic and security costs with the US. One, Spain risks reduced trust and leverage inside NATO and bilateral channels; two, Washington may be less willing to prioritize Spanish concerns on defense, intelligence, or trade; three, allies may interpret Spain as an unreliable partner that politicizes core security relationships.",
+            "Second, the push for strategic autonomy is more symbolic than operational in the short run. One, the EU still lacks unified command, procurement, and force projection; two, member states remain divided on threat perceptions and spending; three, without US capabilities, a standing EU army is not a near-term substitute for American deterrence.",
+            "Third, moral posturing can backfire by reducing Spain’s influence over actual policy. This is because (1) public confrontation hardens positions in Washington rather than moderating them, (2) Spain loses quiet-diplomacy access that could be used to shape humanitarian policy, and (3) the issue becomes a domestic identity signal rather than a vehicle for practical de-escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between symbolic autonomy and operational capability. The proposition wins if the round is about long-term norm-setting and reducing structural dependence on the US; the opposition wins if the judge prioritizes immediate alliance cohesion and the fact that Europe cannot replace American power quickly.",
+      "stock_connections": [
+        "Strategic Autonomy",
+        "Alliance Reliability",
+        "International Law vs Realpolitik",
+        "Moral Hazard",
+        "Soft Power",
+        "Security Dilemma",
+        "Burden Sharing",
+        "Multipolarity"
+      ],
+      "motion_areas": [
+        "TH, as Spain, would publicly confront the US over Gaza policy",
+        "THBT European states should reduce military dependence on the United States",
+        "THP a world where the EU builds an independent standing army",
+        "THBT allies should prioritize international law over alliance cohesion",
+        "THBT middle powers should use foreign policy to challenge great-power hypocrisy"
+      ],
+      "data_points": [
+        "Spain has been one of Europe’s most vocal critics of Israel’s war on Gaza.",
+        "The article states Spain has renewed calls for Europe to reduce its military dependence on the US.",
+        "Spain has reiterated support for a standing European Union army.",
+        "Published on 16 May 2026."
+      ]
+    },
     {
       "id": "eb3e462250da",
       "title": "US Lets Russia Oil Waiver Expire, Tightening Global Supply and Raising Sanctions Stakes",
