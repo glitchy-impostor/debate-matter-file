@@ -1,7 +1,486 @@
 {
   "date": "2026-05-15",
-  "last_updated": "2026-05-15T22:07:15Z",
+  "last_updated": "2026-05-16T03:52:15Z",
   "cards": [
+    {
+      "id": "11aed76483a4",
+      "title": "Supreme Court Blocks Virginia Democrats’ Mid-Decade Redistricting Gambit, Freezing House Map Under GOP-Favorable Status Quo",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/supreme-court-rejects-virginia-democrats-congressional-map",
+      "published": "2026-05-15T23:51:25Z",
+      "category": "IR",
+      "region": "United States (Virginia)",
+      "background": "On 15 May 2026, the US Supreme Court rejected Virginia Democrats’ request to restore a congressional map that would have given them a chance to gain four House seats. The case came amid a nationwide mid-decade redistricting fight triggered by Donald Trump urging Republican-controlled states to redraw maps, and intensified after a recent Supreme Court ruling weakened the Voting Rights Act and opened more GOP-friendly seats. Virginia’s effort had briefly offset Republican map changes in Texas, Missouri, North Carolina, Ohio, and Florida, but the Virginia Supreme Court struck down the state’s constitutional amendment after finding the Democratic-controlled legislature improperly started the ballot process after early voting had already begun.",
+      "prop_args": [
+        {
+          "thesis": "The Supreme Court’s refusal entrenches partisan map-rigging and makes House control more dependent on judicially protected gerrymanders than on voter preference.",
+          "mechanisms": [
+            "First, it locks in a status quo where whichever party can move first in state courts and legislatures gets to manufacture seats. This is because (1) the Court has now effectively blessed Republican redraws in Alabama and Louisiana, (2) it denied Virginia Democrats the same relief, and (3) that asymmetry rewards aggressive partisan hardball rather than neutral electoral competition.",
+            "Second, it accelerates a redistricting arms race that distorts representation across multiple states. Three reasons: one, Texas, Missouri, North Carolina, Ohio, and Florida have already been pulled into the scramble; two, Virginia’s map was meant to neutralize those gains and its collapse reopens a GOP edge; three, once one side believes courts will not police the process, every state legislature has an incentive to maximize seats before the next census.",
+            "Third, it weakens democratic legitimacy by making the House look pre-decided through map design rather than voter choice. This matters because (1) a four-seat swing in a closely divided House can determine control of Congress, (2) voters are left with fewer competitive districts and less meaningful accountability, and (3) the public increasingly reads the Supreme Court as a partisan actor, which compounds distrust in elections and institutions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Court was right to enforce procedural limits, because even anti-gerrymandering goals cannot justify bypassing state constitutional rules and election deadlines.",
+          "mechanisms": [
+            "First, the Virginia amendment was tainted by an improper ballot process, so judicial restraint protects rule-of-law norms. One, the Virginia Supreme Court found the Democratic-controlled legislature began the amendment process after early voting had already started; two, allowing that process to stand would invite parties to rewrite election rules opportunistically; three, courts that ignore procedure for partisan ends create a precedent that any side can exploit later.",
+            "Second, the timing problem is real and administrable, so the Court avoided chaos in election administration. One, Virginia’s commissioner of elections said a court order was needed by the previous Tuesday to set districts for the 4 August primaries; two, the governor’s office had already confirmed elections would proceed under the 2021 lines; three, late judicial intervention would risk confusion, litigation, and administrative disruption for candidates and voters.",
+            "Third, the decision does not settle the broader redistricting fight, it simply refuses to federalize a state-law dispute. This matters because (1) the Court typically intervenes only when there is a genuine federal question, (2) state courts retain authority to police their own constitutional processes, and (3) preserving that boundary prevents the Supreme Court from becoming a super-legislature for every map dispute."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between democratic fairness and institutional legality: Prop wins if the judge prioritizes equal representation and sees the Court as enabling partisan entrenchment, while Opp wins if the judge prioritizes procedural regularity and election stability. The structural advantage for Opp is that the Virginia case had a concrete timing defect, but Prop has the broader systemic story because the ruling sits inside a nationwide pattern of asymmetric redistricting decisions.",
+      "stock_connections": [
+        "Gerrymandering",
+        "Partisan Entrenchment",
+        "Judicial Politicization",
+        "Democratic Backsliding",
+        "Race to the Bottom",
+        "Electoral Legitimacy",
+        "Institutional Capture",
+        "Federalism"
+      ],
+      "motion_areas": [
+        "TH, as the US Supreme Court, would prioritize procedural election rules over anti-gerrymandering remedies",
+        "THBT courts should not intervene in state redistricting disputes absent a clear federal violation",
+        "THP a world where mid-decade redistricting is tightly constrained by federal courts"
+      ],
+      "data_points": [
+        "Virginia Democrats said the restored map could have given them a chance to pick up four House seats",
+        "The Supreme Court issued its order without any noted dissent",
+        "The Virginia Supreme Court ruled 4-3 against the amendment",
+        "Virginia’s commissioner of elections said a court order was needed by Tuesday to set district lines for the 4 August primaries",
+        "The amendment had passed by a narrow margin last month",
+        "The redistricting scramble was triggered after Trump urged Republican-controlled states to redraw their lines",
+        "The Supreme Court recently weakened the Voting Rights Act, opening more winnable seats for Republicans",
+        "Republican map efforts were mentioned in Alabama and Louisiana, while Texas, Missouri, North Carolina, Ohio, and Florida were also part of the nationwide redistricting contest"
+      ]
+    },
+    {
+      "id": "7fe79adcaa06",
+      "title": "Child Maintenance Enforcement Errors Expose UK State Capacity Failures and Over-Collection Risk",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-15T23:44:32Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "The BBC reports that more than 30 parents have complained of child maintenance errors involving miscalculated arrears, money wrongly taken from wages or bank accounts, and long legal battles with the Child Maintenance Service (CMS). The CMS, which replaced the Child Support Agency in 2012, manages around 800,000 arrangements for 720,000 paying parents and can recover arrears through deductions from wages, bank accounts, benefits, or pensions. In 2025, it received 92,700 requests to reconsider decisions, and in 21,400 cases the original decision was changed, meaning almost a quarter of decisions were altered.",
+      "prop_args": [
+        {
+          "thesis": "The CMS case shows why aggressive state enforcement without robust due process creates serious economic harm, so the system needs tighter safeguards before money is taken.",
+          "mechanisms": [
+            "First, mistaken enforcement imposes direct financial losses on innocent households. This is because (1) the CMS can seize wages and bank balances before disputes are resolved, (2) recovery of wrongly taken money can take years, and (3) even when refunds happen, legal costs and interest-free delays leave families permanently out of pocket.",
+            "Second, the current system creates a chilling effect on work and financial planning. Three reasons: one, sudden deductions from bank accounts or salaries create liquidity shocks that can trigger overdrafts, missed bills, and credit damage; two, people facing repeated errors spend time and money on appeals instead of productive activity; three, the fear of arbitrary enforcement undermines trust in formal institutions and compliance more broadly.",
+            "Third, reform is justified because the error rate is not marginal but systemic. This matters because (1) 21,400 of 92,700 reconsideration requests in 2025 led to changed decisions, (2) the Lords report said the formula is outdated and not transparent, and (3) the BBC cases show that wrong addresses, legacy CSA debts, and administrative opacity can turn a child-support tool into a debt-collection machine."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The CMS should retain strong enforcement powers because child maintenance is a necessary mechanism to protect children and prevent non-payment from becoming the default.",
+          "mechanisms": [
+            "First, weak enforcement would increase evasion and reduce transfers to children. One, the CMS exists precisely because private agreements often fail when parents separate; two, if the state cannot quickly collect arrears, non-paying parents can delay indefinitely; three, predictable enforcement raises compliance by making default costly.",
+            "Second, the existence of errors does not prove the model is broken; it proves the need for better administration. One, the DWP says assessment accuracy is consistently close to 100%; two, parents can challenge decisions through reconsideration and independent tribunals; three, the right fix is better data matching and notification, not weakening the state’s ability to recover money owed to children.",
+            "Third, over-correcting toward caution can harm the intended beneficiaries. This matters because (1) slower enforcement means children wait longer for support, (2) parents with genuine arrears gain more room to hide assets or move income, and (3) a system that is too easy to contest can be gamed by strategic non-payers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between preventing wrongful deprivation today and ensuring reliable child support collection over time. Prop wins if the judge prioritizes state legitimacy and the concrete harm of irreversible seizures; opp wins if they show that loosening enforcement would materially increase evasion and leave children worse off.",
+      "stock_connections": [
+        "State Capacity",
+        "Due Process",
+        "Administrative Error",
+        "Regulatory Capture",
+        "Moral Hazard",
+        "Access to Justice",
+        "Institutional Trust",
+        "Welfare State Design"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would significantly weaken the Child Maintenance Service's enforcement powers",
+        "THBT states should not be allowed to seize bank assets for disputed administrative debts before appeals are exhausted",
+        "THP a world where child support collection is handled by a more collaborative, less punitive agency model"
+      ],
+      "data_points": [
+        "CMS manages 800,000 arrangements for 720,000 paying parents",
+        "In 2025, the CMS received 92,700 reconsideration requests",
+        "In 2025, 21,400 reconsideration cases resulted in changed decisions or additional information changing the decision",
+        "John Hammond had £19,269 taken from his bank account before winning his appeal",
+        "Richard George had £18,800 taken from his bank account after a CSA appeal had effectively written off more than £16,000 in arrears",
+        "Hammond spent £14,055 on legal fees and was awarded £8,000 in costs",
+        "The House of Lords report described enforcement as 'random, abusive and unregulated' and said the formula is 'neither fair nor transparent'"
+      ]
+    },
+    {
+      "id": "eb59e6583daf",
+      "title": "Trump’s Deprioritization of Human Rights Lets China Treat US Diplomacy as Purely Transactional",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/trumps-lack-of-focus-on-human-rights-in-china-is-big-departure-for-us-diplomacy",
+      "published": "2026-05-15T23:30:53Z",
+      "category": "IR",
+      "region": "United States / China / Hong Kong",
+      "background": "On a Beijing trip in May 2026, Donald Trump said he would raise the case of jailed Hong Kong activist Jimmy Lai, but described it as “a hard one” and later told Fox News he had discussed Lai and detained pastors with Xi Jinping. The article says human rights were largely absent from the official US-China readouts, marking a break from earlier US presidents such as George W. Bush and Barack Obama, who publicly pressed China on religious freedom, Tibet, and dissidents like Chen Guangcheng. The piece also notes that China has intensified repression under Xi Jinping since 2012, including Xinjiang re-education camps that the UN said could constitute crimes against humanity.",
+      "prop_args": [
+        {
+          "thesis": "Deprioritizing human rights in US-China diplomacy makes the relationship more transactional, which strengthens China’s bargaining position and weakens the global deterrent against repression.",
+          "mechanisms": [
+            "First, it removes a recurring cost on Chinese elites. This is because (1) public US condemnation creates reputational pressure on officials tied to abuses, (2) sanctions and diplomatic spotlight can raise the personal price of repression, and (3) when Washington stops raising cases like Jimmy Lai or Xinjiang, Beijing learns that coercion carries fewer external consequences.",
+            "Second, it signals to other authoritarian governments that the US will trade away rights for strategic convenience. Three reasons: one, allies and rivals infer that economic or security deals matter more than political prisoners; two, activists inside China and elsewhere lose the sense that the world’s most powerful democracy will back them; three, this normalizes repression as an acceptable bargaining chip in great-power diplomacy.",
+            "Third, it reduces leverage on specific cases by making them invisible in the final bargaining set. This matters because (1) human rights issues only move when they are attached to elite-level attention, (2) even partial concessions like better prison conditions or eased harassment often come from sustained pressure, and (3) once the issue drops out of the agenda, Beijing can offer symbolic gestures without meaningful release or reform."
+          ]
+        },
+        {
+          "thesis": "Trump’s approach weakens US soft power and credibility, making it harder for Washington to lead coalitions against China on any issue, including security and trade.",
+          "mechanisms": [
+            "First, it undercuts the US claim to moral leadership. This is because (1) previous administrations used human rights as a justification for US influence, (2) abandoning that language makes US criticism of China look selective and self-interested, and (3) third countries become less willing to align with Washington if they see it as indifferent to repression when convenient.",
+            "Second, it hands China propaganda ammunition. Three reasons: one, Beijing can point to US domestic civil-liberties abuses, immigration raids, and attacks on rights groups as evidence of hypocrisy; two, it can frame US criticism as hostile containment rather than principle; three, that narrative is easier to sell to ordinary Chinese citizens, reducing the domestic political cost of defying Washington.",
+            "Third, it fractures the coalition of democracies and dissidents that historically amplified pressure on China. This matters because (1) coordinated pressure works better than unilateral criticism, (2) if the US stops leading, Europe and others have less incentive to spend political capital, and (3) activists like those in Hong Kong and Xinjiang lose the international ecosystem that keeps their cases alive."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Downplaying human rights can improve US-China relations by preserving diplomatic bandwidth for higher-stakes issues like trade, security, and crisis management.",
+          "mechanisms": [
+            "First, it reduces immediate friction in bilateral talks. One, human rights is a predictable trigger for Chinese defiance and nationalist backlash; two, removing it from the center of the agenda lowers the chance that talks collapse over symbolic disputes; three, this can create space for deals on tariffs, fentanyl, military deconfliction, or market access.",
+            "Second, it avoids performative diplomacy that rarely changes Beijing’s behavior. One, China has become more resistant to external criticism as its power has grown; two, public shaming may harden elites rather than moderate them; three, if the US has limited leverage, spending it on symbolic condemnations may be inefficient compared with concrete bargaining.",
+            "Third, selective quiet diplomacy may produce more tangible results for individuals. One, the article itself notes Trump says he raised Jimmy Lai and detained pastors privately; two, Beijing may be more willing to make discreet concessions when not publicly cornered; three, private channels can secure releases or better treatment without forcing Xi to lose face."
+          ]
+        },
+        {
+          "thesis": "The US loses little by deprioritizing human rights because its own credibility is already damaged, and China is too powerful to be meaningfully pressured by lectures.",
+          "mechanisms": [
+            "First, American hypocrisy blunts any moral leverage. One, the article cites US war-on-terror abuses and current domestic civil-liberties crackdowns; two, China can credibly accuse Washington of double standards; three, that means public human-rights rhetoric may no longer move Beijing or global audiences.",
+            "Second, China’s scale makes external pressure less effective. One, its economy and military have grown rapidly, so it can absorb criticism; two, it has built domestic propaganda defenses that portray criticism as foreign hostility; three, if pressure does not change policy, then making it a central diplomatic priority wastes bargaining capital.",
+            "Third, the real determinants of Chinese repression are internal politics, not US statements. One, Xi’s consolidation of power and crackdown on civil society drive policy; two, the CCP’s security logic prioritizes regime stability over foreign approval; three, therefore US human-rights diplomacy is at best marginal and at worst a distraction from more consequential levers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether human-rights pressure is a real lever or just symbolic signaling. Prop wins if you believe even partial external pressure changes elite incentives and sustains dissident morale; opp wins if you think China’s power and US hypocrisy make public condemnation mostly cost without effect.",
+      "stock_connections": [
+        "Soft Power",
+        "Credibility",
+        "Transactional Diplomacy",
+        "Human Rights Conditionality",
+        "Authoritarian Resilience",
+        "Hypocrisy / Double Standards",
+        "Great Power Competition",
+        "Private vs Public Diplomacy",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would deprioritize human rights in diplomacy with China",
+        "THBT the US should separate human rights from strategic negotiations with authoritarian powers",
+        "THP a world in which great powers stop using human rights as a central tool of foreign policy"
+      ],
+      "data_points": [
+        "Jimmy Lai is a 78-year-old former media mogul jailed in Hong Kong with broad bipartisan support in the US",
+        "The UN said China’s Xinjiang policies could constitute crimes against humanity",
+        "The article says up to 1 million Uyghurs and other Turkic minorities were imprisoned in Xinjiang re-education camps",
+        "Xi Jinping has been in power since 2012 and has intensified crackdowns on civil society, feminist activists, religious expression, and dissent",
+        "In 2012 the Obama administration helped evacuate blind human rights lawyer Chen Guangcheng after he escaped house arrest",
+        "China’s 2021 State Council human-rights report on the US opened with George Floyd’s words: “I can’t breathe”",
+        "Trump told Xi: “You’re a great leader... it’s an honour to be your friend”",
+        "Trump told Fox News he discussed Jimmy Lai and detained pastors, but neither side’s official readout included human rights"
+      ]
+    },
+    {
+      "id": "6f3351ecb53d",
+      "title": "Duterte-Aligned Senate Power Lets ICC Fugitive Humiliate Marcos and Delay Accountability",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/dela-rosa-week-chaos-philippines",
+      "published": "2026-05-15T23:01:53Z",
+      "category": "IR",
+      "region": "Philippines / International Criminal Court (The Hague)",
+      "background": "Philippine senator Ronald dela Rosa, a former national police chief and key enforcer of Rodrigo Duterte’s drug war, is wanted by the International Criminal Court for crimes against humanity. In May 2026, he evaded arrest after appearing in the Philippine senate, where Duterte-aligned allies granted him protective custody and a three-day standoff followed. The episode came after former president Rodrigo Duterte was arrested and transferred to The Hague, and amid a worsening power struggle between President Ferdinand Marcos Jr and Vice-President Sara Duterte.",
+      "prop_args": [
+        {
+          "thesis": "Allowing domestic political allies to shield an ICC fugitive destroys accountability and signals that elite impunity still overrides international justice.",
+          "mechanisms": [
+            "First, it creates a direct enforcement failure. This is because (1) the ICC depends on state cooperation to arrest suspects, (2) if a sitting senator can evade arrest inside a heavily guarded legislature, then lower-level officials learn that political protection beats legal obligation, and (3) that makes future arrests harder because suspects can simply wait for institutional allies to intervene.",
+            "Second, it normalizes elite impunity and weakens deterrence. Three reasons: one, the public sees that thousands of drug-war deaths do not translate into immediate punishment; two, Duterte-aligned politicians can frame ICC compliance as optional or partisan; three, future security officials are incentivized to obey political patrons rather than international law, especially when the patronage network still controls parts of the senate.",
+            "Third, it damages the credibility of both domestic and international institutions. This matters because the senate’s protective custody and the chaotic escape make the state look incapable of basic law enforcement, which reduces trust in Marcos’s government, encourages vigilantism and factional politics, and undermines the ICC’s claim that it can deliver justice where national systems fail."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The episode shows the limits of international justice in a polarized state, but it does not mean impunity wins because political conditions can still shift and eventually expose fugitives.",
+          "mechanisms": [
+            "First, political shielding is contingent, not permanent. One, Dela Rosa’s protection depends on Duterte-aligned control of key institutions like the senate; two, that control is vulnerable to elections, impeachment outcomes, and elite defections; three, if Sara Duterte fails to consolidate power, the network that shields him can collapse quickly.",
+            "Second, the state can still reassert coercive capacity later. One, Marcos has already shown willingness to cooperate with the ICC when politically convenient, as with Duterte’s arrest; two, the government can wait for a less costly moment to act rather than force a confrontation that triggers unrest; three, once public attention fades, arrest becomes easier because the fugitive cannot remain in open political spaces forever.",
+            "Third, the scandal may strengthen accountability in the long run by exposing the protection network. One, the chaos makes the costs of Duterte-aligned obstruction visible to voters; two, it sharpens the case for reforming senate procedures and security coordination; three, it increases pressure on Marcos and the judiciary to avoid appearing complicit, which can improve future enforcement."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether short-term evasion becomes durable impunity or merely delays accountability. Prop wins if you prioritize institutional precedent and deterrence: once an ICC fugitive can hide behind a legislature, the enforcement norm is badly damaged. Opp wins only if it proves the protection bloc is temporary and that political exposure ultimately makes future arrest more likely, not less.",
+      "stock_connections": [
+        "Rule of Law",
+        "Elite Impunity",
+        "Democratic Backsliding",
+        "International Justice",
+        "State Capacity",
+        "Patronage Politics",
+        "Institutional Capture",
+        "Accountability Gap"
+      ],
+      "motion_areas": [
+        "TH, as the ICC, would prioritize arresting high-profile fugitives even at the cost of domestic political backlash",
+        "THBT states should cooperate with the ICC even when doing so destabilizes domestic coalitions",
+        "THP a world where international courts can directly enforce arrest warrants without state cooperation",
+        "THBT democratic institutions should not grant protective custody to officials wanted for crimes against humanity"
+      ],
+      "data_points": [
+        "Ronald dela Rosa is wanted by the ICC for crimes against humanity over the Duterte administration’s war on drugs",
+        "Rodrigo Duterte was arrested and transferred to The Hague in 2026 and is now imprisoned there facing crimes against humanity charges",
+        "A Philippine supreme court decision on Wednesday gave the government 72 hours to comment on Dela Rosa’s petition challenging his arrest",
+        "Dela Rosa evaded arrest after a three-day standoff inside the Philippine senate",
+        "The senate security reportedly fired first during the incident, after which Dela Rosa escaped through a fire exit in an SUV",
+        "Political scientist Jean Encinas-Franco said Marcos’s approval and trust ratings suffered after Duterte’s arrest",
+        "Sara Duterte’s allies tightened their grip on the senate this week with Alan Peter Cayetano’s appointment as senate president"
+      ]
+    },
+    {
+      "id": "59a6d3da4dc8",
+      "title": "Trump-Era Trade Signaling and Energy Shocks Box the Fed Into Higher-For-Longer Rates",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/warsh-can-t-push-cuts-at-this-stage-christopher-smart-video",
+      "published": "2026-05-15T22:43:04Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "On 2026-05-15, Christopher Smart of the Arbroath Group said incoming Fed Chair Kevin Warsh cannot \"credibly\" push for rate cuts \"at this stage\" because energy prices are rising and inflation pressures are building. In the same interview, Smart said the Trump-Xi summit was only \"good symbolically\" and warned investors to be skeptical of U.S. trade announcements that China does not confirm. He also argued that trading by the president and members of Congress undermines market and government credibility.",
+      "prop_args": [
+        {
+          "thesis": "The combination of energy inflation, trade uncertainty, and political credibility problems forces the Fed to stay restrictive, making premature rate cuts economically and politically dangerous.",
+          "mechanisms": [
+            "First, higher energy prices feed directly into headline inflation and then into expectations. This is because (1) fuel and transport costs raise the price of a wide basket of goods, (2) households and firms begin to anticipate broader inflation, and (3) the Fed risks re-anchoring expectations if it cuts before price pressures settle.",
+            "Second, trade announcements that are not confirmed by China create policy uncertainty that itself is inflationary. Three reasons: one, firms delay investment and stockpile inputs when tariff or deal terms are unclear; two, supply chains become more expensive as businesses hedge against sudden policy shifts; three, the Fed cannot treat temporary market optimism as durable disinflation.",
+            "Third, political trading and perceived insider advantage weaken institutional credibility, which makes the Fed more cautious. This matters because (1) if markets think policy is being shaped by private gain, they price in more volatility, (2) the central bank has to work harder to prove it is independent, and (3) cutting rates in that environment looks like surrendering to political pressure rather than responding to macro data."
+          ]
+        },
+        {
+          "thesis": "Keeping rates higher for longer is the least bad option because it preserves the Fed's anti-inflation credibility and avoids a second inflation wave.",
+          "mechanisms": [
+            "First, the Fed's main asset is credibility, and that is built by reacting slowly to noisy political signals. One, rate cuts after a symbolic summit would reward optics over fundamentals; two, if inflation later re-accelerates, the Fed would have to reverse course and lose trust; three, a cautious stance signals that the central bank is data-driven rather than politically responsive.",
+            "Second, restrictive policy can absorb demand shocks without immediately causing a recession. Three reasons: one, the U.S. economy can tolerate moderately high rates better than it can tolerate entrenched inflation; two, inflation hurts lower-income households more through essentials like food and energy; three, avoiding a premature cut reduces the risk of a wage-price spiral if labor markets remain tight.",
+            "Third, the immediate pain of higher rates is more contained than the long-run damage from letting inflation expectations drift. This matters because (1) asset prices and borrowing costs adjust quickly, but (2) once households and firms expect persistent inflation, contracts, wages, and pricing behavior all become harder to unwind, and (3) the eventual disinflation requires even harsher tightening."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Fed should still cut if underlying growth is weakening, because energy spikes and trade noise are temporary shocks that should not override broader macro conditions.",
+          "mechanisms": [
+            "First, headline inflation from energy is often transitory and should not dictate monetary policy. One, oil and fuel prices can reverse quickly; two, hiking or holding rates too high in response to a supply shock does not create more supply; three, overreacting risks tightening into a slowdown and causing avoidable unemployment.",
+            "Second, trade uncertainty can itself justify easier policy if it is suppressing investment and demand. One, firms facing unclear tariffs or deal terms cut capex and hiring; two, weaker demand reduces growth and can pull inflation down over time; three, the Fed should offset demand destruction rather than punish the real economy for political dysfunction.",
+            "Third, credibility is not preserved by ignoring labor-market weakness or financial stress. One, if credit conditions are already tight, keeping rates elevated can trigger defaults and layoffs; two, the Fed's mandate includes employment, not just inflation; three, a cautious cut can stabilize expectations by showing the central bank responds to the full data picture."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the current inflation impulse is temporary noise or the start of a second-round inflation problem. The prop side has the structural advantage because energy prices, trade uncertainty, and credibility concerns all push in the same direction: they make the cost of an early cut asymmetric, while the opp side must prove that growth weakness is severe enough to justify risking a renewed inflation cycle.",
+      "stock_connections": [
+        "Central bank credibility",
+        "Inflation expectations",
+        "Supply shock vs demand shock",
+        "Policy uncertainty",
+        "Moral hazard",
+        "Institutional trust",
+        "Political economy of monetary policy"
+      ],
+      "motion_areas": [
+        "TH, as the incoming Fed Chair, would keep rates higher for longer despite political pressure for cuts",
+        "THBT central banks should prioritize inflation credibility over short-term growth when shocks are supply-side",
+        "THP a world where monetary policy is insulated from trade-announcement volatility and political signaling"
+      ],
+      "data_points": [
+        "Article date: 2026-05-15",
+        "Christopher Smart said Kevin Warsh cannot \"credibly\" argue for rate cuts \"at this stage\"",
+        "Smart cited surging energy prices and building inflation pressures",
+        "Smart warned investors to be \"particularly skeptical\" of U.S. trade announcements China does not confirm",
+        "Smart said trading by the president and members of Congress undermines \"credibility in markets\" and government"
+      ]
+    },
+    {
+      "id": "7aa6e4e9262e",
+      "title": "Trump’s Taiwan Silence Signals U.S. Retreat as China Learns the Power of Blockade Diplomacy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/-critical-step-backwards-sen-coons-on-trump-taiwan-video",
+      "published": "2026-05-15T22:25:47Z",
+      "category": "IR",
+      "region": "United States / China / Taiwan / Strait of Hormuz",
+      "background": "On 2026-05-15, Senator Chris Coons said President Trump went to China on \"a weaker footing\" and described the administration’s silence on Taiwan arms sales as a \"critical step backwards\" for U.S. interests. Coons, a member of the Senate Foreign Relations and Appropriations Committees, also argued that China had learned from the Strait of Hormuz closure that blockade tactics are an \"incredibly powerful tool.\" He said there was \"no reason\" to think Xi Jinping would help pressure Iran to reopen the strait to other countries’ ships.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s muted stance on Taiwan weakens deterrence and encourages China to test coercive options against both Taiwan and broader maritime chokepoints.",
+          "mechanisms": [
+            "First, silence on arms sales and Taiwan commitments signals reduced U.S. resolve. This is because (1) allies and adversaries infer policy from public signaling, not private intent, (2) Taiwan’s defense planning depends on credible and timely weapons support, and (3) ambiguity without reassurance is read as abandonment rather than strategic flexibility.",
+            "Second, weaker signaling lowers the expected cost of Chinese escalation. Three reasons: one, Beijing can interpret hesitation as a window to intensify gray-zone pressure; two, it can calibrate coercion around the belief that Washington will avoid escalation; three, it encourages incremental moves that are harder for the U.S. to reverse without major crisis.",
+            "Third, the lesson China draws from blockade politics generalizes beyond Taiwan. This matters because (1) if Beijing sees blockades as effective leverage, it has more incentive to normalize maritime coercion, (2) that raises risks in flashpoints like the Taiwan Strait and South China Sea, and (3) it increases the probability of supply-chain shocks that hit global trade, energy, and alliance credibility."
+          ]
+        },
+        {
+          "thesis": "U.S. hesitation on Taiwan creates a credibility gap that harms the wider alliance system and makes coercion cheaper for authoritarian powers.",
+          "mechanisms": [
+            "First, allies update their expectations about U.S. protection when Washington appears inconsistent. This is because (1) security guarantees are only as strong as the perceived willingness to bear costs, (2) regional partners may hedge by accommodating China, and (3) adversaries can exploit uncertainty to peel allies away from the U.S. camp.",
+            "Second, credibility loss in one theater spills into others. Three reasons: one, if the U.S. looks unreliable on Taiwan, partners question commitments in the Indo-Pacific more broadly; two, adversaries infer that pressure works, so they replicate it in other disputes; three, the U.S. pays a higher future cost to restore deterrence after a public retreat.",
+            "Third, this creates a permissive environment for blockade-style coercion globally. This matters because (1) maritime chokepoints are among the most economically sensitive tools of state power, (2) even temporary disruptions can spike insurance, shipping, and energy costs, and (3) repeated coercion normalizes crisis bargaining over trade routes."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s restraint on Taiwan can be read as strategic de-escalation that reduces immediate war risk and preserves room for bargaining with China and Iran.",
+          "mechanisms": [
+            "First, softer public language can lower the temperature in a highly escalatory rivalry. One, explicit arms-sale signaling can provoke Beijing into overreaction; two, ambiguity can buy time for backchannel diplomacy; three, avoiding maximalist rhetoric reduces the chance of accidental crisis spirals.",
+            "Second, the U.S. may be prioritizing broader strategic tradeoffs rather than a single flashpoint. This is because (1) Washington has multiple competing priorities, including trade, regional stability, and Middle East shipping security, (2) a confrontational Taiwan posture can narrow diplomatic options with China, and (3) selective restraint can keep cooperation possible on issues where China has leverage.",
+            "Third, public silence does not necessarily equal abandonment. Three reasons: one, arms sales and security support can continue through quieter channels; two, Taiwan’s defense can be strengthened without headline-grabbing commitments; three, adversaries may be uncertain enough to avoid testing U.S. resolve directly."
+          ]
+        },
+        {
+          "thesis": "China’s behavior in the Strait of Hormuz does not prove that Taiwan policy concessions will meaningfully change Beijing’s incentives.",
+          "mechanisms": [
+            "First, the strategic contexts are different. One, Hormuz is a global energy chokepoint involving multiple regional actors, while Taiwan is a sovereignty and military balance issue; two, China’s Taiwan policy is driven by domestic legitimacy and long-term reunification goals; three, lessons from one blockade scenario may not translate cleanly to another.",
+            "Second, Beijing’s calculus is shaped more by military capability than by U.S. rhetoric. This is because (1) if China believes it can win quickly, it will act regardless of tone, (2) if it lacks capability, it will stay constrained despite U.S. signaling, and (3) actual force posture matters more than verbal firmness.",
+            "Third, overemphasizing Taiwan rhetoric can crowd out more effective deterrence tools. Three reasons: one, force posture, industrial capacity, and allied coordination matter more than speeches; two, public confrontation can harden Chinese nationalism; three, quiet, material support may be more effective than symbolic signaling."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether signaling or material capability is the binding constraint on Chinese behavior. Prop wins if you think credibility is what prevents coercion in the first place; Opp wins if you think the U.S. can preserve deterrence through quieter channels while reducing escalation risk.",
+      "stock_connections": [
+        "Credibility and deterrence",
+        "Security dilemma",
+        "Alliance reassurance",
+        "Signaling theory",
+        "Escalation dominance",
+        "Maritime chokepoints",
+        "Blockade as coercion",
+        "Great power competition",
+        "Strategic ambiguity"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would publicly recommit to Taiwan arms sales",
+        "THBT the United States should prioritize deterrence over strategic ambiguity in the Taiwan Strait",
+        "THP a world where major powers avoid public concessions on Taiwan to preserve credibility",
+        "THBT states should not trade away Taiwan-related commitments for broader diplomacy with China"
+      ],
+      "data_points": [
+        "Sen. Chris Coons serves on the Senate Foreign Relations Committee and Senate Appropriations Committee",
+        "Coons said Trump went to China on \"a weaker footing\"",
+        "Coons called the administration’s silence on Taiwan arms sales a \"critical step backwards\"",
+        "Coons said China learned from the Strait of Hormuz closure that a blockade is \"an incredibly powerful tool\"",
+        "Coons said there is \"no reason\" to believe Xi Jinping will help pressure Iran to reopen the strait to other countries’ ships"
+      ]
+    },
+    {
+      "id": "4e389f18d4ca",
+      "title": "Trump-Inner-Circle Media Deals Turn Ethics Recusals Into a Soft-Power Marketplace",
+      "source": "Atlantic",
+      "url": "https://www.theatlantic.com/politics/2026/05/katie-miller-paramount-cbs-ellison/687172/?utm_source=feed",
+      "published": "2026-05-15T22:15:00Z",
+      "category": "Business",
+      "region": "United States / Washington, DC",
+      "background": "Stephen Miller, a senior White House adviser, told the White House he would recuse himself from matters involving Paramount’s bid to take control of Warner Bros. Discovery, after his wife Katie Miller had informal talks with Paramount about selling her podcast. The article says he had already recused himself from AI matters because Katie had a part-time consulting contract with xAI, and from space issues after SpaceX purchased xAI in February. Paramount’s CEO David Ellison has been seeking federal approval for the Warner deal, while Paramount previously settled Trump’s lawsuit over a 2024 60 Minutes segment for $16 million, largely to his future library.",
+      "prop_args": [
+        {
+          "thesis": "This is a textbook case for stricter conflict-of-interest rules because political access is being monetized through family ties, distorting both regulation and media markets.",
+          "mechanisms": [
+            "First, the recusals show that private business can buy indirect influence over state decisions through relatives rather than formal lobbying. This is because (1) Katie Miller’s podcast, sponsorships, and possible media sale create a commercial relationship with firms that need White House favor, (2) Stephen Miller’s portfolio touches AI, space, and merger review, so even formal recusals do not eliminate the appearance or incentive structure of access, and (3) companies can route influence through social and family networks that are harder to police than direct gifts or lobbying.",
+            "Second, the arrangement creates a market distortion where firms with the best political connections win regulatory outcomes, not the best products or prices. Three reasons: one, Paramount’s merger approval depends on federal regulators, so any perception of favoritism advantages politically connected bidders; two, rivals without White House proximity face a higher effective cost of doing business; three, once firms see that access can be packaged through podcasts, dinners, and sponsorships, they rationally spend on influence rather than innovation.",
+            "Third, this corrodes public trust in both government and media institutions, which has long-run democratic and commercial costs. This matters because (1) CBS/Paramount already looks politically captured after the $16 million Trump settlement, (2) audiences interpret editorial decisions as bargaining chips rather than journalism, and (3) when trust falls, the state loses legitimacy and media firms lose credibility, making future governance and business transactions more unstable."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The recusals are evidence that the system is working: ethics rules are forcing officials to step back, while the underlying business relationships remain ordinary and legally separable.",
+          "mechanisms": [
+            "First, formal recusals reduce the risk of direct decision-making abuse. One, Stephen Miller has publicly stepped back from Paramount, AI, and space issues, so he is not the person making the relevant calls; two, White House ethics officials are consulted, which creates institutional checks; three, the article itself says no evidence has surfaced that the Millers traded official acts for sponsor benefits.",
+            "Second, the business relationships described are common in media and political ecosystems, not proof of corruption. One, podcast sponsorships and guest booking are standard commercial practices; two, high-profile interviews with officials are valuable because of audience demand, not necessarily because of access-buying; three, media companies routinely pursue talent and content deals with politically connected figures without those deals changing regulatory outcomes.",
+            "Third, overreading these ties risks chilling legitimate participation by spouses and former officials in private-sector work. This matters because (1) spouses should not be barred from independent careers, (2) broad suspicion would make it impossible for ex-officials to work in media, consulting, or tech, and (3) the remedy for any real abuse is targeted enforcement, not assuming every proximity-based relationship is corrupt."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between appearance of influence and proven influence: the proposition wins if the round is about systemic corruption and regulatory capture, while the opposition wins if the benchmark is concrete abuse and enforceable ethics compliance. This argument wins because the article gives multiple overlapping conflicts across mergers, AI, space, and sponsorships, making the structural incentives much more important than the absence of a smoking gun.",
+      "stock_connections": [
+        "Regulatory Capture",
+        "Conflict of Interest",
+        "Crony Capitalism",
+        "State Capture",
+        "Media Capture",
+        "Soft Power",
+        "Revolving Door",
+        "Ethics in Public Office",
+        "Rent-Seeking"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would impose stricter conflict-of-interest rules on senior officials' family business dealings",
+        "THBT governments should ban senior officials from participating in decisions affecting companies that employ or sponsor their spouses",
+        "THP a world where political access cannot be monetized through media ventures"
+      ],
+      "data_points": [
+        "$16 million Paramount settlement with Trump, largely to his future library",
+        "Stephen Miller recused himself from Paramount merger issues, AI matters, and space issues",
+        "Katie Miller launched her podcast in August and has hosted Vice President Vance, Pam Bondi, Todd Blanche, RFK Jr., Kash Patel, Mike Johnson, and Pete Hegseth",
+        "Podcast sponsors named in the article include Southern Company, the American Beverage Association, Polymarket, and the Merchants Payments Coalition",
+        "Paramount is seeking federal approval for its takeover of Warner Bros. Discovery",
+        "Katie Miller had a part-time consulting contract with xAI, and SpaceX purchased xAI in February"
+      ]
+    },
+    {
+      "id": "955488e5ff74",
+      "title": "Iran Uses Property Seizures to Turn Dissent Into a Material Cost",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/15/nx-s1-5764842/iran-has-been-confiscating-property-from-critics-of-the-regime",
+      "published": "2026-05-15T22:03:07Z",
+      "category": "IR",
+      "region": "Iran",
+      "background": "Iranian authorities have begun confiscating property from people they label as dissidents, traitors, or collaborators with the \"American-Israeli terrorist enemy.\" NPR reports that more than 50 people have had property seized, including professor Ali Sharifi-Zarchi, whose apartment in Yazd province was taken after he posted on X that Supreme Leader Ali Khamenei was \"not my leader.\" The crackdown appears to extend beyond explicit political speech: two Iranians told NPR they received warnings that speaking to foreign media could also trigger confiscation, while state media has also linked seizures to public comments by singer Mohsen Yeganeh and footballer Sardar Azmoun.",
+      "prop_args": [
+        {
+          "thesis": "Property confiscation is a highly effective authoritarian tool because it raises the personal cost of dissent beyond arrest and makes opposition financially and socially unsustainable.",
+          "mechanisms": [
+            "First, it expands punishment from the activist to the activist's entire economic base. This is because (1) many dissidents have spent decades accumulating homes, savings, and business assets, (2) losing property creates long-term material ruin rather than a temporary detention, and (3) the threat reaches family members who depend on that wealth, making silence the rational choice.",
+            "Second, it creates a chilling effect far beyond the named targets. Three reasons: one, the state is using vague standards like \"collaboration\" and \"speaking to foreign media,\" two, that ambiguity makes ordinary citizens unable to know what speech is safe, and three, uncertainty is more effective than selective punishment because it forces self-censorship across journalists, academics, artists, and athletes.",
+            "Third, it helps the regime enforce loyalty cheaply and visibly. This matters because (1) confiscation can be done through courts and state media without mass deployments, (2) it signals that the state can reach even prominent figures like professors and celebrities, and (3) by converting dissent into a property crime, the regime normalizes repression while preserving the appearance of legal process."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Property seizures are a sign of regime weakness, not strength, because they expose insecurity, deepen elite alienation, and can accelerate long-term resistance.",
+          "mechanisms": [
+            "First, the policy reveals that the regime cannot rely on legitimacy and must substitute coercion. One, if a government is confident, it does not need to seize apartments over tweets, two, broad confiscations signal fear of narrative loss after protests and war, and three, visible overreach can make even apolitical citizens see the state as predatory rather than protective.",
+            "Second, it can backfire by unifying otherwise fragmented opposition. One, artists, academics, athletes, and ordinary professionals all become potential targets, two, that widens the coalition that feels personally threatened, and three, shared material victimization can convert passive critics into active dissidents or exile networks.",
+            "Third, the economic and administrative costs are not trivial. One, confiscated property is harder to monetize and manage than liquid assets, two, corruption and arbitrary enforcement create uncertainty that can deter investment and talent retention, and three, the regime may gain short-term punishment capacity while weakening the broader economy and state capacity it depends on."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion produces durable compliance or merely short-term silence. Prop wins if the question is immediate deterrence, because property loss is a uniquely severe and family-wide punishment; Opp wins if the round is about regime durability, because arbitrary confiscation can widen resentment and expose institutional insecurity.",
+      "stock_connections": [
+        "Authoritarianism",
+        "Chilling Effect",
+        "Collective Punishment",
+        "State Repression",
+        "Brain Drain",
+        "Elite Defection",
+        "Rule of Law Erosion",
+        "Democratic Backsliding"
+      ],
+      "motion_areas": [
+        "TH, as an authoritarian regime, would confiscate the property of prominent dissidents",
+        "THBT states should be allowed to seize assets from citizens who collaborate with foreign enemies",
+        "THP a world where governments can punish political speech through property confiscation"
+      ],
+      "data_points": [
+        "Iran has announced property confiscations for more than 50 people",
+        "Ali Sharifi-Zarchi said his apartment in Yazd province was taken after he tweeted that Ali Khamenei is \"not my leader\"",
+        "Two Iranians told NPR they received warnings that speaking to foreign media could lead to property confiscation",
+        "State media said singer Mohsen Yeganeh and footballer Sardar Azmoun were among those targeted",
+        "Sharifi-Zarchi said he spent 25 years saving to buy his properties"
+      ]
+    },
     {
       "id": "75bd8ee3019c",
       "title": "Pentagon Cuts Civilian-Harm Safeguards, Raising the Cost of U.S. Military Power",
