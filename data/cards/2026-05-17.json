@@ -1,7 +1,109 @@
 {
   "date": "2026-05-17",
-  "last_updated": "2026-05-17T16:05:33Z",
+  "last_updated": "2026-05-17T19:20:45Z",
   "cards": [
+    {
+      "id": "403195f7bf4f",
+      "title": "US-China Farm Trade Deal Tries to Stabilize Food Markets Amid Global Fertilizer Shock",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/us-says-china-to-buy-17-billion-of-agricultural-goods-annually",
+      "published": "2026-05-17T17:30:20Z",
+      "category": "IR",
+      "region": "US / China / Global food markets",
+      "background": "The article says the US claims China has agreed to buy $17 billion of agricultural goods annually, in the context of governments scrambling to secure crop nutrients before spring planting. The immediate backdrop is a Middle East war that is choking off commodity flows and intensifying fears of a global food crisis. The photo caption specifically notes urea and potash fertilizer being spread on a corn field in Mississippi on March 31, 2026, underscoring how exposed planting cycles are to input shortages.",
+      "prop_args": [
+        {
+          "thesis": "A large US-China agricultural purchase commitment is a useful de-escalation tool because it lowers trade uncertainty and helps prevent a food-price shock from becoming a broader geopolitical crisis.",
+          "mechanisms": [
+            "First, the deal creates a predictable demand floor for US agricultural exporters. This is because (1) farmers and agribusinesses can plan planting, storage, and logistics around a guaranteed buyer, (2) it reduces the risk premium created by tariff retaliation and sudden import bans, and (3) it stabilizes rural incomes at a moment when fertilizer and shipping disruptions are already squeezing margins.",
+            "Second, it reduces the chance that food scarcity becomes politically destabilizing. Three reasons: one, when major importers like China lock in supply, they absorb some of the global panic buying that drives up spot prices; two, lower volatility makes it easier for other states to secure grain and oilseeds without bidding against each other; three, this can blunt the cascade from commodity shock to inflation, protests, and emergency export controls.",
+            "Third, it can function as a confidence-building measure in US-China relations. This matters because a concrete commercial agreement gives both sides a low-cost way to show cooperation, creates constituencies that benefit from continued trade, and lowers the odds that the current crisis spills into broader sanctions or maritime confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The agreement is mostly symbolic and may worsen strategic dependence because it locks both sides into a fragile, politicized trade relationship without solving the underlying supply shock.",
+          "mechanisms": [
+            "First, the deal may not address the real bottleneck in food security. One, the immediate crisis is driven by fertilizer and commodity disruptions from the Middle East war, not by lack of Chinese demand; two, buying more US agricultural goods does nothing to restore potash, urea, or shipping capacity; three, if prices stay high, the headline number is more optics than relief.",
+            "Second, it deepens mutual leverage and future coercion risks. One, China becomes more dependent on US farm exports, which can be weaponized through tariffs, export controls, or sanctions; two, US producers become reliant on Chinese purchasing, making them vulnerable to Beijing’s political pressure; three, this kind of interdependence can encourage both sides to use food trade as a bargaining chip in future crises.",
+            "Third, it can distort domestic and global markets. One, guaranteed purchases may encourage overproduction or misallocation in US agriculture; two, if China is forced to buy at politically negotiated volumes, it may crowd out other suppliers and trigger retaliation from third countries; three, the deal may raise expectations that governments can paper over structural food insecurity with bilateral trade, delaying real investment in resilient supply chains."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term stabilization and long-term vulnerability. Prop wins if the round is about immediate crisis management and preventing food-price panic; opp wins if the judge prioritizes whether the deal actually fixes the supply shock or just creates a more politicized dependency.",
+      "stock_connections": [
+        "Interdependence as peace",
+        "Weaponized interdependence",
+        "Food security",
+        "Commodity shocks",
+        "Supply chain resilience",
+        "Trade dependence",
+        "Economic statecraft",
+        "Crisis bargaining"
+      ],
+      "motion_areas": [
+        "TH, as the US, would prioritize large bilateral agricultural purchase deals with China during global commodity shocks",
+        "THBT states should use trade agreements to stabilize food markets during wartime supply disruptions",
+        "THP a world where major food importers are locked into long-term bilateral purchase commitments"
+      ],
+      "data_points": [
+        "$17 billion of agricultural goods annually is the reported Chinese purchase commitment",
+        "The article links the deal to a Middle East war choking off commodity flows",
+        "The photo caption dates the fertilizer shortage context to March 31, 2026",
+        "The article specifically mentions urea and potash fertilizer, two critical crop nutrients",
+        "Spring planting is the immediate seasonal pressure point mentioned in the text"
+      ]
+    },
+    {
+      "id": "ccc25eb45771",
+      "title": "Persistent Inflation and Trade-War Risks Make Fed Rate Cuts Politically and Economically Constrained",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/gundlach-says-it-s-just-not-possible-for-the-fed-to-cut-rates",
+      "published": "2026-05-17T16:26:20Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The article centers on Jeffrey Gundlach, CEO and CIO of DoubleLine Group, arguing that it is “just not possible” for the Federal Reserve to cut interest rates. The context is a US economy facing trade-war pressures, persistent inflation, and growing concern about a slowdown in the world’s largest economy. The piece is framed around the Bloomberg Global Credit Forum in Los Angeles, where market participants were assessing whether the Fed could ease policy without reigniting inflation.",
+      "prop_args": [
+        {
+          "thesis": "The Fed should keep rates higher for longer because cutting too early would re-accelerate inflation and damage credibility.",
+          "mechanisms": [
+            "First, rate cuts would loosen financial conditions before inflation is fully contained. This is because (1) cheaper credit boosts consumption and asset prices, (2) firms regain pricing power when demand stays resilient, and (3) the Fed then has to reverse course later, which is more disruptive than waiting.",
+            "Second, cutting rates in a trade-war environment risks importing more inflation through supply chains. Three reasons: one, tariffs raise input costs directly; two, firms pass those costs on when demand is supported by easier money; three, households face a second-round inflation shock that is harder to unwind than a temporary slowdown.",
+            "Third, the Fed’s credibility is a core asset and premature easing would signal it is willing to tolerate above-target inflation. This matters because markets then price in higher long-run inflation expectations, which raises borrowing costs anyway and makes future stabilization more expensive."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Fed should cut rates because the bigger risk is a slowdown or recession, and monetary policy should cushion demand before labor-market weakness becomes entrenched.",
+          "mechanisms": [
+            "First, high rates can overshoot and choke off investment and hiring. One, firms delay capex when financing costs stay elevated; two, consumers pull back on big-ticket purchases; three, the slowdown feeds on itself through weaker income growth and lower confidence.",
+            "Second, the Fed can look through supply-driven inflation if underlying demand is weakening. One, tariff-driven price spikes are not the same as broad demand inflation; two, keeping rates too high punishes rate-sensitive sectors like housing and small business lending; three, the central bank should avoid causing unnecessary unemployment to fight shocks it cannot directly fix."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether inflation persistence or recession risk is the binding constraint. Proponents of holding rates higher have a structural advantage if inflation expectations are still fragile, because the Fed can always cut later but cannot easily restore lost credibility once markets believe it will tolerate inflation.",
+      "stock_connections": [
+        "Inflation Expectations",
+        "Credibility of Central Banks",
+        "Phillips Curve",
+        "Trade War / Tariff Inflation",
+        "Monetary Policy Transmission",
+        "Recession Prevention",
+        "Soft Landing vs Hard Landing"
+      ],
+      "motion_areas": [
+        "TH, as the Federal Reserve, would keep interest rates higher for longer",
+        "THBT central banks should prioritize inflation control over growth when both are in tension",
+        "THP a world where the Fed is less willing to cut rates in response to slowing growth"
+      ],
+      "data_points": [
+        "Jeffrey Gundlach is chief executive officer and chief investment officer of DoubleLine Group",
+        "The statement was made at the Bloomberg Global Credit Forum in Los Angeles",
+        "The article explicitly cites trade wars, persistent inflation, and slowdown concerns in the world's largest economy"
+      ]
+    },
     {
       "id": "fa57f524e95e",
       "title": "Cambridge Training Deal Risks Laundering Saudi Repression Through Elite Academic Prestige",
