@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "last_updated": "2026-05-14T17:10:11Z",
+  "last_updated": "2026-05-17T08:32:54Z",
   "cards": [
     {
       "id": "b0d2e93857bf",
@@ -353,6 +353,63 @@
         "US President Donald Trump traveled to Beijing on 13 May 2026 to meet Chinese President Xi Jinping",
         "The BBC episode explicitly describes the US and China as 'the world's two biggest economies'",
         "A prior Trump-Xi handshake took place in Busan, South Korea on 30 October 2025"
+      ]
+    },
+    {
+      "id": "a21c29331049",
+      "title": "Great-Power Rivalry, Arctic Militarisation and Cultural Boycotts Turn Soft Power Forums Into Geopolitical Battlegrounds",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-13T23:01:00Z",
+      "category": "IR",
+      "region": "China / Canada (Arctic) / Venice-Italy / Sierra Leone / Russia / Israel / United States",
+      "background": "BBC World Service's 'The Food Chain' episode on 13 May 2026 covered several geopolitically relevant stories. In Beijing, Donald Trump was welcomed with parades, red carpets and singing children as the programme asked what progress was made in China-US relations after a frosty period. In Canada's far north, Ottawa is investing new technology, including AI-powered robots, to patrol an Arctic frontier where land and sea are hard to distinguish. The Venice Biennale has also been hit by political disputes over the participation of Russia and Israel, while Sierra Leone's first lady Fatima Bio was profiled during a high-profile upcountry journey from Freetown to her family farm.",
+      "prop_args": [
+        {
+          "thesis": "States are increasingly forced to convert cultural, technological and symbolic spaces into instruments of hard power because traditional diplomacy and territorial control are no longer sufficient to manage rivalry.",
+          "mechanisms": [
+            "First, symbolic diplomacy becomes a substitute battleground when direct cooperation is limited. This is because (1) state visits like Trump's Beijing trip are choreographed to signal hierarchy and legitimacy, (2) cultural events like the Venice Biennale become arenas for exclusion and recognition, and (3) these gestures shape domestic narratives about who is winning without requiring formal treaties.",
+            "Second, frontier security now depends on expensive technological escalation rather than simple border posts. Three reasons: one, the Canadian Arctic is too vast and cold for conventional policing, two, AI-enabled robots and surveillance systems reduce the manpower problem and extend state reach, and three, once one state modernises its frontier, rivals are pressured to match that capability to avoid strategic surprise.",
+            "Third, this shift strengthens deterrence and state capacity in contested regions. This matters because it raises the cost of opportunistic incursions, makes sovereignty more credible in remote areas, and allows governments to project presence where geography would otherwise create a security vacuum."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "These developments show the limits of militarised and symbolic responses: they are expensive, politically polarising, and often fail to solve the underlying causes of interstate tension.",
+          "mechanisms": [
+            "First, technology-heavy border defence can be inefficient and brittle. One, AI robots and remote systems are costly to deploy and maintain in extreme environments, two, they can create false confidence if states overestimate what automation can detect, and three, they do little to address the root causes of conflict such as sovereignty disputes or climate-driven access to the Arctic.",
+            "Second, politicising cultural institutions backfires by deepening bloc politics. One, excluding Russia or Israel from venues like the Biennale turns art into a proxy for geopolitical grievance, two, it reduces space for dialogue and confidence-building, and three, it encourages reciprocal boycotts that fragment global institutions rather than stabilise them.",
+            "Third, performative diplomacy can mask real deterioration in relations. One, red carpets and public ceremonies may create the appearance of progress without substantive concessions, two, leaders can use these events for domestic propaganda rather than compromise, and three, this makes future negotiations harder because expectations are inflated while trust remains low."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether these responses actually improve security or merely symbolise it. Prop wins if the round is about state capacity and deterrence in a fragmented world; opp wins if the focus is on cost, escalation and the failure of performative diplomacy to resolve underlying disputes.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Militarisation",
+        "Soft Power",
+        "Symbolic Politics",
+        "Arms Race",
+        "State Capacity",
+        "Proxy Conflict",
+        "Boycott Politics",
+        "Technological Surveillance",
+        "Sovereignty"
+      ],
+      "motion_areas": [
+        "TH, as Canada, would heavily militarise and automate Arctic border defence",
+        "THBT international cultural institutions should exclude states engaged in active wars or occupation",
+        "THP a world where great-power diplomacy is increasingly conducted through symbolic and cultural forums rather than formal treaties",
+        "THBT states should prioritise technological surveillance over human patrols in remote border regions",
+        "THBT soft power events do more harm than good in periods of geopolitical tension"
+      ],
+      "data_points": [
+        "Donald Trump was welcomed in Beijing with parades, red carpets and singing children on 14 May 2026",
+        "Canada's far north is described as so vast and so cold that it is hard to tell land from sea",
+        "Canada is pouring new investment and technology into defending its Arctic frontier, including AI-powered robots",
+        "The Venice Biennale has been beset by rancorous politics over the involvement of Russia and Israel",
+        "The programme also covered Sierra Leone's first lady Fatima Bio and her journey from Freetown to her family farm"
       ]
     },
     {

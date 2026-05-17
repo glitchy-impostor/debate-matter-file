@@ -1,7 +1,513 @@
 {
   "date": "2026-05-17",
-  "last_updated": "2026-05-17T04:08:03Z",
+  "last_updated": "2026-05-17T08:32:54Z",
   "cards": [
+    {
+      "id": "e4b53d79d6d8",
+      "title": "Labour’s Post-Local Election Crisis Exposes the Tension Between Westminster Instability and Policy Delivery",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/17/labour-leadership-keir-starmer-andy-burnham-wes-streeting-uk-politics-live",
+      "published": "2026-05-17T08:11:25Z",
+      "category": "IR",
+      "region": "UK",
+      "background": "On 17 May 2026, senior Labour minister Lisa Nandy publicly dismissed speculation that Keir Starmer could face a leadership challenge after poor local election results, calling the chatter “froth and nonsense.” She said no one had yet triggered the formal process for a contest, and insisted Starmer would still be in office by the school summer holidays. The same interviews also featured Nandy defending Andy Burnham’s return to Westminster via a Makerfield by-election, while criticising Wes Streeting’s call to rejoin the EU as “a bit odd.”",
+      "prop_args": [
+        {
+          "thesis": "Labour should shut down leadership speculation and force the party back onto delivery, because internal instability is now the bigger electoral threat than any single policy disagreement.",
+          "mechanisms": [
+            "First, leadership drama crowds out policy ownership. This is because (1) voters who just punished Labour in local elections are signalling dissatisfaction with living standards and public services, (2) Westminster infighting makes the party look self-absorbed rather than responsive, and (3) every day spent on succession talk is a day not spent selling a governing plan.",
+            "Second, a rapid return to discipline protects Labour’s coalition. Three reasons: one, different factions can tolerate ambiguity around Starmer better than they can tolerate a public civil war; two, marginal voters in Leave-leaning and northern seats are more likely to punish chaos than they are to reward ideological repositioning; three, the party needs to avoid validating the idea that it is run by London insiders detached from ordinary concerns.",
+            "Third, suppressing a leadership contest preserves governing capacity. This matters because (1) markets, civil servants, and international partners need a stable interlocutor, (2) a contest would freeze decision-making and encourage ministerial freelancing, and (3) Labour can only recover from the local election backlash if it can credibly implement visible improvements before the next national test."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The leadership crisis is a symptom of deeper strategic failure, so Labour needs a reset at the top to regain credibility and reconnect with voters.",
+          "mechanisms": [
+            "First, a new leader can reset the party’s brand. One, Starmer is now associated with drift and disappointment after the local election losses; two, a contest forces Labour to confront whether its current message is actually resonating; three, a fresh figure can re-energise activists and voters who have tuned out.",
+            "Second, internal challenge can improve policy quality. One, the current leadership has been too cautious and managerial, which leaves Labour vulnerable on both the left and the right; two, figures like Burnham or Streeting represent alternative governing styles that may better match the electorate’s demand for urgency; three, open contestation can force the party to clarify its economic and constitutional offer instead of hiding behind unity slogans."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether instability is a temporary distraction or evidence of terminal decline. Prop wins if voters primarily punish visible chaos and reward competence, but Opp wins if the local election results show the current leadership has already lost legitimacy and only a reset can restore trust.",
+      "stock_connections": [
+        "Party Unity",
+        "Leadership Legitimacy",
+        "Electoral Backlash",
+        "Populist Re-alignment",
+        "Urban-Rural Divide",
+        "Centre-Left Identity Crisis",
+        "Policy vs Personality",
+        "Anti-Establishment Sentiment"
+      ],
+      "motion_areas": [
+        "TH, as Labour, would suppress leadership challenges after a poor local election result",
+        "THBT opposition parties should prioritise unity over leadership renewal after electoral setbacks",
+        "THP a world where major parties cannot trigger leadership contests immediately after local election losses"
+      ],
+      "data_points": [
+        "Lisa Nandy said Starmer would not have resigned by the school summer holidays",
+        "No leadership challenge had been formally triggered at the time of the interview",
+        "Labour lost 25 out of 25 wards in parts of Nandy’s area, according to her remarks",
+        "Makerfield by-election was triggered by Andy Burnham’s decision to stand as an MP",
+        "Burnham had won every ward in Makerfield every time he stood for mayor, according to Nandy",
+        "Nandy said voters who had abandoned Labour last week told her they would vote Labour again because of Burnham"
+      ]
+    },
+    {
+      "id": "248ded4e26c1",
+      "title": "Britain’s Vape Waste Surge Exposes the Limits of Ban-First Regulation",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/17/disposable-vapes-suez-uk",
+      "published": "2026-05-17T08:00:33Z",
+      "category": "Econ",
+      "region": "UK",
+      "background": "Single-use vapes were banned in the UK in June 2025, but waste firms say more than 6 million vapes and vape pods are still being discarded every week. At Suez’s UK sites in 2025, there were 670 fires, with 368 confirmed to be caused by batteries or vapes and 176 more suspected to be linked. Industry figures say the sector is spending or needs to spend around £1bn a year dealing with the problem, while retailers are now required to provide recycling bins and the government says there are 10,500 takeback bins on UK high streets.",
+      "prop_args": [
+        {
+          "thesis": "The UK should move from a simple disposal ban to producer-funded takeback and deposit systems, because only direct financial incentives can change behaviour at the scale this waste stream requires.",
+          "mechanisms": [
+            "First, a deposit-return or handling-fee system changes consumer incentives at the point of disposal. This is because (1) vapes are cheap, frequent-purchase items, so people do not treat them as durable goods; (2) a £1-£2 return or a built-in £5 handling cost creates a visible payoff for returning them; (3) that shifts disposal from general waste into dedicated collection points, which is where the safety risk is actually managed.",
+            "Second, producer responsibility internalises the real cost of the product. Three reasons: one, the current system externalises fire risk onto recyclers, local authorities, and insurers; two, hidden lithium-ion batteries make each unit a hazardous waste item, so the social cost is far above the retail price; three, forcing manufacturers and importers to pay makes them redesign products, fund takeback, and support safer packaging and labelling.",
+            "Third, this is a public-safety and infrastructure argument, not just an environmental one. This matters because (1) 670 fires at Suez sites in 2025 show the scale of operational disruption; (2) 368 confirmed battery/vape fires plus 176 suspected means the risk is already embedded in the waste system; (3) reducing fire incidence protects workers, prevents facility shutdowns, and avoids multi-million-pound asset losses like the £20m Aberdeen blaze."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The UK should focus on enforcement, retailer takeback, and consumer education rather than new deposit schemes, because the core problem is compliance and disposal behaviour, not the absence of a market mechanism.",
+          "mechanisms": [
+            "First, the existing regulatory architecture is underused rather than absent. One, retailers already have a statutory duty to accept returns; two, there are already 10,500 takeback bins on UK high streets; three, the government can scale enforcement through Trading Standards and local authorities without creating a new nationwide deposit bureaucracy.",
+            "Second, a deposit system may be inefficient and regressive. One, it adds transaction costs to a low-value consumer product and may disproportionately burden lower-income users who are more price-sensitive; two, many vapes are bought informally or online, making deposits harder to administer and easier to evade; three, if the devices are already being discarded in huge volumes, a deposit may not overcome convenience-driven disposal habits enough to justify the administrative cost.",
+            "Third, the ban itself may already be doing most of the work by shrinking the most problematic segment. One, disposable vapes were banned in June 2025, so the policy direction is already toward reduction; two, the market is shifting toward rechargeable devices, which are less immediately disposable and may be used longer; three, the state should avoid overcorrecting with heavy-handed producer levies that could entrench black markets or push consumption into less regulated channels."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the problem is fundamentally one of incentives or enforcement. Prop wins if the judge believes the scale of 6 million units a week and 670 annual fires means only a price-based system can change mass behaviour; opp wins if they frame this as a compliance gap that can be fixed more cheaply through existing collection infrastructure and enforcement.",
+      "stock_connections": [
+        "Externalities",
+        "Pigouvian taxation",
+        "Producer responsibility",
+        "Moral hazard",
+        "Regulatory capture",
+        "Public goods underprovision",
+        "Behavioural incentives",
+        "Environmental regulation",
+        "Waste management externalities"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would introduce a deposit return scheme for vapes",
+        "THBT producers of hazardous consumer goods should bear the full cost of end-of-life disposal",
+        "THP a world where disposable nicotine products are taxed to fund recycling and fire prevention",
+        "TH, as a regulator, would require handling fees on all battery-containing consumer products"
+      ],
+      "data_points": [
+        "More than 6 million vapes and vape pods are still discarded every week in the UK",
+        "Single-use vapes were banned in June 2025",
+        "Suez recorded 670 fires at its UK sites in 2025",
+        "368 of those fires were confirmed to be caused by batteries or vapes, with 176 more suspected",
+        "Suez estimates around £1 billion a year is being spent or needs to be spent dealing with the issue across the sector",
+        "A major Aberdeen waste-site fire four years ago destroyed a facility and wiped out £20 million of investment",
+        "Suez says a deposit return of £1-£2 could cut vape fire risk by 70-90%",
+        "The UK government says there are 10,500 vape takeback bins on high streets"
+      ]
+    },
+    {
+      "id": "1282745fe51b",
+      "title": "India’s Semiconductor Push Gains Western Tech Backing, But Deepens Strategic Dependence on Foreign Chip Tools",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss",
+      "published": "2026-05-17T07:24:21Z",
+      "category": "Business",
+      "region": "India (Gujarat/Dholera) / Netherlands / EU",
+      "background": "India’s Tata Electronics has signed a deal with Dutch semiconductor equipment giant ASML to support a major chip plant in Dholera, Gujarat. Tata says it will invest $11bn in the facility, which is expected to make chips for AI, automotive, and other sectors, while ASML will supply advanced lithography tools needed to ramp up production. The announcement came during Prime Minister Narendra Modi’s visit to the Netherlands, where he also discussed defence, security, space, maritime systems, and more flexible visas for Indian students and workers.",
+      "prop_args": [
+        {
+          "thesis": "The Tata-ASML deal is a necessary industrial policy win that helps India move up the semiconductor value chain and reduce dependence on imported chips.",
+          "mechanisms": [
+            "First, it gives India access to the single most important bottleneck in chip manufacturing: advanced lithography equipment. This is because (1) ASML is Europe’s largest technology company and the dominant supplier of cutting-edge lithography tools, (2) without these machines India cannot credibly produce high-end chips at scale, and (3) access to the toolmaker accelerates learning-by-doing rather than forcing India to reinvent the entire stack.",
+            "Second, it crowds in capital and ecosystem development around a flagship plant. Three reasons: one, Tata’s $11bn investment is large enough to anchor suppliers, logistics, and skilled labor; two, locating the plant in Dholera creates a regional industrial cluster rather than a one-off factory; three, semiconductor projects generate spillovers into precision engineering, clean rooms, and advanced manufacturing that can upgrade the broader economy.",
+            "Third, it improves India’s strategic autonomy in a world where chips are now a national security input. This matters because (1) chips are essential for AI, cars, telecoms, and defence systems, (2) supply shocks from Taiwan, China, or US export controls can cripple downstream industries, and (3) building domestic capacity gives India leverage in future trade and security negotiations."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The deal mainly locks India into a dependent, expensive, and politically vulnerable semiconductor model that benefits foreign incumbents more than domestic capability.",
+          "mechanisms": [
+            "First, India remains dependent on foreign choke-point suppliers rather than building true self-sufficiency. One, ASML controls the critical lithography layer, so India’s production still hinges on Dutch and broader Western export regimes; two, that means any geopolitical restriction, licensing delay, or sanctions pressure can halt expansion; three, the deal entrenches a buyer-supplier relationship instead of indigenous technological mastery.",
+            "Second, the economics of semiconductor industrial policy are highly risky and prone to white-elephant outcomes. One, the upfront cost is enormous at $11bn before accounting for subsidies, infrastructure, and energy; two, chip fabs require constant upgrades, so today’s plant can become obsolete quickly; three, if India cannot match East Asian scale, talent, and supplier networks, the project may generate prestige but weak returns.",
+            "Third, the deal can widen inequality and distort domestic policy priorities. One, semiconductor clusters create concentrated gains for a few states and large firms like Tata while offering limited mass employment relative to the subsidy bill; two, governments may overfocus on headline manufacturing wins instead of broader education, logistics, and SME upgrading; three, this can become a politically attractive but economically narrow model of development."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether access to ASML is a stepping stone to capability or a permanent dependency on foreign bottlenecks. Prop wins if the round is about strategic industrial upgrading and supply-chain resilience; opp wins if the focus is on whether India can realistically escape the global semiconductor hierarchy without absorbing huge fiscal and geopolitical risk.",
+      "stock_connections": [
+        "Dependency Theory",
+        "Import Substitution Industrialization",
+        "Strategic Autonomy",
+        "Race to the Bottom",
+        "Industrial Policy",
+        "White Elephant Projects",
+        "Technological Dependence",
+        "Supply Chain Resilience"
+      ],
+      "motion_areas": [
+        "TH, as India, would prioritize foreign partnerships to build domestic semiconductor capacity",
+        "THBT developing nations should pursue state-backed semiconductor industrial policy",
+        "THP a world where critical chipmaking equipment is controlled by a small number of allied democracies",
+        "TH, as the EU, would deepen technology partnerships with India to reduce dependence on China"
+      ],
+      "data_points": [
+        "$11bn Tata investment in the Dholera semiconductor facility",
+        "ASML is Europe’s largest technology company by market value",
+        "ASML supplies advanced lithography machines used to produce high-end microchips",
+        "The plant is expected to manufacture chips for AI, the automotive industry, and other sectors",
+        "Modi said talks with the Dutch PM also covered defence and security, space travel, maritime systems, and maritime security",
+        "India is the world’s most populous country and one of the fastest-growing major economies"
+      ]
+    },
+    {
+      "id": "51f333f12da3",
+      "title": "Ukraine’s Deep-Strike Drone Campaign Turns Russia’s Home Front Into a War Zone",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-17T07:21:03Z",
+      "category": "IR",
+      "region": "Russia (Moscow region, Moscow) and Ukraine (Dnipropetrovsk region)",
+      "background": "Russia said Ukraine launched a large-scale overnight drone attack on the Moscow region, killing three people and injuring at least 12 in strikes including one on a city oil refinery. Russian officials said 556 drones were intercepted, while Sheremetyevo Airport reported drone wreckage on its territory but no injuries. In Ukraine, Russian drone and shelling attacks injured eight people in the Dnipropetrovsk region, and Ukraine’s air force said Russia launched 287 drones overnight, 279 of which were shot down or intercepted.",
+      "prop_args": [
+        {
+          "thesis": "Ukraine’s deep-strike drone campaign is a rational escalation that raises the cost of occupation and weakens Russia’s ability to sustain the war.",
+          "mechanisms": [
+            "First, it imposes direct material costs on Russia’s war machine. This is because (1) strikes on oil refineries, logistics nodes, and military equipment force Russia to spend scarce air-defense resources on domestic protection, (2) repeated damage to energy infrastructure disrupts fuel processing and transport that the military depends on, and (3) every successful hit creates repair, insurance, and security costs that compound over time.",
+            "Second, it shifts the war onto Russian territory and erodes the political bargain that Putin relies on. Three reasons: one, civilians in Moscow and surrounding regions now experience the war as personal insecurity rather than distant news; two, airport disruption and refinery strikes signal that the state cannot fully protect core infrastructure; three, visible vulnerability undermines the regime’s narrative of control and competence.",
+            "Third, it improves Ukraine’s bargaining position by demonstrating reach and persistence. This matters because if Russia must defend its rear areas, it has fewer resources for the front, and if elites believe the war is becoming costlier at home than abroad, pressure grows for concessions, de-escalation, or at minimum a more defensive Russian posture."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Long-range drone strikes are strategically limited and risk backfiring by hardening Russian resolve while escalating civilian harm.",
+          "mechanisms": [
+            "First, the military payoff is capped because drones are easier to intercept than they are decisive. One, Russia claimed 556 drones were intercepted, suggesting a large share of attacks fail to produce strategic damage; two, even when strikes land, they usually cause localized disruption rather than battlefield collapse; three, Russia can adapt by dispersing assets, hardening infrastructure, and expanding air defenses.",
+            "Second, the campaign can strengthen Russian domestic support for the war. One, civilian deaths in Moscow region and refinery strikes allow the Kremlin to frame Ukraine as a terrorist threat; two, fear and nationalism often rally populations around the flag during external attacks; three, this helps Putin justify further mobilization, repression, and escalation.",
+            "Third, it increases the risk of retaliation against Ukrainian civilians and infrastructure. One, Russia can answer with more drone and missile attacks on cities like Dnipro and Zaporizhzhia; two, escalation may normalize attacks on non-military targets on both sides; three, if the conflict becomes more punitive for civilians, Ukraine may lose international sympathy and face pressure to restrain its own operations."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether deep strikes meaningfully degrade Russia’s war capacity or mainly create symbolic disruption and escalation. Prop wins if the round prioritizes cumulative military attrition and coercive pressure; Opp wins if the judge thinks Russia can absorb the damage, exploit the propaganda value, and retaliate harder against Ukrainian civilians.",
+      "stock_connections": [
+        "Asymmetric warfare",
+        "Escalation ladder",
+        "Civilian-military target distinction",
+        "Deterrence by punishment",
+        "War of attrition",
+        "Rally-around-the-flag",
+        "Home front resilience",
+        "Strategic bombing"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would prioritize deep-strike drone campaigns against Russian territory",
+        "THBT states under invasion should expand attacks on the aggressor’s domestic infrastructure",
+        "THP a world where weaker states can routinely strike the rear areas of stronger invading powers"
+      ],
+      "data_points": [
+        "Russia said 556 drones were intercepted in one overnight attack",
+        "Moscow Mayor Sergei Sobyanin said 12 people were injured in strikes on a city oil refinery",
+        "Three people were killed in the Moscow region, including one in Khimki and two in Pogorelki",
+        "Sheremetyevo Airport reported drone wreckage on its territory but no injuries",
+        "Ukraine’s air force said Russia launched 287 drones overnight, with 279 shot down or intercepted and 8 direct hits in 7 locations",
+        "Russia currently controls about 20% of Ukrainian territory"
+      ]
+    },
+    {
+      "id": "b59f860751cd",
+      "title": "London’s Living-Cost Crisis Exposes the Tradeoff Between Welfare Expansion, Small-Business Stability, and Fiscal Devolution",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy2pz95ql1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-17T07:08:41Z",
+      "category": "Econ",
+      "region": "United Kingdom / London",
+      "background": "BBC London spoke to three groups about priorities for Prime Minister Keir Starmer, or his successor, on improving life in the capital. Little Village, a charity supporting families with essentials, urged ministers to go beyond Labour’s decision to scrap the two-child benefit cap and also remove the benefit cap and reform the local housing allowance, citing severe housing stress, overcrowding, mould and damp. The London Chamber of Commerce, representing 12,000 businesses, said small firms need certainty on tax, business rates and regulation. Centre for London argued the capital is constrained by weak fiscal devolution, noting that the London mayor directly raises only around 7% of the budget compared with about 70% in New York.",
+      "prop_args": [
+        {
+          "thesis": "The PM should prioritize aggressive redistribution and housing support in London because the capital’s cost-of-living crisis is now a direct driver of child poverty, health harm, and long-run productivity loss.",
+          "mechanisms": [
+            "First, scrapping the benefit cap and strengthening local housing allowance would immediately raise disposable income for the poorest families. This is because (1) the current cap forces low-income households to absorb rent shocks by cutting food, clothing, and essentials, (2) London rents are so high that capped benefits often fail to cover even basic accommodation, and (3) cash transfers are fast-acting, so they reduce deprivation before children fall into deeper poverty.",
+            "Second, housing support has compounding effects on health and education. Three reasons: one, overcrowding and damp increase respiratory illness and other health costs; two, unstable housing disrupts school attendance and homework conditions; three, families spending less on emergency replacements for damaged goods can redirect money to children’s development.",
+            "Third, this is economically efficient because reducing child poverty lowers future public spending and improves labor-market outcomes. This matters because the biggest delta is not just present welfare but lifetime earnings, tax receipts, and reduced NHS/social-service pressure, meaning the state recoups part of the upfront cost over time."
+          ]
+        },
+        {
+          "thesis": "The PM should give London greater fiscal autonomy because the capital is underpowered relative to its economic importance and could deliver better services with more local control over revenue.",
+          "mechanisms": [
+            "First, fiscal devolution improves policy responsiveness. This is because (1) London’s housing, transport, and business environment differ sharply from the rest of the UK, (2) a mayor who can raise and spend more directly can target bottlenecks faster than Whitehall, and (3) local accountability makes it easier to align taxes with visible service improvements.",
+            "Second, stronger local revenue powers can unlock investment and planning capacity. Three reasons: one, predictable local funding reduces dependence on central grants; two, it allows multi-year infrastructure planning; three, it can support place-based growth policies that raise productivity in the capital and spill over to the rest of the country.",
+            "Third, this matters because London is a net contributor and currently sends more to the Treasury than it receives back. That creates a fairness and efficiency case for letting the city retain more of the value it generates, which can then be reinvested into the services and infrastructure that keep the capital competitive."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The PM should avoid large new welfare or devolution commitments because London’s main problem is not a lack of spending power but a weak business climate and policy uncertainty.",
+          "mechanisms": [
+            "First, higher taxes or expanded entitlements can deter small-business growth. One, London’s small firms already face thin margins and high fixed costs; two, uncertainty over business rates and taxation discourages hiring and investment; three, if firms scale back, job creation falls and low-income Londoners are hurt anyway.",
+            "Second, fiscal devolution can worsen inequality and fragmentation. One, richer areas like London are better positioned to raise revenue than poorer regions, so autonomy can entrench regional divergence; two, local leaders may prioritize visible urban projects over redistributive needs; three, weaker central pooling undermines national solidarity and equalization.",
+            "Third, the state should focus on supply-side reforms rather than cash transfers. This matters because if housing shortages, planning constraints, and regulatory burdens remain untouched, extra benefits mostly get capitalized into rents, while business uncertainty continues to suppress the growth needed to sustainably improve living standards."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether London’s crisis is primarily a distribution problem or a growth-and-governance problem. Prop wins if the round is about immediate harm to children and low-income households; opp wins if they prove that more spending without supply-side reform just raises rents and taxes while leaving the underlying cost structure unchanged.",
+      "stock_connections": [
+        "Poverty Traps",
+        "Welfare State Expansion",
+        "Cost of Living Crisis",
+        "Housing Shortage",
+        "Local Government Devolution",
+        "Fiscal Federalism",
+        "Crowding Out",
+        "Business Confidence",
+        "Regional Inequality",
+        "Trickle-Down Economics"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would scrap the benefit cap and expand housing support in London",
+        "THBT major cities should have greater fiscal devolution",
+        "TH, as the Labour government, would prioritize welfare expansion over business tax cuts to improve urban living standards",
+        "THP a world where London’s mayor directly raises most of the city’s budget"
+      ],
+      "data_points": [
+        "Labour has already scrapped the two-child benefit cap, but campaigners want further action on the benefit cap and local housing allowance",
+        "Little Village says families are facing situations like 'a whole family of five in one room'",
+        "The London Chamber of Commerce represents 12,000 businesses",
+        "Centre for London says the London mayor directly raises around 7% of the budget",
+        "Centre for London compares London with New York, where the mayor reportedly retains 70% of the budget",
+        "London and the wider southeast are described as net contributors to the Treasury"
+      ]
+    },
+    {
+      "id": "d28f7abfb30f",
+      "title": "Ebola Spillover in Eastern Congo Exposes the Limits of Fragile Health Systems and Borderless Disease Control",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-17T07:08:26Z",
+      "category": "IR",
+      "region": "Democratic Republic of Congo (Ituri, Kinshasa) / Uganda / Great Lakes region",
+      "background": "The WHO has declared the Ebola outbreak in DR Congo a public health emergency of international concern. The outbreak is centered in eastern Ituri province, with around 246 suspected cases and 80 deaths reported, and there are now eight laboratory-confirmed cases across three health zones including Bunia, Mongwalu, and Rwampara. One case has been confirmed in Kinshasa, and two confirmed cases have been reported in neighboring Uganda; the WHO says the current strain is Bundibugyo virus, for which there are no approved drugs or vaccines.",
+      "prop_args": [
+        {
+          "thesis": "A WHO emergency declaration is necessary because early, coordinated international intervention is the only way to stop a fragile, cross-border outbreak from becoming a much larger regional crisis.",
+          "mechanisms": [
+            "First, the declaration improves speed and coordination. This is because (1) it triggers emergency operation centers, surveillance, tracing, and infection-prevention protocols across DR Congo and Uganda, (2) it gives governments and donors a common risk signal that unlocks funding and logistics, and (3) it reduces the delay caused by fragmented local reporting in a conflict-affected area.",
+            "Second, it helps contain spread before the outbreak becomes self-sustaining in urban and mobile populations. Three reasons: one, the hotspot includes Bunia and mining towns like Mongwalu and Rwampara where population movement is high; two, one case has already reached Kinshasa, showing geographic spillover; three, border regions with trade and travel links create multiple transmission corridors that local authorities cannot seal alone.",
+            "Third, the declaration is justified because the downside risk is enormous relative to the cost of intervention. This matters because Ebola has an average fatality rate of around 50%, there is no proven cure, and the DRC has already suffered 17 outbreaks, including nearly 2,300 deaths in 2018-2020, so even a modest delay can translate into large mortality and regional instability."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Global emergency declarations can be counterproductive because they may overstate risk, trigger fear-based responses, and impose economic and political costs that do not match the actual epidemiological situation.",
+          "mechanisms": [
+            "First, the declaration can incentivize panic rather than precision. One, the WHO itself says this does not meet the criteria of a pandemic emergency, so the label may be interpreted more dramatically than the facts justify; two, countries outside the affected region may still impose travel or trade restrictions despite WHO advice, hurting commerce and mobility; three, fear-driven responses can reduce trust in public health messaging and make communities less willing to report symptoms or cooperate with tracing.",
+            "Second, emergency framing can distort resource allocation and governance. One, international attention often crowds out other urgent health needs in DR Congo, where a humanitarian crisis and weak health infrastructure already exist; two, donor and media focus on Ebola can pull staff and funds away from routine care, worsening overall mortality; three, heavy external intervention can weaken local ownership and create dependency on short-term crisis management instead of durable health-system investment.",
+            "Third, the declaration may not solve the core problem if insecurity and informal healthcare are the real drivers. One, the WHO identifies ongoing security problems, high population mobility, and many informal facilities as the main spread risks; two, these are structural governance issues that a declaration cannot fix; three, without local legitimacy and access, surveillance and isolation measures may remain incomplete regardless of the emergency status."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the declaration changes outcomes faster than it creates panic and distortion. Prop wins if you prioritize downside risk and the need for rapid coordination in a cross-border outbreak; Opp wins if you think the label is mostly symbolic and that the real bottlenecks are insecurity, trust, and health-system capacity rather than international alert status.",
+      "stock_connections": [
+        "Global public goods",
+        "Collective action problem",
+        "Health security",
+        "Panic politics",
+        "State capacity",
+        "Humanitarian intervention",
+        "Information asymmetry",
+        "Border externalities",
+        "Dependency theory"
+      ],
+      "motion_areas": [
+        "TH, as the WHO, would declare public health emergencies earlier and more aggressively",
+        "THBT international organizations should prioritize rapid emergency declarations over avoiding panic",
+        "THP a world where cross-border disease outbreaks trigger automatic regional coordination mechanisms",
+        "THBT developing states should accept temporary external health oversight during epidemic outbreaks"
+      ],
+      "data_points": [
+        "Around 246 suspected Ebola cases and 80 deaths reported in Ituri province",
+        "Eight laboratory-confirmed cases across three health zones including Bunia, Mongwalu, and Rwampara",
+        "One confirmed case in Kinshasa, believed to be a patient returning from Ituri",
+        "Two confirmed cases reported in neighboring Uganda",
+        "Bundibugyo virus has no approved drugs or vaccines",
+        "Average Ebola fatality rate is around 50% according to WHO",
+        "DR Congo’s deadliest outbreak (2018-2020) killed nearly 2,300 people",
+        "This is the 17th Ebola outbreak in DR Congo",
+        "Around 15,000 people have died from Ebola in African countries over the past 50 years",
+        "WHO says countries outside the affected region should not close borders or restrict travel and trade"
+      ]
+    },
+    {
+      "id": "d971eda7ebd3",
+      "title": "Government Justification of Palestine Action Ban Exposes Tension Between Counterterrorism Messaging and Fair-Trial Rights",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/17/yvette-cooper-palestine-action-article-despite-cps-warning-trial",
+      "published": "2026-05-17T07:00:32Z",
+      "category": "IR",
+      "region": "UK / Israel-Palestinian territories",
+      "background": "The Guardian reports that then-home secretary Yvette Cooper wrote an Observer column on 17 August defending the proscription of Palestine Action, despite Crown Prosecution Service warnings that it could prejudice an ongoing criminal case. The case concerned six activists charged over a 2024 break-in at Elbit Systems UK near Bristol; after a retrial, four defendants were convicted last week, and one was also found guilty of grievous bodily harm. In a pre-trial ruling last November, Mr Justice Johnson said Cooper had been advised the article might prejudice proceedings, but held the government was entitled to publicly justify the controversial ban and that the article did not amount to deliberate contempt or prevent a fair trial.",
+      "prop_args": [
+        {
+          "thesis": "The state must be able to publicly defend controversial proscription decisions, even if that creates some litigation risk, because counterterrorism legitimacy depends on explanation and democratic accountability.",
+          "mechanisms": [
+            "First, public justification preserves the legitimacy of coercive security policy. This is because (1) proscription is an extraordinary executive power that restricts association and speech, (2) the government needs to explain why the group is being treated as a security threat, and (3) without public reasoning, opponents can frame the ban as arbitrary or politically motivated.",
+            "Second, the government’s speech can be general without determining guilt in individual cases. Three reasons: one, Cooper’s column referred to Palestine Action’s activities in broad terms rather than naming every defendant; two, the judge found it was not the same as deliberately flouting a reporting restriction order; three, courts can still protect fairness through judicial management rather than banning all ministerial commentary.",
+            "Third, allowing ministers to stay silent creates a chilling effect on democratic oversight of security policy. This matters because (1) proscription decisions often rely on secret intelligence, (2) public debate is the only way to contest overreach, and (3) if officials cannot explain why a group is banned, the policy becomes harder to scrutinize and easier to abuse against unpopular movements."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "When the executive comments on an active case after being warned by prosecutors, it undermines the fairness of proceedings and erodes trust that security law is being applied impartially.",
+          "mechanisms": [
+            "First, ministerial commentary can contaminate the jury pool and shape the narrative before verdict. One, the article linked the activists to a 'terrorism connection' and to violence and future attacks; two, that language invites jurors to infer dangerous intent beyond the evidence; three, even if the judge later finds no abuse of process, the defendants still face a higher burden to overcome prejudicial public framing.",
+            "Second, it blurs the line between prosecution and political campaigning. One, the CPS explicitly warned the article might affect the trial; two, the Home Office then repeated or amplified claims later described as misleading, including the Iran-funding allegation; three, that creates the appearance that the state is using its communications machinery to secure a conviction rather than letting the court process speak for itself.",
+            "Third, this sets a dangerous precedent for selective justice in politically sensitive cases. One, if ministers can publicly justify bans while cases are pending, they can indirectly pressure courts in future protest or national-security prosecutions; two, groups associated with Palestine become more likely to be treated through a security lens rather than ordinary criminal law; three, that normalizes exceptional treatment of dissent and weakens civil liberties protections."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between democratic transparency and procedural fairness: prop wins if the key issue is the state’s right to explain a controversial ban, while opp wins if the key issue is whether executive speech can distort active criminal proceedings. The structural advantage sits with opp on fairness because the CPS warning shows the risk was known in advance, but prop has a strong legitimacy claim because proscription without public explanation is itself politically toxic.",
+      "stock_connections": [
+        "Rule of Law",
+        "Fair Trial Rights",
+        "Executive Overreach",
+        "Civil Liberties vs Security",
+        "Democratic Accountability",
+        "State Propaganda",
+        "Selective Enforcement",
+        "Politicization of Justice"
+      ],
+      "motion_areas": [
+        "TH, as a government, would publicly justify controversial counterterrorism proscription decisions even during related criminal proceedings",
+        "THBT ministers should be prohibited from commenting on active criminal cases involving national security or protest groups",
+        "THP a world where governments can proscribe organizations only after independent judicial approval"
+      ],
+      "data_points": [
+        "CPS warned the article might prejudice proceedings against six activists",
+        "The article was published on 17 August and the judge ruled on the abuse-of-process claim in November",
+        "Four defendants were convicted after a retrial last week",
+        "One defendant was also found guilty of grievous bodily harm",
+        "The article described charges as having a 'terrorism connection' and referred to violence, intimidation and 'disturbing information' about future attacks",
+        "Judge Johnson said the home secretary was advised the article might prejudice the proceedings but proceeded anyway",
+        "The defence alleged the article was 'dripping in innuendo' and directly interfered with the court process"
+      ]
+    },
+    {
+      "id": "6344cfd70b2d",
+      "title": "Australia’s Housing Tax Overhaul Tries to Cool a Market Fueled by Prices, Rates, and Investor Demand",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/australia-says-tax-changes-aim-to-fix-broken-housing-market",
+      "published": "2026-05-17T03:54:42Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Australia says it is changing tax settings to address a “broken” housing market as capital city house prices keep rising. The article notes that hotly anticipated interest rate cuts later in 2026 could add further fuel to the fire, worsening affordability for buyers and renters. The immediate context is a market where Sydney and other major city housing remains under intense upward price pressure, with policy makers trying to reduce speculative demand and improve access to housing.",
+      "prop_args": [
+        {
+          "thesis": "Changing housing tax rules is necessary because Australia’s current system structurally rewards speculation over productive investment, and only tax reform can reduce demand-side pressure fast enough to restore affordability.",
+          "mechanisms": [
+            "First, tax changes can directly reduce investor demand. This is because (1) housing tax concessions make leveraged property investment artificially attractive, (2) that pushes more capital into existing homes rather than new supply, and (3) lower speculative demand reduces bidding wars that price out first-home buyers.",
+            "Second, tax reform improves allocative efficiency in the housing market. Three reasons: one, it shifts capital away from unproductive land banking and into more productive sectors; two, it reduces the incentive to treat housing as a tax shelter; three, it makes prices reflect underlying shelter value rather than after-tax returns.",
+            "Third, this is the only lever that can work alongside rate cuts instead of being overwhelmed by them. This matters because if interest rates fall while tax incentives remain unchanged, cheaper credit will simply re-ignite demand, so tax reform is needed to prevent monetary easing from worsening the affordability crisis."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Tax changes will not fix the housing crisis because the core problem is supply scarcity, so reforming taxes mainly redistributes pain without materially increasing the number of homes.",
+          "mechanisms": [
+            "First, housing shortages are driven by constrained supply, not just investor demand. One, planning restrictions and slow approvals limit new construction; two, labor and material bottlenecks keep building costs high; three, even if investors buy slightly less, the underlying shortage still leaves prices elevated.",
+            "Second, tax changes can have harmful side effects on construction and rental markets. One, if investors pull back, rental supply can tighten before owner-occupiers can absorb the stock; two, lower expected returns can reduce incentives to build new housing; three, the policy may create short-term uncertainty that freezes transactions rather than improving affordability.",
+            "Third, the political economy makes tax reform unstable and easy to reverse. One, homeowners are a powerful voting bloc; two, any perceived hit to property values creates backlash; three, if the reform is watered down, it delivers the downside of uncertainty without the full affordability benefit."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the binding constraint is demand distortion or physical supply. Prop wins if the round is about immediate affordability and speculative overheating, because tax settings can change faster than new housing can be built; Opp wins if the round centers on long-run structural shortages, since tax reform cannot create dwellings on its own.",
+      "stock_connections": [
+        "Speculation Bubble",
+        "Moral Hazard",
+        "Rent-Seeking",
+        "Housing Affordability Crisis",
+        "Wealth Inequality",
+        "Asset Inflation",
+        "Supply-Side Constraints",
+        "Policy Incidence"
+      ],
+      "motion_areas": [
+        "TH, as the Australian government, would significantly increase taxes on property investors",
+        "THBT governments should remove tax incentives that encourage housing speculation",
+        "THP a world where housing is taxed primarily as a consumption good rather than an investment asset"
+      ],
+      "data_points": [
+        "Australian capital city house prices continue to rise",
+        "Hotly anticipated interest rate cuts later in 2026 could add further fuel to the fire",
+        "Sydney remains a high-pressure housing market with buyers and renters struggling to keep roofs over their heads"
+      ]
+    },
+    {
+      "id": "5c611a431f20",
+      "title": "Trump Loyalty Purge in Louisiana Shows Primary Elections Now Reward Personal Allegiance Over Institutional Conservatism",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-17T03:23:08Z",
+      "category": "IR",
+      "region": "United States (Louisiana)",
+      "background": "In Louisiana's Republican Senate contest, Trump-backed congresswoman Julia Letlow defeated incumbent Senator Bill Cassidy in the primary, with state treasurer John Fleming also advancing to a runoff. Cassidy had voted to convict Donald Trump in the former president's 2021 impeachment trial after the 6 January attack on the Capitol, making him one of the few remaining Senate Republicans who did so. Trump publicly attacked Cassidy as a 'disloyal disaster' and endorsed Letlow, while Cassidy tried to defend himself by stressing cooperation with Trump on legislation and his conservative record. The winner of the Republican runoff will face a Democratic candidate in the general election.",
+      "prop_args": [
+        {
+          "thesis": "Trump-backed primary challenges discipline Republicans into unconditional loyalty, making the party more ideologically coherent around the leader’s agenda.",
+          "mechanisms": [
+            "First, the threat of being primaried changes incentives for sitting senators. This is because (1) incumbents now face a credible punishment for crossing Trump on impeachment, vaccines, or other high-salience issues, (2) donors and activists learn that survival depends on public fealty rather than independent judgment, and (3) future officeholders pre-emptively align with Trump to avoid Cassidy's fate.",
+            "Second, this centralizes party control and reduces internal veto points. Three reasons: one, a president who can remove dissenters can more reliably pass nominations and legislation through loyalists; two, party messaging becomes more disciplined because members fear contradicting the leader; three, the party can present a clearer brand to voters who prefer strong partisan identity.",
+            "Third, this improves electoral mobilization among the Republican base. This matters because Trump-style loyalty tests energize low-propensity MAGA voters, increase turnout in primaries, and reduce apathy by making intra-party contests feel existential, which can strengthen the party in safe red states like Louisiana."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump-backed purges weaken the Republican Party by replacing experienced institutional conservatives with more extreme and less electorally durable candidates.",
+          "mechanisms": [
+            "First, they remove legislators who can build cross-party coalitions and govern effectively. One, incumbents like Cassidy have committee experience and policy expertise that challengers lack; two, punishing independence discourages compromise on issues where bipartisan votes are necessary; three, the party becomes less capable of passing durable legislation once in power.",
+            "Second, loyalty tests shrink the party's general-election appeal. One, candidates selected for pleasing the base often alienate moderates and suburban swing voters; two, Trump-aligned figures can carry baggage on vaccines, January 6, and culture-war rhetoric that is toxic outside the primary electorate; three, this can hand Democrats openings in competitive states or future cycles.",
+            "Third, it entrenches personalist politics over democratic accountability. One, elected officials become answerable to one man rather than constituents or institutions; two, fear of retaliation suppresses dissent even when Trump is wrong; three, this normalizes authoritarian behavior inside the party and weakens checks on executive overreach."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether party discipline is a feature or a bug. Prop wins if the round is about short-term electoral mobilization and message unity; Opp wins if the judge prioritizes long-term governance quality, candidate quality, and the erosion of institutional checks, because those harms compound beyond one Louisiana primary.",
+      "stock_connections": [
+        "Personalist Politics",
+        "Party Discipline",
+        "Democratic Backsliding",
+        "Authoritarian Consolidation",
+        "Primary Radicalization",
+        "Incumbency Advantage",
+        "Moderate Elimination",
+        "Elite Signaling"
+      ],
+      "motion_areas": [
+        "TH, as a political party, would enforce loyalty tests on elected representatives",
+        "THBT parties should prioritize ideological loyalty over electoral moderation",
+        "THP a world where primary voters can easily remove incumbents for disloyalty to the party leader"
+      ],
+      "data_points": [
+        "Bill Cassidy was one of 7 Senate Republicans who voted to convict Trump in the 2021 impeachment trial",
+        "Trump was acquitted in the Senate by a 57-43 vote, short of the 67 votes needed for conviction",
+        "Only 3 of the 7 Republican senators who voted to convict Trump still serve in the Senate: Lisa Murkowski, Susan Collins, and Bill Cassidy",
+        "Cassidy is 68 years old and has served two terms in the Senate",
+        "Julia Letlow is 45 and is the first Republican woman elected to represent Louisiana in Congress",
+        "Louisiana's Republican Senate contest will go to a runoff because no candidate won a simple majority",
+        "Trump called Cassidy a 'sleazebag' and said it was 'nice to see that his political career is OVER!'"
+      ]
+    },
     {
       "id": "de5ce422c598",
       "title": "Trump Punishes GOP Dissent by Crushing a Senate Incumbent in Louisiana",

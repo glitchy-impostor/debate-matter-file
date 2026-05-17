@@ -1,7 +1,61 @@
 {
   "date": "2026-05-16",
-  "last_updated": "2026-05-17T04:08:03Z",
+  "last_updated": "2026-05-17T08:32:54Z",
   "cards": [
+    {
+      "id": "7e166921fb7a",
+      "title": "Driving Test Black Market Exposes How Scarcity Turns Public Services Into Pay-to-Play Markets",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-16T23:27:55Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "The UK driving test system has been hit by a major backlog, with the DVSA saying the national average wait time for a practical test in Great Britain was 22.3 weeks in April 2026. In response, the government has introduced new rules making it illegal for anyone other than the learner driver to book a test, targeting third-party resellers and bots that have been hoovering up slots and selling them for inflated prices. One learner, Robert Kamugisha, said he paid £726 for three test slots through resellers, with the actual test fee only £62, and ended up spending £1,176 in total including car hire for test days.",
+      "prop_args": [
+        {
+          "thesis": "The new booking restrictions are justified because they reduce exploitation, restore fairness, and improve the state’s ability to allocate scarce test capacity efficiently.",
+          "mechanisms": [
+            "First, the rules cut out the resale market that monetises scarcity. This is because (1) bots and touts can no longer legally book on behalf of learners, (2) the artificial premium on test slots becomes harder to sustain when resale is criminalised, and (3) learners are less likely to be pressured into paying hundreds of pounds above the official £62 fee.",
+            "Second, they improve distributive fairness in a system where access had become pay-to-play. Three reasons: one, the current market advantages people with cash or social connections over equally qualified learners; two, it protects vulnerable students and low-income drivers from being forced to spend savings just to access a basic public service; three, it reduces the role of unscrupulous instructors who allegedly wait until the last minute to demand extra fees.",
+            "Third, the policy helps the DVSA distinguish genuine demand from bot-generated demand, which matters for long-term capacity planning. This matters because (1) fake bookings distort where the agency thinks demand is highest, (2) wasted slots and cancellations reduce effective throughput, and (3) better data lets the DVSA divert examiners and resources to the centres that actually need them most."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The rule change is mostly symbolic because it attacks resale rather than the underlying shortage, so it may reduce flexibility without meaningfully shortening waits.",
+          "mechanisms": [
+            "First, it does not solve the core supply problem. One, the BBC reports the average wait is still 22.3 weeks, showing the bottleneck is capacity not just fraud; two, if there are too few exam slots, banning third-party booking cannot create new tests; three, learners will still face long delays even if the black market is disrupted.",
+            "Second, it may unintentionally make the system less accessible for ordinary learners. One, many learners relied on instructors or intermediaries to navigate a difficult booking system; two, the new law could remove legitimate help for people with poor digital access, low confidence, or language barriers; three, it may shift the burden onto learners who are least able to monitor booking windows constantly.",
+            "Third, enforcement could be uneven and push the market underground rather than eliminate it. One, bot operators can adapt by using more sophisticated workarounds; two, resellers can move to informal channels like messaging apps and social media, making scams harder to police; three, if the state cannot rapidly expand capacity, scarcity will keep generating incentives for illicit intermediaries."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between removing exploitation and actually fixing scarcity. Prop wins if the question is whether the state should stop a clearly regressive black market; opp wins if the round is about whether this materially improves access, because the 22.3-week wait shows capacity remains the structural constraint.",
+      "stock_connections": [
+        "Scarcity pricing",
+        "Rent-seeking",
+        "Black markets",
+        "Regulatory capture",
+        "Information asymmetry",
+        "Public service underprovision",
+        "Moral hazard",
+        "Inequality of access"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would ban third-party booking of driving tests",
+        "THBT governments should criminalise resale of public service appointments",
+        "THP a world where public service bookings cannot be delegated to intermediaries"
+      ],
+      "data_points": [
+        "Average practical driving test wait time in Great Britain: 22.3 weeks in April 2026",
+        "Scotland wait time: 22.9 weeks; England: 22.7 weeks; Wales: 17.3 weeks",
+        "Official driving test fee: £62",
+        "Robert Kamugisha paid £726 for three test slots and £1,176 total including £150 per test for instructor car use",
+        "DVSA says it delivered almost two million tests over the past year and 158,000 extra tests since June 2025",
+        "One instructor reported receiving 3,341 messages from people trying to sell driving tests"
+      ]
+    },
     {
       "id": "807a01dd9333",
       "title": "Wildlife Trafficking Networks Exploit U.S. Permits to Feed Asia’s Exotic Pet Market",
