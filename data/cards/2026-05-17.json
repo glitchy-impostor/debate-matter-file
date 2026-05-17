@@ -1,7 +1,140 @@
 {
   "date": "2026-05-17",
-  "last_updated": "2026-05-17T08:32:54Z",
+  "last_updated": "2026-05-17T10:27:33Z",
   "cards": [
+    {
+      "id": "e5b55e1d52bd",
+      "title": "Ukraine’s Deep-Strike Drone Campaign Raises the Cost of Russia’s War Without Forcing Immediate De-escalation",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
+      "published": "2026-05-17T09:48:35Z",
+      "category": "IR",
+      "region": "Russia / Ukraine (including Crimea)",
+      "background": "Ukraine launched almost 600 drones overnight across 14 Russian regions, including the Moscow region, Crimea, and the Black and Azov seas, according to Russian authorities. Russian officials said at least four people were killed: three in the Moscow region and one in Belgorod, while Moscow said it intercepted more than 80 drones over the capital and 556 drones overall. The strikes came after Russia launched more than 1,500 drones and dozens of missiles across Ukraine over three consecutive days, including a missile strike on a Kyiv apartment block that killed 24 people, including three children.",
+      "prop_args": [
+        {
+          "thesis": "Ukraine’s retaliatory drone strikes are a rational escalation that raises the domestic and military cost of Russia’s war while restoring deterrence.",
+          "mechanisms": [
+            "First, the strikes impose asymmetric costs on Russia’s rear areas and critical infrastructure. This is because (1) Ukraine can launch cheap drones at scale while forcing Russia to spend far more on air defence, interception, repairs, and security, (2) even when drones are intercepted they still create disruption through debris, panic, and temporary shutdowns, and (3) repeated attacks on Moscow and surrounding regions signal that no part of Russia is fully insulated from the war.",
+            "Second, the campaign improves Ukraine’s bargaining position by showing it can retaliate against civilian and economic targets that matter to the Kremlin. Three reasons: one, hitting the capital region creates political embarrassment for Putin’s image of control, two, strikes near oil and gas infrastructure threaten war financing and logistics, and three, the ability to absorb Russian strikes and answer them in kind reduces the credibility of Russian coercion.",
+            "Third, the strikes are justified as proportional retaliation and help sustain Ukrainian morale and alliance support. This matters because (1) Russia has been conducting mass drone and missile waves against Ukrainian cities, including a Kyiv strike that killed 24 people, (2) reciprocal punishment reassures Ukrainians that restraint will not be one-sided, and (3) demonstrating continued resistance can prevent war fatigue from translating into premature concessions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Deep strikes into Russia are strategically counterproductive because they harden Russian resolve, increase civilian suffering, and do not meaningfully change the battlefield balance.",
+          "mechanisms": [
+            "First, the attacks can strengthen Russian domestic support for the war. One, strikes near Moscow allow the Kremlin to frame the conflict as an existential homeland defence, two, civilian deaths create a rally-around-the-flag effect rather than anti-war pressure, and three, the state can use the attacks to justify tighter repression and mobilisation.",
+            "Second, the campaign risks escalation without delivering decisive military gains. One, Russia still intercepted 556 drones overnight, showing that air defences can absorb much of the threat, two, the article notes refinery production was not disrupted and the technology was not affected, so the economic payoff may be limited, and three, tit-for-tat escalation can provoke even larger Russian strikes on Ukrainian cities.",
+            "Third, the strikes may undermine diplomatic prospects by making compromise politically harder on both sides. One, civilian casualties in Russia reduce any room for Russian leadership to sell concessions, two, Ukraine’s willingness to hit the capital region can be used to portray Kyiv as unwilling to de-escalate, and three, with diplomacy already stalled, this kind of escalation can lock both sides into a longer war of attrition."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive pressure on Russia’s rear areas changes Kremlin behaviour faster than it entrenches escalation. Prop wins if you prioritise asymmetric cost-imposition and deterrence in a war where Russia already targets Ukrainian civilians; opp wins if you think civilian-facing strikes mostly produce rally-around-the-flag effects and prolong a stalemate.",
+      "stock_connections": [
+        "Asymmetric warfare",
+        "Deterrence",
+        "Escalation ladder",
+        "Rally around the flag",
+        "War of attrition",
+        "Civilian targeting",
+        "Coercive diplomacy",
+        "Security dilemma"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would intensify long-range strikes on Russian territory",
+        "THBT states under invasion should target the aggressor’s domestic infrastructure",
+        "THP a world where weaker states can retaliate against the aggressor’s homeland"
+      ],
+      "data_points": [
+        "Almost 600 Ukrainian drones launched overnight across 14 Russian regions, Crimea, and the Black and Azov seas",
+        "Russian authorities said 556 drones were shot down and another 30 neutralised after dawn",
+        "At least four people were killed in Russia: three in the Moscow region and one in Belgorod",
+        "Moscow said more than 80 drones were intercepted over the capital overnight",
+        "Russia launched more than 1,500 drones and dozens of missiles across Ukraine over three consecutive days",
+        "A Russian missile strike on a Kyiv apartment block killed 24 people, including three children",
+        "Ukraine said it intercepted 279 of 287 Russian drones overnight on Sunday",
+        "Moscow is about 400km from the Ukrainian border"
+      ]
+    },
+    {
+      "id": "8d0d5d0952bc",
+      "title": "Uyghur Foreign Fighters Help Build Post-Assad Syria, Forcing a Clash Between Counterterrorism and Regime Legitimacy",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/17/g-s1-113270/uyghurs-china-syria-war-fighters-rebels-bashar-al-assad",
+      "published": "2026-05-17T09:02:00Z",
+      "category": "IR",
+      "region": "Syria / China / Xinjiang",
+      "background": "Uyghur fighters became the largest contingent of foreign militants in Syria, with senior commanders saying the community in Syria now numbers around 20,000 including families. NPR reports that roughly 4,000 Uyghur fighters, many affiliated with the Turkestan Islamic Party (TIP), played a major role in the 2024 rebel offensive that helped topple Bashar al-Assad, including the Aleppo tunnel assault and the final push into Damascus on December 8, 2024. Syria's new government has integrated the largest Uyghur militia into the reconstituted Syrian National Army and appointed some Uyghur commanders to defense ministry roles, while China has pressed Damascus to expel them and has kept terrorism sanctions on Syria tied to the Uyghur issue.",
+      "prop_args": [
+        {
+          "thesis": "Integrating Uyghur fighters into the new Syrian state is the least-bad option because it stabilizes post-war governance, rewards the coalition that actually won the war, and reduces the chance of renewed insurgency.",
+          "mechanisms": [
+            "First, integration co-opts the most battle-hardened armed actors into a chain of command. This is because (1) the Uyghurs were central to decisive victories like Aleppo and Damascus, (2) excluding them would leave thousands of armed men outside state control, and (3) giving them salaries, ranks, and citizenship incentives ties their survival to the new regime rather than to spoiler violence.",
+            "Second, rewarding foreign fighters who helped topple Assad strengthens the credibility of the new government among its own coalition. Three reasons: one, rebel coalitions are fragile and depend on trust that sacrifices will be repaid; two, if Sharaa abandons key allies after victory, other militias learn that loyalty is punished, not rewarded; three, the state needs disciplined units to fill the security vacuum left by the regime's collapse.",
+            "Third, keeping the Uyghurs inside Syria is better than expelling them into a transnational militant network. This matters because (1) deportation or persecution would radicalize them further, (2) dispersal across Turkey, Afghanistan, or other conflict zones increases the risk of cross-border militancy, and (3) a contained, locally embedded community is easier to monitor than a stateless diaspora of combatants."
+          ]
+        },
+        {
+          "thesis": "China's pressure campaign is less about genuine counterterrorism and more about using the language of terrorism to suppress Uyghur nationalism abroad.",
+          "mechanisms": [
+            "First, Beijing has a structural incentive to label all Uyghur militancy as terrorism regardless of evidence. This is because (1) it collapses distinctions between civilians, exiles, and armed groups, (2) it justifies domestic repression in Xinjiang by portraying dissent as security threat, and (3) it pressures third states to cooperate with Chinese security priorities.",
+            "Second, the article shows weak evidence linking Syria-based Uyghurs to attacks inside China. Three reasons: one, former U.N. sanctions monitors said they never saw direct evidence tying Syria-based Uyghurs to violence in China; two, analysts describe the Syrian branch as functionally independent from Afghanistan-based networks; three, the fighters interviewed explicitly deny targeting civilians and frame themselves as a nationalist liberation movement.",
+            "Third, accepting China's framing would normalize extraterritorial repression. This matters because (1) it gives authoritarian states a precedent to demand the expulsion of diaspora dissidents, (2) it weakens asylum and sanctuary norms for persecuted minorities, and (3) it lets powerful states outsource domestic ethnic control through diplomatic coercion."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Uyghur presence in Syria is a long-term security liability because it entrenches transnational jihadist networks and gives China a credible counterterrorism case.",
+          "mechanisms": [
+            "First, even if the Syrian branch is currently distinct, the ecosystem remains porous. One, the article notes that some hundreds of Uyghurs split off to join ISIS; two, TIP historically overlapped with al-Qaida-linked structures and trained alongside Islamist militias; three, battlefield success and state integration can launder extremist legitimacy and make recruitment easier for future offshoots.",
+            "Second, leaving armed foreign fighters in Syria creates a permanent diplomatic and security headache. One, Syria's minorities and many Arabs already distrust them; two, their presence in occupied homes and contested villages can trigger local backlash and communal violence; three, China can use their existence to block sanctions relief, embassy normalization, and broader reconstruction assistance.",
+            "Third, expulsion or demobilization is necessary to prevent Syria from becoming a sanctuary for anti-China militancy. This is because (1) the fighters openly say they dream of one day returning to Xinjiang and building an army, (2) even if they cannot strike now, they can serve as a training and propaganda hub for future generations, and (3) allowing them to consolidate politically may inspire copycat foreign-fighter enclaves elsewhere."
+          ]
+        },
+        {
+          "thesis": "China is justified in treating Uyghur militants as a serious threat because the broader Uyghur insurgent ecosystem has a history of violence and the state cannot wait for attacks to happen before acting.",
+          "mechanisms": [
+            "First, counterterrorism policy has to be based on risk, not only on proven attacks. One, China says Uyghur militants inspired or instructed thousands of attacks over three decades; two, the 2009 Urumqi riots killed at least 192 people according to the Chinese government; three, once a movement has produced mass violence, states are entitled to treat its armed wings as a security threat.",
+            "Second, the Syrian fighters' own rhetoric confirms hostile intent toward the Chinese state. One, multiple fighters say they want to preserve their culture and one day seize Xinjiang; two, they describe China as the source of their grievance and say they are merely biding their time; three, even if they currently avoid civilian targets, their long-term objective is still separatist armed struggle.",
+            "Third, tolerating foreign fighters undermines the principle that states should not harbor militants targeting another sovereign. This matters because (1) it creates a safe haven for transnational insurgents, (2) it incentivizes other separatist movements to internationalize their struggle through civil wars, and (3) it makes post-conflict reconstruction harder by importing unresolved ethnic and ideological conflicts into fragile states."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether these fighters are a contained nationalist force that can be absorbed, or a durable transnational security threat that will outlive the Syrian war. Prop wins if the round is about state-building and conflict management because integration reduces immediate violence; opp wins if the round is about long-term counterterrorism because even a small, disciplined armed diaspora can become a future spoiler and a diplomatic veto point.",
+      "stock_connections": [
+        "Counterterrorism vs self-determination",
+        "Sanctuary / safe haven",
+        "Foreign fighters",
+        "State integration of militias",
+        "Minority repression",
+        "Diaspora nationalism",
+        "Collective punishment",
+        "Security dilemma",
+        "Post-conflict reconstruction",
+        "Transnational militancy"
+      ],
+      "motion_areas": [
+        "TH, as Syria, would integrate foreign fighters into the national army after civil war",
+        "THBT states should refuse to extradite or expel armed exiles when they are likely to face persecution at home",
+        "THP a world where governments distinguish between separatist militants and civilian diaspora communities in counterterrorism policy",
+        "THBT China should be denied the right to pressure third countries to repatriate Uyghur militants"
+      ],
+      "data_points": [
+        "Uyghur community in Syria: around 20,000 including women and children",
+        "Uyghur fighters in Syria: nearly 4,000, according to the article",
+        "Aleppo fell in late November 2024 after a tunnel assault that cut regime supply lines",
+        "Assad fled to Russia on December 8, 2024",
+        "China began mass detention of Uyghurs in Xinjiang in 2017, with hundreds of thousands sent to 'reeducation camps'",
+        "The Chinese government says the 2009 Urumqi riots killed at least 192 people, about two-thirds Han",
+        "The U.S. removed ETIM's terrorist designation in 2020",
+        "ETIM remains sanctioned by the U.N., the U.K., Japan, and New Zealand",
+        "China reopened its embassy in Damascus in November and again raised the Uyghur issue",
+        "China abstained on a November 2025 U.N. vote dropping sanctions on Sharaa, citing 'foreign terrorist fighters'"
+      ]
+    },
     {
       "id": "e4b53d79d6d8",
       "title": "Labour’s Post-Local Election Crisis Exposes the Tension Between Westminster Instability and Policy Delivery",
