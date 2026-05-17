@@ -1,0 +1,108 @@
+{
+  "date": "2026-05-17",
+  "last_updated": "2026-05-17T04:08:03Z",
+  "cards": [
+    {
+      "id": "de5ce422c598",
+      "title": "Trump Punishes GOP Dissent by Crushing a Senate Incumbent in Louisiana",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/republican-sen-cassidy-loses-louisiana-primary-ddhq-projects",
+      "published": "2026-05-17T02:00:25Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "Senator Bill Cassidy, a Republican from Louisiana, is the chairman of the Senate Health, Education, Labor, and Pensions Committee and was one of the Republicans who voted to convict Donald Trump in the Senate impeachment trial. In the 2026 Louisiana Republican primary, Bloomberg reports that Cassidy lost, with the result framed as political revenge against a prominent intra-party dissenter. The article also notes Cassidy’s recent role in a high-profile confirmation hearing in Washington, DC, where he challenged Robert F. Kennedy Jr. over false claims about vaccines and mortality.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s ability to destroy a high-profile Republican dissenter shows that party discipline now depends on personal loyalty, not institutional competence, which weakens democratic accountability.",
+          "mechanisms": [
+            "First, this creates a loyalty filter inside the party. This is because (1) elected officials learn that policy expertise and constituency service do not protect them if they cross the leader, (2) ambitious politicians self-censor to avoid punishment, and (3) the party becomes less capable of internal correction when members fear speaking honestly.",
+            "Second, it normalizes retaliation as a governing tool. Three reasons: one, primary voters are signaled that revenge is legitimate politics; two, donors and activists are incentivized to fund purges of dissenters; three, future officeholders see that institutional checks like impeachment votes carry personal career costs.",
+            "Third, this degrades the quality of governance. This matters because when the party rewards obedience over competence, committees, oversight, and legislative bargaining become weaker, and the state is more likely to produce bad policy because fewer insiders are willing to challenge misinformation or corruption."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Cassidy’s loss shows that parties can still discipline elites who are out of step with their base, which can strengthen democratic responsiveness rather than weaken it.",
+          "mechanisms": [
+            "First, primaries allow voters to punish representatives who no longer reflect their preferences. One, Cassidy’s anti-Trump position made him politically misaligned with Louisiana Republicans; two, removing him lets the party select someone closer to the median primary voter; three, this can reduce the gap between elite behavior and grassroots sentiment.",
+            "Second, this is not necessarily anti-democratic because it is an electoral sanction, not an extra-legal purge. One, Cassidy was removed through a vote, not coercion; two, the outcome reflects internal party competition; three, it preserves the principle that politicians answer to voters rather than to self-appointed institutional gatekeepers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether you prioritize party accountability to voters or the long-term health of democratic institutions. Prop wins if the key issue is that fear of retaliation chills dissent and makes governance worse; Opp wins if the round is about responsiveness, because primaries are a legitimate mechanism for aligning representatives with their electorate.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Populism",
+        "Party Polarization",
+        "Principal-Agent Problems",
+        "Institutional Decay",
+        "Elite Capture",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as a democracy, would protect elected officials from primary retaliation for conscience votes",
+        "THBT parties should prioritize ideological loyalty over internal dissent",
+        "THP a world where primary voters can remove incumbents for defying party leaders"
+      ],
+      "data_points": [
+        "Bill Cassidy is a sitting Republican senator from Louisiana and chair of the Senate HELP Committee",
+        "Cassidy voted to convict Donald Trump in the Senate impeachment trial",
+        "Bloomberg reports Cassidy lost the 2026 Louisiana Republican primary",
+        "The article is dated 2026-05-17T02:00:25Z",
+        "Cassidy recently challenged Robert F. Kennedy Jr. in a congressional hearing over false vaccine claims"
+      ]
+    },
+    {
+      "id": "13fdb0728355",
+      "title": "Bolivia’s Widening Protest Wave Threatens State Authority and Regional Stability",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/latin-american-nations-amp-up-their-concerns-over-bolivia-unrest",
+      "published": "2026-05-17T00:43:05Z",
+      "category": "IR",
+      "region": "Bolivia; Latin America",
+      "background": "On May 15, 2026, Bolivia’s government reached an agreement with thousands of miners after clashes with police and a protest that paralysed downtown La Paz. Despite that deal, other sectors continued blocking access routes to the city, which houses both the executive branch and Congress. On May 16, riot police were still removing rocks from roads blocked by rural protesters in the La Paz department, indicating the unrest had spread beyond a single sector and remained unresolved.",
+      "prop_args": [
+        {
+          "thesis": "The unrest shows Bolivia’s state is losing its monopoly on coercion, and regional actors are right to worry that prolonged instability will spill into broader political and economic crisis.",
+          "mechanisms": [
+            "First, the protests expose a governance vacuum. This is because (1) the government had to negotiate with thousands of miners just to reopen the capital, (2) other sectors immediately continued blockades, and (3) the state is still relying on riot police to clear roads rather than restoring normal administration. That signals to both protesters and elites that coercive pressure, not institutions, is what gets results.",
+            "Second, the unrest creates a self-reinforcing cycle of escalation. Three reasons: one, road blockades directly paralyse the capital and raise the cost of inaction; two, partial concessions to miners incentivize other groups to imitate the tactic; three, repeated clashes with police increase the likelihood of harsher repression, which then broadens opposition and radicalizes demands.",
+            "Third, regional concern is justified because Bolivia is a landlocked hub whose instability affects cross-border trade, migration, and diplomatic coordination. This matters because prolonged disruption in La Paz can interrupt transport corridors, weaken investor confidence in the wider Andean region, and force neighboring governments to prepare for spillover rather than treat the crisis as purely domestic."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The unrest is a contained bargaining crisis, not a systemic collapse, and the government’s willingness to negotiate shows the state still has the tools to manage it.",
+          "mechanisms": [
+            "First, the fact that the government reached an agreement with the miners shows institutional responsiveness. One, concessions can split the opposition by rewarding negotiators and isolating hardliners; two, bargaining reduces the need for sustained repression; three, it demonstrates that the state can still co-opt rather than merely confront protest movements.",
+            "Second, the unrest is sectoral and geographically limited. One, the article only confirms blockades around La Paz and the capital access routes; two, the immediate trigger appears to be specific miner grievances rather than a nationwide anti-regime uprising; three, localized disruption is serious but does not automatically translate into regime-threatening instability or regional contagion."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the protests are read as a one-off bargaining episode or evidence of state fragility. Prop wins if it proves the repeated blockades and police clashes create a precedent that normal politics cannot solve; Opp wins if it frames the agreement with miners as proof that the government can still divide, negotiate, and contain unrest before it becomes systemic.",
+      "stock_connections": [
+        "State capacity",
+        "Monopoly on violence",
+        "Collective action",
+        "Protest contagion",
+        "Escalation dynamics",
+        "Civil unrest",
+        "Regime legitimacy",
+        "Co-optation vs repression"
+      ],
+      "motion_areas": [
+        "TH, as the Bolivian government, would prioritize negotiation over force in response to mass protests",
+        "THBT Latin American regional organizations should intervene in domestic unrest when it threatens cross-border stability",
+        "THP a world where governments are more willing to concede to sectoral protests to restore public order"
+      ],
+      "data_points": [
+        "May 15, 2026: Bolivia’s government reached an agreement with thousands of miners",
+        "May 16, 2026: riot police were still removing rocks from roads blocked by rural protesters",
+        "La Paz was paralysed by protests, including access routes to the city",
+        "La Paz is home to Bolivia’s executive branch and Congress"
+      ]
+    }
+  ]
+}
