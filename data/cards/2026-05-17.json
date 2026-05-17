@@ -1,7 +1,300 @@
 {
   "date": "2026-05-17",
-  "last_updated": "2026-05-17T10:27:33Z",
+  "last_updated": "2026-05-17T13:50:19Z",
   "cards": [
+    {
+      "id": "f1b9ba03831a",
+      "title": "Hormuz Tensions Deepen as US-Iran Deal Stalls and Gulf Energy Infrastructure Comes Under Drone Threat",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/us-and-iran-far-from-hormuz-deal-as-drone-hits-uae-power-plant",
+      "published": "2026-05-17T12:55:49Z",
+      "category": "IR",
+      "region": "Iran / United States / United Arab Emirates / Strait of Hormuz",
+      "background": "Bloomberg reports that the US and Iran remain far apart on any deal affecting the Strait of Hormuz, while a drone hit a power plant in the UAE, underscoring the vulnerability of Gulf infrastructure. The article references a May 2, 2026 image of the Iran-flagged container vessel Hamouna anchored in the Strait of Hormuz, and notes that on May 4 Iran's Revolutionary Guards denied that any commercial ships had crossed the strait after the US military said two US-flagged merchant vessels had transited the waterway. The Strait of Hormuz remains a critical chokepoint for global energy and shipping flows, making even limited escalation highly consequential.",
+      "prop_args": [
+        {
+          "thesis": "The breakdown in US-Iran talks makes limited maritime and infrastructure escalation more likely, because both sides now have incentives to signal resolve through pressure rather than compromise.",
+          "mechanisms": [
+            "First, failed diplomacy increases the value of coercive signaling. This is because (1) Iran can use harassment, denials, and ambiguity around shipping to raise the cost of US pressure, (2) the US is pushed to demonstrate deterrence through naval presence and sanctions rather than concessions, and (3) both sides can claim they are responding defensively, which lowers the political cost of brinkmanship.",
+            "Second, the Strait of Hormuz is uniquely suited to calibrated escalation. Three reasons: one, it is a narrow chokepoint where even small disruptions create outsized insurance and freight shocks; two, attribution is often murky, so drone or maritime incidents can be used as deniable pressure; three, the presence of commercial shipping means each incident has immediate global visibility, amplifying leverage.",
+            "Third, attacks on Gulf infrastructure create broader strategic spillovers. This matters because (1) they force regional states like the UAE to harden defenses and align more closely with external security guarantors, (2) they raise the risk premium on energy exports, and (3) they make de-escalation harder by creating domestic pressure for retaliation after visible damage."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The standoff does not necessarily produce major escalation, because all major actors have strong incentives to contain incidents and avoid a full Hormuz crisis.",
+          "mechanisms": [
+            "First, economic self-harm disciplines both sides. One, Iran depends on the Strait for its own trade and for preserving leverage over oil markets, so a full closure would be costly; two, the US and its partners would face immediate energy-price spikes and shipping disruption; three, Gulf states like the UAE have strong incentives to de-escalate because they are the most exposed to infrastructure attacks.",
+            "Second, ambiguity can substitute for open conflict. One, drone and maritime incidents can be kept below the threshold of war through deniable proxies and limited retaliation; two, this allows Iran to signal without triggering overwhelming US response; three, it gives Washington room to respond with sanctions, interceptions, or diplomacy rather than military escalation.",
+            "Third, the existence of a chokepoint can stabilize behavior through deterrence. One, all sides know Hormuz disruption would invite multinational naval protection and harsher sanctions; two, the US can coordinate with allies to secure shipping lanes without needing a deal; three, the prospect of losing control over escalation can push actors back toward bargaining."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the current standoff crosses the threshold from signaling into sustained disruption. Prop is stronger on immediate incentives for coercive escalation because the Strait and Gulf infrastructure are ideal for low-cost, high-impact pressure; opp is stronger on long-run restraint because a full Hormuz crisis is economically catastrophic for everyone. The round likely turns on whether you think deniable attacks are enough to produce strategic change or merely managed tension.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Deterrence Theory",
+        "Brinkmanship",
+        "Escalation Ladder",
+        "Energy Security",
+        "Chokepoint Politics",
+        "Proxy Conflict",
+        "Signaling Theory",
+        "Mutually Assured Economic Damage"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize coercive pressure over a new deal with Iran",
+        "THBT Gulf states should seek regional security guarantees rather than diplomatic accommodation with Iran",
+        "THP a world where the Strait of Hormuz is militarily secured by an international coalition",
+        "THBT states should respond to deniable attacks on critical infrastructure with immediate retaliation",
+        "TH, as Iran, would use limited maritime disruption to extract concessions from the West"
+      ],
+      "data_points": [
+        "The Strait of Hormuz is a vital waterway for global energy and shipping flows.",
+        "The article references a May 2, 2026 image of the Iran-flagged container vessel Hamouna anchored in the Strait of Hormuz.",
+        "On May 4, 2026, Iran's Revolutionary Guards denied that any commercial ships had crossed the Strait after the US military said two US-flagged merchant vessels had transited it.",
+        "The drone strike hit a power plant in the UAE, highlighting vulnerability of Gulf critical infrastructure."
+      ]
+    },
+    {
+      "id": "4a12c1b6eea0",
+      "title": "Climate-Driven Bee Swarms Expose Fragility in North American Pollination Supply",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season",
+      "published": "2026-05-17T12:00:38Z",
+      "category": "Econ",
+      "region": "North America",
+      "background": "A new report from Swarmed, a tracking network of more than 10,000 beekeepers, says North America’s 2026 bee swarm season began 17 days earlier than last year after record US heatwaves and a very warm winter in the West. The article says US beekeepers lost more than 60% of their colonies last year, the largest honeybee die-off in recorded US history, while pollination services contribute roughly $15m in added crop value to US agriculture. Researchers also warn that varroa mites are becoming more resistant to treatment and may reproduce faster as warmer winters disrupt bees’ normal winter breeding pause.",
+      "prop_args": [
+        {
+          "thesis": "Climate disruption is already imposing real economic costs on agriculture by destabilizing bee populations and making pollination less reliable.",
+          "mechanisms": [
+            "First, earlier swarming makes pollination supply less predictable. This is because (1) beekeepers have to inspect colonies and move hives on a tighter, less familiar timeline, (2) crop bloom timing is also shifting earlier, so the match between bees and flowering windows becomes harder to coordinate, and (3) any mismatch reduces pollination rates, which directly lowers yields for bee-dependent crops.",
+            "Second, warmer winters and longer breeding seasons can worsen pest pressure, especially from varroa mites. Three reasons: one, bees normally stop laying eggs in winter, which creates a natural break in mite reproduction; two, warmer and shorter winters remove that break and let mites reproduce for longer; three, the article says mites are increasingly resistant to chemicals, so the main control tool is losing effectiveness.",
+            "Third, the shock is not limited to beekeepers but spills into the wider economy. This matters because (1) US agriculture relies heavily on bees for pollination, (2) the article cites $15m in added crop value from pollination services, and (3) if colony losses stay above 60%, farmers face higher input costs, lower output, and more volatile food prices."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The early swarm season is a manageable adaptation problem rather than a systemic economic crisis.",
+          "mechanisms": [
+            "First, beekeepers can adjust management practices relatively quickly. One, the article itself says experts are already changing inspection schedules and swarm preparation; two, managed bees are mobile assets, so colonies can be relocated to match bloom timing; three, the industry has strong incentives to adapt because hive losses directly hit beekeeper income.",
+            "Second, the underlying ecological system is resilient enough to absorb some timing shifts. One, swarming is a natural reproductive process, not a sign that bees are disappearing outright; two, earlier blooms can partially offset earlier bee activity by keeping pollination windows aligned; three, not every crop depends equally on bees, so the macroeconomic damage is narrower than the headline suggests.",
+            "Third, the varroa problem is serious but not uniquely caused by climate change. One, mites and disease have long been major drivers of colony decline; two, resistance to treatment is a pest-management issue that can be addressed through new chemicals, breeding, and monitoring; three, if the main driver is biosecurity rather than climate, then the policy response is targeted agricultural regulation, not a broader climate-economy alarm."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between a temporary management shock and a structural breakdown in pollination capacity. Prop wins if it shows that climate change is compounding pest pressure and timing mismatches faster than beekeepers can adapt; Opp wins if it frames the problem as a sector-specific operational adjustment with limited spillovers beyond honey and a subset of crops.",
+      "stock_connections": [
+        "Climate change adaptation costs",
+        "Agricultural supply chain fragility",
+        "Negative externalities",
+        "Pest resistance",
+        "Food security",
+        "Ecological interdependence",
+        "Input price inflation"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would subsidize beekeepers to maintain pollination capacity",
+        "THBT governments should treat pollinator decline as an economic emergency",
+        "THP a world where agricultural pollination is publicly funded",
+        "TH, as a major farming economy, would prioritize climate adaptation over pest eradication in agricultural policy"
+      ],
+      "data_points": [
+        "North America’s 2026 bee swarm season started 17 days earlier than last year",
+        "US beekeepers reported losing more than 60% of their colonies last year, the largest honeybee die-off in recorded US history",
+        "Swarmed is a tracking network of more than 10,000 beekeepers",
+        "US agriculture pollination contributes roughly $15m in added crop value",
+        "Varroa mites are increasingly resistant to the chemicals used to control them",
+        "In parts of California, bees are building up populations in January and December instead of later in spring",
+        "Warm winters and lower precipitation are linked to earlier flowering and earlier hive maturation"
+      ]
+    },
+    {
+      "id": "410d4c24143a",
+      "title": "US Pandemic Preparedness Weakens as Misinformation, Funding Cuts, and Lost Federal Capacity Leave the Next Outbreak Harder to Contain",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/17/pandemic-preparedness-after-covid",
+      "published": "2026-05-17T11:00:37Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "A Guardian report on 17 May 2026 says US public health systems remain less prepared for a future pandemic despite the Covid-19 experience. Former White House global health security coordinator Stephanie Psaki said many outbreak-planning staff and supporting systems have been lost, while Anthony Fauci warned that misinformation online now overwhelms scientific communication. The article notes that scientific models put the chance of another pandemic at least as bad as Covid in the next 25 years at roughly 50/50, and that the Trump administration has moved to leave the WHO while federal coordination weakens and states increasingly form their own health alliances.",
+      "prop_args": [
+        {
+          "thesis": "The US should treat pandemic preparedness as core economic infrastructure, because failing to rebuild public health capacity will impose larger future costs than the spending required now.",
+          "mechanisms": [
+            "First, weak preparedness raises the probability that the next outbreak becomes a full economic shock. This is because (1) delayed testing and tracing let pathogens spread before containment, (2) overwhelmed hospitals force broader shutdowns and labor absences, and (3) uncertainty makes firms and consumers cut spending even before formal restrictions arrive.",
+            "Second, rebuilding public health capacity is high-return insurance. Three reasons: one, the article shows vaccines can be developed extremely fast when institutions are intact, with the first Covid vaccine going into arms 11 months after the genome was published; two, early testing capacity like South Korea’s 20,000 tests per day reduces the need for blunt lockdowns; three, stockpiled systems and trained staff are cheaper than repeated crisis response.",
+            "Third, stronger preparedness protects trade, labor supply, and investor confidence. This matters because pandemics do not just kill people; they disrupt supply chains, reduce workforce participation, and create policy volatility that hits GDP, especially when misinformation prevents compliance with basic health measures."
+          ]
+        },
+        {
+          "thesis": "The federal government must lead pandemic response rather than leaving it to states, because fragmented preparedness creates coordination failures that make outbreaks harder and more expensive to contain.",
+          "mechanisms": [
+            "First, outbreak response requires centralized coordination across borders and institutions. This is because (1) pathogens move faster than state-level bureaucracies, (2) states acting alone produce uneven standards for testing, vaccines, and data sharing, and (3) federal agencies are the only actors with the scale to coordinate procurement, logistics, and international cooperation.",
+            "Second, federal retreat creates unequal protection and slower rollout. Three reasons: one, richer or better-governed states can build alliances while poorer states lag behind; two, inconsistent messaging worsens public confusion and lowers compliance; three, the absence of a national plan means critical supplies like syringes, tests, and distribution networks are not pre-positioned.",
+            "Third, international cooperation is part of domestic resilience. This matters because WHO coordination, vaccine sharing, and cross-border surveillance reduce the chance that a foreign outbreak becomes a domestic one, so abandoning those channels increases long-run US exposure."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The real lesson is not that the US needs a bigger federal public health state, but that pandemic response should be more decentralized, targeted, and resilient to political capture.",
+          "mechanisms": [
+            "First, federal public health institutions have lost trust, so more centralization can backfire. One, if the public sees national agencies as partisan, compliance with mandates drops; two, misinformation spreads faster when people distrust official messaging; three, state and local actors may be better placed to tailor communication to their communities.",
+            "Second, preparedness spending can become inefficient bureaucracy rather than useful readiness. One, stockpiles and agencies can be politically neglected between crises; two, large federal systems often move too slowly to adapt to new pathogens; three, the article itself shows that innovation came from years of research, not just emergency bureaucracy, so the priority should be flexible R&D rather than permanent expansion.",
+            "Third, states stepping up may be more effective than waiting for Washington. One, states can form health alliances and coordinate directly with WHO; two, decentralized experimentation allows best practices to spread faster; three, if the federal government is unreliable, building local capacity is a more realistic hedge against future failure."
+          ]
+        },
+        {
+          "thesis": "The biggest problem is not preparedness capacity but public compliance, so the decisive intervention is communication and trust-building rather than more spending or international institutions.",
+          "mechanisms": [
+            "First, even perfect tools fail if people refuse them. This is because (1) vaccines, tests, and guidance only work if the public uses them, (2) misinformation can outflank scientific evidence on social media, and (3) political polarization turns health behavior into identity conflict.",
+            "Second, the marginal gains from more funding are limited without trust. One, the article shows the US already had scientific breakthroughs like mRNA vaccines; two, the bottleneck was often rollout and acceptance, not invention; three, therefore the best use of resources is pre-bunking, clearer messaging, and community-level persuasion."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the binding constraint is institutional capacity or public trust. Prop wins if the round is about systemic resilience, because outbreaks punish coordination failures and the costs of under-preparedness are economy-wide; Opp wins if they can prove that legitimacy and compliance are the true bottlenecks, making extra federal capacity politically ineffective.",
+      "stock_connections": [
+        "Public Goods Underprovision",
+        "Moral Hazard",
+        "State Capacity",
+        "Institutional Trust",
+        "Federalism",
+        "Coordination Failure",
+        "Collective Action Problem",
+        "Global Health Security",
+        "Misinformation",
+        "Race to the Bottom"
+      ],
+      "motion_areas": [
+        "TH, as the US federal government, would massively expand pandemic preparedness spending",
+        "THBT the US should prioritize rebuilding public health institutions over tax cuts and deficit reduction",
+        "THP a world where pandemic response is coordinated primarily through international institutions rather than national governments",
+        "THBT states should be allowed to form independent public health compacts when the federal government fails to act"
+      ],
+      "data_points": [
+        "Scientific models cited in the article put the chance of another pandemic at least as bad as Covid in the next 25 years at roughly 50/50",
+        "Covid vaccine development began six days after publication of the SARS-CoV-2 genome",
+        "The first Covid vaccine was about 95% effective and was going into arms 11 months after the genome was published",
+        "South Korea was reportedly producing 20,000 tests per day during Covid while the US was 'playing around with five tests that didn't work'",
+        "The US contribution to the WHO is $130 million, which Psaki compared to the Pentagon's recent spending on lobster and steak",
+        "The US failed to distribute Covid vaccines globally in part because of basic supply shortages, including not having enough syringes",
+        "The mpox response in 2024 was better because vaccines already existed, but the US still struggled to get doses into arms",
+        "The article says many outbreak-planning staff and supporting systems at health agencies are now gone"
+      ]
+    },
+    {
+      "id": "390b3cdff8c0",
+      "title": "Labour’s EU Rejoin Split Exposes the Trade-Off Between Pragmatic Repair and Full Brexit Reversal",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/17/culture-secretary-lisa-nandy-says-wes-streeting-rejoin-eu-call-odd",
+      "published": "2026-05-17T10:51:35Z",
+      "category": "IR",
+      "region": "UK / European Union",
+      "background": "On 17 May 2026, UK culture secretary Lisa Nandy dismissed former health secretary Wes Streeting’s call for Britain to eventually rejoin the EU as “odd”, saying Brexit was a mistake but that the government should focus on repairing the existing deal. Streeting, who resigned from the cabinet in protest against Keir Starmer’s leadership, argued that Britain needs a closer EU relationship for trade, economic growth, and defence against Russian aggression and “America First”. The issue is now feeding into the Makerfield byelection and an expected Labour leadership contest, with Andy Burnham also signalling that rejoining the EU would not be a short-term campaign priority.",
+      "prop_args": [
+        {
+          "thesis": "Rejoining the EU is the cleanest way to restore UK growth, trade efficiency, and strategic leverage in an increasingly hostile global environment.",
+          "mechanisms": [
+            "First, full re-entry removes the structural frictions created by the Brexit settlement. This is because (1) firms currently face customs, regulatory, and paperwork barriers that raise transaction costs, (2) these costs disproportionately hit small and medium exporters that cannot absorb compliance burdens, and (3) over time this suppresses investment, productivity, and supply-chain integration with the UK’s largest nearby market.",
+            "Second, EU membership strengthens Britain’s security and diplomatic position. Three reasons: one, the UK gains a formal seat in a major continental bloc rather than negotiating from the outside; two, it improves coordination on sanctions, defence procurement, intelligence-linked policy, and responses to Russian aggression; three, in a world of US unpredictability, collective European bargaining power becomes more valuable than bilateral nostalgia.",
+            "Third, rejoin is the only durable fix to the political and economic uncertainty caused by half-measures. This matters because pragmatic tweaks to the current deal can reduce some damage, but they do not eliminate the long-term uncertainty that deters business planning, keeps the UK in a weaker bargaining position, and leaves every future government fighting the same circular Brexit arguments."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Rejoining the EU is politically unrealistic and economically unnecessary compared with targeted domestic repair and sector-by-sector cooperation.",
+          "mechanisms": [
+            "First, the political cost of reopening Brexit is enormous. One, the 2016 referendum settled the issue for a large share of voters and re-litigation risks looking elitist and destabilising; two, it hands ammunition to anti-establishment forces by making Labour look detached from post-Brexit democratic legitimacy; three, it could fracture the governing coalition by forcing MPs and voters to choose between economic pragmatism and identity politics.",
+            "Second, the UK can recover much of the economic benefit without full membership. One, regulatory alignment, veterinary agreements, and mobility deals can cut trade friction while preserving sovereignty; two, domestic reforms on planning, energy, housing, and infrastructure may matter more to living standards than institutional EU status; three, full re-entry would require years of negotiation and likely major concessions on budget contributions, free movement, and legal jurisdiction.",
+            "Third, rejoining risks substituting one dependency for another. This is because (1) the UK would again be constrained by EU-wide rules that may not fit its industrial strategy, (2) it could limit policy flexibility on state aid, migration, and industrial policy, and (3) the immediate political energy spent on rejoin would crowd out more urgent domestic fixes that voters can feel faster."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between long-run structural gains and short-run political feasibility. Pro wins if the motion rewards economic and strategic fundamentals; opp wins if the round prioritises democratic legitimacy, implementation risk, and the fact that partial repair may capture most of the upside without the cost of re-entry.",
+      "stock_connections": [
+        "Sovereignty vs efficiency",
+        "Economic integration",
+        "Trade friction",
+        "Democratic legitimacy",
+        "Populist backlash",
+        "Strategic autonomy",
+        "Collective security",
+        "Institutional lock-in",
+        "Path dependency"
+      ],
+      "motion_areas": [
+        "TH, as the UK Labour Party, would commit to rejoining the EU",
+        "THBT the UK should seek full re-entry into the European Union",
+        "THP a world in which Britain prioritises EU membership over bilateral trade deals",
+        "THBT opposition parties in post-Brexit states should campaign to reverse Brexit-style exits",
+        "TH, as a centre-left government, would make EU re-entry its long-term economic strategy"
+      ],
+      "data_points": [
+        "Brexit referendum was held 10 years before the article, in 2016",
+        "Wes Streeting resigned from the cabinet in protest against Starmer’s leadership",
+        "The Makerfield byelection and a possible Labour leadership contest are now key political battlegrounds",
+        "Streeting argued Britain needs closer EU ties for trade, economy, and defence against Russian aggression and 'America First'",
+        "Lisa Nandy said the government is already trying to repair the 'needless damage' from the Brexit deal to living standards"
+      ]
+    },
+    {
+      "id": "6511b69c38e4",
+      "title": "UK Cancels Planned Fuel Tax Rise to Shield Households, at the Cost of Fiscal and Climate Credibility",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/reeves-set-to-abandon-planned-rise-in-fuel-tax-the-sun-reports",
+      "published": "2026-05-17T10:46:07Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "Bloomberg reports that UK Chancellor Rachel Reeves is set to abandon a planned rise in fuel tax, according to The Sun. The article is framed against a backdrop of elevated fuel prices at UK petrol stations and broader inflation pressures expected to rise globally due to the war with Iran. The policy affects petrol and diesel consumers across the UK, with the decision likely to be read as a signal about the government’s fiscal priorities and cost-of-living strategy.",
+      "prop_args": [
+        {
+          "thesis": "Scrapping the fuel tax rise is a rational cost-of-living intervention that protects households and the wider economy from a regressive shock.",
+          "mechanisms": [
+            "First, it directly lowers the burden on low- and middle-income households. This is because (1) fuel taxes are regressive and consume a larger share of disposable income for poorer drivers, (2) these households have less ability to absorb sudden price increases, and (3) the policy prevents a further squeeze on real wages when inflation is already elevated.",
+            "Second, it supports the broader economy by reducing transport and input costs. Three reasons: one, firms that rely on road freight face lower operating costs, two, those savings can partially pass through into consumer prices, and three, it reduces the risk of a fuel-led inflation spiral at a time when global inflation is already expected to rise.",
+            "Third, it is politically and economically stabilizing because it preserves public consent for taxation. This matters because a government that is seen as indifferent to immediate living costs faces lower compliance, weaker trust, and more pressure to adopt even more distortionary emergency subsidies later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Abandoning the fuel tax rise is a short-term populist move that worsens fiscal discipline, entrenches car dependence, and weakens climate policy.",
+          "mechanisms": [
+            "First, it reduces revenue at a time when the state needs funds for public services and investment. One, fuel duties are a predictable tax base, two, dropping the rise forces either borrowing or offsetting cuts elsewhere, and three, that creates a credibility problem for a chancellor trying to signal fiscal responsibility.",
+            "Second, it locks in inefficient and unequal transport patterns. One, cheaper fuel encourages more driving rather than modal shift, two, that disproportionately benefits higher-income households that drive more and own larger vehicles, and three, it slows investment in public transport and electrification by keeping fossil-fuel use artificially attractive.",
+            "Third, it undermines climate commitments by weakening the price signal needed to cut emissions. One, transport is a major emissions source, two, fuel taxes are one of the few broad-based tools that internalize carbon costs, and three, repeated exemptions create a precedent that makes future decarbonization politically harder."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate household relief and long-term policy credibility. Prop wins if the round is about inflation, living standards, and political stability; opp wins if the round is about fiscal sustainability and climate transition, because the tax decision is easy to reverse in the short term but much harder to unwind once the state normalizes retreat from carbon pricing.",
+      "stock_connections": [
+        "Regressive Taxation",
+        "Cost of Living Crisis",
+        "Fiscal Credibility",
+        "Populism",
+        "Carbon Pricing",
+        "Climate Externalities",
+        "Car Dependence",
+        "Inflationary Pressures",
+        "Public Trust in Taxation"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would abandon planned fuel duty rises",
+        "THBT governments should not raise fuel taxes during periods of high inflation",
+        "THP a world where fuel taxes are frozen during cost-of-living crises"
+      ],
+      "data_points": [
+        "Fuel duty applies to petrol and diesel purchases across the UK",
+        "The article is set against a backdrop of global inflation expected to rise due to the war with Iran",
+        "The policy concerns a planned rise in UK fuel tax that Reeves is reportedly set to abandon",
+        "The article references a BP petrol station in Brentwood, UK, illustrating the consumer-facing impact of fuel prices"
+      ]
+    },
     {
       "id": "e5b55e1d52bd",
       "title": "Ukraine’s Deep-Strike Drone Campaign Raises the Cost of Russia’s War Without Forcing Immediate De-escalation",
@@ -244,6 +537,66 @@
         "A major Aberdeen waste-site fire four years ago destroyed a facility and wiped out £20 million of investment",
         "Suez says a deposit return of £1-£2 could cut vape fire risk by 70-90%",
         "The UK government says there are 10,500 vape takeback bins on high streets"
+      ]
+    },
+    {
+      "id": "f0a472227354",
+      "title": "Philippine Political Dynasties Turn State Power Into Family Monopoly, Distorting Investment and Competition",
+      "source": "The",
+      "url": "https://thediplomat.com/2026/05/the-great-philippines-dynasty-dependency/",
+      "published": "2026-05-17T07:47:00Z",
+      "category": "IR",
+      "region": "Philippines",
+      "background": "Political dynasties are deeply entrenched in the Philippines: the Philippines Daily Inquirer reports that 83% of current senators and 76% of House members belong to dynasties. At the local level, the House of Representatives’ internal policy and budget research department says 9,852 of 17,983 local elective posts, or 54%, are held by dynasts. The article argues that major families such as the Tulfos, Villars, and Marcos-Romualdez clan use office to shape procurement, contracts, and regulation in ways that advantage their own businesses and allies.",
+      "prop_args": [
+        {
+          "thesis": "Political dynasties in the Philippines systematically weaken the state’s ability to deliver fair markets, so reducing their power would improve investment, competition, and long-run development.",
+          "mechanisms": [
+            "First, dynasties convert public office into a family franchise, which distorts economic governance. This is because (1) officeholders have direct incentives to use regulation, procurement, and licensing to benefit family firms; (2) they can shield allies from anti-corruption enforcement and punishment; and (3) they face weak accountability when the same family controls multiple elected posts across levels of government.",
+            "Second, dynasties suppress competition and raise the cost of doing business. Three reasons: one, they can award contracts to allied firms and exclude outsiders; two, they create opaque and personalized access to permits, land, and state resources; three, investors without political ties must pay higher transaction costs, making both domestic entrepreneurship and foreign direct investment less attractive.",
+            "Third, breaking dynastic control improves development outcomes because it expands the pool of actors who can compete on merit rather than patronage. This matters because the article notes dynasties are especially damaging in resource-rich provinces outside Luzon, where collusion between politicians and economic elites blocks outside investment, stifles competition, and captures extractive industries like mining, agriculture, and forestry for private gain."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Political dynasties can sometimes provide stability, local coordination, and pro-growth incentives, so targeting them may not automatically improve governance or investment.",
+          "mechanisms": [
+            "First, dynasties can create administrative continuity and recognizable local leadership. One, voters may prefer familiar families because they reduce uncertainty in fragmented political environments; two, long-running local networks can speed up coordination on infrastructure and service delivery; three, in some areas dynastic politicians may have stronger incentives to support growth if their family wealth depends on the local economy.",
+            "Second, anti-dynasty reforms may not solve the underlying problem of corruption and may even worsen it. One, if institutions remain weak, new non-dynastic elites can reproduce the same patronage behavior; two, banning dynasties can be hard to enforce in practice because families can use proxies and allies; three, the real issue may be state capacity and accountability, not family lineage itself.",
+            "Third, the article itself suggests dynastic behavior is not uniform across the country, which means blanket reform can be overbroad. One, in Luzon dynasties are described as more constrained by a competitive business sector; two, where private competition is stronger, dynasts may have incentives to support growth rather than pure extraction; three, this implies the effects depend on local market structure, not dynasty status alone."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether dynasties are a source of coordination or a source of capture. This article strongly supports the capture story: where the same families control office, procurement, and enforcement, the structural advantage lies with the side arguing that political competition is necessary for clean markets and broad-based growth.",
+      "stock_connections": [
+        "Rent-seeking",
+        "Crony capitalism",
+        "State capture",
+        "Patronage politics",
+        "Corruption",
+        "Regulatory capture",
+        "Anti-competitive behavior",
+        "Institutional decay",
+        "Elite entrenchment",
+        "Development and governance"
+      ],
+      "motion_areas": [
+        "TH, as the Philippines, would ban political dynasties from holding elected office",
+        "THBT developing nations should impose term and succession limits on elected officials’ families",
+        "THP a world where political families cannot hold multiple elected offices simultaneously",
+        "THBT states should prioritize anti-dynasty reforms over anti-corruption prosecutions",
+        "TH, as a reformist government, would break up family control over local politics"
+      ],
+      "data_points": [
+        "83% of current Philippine senators belong to political dynasties",
+        "76% of current House members belong to political dynasties",
+        "9,852 of 17,983 local elective posts are held by dynasts",
+        "54% of local elective posts in the Philippines are held by dynasts",
+        "Dynasties are described as especially harmful in resource-rich provinces outside Luzon",
+        "The article cites Mendoza et al. (2022) on dynasties blocking outside investment and capturing extractive industries",
+        "Villanueva (2025) describes dynastic politicians treating public office as a 'family franchise'",
+        "Major dynastic families named include the Tulfos, Villars, and Marcos-Romualdez clan"
       ]
     },
     {
