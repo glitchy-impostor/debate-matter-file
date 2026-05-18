@@ -1,7 +1,1435 @@
 {
   "date": "2026-05-18",
-  "last_updated": "2026-05-18T04:23:14Z",
+  "last_updated": "2026-05-18T10:26:26Z",
   "cards": [
+    {
+      "id": "97275acba5fe",
+      "title": "US-Iran Brinkmanship Risks Regional Spillover as Negotiations Collapse Under War Pressure",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+      "published": "2026-05-18T10:12:52Z",
+      "category": "IR",
+      "region": "US, Iran, Israel, Lebanon, UAE, Saudi Arabia",
+      "background": "On 18 May 2026, Donald Trump said on Truth Social that “the Clock is Ticking” for Iran to reach a peace deal with the US, and Axios reported he would meet top national security advisers on Tuesday to discuss military options. The article says Washington and Tehran remain deadlocked: Iranian media claimed the US offered no concrete concessions, while Fars reported a US five-point list demanding Iran keep only one nuclear site operating and transfer its stockpile of highly enriched uranium to the US. The same day, a drone strike caused a fire at a nuclear power plant in the UAE, Saudi Arabia said it intercepted three drones, and Israel continued strikes in Lebanon that killed seven people despite a fragile ceasefire.",
+      "prop_args": [
+        {
+          "thesis": "Maximum-pressure diplomacy backed by credible force is the only way to stop Iran from buying time and escalating across the region.",
+          "mechanisms": [
+            "First, coercive leverage changes Tehran’s bargaining incentives. This is because (1) Iran has repeatedly used delay tactics to preserve its nuclear and regional military options, (2) the US offer appears to be a hard ultimatum rather than a concession-heavy bargain, and (3) the explicit threat of military action raises the cost of stalling, forcing a faster decision between compromise and escalation.",
+            "Second, a tougher US line can deter proxy warfare by signaling that attacks on Gulf infrastructure will trigger broader retaliation. Three reasons: one, the UAE drone strike and Saudi interceptions show the conflict is already spilling into the Gulf; two, Iran and its proxies rely on ambiguity and deniability to keep pressure below the threshold of war; three, if Washington credibly threatens consequences, it can break the expectation that proxy attacks are cost-free.",
+            "Third, forcing a deal now reduces the risk of a wider regional war. This matters because the current pattern—Israeli strikes in Lebanon, Hezbollah rocket fire, and attacks near nuclear infrastructure—creates multiple escalation ladders at once, so a rapid settlement is preferable to a slow drift into a multi-front conflict."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s ultimatum makes war more likely by collapsing diplomacy, hardening Iranian resolve, and encouraging regional escalation.",
+          "mechanisms": [
+            "First, public threats reduce the space for compromise. One, Iran cannot politically accept a deal that looks like capitulation under threat of destruction; two, the demand to transfer enriched uranium and keep only one nuclear site is likely seen as sovereignty-stripping; three, once leaders are boxed in publicly, they are more likely to walk away than absorb humiliation.",
+            "Second, coercion incentivizes pre-emptive escalation and proxy retaliation. One, if Tehran believes strikes are imminent, it has reason to disperse assets, accelerate nuclear hedging, or activate proxies; two, the UAE and Saudi incidents show the region is already vulnerable to spillover; three, once both sides expect war, even limited incidents can trigger a security spiral.",
+            "Third, US maximalism undermines allied stability and negotiation credibility. One, Lebanon’s fragile ceasefire is already being eroded by continued Israeli strikes and Hezbollah rocket fire; two, if Washington appears aligned with Israeli military escalation rather than a balanced settlement, regional actors lose faith in US mediation; three, that weakens any durable peace architecture and leaves the Gulf more exposed."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion creates leverage or just accelerates escalation. Prop wins if you believe Iran is primarily responsive to credible threats; Opp wins if you think the public ultimatum makes a negotiated off-ramp politically impossible and increases the odds of proxy and direct retaliation.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Security Dilemma",
+        "Escalation Spiral",
+        "Proxy War",
+        "Nuclear Proliferation",
+        "Deterrence Theory",
+        "Credibility and Signaling",
+        "Regional Spillover"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would issue military ultimatums to Iran to force a nuclear deal",
+        "THBT coercive diplomacy is preferable to prolonged negotiations in the Iran crisis",
+        "THP a world where the US credibly threatens force to prevent nuclear proliferation in the Middle East"
+      ],
+      "data_points": [
+        "Trump said on Truth Social: “For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!”",
+        "Axios reported Trump was due to meet top national security advisers on Tuesday to discuss military options on Iran",
+        "The UAE said a drone strike caused a fire at a nuclear power plant and called it a “dangerous escalation”",
+        "Saudi Arabia said it intercepted three drones",
+        "Israeli strikes in Lebanon killed seven people on Sunday, including an Islamic Jihad commander and his 17-year-old daughter",
+        "Lebanon said Israeli strikes in southern towns killed five people, including two children, and injured at least 15",
+        "Hezbollah fired about 200 projectiles at Israel and its troops over the weekend, according to an Israeli military official",
+        "Israel and Lebanon had agreed to extend their ceasefire by 45 days"
+      ]
+    },
+    {
+      "id": "cf51d221cc7f",
+      "title": "Ebola Exposure in DR Congo Tests Whether Rich States Prioritize Containment or Citizen Evacuation",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T10:07:57Z",
+      "category": "IR",
+      "region": "Democratic Republic of Congo; Uganda; United States; international",
+      "background": "At least six Americans have reportedly been exposed to Ebola in the Democratic Republic of Congo, with one person believed to be showing symptoms and three others classified as high-risk contacts. The WHO has declared the outbreak an international emergency, with 336 suspected cases and 88 deaths reported in DR Congo, while Uganda has also recorded two confirmed cases and one death. The current outbreak is caused by the Bundibugyo strain of Ebola, for which there are no approved drugs or vaccines, and the US CDC says it is supporting the safe withdrawal of a small number of Americans. The US has issued a Level Four travel advisory for DR Congo, and neighbouring Rwanda says it is tightening border screening as a precaution.",
+      "prop_args": [
+        {
+          "thesis": "This outbreak shows why states should prioritize rapid evacuation and quarantine of exposed citizens, because early extraction reduces transmission risk, preserves public confidence, and improves outbreak control capacity.",
+          "mechanisms": [
+            "First, evacuation into controlled quarantine lowers the chance that exposed people seed new chains of infection. This is because (1) Ebola spreads through bodily fluids and can be transmitted before diagnosis if people move through hospitals, airports, or households, (2) a 2-21 day incubation window means exposed individuals can unknowingly travel across borders, and (3) isolating them in a secure facility is more reliable than asking them to self-monitor in a conflict-affected outbreak zone.",
+            "Second, bringing citizens home or to a secure base improves compliance and traceability. Three reasons: one, governments can enforce testing, monitoring, and isolation more effectively than local systems in eastern DR Congo; two, citizens are more likely to cooperate when they know they will receive care and repatriation; three, visible state action reassures domestic audiences and reduces panic-driven misinformation.",
+            "Third, this is the best way to protect the broader international response. This matters because if a small number of exposed foreigners become a political scandal, states may become less willing to deploy health workers, fund missions, or keep personnel in outbreak zones; by contrast, a predictable evacuation protocol encourages continued international engagement without undermining containment."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "States should avoid prioritizing citizen evacuation because it can undermine local containment, create moral hazard, and divert scarce resources away from the communities most at risk.",
+          "mechanisms": [
+            "First, evacuating foreigners can weaken the outbreak response on the ground. One, it pulls medical and logistical attention toward a small number of outsiders rather than the hundreds of suspected local cases; two, it can encourage local distrust if communities see elites being removed while they remain exposed; three, it may reduce cooperation with contact tracing and safe burial practices, which are central to stopping Ebola spread.",
+            "Second, evacuation creates moral hazard and unequal risk allocation. One, if wealthy states always rescue their nationals, firms and NGOs have weaker incentives to follow strict pre-deployment protocols and travel restrictions; two, it signals that foreign lives are treated as more valuable than local lives, worsening legitimacy for WHO and national authorities; three, it can encourage more risky movement by foreign personnel who assume extraction is guaranteed.",
+            "Third, the operational cost and diplomatic friction can be substantial. One, arranging military or medical transport, quarantine, and repatriation consumes scarce capacity during an emergency; two, placing evacuees in third-country facilities, such as a base in Germany, can trigger legal and political disputes over jurisdiction and biosecurity; three, the best containment strategy is to keep exposed people where the outbreak is being managed, rather than moving them across borders."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the marginal safety gain from evacuating a few exposed foreigners outweighs the systemic harm to outbreak legitimacy and local containment. Prop wins if the round prioritizes preventing any secondary spread from high-risk contacts; opp wins if the judge thinks Ebola control depends more on trust, local compliance, and avoiding a two-tier response.",
+      "stock_connections": [
+        "Global health security",
+        "Moral hazard",
+        "Humanitarian intervention",
+        "State capacity",
+        "Public trust in institutions",
+        "Border screening",
+        "Containment vs mitigation",
+        "Unequal protection / two-tier citizenship"
+      ],
+      "motion_areas": [
+        "TH, as the US, would evacuate exposed citizens from Ebola outbreak zones",
+        "THBT states should prioritize repatriation of nationals exposed to highly lethal infectious diseases abroad",
+        "THP a world where WHO can compel cross-border quarantine and screening during outbreaks",
+        "THBT rich countries should not remove their citizens from outbreak zones unless local systems collapse"
+      ],
+      "data_points": [
+        "At least 6 Americans were exposed to Ebola in DR Congo, with 1 believed symptomatic and 3 classified as high-risk contacts",
+        "WHO reported 336 suspected Ebola cases and 88 deaths in DR Congo",
+        "Uganda has recorded 2 confirmed cases and 1 death",
+        "The outbreak is caused by the Bundibugyo strain, for which there are no approved drugs or vaccines",
+        "The US has issued a Level Four travel advisory for DR Congo",
+        "The WHO says the outbreak is a public health emergency of international concern",
+        "Previous West Africa outbreak (2014-2016): more than 28,600 infected and 11,325 deaths",
+        "Bundibugyo Ebola has had around a 30% fatality rate in previous outbreaks"
+      ]
+    },
+    {
+      "id": "3b9b841d9b43",
+      "title": "Trump’s IRS-ICE Data Sharing Push Risks a Tax Compliance Collapse Among Undocumented Workers",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/18/trump-immigration-crackdown-lost-taxes-ice",
+      "published": "2026-05-18T10:00:56Z",
+      "category": "Econ",
+      "region": "United States",
+      "background": "The Trump administration’s immigration crackdown has reportedly made undocumented immigrants less willing to file taxes, after the IRS agreed last year to share names and addresses with the Department of Homeland Security, though a federal judge later paused and ruled against the agreement. Tax advisers say the fear of ICE exposure, plus the 2025 removal of child tax credit eligibility for parents without legal status, has sharply reduced filing among immigrant clients. Yale’s Budget Lab estimates the resulting federal revenue loss could range from $147bn to $479bn over 10 years, while undocumented immigrant households typically file about 50% of income tax returns and paid an estimated $96.7bn in 2022.",
+      "prop_args": [
+        {
+          "thesis": "Using tax data for immigration enforcement is economically self-defeating because it destroys voluntary compliance and shrinks federal revenue far beyond any enforcement gains.",
+          "mechanisms": [
+            "First, it collapses the trust-based tax system. This is because (1) undocumented workers are still legally required to file, but only do so if they believe the IRS will keep their data confidential, (2) the IRS has historically relied on that confidentiality to secure voluntary compliance, and (3) once people think filing can trigger deportation, they rationally stop participating altogether.",
+            "Second, it creates a large fiscal hole. Three reasons: one, undocumented households already contribute heavily, with an estimated $96.7bn paid in 2022; two, the IRS itself says even a 1% fall in voluntary compliance costs $46bn in federal revenue; three, Yale’s Budget Lab projects losses of $147bn to $479bn over 10 years, which is large enough to matter for deficits and public spending.",
+            "Third, it produces negative spillovers into the broader economy. This matters because (1) lower filings mean less income verification and weaker access to formal financial systems, (2) families lose child tax credit support, reducing consumption among households that are already liquidity constrained, and (3) the policy pushes workers further underground, making future tax collection and labor-market regulation harder."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The revenue loss is overstated because enforcement can improve compliance, deter fraud, and prioritize legal taxpayers over people who are already outside the system.",
+          "mechanisms": [
+            "First, the government can argue that stronger enforcement improves rule-following in the long run. One, some undocumented workers may still file because tax compliance helps with future regularization or demonstrates good-faith behavior; two, the IRS can still pursue non-filers through existing audit and information-matching tools; three, fear of enforcement may deter abuse of credits and false filings.",
+            "Second, the fiscal tradeoff may be smaller than critics claim. One, undocumented immigrants are not entitled to most deductions and benefits, so their net fiscal contribution is already limited relative to citizens; two, the child tax credit change removes a subsidy that the administration can frame as misallocated spending; three, if some workers stop filing, the state may save on administrative and transfer costs associated with processing those returns and credits."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether tax compliance is elastic to trust or to enforcement. Prop wins if you believe the IRS system depends on voluntary participation, because once that trust is broken the revenue losses are immediate, large, and hard to reverse; Opp only wins if they can show enforcement meaningfully increases compliance without triggering mass exit from the tax system.",
+      "stock_connections": [
+        "Trust in institutions",
+        "Voluntary compliance",
+        "Informal economy",
+        "Race to the bottom",
+        "Fiscal drag",
+        "Moral hazard",
+        "Underground economy",
+        "Immigration enforcement externalities",
+        "Child poverty"
+      ],
+      "motion_areas": [
+        "TH, as the US government, would prohibit IRS data sharing with immigration enforcement",
+        "THBT governments should never condition tax compliance on immigration status enforcement",
+        "THP a world where undocumented immigrants are guaranteed tax confidentiality"
+      ],
+      "data_points": [
+        "Yale’s Budget Lab estimates $147bn to $479bn in lost federal revenue over 10 years",
+        "IRS estimate: a 1% decrease in voluntary tax compliance would cost $46bn in federal tax revenue",
+        "Undocumented immigrant households typically file about 50% of income tax returns in the US",
+        "Undocumented immigrants paid an estimated $96.7bn in taxes in 2022",
+        "Up to 2.7 million children who are US citizens or lawful permanent residents could lose access to the child tax credit",
+        "Child poverty is estimated at 13% to 16%, up from 5.2% in 2021",
+        "One tax adviser reported losing as many as 75% of clients at a Latino tax service firm",
+        "Another adviser said 30% to 40% of clients did not file taxes this year"
+      ]
+    },
+    {
+      "id": "f4194a9f957e",
+      "title": "Israeli Interception of Gaza Flotilla Tests Legitimacy of Blockade Versus Humanitarian Access",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T10:00:47Z",
+      "category": "IR",
+      "region": "Gaza; Cyprus; Israel; Turkey; international waters; Greece",
+      "background": "Pro-Palestinian activists say Israeli forces are intercepting the Global Sumud Flotilla, a fleet of more than 50 boats carrying aid for Gaza, about 250 nautical miles (460km) from Gaza and west of Cyprus. The flotilla says armed commandos boarded several boats in international waters; Israel has not immediately commented, but its foreign ministry previously called the mission \"a provocation\" and said it would not allow any breach of its maritime blockade on Gaza. Last month, Israel intercepted 22 boats from the same flotilla near Crete, detaining about 175 activists, most of whom were later released; the current voyage began from Turkey's Marmaris after that incident. The UN said last week that humanitarian operations in Gaza remain constrained by restrictions on spare parts, generators, fuel and engine oil, while only 86% of supplies approved by Israeli authorities were ultimately offloaded at crossings.",
+      "prop_args": [
+        {
+          "thesis": "Interdicting the flotilla is a necessary enforcement of a lawful blockade that prevents arms smuggling and preserves Israel’s leverage over Hamas.",
+          "mechanisms": [
+            "First, the blockade is only credible if Israel can enforce it beyond territorial waters. This is because (1) if activists can sail aid boats through international waters with impunity, then hostile actors can use the same route to test or pierce the blockade, (2) maritime interdiction creates a deterrent signal that the blockade is not symbolic, and (3) allowing one breach invites repeated convoys that gradually normalize non-state challenges to Israeli control.",
+            "Second, the operation reduces the risk of dual-use material entering Gaza. Three reasons: one, aid shipments can conceal fuel, communications gear, spare parts, or other items that have military utility; two, Israel argues Hamas has historically diverted civilian infrastructure inputs into tunnel and weapons networks; three, stopping boats at sea is easier than trying to recover prohibited goods after they enter a dense war zone.",
+            "Third, the interception preserves bargaining leverage in the conflict. This matters because (1) Israel uses control over maritime access as part of its broader pressure on Hamas, (2) weakening that leverage without a negotiated settlement rewards unilateral activism over diplomacy, and (3) if Hamas or allied groups believe external actors can force access, they have less incentive to compromise on hostages, ceasefire terms, or demilitarization."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Boarding aid boats in international waters is an unlawful escalation that deepens Gaza’s humanitarian crisis while damaging Israel’s diplomatic standing.",
+          "mechanisms": [
+            "First, the interception undermines humanitarian relief when Gaza’s civilian infrastructure is already collapsing. Numbered reasons: one, the UN says humanitarian operations are still being blocked by shortages of fuel, engine oil, generators, and spare parts; two, only 86% of supplies approved by Israeli authorities were actually offloaded, showing that formal approval does not guarantee delivery; three, stopping independent aid convoys further reduces the volume and credibility of relief reaching civilians.",
+            "Second, the optics and legality of boarding in international waters create major diplomatic costs. Numbered reasons: one, activists can frame the action as piracy or collective punishment, which mobilizes international condemnation; two, repeated interceptions of 22 boats last month and now more than 50 boats create a pattern that looks like suppression rather than security; three, the more Israel relies on force against civilian aid missions, the easier it is for critics to isolate it in multilateral forums and among allied publics.",
+            "Third, the blockade itself becomes politically self-defeating. Numbered reasons: one, if Israel is seen as blocking food and medicine rather than just weapons, it strengthens Hamas’s narrative and recruitment; two, it increases pressure on third states like Greece, Cyprus, Turkey, and Spain to challenge Israeli policy; three, it shifts the conflict from a security dispute into a legitimacy crisis, which is harder for Israel to win over time."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the blockade is treated as a legitimate security tool or as collective punishment against civilians. Prop wins if you prioritize preventing weapons leakage and preserving deterrence; opp wins if you think the humanitarian shortfall and international-law costs outweigh the marginal security gain, especially given the UN’s evidence that aid is still not reliably reaching Gaza.",
+      "stock_connections": [
+        "Collective Punishment",
+        "Humanitarian Intervention",
+        "Blockade Legality",
+        "Security Dilemma",
+        "Civilian Harm",
+        "International Law and Norm Erosion",
+        "Asymmetric Warfare",
+        "Deterrence",
+        "Legitimacy Costs"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would intercept the Gaza-bound flotilla",
+        "THBT states should be allowed to enforce maritime blockades in international waters during armed conflict",
+        "THP a world where humanitarian aid convoys can challenge blockades without state permission"
+      ],
+      "data_points": [
+        "More than 50 boats were in the Global Sumud Flotilla",
+        "The flotilla was intercepted about 250 nautical miles (460km) from Gaza",
+        "Last month Israel intercepted 22 boats near Crete and detained about 175 activists",
+        "Only 86% of humanitarian supplies approved by Israeli authorities were ultimately offloaded at Gaza crossings, according to the UN",
+        "The UN said humanitarian operations were hindered by shortages of fuel, engine oil, spare parts, back-up generators, and other critical equipment",
+        "The Gaza war began on 7 October 2023, when about 1,200 people were killed and 251 hostages were taken",
+        "More than 72,760 people have been killed in Gaza, according to the Hamas-run health ministry",
+        "The flotilla said it was carrying aid for Gaza, where most of the 2.1 million population is displaced"
+      ]
+    },
+    {
+      "id": "19428ffcabf7",
+      "title": "Europe’s role in Ukraine peace talks becomes a test of strategic autonomy versus diplomatic fragmentation",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/18/europe-eu-ukraine-russia-greenland-bulgaria-germany-latest-news-updates",
+      "published": "2026-05-18T10:00:26Z",
+      "category": "IR",
+      "region": "Europe / Ukraine / Russia",
+      "background": "On 18 May 2026, Volodymyr Zelenskyy said Europe should choose a specific negotiator for any eventual peace talks with Russia and that Europe must have a “strong voice and presence” in the process. The EU has no single figurehead for such talks, with multiple institutional presidents but no obvious lead representative. The comments came as Russia continued large-scale attacks overnight with over 500 drones and 20 missiles, while Ukraine carried out retaliatory strikes that killed at least four people in Russia, including in Moscow.",
+      "prop_args": [
+        {
+          "thesis": "Giving Europe a designated negotiator strengthens Ukraine’s bargaining position and prevents Russia from exploiting EU disunity.",
+          "mechanisms": [
+            "First, a single European interlocutor reduces coordination failure. This is because (1) Russia can otherwise play member states against each other by offering selective concessions to more dovish capitals, (2) fragmented EU messaging weakens credibility on sanctions and security guarantees, and (3) a named negotiator creates a clear channel for rapid escalation, de-escalation, and verification.",
+            "Second, Europe’s presence makes any settlement more enforceable. Three reasons: one, the EU controls major sanctions relief and reconstruction finance, two, it can tie compliance to market access, frozen assets, and military aid, and three, Russia is more likely to respect terms if the actor monitoring them is the same bloc that can punish violations.",
+            "Third, this improves deterrence during talks. This matters because if Russia knows Europe is not sidelined, it cannot assume that bilateral US-Russia bargaining will trade away Ukrainian or European security interests, which raises the cost of stalling, cheating, or freezing the conflict on Moscow’s terms."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Appointing a European negotiator is mostly symbolic and could weaken the West by creating another layer of division and mixed incentives.",
+          "mechanisms": [
+            "First, Europe lacks the institutional unity to make one negotiator genuinely authoritative. One, the EU has multiple competing centers of power, two, member states have different threat perceptions and red lines, and three, Russia can exploit any gap between the negotiator’s mandate and what key capitals are actually willing to back.",
+            "Second, a European negotiator may reduce flexibility in the talks. One, peace processes often require backchannel diplomacy and issue-linkage, two, a formal EU representative may be constrained by consensus politics and legal mandates, and three, that can slow urgent ceasefire or prisoner-exchange arrangements when speed matters most.",
+            "Third, it may encourage Russia to treat Europe as a secondary actor rather than a decisive one. One, Moscow may still prefer direct bargaining with Washington, two, a European seat at the table does not automatically translate into military leverage, and three, if Europe cannot credibly enforce outcomes, the appointment becomes performative rather than strategic."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether representation translates into leverage. Pro wins if the round is about enforcement and coalition credibility, because Europe controls sanctions, money, and long-term security guarantees; opp wins if the round is about institutional realism, because a divided EU may turn a negotiator into a symbolic figure with little actual authority.",
+      "stock_connections": [
+        "Collective Action Problem",
+        "Great Power Diplomacy",
+        "Credible Commitment",
+        "Alliance Cohesion",
+        "Sanctions Leverage",
+        "Peace Negotiation Theory",
+        "Strategic Autonomy",
+        "Institutional Fragmentation"
+      ],
+      "motion_areas": [
+        "TH, as Europe, would appoint a single negotiator for peace talks with Russia",
+        "THBT the EU should take a leading role in any Ukraine-Russia peace settlement",
+        "THP a world where Europe has formal representation in all major ceasefire negotiations involving its security"
+      ],
+      "data_points": [
+        "Zelenskyy said Europe should determine who will represent it in eventual peace talks with Russia",
+        "Russia launched over 500 drones and 20 missiles overnight, according to the report",
+        "Ukraine’s retaliatory strikes over the weekend killed at least four people in Russia, including in Moscow",
+        "The EU has multiple presidents, including the European Commission, European Council, and European Parliament, but no single figurehead for peace talks",
+        "Estonia’s spy chief said Russia is losing more men than it is recruiting in the fifth year of the full-scale war",
+        "The Kremlin said the peace process with Ukraine is currently 'on pause' but expects it to resume"
+      ]
+    },
+    {
+      "id": "6986af32745a",
+      "title": "Labour’s EU Rejoin Debate Exposes the Tension Between Electoral Delivery and Pro-European Repositioning",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/may/18/keir-starmer-labour-leadership-wes-streeting-andy-burnham-david-lammy-brexit-eu-latest-news-updates",
+      "published": "2026-05-18T09:55:39Z",
+      "category": "IR",
+      "region": "UK / EU",
+      "background": "David Lammy, the UK deputy prime minister, dismissed Wes Streeting’s call for the UK to rejoin the EU as a “sixth form debate” in a broadcast round on 18 May 2026. Lammy said Labour was elected on a manifesto that ruled out rejoining the single market or customs union, and argued the party should focus on delivery rather than internal arguments. The article also notes that any serious re-entry talks would be unlikely while Reform UK remains a plausible future governing force, and cites Polish foreign minister Radosław Sikorski warning that the EU would not negotiate until Britain accepts it would not regain its old terms.",
+      "prop_args": [
+        {
+          "thesis": "Lammy is right: reopening the EU rejoin debate now is electorally reckless and strategically irrelevant, because it distracts from governing and weakens Labour’s credibility before any negotiation could even begin.",
+          "mechanisms": [
+            "First, it fractures Labour’s coalition at the worst possible time. This is because (1) pro-EU members hear hesitation as betrayal and become more factionalised, (2) leave-voting swing seats like Makerfield see rejoin talk as proof Labour is ignoring their preferences, and (3) leadership contenders are forced into public positioning that turns a policy question into a loyalty test.",
+            "Second, it has no immediate diplomatic payoff. Three reasons: one, the EU will not open serious accession-style talks while Reform UK could plausibly win the next election; two, Brussels has no incentive to negotiate with a government that may not survive; three, any future deal would almost certainly be worse than the pre-Brexit settlement, so raising expectations now only creates a later backlash.",
+            "Third, Labour’s comparative advantage is delivery, not constitutional nostalgia. This matters because (1) voters reward visible improvements in public services and the economy more than abstract institutional debate, (2) the government has limited political capital and should spend it on domestic competence, and (3) if Labour looks obsessed with Europe, it hands Reform a simple anti-elite attack line about Westminster being detached from ordinary concerns."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Streeting’s rejoin push is politically useful because keeping EU membership on the agenda helps Labour define a long-term pro-growth, pro-competence vision and prevents Brexit from becoming permanently settled as a low-ambition status quo.",
+          "mechanisms": [
+            "First, it gives Labour a clear strategic identity. One, rejoining signals openness to trade, labour mobility, and regulatory alignment that could boost growth; two, it differentiates Labour from both Conservative Brexit management and Reform nationalism; three, it reassures younger, urban, and pro-EU voters that Labour is not simply administering Brexit forever.",
+            "Second, the debate can be used to shift the Overton window even if re-entry is not immediate. One, repeated elite discussion normalises closer integration and makes softer steps—single market alignment, customs cooperation, youth mobility—more politically feasible; two, it keeps pressure on future manifestos; three, it prevents the issue from being monopolised by the right as a closed question.",
+            "Third, suppressing the debate may be more dangerous than airing it. One, if Labour refuses to discuss Europe, it leaves a vacuum that anti-EU forces fill with grievance and misinformation; two, internal silence can deepen factional resentment among pro-EU MPs and members; three, a party that cannot debate its long-term foreign-economic orientation looks timid and intellectually exhausted."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term electoral discipline and long-term strategic repositioning. Prop wins if the round is about immediate governing incentives and coalition management; opp wins if you can prove that agenda-setting now is what makes any future pro-EU shift politically possible.",
+      "stock_connections": [
+        "Electoral Coalition Management",
+        "Issue Salience",
+        "Overton Window",
+        "Factionalism",
+        "Populist Backlash",
+        "Credibility Trap",
+        "Policy Signalling",
+        "Path Dependence"
+      ],
+      "motion_areas": [
+        "TH, as a governing party, would avoid reopening debates on reversing Brexit until the next election",
+        "THBT Labour should not campaign on rejoining the EU",
+        "THP a world where mainstream parties stop treating EU re-entry as a live policy option",
+        "TH, in the UK, would prioritise delivery over constitutional realignment"
+      ],
+      "data_points": [
+        "Wes Streeting publicly said he wanted the UK to rejoin the EU",
+        "Lammy said Labour was elected on a manifesto that ruled out joining the single market or customs union",
+        "Lammy warned that '10 weeks' of internal debate could put Labour 'out of office' and usher in Nigel Farage",
+        "The article says Burnham could be a viable candidate for prime minister within weeks and Starmer could be out by autumn",
+        "Radosław Sikorski, Poland’s foreign minister, warned EU members see no point negotiating until Britain accepts any future deal will not match the old one"
+      ]
+    },
+    {
+      "id": "5cca00358d54",
+      "title": "US Pushes G7 to Join a US-Led Sanctions Regime on Iran",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/video-us-calls-on-g7-to-impose-us-led-sanctions-on-iran?traffic_source=rss",
+      "published": "2026-05-18T09:46:00Z",
+      "category": "IR",
+      "region": "Iran / United States / G7 / Global",
+      "background": "On 18 May 2026, US Treasury Secretary Scott Bessent called on the G7 to join the United States in imposing sanctions on Iran. The appeal came as G7 finance ministers gathered in Paris for a two-day meeting amid broader global economic turbulence. The article frames the US as seeking a wider coalition behind a sanctions strategy that would be led by Washington rather than negotiated as a fully multilateral regime.",
+      "prop_args": [
+        {
+          "thesis": "A US-led G7 sanctions coalition is the most credible way to maximize pressure on Iran while preserving Western leverage over escalation.",
+          "mechanisms": [
+            "First, coordinated sanctions increase economic pressure by closing the obvious evasion routes that Iran uses when only one bloc acts. This is because (1) the G7 controls major financial, insurance, shipping, and technology channels, (2) synchronized restrictions reduce arbitrage between jurisdictions, and (3) broader participation signals to banks and firms that compliance risk is global rather than optional.",
+            "Second, a US-led framework creates faster decision-making than waiting for universal consensus. Three reasons: one, the US can set the baseline and move immediately; two, G7 alignment gives the policy legitimacy of a major club without the paralysis of the UN Security Council; three, speed matters because sanctions are most effective before Iran can pre-position assets, reroute trade, or build alternative payment channels.",
+            "Third, the threat of sanctions improves bargaining power in any future diplomatic track. This matters because (1) Iran is more likely to negotiate when the cost of non-compliance rises, (2) a credible coalition makes partial concessions more valuable, and (3) Western states can calibrate relief in exchange for verifiable limits, rather than relying on unenforceable promises."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A US-led sanctions push is counterproductive because it hardens Iranian resistance, fragments allies, and produces limited strategic gains.",
+          "mechanisms": [
+            "First, sanctions often strengthen hardliners inside Iran. One, external pressure lets the regime frame economic pain as foreign aggression; two, that weakens domestic moderates who argue for engagement; three, it increases public willingness to tolerate repression in the name of national survival.",
+            "Second, a US-led approach can split the G7 and reduce long-term coalition discipline. One, European and Asian partners may resist measures that harm their firms more than they constrain Iran; two, uneven enforcement creates loopholes and competitive disadvantage; three, once allies see sanctions as serving US geopolitical goals, they become less willing to join future pressure campaigns.",
+            "Third, sanctions can fail strategically by pushing Iran toward alternative patrons and illicit networks. One, Iran adapts by expanding ties with sanctioned or non-Western states; two, black-market and shadow-finance channels become more sophisticated over time; three, the result is a durable sanctions economy that hurts civilians more than elite decision-makers."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether sanctions create coercive leverage or simply entrench defiance. Prop is strongest if it can show coalition breadth and enforcement capacity; Opp wins if it proves the policy mainly redistributes pain onto civilians while Iran’s leadership absorbs the pressure and adapts.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Sanctions Efficacy",
+        "Rally Around the Flag",
+        "Elite Entrenchment",
+        "Humanitarian Harm",
+        "Coalition Politics",
+        "Evasion and Sanctions Busting",
+        "Deterrence"
+      ],
+      "motion_areas": [
+        "TH, as the G7, would impose US-led sanctions on Iran",
+        "THBT Western states should prioritize sanctions over negotiations with Iran",
+        "THP a world where major powers can unilaterally coordinate sanctions coalitions outside the UN"
+      ],
+      "data_points": [
+        "US Treasury Secretary Scott Bessent made the call on 18 May 2026",
+        "The appeal was made as G7 finance ministers met in Paris for a two-day meeting",
+        "The article describes the move as a call for 'the world' to join US sanctions on Iran"
+      ]
+    },
+    {
+      "id": "07b0d4dfcb77",
+      "title": "Kenya’s Fuel Shock Exposes the Political Limits of Passing Global Energy Costs Onto Consumers",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T09:40:27Z",
+      "category": "Econ",
+      "region": "Kenya / Nairobi / Gulf region / Strait of Hormuz / international",
+      "background": "Thousands of Kenyan commuters were stranded after public transport operators launched a nationwide strike over recent fuel price hikes. Kenya’s Energy and Petroleum Regulatory Authority raised petroleum prices last week to record levels, with diesel and petrol reaching 242 shillings ($1.8) and $1.65 per litre respectively, after costs rose by more than 20%. The strike shut roads in Nairobi, disrupted businesses and schools, and came amid wider supply pressure from Gulf fuel imports affected by the US-Israel conflict with Iran and continued disruption around the Strait of Hormuz, through which about one-fifth of global oil passes.",
+      "prop_args": [
+        {
+          "thesis": "When global fuel shocks hit import-dependent economies, governments must cushion consumers or face immediate economic paralysis and political backlash.",
+          "mechanisms": [
+            "First, passing the full price shock onto consumers destroys transport affordability and freezes the real economy. This is because (1) matatus and truckers immediately raise fares and logistics costs, (2) commuters then cut travel, work attendance, and consumption, and (3) firms face lower footfall and higher input costs, which is why businesses in Nairobi shut and schools sent students home.",
+            "Second, fuel inflation quickly becomes economy-wide inflation through transport-heavy supply chains. Three reasons: one, food and basic goods become more expensive because distribution costs rise; two, informal workers are hit hardest because they cannot absorb higher commuting costs; three, wage growth usually lags behind fuel spikes, so households experience an immediate real-income squeeze.",
+            "Third, visible hardship creates a legitimacy crisis that is more destabilizing than the fiscal cost of temporary relief. This matters because the strike shows that once prices are seen as unfair or externally imposed, the state loses the ability to enforce normal economic activity, and protests, road blockades, and police clashes become the new default."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Governments cannot and should not fully insulate consumers from global fuel shocks because doing so is fiscally unsustainable and distorts the market response.",
+          "mechanisms": [
+            "First, large fuel subsidies or price suppression create a budget hole that crowds out more productive spending. One, fuel is a mass-consumption good, so compensation is expensive and broad-based; two, Kenya already cut VAT on fuel from 16% to 8% only until July, showing the limits of temporary relief; three, if the state keeps prices artificially low, it must either borrow more or cut health, education, and infrastructure spending.",
+            "Second, domestic price signals are necessary to reduce demand and prevent deeper import dependence. One, higher prices encourage consumers and firms to conserve fuel, switch routes, or adopt efficiency measures; two, suppressing prices delays adjustment and keeps the economy locked into vulnerable import patterns; three, in a world where the Strait of Hormuz can be disrupted, resilience requires adaptation, not permanent compensation.",
+            "Third, the strike is a coercive tactic that harms the very people it claims to defend. One, shutting transport strands commuters and blocks access to work, school, and hospitals; two, coordinated shutdowns empower organized operators to extract concessions at the expense of the broader public; three, the government is right that it cannot solve a global supply problem with purely domestic means, so the better response is targeted aid rather than capitulation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether short-term social stability outweighs long-term fiscal discipline and market adjustment. Prop wins if the round is about immediate welfare and state legitimacy under external shock; opp wins if the judge prioritizes sustainability and argues that price suppression only postpones the pain while worsening public finances.",
+      "stock_connections": [
+        "Cost-push inflation",
+        "Pass-through effects",
+        "Subsidy dependence",
+        "Fiscal crowding out",
+        "Informal economy vulnerability",
+        "Import dependence",
+        "Energy security",
+        "Social unrest",
+        "State legitimacy",
+        "Price controls"
+      ],
+      "motion_areas": [
+        "TH, as a developing government facing a global commodity shock, would heavily subsidize fuel prices",
+        "THBT governments should prioritize consumer protection over market pricing during energy crises",
+        "THP a world where states can cap essential fuel prices during international supply disruptions"
+      ],
+      "data_points": [
+        "Fuel prices in Kenya rose by more than 20% after the latest increase",
+        "Diesel and petrol reached 242 shillings ($1.8) and $1.65 per litre respectively",
+        "Kenya relies heavily on fuel imports from the Gulf",
+        "About one-fifth of the world’s oil passes through the Strait of Hormuz",
+        "Kenya cut VAT on fuel from 16% to 8% until July",
+        "Thousands of commuters were stranded and businesses in Nairobi were shut"
+      ]
+    },
+    {
+      "id": "df67b382bd89",
+      "title": "US-Nigeria Counter-ISIL Air Campaign Deepens Security Dependence in the Lake Chad Basin",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/18/us-military-carries-out-more-strikes-against-isil-fighters-in-nigeria?traffic_source=rss",
+      "published": "2026-05-18T09:39:54Z",
+      "category": "IR",
+      "region": "Nigeria / Lake Chad Basin / United States / international",
+      "background": "The US Africa Command (AFRICOM) said it carried out additional air strikes against ISIL fighters in northeastern Nigeria on Sunday, in coordination with the Nigerian government, and said no US or Nigerian forces were harmed. The strikes came two days after US President Donald Trump and Nigerian President Bola Tinubu announced the killing of Abu-Bilal al-Minuki, described by Nigeria as ISIL’s second-in-command, in a joint operation in the Lake Chad Basin. Nigeria says dozens of US soldiers have been deployed in recent months for intelligence sharing and technical support, while Nigerian officials say they will not take a direct combat role.",
+      "prop_args": [
+        {
+          "thesis": "US strikes strengthen Nigeria’s counterinsurgency capacity by degrading ISWAP leadership faster than Nigeria can do alone.",
+          "mechanisms": [
+            "First, the strikes remove high-value commanders and disrupt operational continuity. This works because (1) ISWAP’s leadership is already being decapitated, with Abu-Bilal al-Minuki reportedly killed alongside several lieutenants, (2) insurgent groups in the Lake Chad Basin rely on a small cadre to coordinate financing, logistics, and cross-border attacks, and (3) killing leaders forces time-consuming replacement and reorganization.",
+            "Second, US involvement improves Nigeria’s battlefield effectiveness through intelligence and technical support. Three reasons: one, AFRICOM brings surveillance, targeting, and strike capabilities Nigeria lacks at scale; two, the deployment of dozens of US soldiers for intelligence sharing reduces information gaps in a fragmented insurgency environment; three, joint operations increase the probability of hitting mobile targets before they disperse.",
+            "Third, the campaign can deter future attacks by raising the cost of insurgent coordination. This matters because (1) repeated precision strikes signal that senior ISWAP figures are no longer safe in rear areas, (2) the group must spend more resources on concealment and counterintelligence instead of recruitment and governance, and (3) visible cooperation with the US can reassure local communities and regional partners that the state is regaining initiative."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "US strikes are a short-term tactical fix that risks entrenching Nigerian dependence while failing to solve the political and territorial drivers of insurgency.",
+          "mechanisms": [
+            "First, the strikes do not address the root causes of ISWAP recruitment and resilience. One, the Lake Chad Basin insurgency is sustained by poverty, displacement, and weak state presence; two, leadership decapitation often produces rapid replacement rather than collapse; three, airpower cannot substitute for governance, policing, and local reconciliation.",
+            "Second, deeper US involvement can create sovereignty and legitimacy problems for the Nigerian government. One, Trump’s rhetoric about killing Christians frames the conflict as sectarian and externalizes domestic insecurity, which Nigeria has publicly rejected; two, visible US military support can fuel propaganda that the government is a foreign proxy; three, dependence on US intelligence and strikes reduces incentives to build indigenous capacity.",
+            "Third, the campaign may escalate civilian harm and insurgent adaptation even if no forces were harmed in this round. One, air strikes in insurgent-heavy terrain increase the risk of misidentification and collateral damage; two, civilian casualties or perceived abuses can drive recruitment for ISWAP and Boko Haram offshoots; three, surviving fighters can disperse into smaller cells, making the conflict more diffuse and harder to contain."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate tactical degradation and long-term conflict resolution. Prop wins if the round is about stopping imminent attacks and exploiting a leadership vacuum; opp wins if the judge prioritizes whether foreign military support actually builds durable state capacity or just prolongs dependence and insurgent adaptation.",
+      "stock_connections": [
+        "Counterinsurgency",
+        "Leadership Decapitation",
+        "State Capacity",
+        "Foreign Military Intervention",
+        "Sovereignty",
+        "Civilian Harm",
+        "Insurgent Adaptation",
+        "Security Dilemma",
+        "Dependency"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would conduct limited air strikes against insurgent groups in Nigeria",
+        "THBT foreign military intervention is justified in counterterrorism operations in weak states",
+        "THP a world where major powers provide intelligence-led strike support to African counterinsurgencies"
+      ],
+      "data_points": [
+        "AFRICOM said the latest strikes were carried out on Sunday and announced on Monday, with no US or Nigerian forces harmed",
+        "US and Nigerian presidents announced the killing of Abu-Bilal al-Minuki two days before the latest strikes",
+        "Nigeria says dozens of US soldiers have been deployed in recent months for intelligence sharing and technical support",
+        "US forces launched air strikes against ISIL-affiliated fighters in northwestern Nigeria last Christmas",
+        "Nigeria says US troops will not play a direct combat role and will remain under Nigerian command authority",
+        "Trump told The New York Times: 'I’d love to make it a one-time strike. But if they continue to kill Christians, it will be a many-time strike.'"
+      ]
+    },
+    {
+      "id": "7ebc31816099",
+      "title": "Falling Oil Inventories Threaten a New Inflation Shock and Force Central Banks Into Harder Trade-Offs",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iea-chief-warns-commercial-oil-inventories-are-falling-very-fast",
+      "published": "2026-05-18T09:37:32Z",
+      "category": "Econ",
+      "region": "Global",
+      "background": "On 18 May 2026, Bloomberg reported that IEA executive director Fatih Birol warned commercial oil inventories are falling \"very fast.\" The warning came as G-7 finance ministers and central bank governors met in Paris, where officials were already focused on spiking bond yields and concerns about consumer prices. The broader context is that markets are watching energy supply tightness at a time when inflation expectations remain politically and macroeconomically sensitive.",
+      "prop_args": [
+        {
+          "thesis": "Tight oil inventories make inflation more persistent, so governments and central banks should treat energy security as a macroeconomic priority rather than assuming markets will self-correct.",
+          "mechanisms": [
+            "First, falling inventories reduce the buffer against supply shocks. This is because (1) any disruption in production, shipping, or geopolitics now transmits faster into spot prices, (2) refiners and traders have less stock to smooth volatility, and (3) households and firms face immediate pass-through into transport, food, and input costs.",
+            "Second, tighter oil markets worsen inflation expectations. Three reasons: one, energy is highly visible to consumers, so price spikes shape beliefs about future inflation; two, firms pre-emptively raise prices and wages when they expect higher fuel costs; three, central banks are forced to stay hawkish longer, keeping borrowing costs elevated.",
+            "Third, the macro spillover is broader than energy alone. This matters because higher oil prices can (1) push up bond yields as investors price in stickier inflation, (2) squeeze real incomes and consumption, and (3) slow growth while simultaneously worsening fiscal balances through subsidy and import bills."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Low inventories are a warning sign, but they do not automatically translate into a lasting inflation crisis because markets, producers, and policymakers can adjust quickly.",
+          "mechanisms": [
+            "First, oil markets are highly responsive to price signals. One, higher prices incentivize producers to raise output where possible; two, strategic reserves and commercial hedging can cushion short-term shocks; three, demand destruction from expensive fuel quickly caps further price increases.",
+            "Second, the inflation pass-through may be temporary rather than structural. One, energy is volatile and often drops out of core inflation measures; two, central banks can look through a one-off energy spike if wage growth stays contained; three, a stronger dollar or weaker global demand can offset oil-driven price pressure.",
+            "Third, the political economy of inventories cuts both ways. One, firms have incentives to rebuild stocks when margins allow; two, governments can release strategic reserves in emergencies; three, the IEA warning may itself trigger precautionary supply responses that reduce the severity of the shock."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the inventory drawdown becomes a sustained supply constraint or just a short-lived market scare. Prop wins if they can show energy prices feed directly into expectations, yields, and policy tightening; opp wins if they frame oil as a volatile but self-correcting input with limited core-inflation effects.",
+      "stock_connections": [
+        "Inflation expectations",
+        "Supply shock",
+        "Cost-push inflation",
+        "Central bank credibility",
+        "Energy security",
+        "Terms of trade shock",
+        "Recession risk",
+        "Strategic reserves"
+      ],
+      "motion_areas": [
+        "TH, as central banks, would prioritize energy-price shocks over core inflation when setting policy",
+        "THBT governments should treat oil inventory levels as a national security issue",
+        "THP a world where strategic petroleum reserves are used more aggressively to stabilize prices",
+        "TH, as the G7, would coordinate intervention in energy markets to suppress inflation"
+      ],
+      "data_points": [
+        "IEA chief Fatih Birol warned commercial oil inventories are falling \"very fast\" on 18 May 2026",
+        "The warning was made during the G-7 finance ministers and central bank governors meeting in Paris",
+        "Markets in Paris were already reacting to spiking yields driven by investor concerns about consumer prices",
+        "The article situates the oil warning alongside other global imbalances, including the US budget deficit and China’s weak consumption"
+      ]
+    },
+    {
+      "id": "b512309c9b5c",
+      "title": "Iran War Shows How Manufactured Instability Can Become a Political Asset for Thugocratic Elites",
+      "source": "Project",
+      "url": "https://www.project-syndicate.org/commentary/iran-war-exemplifies-thugocracy-in-action-by-mohammad-reza-farzanegan-2026-05",
+      "published": "2026-05-18T09:33:53Z",
+      "category": "IR",
+      "region": "Iran / United States / Israel / Middle East",
+      "background": "The article argues that the US-Israeli war with Iran has exposed how instability can be politically and economically useful for ruling elites. It cites economist Ronald Wintrobe’s concept of \"thugocracy,\" defined as rule based on coercion, intimidation, and unpredictability. The core claim is that crises can concentrate rewards among insiders while shifting the costs of conflict onto society, making escalation harder to contain.",
+      "prop_args": [
+        {
+          "thesis": "States and elites that profit from volatility will deliberately sustain conflict because chaos strengthens their domestic control and bargaining power.",
+          "mechanisms": [
+            "First, volatility consolidates internal loyalty. This is because (1) supporters become more dependent on the regime for protection and patronage, (2) dissent becomes easier to frame as disloyalty during wartime, and (3) fear raises the political cost of defection for elites and ordinary citizens alike.",
+            "Second, unpredictability becomes a coercive bargaining tool. Three reasons: one, it makes foreign adversaries harder to plan against; two, it allows leaders to extract concessions by threatening escalation; three, it creates a permanent crisis environment in which emergency powers and repression become easier to justify.",
+            "Third, the costs of instability are socialized while the gains are privatized. This matters because insiders can capture wartime rents, security contracts, and political leverage, while the broader population absorbs inflation, insecurity, and destruction — meaning the regime has incentives to prolong rather than resolve conflict."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Even if instability can benefit elites in the short run, it is ultimately self-defeating because it erodes state capacity, economic performance, and regime legitimacy.",
+          "mechanisms": [
+            "First, prolonged conflict destroys the material base of rule. One, war disrupts trade, investment, and production; two, it drains fiscal resources into security spending; three, it increases inflation and scarcity, which eventually hits the regime’s own coalition and weakens loyalty.",
+            "Second, manufactured unpredictability can backfire strategically. One, it hardens foreign opposition and increases deterrence; two, it encourages adversaries to build coalitions, sanctions, or military responses; three, it raises the risk of miscalculation and escalation beyond what elites can control."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether short-term coercive gains outweigh long-term systemic decay. Prop wins if the round is about immediate incentives and regime survival under crisis, but Opp has the structural advantage if the judge prioritizes durability, because conflict that enriches insiders today can still hollow out the state tomorrow.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Rent-Seeking",
+        "Elite Capture",
+        "Authoritarian Resilience",
+        "Security Dilemma",
+        "Rally Around the Flag",
+        "Democratic Backsliding",
+        "War Economy"
+      ],
+      "motion_areas": [
+        "TH, as an authoritarian regime, would exploit external conflict to consolidate power",
+        "THBT states benefit more from instability than stability in the short term",
+        "THP a world where leaders can use manufactured crises to strengthen domestic control",
+        "THBT wartime emergency powers are more dangerous than peacetime repression"
+      ],
+      "data_points": [
+        "The article explicitly frames the Iran war as a case of \"thugocracy\" — rule based on coercion, intimidation, and unpredictability.",
+        "It identifies the conflict as the US-Israeli war with Iran, making the relevant actors Iran, the United States, and Israel.",
+        "The core distributive claim is that rewards are concentrated among powerful insiders while society absorbs the costs.",
+        "The article argues that chaos remains politically and economically rewarding, making conflicts difficult to contain."
+      ]
+    },
+    {
+      "id": "8b2e01f3eb69",
+      "title": "Cheap Weaponised Drones Give Colombian Armed Groups Aerial Advantage Over A Struggling State",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/18/drones-war-colombia-civilians-farc-acled",
+      "published": "2026-05-18T09:00:04Z",
+      "category": "IR",
+      "region": "Colombia",
+      "background": "Weaponised drone attacks in Colombia surged from 1 recorded attack in 2023 to 38 in 2024 and 149 in 2025 according to ACLED; Colombia’s defence ministry recorded 0 in 2023, 61 in 2024 and 333 in 2025. The attacks have spread across at least 41 municipalities by 2025, hitting police stations, military bases, hospitals, schools, homes and infrastructure, with hundreds of injuries and several high-profile civilian deaths, including a 10-year-old boy killed in Cauca in 2024. Armed groups including Farc dissidents and the ELN are modifying cheap commercial drones, sometimes for kamikaze attacks, while the Colombian government is rolling out anti-drone measures and specialised units.",
+      "prop_args": [
+        {
+          "thesis": "The spread of weaponised drones strengthens armed groups more than the state, making Colombia’s conflict more lethal, harder to police, and more likely to entrench criminal territorial control.",
+          "mechanisms": [
+            "First, drones massively lower the cost of offensive violence while raising the cost of defence. This is because (1) commercial drones can be modified for a few hundred dollars, (2) they let small groups strike from distance without risking fighters, and (3) the state must spend far more on jamming, detection, and specialised units across thousands of dispersed platoons.",
+            "Second, drones expand the geographic reach of armed groups beyond traditional conflict zones. Three reasons: one, ACLED says attacks spread from 12 municipalities in 2024 to 41 in 2025; two, drones can hit police, hospitals, airports, and military bases deep inside state territory; three, this forces the government into permanent dispersion, weakening its ability to concentrate force and protect civilians.",
+            "Third, the civilian impact is not incidental but structurally escalatory. This matters because (1) drones are imprecise and create fear even when they miss, (2) armed groups can use them to intimidate communities into rejecting state presence, and (3) once civilians and infrastructure become routine targets, the conflict shifts from contesting armed actors to coercing whole populations, which entrenches displacement and local governance collapse."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Drone proliferation can ultimately favour the state by making insurgent groups more visible, more vulnerable to countermeasures, and less able to hold territory or operate openly.",
+          "mechanisms": [
+            "First, drones create a detectable electronic and logistical footprint that the state can exploit. One, commercial supply chains, operators, and training networks are easier to trace than traditional guerrilla arms; two, once groups formalise drone units, they centralise expertise and create identifiable targets; three, anti-drone systems, intelligence, and border controls can disrupt imports and operations over time.",
+            "Second, drones are tactically powerful but strategically shallow. One, they are mainly useful for harassment, ambush, and symbolic strikes rather than sustained territorial control; two, they do not solve armed groups’ dependence on drug routes, mining, recruitment, and local protection rackets; three, if the state adapts faster than expected, drones may raise short-term violence without changing the long-run balance of power."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether drones are a temporary tactical innovation or a durable force multiplier for non-state actors. Prop wins if you weigh immediate civilian harm, state overstretch, and the way cheap drones let fragmented groups punch above their weight faster than institutions can adapt.",
+      "stock_connections": [
+        "Arms race",
+        "Asymmetric warfare",
+        "State capacity",
+        "Insurgency escalation",
+        "Civilian protection",
+        "Technological diffusion",
+        "Security dilemma",
+        "Territorial control",
+        "Criminal governance",
+        "Low-cost force multiplication"
+      ],
+      "motion_areas": [
+        "TH, as the Colombian government, would prioritise aggressive anti-drone militarisation over negotiated restraint",
+        "THBT states facing insurgencies should treat commercial drone proliferation as a national security emergency",
+        "THP a world where non-state armed groups can cheaply access battlefield drones"
+      ],
+      "data_points": [
+        "ACLED recorded 1 drone attack in 2023, 38 in 2024, and 149 in 2025",
+        "Colombia’s defence ministry recorded 0 drone attacks in 2023, 61 in 2024, and 333 in 2025",
+        "Drone attacks spread to 12 municipalities in 2024 and 41 in 2025",
+        "More than 450,000 people have been killed in Colombia’s decades-long conflict",
+        "A 10-year-old boy was killed in a drone grenade attack in Cauca in 2024",
+        "Seven soldiers were killed and 30 injured in a December 2025 strike on a military base",
+        "A February 2026 drone attack in Segovia killed a mother and her two sons",
+        "The device found near Bogotá airport was a fibre optic drone resistant to jamming",
+        "The Colombian army has 3,000 platoons deployed nationwide, according to Maj Gen Luis Emilio Cardozo"
+      ]
+    },
+    {
+      "id": "6ce2e41a4f2b",
+      "title": "Covert Israeli Bases in Iraq Expose Sovereignty Collapse and Escalatory Shadow War Dynamics",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt?traffic_source=rss",
+      "published": "2026-05-18T08:57:48Z",
+      "category": "IR",
+      "region": "Iraq / Israel / Iran / United States",
+      "background": "The New York Times reported that Israel built two covert military outposts in western Iraq in advance of the US-Israel war on Iran. One site was reportedly being prepared since late 2024, and the Wall Street Journal earlier said one base was established shortly before the war and operated with US knowledge, housing Israeli special forces and logistics for air operations. Iraqi officials have denied authorising any foreign military presence, while Baghdad privately protested to Washington in late March over suspected covert activity as a violation of Iraqi sovereignty.",
+      "prop_args": [
+        {
+          "thesis": "Covert foreign bases in Iraq prove that weak states become staging grounds for regional powers, making sovereignty meaningless unless Baghdad can credibly expel outside actors.",
+          "mechanisms": [
+            "First, the bases create a direct sovereignty breach. This is because (1) they are allegedly built without Iraqi consent, (2) they allow a foreign military to operate inside Iraqi territory, and (3) they normalize the idea that powerful states can treat Iraq as an expendable corridor for their own wars.",
+            "Second, the presence of a clandestine Israeli footprint deepens Iraq’s internal security crisis. Three reasons: one, it forces Iraqi forces to spend resources hunting covert cells instead of governing; two, it increases the risk of accidental clashes with Iraqi units, as the report says Israeli forces allegedly fired on Iraqi units that came close to discovering the site; three, it gives Iran-backed militias a propaganda and recruitment windfall by framing the state as unable to defend national dignity.",
+            "Third, the bases increase escalation risk across the region. This matters because a hidden logistics hub for air operations and search-and-rescue makes Iraq part of the battlefield, so any strike, exposure, or retaliation can drag Baghdad into a wider US-Israel-Iran confrontation even if it wants neutrality."
+          ]
+        },
+        {
+          "thesis": "The report shows that clandestine forward basing is a force multiplier for Israel, allowing it to project power against Iran while reducing operational costs and improving survivability.",
+          "mechanisms": [
+            "First, forward bases shorten the operational chain. This is because (1) they reduce flight time and refuelling constraints, (2) they provide a logistics hub for special forces and air operations, and (3) they improve search-and-rescue capacity for downed pilots, which makes risky missions more sustainable.",
+            "Second, covert basing improves strategic surprise. Three reasons: one, secrecy delays Iraqi or Iranian detection; two, it allows Israel to pre-position assets before open conflict begins; three, it complicates adversary targeting because the site is not publicly acknowledged and may be harder to defend against politically or militarily.",
+            "Third, the operation can be defended as necessary in a high-threat environment. This matters because if Israel believes Iran-backed networks or Iraqi territory are being used to threaten it, then using deniable infrastructure outside its borders can be framed as pre-emptive self-defence and a way to avoid broader, more destructive conventional escalation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The alleged bases are strategically unsustainable because covert foreign military activity in Iraq creates backlash, exposure, and blowback that outweigh any temporary operational gain.",
+          "mechanisms": [
+            "First, secrecy is fragile. One, Iraqi officials, lawmakers, and open-source analysts can identify the site through satellite imagery and local reporting; two, once exposed, the base becomes a diplomatic liability for both Israel and any US actor seen as complicit; three, exposure forces relocation or shutdown, destroying the very advantage of forward positioning.",
+            "Second, the operation fuels anti-Israel and anti-US mobilisation inside Iraq. One, it validates militia narratives that Iraq is occupied or penetrated by foreign powers; two, it strengthens Iran-aligned armed groups that can recruit around sovereignty violations; three, it pressures Baghdad to respond publicly, making the country less governable and more factionalised.",
+            "Third, the bases do not solve the underlying security problem. One, they do not eliminate Iran’s regional network; two, they invite retaliation against Iraqi territory or US assets; three, they widen the war by making Iraq a theatre of contestation rather than a buffer."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether covert basing is a temporary tactical gain or a long-term strategic liability. Prop wins if the round is about military effectiveness and deterrence; opp wins if the round is about sovereignty, blowback, and the durability of regional order, because clandestine infrastructure is inherently vulnerable to exposure and political backlash.",
+      "stock_connections": [
+        "Sovereignty",
+        "Proxy War",
+        "Security Dilemma",
+        "Blowback",
+        "Escalation Ladder",
+        "State Weakness",
+        "Militarisation of Civilian Territory",
+        "Great Power Competition",
+        "Pre-emptive Self-Defence"
+      ],
+      "motion_areas": [
+        "TH, as Iraq, would expel all foreign military forces operating without public consent",
+        "THBT covert forward basing is justified in wars against revisionist regional powers",
+        "THP a world where states can conduct deniable military operations from weak sovereign territories",
+        "THBT the US should not tolerate allied covert military operations on Iraqi soil",
+        "TH, as a regional power, would prioritise deniable outposts over formal basing agreements"
+      ],
+      "data_points": [
+        "Israeli forces were reportedly preparing one site in western Iraq since late 2024",
+        "The Wall Street Journal said one base was established shortly before the war and operated with US knowledge",
+        "The base reportedly housed Israeli special forces and served as a logistical hub for air operations",
+        "The installation reportedly included search-and-rescue capabilities for downed pilots",
+        "Iraqi officials said they received reports of 'individuals or movement' in the Najaf desert near Karbala, about 100km southwest of Baghdad",
+        "Iraq privately protested to Washington in late March over suspected covert military activity",
+        "US forces struck Popular Mobilisation Forces in March after attacks on a US diplomatic and logistics facility near Baghdad airport"
+      ]
+    },
+    {
+      "id": "e027f15b8f6b",
+      "title": "Middle East War Shocks Oil and Bond Markets Into a New Inflation-Rate Hike Spiral",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer",
+      "published": "2026-05-18T08:55:24Z",
+      "category": "Econ",
+      "region": "UK / US / Middle East / Global",
+      "background": "Brent crude rose as much as 1.77% to $111.16 a barrel on Monday, before easing to around $110, after an attack on a nuclear power plant in the UAE and stalled US-Iran peace talks in the sixth week of ceasefire. Global bond markets sold off, with the 10-year US Treasury yield reaching 4.631% and the UK 10-year gilt yield hitting 5.19%, its highest level in 18 years, before easing slightly. The move came as G7 finance ministers, including UK chancellor Rachel Reeves, met in Paris to discuss the economic impact of the Middle East conflict.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war is already creating a stagflationary shock that forces central banks and governments into tighter, more painful economic choices.",
+          "mechanisms": [
+            "First, higher oil prices feed directly into inflation. This is because (1) energy is a core input into transport, manufacturing, and food distribution, (2) oil price spikes quickly pass through to consumer prices and inflation expectations, and (3) central banks cannot ignore headline inflation when it is driven by a supply shock.",
+            "Second, the bond sell-off tightens financial conditions even before any formal rate hike. Three reasons: one, the 10-year US Treasury yield hit 4.631%, which raises borrowing costs across the economy; two, UK gilts hit 5.19%, showing investors are demanding a higher risk premium; three, higher sovereign yields transmit into mortgages, corporate debt, and public borrowing costs.",
+            "Third, the conflict forces fiscal and monetary authorities into a bad trade-off. This matters because governments may need to spend more on energy support and war-related cushioning just as higher yields make debt servicing more expensive, while central banks face pressure to keep rates higher for longer to defend inflation credibility."
+          ]
+        },
+        {
+          "thesis": "The market reaction shows how geopolitical conflict can destabilize advanced economies through capital markets, not just through trade disruption.",
+          "mechanisms": [
+            "First, investors reprice risk across asset classes at once. This happens because (1) oil is a global benchmark, so shocks in the Middle East affect every importing economy, (2) bond markets react to both inflation and fiscal stress, and (3) equity markets fall when higher rates threaten growth and earnings.",
+            "Second, the UK is especially vulnerable because its fiscal position is already weak. Three reasons: one, traders are already worried about a possible shift to higher spending under a leadership challenge; two, the article notes the government has struggled to deliver spending cuts; three, tax rises are described as already near the point of diminishing returns, limiting policy room.",
+            "Third, the shock is self-reinforcing through expectations. This matters because once markets believe inflation will stay elevated, they demand higher yields today, which tightens credit conditions and can slow growth even before the real economy fully absorbs the oil shock."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "This is a temporary market wobble, not a durable macroeconomic crisis, because energy and bond markets can normalize if tensions ease.",
+          "mechanisms": [
+            "First, the oil move is modest relative to a full-blown supply crisis. One, Brent rose 1.77% and then eased back to around $110, showing the market is still trading on headlines rather than a structural supply collapse; two, the article says Iran responded to a US proposal, meaning diplomacy is still active; three, if ceasefire or talks resume, prices can quickly retrace.",
+            "Second, bond yields reflect political noise as much as war risk. One, UK gilts are also being driven by domestic leadership speculation around Starmer and Burnham; two, that means the market reaction is not purely about inflation from oil; three, once political uncertainty fades, yields can retreat even if oil remains somewhat elevated.",
+            "Third, central banks have tools to absorb a supply shock without triggering a recession. One, they can look through one-off energy spikes if inflation expectations stay anchored; two, they can use communication rather than immediate aggressive hikes; three, if growth weakens, they may prioritize output over a temporary inflation burst."
+          ]
+        },
+        {
+          "thesis": "The bigger economic effect may be redistribution rather than aggregate collapse, so the net macro damage is limited.",
+          "mechanisms": [
+            "First, higher oil prices transfer income from consumers to producers rather than destroying all demand. One, oil-exporting sectors gain revenue; two, some of that income is recycled into global markets; three, the shock is uneven across countries, so not every economy suffers equally.",
+            "Second, the market response is concentrated in financial assets, not yet in real-economy collapse. One, equities are down modestly, not crashing; two, the FTSE 100 is broadly flat; three, the article does not show immediate unemployment, production shutdowns, or credit freezes.",
+            "Third, governments can cushion the shock through targeted policy. One, Japan is already preparing fresh debt to cushion the blow; two, fiscal support can protect households from energy bills; three, if the shock is short-lived, temporary borrowing is manageable."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the oil spike becomes persistent enough to re-anchor inflation expectations. Prop wins if the round is about structural macro vulnerability: even a moderate energy shock can force higher yields, tighter credit, and worse fiscal trade-offs. Opp wins if they prove this is a short-lived market reaction, because then the damage is mostly redistribution and volatility rather than a lasting inflation regime shift.",
+      "stock_connections": [
+        "Stagflation",
+        "Supply Shock",
+        "Inflation Expectations",
+        "Risk Premium",
+        "Crowding Out",
+        "Fiscal Dominance",
+        "Capital Flight",
+        "Market Volatility",
+        "Energy Security",
+        "Dutch Disease"
+      ],
+      "motion_areas": [
+        "TH, as central banks, would prioritize inflation control over growth during geopolitical oil shocks",
+        "THBT governments should impose windfall taxes and energy subsidies in response to war-driven oil spikes",
+        "THP a world where sovereign bond markets are more sensitive to geopolitical risk",
+        "THBT the UK should delay fiscal consolidation during external inflation shocks"
+      ],
+      "data_points": [
+        "Brent crude rose as much as 1.77% to $111.16 a barrel, then eased to around $110",
+        "US 10-year Treasury yield hit 4.631%, highest since February 2025, before easing to 4.599%",
+        "UK 10-year gilt yield hit 5.19%, surpassing an 18-year high, before falling to 5.15%",
+        "Japan’s 10-year bond yield hit almost 30-year high at 2.8%",
+        "Stoxx Europe 600 fell 0.7%; FTSE 100 was broadly flat",
+        "Japan’s Nikkei fell about 1%; Hong Kong’s Hang Seng fell 1%; Shanghai’s SSE Composite slipped 0.1%; South Korea’s Kospi rose 0.3%"
+      ]
+    },
+    {
+      "id": "9c9873b6ed1b",
+      "title": "Ukraine Escalates Drone War to Break Russian War Machine as Peace Talks Stall",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5824988/ukraine-launches-large-scale-drone-strikes-on-russia",
+      "published": "2026-05-18T08:47:12Z",
+      "category": "IR",
+      "region": "Ukraine / Russia",
+      "background": "On 2026-05-18, Ukraine launched one of its largest drone strikes against Russia since the start of Russia's full-scale invasion in 2022. The strike came as peace talks were stalling, and Ukraine said the aim was to weaken Russia's war machine. The article does not provide further operational details, casualty figures, or damage assessments, but frames the attack as part of an escalating drone campaign in the ongoing war.",
+      "prop_args": [
+        {
+          "thesis": "Large-scale drone strikes are a rational asymmetric strategy that raises the cost of occupation and improves Ukraine's bargaining position when diplomacy is failing.",
+          "mechanisms": [
+            "First, the strikes impose direct military and economic costs on Russia's war effort. This is because (1) drones can hit logistics, fuel, air-defense, and industrial targets at relatively low cost, (2) Russia must divert scarce air-defense assets and manpower away from the front, and (3) repeated disruption compounds over time by slowing repair cycles and raising insurance, transport, and security costs.",
+            "Second, escalation through drones can shift the negotiation balance. Three reasons: one, if Russia believes its rear areas are vulnerable, it faces higher expected costs from prolonging the war; two, Ukraine signals resolve and capability, reducing the credibility of Russian claims that time is on its side; three, battlefield pressure can create incentives for third parties to push for a settlement.",
+            "Third, this matters because asymmetric warfare allows a weaker state to compensate for conventional inferiority. The biggest strategic advantage is that Ukraine can force Russia into an expensive defensive posture without needing to match Russia tank-for-tank or soldier-for-soldier, which is exactly how weaker actors survive protracted wars."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Large-scale drone strikes are more likely to entrench the war, harden Russian public opinion, and reduce the chances of a negotiated settlement.",
+          "mechanisms": [
+            "First, escalation can strengthen the target state's domestic rally-around-the-flag effect. One, Russian elites can use the strikes to justify tighter repression and wartime mobilization; two, civilians may become more willing to absorb costs if they perceive the homeland under attack; three, the Kremlin can frame negotiations as weakness in the face of Ukrainian aggression.",
+            "Second, attacks on Russian territory can reduce diplomatic space. One, they make it politically harder for Russian leaders to sell concessions; two, they give hardliners leverage over moderates by arguing that compromise invites further attacks; three, they can trigger retaliatory strikes that widen the conflict and make ceasefire monitoring more difficult.",
+            "Third, the military payoff may be overstated. One, drones are often intercepted or absorbed by air defenses, limiting strategic impact; two, Russia's size and redundancy mean isolated strikes may not meaningfully degrade war-fighting capacity; three, if the campaign fails to produce visible gains, Ukraine risks expending scarce resources for symbolic effect."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercive pressure or escalation dynamics dominate. Prop wins if the strikes materially raise Russia's costs and improve Ukraine's leverage; opp wins if the attacks mainly harden Russian resolve and make a settlement less politically feasible. The structural advantage is often with prop on immediate military economics, but opp has a strong claim on long-run peace prospects.",
+      "stock_connections": [
+        "Asymmetric warfare",
+        "Deterrence theory",
+        "Escalation ladder",
+        "Coercive diplomacy",
+        "War of attrition",
+        "Rally-around-the-flag",
+        "Security dilemma",
+        "Negotiation under conflict"
+      ],
+      "motion_areas": [
+        "TH, as Ukraine, would intensify drone strikes on Russian territory",
+        "THBT states in asymmetric wars should prioritize cross-border strikes over defensive posturing",
+        "THP a world where weaker states can routinely strike the homelands of stronger aggressors"
+      ],
+      "data_points": [
+        "Ukraine launched 'one of the biggest drone strikes against Russia since the beginning of Russia's full-scale invasion' on 2026-05-18",
+        "The strike occurred while peace talks were stalling",
+        "Russia's full-scale invasion began in 2022"
+      ]
+    },
+    {
+      "id": "fdfcc1d669c3",
+      "title": "U.S.-Iran-Israel Brinkmanship Raises Risk of Renewed Regional War",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5825574/u-s-and-iran-signal-readiness-to-fight-again-as-weekend-tensions-mount",
+      "published": "2026-05-18T08:46:03Z",
+      "category": "IR",
+      "region": "United States / Iran / Israel / Middle East",
+      "background": "NPR reports that events over the weekend increased the risk of renewed conflict, with the United States and Israel signaling they would be ready to fight Iran again. The article frames the moment as one of mounting tensions rather than a settled ceasefire, implying that military escalation remains a live possibility. No additional operational details, casualty figures, or diplomatic developments are provided in the text excerpt.",
+      "prop_args": [
+        {
+          "thesis": "A credible willingness to re-fight Iran is necessary deterrence that prevents Tehran from concluding it can escalate without cost.",
+          "mechanisms": [
+            "First, it restores deterrence by signaling that prior restraint was conditional, not permanent. This is because (1) Iran updates its beliefs based on whether threats are backed by action, (2) ambiguity after a clash can invite probing attacks, and (3) a clear readiness to re-engage raises the expected cost of further escalation.",
+            "Second, it reassures regional allies and preserves the security architecture that depends on U.S. guarantees. Three reasons: one, Israel and Gulf partners are more likely to coordinate with Washington if they believe support is credible; two, visible commitment reduces incentives for unilateral pre-emptive strikes by allies; three, it discourages hedging toward Iran or other revisionist actors.",
+            "Third, the threat of renewed force can create bargaining leverage for diplomacy. This matters because Iran is more likely to accept constraints, inspections, or deconfliction channels when the alternative is a war it may not be able to control, making coercive pressure a tool for preventing a larger conflict later."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Signaling readiness to fight again increases the chance of miscalculation and locks the region into a cycle of escalation that no side can reliably control.",
+          "mechanisms": [
+            "First, it creates a security dilemma in which each side interprets defensive posturing as offensive preparation. One, Iran may disperse assets, arm proxies, or launch pre-emptive attacks; two, the U.S. and Israel may then treat those moves as confirmation of hostile intent; three, the result is faster escalation from signaling to actual war.",
+            "Second, it undermines diplomatic off-ramps by making compromise politically and strategically harder. One, public threats reduce room for quiet bargaining; two, leaders become trapped by credibility concerns and domestic hawks; three, even if both sides want de-escalation, they may be unable to sell restraint after making maximalist statements.",
+            "Third, renewed fighting risks broader regional spillover through proxies, shipping lanes, and allied bases. One, Iran can activate non-state partners across the region; two, attacks on U.S. forces or maritime routes can widen the conflict beyond the original theater; three, this raises energy and civilian costs far beyond the immediate battlefield."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether deterrence or escalation dominates under conditions of extreme mistrust. The pro side wins if you believe clear red lines prevent opportunistic aggression; the opposition wins if you think signaling readiness mainly shortens the fuse and makes accidental war more likely.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Escalation Ladder",
+        "Credibility and Signaling",
+        "Proxy War",
+        "Regional Spillover",
+        "Miscalculation"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would maintain readiness to strike Iran after a limited clash",
+        "THBT the U.S. and Israel should publicly signal willingness to re-engage militarily with Iran",
+        "THP a world where major powers use credible military threats to enforce regional deterrence"
+      ],
+      "data_points": [
+        "NPR reports that 'events over the weekend' heightened the risk of renewed war",
+        "The article states that both the United States and Israel signaled they would be ready to fight Iran again",
+        "Published: 2026-05-18T08:46:03Z"
+      ]
+    },
+    {
+      "id": "9837b80bbd79",
+      "title": "Middle East Fuel Risk Pushes European Airlines Toward Higher Fares and Delayed Booking",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
+      "published": "2026-05-18T08:19:14Z",
+      "category": "Econ",
+      "region": "Europe (UK/EU aviation), Middle East (Strait of Hormuz/Iran)",
+      "background": "Ryanair said on 18 May 2026 that it was 'increasingly confident' it would avoid a jet fuel shortage this summer despite fears of disruption linked to the Iran war and restricted shipping through the Strait of Hormuz. The airline said fares had fallen in recent weeks and now expected summer prices to be broadly flat year-on-year, after previously forecasting a modest increase. Ryanair has hedged 80% of its jet fuel needs to April 2027 at about $67 a barrel, but it also warned that EU environmental taxes would rise by €300m this year to about €1.4bn and suspended guidance for FY2027.",
+      "prop_args": [
+        {
+          "thesis": "Geopolitical fuel shocks will still raise European airfares because airlines can hedge costs but cannot hedge away supply uncertainty and demand timing effects.",
+          "mechanisms": [
+            "First, the conflict raises the expected cost of operating flights even when fuel is physically available. This is because (1) shipping through the Strait of Hormuz remains restricted, (2) airlines and suppliers must price in disruption risk and rerouting costs, and (3) hedging only locks in part of the fuel bill, not the broader volatility premium that gets passed through to consumers.",
+            "Second, airlines can exploit late-booking behavior to recover margins through higher fares. Three reasons: one, Ryanair says customers are booking later than usual, two, that reduces visibility for July-to-September demand, and three, airlines respond to uncertainty by tightening capacity and charging more to closer-in travelers who have fewer substitutes.",
+            "Third, even if shortages do not materialize, the market still transmits cost pressure into prices. This matters because Ryanair is already warning that EU environmental taxes will rise by €300m to about €1.4bn and that future fuel, wage, and tax costs make air travel less competitive, so fare increases are structurally baked in rather than purely temporary."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The aviation market is resilient enough that fuel shocks will be absorbed by hedging, diversified supply, and weak consumer demand rather than large fare spikes.",
+          "mechanisms": [
+            "First, airlines have already insulated themselves from the worst of the fuel shock. One, Ryanair has hedged 80% of its jet fuel requirements to April 2027 at about $67 a barrel, two, Europe is reportedly well stocked thanks to shipments from west Africa, Norway and the Americas, and three, that reduces the chance of a sudden supply-driven price surge.",
+            "Second, competitive pressure limits how much airlines can pass on. One, Ryanair itself says fares are now expected to be broadly flat on last summer, two, the market is 'too fragile' to raise prices aggressively because inflation is squeezing consumers, and three, if airlines push too hard they lose demand to domestic trips or delayed travel.",
+            "Third, the shock may actually suppress fares rather than raise them in the short run. One, uncertainty around the Middle East has already caused fares to fall in recent weeks, two, holidaymakers are booking later and showing increased interest in domestic trips, and three, weaker demand forces airlines to discount seats to keep planes full."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the fuel shock is a supply-side pricing story or a demand-side restraint story. Prop wins if you think geopolitical risk and taxes create persistent upward pressure that airlines can pass through over time; opp wins if you think hedging, stockpiles, and fragile consumer demand cap fare increases and force discounting instead.",
+      "stock_connections": [
+        "Pass-through of costs to consumers",
+        "Price elasticity of demand",
+        "Market concentration and oligopoly pricing",
+        "Risk premium",
+        "Hedging and financial risk management",
+        "Inflation squeeze on consumers",
+        "Supply chain disruption",
+        "Tax incidence"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would impose higher environmental taxes on aviation",
+        "THBT airlines should be allowed to pass fuel and tax shocks directly onto consumers",
+        "THP a world where airlines hedge fuel costs more aggressively rather than rely on spot markets",
+        "THBT governments should prioritize domestic travel over international aviation during geopolitical shocks"
+      ],
+      "data_points": [
+        "Ryanair has hedged 80% of its jet fuel requirements to April 2027 at about $67 a barrel",
+        "Ryanair expects fares for the three months ended in June to fall by a mid-single digit percentage",
+        "Summer fares are now expected to be broadly flat year-on-year, down from a previous forecast of a modest increase",
+        "EU environmental taxes are expected to rise by €300m this year to about €1.4bn",
+        "Ryanair reported record profit after tax of €2.26bn for the financial year ended in March",
+        "Ryanair shares fell about 4% in early trading and are down more than a quarter since the start of the year"
+      ]
+    },
+    {
+      "id": "e101c41d7ce4",
+      "title": "Australia’s Illicit Tobacco Boom Turns Enforcement Into a Capacity Crisis",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/18/illegal-tobacco-cigarettes-vapes-australia-police-run-out-storage",
+      "published": "2026-05-18T07:12:30Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Australian federal police told a parliamentary inquiry on 18 May 2026 that storage facilities for seized illegal cigarettes and vapes are at capacity, while destruction costs are becoming prohibitive. The AFP said destroying vapes can cost up to $13 per kilogram, and a standard 550kg pallet can cost more than $7,150 to destroy. Since 2016, the illicit tobacco and e-cigarette commissioner says authorities have seized about 2.66 billion illegal cigarettes, 510 tonnes of loose-leaf tobacco, and 7.5 million e-cigarette products. Treasury has cut expected tobacco excise revenue from $5.5bn in 2025-26 to $4.1bn, with a further fall to $2.1bn by mid-2030, while officials say criminal profits are also linked to money laundering, firebombings, and broader organised crime.",
+      "prop_args": [
+        {
+          "thesis": "Australia should treat illicit tobacco as a major organised-crime and fiscal emergency, because the current scale of the market overwhelms enforcement and erodes the state’s revenue base.",
+          "mechanisms": [
+            "First, the boom in seizures shows the state is fighting a volume problem, not a marginal compliance issue. This is because (1) 2.66 billion cigarettes and 7.5 million vapes seized since 2016 implies a market large enough to sustain industrial-scale supply chains, (2) police storage is already at capacity, and (3) destruction costs of $7,150 per 550kg pallet mean every additional seizure creates a direct budgetary burden rather than a clean enforcement win.",
+            "Second, illicit tobacco crowds out legitimate fiscal capacity and weakens the tax system. Three reasons: one, Treasury has already downgraded excise receipts from $5.5bn to $4.1bn in 2025-26; two, the forecast falls further to $2.1bn by 2030, so the state is losing a durable revenue stream; three, when a product is taxed heavily but widely evaded, it normalises non-compliance and reduces the credibility of excise enforcement more broadly.",
+            "Third, aggressive disruption of the illicit market has spillover benefits beyond cigarettes. This matters because (1) the trade is linked to money laundering, cryptocurrency conversion, remittance abuse, and privately owned ATMs, (2) it finances firebombings, assaults, firearms offences, and worker exploitation, and (3) shutting down the market reduces the cashflow that sustains wider organised-crime ecosystems."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Australia’s current enforcement model is economically inefficient, and the real solution is regulatory reform and harm-reduction, not pouring more resources into seizure and destruction.",
+          "mechanisms": [
+            "First, the state is spending too much to destroy low-value contraband while getting little marginal deterrence. One, $13 per kilogram for vape destruction and $7,150 per pallet means enforcement can become more expensive than the social gain from each seizure; two, full storage facilities indicate the system is already saturated, so additional raids just shift the bottleneck from street enforcement to warehousing; three, if the market keeps expanding despite seizures, then punitive enforcement is not changing consumer demand.",
+            "Second, high tobacco taxes and prohibition-style enforcement may be driving the illicit market itself. One, the gap between legal cigarette prices and black-market prices creates a strong arbitrage opportunity for criminal gangs; two, when excise revenue is expected to collapse from $5.5bn to $2.1bn by 2030, that suggests legal consumption is being displaced rather than simply eliminated; three, a regulated lower-tax or safer-nicotine framework could undercut criminal suppliers more effectively than seizures.",
+            "Third, the policy response risks over-criminalising and misallocating police attention. One, if AFP resources are tied up in storage, destruction, and account closures, they are not being used for higher-harm crimes; two, the illicit market’s profitability is partly a function of consumer demand, so enforcement alone cannot solve it; three, a more efficient system would focus on licensing, customs reform, and financial regulation rather than expanding punitive capacity."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the illicit market is best understood as a public-finance and organised-crime emergency or as evidence that current prohibition-heavy policy is failing. Prop wins if the round is about state capacity and criminal spillovers; opp wins if the round is about efficiency and whether enforcement is the wrong tool for a demand-driven market.",
+      "stock_connections": [
+        "Organised crime",
+        "State capacity",
+        "Tax evasion",
+        "Black markets",
+        "Regulatory arbitrage",
+        "Moral hazard",
+        "Harm reduction",
+        "War on drugs",
+        "Money laundering",
+        "Policy capture"
+      ],
+      "motion_areas": [
+        "TH, as Australia, would significantly increase enforcement against illicit tobacco even at high fiscal cost",
+        "THBT governments should lower tobacco excise to combat black markets",
+        "THP a world in which nicotine products are regulated like consumer goods rather than treated primarily as contraband",
+        "TH, as a government, would prioritise financial disruption over physical seizure in combating organised crime"
+      ],
+      "data_points": [
+        "AFP says destroying vapes can cost up to $13 per kilogram",
+        "A standard 550kg pallet can cost more than $7,150 to destroy",
+        "2.66 billion illegal cigarettes seized in Australia since 2016",
+        "510 tonnes of loose-leaf tobacco seized since 2016",
+        "7.5 million e-cigarette products seized since 2016",
+        "Illicit tobacco trade cost the federal budget $6bn in lost excise in less than six months",
+        "Treasury cut expected tobacco excise revenue from $5.5bn in 2025-26 to $4.1bn in the latest budget, with a forecast of $2.1bn by mid-2030",
+        "More than 200 firebombings and three deaths have been linked to the illegal trade since 2023",
+        "At least 1,000 bank accounts have already been closed over suspected links to illicit tobacco",
+        "The tobacco industry is pushing for a 50% cut in tobacco customs duty, described by Monique Ryan as worth potentially $2.3bn annually to the three major multinationals"
+      ]
+    },
+    {
+      "id": "44c736bd05a4",
+      "title": "Trump’s Iran Ultimatum Risks Turning an Oil Shock Into a Global Bond and Inflation Crisis",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-18/daybreak-europe-05-18-2026-video",
+      "published": "2026-05-18T07:01:17Z",
+      "category": "IR",
+      "region": "Iran / US / Europe / G-7",
+      "background": "On 18 May 2026, Bloomberg reported that President Trump warned Iran that the “clock is ticking” for a deal to end the war, while both sides remained at loggerheads. The same broadcast said global bond markets were selling off as rising oil prices fed inflation concerns, with spiking yields expected to dominate a G-7 finance ministers’ meeting in Paris. French Finance Minister Roland Lescure told Bloomberg the bond market was “correcting rather than collapsing.”",
+      "prop_args": [
+        {
+          "thesis": "A hardline US deadline on Iran is strategically useful because it increases pressure for a settlement and signals that prolonged escalation will carry real economic costs.",
+          "mechanisms": [
+            "First, the ultimatum compresses Iran’s bargaining window. This is because (1) it raises the expected cost of delay by making continued war visibly linked to tighter sanctions, isolation, or military escalation; (2) it signals to Iranian elites that waiting for a better deal may be irrational if the US is willing to tolerate higher short-term volatility; (3) it can split hardliners from pragmatists by making the economic downside of intransigence immediate rather than abstract.",
+            "Second, it can force allied coordination around a common pressure strategy. Three reasons: one, G-7 finance ministers already face oil-driven inflation and bond stress, so they have incentives to align on de-escalation; two, a clear US line reduces ambiguity for Europe and Gulf partners about whether to hedge or back diplomacy; three, coordinated pressure is more credible than fragmented diplomacy because Iran cannot simply wait out one actor.",
+            "Third, if it works, the payoff is macroeconomic stabilization. This matters because a reduction in war risk lowers oil prices, eases inflation expectations, and reduces the upward pressure on bond yields that is already threatening global growth."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Trump’s “clock is ticking” posture is counterproductive because it hardens Iran’s incentives, raises the risk of miscalculation, and worsens the global economic shock if talks fail.",
+          "mechanisms": [
+            "First, deadlines reduce diplomatic flexibility. One, they force public posturing, so Iranian leaders cannot concede without looking weak domestically; two, they make compromise politically costlier for both sides because any deal after a deadline looks like capitulation; three, they shrink the space for backchannel bargaining, which is often how crisis deals are actually reached.",
+            "Second, escalation rhetoric increases the probability of a wider war. One, when both sides are 'at loggerheads,' a public ultimatum can be interpreted as a prelude to military action; two, that raises the chance of pre-emptive moves, proxy attacks, or shipping disruptions in the Gulf; three, even limited conflict can hit oil supply routes and amplify the bond-market selloff already underway.",
+            "Third, the economic spillovers are immediate and asymmetric. One, oil prices are already rising, so any further shock feeds inflation faster than growth can adjust; two, higher yields tighten financial conditions globally, especially for highly indebted states and firms; three, the G-7 is then forced into crisis management rather than long-term policy, meaning the ultimatum can deepen the very instability it claims to solve."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether pressure creates bargaining leverage or merely accelerates escalation. Pro wins if the threat credibly forces a deal; Opp wins if the public deadline makes war and market panic more likely, because the economic downside is immediate, global, and already visible in bond yields and oil prices.",
+      "stock_connections": [
+        "Coercive Diplomacy",
+        "Deterrence",
+        "Escalation Spiral",
+        "Security Dilemma",
+        "Oil Shock",
+        "Inflationary Shock",
+        "Bond Market Selloff",
+        "Global Financial Contagion",
+        "Crisis Bargaining"
+      ],
+      "motion_areas": [
+        "TH, as the US, would set public deadlines for adversaries in active conflicts",
+        "THBT coercive diplomacy is preferable to quiet backchannel negotiations in major security crises",
+        "THP a world where major oil shocks are treated as national security emergencies by the G-7",
+        "THBT the West should prioritize economic pressure over diplomatic ambiguity in negotiations with Iran"
+      ],
+      "data_points": [
+        "Bloomberg reported on 18 May 2026 that Trump said the 'clock is ticking' for a deal with Iran.",
+        "The broadcast said both sides remained 'at loggerheads' despite the warning.",
+        "Global bond yields were rising in a selloff that Bloomberg linked to oil-driven inflation concerns.",
+        "Spiking bond yields were expected to dominate a G-7 finance ministers’ meeting in Paris.",
+        "French Finance Minister Roland Lescure said the bond market was 'correcting rather than collapsing.'"
+      ]
+    },
+    {
+      "id": "7344e2e28b6d",
+      "title": "Aid Cuts Expose the Case for Country-Led Health Systems Over Fragmented Global Health Projects",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/18/there-is-a-solution-to-the-global-health-care-crisis/",
+      "published": "2026-05-18T07:00:57Z",
+      "category": "Econ",
+      "region": "Global / Uganda / Sub-Saharan Africa",
+      "background": "The article argues that the 2025 dismantling of USAID and broader donor aid cuts triggered clinic closures, medicine shortages, and rising preventable deaths across global health systems. It cites a projected 22.6 million additional deaths by 2030, including 5.4 million children under five, alongside a 21 percent fall in global health financing from $49.6 billion in 2024 to $39.1 billion in 2025. The piece highlights Uganda as a model: the government says it will raise health spending from 5.6 percent of the national budget to 9 percent by 2030, and a partnership at Mbale Regional Referral Hospital reportedly cut maternal mortality by 47 percent last year.",
+      "prop_args": [
+        {
+          "thesis": "The aid shock is a chance to replace donor fragmentation with country-owned health systems that are more durable, efficient, and politically accountable.",
+          "mechanisms": [
+            "First, country ownership improves allocation efficiency. This is because (1) national governments know local disease burdens and bottlenecks better than external donors, (2) a single national plan reduces overlapping projects and reporting burdens, and (3) long-term budgeting lets states invest in workforce, facilities, and supply chains instead of one-off campaigns.",
+            "Second, aligning external money behind national strategies increases resilience. Three reasons: one, it reduces dependence on volatile donor politics like the 2025 USAID cuts; two, it creates predictable financing for medicines and staffing; three, it allows systems to keep functioning when a donor exits, rather than collapsing overnight.",
+            "Third, stronger health systems produce macroeconomic gains. This matters because healthier workers raise productivity, lower household catastrophe spending, and improve stability; in low-income states, health spending is not just welfare but a growth input that supports tax capacity and state legitimacy."
+          ]
+        },
+        {
+          "thesis": "Reform should prioritize implementation capacity, not just more money, because health outcomes fail when institutions cannot deliver.",
+          "mechanisms": [
+            "First, workforce and operational capacity are the binding constraints. This is because (1) clinics cannot save lives without trained staff present, (2) procurement and referral systems determine whether drugs and surgery are available in time, and (3) donor funds often bypass the boring but essential systems that make care actually reach patients.",
+            "Second, building institutions compounds over time. Three reasons: one, training and retaining workers reduces chronic shortages; two, stronger governance lowers leakage and corruption; three, better delivery systems make future financing more effective, so each dollar buys more health.",
+            "Third, this is the only way to preserve past gains against reversals. This matters because HIV, TB, malaria, and maternal health programs can lose decades of progress if the underlying system remains too thin to absorb shocks."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Donor-led vertical programs are still necessary because many low-income states lack the fiscal space, capacity, and governance to safely absorb a rapid transition to domestic control.",
+          "mechanisms": [
+            "First, domestic resource mobilization is constrained by hard budget realities. One, more than half of African countries spend more on debt service than on health care, so governments cannot simply replace lost aid with tax revenue; two, many states face narrow tax bases and weak collection; three, insisting on rapid self-financing can force cuts to essential services.",
+            "Second, donor fragmentation can be a feature, not just a bug, when it targets urgent disease burdens. One, vertical programs for HIV, TB, malaria, and maternal health can deliver measurable results faster than broad system reform; two, earmarked funding protects politically unpopular but lifesaving interventions; three, centralized national plans can be captured by elites or diverted away from the poorest regions.",
+            "Third, transition risk is high and can kill people immediately. One, if donors exit before systems are ready, clinics close and medicines disappear; two, workforce retention depends on stable salaries that poor states may not sustain; three, the human cost of a failed transition is irreversible, so caution should outweigh reformist optimism."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between long-term system resilience and short-term service continuity. Prop wins if the round is about sustainable development and avoiding repeated collapse from donor volatility; opp wins if the judge prioritizes immediate lives at risk from states that cannot yet finance or administer the transition.",
+      "stock_connections": [
+        "Dependency Theory",
+        "Structural Adjustment",
+        "Moral Hazard",
+        "State Capacity",
+        "Aid Effectiveness",
+        "Race to the Bottom",
+        "Institutional Capture",
+        "Developmental State",
+        "Public Goods Provision",
+        "Brain Drain"
+      ],
+      "motion_areas": [
+        "TH, as a donor country, would shift global health funding away from vertical aid programs and toward country-led health system strengthening",
+        "THBT developing nations should prioritize domestic resource mobilization over foreign aid dependence in health care",
+        "THP a world where global health financing is routed through single national health strategies rather than multiple donor projects",
+        "TH, as the WHO, would require donors to align health aid with national health plans",
+        "THBT aid conditionality in global health should be replaced by sovereignty-based financing compacts"
+      ],
+      "data_points": [
+        "22.6 million additional deaths projected by 2030 from the aid withdrawal, including 5.4 million children under five",
+        "Global health financing fell 21 percent in one year, from $49.6 billion in 2024 to $39.1 billion in 2025",
+        "At least 11 competing reform agendas are currently in play, including the Accra Reset, Lusaka Agenda, and U.S. global health compacts",
+        "More than half of African countries spend more on debt servicing than on health care",
+        "Uganda plans to raise health spending from 5.6 percent of the national budget to 9 percent by 2030",
+        "Mbale Regional Referral Hospital reportedly reduced maternal mortality by 47 percent last year",
+        "The article says the 2025 dismantling of USAID and wider donor cuts caused clinics to shut down and medicines and health workers to disappear"
+      ]
+    },
+    {
+      "id": "3c3bbfa8b606",
+      "title": "Streeting Challenge Revives Labour-EU Realignment and Reopens the Brexit Settlement",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/former-uk-health-secretary-wes-streeting-announces-bid-to-replace-starmer?traffic_source=rss",
+      "published": "2026-05-18T06:12:23Z",
+      "category": "IR",
+      "region": "UK / EU",
+      "background": "On 18 May 2026, former UK Health Secretary Wes Streeting announced he would run against Prime Minister Keir Starmer for the Labour leadership if an election is to take place. Streeting said he supports rebuilding ties with Europe and argued the UK should pursue “a new special relationship” with the EU, including the possibility of rejoining the bloc in the future. The announcement comes against the backdrop of post-Brexit UK-EU relations and an ongoing debate inside Labour over how far to reverse or soften Brexit.",
+      "prop_args": [
+        {
+          "thesis": "A Streeting-led Labour pivot toward Europe would improve the UK’s economic and diplomatic position by reducing Brexit frictions and restoring strategic alignment with its largest nearby market.",
+          "mechanisms": [
+            "First, closer EU alignment lowers trade and regulatory barriers. This is because (1) the UK and EU are deeply integrated supply chains, (2) Brexit-style divergence creates repeated customs, standards, and services frictions, and (3) even partial re-alignment would reduce transaction costs for exporters and investors.",
+            "Second, a pro-Europe stance strengthens the UK’s bargaining power and credibility with allies. Three reasons: one, it signals policy stability to EU capitals that have treated the UK as an unreliable partner since Brexit; two, it makes cooperation on migration, security, and energy easier; three, it gives the UK more leverage in future negotiations by showing willingness to move toward the EU rather than merely demand concessions.",
+            "Third, the political signal itself can unlock investment and growth expectations. This matters because markets and firms respond not only to formal treaties but to the likelihood of future integration, so a credible path toward closer ties can improve business confidence, hiring, and long-term capital allocation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A Streeting challenge risks deepening Labour’s internal divisions and reviving the Brexit cleavage in a way that is politically costly and strategically unnecessary.",
+          "mechanisms": [
+            "First, reopening the EU question can fracture Labour’s coalition. One, Labour still contains voters and MPs who want to avoid another Brexit-era identity fight; two, overt pro-rejoin language can alienate Leave-leaning working-class constituencies; three, leadership conflict over Europe can crowd out bread-and-butter issues like wages, housing, and health.",
+            "Second, the promise of closer EU ties may be economically overstated. One, full rejoining is politically remote and therefore not credible policy; two, partial alignment may impose regulatory obligations without full market access or voting rights; three, businesses may prefer certainty over a prolonged renegotiation process that keeps the UK in limbo.",
+            "Third, the move could weaken the UK’s independent foreign policy posture. One, closer EU integration can constrain the UK’s ability to strike bespoke trade deals and set domestic rules; two, it may lock the UK into continental priorities that do not always match British interests; three, the symbolic return to Europe can be read as elite disregard for the 2016 referendum result, fueling populist backlash."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether closer EU alignment is a credible growth strategy or just a politically toxic rerun of Brexit. Prop wins if the round is about structural economic gains from reducing friction; opp wins if the key issue is coalition management and the credibility gap between rhetoric and actual rejoining.",
+      "stock_connections": [
+        "Brexit Realignment",
+        "Trade Friction",
+        "Regulatory Divergence",
+        "Elite Backlash",
+        "Populist Reaction",
+        "Party Factionalism",
+        "Credible Commitment",
+        "Market Confidence"
+      ],
+      "motion_areas": [
+        "TH, as the UK Labour Party, would pursue rejoining the EU",
+        "THBT the UK should seek closer alignment with the EU even at the cost of domestic political backlash",
+        "THP a world where major opposition parties in post-Brexit states openly campaign to reverse Brexit"
+      ],
+      "data_points": [
+        "Wes Streeting is the former UK Health Secretary and announced a bid to replace Keir Starmer as Labour leader.",
+        "Streeting explicitly backed rebuilding ties with Europe and described a possible future UK re-entry into the EU.",
+        "The announcement was published on 18 May 2026."
+      ]
+    },
+    {
+      "id": "79eb9ca39148",
+      "title": "Britain’s Cohesion Crisis Spurs a National Identity Project to Rebuild Shared Belonging",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/18/national-conversation-project-britain-community-social-cohesion",
+      "published": "2026-05-18T06:00:02Z",
+      "category": "IR",
+      "region": "United Kingdom",
+      "background": "On 18 May 2026, the Independent Commission on Community and Cohesion launched the National Conversation, a public consultation asking what it means to be British, English, Scottish or Welsh. The commission is co-chaired by former Conservative chancellor Sajid Javid and former Labour policy chief Jon Cruddas, and includes figures such as Sara Khan, Andy Street, Laura Marks, Caroline Lucas and Tim Montgomerie. The project will run until the end of August, using a 10-minute survey, 60-second voice notes and thousands of small-group discussions; a report combining public insight, academic research and expert testimony will be published later in 2026. The launch comes amid polling from the British Red Cross showing 75% of UK adults think Britain is divided and 72% say it has become more divided over the last five years.",
+      "prop_args": [
+        {
+          "thesis": "A structured national conversation can reduce social fragmentation by rebuilding a shared civic identity that politics alone cannot supply.",
+          "mechanisms": [
+            "First, it creates a low-cost forum for cross-group recognition. This is because (1) people are asked to describe their neighbourhoods and future vision in their own words, (2) the process surfaces common grievances and aspirations across class, region and identity, and (3) repeated exposure to shared narratives reduces the perception that disagreement equals enmity.",
+            "Second, it improves policy legitimacy and compliance. Three reasons: one, citizens are more likely to accept difficult trade-offs when they feel heard; two, the commission can translate diffuse public sentiment into a clearer mandate for institutions; three, the process can identify which issues are really driving alienation, allowing government and civil society to target interventions more effectively.",
+            "Third, it can interrupt the feedback loop between division and political entrepreneurship. This matters because when people feel the country is falling apart, polarising actors gain by amplifying fear; a visible, cross-party, public-facing cohesion project signals that cooperation is still possible and gives moderates a platform to compete with grievance politics."
+          ]
+        },
+        {
+          "thesis": "The project is valuable because it generates better information about what is actually dividing Britain, which is a prerequisite for any serious cohesion strategy.",
+          "mechanisms": [
+            "First, it produces granular data beyond headline polling. This is because (1) the survey captures local context, (2) voice notes reveal emotional language and not just tick-box preferences, and (3) small-group discussions can identify whether the core problem is economic insecurity, cultural mistrust, or institutional distrust.",
+            "Second, it helps policymakers avoid misdiagnosis. Three reasons: one, if elites assume the problem is immigration when the real issue is housing or cost of living, policy fails; two, if they assume the problem is national identity when the issue is service collapse, symbolic fixes backfire; three, better diagnosis allows more efficient allocation of scarce political capital.",
+            "Third, it can build durable civic infrastructure. This matters because the commission is not just producing a report; it is creating networks of local organisations, community leaders and public participants that can be reused for future consultation and mobilisation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The National Conversation is mostly symbolic and will not fix the material drivers of division, so it risks becoming a performative substitute for real policy.",
+          "mechanisms": [
+            "First, it cannot solve the underlying causes of alienation. One, if people feel divided because of stagnant wages, housing shortages and public service decline, a survey does not change lived conditions; two, symbolic inclusion without redistribution can actually deepen cynicism; three, the project may allow politicians to claim they are 'listening' while avoiding hard reforms.",
+            "Second, it may entrench rather than reduce identity conflict. One, asking people to define what it means to be British can foreground contested identity boundaries; two, public deliberation can amplify the loudest and most grievance-driven voices; three, once identity is made the central frame, compromise becomes harder because groups bargain over status rather than policy.",
+            "Third, the initiative is structurally limited by selection and translation problems. One, the people most likely to participate are already civically engaged, so the sample may miss the alienated; two, voice-note analysis and expert synthesis can distort raw public input into elite-friendly conclusions; three, without binding institutional follow-through, the report will have little effect on actual government behaviour."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether cohesion crises are primarily informational and relational or material and institutional. Prop wins if the round is about long-run social trust and the need to rebuild a common civic story; Opp wins if the judge believes division is driven by concrete deprivation and that consultation without redistribution is just theatre.",
+      "stock_connections": [
+        "Social Cohesion",
+        "Identity Politics",
+        "Democratic Legitimacy",
+        "Public Deliberation",
+        "Elite Capture",
+        "Symbolic Politics",
+        "Polarisation",
+        "Civic Nationalism",
+        "Institutional Trust"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would launch a national conversation on identity and belonging",
+        "THBT states facing deep social division should prioritise civic dialogue over constitutional reform",
+        "THP a world where governments routinely use mass public deliberation to define national identity"
+      ],
+      "data_points": [
+        "The National Conversation runs from 18 May 2026 until the end of August 2026",
+        "British Red Cross polling found 75% of UK adults think Britain is divided and 72% say it has become more divided over the last five years",
+        "The public input mechanism includes a 10-minute survey, a 60-second voice note, and thousands of small-group discussions",
+        "The commission will publish a report later in 2026 combining public insight, academic research, expert testimony and commissioners’ deliberation",
+        "The commission is co-chaired by Sajid Javid and Jon Cruddas and includes Sara Khan, Andy Street, Laura Marks, Caroline Lucas and Tim Montgomerie"
+      ]
+    },
+    {
+      "id": "1d74766bfcba",
+      "title": "Drone strike on UAE nuclear plant shows how regional war can spill into energy infrastructure and nuclear escalation",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant",
+      "published": "2026-05-18T05:37:00Z",
+      "category": "IR",
+      "region": "United Arab Emirates / Iran / United States / Israel / Gulf",
+      "background": "A drone strike sparked a fire on the edge of the UAE’s Barakah nuclear power plant, the country’s sole nuclear facility, on Sunday. UAE authorities said no injuries or radiological release were reported, and the nuclear regulator said all units were operating normally, though the IAEA said one reactor was being powered by emergency diesel generators after the strike caused a fire in an electrical generator. The $20 billion, four-reactor plant went online in 2020 and can supply about a quarter of the UAE’s energy needs. The incident comes amid a fragile ceasefire after a U.S.-backed Israeli war on Iran that began on Feb. 28, rising tensions over the Strait of Hormuz, and renewed threats between Israel, Iran, and Iran-backed militias.",
+      "prop_args": [
+        {
+          "thesis": "Attacks on nuclear-adjacent infrastructure dramatically raise the risk of accidental escalation and make renewed regional war more likely.",
+          "mechanisms": [
+            "First, they create a high-salience escalation ladder that leaders cannot ignore. This is because (1) a strike near a nuclear plant is treated as qualitatively different from ordinary military harassment, (2) it forces public signaling from all sides to avoid looking weak, and (3) once states frame the incident as a 'red line,' they narrow their own room for de-escalation and make retaliation politically necessary.",
+            "Second, they increase the probability of miscalculation and preemptive strikes. Three reasons: one, the target is dual-use or adjacent to critical civilian infrastructure, so each side overestimates the other’s intent; two, the presence of emergency diesel generators, air defenses, and military coordination around the site makes it harder to distinguish defense from offensive preparation; three, once Israel and the U.S. are already discussing possible resumption of attacks, any new incident can be read as proof that diplomacy has failed.",
+            "Third, they threaten energy security and civilian confidence in a way that widens the war beyond the battlefield. This matters because a plant that supplies roughly a quarter of UAE electricity is not just a military target but a core node of state functioning; even without radiation release, fear of blackout, evacuation, or contamination can trigger market panic, domestic pressure for retaliation, and pressure on allies like Saudi Arabia and the U.S. to intervene."
+          ]
+        },
+        {
+          "thesis": "The strike strengthens hardliners in Iran, Israel, and the U.S. and weakens the diplomatic camp on all sides.",
+          "mechanisms": [
+            "First, it validates the argument that deterrence only works through force. This is because (1) Iranian officials can point to the strike as evidence that compromise does not stop attacks, (2) Israeli and U.S. hawks can argue that Tehran and its proxies remain uncontrollable, and (3) moderates lose credibility when they cannot protect strategic infrastructure.",
+            "Second, it collapses the political space for a durable ceasefire. Three reasons: one, Trump has already issued deadlines and then backed off, which makes diplomacy look unserious; two, Netanyahu is publicly signaling readiness for 'any scenario,' which keeps military options on the table; three, Iranian state TV arming presenters and rhetoric about sacrifice shows the regime is mobilizing nationalist resistance rather than preparing concessions.",
+            "Third, it incentivizes proxy escalation across the region. This matters because Iran-linked actors in Iraq, Yemen, Lebanon, and the Gulf can continue pressure without formal state attribution, allowing Tehran to signal resolve while preserving deniability; that makes any peace framework unstable and keeps the conflict regionally contagious."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The incident is alarming, but it also shows why nuclear infrastructure is more resilient than it looks and why states still have incentives to avoid full-scale war.",
+          "mechanisms": [
+            "First, the immediate technical damage was contained, which limits escalation pressure. One, there were no reported injuries or radiological release; two, the UAE regulator said all units were operating normally; three, the IAEA reported only a fire in an electrical generator and emergency diesel backup, which means the system absorbed the strike without a catastrophic nuclear event.",
+            "Second, the attack may actually reinforce deterrence and defensive coordination rather than trigger war. One, the UAE, Saudi Arabia, the U.S., and Israel now have stronger incentives to harden air defenses and share intelligence; two, Iran and its proxies see that nuclear-site attacks generate global backlash, raising the reputational cost of further strikes; three, because the plant survived, leaders can claim success without needing a larger retaliatory cycle.",
+            "Third, all major actors still face severe costs from a wider war, which restrains escalation. One, the Strait of Hormuz is a vital energy chokepoint, so Iran risks economic blowback if it expands the conflict; two, the U.S. and Israel must weigh another open-ended regional war against domestic and alliance fatigue; three, the existence of ongoing diplomatic efforts means even hostile signaling can be bargaining behavior rather than a genuine move to total war."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the strike is treated as a contained scare or as a precedent that normalizes attacks on critical nuclear-adjacent infrastructure. Prop wins if the round is about escalation dynamics, because the combination of public red lines, proxy ambiguity, and fragile ceasefire conditions structurally pushes leaders toward retaliation. Opp wins if the judge prioritizes immediate material impact, since the plant remained operational and the technical safeguards prevented a radiological crisis.",
+      "stock_connections": [
+        "Escalation ladder",
+        "Security dilemma",
+        "Miscalculation",
+        "Proxy war",
+        "Deterrence failure",
+        "Critical infrastructure vulnerability",
+        "Nuclear risk",
+        "Regional arms race",
+        "Energy security",
+        "Alliance entrapment"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize military deterrence over diplomacy in the Gulf",
+        "THBT attacks on nuclear-adjacent infrastructure justify retaliatory strikes",
+        "THP a world where states publicly retaliate against proxy attacks on civilian critical infrastructure",
+        "THBT the UAE should deepen security cooperation with Israel despite regional backlash",
+        "TH, as Iran, would avoid proxy warfare and pursue direct diplomacy after a failed ceasefire"
+      ],
+      "data_points": [
+        "$20 billion Barakah nuclear power plant",
+        "Barakah can provide about one quarter of the UAE’s energy needs",
+        "The plant has four reactors and went online in 2020",
+        "Three drones reportedly crossed from the UAE’s western border with Saudi Arabia; two were intercepted",
+        "Saudi Arabia later said it intercepted three drones that entered from Iraqi airspace",
+        "The IAEA said one reactor was being powered by emergency diesel generators after a fire in an electrical generator",
+        "Iran has enriched uranium close to weapons-grade levels and has restricted U.N. inspectors since the 12-day war with Israel last year",
+        "The UAE signed a U.S. '123 agreement' and agreed to forego domestic uranium enrichment and reprocessing",
+        "The UAE is home to the only nuclear power plant in the Arab world",
+        "The war between the U.S.-backed Israeli coalition and Iran began on Feb. 28"
+      ]
+    },
+    {
+      "id": "4d5483de6b4a",
+      "title": "UK Energy Shocks Turn Solar Panels Into a Cost-Cutting Industrial Investment",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cjrp19v9vl2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T05:18:57Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "UK solar installations rose 11% year-on-year, with government figures showing 27,000 new solar installations in March 2026 alone, the highest monthly total since 2012 and taking the UK past two million total solar systems. The article links the surge to higher electricity prices after the Russia-Ukraine war and a new spike in energy bills following the Iran war. At Numatic’s Chard factory in Somerset, the company spent £1.5m on 2,672 solar panels and expects payback in under four years; the system should cover the whole plant on sunny days and around a quarter of annual energy use, rising to about half with batteries and inverters. A Gloucestershire installer said its business has installed 65% more panels for firms since the Iran war began, and one wine warehouse in Gloucester is already using rooftop solar to power the whole site and sell excess electricity back to the grid.",
+      "prop_args": [
+        {
+          "thesis": "Rising energy prices make industrial solar adoption a rational economic hedge that improves firm resilience, lowers operating costs, and accelerates domestic investment.",
+          "mechanisms": [
+            "First, solar reduces firms' exposure to volatile wholesale electricity markets. This is because (1) businesses consume most power during daylight hours when solar output is highest, (2) on-site generation directly offsets grid purchases at the point of use, and (3) firms can lock in a lower effective marginal cost for electricity for 20+ years instead of repeatedly absorbing price spikes.",
+            "Second, solar improves business competitiveness by shortening payback periods and freeing cash flow. Three reasons: one, Numatic’s £1.5m system is expected to pay for itself in less than four years; two, once capital costs are recovered, electricity becomes much cheaper than market rates; three, lower overheads make UK manufacturing and warehousing more viable against foreign competitors facing lower energy costs.",
+            "Third, widespread commercial solar strengthens the broader economy by insulating productive capacity from geopolitical shocks. This matters because (1) firms are less likely to cut output or delay expansion when energy bills jump, (2) rooftop and field solar can be deployed relatively quickly compared to new grid infrastructure, and (3) domestic generation reduces pressure on the national grid and can even create surplus power for sale back to it."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The solar boom is a symptom of an energy system failure, not a clean economic success, because only firms with capital and suitable roofs/land can benefit while everyone else still pays the higher system-wide costs.",
+          "mechanisms": [
+            "First, the benefits are highly uneven and favor large, cash-rich firms. One, Numatic can spend £1.5m upfront and wait four years for payback, but smaller businesses often cannot access that capital; two, industrial estates and warehouses have the roof space to install panels, while many service firms and renters do not; three, this creates a two-tier market where incumbents hedge costs and smaller competitors remain exposed.",
+            "Second, solar does not solve the underlying problem of energy price volatility and may even shift costs elsewhere. One, households and firms without panels still face high grid prices, so demand is not broadly reduced; two, intermittent generation requires batteries, inverters, and backup capacity, adding extra costs; three, if many firms self-generate, fixed grid maintenance costs are spread over fewer units, potentially raising network charges for everyone else.",
+            "Third, the surge reflects crisis-driven substitution rather than healthy growth, so it can crowd out more efficient long-term policy. One, firms are investing because of war-driven price spikes, not because solar is inherently the best capital allocation in normal conditions; two, rushed investment can lead to suboptimal site choices and overreliance on one technology; three, governments may use private solar uptake as an excuse to delay broader reforms in storage, grid upgrades, and market regulation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether we judge solar as a firm-level hedge or a system-wide fix. Prop wins if the round is about business resilience and productivity because the payback is concrete and immediate; opp wins if the clash is distributional, since the gains are concentrated among capitalized firms while the energy system’s structural costs remain socialized.",
+      "stock_connections": [
+        "Energy security",
+        "Risk hedging",
+        "Market volatility",
+        "Capital intensity",
+        "Two-tier economy",
+        "Infrastructure bottlenecks",
+        "Race to the bottom",
+        "Industrial competitiveness",
+        "Green transition",
+        "Cost pass-through"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would subsidize commercial solar installations",
+        "THBT governments should prioritize on-site renewable generation for businesses over household energy subsidies",
+        "THP a world in which firms are encouraged to self-generate electricity rather than rely on the national grid"
+      ],
+      "data_points": [
+        "UK solar installations rose 11% year-on-year",
+        "27,000 new solar installations were added in March 2026, the highest monthly total since 2012",
+        "The UK now has over two million solar systems",
+        "Numatic spent £1.5m on 2,672 solar panels at its Chard factory",
+        "Numatic expects the system to pay for itself in less than four years",
+        "The Chard solar field can power the whole plant on sunny days and about a quarter of annual energy use on average",
+        "With batteries and inverters, Numatic expects solar to cover about half of total energy needs",
+        "MyPower said it installed 1,783 solar panels per month over the last three months, 65% above its average for the rest of the year",
+        "The wine warehouse in Gloucester was powered entirely by 1,710 panels on the day of the visit and was selling excess power to the national grid"
+      ]
+    },
+    {
+      "id": "e3e934392b46",
+      "title": "US Supreme Court Ruling Triggers Racial Redistricting Rollback and Black Voter Disenfranchisement",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/may/18/introducing-stateside-kai-carter-stacey-abrams-us-voting-rights-act-podcast",
+      "published": "2026-05-18T04:00:59Z",
+      "category": "IR",
+      "region": "United States",
+      "background": "In April 2026, the US Supreme Court ruled in Louisiana v Callais that states cannot consider race in redistricting, effectively weakening the 1965 Voting Rights Act’s protections for majority-Black districts. Southern states including Tennessee and Alabama have since moved to redraw maps and erase majority-Black districts ahead of the midterm elections. The ruling has created immediate uncertainty over district boundaries, representation, and the conduct of the 2026 midterms.",
+      "prop_args": [
+        {
+          "thesis": "Gutting race-conscious redistricting protections entrenches minority disenfranchisement and makes democratic competition less representative.",
+          "mechanisms": [
+            "First, it allows state legislatures to dismantle majority-Black districts, which reduces the likelihood that Black communities can elect preferred representatives. This is because (1) racial minorities are geographically concentrated in specific areas, (2) without legal protection those concentrations can be split across multiple districts, and (3) dispersed voters lose the ability to form a winning coalition even when they are numerically significant.",
+            "Second, it shifts power to partisan mapmakers who can use the language of 'colorblindness' to mask racial vote dilution. Three reasons: one, redistricting is already a high-information, low-accountability process; two, removing race as a constraint gives states more room to pack or crack opposition voters; three, courts become less able to police discriminatory intent once the map is facially race-neutral.",
+            "Third, the democratic harm compounds over time because underrepresentation feeds lower turnout and weaker political organization. This matters because communities that repeatedly see their districts erased face a rational participation problem: if votes do not translate into power, civic engagement declines, which then makes future suppression easier."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Race-neutral redistricting can be defended as restoring constitutional equality and reducing identity-based districting.",
+          "mechanisms": [
+            "First, it treats citizens as individuals rather than as members of racial blocs. One, this aligns with a formal equal-protection reading of the Constitution; two, it reduces the legitimacy of explicitly race-based state action; three, it can force politicians to compete for broad cross-racial majorities instead of relying on engineered racial enclaves.",
+            "Second, it may reduce the long-term political salience of race in elections. One, if districts are not drawn around race, candidates have stronger incentives to build multiracial coalitions; two, this can weaken the assumption that minority voters must be separated into protected districts to matter; three, it may shift advocacy toward turnout, persuasion, and issue-based organizing rather than map litigation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between formal equality and substantive representation: the opposition can claim constitutional neutrality, but the proposition has the stronger structural case that map-drawing power is asymmetric and will be used to dilute minority voting strength. This argument wins because once districts are erased, the harm is immediate, hard to reverse, and directly affects who governs in the next election cycle.",
+      "stock_connections": [
+        "Democratic Backsliding",
+        "Minority Rights",
+        "Voter Suppression",
+        "Institutional Capture",
+        "Race to the Bottom",
+        "Representation"
+      ],
+      "motion_areas": [
+        "TH, as the US Supreme Court, would prohibit race-conscious redistricting",
+        "THBT states should not be allowed to draw majority-minority districts",
+        "THP a world where electoral districts cannot be drawn using racial data"
+      ],
+      "data_points": [
+        "Louisiana v Callais was decided in April 2026 and held that states cannot consider race in redistricting.",
+        "Southern states from Tennessee to Alabama have rushed to erase majority-Black districts after the ruling.",
+        "The ruling is already affecting preparations for the 2026 US midterm elections.",
+        "The Voting Rights Act was originally passed in 1965."
+      ]
+    },
     {
       "id": "dece57dce22d",
       "title": "US-Iran Talks Stall as Trump Escalates Pressure and Tehran Leverages Hormuz and Energy Shock",
