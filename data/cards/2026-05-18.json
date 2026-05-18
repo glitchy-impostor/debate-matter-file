@@ -1,7 +1,596 @@
 {
   "date": "2026-05-18",
-  "last_updated": "2026-05-18T15:56:21Z",
+  "last_updated": "2026-05-18T20:05:20Z",
   "cards": [
+    {
+      "id": "5446aa300f00",
+      "title": "Gulf Mediation Delays US Strike, Exposing the Tradeoff Between Coercion and Nuclear Deal-Making on Iran",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T19:43:45Z",
+      "category": "IR",
+      "region": "Iran / Gulf states (Qatar, Saudi Arabia, UAE) / US",
+      "background": "US President Donald Trump said on Truth Social that he had called off a planned military attack on Iran scheduled for Tuesday after requests from the leaders of Qatar, Saudi Arabia, and the United Arab Emirates. He said \"serious negotiations are now taking place\" and claimed any deal would ensure \"NO NUCLEAR WEAPONS FOR IRAN,\" while warning the US could still launch a \"full, large scale assault\" on short notice if talks fail. The article says Israeli and US forces began massive air strikes on Iran on 28 February, Iran retaliated with drones and missiles across the Gulf, a ceasefire agreed in April has mostly held, and Iran continues to control the Strait of Hormuz, through which around 20% of the world's oil and LNG flows.",
+      "prop_args": [
+        {
+          "thesis": "Delaying the strike is the better strategic choice because it preserves leverage for a negotiated nuclear settlement while avoiding an immediate regional escalation that would be economically and militarily costly.",
+          "mechanisms": [
+            "First, the pause keeps coercive leverage alive instead of burning it in a one-off strike. This is because (1) Iran now has a clear incentive to bargain under the threat of renewed attack, (2) Gulf states are signaling they prefer diplomacy, which reduces the coalition cost of restraint, and (3) Trump can credibly threaten escalation later without having already paid the political and military costs of war.",
+            "Second, it reduces the risk of a wider regional war. Three reasons: one, Iran has already shown it can retaliate with drones and missiles against Israel and US targets across the Gulf; two, any new strike could trigger attacks on Gulf infrastructure or shipping; three, the Strait of Hormuz remains a chokepoint, so even limited escalation can rapidly spill into global energy markets.",
+            "Third, the delay improves the US bargaining position by making the deal look like a choice rather than capitulation. This matters because a negotiated outcome that blocks Iranian nuclear weapons while avoiding a costly occupation or prolonged air campaign is a cleaner strategic win than an attack that may destroy facilities but hardens Iranian resolve and prolongs the conflict."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Calling off the strike is dangerous appeasement because it weakens deterrence, gives Iran time to entrench, and signals that coercion can be blunted by Gulf lobbying.",
+          "mechanisms": [
+            "First, it undermines deterrence by showing that threats are reversible under pressure. One, Iran learns that the US may back down if regional partners object; two, that lowers the expected cost of stalling talks; three, it encourages future brinkmanship around nuclear thresholds and proxy attacks.",
+            "Second, it gives Iran time to disperse assets, harden facilities, and prepare retaliation. One, any delay allows military planners to move critical nuclear or missile infrastructure; two, it gives Tehran more time to coordinate responses through proxies and maritime disruption; three, it makes any later strike less effective and potentially more costly.",
+            "Third, it rewards Iranian coercion and raises the price of future diplomacy. One, Iran already benefits from controlling the Strait of Hormuz and driving up oil prices; two, if the US repeatedly pauses under pressure, Tehran can extract concessions without meaningful disarmament; three, this creates a precedent that the path to relief is escalation, not compliance."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether delay is a credible bargaining tactic or a signal of weakness. Pro side wins if the judge prioritizes avoiding immediate regional escalation and preserving a live deal; opposition wins if they think credibility is the core of deterrence and that every delay materially improves Iran's military and negotiating position.",
+      "stock_connections": [
+        "Deterrence",
+        "Coercive Diplomacy",
+        "Moral Hazard",
+        "Security Dilemma",
+        "Escalation Dominance",
+        "Nuclear Proliferation",
+        "Energy Security",
+        "Hostage Diplomacy"
+      ],
+      "motion_areas": [
+        "TH, as the US, would delay military strikes on Iran in order to pursue negotiations",
+        "THBT the US should prioritize Gulf-mediated diplomacy over immediate military action against Iran",
+        "THP a world where great powers use delayed force as leverage in nuclear negotiations"
+      ],
+      "data_points": [
+        "Trump said the planned attack was scheduled for Tuesday but was called off after requests from Qatar, Saudi Arabia, and the UAE",
+        "Iran controls the Strait of Hormuz, through which around 20% of the world's oil and liquefied natural gas travels",
+        "The article says the US and Israel began massive air strikes on Iran on 28 February",
+        "A ceasefire agreed in April has largely held despite occasional exchanges of fire",
+        "Iran retaliated with drones and missiles against Israel and US targets in countries across the Gulf",
+        "The US is enforcing a blockade of Iranian ports to pressure Tehran into accepting US terms"
+      ]
+    },
+    {
+      "id": "b772b664e850",
+      "title": "Abbas Tightens Control of Fatah, Deepening the Reform Crisis in Palestinian Politics",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/features/2026/5/18/some-change-but-much-more-of-the-same-in-palestinian-fatah-elections?traffic_source=rss",
+      "published": "2026-05-18T19:33:52Z",
+      "category": "IR",
+      "region": "Palestinian territories / West Bank / Gaza / Palestinian diaspora",
+      "background": "Fatah held its eighth General Conference and elected new leadership bodies, including its 18-seat Central Committee and 80-seat Revolutionary Council. Mahmoud Abbas, 91, was unanimously re-elected as chair, while his son Yasser Abbas won a seat on the Central Committee despite no prior leadership role in the movement. The conference also elevated figures tied to the Palestinian Authority security and bureaucracy, while excluding for the first time a representative of Fatah outside Palestine.",
+      "prop_args": [
+        {
+          "thesis": "The election consolidates Abbas’s control in the short term, which may be necessary to preserve Fatah’s coherence and keep the Palestinian Authority functioning under extreme external pressure.",
+          "mechanisms": [
+            "First, centralizing authority reduces factional fragmentation inside Fatah. This is because (1) the movement is already split between old guard, technocrats, security officials, and diaspora constituencies, (2) a contested succession could trigger open internal competition and paralysis, and (3) Abbas’s dominance prevents rival power centers from immediately breaking the party apart.",
+            "Second, elevating PA insiders and security-linked figures improves administrative continuity. Three reasons: one, these actors already control day-to-day governance and patronage networks; two, they can keep salaries, policing, and coordination structures operating; three, in a context of Israeli tax withholding and fiscal crisis, continuity matters more than symbolic pluralism.",
+            "Third, the leadership reset creates at least some generational turnover, which can be sold as reform to external donors. This matters because (1) Western governments are explicitly demanding reforms in exchange for support, (2) replacing some old-guard names gives Fatah a talking point on renewal, and (3) even limited elite circulation may be enough to unlock aid and diplomatic engagement."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The election is a façade of reform that entrenches nepotism, weakens legitimacy, and makes Fatah less capable of leading Palestinians through the next political crisis.",
+          "mechanisms": [
+            "First, the process deepens perceptions of illegitimacy because (1) Abbas was unanimously re-elected before the vote, signaling a predetermined outcome, (2) his son Yasser won a top seat without any prior leadership record, and (3) critics inside Fatah openly described the conference as engineered to produce Abbas’s preferred result.",
+            "Second, the new leadership narrows representation and alienates key constituencies. One, the absence of a Fatah representative outside Palestine sidelines the diaspora; two, the dominance of PA employees and security officials turns the movement into a bureaucracy rather than a broad national movement; three, the exclusion of independent or dissenting voices reduces the party’s ability to absorb public anger.",
+            "Third, weak legitimacy reduces Fatah’s bargaining power against Hamas, Israel, and foreign donors. This is because (1) Palestinians are already demanding presidential and legislative elections, (2) a leadership seen as hereditary and closed cannot credibly claim to represent national renewal, and (3) without public trust, reforms demanded by Western governments are unlikely to translate into real political stability."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term administrative stability and long-term political legitimacy. Pro wins if the round is about keeping the PA operational under crisis; opp wins if the round is about whether Fatah can credibly reform and lead a national movement, because legitimacy is the binding constraint on every other objective.",
+      "stock_connections": [
+        "Democratic backsliding",
+        "Nepotism / dynastic politics",
+        "Elite capture",
+        "Legitimacy crisis",
+        "State capacity",
+        "Factionalism",
+        "Succession crisis",
+        "Patronage politics",
+        "Authoritarian resilience",
+        "Representation of diaspora communities"
+      ],
+      "motion_areas": [
+        "TH, as the Palestinian Authority, would prioritize internal consolidation over open leadership competition",
+        "THBT Palestinian political movements should prioritize technocratic governance over internal party democracy",
+        "THP a world where donor support to Palestinian institutions is conditioned on leadership reform",
+        "THBT Fatah’s leadership election is more harmful than helpful for Palestinian national unity",
+        "TH, as Mahmoud Abbas, would centralize succession to preserve stability"
+      ],
+      "data_points": [
+        "Mahmoud Abbas is 91 years old and was unanimously re-elected as Fatah chair before the vote on leadership bodies",
+        "60 candidates competed for 18 seats in Fatah’s Central Committee",
+        "450 members competed for 80 seats in the Revolutionary Council",
+        "Yasser Abbas, Mahmoud Abbas’s son, won a seat on the Central Committee despite never holding a leadership position in Fatah",
+        "All but one of Gaza’s representatives were removed from the Central Committee",
+        "For the first time, no Fatah representative outside Palestine was elected to the Central Committee",
+        "Marwan Barghouti, imprisoned by Israel for more than 20 years, received the highest number of votes among Central Committee candidates",
+        "Western governments are demanding reforms in return for increased support to the Palestinian Authority",
+        "The PA is unable to pay civil servants and faces Israeli withholding of Palestinian tax revenues"
+      ]
+    },
+    {
+      "id": "abf77ec6f141",
+      "title": "Israel's Recognition of Somaliland Turns De Facto Statehood Into a New Horn of Africa Alignment",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/first-somaliland-ambassador-to-israel-presents-his-credentials?traffic_source=rss",
+      "published": "2026-05-18T19:26:28Z",
+      "category": "IR",
+      "region": "Somaliland / Israel / Somalia / Horn of Africa",
+      "background": "On 18 May 2026, Somaliland’s first ambassador to a foreign country presented his credentials to Israeli President Isaac Herzog. The move followed Israel’s recognition of Somaliland’s independence the previous year. Somaliland declared separation from Somalia in 1991, but had remained internationally unrecognised for more than three decades.",
+      "prop_args": [
+        {
+          "thesis": "Formal recognition and diplomatic exchange with Israel strengthens Somaliland’s statehood, security, and international bargaining power.",
+          "mechanisms": [
+            "First, recognition converts Somaliland from a tolerated de facto entity into a more credible quasi-state. This is because (1) diplomatic accreditation signals to other governments that Somaliland has a functioning foreign ministry and stable institutions, (2) it creates a precedent that other states can follow without being the first mover in total isolation, and (3) it gives Somaliland legal-political language to demand trade, aid, and security cooperation on state-to-state terms.",
+            "Second, the Israel relationship can improve Somaliland’s security and external balancing capacity. Three reasons: one, Israel has strong intelligence, surveillance, and counterterrorism capabilities that are highly relevant in the Horn of Africa; two, closer ties can deter hostile actors by raising the diplomatic cost of coercion against Somaliland; three, it gives Somaliland an alternative patron outside the Gulf and Ethiopia, reducing overdependence on any single regional sponsor.",
+            "Third, the move can generate economic and diplomatic spillovers that reward stability. This matters because (1) foreign recognition lowers transaction costs for investment and shipping by making Somaliland look less politically risky, (2) it may unlock targeted development, port, and infrastructure cooperation, and (3) it helps Somaliland present itself as a reliable partner in a strategically important corridor linking the Red Sea, Gulf of Aden, and East Africa."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Israel-Somaliland relationship is a symbolic win that risks worsening Somaliland’s diplomatic isolation and regional vulnerability.",
+          "mechanisms": [
+            "First, the recognition can trigger backlash from Somalia and sympathetic regional actors. One, Somalia can frame the move as foreign interference in its territorial integrity, hardening its refusal to negotiate autonomy or recognition; two, neighboring states may avoid deepening ties with Somaliland to avoid antagonizing Mogadishu or broader Arab and African blocs; three, the association with Israel can become a liability in a region where the Palestinian issue remains politically salient.",
+            "Second, the relationship may overpromise strategic gains while delivering little material support. One, recognition by a single state does not create broad international legitimacy or UN membership; two, Israel’s incentives may be primarily symbolic or geopolitical rather than developmental, so Somaliland may not receive meaningful investment or security guarantees; three, if expectations rise faster than actual benefits, domestic elites can be blamed for trading away diplomatic flexibility for optics.",
+            "Third, the move can entrench Somaliland in great-power and regional competition. One, it may make Somaliland look like a proxy in Israel-Arab rivalry rather than an independent actor, reducing its room to maneuver; two, external patrons can instrumentalize its ports and coastline for their own security agendas; three, this can deepen dependency rather than sovereignty, especially if recognition comes with implicit alignment demands."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether recognition is a gateway to broader statehood or just a symbolic gesture that provokes backlash. Prop wins if you prioritize long-run institutional credibility and the compounding value of one diplomatic breakthrough; Opp wins if you think regional legitimacy and material support remain too limited for the move to change Somaliland’s strategic position.",
+      "stock_connections": [
+        "Recognition Politics",
+        "Statehood and Sovereignty",
+        "Small State Diplomacy",
+        "Proxy Alignment",
+        "Regional Backlash",
+        "Diplomatic Isolation",
+        "Security Guarantees",
+        "Great Power Competition"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would recognize Somaliland",
+        "THBT states should recognize breakaway regions that demonstrate effective governance",
+        "THP a world where partial recognition is easier for de facto states",
+        "THBT African states should prioritize recognition based on effective control rather than colonial borders"
+      ],
+      "data_points": [
+        "Somaliland declared separation from Somalia in 1991",
+        "Somaliland had remained internationally unrecognised for more than three decades",
+        "Israel recognized Somaliland in 2025, one year before the ambassador presented credentials",
+        "18 May 2026: Somaliland’s first ambassador to a foreign country presented credentials to Israeli President Isaac Herzog"
+      ]
+    },
+    {
+      "id": "133795c47233",
+      "title": "Kenyan Fuel Price Hikes Trigger Deadly Transport Protests and Cost-of-Living Backlash",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/protests-over-fuel-price-hikes-turn-deadly-in-kenya?traffic_source=rss",
+      "published": "2026-05-18T19:19:01Z",
+      "category": "Econ",
+      "region": "Kenya",
+      "background": "On 18 May 2026, protests in Kenya turned deadly after transport workers blocked roads in response to government fuel price hikes. The price increase pushed diesel to record levels, raising transport costs across the economy. Several people were reported killed in the ensuing protest violence.",
+      "prop_args": [
+        {
+          "thesis": "Fuel price hikes are a regressive shock that punish the poor first and force governments to absorb the political cost of inflation rather than pass it through to households.",
+          "mechanisms": [
+            "First, higher fuel prices immediately raise the cost of transport, food, and basic goods. This is because (1) diesel is a core input for trucking and public transport, (2) supply chains pass those costs into retail prices, and (3) low-income households spend a larger share of income on essentials, so they cannot smooth the shock.",
+            "Second, the protests show that fuel hikes can trigger broad-based labor disruption. Three reasons: one, transport workers can physically block roads and paralyze commerce; two, their action creates visible shortages that spread public anger beyond the sector; three, the state then faces a legitimacy crisis because the price hike is experienced as an imposed tax on daily survival.",
+            "Third, the political fallout can discipline future austerity-style pricing reforms. This matters because governments that rely on market pricing for fuel may be forced to introduce subsidies, caps, or compensation schemes, which shifts the burden back onto the state and prevents a pure pass-through model."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Allowing fuel prices to rise is economically necessary, and short-term pain is preferable to long-term fiscal distortion and energy misallocation.",
+          "mechanisms": [
+            "First, subsidized or artificially cheap fuel creates fiscal leakage and crowds out public spending. One, governments often spend scarce revenue on keeping fuel cheap instead of health, education, or infrastructure; two, cheap fuel benefits higher-consumption groups more than the poor; three, removing the subsidy can improve budget discipline and reduce debt pressure.",
+            "Second, price signals are needed to curb waste and encourage adjustment. One, higher diesel prices push firms and consumers toward efficiency, public transport, and route optimization; two, they reduce overconsumption that worsens import dependence; three, they can make room for cleaner or more resilient energy transitions over time.",
+            "Third, the violence is not caused by the reform itself but by weak compensation and communication. One, if the state pairs price hikes with targeted transfers, the poorest can be protected; two, if reforms are phased in gradually, shock is reduced; three, the real failure is political management, not the economic logic of pricing fuel correctly."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate distributive harm and long-run fiscal sustainability. Prop wins if the round prioritizes visible welfare losses and state legitimacy, while opp wins if it can prove that cheap fuel is a hidden subsidy trap and that reform can be made politically survivable with compensation.",
+      "stock_connections": [
+        "Cost-push inflation",
+        "Regressive taxation",
+        "Austerity",
+        "Subsidy reform",
+        "Public legitimacy",
+        "Social unrest",
+        "State capacity",
+        "Fuel subsidy removal",
+        "Inflationary shocks"
+      ],
+      "motion_areas": [
+        "TH, as the Kenyan government, would raise fuel prices to market levels",
+        "THBT governments should remove fuel subsidies even at the cost of public protests",
+        "THP a world where fuel prices are set by market forces rather than state intervention"
+      ],
+      "data_points": [
+        "Several people were killed in protest violence in Kenya on 18 May 2026",
+        "Transport workers blocked roads in response to government fuel price hikes",
+        "Diesel prices reached record levels after the hike",
+        "The protests were directly linked to fuel price increases, indicating immediate pass-through into the transport sector"
+      ]
+    },
+    {
+      "id": "25903207df95",
+      "title": "Iran War Keeps Oil High, Pushing Global Borrowing Costs Toward a Debt Shock",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss",
+      "published": "2026-05-18T19:17:00Z",
+      "category": "Econ",
+      "region": "Global (US, major economies); developing countries; Iran-related oil/inflation channels",
+      "background": "On 18 May 2026, Al Jazeera reported that government bonds are under pressure as investors demand higher returns amid fears the Iran war will keep oil prices and inflation elevated. Borrowing costs in major economies have reached their highest levels in nearly two decades, while the IMF has warned that global debt could approach World War Two levels. The report says the US remains central because it largely sets borrowing costs worldwide, with higher rates feeding through to mortgages, car loans, business credit, and dollar-denominated borrowing for developing countries.",
+      "prop_args": [
+        {
+          "thesis": "The Iran war can trigger a global debt shock by keeping inflation and interest rates structurally higher for longer, forcing both rich and poor states into a tightening spiral.",
+          "mechanisms": [
+            "First, the war sustains oil-price pressure, which keeps headline inflation elevated. This is because (1) energy is a core input into transport, food, and manufacturing costs, (2) persistent inflation reduces the chance of central banks cutting rates, and (3) bond investors then demand higher yields to compensate for the risk that real returns are eroded.",
+            "Second, higher US borrowing costs transmit globally through the dollar-centered financial system. Three reasons: one, the US Treasury market anchors global pricing for sovereign and corporate debt; two, higher US yields pull capital away from emerging markets, weakening local currencies and raising import costs; three, dollar debt becomes more expensive to service, especially for states with large external financing needs.",
+            "Third, the debt shock becomes self-reinforcing because governments and households are forced to deleverage at the same time. This matters because (1) higher mortgage, car-loan, and business-credit costs suppress consumption and investment, (2) weaker growth reduces tax revenues just as debt-service costs rise, and (3) developing countries face the worst squeeze since they cannot print dollars and often must cut spending on health, subsidies, and infrastructure to avoid default."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Iran war is a serious inflationary shock, but it is unlikely to cause a systemic debt crisis because markets, central banks, and governments have tools to absorb the shock.",
+          "mechanisms": [
+            "First, the oil shock may be temporary or partially priced in, limiting the duration of rate pressure. One, markets often anticipate geopolitical risk and adjust before the worst-case scenario materializes; two, strategic reserves, supply rerouting, and producer responses can soften energy spikes; three, if inflation expectations remain anchored, central banks can look through a short-lived energy shock rather than keep rates high indefinitely.",
+            "Second, major economies are less vulnerable to a classic debt spiral than in past crises because of institutional backstops. One, advanced economies borrow in their own currencies and can rely on domestic central banks as lenders of last resort; two, financial regulation and post-2008 stress testing have made banking systems more resilient to bond-market volatility; three, governments can extend maturities and refinance rather than face immediate default pressure.",
+            "Third, the burden is uneven and therefore not necessarily a global shock. One, the biggest pain falls on highly exposed developing countries, not the entire world economy; two, many large firms and households have already locked in fixed-rate debt, muting the pass-through; three, if growth slows, central banks may eventually cut rates, which would stabilize debt servicing before a full-blown crisis emerges."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the Iran war creates a temporary inflation spike or a durable global financing squeeze. Prop wins if it shows that oil-driven inflation keeps US rates high long enough to hit sovereign refinancing, because the dollar system transmits pain everywhere; opp wins if it proves the shock is short-lived and that rich-country institutions can absorb it without cascading defaults.",
+      "stock_connections": [
+        "Debt Trap",
+        "Inflation Shock",
+        "Dollar Hegemony",
+        "Sovereign Default",
+        "Capital Flight",
+        "Contagion",
+        "Resource Shock",
+        "Cost-Push Inflation",
+        "Austerity"
+      ],
+      "motion_areas": [
+        "TH, as the IMF, would prioritize debt relief over inflation control in response to the Iran war",
+        "THBT major economies should impose windfall taxes and energy subsidies to offset war-driven inflation",
+        "THP a world where the US dollar is no longer the primary anchor of global borrowing costs",
+        "THBT developing nations should default rather than implement austerity when external debt becomes unsustainable",
+        "TH, as a central bank, would tolerate higher inflation to prevent a sovereign debt crisis"
+      ],
+      "data_points": [
+        "Borrowing costs in major economies have hit their highest levels in nearly two decades",
+        "The IMF warns global debt could approach World War Two levels",
+        "The US largely sets borrowing costs worldwide",
+        "Higher US rates translate into higher mortgage repayments, car loans, and business borrowing costs",
+        "Developing nations borrowing in dollars face additional pressure on already stretched budgets"
+      ]
+    },
+    {
+      "id": "ac357ab192bc",
+      "title": "Ebola’s Return in Eastern DRC Exposes How Conflict, Stigma, and Weak Health Systems Turn a Containable Outbreak Into a Regional Shock",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear",
+      "published": "2026-05-18T18:33:12Z",
+      "category": "IR",
+      "region": "Democratic Republic of the Congo (Ituri) / Eastern DRC / Uganda / South Sudan",
+      "background": "The World Health Organization announced an Ebola outbreak in Ituri province in eastern DRC last week and later declared it a public health emergency of international concern after more than 300 suspected cases and 88 deaths were reported in the DRC and two deaths in neighbouring Uganda. The outbreak is centred in Ituri, a gold-rich province and migratory hub bordering Uganda and South Sudan, where fighting between Hema- and Lendu-aligned militias has killed more than 50,000 people since 1999. WHO says the outbreak involves the rare Bundibugyo strain, which has no approved treatment or vaccine, though candidate compounds may enter trials by the end of May or in June.",
+      "prop_args": [
+        {
+          "thesis": "The outbreak shows that in conflict zones, epidemic response must be treated as a security and governance problem, not just a medical one, because weak state capacity and mobility make containment impossible without broader stabilization.",
+          "mechanisms": [
+            "First, conflict destroys the basic infrastructure needed for outbreak control. This is because (1) health systems in eastern DRC are already 'on their knees' after years of displacement, (2) insecurity limits safe access for health workers and supply chains, and (3) treatment centres, surveillance, and contact tracing all depend on functioning local administration.",
+            "Second, the outbreak spreads faster through the very social patterns that conflict creates. Three reasons: one, people are displaced across borders and into rebel-held areas like Goma, two, funerals and informal gatherings become transmission nodes when public trust is low, and three, fear and rumours push communities away from formal care and toward hidden chains of infection.",
+            "Third, the economic shock compounds the health emergency and makes containment politically harder. This matters because (1) residents in a mining and trading hub live 'from hand to mouth,' (2) restrictions on movement or markets immediately threaten livelihoods, and (3) when people face a choice between quarantine and survival, compliance collapses and the outbreak becomes self-reinforcing."
+          ]
+        },
+        {
+          "thesis": "The international response should prioritize rapid containment support and emergency health capacity, because early intervention is far cheaper and more effective than waiting for the disease to become a cross-border crisis.",
+          "mechanisms": [
+            "First, Ebola outbreaks are time-sensitive and exponential. This is because (1) the disease spreads through body fluids and contaminated materials, (2) each delay increases the number of contacts that must be traced, and (3) once cases appear in multiple provinces or neighbouring states, the cost of containment rises sharply.",
+            "Second, the WHO and partners can still make a material difference even without a vaccine for this strain. Three reasons: one, protective equipment and trained staff reduce healthcare-worker infections, two, symptomatic treatment and isolation lower mortality and transmission, and three, emergency logistics can stabilize surveillance before the outbreak reaches a larger urban network.",
+            "Third, early intervention protects regional trade and mobility. This matters because (1) Ituri is a business centre and migratory hub, (2) Uganda and South Sudan are already exposed through cross-border movement, and (3) preventing a wider shutdown avoids the need for harsher future restrictions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The outbreak will be contained primarily by local public health measures, so framing it as a broader security or international governance failure overstates the problem.",
+          "mechanisms": [
+            "First, Ebola is medically well understood even when a specific strain lacks a vaccine. One, transmission requires close bodily contact rather than airborne spread, two, isolation and protective protocols can break chains of infection, and three, the DRC has prior experience managing Bundibugyo outbreaks, including control in Isiro in 2012.",
+            "Second, international alarm can be counterproductive if it triggers panic or heavy-handed restrictions. One, residents already fear economic loss from possible movement controls, two, stigma and rumours can drive people away from clinics, and three, over-securitized responses may worsen distrust in communities that already believe false myths.",
+            "Third, the scale remains manageable relative to past crises. One, WHO has reported 300-plus suspected cases rather than a nationwide collapse, two, treatment centres and emergency supplies are already being deployed, and three, the existence of a known response playbook means the outbreak does not automatically imply regional destabilization."
+          ]
+        },
+        {
+          "thesis": "The real lesson is that underinvestment in health systems, not conflict alone, is the decisive driver of harm, so the correct policy focus is long-term public health capacity rather than emergency framing.",
+          "mechanisms": [
+            "First, weak health systems turn every outbreak into a catastrophe. One, eastern DRC has limited surveillance and treatment capacity, two, aid cuts have left the country 'stretched to breaking point,' and three, without routine trust-building and primary care, communities only encounter the state during crises.",
+            "Second, the outbreak’s deadliness is amplified by delayed diagnosis and misinformation. One, the first suspected case was only identified after symptoms had already spread through a funeral-linked cascade, two, stigma discourages early reporting, and three, public education and community health workers are more important than border-focused panic.",
+            "Third, conflict is not the only or even main variable because Ebola outbreaks recur in the DRC across different political contexts. One, this is the 17th outbreak since 1976, two, the country’s deadliest outbreak from 2018 to 2020 was also a health-system failure, and three, durable resilience requires institutions, not just emergency deployments."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Ebola in eastern DRC is treated as a one-off outbreak or as evidence that conflict zones need integrated security-health responses. Prop wins if the judge prioritizes systemic containment failure and cross-border risk; opp wins if they think the immediate medical toolkit and DRC’s outbreak experience are enough to keep the crisis local.",
+      "stock_connections": [
+        "State capacity",
+        "Humanitarian intervention",
+        "Public health emergency",
+        "Conflict spillover",
+        "Misinformation and stigma",
+        "Weak institutions",
+        "Cross-border contagion",
+        "Aid dependency",
+        "Security-development nexus"
+      ],
+      "motion_areas": [
+        "TH, as the WHO, would treat Ebola outbreaks in conflict zones as security emergencies",
+        "THBT international organizations should prioritize emergency containment over long-term development in epidemic response",
+        "THP a world where public health interventions in conflict zones can override local movement and gathering restrictions",
+        "THBT the international community should condition aid to conflict-affected states on epidemic preparedness"
+      ],
+      "data_points": [
+        "More than 300 suspected Ebola cases and 88 deaths reported in the DRC, plus 2 deaths in neighbouring Uganda",
+        "This is the 17th Ebola outbreak in the DRC",
+        "The 2018-2020 DRC Ebola outbreak caused more than 2,000 deaths",
+        "Ituri province has seen more than 50,000 deaths in conflict since 1999",
+        "WHO deployed 35 experts and 7 tons of emergency medical supplies and equipment to Bunia",
+        "The outbreak involves the rare Bundibugyo strain, which has no approved treatment or vaccine",
+        "The first suspected case reported fever, haemorrhaging and vomiting on 24 April and died in Bunia",
+        "WHO declared the outbreak a public health emergency of international concern",
+        "The Bundibugyo strain was first discovered in 2007 in western Uganda",
+        "Candidate compounds for a Bundibugyo vaccine were expected to enter trials by the end of May or in June"
+      ]
+    },
+    {
+      "id": "44dfc26aa417",
+      "title": "Duterte Impeachment Becomes a Test of Elite Accountability vs Dynastic Capture in the Philippines",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division?traffic_source=rss",
+      "published": "2026-05-18T16:29:19Z",
+      "category": "IR",
+      "region": "Philippines",
+      "background": "The Philippine Senate opened an impeachment trial against Vice President Sara Duterte on 18 May 2026, after a leadership change in the upper house and a chaotic week involving a shootout and the reappearance of Senator Ronald \"Bato\" dela Rosa. Duterte has 10 days to answer allegations that she misused public funds, accumulated unexplained wealth, and threatened President Ferdinand Marcos Jr, the first lady, and a former House speaker. If convicted, she could be barred from public office, which would likely end her bid for the 2028 presidency.",
+      "prop_args": [
+        {
+          "thesis": "Proceeding with the impeachment is necessary to enforce accountability and prevent the Duterte political machine from becoming untouchable.",
+          "mechanisms": [
+            "First, the trial restores institutional checks on a vice president accused of corruption and threats of violence. This is because (1) impeachment is the only constitutional mechanism capable of removing a senior executive who is insulated from ordinary prosecution, (2) allowing the case to stall would signal that dynastic power can override legal scrutiny, and (3) visible proceedings create a precedent that even the most powerful families can be investigated.",
+            "Second, the case helps reassert civilian rule over a political bloc linked to the drug war and intimidation. Three reasons: one, Sara Duterte is tied to a broader Duterte network already under international and domestic scrutiny; two, her father is in ICC custody over crimes against humanity allegations, so impunity around the family has already damaged trust in the state; three, a successful trial can deter future officeholders from using public office as protection against accountability.",
+            "Third, even if politically destabilizing in the short term, the long-term gain is stronger democratic legitimacy. This matters because a system that tolerates alleged misuse of funds and threats against rivals for fear of elite backlash entrenches cynicism, whereas enforcing rules can rebuild confidence among voters, victims, and reform coalitions."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The impeachment is likely to deepen elite polarization and be perceived as a factional weapon rather than a neutral rule-of-law process.",
+          "mechanisms": [
+            "First, the process is vulnerable to being read as Marcos-aligned retaliation against a rival dynasty. Numbered reasons: (1) Marcos and Duterte were once allies in 2022 before a dramatic fallout, (2) congressional scrutiny of Duterte finances followed that rupture, and (3) the Senate leadership changed amid chaos and a vote by Duterte loyalists, making the court look politically captured.",
+            "Second, the trial can further destabilize already fragile institutions and street politics. Numbered reasons: (1) the opening came after a shootout and reports of gunfire, showing coercive politics are already escalating, (2) the Senate is now split between competing patronage blocs, which can paralyze governance, and (3) mass protests outside the chamber show the case is mobilizing supporters and opponents into a zero-sum confrontation.",
+            "Third, removing Duterte may not solve the underlying governance problem and could even entrench martyrdom politics. Numbered reasons: (1) if her base sees conviction as elite persecution, it strengthens the Duterte brand for 2028, (2) the same patronage networks can survive by shifting to another candidate, and (3) focusing on one impeachment can distract from broader anti-corruption and security-sector reform."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether accountability is worth the institutional and political backlash. Prop wins if you prioritize rule-of-law credibility and deterrence against dynastic impunity; opp wins if you think the process is so factionalized that it will be seen as selective justice and worsen instability rather than resolve it.",
+      "stock_connections": [
+        "Dynastic politics",
+        "Elite capture",
+        "Rule of law",
+        "Selective justice",
+        "Democratic backsliding",
+        "Impunity",
+        "Institutional legitimacy",
+        "Political polarization"
+      ],
+      "motion_areas": [
+        "TH, as the Philippine Senate, would proceed with the impeachment of Sara Duterte",
+        "THBT democracies should prioritize accountability trials against powerful political dynasties even at the cost of short-term instability",
+        "THP a world where senior executives can be removed through impeachment for corruption allegations before criminal conviction"
+      ],
+      "data_points": [
+        "Sara Duterte was given 10 days to respond to the impeachment accusations",
+        "Duterte is 47 and announced in February that she plans to contest the 2028 presidential election",
+        "Rodrigo Duterte is in ICC custody in The Hague and faces crimes against humanity charges over the drug war",
+        "The Duterte presidency ran from 2016 to 2022, during which tens of thousands were reportedly killed in the anti-drug campaign",
+        "Senator Ronald 'Bato' dela Rosa was accused by the ICC over his role in the drug war and reappeared after months in hiding to vote in the Senate leadership contest",
+        "The Senate leadership vote on 11 May installed Alan Peter Cayetano, a Duterte loyalist, as president of the upper house"
+      ]
+    },
+    {
+      "id": "5092ed1ed52e",
+      "title": "Israel’s Interception of Gaza Aid Flotilla Escalates the Blockade vs Humanitarian Access Clash",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/what-we-know-about-israels-interception-of-gaza-aid-flotilla?traffic_source=rss",
+      "published": "2026-05-18T16:27:35Z",
+      "category": "IR",
+      "region": "Israel / Gaza / Eastern Mediterranean",
+      "background": "On 18 May 2026, Israeli forces intercepted multiple vessels from the Gaza-bound Global Sumud Flotilla in international waters. According to the report, at least 100 activists were arrested. The interception took place under the watch of Prime Minister Benjamin Netanyahu and was condemned by critics as 'piracy'.",
+      "prop_args": [
+        {
+          "thesis": "Israel’s interception is a legally and strategically necessary enforcement of a blockade designed to prevent hostile supply lines into Gaza.",
+          "mechanisms": [
+            "First, the interception preserves the blockade as a credible security instrument. This is because (1) if Israel allows an unauthorised flotilla to pass, it signals that maritime restrictions can be challenged by civilian cover, (2) that creates a repeatable loophole for weapons, dual-use goods, or intelligence support to enter Gaza, and (3) once the blockade is seen as porous, deterrence collapses and Israel must either escalate militarily or accept reduced control over the conflict environment.",
+            "Second, it protects Israel from a broader escalation trap. Three reasons: one, allowing the flotilla through could embolden future mass-activation campaigns that force Israel into a binary choice between humiliation and force; two, the interception reduces the risk that Hamas or allied actors exploit humanitarian convoys for propaganda or material gain; three, enforcing maritime restrictions signals to regional actors that Israel will not tolerate unilateral breaches of its security perimeter.",
+            "Third, the action is defensible on weighing because state security and wartime control of borders outweigh the symbolic value of the convoy. This matters because if Israel loses the ability to police access routes during an active conflict, it weakens its bargaining position, increases uncertainty over supply chains into Gaza, and makes future ceasefire or hostage negotiations harder to manage."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The interception is an unlawful and counterproductive act that deepens Gaza’s humanitarian crisis while damaging Israel’s international legitimacy.",
+          "mechanisms": [
+            "First, stopping civilian aid vessels in international waters creates a strong illegality and legitimacy problem. One, the act is framed as piracy by critics because it occurs outside territorial waters; two, arresting around 100 activists turns a humanitarian mission into a diplomatic incident; three, the optics of force against aid workers strengthens claims that Israel is using blockade enforcement to punish civilians rather than target combatants.",
+            "Second, the interception worsens humanitarian conditions and therefore prolongs the conflict. One, every blocked convoy reduces the flow of food, medicine, and relief into Gaza; two, worsening deprivation increases civilian desperation and radicalisation, making moderation politically harder; three, humanitarian obstruction hardens international pressure for sanctions, investigations, or diplomatic isolation, which can reduce Israel’s room for manoeuvre.",
+            "Third, the move is strategically self-defeating because it hands propaganda victories to Israel’s opponents. One, activists and NGOs can use the interception as evidence of collective punishment; two, this mobilises global civil society and sympathetic governments against Israel; three, the more Israel is seen as suppressing aid, the more it undermines its claim that the blockade is narrowly security-driven rather than punitive."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the blockade is treated as a legitimate security perimeter or as collective punishment of civilians. Prop has the structural advantage if the round is framed around wartime sovereignty and deterrence; Opp wins if they can show that the interception is both legally dubious and materially worsens humanitarian conditions without meaningfully improving security.",
+      "stock_connections": [
+        "Collective Punishment",
+        "Humanitarian Intervention",
+        "Blockade Legitimacy",
+        "State Sovereignty",
+        "Deterrence",
+        "International Law",
+        "Civilian Harm vs Security Trade-offs",
+        "Propaganda / Narrative Warfare"
+      ],
+      "motion_areas": [
+        "TH, as Israel, would intercept the Gaza aid flotilla",
+        "THBT states may intercept civilian aid convoys that breach wartime blockades",
+        "THP a world where humanitarian flotillas can challenge naval blockades without state permission"
+      ],
+      "data_points": [
+        "Multiple vessels from the Gaza-bound Global Sumud Flotilla were intercepted in international waters",
+        "At least 100 activists were reportedly arrested",
+        "The interception occurred on 18 May 2026",
+        "Critics described the operation as 'piracy'",
+        "The action took place under the watch of Prime Minister Benjamin Netanyahu"
+      ]
+    },
+    {
+      "id": "7c206a7d84df",
+      "title": "Fragile US-Brokered Ceasefire in Lebanon Fails to Stop an Expanding Israel-Hezbollah War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T16:16:38Z",
+      "category": "IR",
+      "region": "Israel / Lebanon / Hezbollah / Iran-backed networks / US-brokered ceasefire",
+      "background": "Lebanon's health ministry says Israeli strikes in the conflict with Hezbollah have killed 3,020 people since fighting escalated at the beginning of March. More than 400 of those deaths occurred after a ceasefire came into effect on 17 April, and the truce was extended by 45 days on Friday with negotiations due to resume in early June. The agreement was brokered by the United States, but Israel says it may continue strikes it deems necessary against Hezbollah military activity, while Lebanon says the attacks undermine state efforts to assert exclusive control over weapons.",
+      "prop_args": [
+        {
+          "thesis": "The ceasefire is structurally failing because Israel and Hezbollah both retain incentives to keep using limited force, making the truce a cover for continued war rather than a path to de-escalation.",
+          "mechanisms": [
+            "First, the deal preserves each side's core military incentives. This is because (1) Israel can still strike targets it says are linked to Hezbollah, so it does not have to accept full restraint; (2) Hezbollah can keep demonstrating resistance through drones and cross-border attacks; and (3) neither side pays enough immediate political cost for violating a fragile truce, so escalation remains the default bargaining tool.",
+            "Second, the ceasefire lacks credible enforcement and therefore cannot change behavior. Three reasons: one, the United States brokered the deal but is not imposing real battlefield penalties for violations; two, the agreement is vague enough that both sides can claim self-defense; three, repeated violations normalize non-compliance and make future restraint less likely.",
+            "Third, continued violence entrenches a wider regional security spiral. This matters because the conflict is no longer just about Lebanon: it links Israel to Iran-backed networks, keeps southern Lebanon militarized, and increases the odds that any local incident becomes a broader Israel-Iran proxy confrontation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The ceasefire and limited Israeli operations are still preferable to a full-scale war because they constrain Hezbollah, preserve deterrence, and keep diplomatic space open for a negotiated settlement.",
+          "mechanisms": [
+            "First, allowing Israel limited strikes can prevent Hezbollah from rebuilding its military capacity. One, Hezbollah uses ceasefires to rearm, reposition, and harden sites; two, targeted strikes raise the cost of doing so without requiring a ground invasion; three, this can reduce the chance of a larger and more destructive war later.",
+            "Second, the truce creates a bargaining framework that would not exist in open war. One, the 45-day extension and early-June talks give mediators a timetable; two, both sides can test compliance and signal red lines without total escalation; three, even imperfect ceasefires often become the only route to a broader political settlement.",
+            "Third, Lebanon benefits from any arrangement that pressures Hezbollah more than the state. One, Hezbollah's independent weapons undermine Lebanese sovereignty; two, Israeli pressure can strengthen domestic arguments for state control over armed groups; three, if Hezbollah is forced into a weaker position, Lebanon may eventually regain more security autonomy."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether limited, ongoing violence is a controllable bargaining tool or proof that the ceasefire has already collapsed. Prop wins if you prioritize civilian harm and escalation dynamics; opp wins if you think coercive pressure is necessary to stop Hezbollah from entrenching and that imperfect ceasefires are still better than unconstrained war.",
+      "stock_connections": [
+        "Security Dilemma",
+        "Proxy War Escalation",
+        "Ceasefire Enforcement Failure",
+        "Deterrence",
+        "Sovereignty vs Non-State Armed Groups",
+        "Conflict Mediation",
+        "Regional Spillover",
+        "Moral Hazard"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would continue to broker ceasefires that allow limited strikes against non-state armed groups",
+        "THBT fragile ceasefires are preferable to pursuing total military victory in asymmetric conflicts",
+        "THP a world where external mediators can enforce ceasefire violations with meaningful penalties",
+        "THBT states should prioritize weakening non-state armed groups over immediate civilian protection in active proxy wars"
+      ],
+      "data_points": [
+        "Lebanon's health ministry says 3,020 people have been killed since fighting escalated at the beginning of March",
+        "More than 400 deaths occurred after the ceasefire came into effect on 17 April",
+        "The ceasefire was extended by 45 days on Friday, with negotiations due to resume in early June",
+        "On Saturday, Israeli strikes hit more than two dozen villages, with only nine preceded by evacuation warnings",
+        "Israel says a soldier has been killed in fighting since early March, bringing its military losses to 20 soldiers",
+        "Four Israeli civilians have also been killed since early March",
+        "Israeli ground forces continue to occupy a strip of territory roughly 10km from the Lebanese frontier"
+      ]
+    },
+    {
+      "id": "b5f1880f5c14",
+      "title": "Pakistan’s mediation cannot bridge the US-Iran sequencing gap as military escalation reasserts leverage",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen?traffic_source=rss",
+      "published": "2026-05-18T16:09:05Z",
+      "category": "IR",
+      "region": "Pakistan / Iran / United States / Gulf",
+      "background": "Pakistan’s Interior Minister Mohsin Naqvi visited Tehran for two days in mid-May 2026 as Islamabad tried to keep US-Iran ceasefire talks alive after an April 8 ceasefire in the US-Israel war on Iran. According to Iranian officials, Washington sent revised proposals through Pakistani intermediaries and Iran replied through the same channel; Tehran also said it submitted a 14-point proposal via Pakistan. The US side is demanding a 20-year moratorium on uranium enrichment, transfer of Iran’s roughly 400kg of 60%-enriched uranium abroad, and dismantling of Natanz, Isfahan and Fordow, while Iran wants sanctions relief, frozen assets released, war compensation, and recognition of its sovereignty over the Strait of Hormuz before nuclear talks proceed.",
+      "prop_args": [
+        {
+          "thesis": "Pakistan’s mediation is still valuable because it is one of the few channels that can prevent immediate collapse into direct US-Iran war.",
+          "mechanisms": [
+            "First, it creates a trusted transmission belt when direct diplomacy is politically impossible. This is because (1) both Washington and Tehran can send revised proposals without publicly conceding to the other side, (2) Pakistan has enough regional standing to be used by both sides as a discreet intermediary, and (3) even failed proposals can clarify red lines and reduce miscalculation.",
+            "Second, it buys time for de-escalation and crisis management. Three reasons: one, the ceasefire has already lasted 40 days, showing that even partial mediation can hold violence in check; two, Pakistan’s repeated visits by senior officials keep talks alive when military planners are preparing strike lists; three, the existence of a channel makes accidental escalation less likely because each side can signal restraint or warning before acting.",
+            "Third, Pakistan’s role matters because it preserves a diplomatic off-ramp that other mediators may not replicate immediately. This matters because Oman and Qatar can complement but not instantly replace Pakistan’s current channel, and once a channel exists, even a weak one, it can be used to manage sequencing disputes, prisoner/asset issues, and ceasefire monitoring before they harden into war."
+          ]
+        },
+        {
+          "thesis": "Pakistan can extract strategic relevance from the crisis even if it cannot fully solve it.",
+          "mechanisms": [
+            "First, mediation increases Pakistan’s diplomatic leverage with both Washington and Tehran. This is because (1) both sides need a contact point, (2) Islamabad can convert access into future bargaining power on sanctions, trade, border security, and regional stability, and (3) being seen as indispensable raises Pakistan’s profile relative to rival regional brokers.",
+            "Second, it helps Pakistan avoid being sidelined in a Gulf security architecture that would otherwise be shaped by larger powers. Three reasons: one, active mediation keeps Pakistan in the room when Hormuz, energy security, and missile escalation are discussed; two, it signals Pakistan is not merely a bystander to regional war; three, it can reduce spillover risks from drone attacks, maritime insecurity, and refugee or trade shocks.",
+            "Third, even partial success is meaningful because the alternative is total diplomatic failure. This matters because a 'stay of execution' can still be a win in BP if the status quo is immediate escalation, and any delay in war gives space for domestic, regional, and third-party pressure to build against renewed strikes."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pakistan’s mediation is structurally too weak to matter because the real bargaining power sits with military escalation, not intermediaries.",
+          "mechanisms": [
+            "First, the core dispute is not a communication problem but a sequencing problem that Pakistan cannot solve. One, Iran wants sanctions relief, asset release, and Hormuz guarantees before nuclear talks; two, the US wants nuclear concessions first while keeping blockade and strike leverage; three, these are incompatible strategic preferences, so a messenger cannot bridge them.",
+            "Second, both sides have incentives to bypass Pakistan once they conclude it cannot impose costs or guarantees. One, Iran and the US already have alternative channels through Oman and Qatar; two, if Pakistan cannot deliver binding commitments, it becomes redundant; three, once the parties believe military pressure is more effective, mediation loses relevance fast.",
+            "Third, the crisis is being driven by battlefield dynamics that diplomacy cannot override. One, the US has prepared target lists for Iranian energy and infrastructure; two, Iran has restored access to 30 of 33 missile sites and is threatening more intense strikes; three, drone attacks in the UAE and Saudi airspace show escalation is already regional, so mediation is chasing events rather than shaping them."
+          ]
+        },
+        {
+          "thesis": "Pakistan’s involvement may even be counterproductive because it gives both sides a false sense that escalation can continue without immediate consequences.",
+          "mechanisms": [
+            "First, mediation can prolong brinkmanship by lowering the urgency to compromise. One, if both sides believe Pakistan can keep talks alive, they can keep hardening positions; two, this delays real concessions on enrichment, blockade, and compensation; three, the result is a longer crisis with more opportunities for accidental war.",
+            "Second, Pakistan lacks the coercive tools needed to enforce any deal. One, it cannot compel the US to lift sanctions or Iran to accept nuclear limits; two, it cannot guarantee Hormuz access or prevent strikes on regional targets; three, without enforcement capacity, its channel becomes symbolic rather than decisive.",
+            "Third, the more visible Pakistan becomes, the more it risks being associated with failure. One, if talks collapse, Islamabad is blamed for overpromising; two, if war resumes, its diplomatic credibility suffers; three, that weakens rather than strengthens its long-term regional influence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether mediation can change the underlying incentives or merely relay them. Prop wins if the round is about preventing immediate war and valuing even partial de-escalation; opp wins if the clash is about durable settlement, because the US-Iran gap is structural and Pakistan lacks coercive leverage.",
+      "stock_connections": [
+        "Great Power Rivalry",
+        "Mediation Failure",
+        "Security Dilemma",
+        "Brinkmanship",
+        "Proxy War",
+        "Nuclear Proliferation",
+        "Balance of Power",
+        "Credibility and Deterrence"
+      ],
+      "motion_areas": [
+        "TH, as Pakistan, would mediate between the US and Iran",
+        "THBT third-party mediation is more useful than sanctions in preventing regional war",
+        "THP a world where regional middle powers can broker ceasefires between great powers",
+        "THBT states should prioritize sequencing disputes over substantive concessions in peace talks"
+      ],
+      "data_points": [
+        "April 8, 2026 ceasefire in the US-Israel war on Iran",
+        "April 28, 2026: Iran submitted a 14-point counterproposal",
+        "Early May 2026: the US proposed a 20-year moratorium on uranium enrichment",
+        "Iran’s stockpile of highly enriched uranium is estimated at roughly 400kg enriched to 60%",
+        "Iran says it restored operational access to 30 of 33 missile sites along the Strait of Hormuz",
+        "Pakistan’s Interior Minister Mohsin Naqvi made a two-day visit to Tehran in mid-May 2026",
+        "The ceasefire had lasted 40 days when the article was published",
+        "US military assessments cited by The New York Times said Iran’s missile stockpile was at roughly 70% of pre-war levels"
+      ]
+    },
     {
       "id": "46441bfa7b6f",
       "title": "Trump Uses IRS Lawsuit Withdrawal to Bargain for a Taxpayer-Funded Slush Fund for Political Allies",
@@ -55,6 +644,57 @@
         "About 1,500 January 6 rioters reportedly eligible for the fund",
         "Trump controls the IRS",
         "Charles Littlejohn was an IRS contractor who leaked Trump’s tax returns to ProPublica and the New York Times"
+      ]
+    },
+    {
+      "id": "adab5563faf4",
+      "title": "Trump’s Iran War Risks Repeating the Vietnam Trap of Metric-Driven Escalation",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/5/18/former-us-negotiator-with-iran-trump-falling-into-vietnam-trap?traffic_source=rss",
+      "published": "2026-05-18T15:31:21Z",
+      "category": "IR",
+      "region": "United States / Iran",
+      "background": "On 18 May 2026, former US special envoy to Iran Rob Malley said current US-Iran talks have a \"very small chance of success\". He argued that President Donald Trump is judging success by the number of Iranian leaders killed and the number of Iranian boats or missile launchers destroyed, rather than by whether the war produces a settlement. Malley said the only way out is a deal that respects both US and Iranian core interests, and suggested Trump’s personal mindset is central to whether negotiations succeed.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s metric of military attrition over diplomacy makes a negotiated settlement less likely and pushes the US into an open-ended escalation trap.",
+          "mechanisms": [
+            "First, counting destroyed assets and killed commanders rewards visible battlefield wins over compromise. This is because (1) leaders can claim progress without changing the underlying conflict, (2) each tactical success raises domestic expectations for more pressure, and (3) it reduces incentives to offer concessions that would look like weakness after publicized strikes.",
+            "Second, this framing hardens Iranian bargaining behavior and narrows the space for face-saving compromise. Three reasons: one, Iran reads attrition-focused messaging as regime-change intent rather than limited coercion; two, that perception strengthens hardliners who argue talks are a cover for capitulation; three, it makes any concession politically costly because it appears to validate US coercion.",
+            "Third, the longer the war is evaluated by body counts and destroyed hardware, the more the conflict becomes self-justifying. This matters because the US then needs ever larger gains to declare success, which is exactly how limited interventions turn into prolonged quagmires."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pressure-first tactics can force Iran back to the table by raising the cost of defiance and improving US leverage in any eventual settlement.",
+          "mechanisms": [
+            "First, military strikes can change the bargaining environment by demonstrating credible pain. One, they degrade Iran’s operational capacity; two, they signal that the US is willing to escalate if talks fail; three, they may convince Tehran that delay is more expensive than compromise.",
+            "Second, visible battlefield gains can strengthen the US domestic coalition for diplomacy rather than weaken it. One, hawks may accept talks only after coercive leverage is established; two, the administration can sell a deal as the product of strength, not concession; three, this can produce a more durable agreement because it is backed by deterrence."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether coercion creates leverage for a deal or substitutes for one. Pro-propagation wins if you think Iran interprets strikes as existential pressure and if Trump’s metric discipline prevents mission creep; opposition wins if battlefield pain credibly forces concessions before escalation becomes irreversible.",
+      "stock_connections": [
+        "Quagmire",
+        "Vietnam Syndrome",
+        "Coercive Diplomacy",
+        "Credible Commitment",
+        "Escalation Ladder",
+        "Regime Change",
+        "Security Dilemma",
+        "Negotiation Theory"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize military pressure over diplomacy in negotiations with Iran",
+        "THBT the United States should pursue coercive diplomacy against Iran",
+        "THP a world where leaders are judged on battlefield metrics rather than negotiated settlements"
+      ],
+      "data_points": [
+        "\"very small chance of success\" for current talks",
+        "Trump is reportedly measuring success by the number of Iranian leaders killed and Iranian boats or missile launchers destroyed",
+        "Malley argues the only viable exit is a settlement that respects both US and Iranian core interests",
+        "Published on 18 May 2026"
       ]
     },
     {
@@ -469,6 +1109,61 @@
         "71% said they find it difficult to source news relevant to people their age",
         "The government says 4.7 million under-16 social media accounts have been deactivated, removed or restricted since 10 December 2025",
         "Potential fines for non-compliance can reach A$49.5 million per breach"
+      ]
+    },
+    {
+      "id": "04107987b00a",
+      "title": "Belgium’s Lumumba Reckoning Exposes the Limits of Postcolonial Justice",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/18/belgium-diplomat-dies-etienne-davignon-congo-leader-patrice-lumumba",
+      "published": "2026-05-18T14:58:45Z",
+      "category": "IR",
+      "region": "Belgium / Democratic Republic of the Congo",
+      "background": "Étienne Davignon, a 93-year-old former Belgian diplomat and industrialist, died before he could stand trial for alleged involvement in the 1961 killing of Patrice Lumumba. In March 2026, a Belgian court ordered him to stand trial for war crimes over the unlawful detention or transfer of Lumumba and the deprivation of his right to an impartial trial; he was also accused of involvement in the killings of Lumumba’s allies Maurice Mpolo and Joseph Okito. Lumumba was the first prime minister of the newly independent Congo after 1960, was ousted months later, and was killed on 16 January 1961 by Belgian-backed secessionist rebels.",
+      "prop_args": [
+        {
+          "thesis": "This case shows why former colonial powers must pursue criminal accountability for historical atrocities, even decades later, because legal reckoning is essential to truth, legitimacy, and postcolonial repair.",
+          "mechanisms": [
+            "First, delayed prosecution still creates a public record that contests denial and historical whitewashing. This is because (1) colonial crimes are often buried by state archives and elite networks, (2) trials force disclosure of documents and testimony, and (3) even if a defendant dies, the process can establish an authoritative legal narrative that families and historians can rely on.",
+            "Second, accountability has diplomatic and moral value beyond individual punishment. Three reasons: one, it signals that colonial violence is not exempt from the rule of law; two, it reassures formerly colonized states that their grievances are taken seriously; three, it pressures successor institutions to confront their role in systemic abuse rather than treating it as distant history.",
+            "Third, these cases matter because they shape present-day power relations. This matters because (1) impunity for imperial crimes normalizes the idea that powerful states can evade consequences, (2) it weakens trust in international law when it is seen as only punishing weaker actors, and (3) it strengthens broader anti-colonial and reparative claims, including demands for archives, apologies, and restitution."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Pursuing individual criminal trials for 60-year-old colonial crimes is largely symbolic and often counterproductive, because it delivers little justice while risking legal distortion and political theatre.",
+          "mechanisms": [
+            "First, evidentiary decay makes fair adjudication nearly impossible. One, key witnesses are dead or unavailable, so the case relies on fragmentary archives and inference; two, memory degradation and missing records increase the chance of wrongful attribution; three, defendants cannot meaningfully rebut allegations when the factual record is so incomplete.",
+            "Second, retrospective prosecutions can substitute symbolism for material repair. One, a trial after six decades does not restore the dead or materially improve Congolese institutions; two, governments can use courtroom drama to avoid harder reparative steps like compensation, archival access, or development commitments; three, the public may mistake a single prosecution for genuine decolonization.",
+            "Third, these cases can poison present-day diplomacy without changing structural conditions. One, they reopen historical grievances in ways that harden nationalist backlash in Belgium; two, they can make cooperation on trade, aid, and security more difficult; three, they encourage a selective justice standard where only a few visible individuals are targeted while the broader colonial system remains untouched."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether symbolic accountability is itself a meaningful form of justice or merely a substitute for it. Prop wins if the round prioritizes truth, legitimacy, and the precedent that no state is above scrutiny; Opp wins if the round prioritizes legal fairness and tangible outcomes over retrospective moral theatre.",
+      "stock_connections": [
+        "Transitional Justice",
+        "Historical Injustice",
+        "Impunity",
+        "Rule of Law",
+        "Postcolonial Reparations",
+        "Selective Justice",
+        "State Legitimacy",
+        "Archive Politics"
+      ],
+      "motion_areas": [
+        "TH, as Belgium, would prosecute colonial-era crimes committed by its officials",
+        "THBT former colonial powers should pursue criminal trials for historical atrocities",
+        "THP a world where international law can be applied retroactively to colonial crimes",
+        "THBT states should prioritize reparative justice over criminal accountability for historical wrongs"
+      ],
+      "data_points": [
+        "Étienne Davignon was 93 years old and died before his trial could begin",
+        "Belgian prosecutors said he participated in the unlawful detention or transfer of Lumumba and deprived him of his right to an impartial trial",
+        "Lumumba was killed on 16 January 1961, 65 years before the 2026 trial order",
+        "Davignon was the last living suspect targeted by the Belgian investigation",
+        "Lumumba was the first prime minister of the Congo after independence from Belgium in 1960",
+        "Davignon was later European commissioner from 1977 to 1985"
       ]
     },
     {
