@@ -1,7 +1,1220 @@
 {
   "date": "2026-05-18",
-  "last_updated": "2026-05-18T10:26:26Z",
+  "last_updated": "2026-05-18T15:56:21Z",
   "cards": [
+    {
+      "id": "46441bfa7b6f",
+      "title": "Trump Uses IRS Lawsuit Withdrawal to Bargain for a Taxpayer-Funded Slush Fund for Political Allies",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
+      "published": "2026-05-18T15:46:05Z",
+      "category": "IR",
+      "region": "US",
+      "background": "On 18 May 2026, Trump moved to dismiss a $10bn lawsuit against the IRS over the leak of his tax returns, filed after IRS contractor Charles Littlejohn leaked the documents to ProPublica and the New York Times. The filing came two days before a 20 May deadline for briefing on whether a real controversy existed, since Trump controls the IRS. Reporting also said the withdrawal may be linked to talks over a $1.7bn fund to compensate people Trump says were wrongfully targeted by the Biden administration, including about 1,500 January 6 rioters.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s move shows how executive power can be converted into patronage, letting a president trade legal claims for public money that rewards loyalists and normalizes corruption.",
+          "mechanisms": [
+            "First, the deal turns state institutions into a bargaining chip for personal and factional benefit. This is because (1) Trump controls the IRS and can therefore threaten or drop litigation against it, (2) the alleged $1.7bn fund would be financed through taxpayer-backed mechanisms like the Treasury Judgment Fund, and (3) the beneficiaries reportedly include January 6 rioters and other political allies rather than neutral victims.",
+            "Second, it creates a precedent that legal process is subordinate to political loyalty. Three reasons: one, if a president can withdraw a meritless suit in exchange for compensation to supporters, future administrations learn that litigation is a tool for side payments; two, it weakens the norm that public funds are allocated through transparent appropriations and statutory criteria; three, it signals to allies that loyalty is rewarded ex post, increasing incentives for extremist or unlawful behavior in the future.",
+            "Third, the broader democratic harm is institutional capture, not just one corrupt transaction. This matters because (1) agencies like the IRS become less credible as neutral enforcers, (2) opponents reasonably fear selective punishment while supporters expect impunity, and (3) once corruption is openly transactional, oversight bodies face a higher political cost to intervene because the president can frame any challenge as partisan retaliation."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Dropping the lawsuit is a pragmatic legal cleanup, and the alleged compensation fund is a separate policy dispute that does not prove corruption by itself.",
+          "mechanisms": [
+            "First, the lawsuit itself was legally vulnerable and may have been withdrawn to avoid an embarrassing dismissal. One, the judge had asked whether a legitimate controversy existed because Trump controls the IRS; two, if the case was procedurally defective, dismissing it conserves judicial resources; three, ending weak litigation is normal executive behavior, not evidence of bribery.",
+            "Second, compensation for wrongful targeting can be framed as a legitimate remedial policy rather than a slush fund. One, governments routinely settle claims through the Judgment Fund; two, people harmed by politically motivated investigations or prosecutions can have real legal injuries; three, the fact that some beneficiaries are politically sympathetic does not by itself make the fund unlawful if eligibility is defined by criteria.",
+            "Third, the corruption claim overstates the causal link and ignores political constraints. One, any fund would still face scrutiny from courts, Congress, media, and the Treasury process; two, the administration cannot simply print money without institutional friction; three, even if the move is cynical, cynicism alone is not enough to prove a systemic democratic breakdown."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether this is a one-off legal maneuver or a durable precedent for converting public institutions into personal spoils. Prop wins if it proves the transaction is structurally corrupt and teaches future presidents that state power can be traded for loyalty; opp wins if it reframes the episode as a legally messy but bounded settlement with real oversight constraints.",
+      "stock_connections": [
+        "Corruption",
+        "Patronage Politics",
+        "State Capture",
+        "Rule of Law",
+        "Institutional Decay",
+        "Moral Hazard",
+        "Democratic Backsliding",
+        "Clientelism",
+        "Executive Overreach"
+      ],
+      "motion_areas": [
+        "TH, as the US President, would be allowed to settle politically motivated lawsuits using public compensation funds",
+        "THBT presidents should not be able to direct taxpayer-funded settlements to political supporters",
+        "THP a world where executive agencies cannot be used to compensate politically aligned groups"
+      ],
+      "data_points": [
+        "$10bn lawsuit against the IRS",
+        "20 May deadline for briefing on whether a legitimate controversy existed",
+        "$1.7bn proposed fund to compensate people Trump says were wrongfully targeted by the Biden administration",
+        "About 1,500 January 6 rioters reportedly eligible for the fund",
+        "Trump controls the IRS",
+        "Charles Littlejohn was an IRS contractor who leaked Trump’s tax returns to ProPublica and the New York Times"
+      ]
+    },
+    {
+      "id": "009511eeb8c0",
+      "title": "Trump’s IRS Lawsuit Becomes a Vehicle for a Potential $1.7B Patronage Fund",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/trump-dismiss-10-billion-dollar-irs-lawsuit",
+      "published": "2026-05-18T15:23:28Z",
+      "category": "Econ",
+      "region": "US",
+      "background": "Donald Trump moved on 18 May 2026 to dismiss a $10bn lawsuit against the IRS, just two days before a 20 May deadline set by the judge to assess whether a real controversy existed. The case stems from the leak of Trump’s tax returns by IRS contractor Charles Littlejohn to ProPublica and the New York Times. Reports say Trump is considering a settlement that would create a $1.776bn 'Truth and Justice Commission' fund, with five commissioners overseeing payouts and no obligation to disclose reasons for awards.",
+      "prop_args": [
+        {
+          "thesis": "The settlement is a corruption-enabling transfer that converts public money into discretionary patronage for Trump’s allies.",
+          "mechanisms": [
+            "First, it creates a direct slush-fund structure. This is because (1) the fund would be financed through a government settlement, (2) the commissioners would be largely appointed by the attorney general and removable by Trump, and (3) the body would not have to disclose why it awards money, so the payout process is insulated from normal transparency and accountability.",
+            "Second, it rewards political loyalty and deepens elite capture. Three reasons: one, Trump cannot receive payments himself but people affiliated with him can, two, the fund is explicitly framed around 'persecution' claims, which invites ideological filtering rather than neutral compensation, and three, the lack of disclosure makes it easy to channel money toward allies, donors, or loyalists under the guise of redress.",
+            "Third, it weakens rule-of-law norms around state resources. This matters because (1) the lawsuit was already under judicial scrutiny for whether a legitimate controversy existed, (2) the filing appears designed to avoid an adverse ruling, and (3) if the executive can settle claims into opaque compensation schemes whenever it controls the defendant agency, future presidents inherit a template for using litigation as a political financing tool."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The settlement is a legitimate attempt to resolve a serious privacy violation and compensate victims of unlawful government conduct.",
+          "mechanisms": [
+            "First, the underlying harm is real and compensable. One, an IRS contractor leaked Trump’s tax returns to major media outlets, two, the leak involved sensitive tax information that ordinarily carries strong confidentiality protections, and three, a settlement is a standard way to resolve claims without prolonged litigation.",
+            "Second, the fund can be framed as structured restitution rather than corruption. One, Trump himself cannot receive payments, two, an appointed commission can be used to screen claims and distribute compensation, and three, the existence of a formal body is better than ad hoc political bargaining because it creates at least some administrative process.",
+            "Third, dismissing the suit may be rational litigation strategy. One, the judge had already raised doubts about whether a legitimate controversy existed because Trump controls the IRS, two, the attorneys noted there were multiple defenses the government could raise, and three, settling avoids years of costly litigation and uncertainty over damages, liability, and precedent."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the fund is treated as restitution or as a disguised patronage machine. Prop has the structural advantage because the alleged settlement design is unusually opaque and politically controlled, so even if the underlying leak was wrongful, the remedy itself looks like an abuse of state power.",
+      "stock_connections": [
+        "Corruption",
+        "Patronage Politics",
+        "Rule of Law",
+        "Separation of Powers",
+        "State Capture",
+        "Moral Hazard",
+        "Elite Capture",
+        "Transparency and Accountability",
+        "Abuse of Office"
+      ],
+      "motion_areas": [
+        "TH, as a president, would allow government settlements to create compensation funds for politically connected victims",
+        "THBT the executive should not be able to settle claims involving agencies it controls without independent judicial approval",
+        "THP a world where public compensation schemes require full disclosure of beneficiaries and reasons for awards"
+      ],
+      "data_points": [
+        "$10bn lawsuit against the IRS",
+        "$1.776bn proposed 'Truth and Justice Commission' fund",
+        "20 May 2026 deadline set by Judge Kathleen Williams",
+        "93 congressional Democrats filed an amicus brief opposing the settlement",
+        "Five commissioners would oversee the fund, four appointed by the attorney general and removable by Trump",
+        "The commission would not have to disclose its reasons for awarding money"
+      ]
+    },
+    {
+      "id": "a50e7ab709a2",
+      "title": "AI Anxiety Is Reshaping Student Career Choices and Deepening Backlash Against Automation",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T15:16:00Z",
+      "category": "Business",
+      "region": "United States",
+      "background": "Former Google CEO Eric Schmidt was booed by graduates at the University of Arizona when he discussed artificial intelligence during commencement remarks. The article says similar reactions have occurred at the University of Central Florida and Middle Tennessee State University, reflecting wider student anxiety about AI and jobs. A Lumina Foundation-Gallup 2026 study found students are shifting away from entry-level tech and statistical analysis toward critical thinking, communication, and human-centric fields. A Pew Research Center survey cited in the piece found 50% of American adults are more concerned than excited about AI, while only 10% are more excited than concerned.",
+      "prop_args": [
+        {
+          "thesis": "AI is already distorting labor-market expectations for young workers, so the backlash is rational and should push institutions to slow deployment and build stronger protections.",
+          "mechanisms": [
+            "First, AI increases perceived and real substitution risk for entry-level white-collar work. This is because (1) graduates are entering the labor market at the exact point where firms automate routine analysis, coding, and administrative tasks, (2) the first jobs to disappear are often the ladder into higher-paid careers, and (3) when the bottom rung is removed, mobility into the profession becomes much harder.",
+            "Second, the technology changes education incentives in ways that can permanently weaken human capital formation. Three reasons: one, students rationally abandon fields they think will be automated; two, universities then produce fewer specialists in vulnerable but still socially useful sectors; three, the economy loses a pipeline of trained workers just as firms need adaptation and oversight capacity.",
+            "Third, public hostility is a useful political signal that AI adoption is outpacing social consent. This matters because (1) legitimacy problems make regulation more likely, (2) firms face reputational and labor-relations costs if they ignore worker anxiety, and (3) slowing rollout gives time for retraining, wage insurance, and safety standards to catch up."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "AI backlash is emotionally understandable but economically mistaken, because adaptation and complementary skills will create more opportunity than automation destroys.",
+          "mechanisms": [
+            "First, AI is a general-purpose productivity tool rather than a pure job killer. One, it automates tasks, not entire occupations; two, that raises output and lowers costs across sectors; three, lower costs expand demand and create new roles in implementation, supervision, and customer-facing work.",
+            "Second, the labor market will reward workers who shift into complementary human skills rather than those who resist the technology. One, critical thinking, communication, and relationship management become more valuable when routine tasks are automated; two, firms will pay premiums for workers who can use AI effectively; three, students who adapt early gain a competitive edge over peers who avoid the transition.",
+            "Third, fear-driven resistance risks leaving the United States behind in a strategic technology race. This matters because (1) if domestic firms and workers slow adoption, productivity growth falls relative to rivals, (2) the most advanced AI capabilities will be developed elsewhere if the US becomes hostile to deployment, and (3) the long-run solution is reskilling and redistribution, not blocking innovation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether AI is treated as a temporary adjustment shock or a structural labor-market break. The proposition wins if the round is about distributional harm and the collapse of entry-level pathways; the opposition wins if the round is about aggregate productivity and the ability of workers and firms to adapt faster than the technology displaces them.",
+      "stock_connections": [
+        "Technological Unemployment",
+        "Creative Destruction",
+        "Skill-Biased Technological Change",
+        "Race to the Bottom",
+        "Human Capital Formation",
+        "Labor Market Polarization",
+        "Moral Panic",
+        "Productivity Growth"
+      ],
+      "motion_areas": [
+        "TH, as a university, would restrict the use of AI in undergraduate education",
+        "THBT governments should heavily regulate AI deployment in entry-level white-collar jobs",
+        "THP a world where firms must disclose AI-driven job displacement plans before adopting automation",
+        "THBT young workers should resist, rather than embrace, rapid AI adoption in the workplace"
+      ],
+      "data_points": [
+        "Eric Schmidt was booed by University of Arizona graduates when he mentioned AI during commencement remarks",
+        "Similar booing occurred at the University of Central Florida and Middle Tennessee State University earlier in May 2026",
+        "Lumina Foundation-Gallup 2026 State of Higher Education Study: students are moving away from entry-level tech and statistical analysis toward critical thinking, communication, and human-centric fields",
+        "Pew Research Center: 50% of American adults are more concerned than excited about AI, while 10% are more excited than concerned"
+      ]
+    },
+    {
+      "id": "e0e00bcdf697",
+      "title": "ASML-Tata Deal Signals India’s Bid to Break Into the Global Semiconductor Power Structure",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/18/tata-asml-deal-how-significant-is-it-for-indias-semiconductor-push?traffic_source=rss",
+      "published": "2026-05-18T15:15:20Z",
+      "category": "IR",
+      "region": "India / Netherlands / Taiwan / EU",
+      "background": "India’s Tata Electronics has signed a deal with Dutch chip-equipment giant ASML to help build India’s first front-end semiconductor fabrication plant in Dholera, Gujarat. Tata plans to invest $11bn in the plant, which is expected to be ready by 2028 and will manufacture 300mm wafers for automotive, mobile, and AI applications. The project also involves Taiwan’s Powerchip Semiconductor Manufacturing Corporation (PSMC), while India continues to import most of its chips and has struggled with prior semiconductor setbacks, including Foxconn’s withdrawal from a $19.5bn joint venture with Vedanta in 2023.",
+      "prop_args": [
+        {
+          "thesis": "The deal is a strategically significant step that moves India from being a chip consumer and software hub toward becoming a credible semiconductor manufacturing state.",
+          "mechanisms": [
+            "First, it creates the physical industrial base needed for technological sovereignty. This is because (1) front-end fabrication is the bottleneck in the semiconductor value chain, (2) ASML’s lithography tools are essential for advanced chip production, and (3) once a country controls fabrication capacity it reduces dependence on foreign suppliers during geopolitical shocks.",
+            "Second, it upgrades India’s position in the AI and defence ecosystem. Three reasons: one, 300mm wafer production is the standard for advanced chips used in AI servers, smartphones, and vehicles; two, domestic fabrication lets India capture higher-value parts of the tech stack rather than only design and services; three, it makes India a more attractive partner for states and firms seeking supply-chain diversification away from China and Taiwan.",
+            "Third, it strengthens India’s long-term industrial ecosystem rather than just one plant. This matters because (1) the Tata-PSMC-ASML partnership brings technology transfer, workforce development, and supply-chain integration, (2) India already has nearly 20% of the world’s chip design engineers, and (3) successful execution creates learning spillovers into R&D, packaging, and downstream electronics manufacturing."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The deal is symbolically important but materially limited, because India still lacks the infrastructure, ecosystem depth, and policy reliability needed to become a true semiconductor power.",
+          "mechanisms": [
+            "First, the project is vulnerable to execution failure. One, semiconductor fabs require highly reliable power, water, and skilled labour at scale; two, India’s own experts identify infrastructure as the main challenge; three, the country already has a track record of semiconductor setbacks, including the collapse of the Foxconn-Vedanta venture after delayed incentives.",
+            "Second, the deal does not solve India’s dependence on foreign technology. One, ASML, PSMC, and other external partners still control the critical know-how; two, India will likely remain dependent on imported equipment, design ecosystems, and upstream materials; three, this means geopolitical leverage still sits largely outside India even if a plant is built.",
+            "Third, the economic payoff may be overstated relative to the cost. One, $11bn is a large capital commitment for a single facility with uncertain returns; two, global semiconductor manufacturing is dominated by a small number of incumbents with deep scale advantages; three, India may end up subsidising an expensive prestige project rather than building a globally competitive industry."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the deal is judged by immediate output or by strategic trajectory. Prop wins if the round values capability-building and supply-chain sovereignty; opp wins if the round prioritises execution risk and the fact that India still depends on foreign firms for the core technology.",
+      "stock_connections": [
+        "Technological Sovereignty",
+        "Import Substitution Industrialisation",
+        "Dependency Theory",
+        "Supply Chain Resilience",
+        "Industrial Policy",
+        "Comparative Advantage",
+        "Brain Gain",
+        "State Capacity",
+        "Geoeconomic Competition",
+        "Strategic Autonomy"
+      ],
+      "motion_areas": [
+        "TH, as India, would prioritise semiconductor manufacturing over software exports",
+        "THBT developing nations should subsidise strategic tech industries even when they are not globally competitive yet",
+        "THP a world where critical semiconductor equipment is controlled by a small number of allied democracies",
+        "TH, as the EU, would deepen strategic technology partnerships with India to reduce dependence on China",
+        "THBT states should use industrial policy to build domestic capacity in AI infrastructure"
+      ],
+      "data_points": [
+        "$11bn Tata investment in the Dholera semiconductor fab",
+        "Plant expected to be ready by 2028",
+        "India imported the bulk of its microchips and does not currently manufacture advanced sub-7nm chips for AI and smartphones",
+        "India and Taiwan’s trade in technology and AI reached $10bn in 2024",
+        "Nearly 20% of the world’s chip design engineers are Indians",
+        "India’s first indigenous chip, the Vikram-32, was unveiled in October and is a 32-bit microprocessor for space launches",
+        "Foxconn withdrew from a $19.5bn semiconductor joint venture with Vedanta in 2023",
+        "India’s AI Mission was allocated $1.07bn over five years in 2024",
+        "Overseas investors pulled more than $20bn out of Indian equities after the US-Israel war on Iran",
+        "India’s foreign exchange reserves fell to about $697bn from more than $720bn before the Middle East crisis"
+      ]
+    },
+    {
+      "id": "519220dbd346",
+      "title": "UK Labour Freezes Fuel Duty to Cushion Inflation but Deepens Fiscal Trade-Offs",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/18/rachel-reeves-fuel-duty-cost-of-living",
+      "published": "2026-05-18T15:11:00Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "Rachel Reeves is expected to announce that the UK government will not raise fuel duty by 1p in September and may cancel the remaining staged 5p rise due over the following six months. The temporary 5p cut was first introduced by Rishi Sunak in 2022 after Russia’s invasion of Ukraine and has already been extended twice; extending it again would cost the Treasury an estimated £2.4bn a year. The move comes as Labour faces pressure to reduce living costs amid inflationary pressure linked in the article to the war in Iran, while the government is also considering but not yet committing to other relief measures such as energy bill support and has ruled out a private-rent freeze.",
+      "prop_args": [
+        {
+          "thesis": "Cancelling the fuel duty rise is a justified short-term cost-of-living intervention that directly lowers transport costs and prevents inflation from feeding into broader household price pressures.",
+          "mechanisms": [
+            "First, it immediately reduces the marginal cost of driving, which matters because fuel is a universal input into commuting, deliveries, and retail logistics. This is because (1) households feel the relief at the pump, (2) firms face lower distribution costs, and (3) those lower costs can slow pass-through into food and consumer goods prices.",
+            "Second, it protects lower- and middle-income households from a regressive tax shock. Three reasons: one, fuel spending takes a larger share of income for working households outside major cities; two, rural and suburban commuters have fewer substitutes for car travel; three, avoiding a duty rise is faster and more targeted than waiting for slower welfare or wage adjustments.",
+            "Third, it helps anchor inflation expectations during a period of external price shocks. This matters because if households and firms expect transport costs to keep rising, they build higher prices and wage demands into contracts, so a visible tax freeze can dampen second-round inflation effects."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Freezing fuel duty is a fiscally expensive, poorly targeted subsidy that rewards high emitters and weakens the state’s ability to fund more efficient anti-poverty measures.",
+          "mechanisms": [
+            "First, the policy is badly targeted because the biggest beneficiaries are not the poorest households but those who drive more and consume more fuel. One, higher-income households typically own more and larger vehicles; two, urban low-income households often rely less on private cars; three, the policy therefore leaks public money to people who do not need the support most.",
+            "Second, it worsens the fiscal position and creates a ratchet effect on future budgets. One, the article puts the annual cost at £2.4bn; two, once a cut is extended repeatedly it becomes politically difficult to reverse; three, that crowds out spending on housing, energy support, or public services that would deliver more welfare per pound.",
+            "Third, it undermines climate and transport policy by keeping fossil fuel use artificially cheap. One, lower pump prices reduce incentives to switch to public transport or EVs; two, they slow the behavioural shift needed for decarbonisation; three, they lock in car dependence and make future emissions cuts more expensive."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between immediate household relief and long-run fiscal/climate efficiency. Prop wins if the round is framed around a sudden inflation shock and the need to stop second-round price rises; opp wins if the judge prioritises targeting, opportunity cost, and the fact that £2.4bn could be spent on more effective anti-poverty tools.",
+      "stock_connections": [
+        "Cost of Living Crisis",
+        "Inflation Pass-Through",
+        "Regressive Taxation",
+        "Opportunity Cost",
+        "Fiscal Credibility",
+        "Climate Externalities",
+        "Policy Ratchet Effect",
+        "Subsidy Incidence"
+      ],
+      "motion_areas": [
+        "TH, as the UK Chancellor, would cancel planned fuel duty rises during periods of inflationary pressure",
+        "THBT governments should prioritize fuel duty cuts over broader welfare support during cost-of-living crises",
+        "THP a world where states automatically freeze fuel taxes when energy prices spike"
+      ],
+      "data_points": [
+        "Fuel duty rise due in September would have been 1p, with a possible cancellation of the remaining staged 5p increase over six months",
+        "Extending the 5p temporary fuel duty cut is estimated to cost the government £2.4bn per year",
+        "The 5p cut was first introduced in 2022 by Rishi Sunak after Russia’s invasion of Ukraine",
+        "Reeves has already allocated £50m to subsidise heating oil for families, many in rural areas and especially in Northern Ireland",
+        "The government has extended the 5p fuel duty cut twice already, until September"
+      ]
+    },
+    {
+      "id": "b0b763973a8f",
+      "title": "US-Backed Ceasefire Extension Fails to Stop Israel-Lebanon Escalation, Deepening Civilian Displacement",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/18/israeli-attacks-kill-at-least-7-in-lebanon-despite-ceasefire-extension?traffic_source=rss",
+      "published": "2026-05-18T15:02:06Z",
+      "category": "IR",
+      "region": "Lebanon / Israel / United States",
+      "background": "Israel carried out renewed strikes across Lebanon on May 18, killing at least 7 people despite a US-backed ceasefire extension agreed three days earlier in Washington, DC. Lebanon’s Health Ministry said total deaths since March 2 had reached at least 3,020, with 9,273 wounded, while the Danish Refugee Council said more than 1.2 million people were forced from their homes between March and April. The ceasefire was initially agreed in April and extended for another 45 days, with another security track due to begin on May 29 and talks scheduled for June 2-3 in Washington.",
+      "prop_args": [
+        {
+          "thesis": "The ceasefire extension is strategically hollow because Israel can keep escalating militarily while paying little diplomatic cost, so only stronger enforcement or coercive guarantees can change behavior.",
+          "mechanisms": [
+            "First, the deal lacks credible enforcement. This is because (1) the ceasefire is US-backed but not US-enforced on the ground, (2) Israel has already repeatedly violated the truce without meaningful punishment, and (3) the extension creates a paper commitment that does not change battlefield incentives.",
+            "Second, Israel has incentives to keep using force under the cover of counter-Hezbollah operations. Three reasons: one, it can frame strikes as preemptive self-defense against 'terror plots'; two, it can target infrastructure and evacuation zones while claiming military necessity; three, it can preserve leverage in negotiations by demonstrating that diplomacy does not stop its operations.",
+            "Third, the humanitarian cost makes the status quo unsustainable. This matters because (1) over 1.2 million people have already been displaced, (2) civilian casualties and forced evacuation orders normalize mass uprooting, and (3) worsening humanitarian conditions increase pressure on Lebanon and external mediators to accept a more durable settlement or risk state collapse."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The ceasefire extension is still valuable because it preserves a diplomatic channel and reduces the scale of war relative to full escalation, even if violations continue.",
+          "mechanisms": [
+            "First, the extension creates a framework for continued bargaining. One, it brought Lebanese and Israeli officials into direct talks in Washington for the first time in decades; two, it sets a security track for May 29 and follow-up talks on June 2-3; three, even partial diplomacy can prevent total breakdown and keep both sides engaged.",
+            "Second, ceasefires can reduce violence even when imperfect. One, without the extension, the conflict could revert to unrestricted war with far higher casualties; two, limited violations do not mean the agreement has no effect, because it can still constrain the intensity, geography, or frequency of attacks; three, it gives civilians and aid actors at least some predictability compared to open-ended fighting.",
+            "Third, the extension may be the only realistic path given Hezbollah-Israel hostility. One, Hezbollah is publicly opposed to negotiations with Israel, so a maximalist peace deal is unavailable; two, the US can mediate incremental steps more easily than impose a final settlement; three, preserving a fragile truce is better than abandoning diplomacy altogether."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether a fragile ceasefire that is repeatedly violated is still better than no ceasefire at all. Prop wins if the round is about enforcement and civilian protection, because the agreement clearly has not stopped Israeli strikes or displacement; Opp wins if the round is about conflict management, because even weak diplomacy can still reduce the probability of total war and preserve negotiation channels.",
+      "stock_connections": [
+        "Credible Commitment Problem",
+        "Peacekeeping Failure",
+        "Security Dilemma",
+        "Humanitarian Intervention",
+        "Civilian Harm / Collateral Damage",
+        "Negotiation Under Fire",
+        "Coercive Diplomacy",
+        "State Fragility",
+        "Forced Displacement"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would condition military aid to Israel on compliance with ceasefire terms",
+        "THBT ceasefires without enforcement mechanisms are worse than no ceasefire at all",
+        "THP a world where external mediators can impose penalties for ceasefire violations in active conflicts"
+      ],
+      "data_points": [
+        "At least 7 killed in the latest Israeli strikes on Lebanon on May 18",
+        "Lebanon’s Health Ministry: at least 3,020 killed and 9,273 wounded since March 2",
+        "Danish Refugee Council: more than 1.2 million people forced from their homes between March and April",
+        "Ceasefire extension agreed for another 45 days after talks in Washington, DC",
+        "First direct meeting between Lebanese and Israeli representatives in decades",
+        "Next security track scheduled for May 29, with talks on June 2-3 in Washington, DC",
+        "Israel said it struck more than 30 targets across southern Lebanon"
+      ]
+    },
+    {
+      "id": "8103b8a18f72",
+      "title": "NT Youth Justice Powers Risk Turning Aboriginal Children’s Policing Into a Pipeline to Detention",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/19/nt-northern-territory-laws-hold-young-people-48-hours-aboriginal-indigenous-children-prisons-ntwnfb",
+      "published": "2026-05-18T15:00:05Z",
+      "category": "IR",
+      "region": "Australia (Northern Territory)",
+      "background": "The Northern Territory government has proposed amendments to the Youth Justice Act that would let police hold young people for up to 48 hours in watch houses, question them without an adult present in urgent public safety cases, and interview them if they have knowledge of an offence. The draft laws were introduced by corrections minister Gerard Maley one day after separate child protection changes that would replace the Aboriginal Child Placement Principle, alongside a new review into child protection after the death of five-year-old Kumajayi Little Baby in Alice Springs. Advocates, including the Human Rights Law Centre and SNAICC, say the changes will disproportionately harm Aboriginal children and expose them to overcrowded, unsafe watch house conditions already criticised by the territory’s prison watchdog.",
+      "prop_args": [
+        {
+          "thesis": "Expanding police detention and interrogation powers for children will accelerate Indigenous over-incarceration by normalising custodial processing at the front end of the justice system.",
+          "mechanisms": [
+            "First, the policy lowers the threshold for custodial contact, which increases the number of children who are physically processed through police cells rather than diverted. This is because (1) police now have a longer window to hold young people, (2) interrogation can happen without a guardian in urgent cases, and (3) the practical default becomes detention-first rather than release-first.",
+            "Second, it disproportionately captures Aboriginal children because they are already overrepresented in NT policing and child protection. Three reasons: one, existing surveillance and discretionary policing mean Indigenous kids are more likely to be charged in the first place; two, family and community distance makes guardian access harder, so the safeguard is weaker in practice; three, once in watch houses, children are more likely to be escalated into formal justice pathways.",
+            "Third, this creates a self-reinforcing pipeline into prison because early custodial exposure increases later system contact. This matters because children who are detained, questioned, and processed in punitive settings are more likely to breach conditions, miss school, lose family stability, and accumulate records that make future detention easier."
+          ]
+        },
+        {
+          "thesis": "The laws are unsafe and rights-violating because they place children in watch houses that are already known to be overcrowded and inhumane.",
+          "mechanisms": [
+            "First, the physical environment itself is harmful. This is because (1) the prison watchdog has already raised concerns about severe overcrowding, (2) it has also flagged inhumane toilet access, and (3) watch houses are designed for short-term adult custody, not child welfare or rehabilitation.",
+            "Second, removing an adult from police questioning increases the risk of coercion and false admissions. Three reasons: one, children have weaker understanding of legal rights; two, they are more vulnerable to intimidation and suggestion; three, the right to silence is not enough if the child cannot effectively exercise it without support.",
+            "Third, the policy worsens long-term social harm because detention in abusive conditions compounds trauma. This matters because trauma feeds school disengagement, mental health deterioration, and future offending, so the state is not solving crime but manufacturing it."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The reforms are a necessary public-safety tool that gives police flexibility to respond quickly to serious youth offending without undermining legal rights.",
+          "mechanisms": [
+            "First, police need time to investigate urgent matters before evidence disappears. One, witnesses in youth crime cases are often transient and hard to locate; two, delaying questioning can allow weapons, accomplices, or stolen property to be moved; three, a 48-hour window can improve early intervention and case resolution.",
+            "Second, the safeguards limit abuse because the young person must be told of the right to silence and any interview is recorded on body-worn camera. One, this creates transparency; two, inadmissibility in later proceedings reduces self-incrimination risk; three, the law is framed as exceptional, not routine, so frequent use is not expected.",
+            "Third, the state has a duty to protect the wider community, including vulnerable victims. This matters because if a small number of repeat youth offenders are driving serious harm, then targeted police powers can prevent escalation, reassure the public, and reduce victimisation."
+          ]
+        },
+        {
+          "thesis": "The policy is a pragmatic response to a youth justice crisis, and the real issue is service failure elsewhere, not police powers themselves.",
+          "mechanisms": [
+            "First, detention powers are being used because existing systems are not stopping repeat offending. One, child protection and family support have not prevented harm; two, police are often the only agency able to act immediately; three, a short detention period can create a window for intervention, referral, or safeguarding.",
+            "Second, the government can argue that the watch house conditions are being managed and that use will be rare. One, police explicitly say they do not anticipate frequent utilisation; two, they claim watch houses provide adequate care and supervision; three, if the law is narrowly applied, the worst-case harms are limited.",
+            "Third, the broader child protection review shows the government is trying to address systemic problems, not just punish children. This matters because if the state is simultaneously reviewing child protection and youth justice, then the package can be framed as a comprehensive response to community safety and child welfare rather than a purely carceral turn."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the policy is a narrow public-safety tool or the latest step in a broader carceral pipeline for Aboriginal children. Prop wins if it proves the safeguards are too weak to matter in a system already marked by overrepresentation and unsafe detention; opp wins if it can credibly frame the measure as rare, targeted, and necessary to prevent serious harm.",
+      "stock_connections": [
+        "Over-incarceration",
+        "Racial discrimination",
+        "Carceral state",
+        "Paternalism",
+        "Rights vs security",
+        "Trauma and recidivism",
+        "Institutional racism",
+        "Criminalisation of poverty"
+      ],
+      "motion_areas": [
+        "TH, as the Northern Territory government, would give police power to detain young people for 48 hours without a guardian",
+        "THBT states should prioritise child protection over punitive youth justice measures",
+        "THP a world where police cannot interview minors without an adult present",
+        "THBT governments should abolish watch house detention for children"
+      ],
+      "data_points": [
+        "Proposed detention period: up to 48 hours in police watch houses",
+        "Police may question a child without an adult present if it is 'in relation to a serious and urgent matter concerning public safety'",
+        "The prison watchdog has raised concerns about 'severe overcrowding' and 'inhumane toilet access' in watch houses",
+        "A final child protection review report is due within three months",
+        "The review is being led by former NSW police commissioner Karen Webb and longtime NT public servant Greg Shanahan",
+        "The draft laws were introduced the day after child protection changes that would replace the Aboriginal Child Placement Principle"
+      ]
+    },
+    {
+      "id": "480f496b45f9",
+      "title": "Australia’s Teen Social Media Ban Cuts Off News Access, Exposing the Tradeoff Between Child Safety and Civic Information",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/19/australias-social-media-ban-preventing-teens-from-accessing-the-news-research-finds",
+      "published": "2026-05-18T15:00:03Z",
+      "category": "Econ",
+      "region": "Australia",
+      "background": "Australia’s social media ban for under-16s came into effect in December 2025, and by March 2026 the government said the eSafety commissioner was investigating Instagram, Facebook, Snapchat, TikTok and YouTube for compliance, with fines of up to A$49.5 million per breach possible. A new longitudinal study by Western Sydney University, Queensland University of Technology and the University of Canberra surveyed 1,027 Australians aged 10 to 17 in February 2026 and found that 26% were significantly affected by the ban, with 51% of that group saying they were seeing less news than before. The government has claimed 4.7 million under-16 accounts have been deactivated, removed or restricted since 10 December, though it has refused to release documents explaining how that figure was verified.",
+      "prop_args": [
+        {
+          "thesis": "The ban is justified because it reduces harmful platform dependence for minors, and the news-access loss can be replaced by better-designed youth information channels.",
+          "mechanisms": [
+            "First, the policy forces a break in algorithmic dependency. This is because (1) social media is designed to maximize engagement rather than accuracy, (2) minors are especially vulnerable to compulsive use and low-quality content loops, and (3) reducing access creates space for healthier habits before those patterns harden into adulthood.",
+            "Second, the state can substitute better information ecosystems for teens. Three reasons: one, the study itself points to youth-oriented outlets like Squiz Kids and classroom news literacy as alternatives; two, schools are a universal distribution channel that can reach the 39% of teens who say they use no other news source; three, public funding can target age-appropriate local and world news without the distortions of platform algorithms.",
+            "Third, the welfare gains from reducing exposure to harmful content outweigh the informational loss. This matters because the core policy question is not whether teens lose some news, but whether society should prioritize preventing manipulation, harassment, and addictive design for a group that cannot fully consent to the tradeoff."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The ban is counterproductive because it cuts off the main news pathway for teens without creating a credible replacement, leaving them less informed and less civically connected.",
+          "mechanisms": [
+            "First, the ban removes the dominant news source for a large share of young people. One, social media is the second most popular news method for teens at 39%, behind only family at 52%; two, usage rises sharply with age, reaching 72% among 16- to 17-year-olds; three, 51% of those significantly affected reported seeing less news, showing the policy directly reduces information intake.",
+            "Second, the policy fails the substitution test. One, 39% of surveyed teens said they do not use any other news sources; two, 75% said news organizations have no idea what their lives are actually like; three, 71% said it is difficult to find news relevant to people their age, meaning traditional outlets are not an effective replacement.",
+            "Third, the long-term harm is civic disengagement and weaker democratic participation. One, teens who lose access to world and local news become less able to understand public issues that affect them; two, 45% of those most affected said they lost the opportunity to share views, weakening peer-to-peer political discussion; three, if young people stop forming the habit of following news, the effect compounds into adulthood."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the state can realistically replace the news ecosystem it has disrupted. Prop wins if the judge prioritizes child protection and believes schools and youth media can substitute; opp wins if the judge thinks informational access is a prerequisite for civic agency and that the ban creates a durable habit loss that is hard to reverse.",
+      "stock_connections": [
+        "Paternalism",
+        "Nanny State",
+        "Harm Reduction",
+        "Information Asymmetry",
+        "Digital Addiction",
+        "Civic Disengagement",
+        "Media Literacy",
+        "Substitution Failure",
+        "State Capacity"
+      ],
+      "motion_areas": [
+        "TH, as Australia, would ban social media access for under-16s",
+        "THBT governments should prioritize restricting minors’ access to social media over preserving their access to online news",
+        "THP a world where children cannot access social media accounts",
+        "THBT the state should regulate youth internet access even at the cost of reduced political information"
+      ],
+      "data_points": [
+        "Survey of 1,027 Australians aged 10 to 17 conducted in February 2026",
+        "26% of respondents were significantly affected by the ban; 51% of that group said they were seeing less news",
+        "12% were moderately affected; 34% of that group said they were seeing less news",
+        "61% reported not being affected; 22% of that group said they were seeing less news",
+        "Social media was the second most popular news source for teens at 39%, behind family at 52%",
+        "72% of 16- to 17-year-olds used social media for news, compared with 37% of 10- to 12-year-olds",
+        "47% of those seeing much less news lost access to world news and events",
+        "45% lost the opportunity to share views",
+        "42% lost access to local news",
+        "39% of teens said they do not use any other news sources",
+        "75% said news organisations have 'no idea what their lives are actually like'",
+        "71% said they find it difficult to source news relevant to people their age",
+        "The government says 4.7 million under-16 social media accounts have been deactivated, removed or restricted since 10 December 2025",
+        "Potential fines for non-compliance can reach A$49.5 million per breach"
+      ]
+    },
+    {
+      "id": "1fcbcdc5f064",
+      "title": "Trump’s Iran War Becomes a Strategic Own Goal for the United States",
+      "source": "Foreign",
+      "url": "https://foreignpolicy.com/2026/05/18/iran-war-donald-trump-failure-foreign-policy-energy-crisis-weapons-soft-power-aliances-united-states/",
+      "published": "2026-05-18T14:52:06Z",
+      "category": "IR",
+      "region": "US / Iran / China / Gulf / Europe / Asia",
+      "background": "The article argues that Trump’s war on Iran has achieved only partial military gains while leaving the Iranian regime intact and the conflict unresolved. It cites U.S. intelligence reporting that Iran still retains 70% of its prewar missile stockpile, 70% of its mobile launchers, and access to more than 90% of its missile sites near the Strait of Hormuz, while also retaining highly enriched uranium. The war has also damaged at least 15 U.S. military sites, with 217 structures hit, and forced the U.S. to expend between half and 60% of its Patriot missiles and a third of its Tomahawks. The article says gasoline prices in the U.S. are up nearly 50% year-on-year, diesel up 59%, and the IMF has already cut global growth forecasts from 3.4% to 3.1%.",
+      "prop_args": [
+        {
+          "thesis": "The war is a net strategic failure because it weakens U.S. military readiness, economic stability, and alliance credibility without eliminating the Iranian threat.",
+          "mechanisms": [
+            "First, the war depletes U.S. hard-power capacity faster than it degrades Iran’s ability to retaliate. This is because (1) the U.S. has already burned through between 50% and 60% of its Patriot missiles and about a third of its Tomahawks, (2) those systems take up to four years to replace, and (3) a future Taiwan or regional contingency would therefore begin with a materially weaker U.S. arsenal.",
+            "Second, the war fails its core security objective because Iran still retains the means to keep fighting. Three reasons: one, it still has 70% of its missile stockpile, two, it still has 70% of its mobile launchers and access to over 90% of its missile sites near Hormuz, and three, it still has highly enriched uranium, so the nuclear threat is not removed.",
+            "Third, the conflict imposes cascading economic damage that outlasts the battlefield phase. This matters because (1) U.S. gasoline is already up nearly half and diesel 59%, (2) Hormuz disruptions hit fertilizer and helium supply chains, which feeds food inflation and semiconductor bottlenecks, and (3) the IMF has already cut growth to 3.1% with a further drop toward 2% if energy flows do not normalize."
+          ]
+        },
+        {
+          "thesis": "The war accelerates U.S. decline by undermining soft power and alliance trust, making future coalition-building and deterrence harder.",
+          "mechanisms": [
+            "First, unilateral escalation erodes the U.S. claim to be a rules-based power. This is because (1) Washington launched a war without broad domestic or international consensus, (2) it has normalized the execution of another world leader, and (3) that makes it harder to credibly condemn aggression by rivals like Russia or China.",
+            "Second, the war fractures alliances by making partners feel exposed rather than protected. Three reasons: one, NATO allies refused to help reopen and de-mine Hormuz, two, Gulf states now see U.S. bases as targets that invite retaliation, and three, Asian allies are questioning whether the U.S. is acting like a rogue actor rather than a security guarantor.",
+            "Third, the conflict hands strategic advantages to U.S. rivals. This matters because (1) China benefits from a distracted and overstretched U.S., (2) Russia gains from higher oil revenues, with the article claiming monthly oil revenues have doubled, and (3) both powers can frame the war as proof that U.S. leadership is reckless and destabilizing."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The war may still be justified because it has degraded Iran’s conventional military capacity and may deter future aggression even if it does not fully eliminate the regime.",
+          "mechanisms": [
+            "First, the operation has already imposed meaningful military costs on Iran. One, key leaders including Khamenei were killed, two, Iran’s air force and navy were decimated, and three, its missile launch capacity was degraded, which reduces immediate offensive reach.",
+            "Second, partial degradation can still improve deterrence by raising the expected cost of future Iranian escalation. One, Tehran now knows its command structure is vulnerable, two, it has seen U.S. willingness to strike directly, and three, that can force it to spend more on defense and internal security rather than external adventurism."
+          ]
+        },
+        {
+          "thesis": "Even with economic pain, the war may be preferable to allowing Iran to retain a latent nuclear breakout capability and regional coercive leverage.",
+          "mechanisms": [
+            "First, the prewar status quo was already unstable because Iran had enriched uranium and missile forces capable of threatening Israel, Gulf states, and shipping through Hormuz. One, that gave Tehran coercive leverage over energy markets, two, it allowed proxy and missile pressure on allies, and three, it created a long-term proliferation risk that diplomacy had not resolved.",
+            "Second, short-term economic costs may be an acceptable price if the alternative is a nuclear-armed Iran. One, markets can recover from supply shocks, two, strategic nuclear proliferation is much harder to reverse, and three, preventing a hostile regional nuclear power can outweigh temporary inflation and alliance friction."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war is judged by immediate battlefield damage or by whether it actually solves the Iran problem. Prop wins if the round prioritizes long-run strategic capacity and systemic spillovers; opp wins only if they can prove the military degradation and deterrence gains are enough to justify the economic and alliance costs.",
+      "stock_connections": [
+        "Overextension",
+        "Blowback",
+        "Security Dilemma",
+        "Alliance Credibility",
+        "Soft Power Erosion",
+        "Resource Curse",
+        "Energy Shock",
+        "Arms Attrition",
+        "Deterrence Failure",
+        "Proliferation Risk"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would not launch a preventive war against Iran",
+        "THBT states should prioritize alliance cohesion over unilateral preemptive strikes in the Middle East",
+        "THP a world where major powers can use force to stop nuclear proliferation in hostile states",
+        "THBT the United States should de-escalate rather than double down on the Iran conflict"
+      ],
+      "data_points": [
+        "Iran still has 70% of its prewar missile stockpile, 70% of its mobile launchers, and access to more than 90% of its missile sites along the Strait of Hormuz",
+        "The U.S. has damaged 217 structures at 15 military sites in the Middle East",
+        "At least 13 U.S. service members have died and more than 400 have been injured",
+        "The U.S. has used between 50% and 60% of its Patriot missiles and about one-third of its Tomahawk missiles",
+        "Patriot and Tomahawk missiles can take up to four years to manufacture and replace",
+        "U.S. gasoline prices are up nearly 50% year-on-year and diesel is up 59%",
+        "The IMF cut global growth forecasts from 3.4% to 3.1% in April and sees growth falling to 2% next year if energy supplies do not normalize",
+        "The Strait of Hormuz normally carries about one-fifth of the world’s crude and natural gas, one-fifth of global fertilizer supply, and one-third of global helium supply",
+        "Qatar’s economy is projected to contract by 8.6% this year",
+        "Russia has allegedly doubled its monthly oil revenues since the start of the war"
+      ]
+    },
+    {
+      "id": "a479249848e3",
+      "title": "Ford’s Return to Affordable EVs Exposes Europe’s Mass-Market Car Battle Against Chinese Entrants",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c759v6g1zp1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T14:50:27Z",
+      "category": "Business",
+      "region": "United Kingdom / Europe",
+      "background": "Ford’s Europe president Jim Baumbick strongly hinted that the Fiesta nameplate could return as an affordable electric model, three years after the last Fiesta was discontinued in 2023. Ford says it will launch seven new models for Europe, including three all-electric vehicles, a small SUV, and an electric van, while the rest will be multi-energy vehicles including hybrids. The company is shifting back toward mass-market cars after years of moving upmarket and after announcing thousands of European job cuts in 2024 amid weak EV demand and rising competition from Chinese brands such as BYD and Chery.",
+      "prop_args": [
+        {
+          "thesis": "Ford’s return to affordable EVs is a necessary correction that can preserve European manufacturing, consumer choice, and the long-term viability of legacy automakers.",
+          "mechanisms": [
+            "First, it restores Ford’s access to the mass market, which is where volume and brand loyalty are actually built. This is because (1) the Fiesta was historically one of the UK’s best-selling cars for 47 years, (2) Ford’s pivot to premium models left it exposed when consumer demand shifted away from expensive vehicles, and (3) affordable EVs and hybrids are the only segment where Ford can realistically compete at scale against Chinese entrants.",
+            "Second, a mixed strategy of EVs plus hybrids is more commercially realistic than a forced all-electric transition. Three reasons: one, consumers are still price-sensitive and many are not ready to buy pure EVs; two, Ford itself says the industry moved too quickly and customers are being 'lost in the middle'; three, plug-in hybrids and extended-range EVs can bridge charging gaps while keeping emissions on a downward path.",
+            "Third, this protects jobs and industrial capacity in Europe rather than ceding the market to foreign firms. This matters because (1) Ford has already cut thousands of European jobs after weak EV demand, (2) if legacy firms cannot sell affordable cars they will downsize further or exit segments entirely, and (3) maintaining a competitive domestic producer preserves supply chains, engineering capacity, and bargaining power for European workers and regulators."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Ford’s return to the Fiesta and affordable EVs is too little, too late, and mainly reflects a defensive retreat in a market now being reshaped by Chinese competition.",
+          "mechanisms": [
+            "First, Ford has already lost the strategic window to dominate the affordable EV segment. One, it spent years moving upmarket while Chinese firms like BYD and Chery built scale and market share in Europe; two, by the time Ford re-enters, those firms already have cost advantages, supply-chain integration, and faster product cycles; three, brand nostalgia for the Fiesta does not solve the underlying price and technology gap.",
+            "Second, the hybrid-heavy pivot risks slowing electrification and locking consumers into transitional technologies. One, if regulators soften rules to accommodate hybrids, firms will have less incentive to invest in full EV infrastructure; two, hybrids can prolong internal combustion dependence and emissions; three, policy uncertainty can deter the very investment needed for charging networks and battery manufacturing.",
+            "Third, this strategy may not fix Ford’s structural profitability problem. One, the company already admitted its earlier EV strategy failed and required thousands of job cuts; two, affordable cars are low-margin products, so competing on price against Chinese manufacturers can squeeze profits further; three, if Ford cannot sustain margins, it may still end up shrinking in Europe despite the new models."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether Ford’s shift is a realistic adaptation to consumer demand or a delayed response to a market it has already ceded. Prop wins if the round is about industrial resilience and consumer affordability; opp wins if the focus is on structural competitiveness, because scale, cost, and timing advantages are much harder to reverse than brand nostalgia.",
+      "stock_connections": [
+        "Race to the Bottom",
+        "Comparative Advantage",
+        "Industrial Policy",
+        "Dutch Disease",
+        "Market Concentration",
+        "Subsidy Competition",
+        "Transition Costs",
+        "Protectionism"
+      ],
+      "motion_areas": [
+        "TH, as European regulators, would encourage hybrids as part of the transition to EVs",
+        "THBT legacy automakers should return to affordable mass-market cars rather than premium EVs",
+        "THP a world where governments subsidize affordable EVs over luxury EVs",
+        "THBT the EU should relax electrification targets to allow more plug-in hybrids and extended-range EVs"
+      ],
+      "data_points": [
+        "The Fiesta was produced for 47 years and more than 22 million units were made globally before production ended in 2023.",
+        "The Fiesta was the 10th most popular car model in the UK in 2022.",
+        "Ford announced thousands of job cuts in Europe in 2024 after weak EV demand and competition from Chinese brands.",
+        "Ford plans seven new European models, including three all-electric vehicles, a small SUV, and an electric van called the Transit City.",
+        "Five of Ford’s new models will be built in Europe for the European market.",
+        "Ford says it will support 'electrified technologies such as plug-in hybrids and extended range electric vehicles' as part of a 'practical pathway' to an electric future."
+      ]
+    },
+    {
+      "id": "acfee8a32ede",
+      "title": "Labour Leadership Fight Turns Brexit Into a Trap: Burnham Bets on Domestic Renewal, Not EU Rejoin",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-says-he-will-not-try-to-return-uk-to-eu",
+      "published": "2026-05-18T14:46:39Z",
+      "category": "IR",
+      "region": "UK / EU",
+      "background": "Andy Burnham said he would not try to return the UK to the EU, arguing Britain would be stuck in a “permanent rut” if it kept rerunning Brexit arguments. He made the comments in his first major speech since announcing a run in the Makerfield byelection, where he is widely seen as positioning himself as a potential challenger to Keir Starmer if he wins. Burnham said Brexit had been damaging, but that Labour should instead focus on domestic renewal, while Wes Streeting separately said he would like the UK “one day back in the European Union.”",
+      "prop_args": [
+        {
+          "thesis": "Burnham is right to avoid reopening the EU question because Labour’s path back to power depends on rebuilding trust through domestic delivery, not relitigating Brexit.",
+          "mechanisms": [
+            "First, reopening Brexit would consume scarce political bandwidth and crowd out bread-and-butter policy. This is because (1) the public is already fatigued by years of constitutional conflict, (2) Labour’s electoral coalition contains both soft-Leave and soft-Remain voters, and (3) every hour spent on Europe is an hour not spent on wages, housing, NHS waiting lists, and local services.",
+            "Second, a domestic-first message is electorally smarter in post-industrial northern seats. Three reasons: one, places like Makerfield are being told they were ignored for 40 years, so voters want visible material repair rather than symbolic elite debates; two, Brexit is already settled in institutional terms, so promising a rerun can look unserious; three, centring local renewal helps Labour compete against Reform by speaking to abandonment and decline rather than identity politics.",
+            "Third, Burnham’s stance creates a clearer governing narrative if he becomes leader. This matters because (1) it lets Labour present itself as the party of competence and repair, (2) it reduces internal factional warfare between pro- and anti-EU wings, and (3) it makes it easier to sell incremental improvements in trade, migration, and regulation without triggering a full sovereignty backlash."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Burnham is wrong to rule out a return to the EU because avoiding the issue leaves the UK trapped with the economic costs of Brexit and wastes a chance to restore growth.",
+          "mechanisms": [
+            "First, Brexit continues to impose structural economic harm, so refusing to revisit it locks in lower national performance. One, trade frictions with the EU raise costs for exporters and importers; two, weaker market access reduces investment and productivity; three, long-run stagnation makes domestic renewal harder, not easier.",
+            "Second, the political argument for rejoining or closer alignment is not just symbolic but materially distributive. One, the UK’s most economically exposed sectors are often in regions that need growth most; two, better EU ties can improve jobs, supply chains, and consumer prices; three, a serious pro-Europe stance could give Labour a credible growth strategy rather than a defensive “manage decline” posture."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the UK’s core problem is political fatigue or economic underperformance. Burnham’s side wins if voters primarily reward competence and issue prioritisation; the opposition wins if Brexit’s ongoing costs are large enough that refusing to address them means accepting permanent stagnation.",
+      "stock_connections": [
+        "Issue fatigue",
+        "Political capital",
+        "Populist backlash",
+        "Post-industrial decline",
+        "Economic stagnation",
+        "Coalition management",
+        "Sovereignty vs prosperity",
+        "Elite overreach"
+      ],
+      "motion_areas": [
+        "TH, as Labour, would avoid making EU rejoin a central part of its platform",
+        "THBT British opposition parties should stop rerunning Brexit debates",
+        "THP a world where centre-left parties prioritize domestic renewal over constitutional reversal",
+        "THBT the UK should not seek to rejoin the EU in the near term"
+      ],
+      "data_points": [
+        "Burnham said Brexit has been damaging, but that the last thing the UK should do is rerun those arguments",
+        "Burnham is running in the Makerfield byelection and is positioning himself as a potential challenger to Keir Starmer",
+        "Wes Streeting said the UK should one day be back in the European Union",
+        "Burnham described the north of England as having been hit by 40 years of deindustrialisation, deregulation, privatisation and austerity",
+        "Starmer said he would not set out a timetable to leave No 10 and wants to fight the next election"
+      ]
+    },
+    {
+      "id": "9e0505dbd281",
+      "title": "Trump’s Iran War and Fuel Shock Erode the Electoral Coalition Behind His Second Term",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/donald-trump-second-term-approval-rating-drops",
+      "published": "2026-05-18T14:44:27Z",
+      "category": "IR",
+      "region": "US / Iran",
+      "background": "A New York Times/Siena poll released on 2026-05-18 found Donald Trump’s approval rating at 37%, the lowest point of his second term. The poll came amid mounting backlash over the US-Israel war on Iran, with nearly two-thirds of voters saying entering the conflict was the wrong choice and fewer than one in four saying it was worth the costs. US gasoline prices have risen to almost $4.52 per gallon, up from $3.18 a year earlier, while 64% of voters disapprove of Trump’s handling of the economy.",
+      "prop_args": [
+        {
+          "thesis": "Trump’s decision to join the war on Iran is politically self-defeating because it converts foreign policy into direct domestic economic pain, collapsing the coalition that normally tolerates presidential adventurism.",
+          "mechanisms": [
+            "First, the war transmits immediately into household costs through energy prices. This is because (1) Iran sits on a critical oil chokepoint and any conflict raises risk premiums, (2) higher fuel prices feed into transport, food, and goods inflation, and (3) voters experience that pain weekly at the pump, making the war salient far faster than abstract geopolitical gains.",
+            "Second, the war destroys Trump’s core brand as an economic manager. Three reasons: one, 64% of voters already disapprove of his handling of the economy, two, his own base judges him on affordability more than ideology, and three, once the economy becomes the dominant frame, even loyal voters start treating the war as evidence of incompetence rather than strength.",
+            "Third, the political damage compounds into midterm vulnerability. This matters because approval at 37% is historically associated with major losses for the incumbent party, and the war gives Democrats a simple, emotionally legible attack line: Trump chose foreign conflict over American living standards."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The Iran war may hurt Trump in the short term, but it can still be politically rational because foreign conflict can rally nationalist support and shift blame for economic pain onto external enemies.",
+          "mechanisms": [
+            "First, wartime politics can produce a rally-around-the-flag effect. One, some voters prioritize perceived strength over cost, two, Trump can frame the conflict as necessary to deter Iran and protect allies, and three, in polarized environments partisan voters often return to their side when national security is invoked.",
+            "Second, Trump can externalize the economic fallout. One, he can blame oil markets, Iran, or global instability for fuel prices, two, voters often punish incumbents for inflation regardless of the true cause, and three, if the administration successfully sells the war as unavoidable, the blame may diffuse rather than attach solely to Trump.",
+            "Third, Democrats are too weak to fully capitalize. One, only 26% of voters are satisfied with the Democratic Party, two, 44% of Democrats are dissatisfied with their own party, and three, low opposition credibility limits the extent to which anti-war anger automatically converts into durable electoral gains."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the war’s domestic economic costs outweigh any national-security or rally effects. Prop wins because the harm is immediate, personal, and measurable at the pump, while Opp’s benefits are more abstract, temporary, and dependent on Trump successfully controlling the narrative.",
+      "stock_connections": [
+        "Rally Around the Flag",
+        "Economic Voting",
+        "Retrospective Voting",
+        "Incumbency Advantage",
+        "War Weariness",
+        "Blowback",
+        "Issue Ownership",
+        "Cost of Living Politics"
+      ],
+      "motion_areas": [
+        "TH, as a US president, would avoid entering a foreign war when domestic inflation is already high",
+        "THBT leaders should not use military force abroad if it risks significant energy price shocks at home",
+        "THP a world where democracies punish incumbents primarily for foreign policy decisions that raise living costs"
+      ],
+      "data_points": [
+        "Trump approval rating: 37%, lowest of his second term",
+        "Nearly two-thirds of voters said entering the Iran conflict was the wrong choice",
+        "Fewer than one in four Americans said the war was worth the costs",
+        "US average gasoline price: almost $4.52 per gallon, up from $3.18 a year earlier",
+        "64% of US voters disapprove of Trump’s handling of the economy",
+        "47% of independents say Trump’s policies have personally hurt them, up from 41% last fall",
+        "Only 26% of voters say they are satisfied with the Democratic Party",
+        "44% of Democrats express dissatisfaction with their own party"
+      ]
+    },
+    {
+      "id": "4916fc962984",
+      "title": "Rural Food Deserts Turn UK Cost-of-Living Crisis Into a Geography Tax on the Poor",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/society/2026/may/18/rural-britain-healthy-affordable-food-desert-lower-income-families-study",
+      "published": "2026-05-18T14:43:36Z",
+      "category": "Econ",
+      "region": "UK",
+      "background": "A Sheffield University study of 14,158 households in England and Scotland earning under £40,000 found that more than half of lower-income rural households struggle to access affordable, healthy food. The study says 52.5% of such rural households live more than a 20-minute walk from a shop selling fresh fruit and vegetables, compared with 7% of similar households in deprived urban neighbourhoods. It also finds UK food costs are up 50% since 2021, and cites a 2024 South Cotswolds food bank study showing a basic basket can cost up to 62% more in village convenience stores than in the nearest market-town superstore.",
+      "prop_args": [
+        {
+          "thesis": "Rural food deserts mean poverty is no longer just about income; it becomes a spatial penalty that the state must actively correct.",
+          "mechanisms": [
+            "First, geography converts low income into higher effective prices. This is because (1) rural households are forced into village convenience stores or limited local options, (2) those outlets charge materially more for basics — the study cites up to 62% higher basket costs in village stores, and (3) poor public transport makes it expensive in time and money to reach cheaper supermarkets, so the poor cannot arbitrage prices the way urban households can.",
+            "Second, food deserts intensify deprivation through compounding barriers. Three reasons: one, the closure of local shops removes the last-mile access point for fresh food; two, supermarket logistics favour cities, so rural areas are structurally undersupplied; three, once households start skipping meals or buying lower-quality food, health and work capacity deteriorate, making it harder to escape poverty.",
+            "Third, this is a public health and social stability issue, not just a consumer inconvenience. This matters because food insecurity is linked to poor mental and physical health, stress, and stigma, meaning the state pays later through NHS demand, lower productivity, and deeper family hardship."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The real problem is low income and weak welfare support, not rurality itself; fixing transport and benefits is more efficient than treating food access as a distinct crisis.",
+          "mechanisms": [
+            "First, income remains the primary driver of food insecurity. One, the study itself says food insecurity is not reducible to income alone, which implies income still matters substantially; two, households in full-time work were more likely to be above the poverty line than welfare-dependent households, showing that cash flow and benefits shape outcomes; three, if you raise incomes or benefits, households can choose better food even in rural areas.",
+            "Second, the state can solve access problems without redesigning the food system. One, targeted bus subsidies, mobile shops, or delivery support can reduce the distance barrier; two, food clubs and social supermarkets are already proposed as lower-cost alternatives, so the issue is operational rather than structural; three, building a new retail network everywhere is expensive and slow compared with direct cash transfers or transport interventions.",
+            "Third, the study risks overstating the uniqueness of rural deprivation. One, food insecurity also appears in edge-of-city estates and coastal areas, so the underlying issue is broader deprivation and retail exclusion; two, urban poor households still face high food insecurity when transport, time poverty, or local retail deserts exist; three, policy should therefore target poverty and retail access generally, not privilege rurality as a special category."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether food insecurity is best understood as a cash problem or a market-access problem. Prop wins if it proves that geography creates a separate, durable tax on the poor that welfare alone cannot remove; Opp wins if it shows the same outcomes can be addressed more cheaply through income support and transport fixes without treating rurality as a distinct structural failure.",
+      "stock_connections": [
+        "Geographic inequality",
+        "Cost of living crisis",
+        "Market failure",
+        "State intervention",
+        "Welfare adequacy",
+        "Social exclusion",
+        "Public health externalities",
+        "Infrastructure deficit",
+        "Rural decline",
+        "Food insecurity"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would subsidise food retail access in rural areas",
+        "THBT the UK should treat food insecurity as an infrastructure problem rather than a welfare problem",
+        "THP a world where the state funds social supermarkets in food deserts",
+        "THBT governments should prioritise transport subsidies over cash transfers to address food insecurity",
+        "TH, as a local council, would mandate support for grocery access in rural planning"
+      ],
+      "data_points": [
+        "14,158 households surveyed across England and Scotland",
+        "Over 50% of households earning under £40,000 in rural areas struggle to access affordable, healthy food",
+        "52.5% of lower-income rural households live more than a 20-minute walk from the nearest shop selling fresh fruit and vegetables",
+        "Only 7% of similar households in deprived urban neighbourhoods live more than 20 minutes from such a shop",
+        "Risk of food insecurity is over 22 times higher for a struggling household in a food desert than for one in walking distance of a budget supermarket",
+        "UK food costs have risen by 50% since 2021",
+        "A basic basket of food was up to 62% higher in village convenience stores than in the nearest market-town low-cost superstore",
+        "About one in eight UK households were estimated in February to have experienced food insecurity",
+        "The government says it has expanded free breakfast clubs, widened free school meals to half a million more children, and removed the two-child limit on benefits, lifting 450,000 children out of poverty"
+      ]
+    },
+    {
+      "id": "11ff453772d9",
+      "title": "Ebola Outbreak in Eastern DR Congo Exposes How Conflict, Mobility, and Weak Trust Turn Containment Into Regional Risk",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T14:43:03Z",
+      "category": "IR",
+      "region": "Democratic Republic of Congo / Uganda / Rwanda / South Sudan",
+      "background": "The WHO has declared an Ebola outbreak in eastern DR Congo a public health emergency of international concern. The outbreak is caused by the Bundibugyo strain, which had not been seen for over a decade and has no approved vaccine or targeted drug, and the first known case was a nurse who developed symptoms on 24 April. Cases have been reported in Ituri province towns including Mongwalu, Rwampara and Bunia, as well as in Goma, a city of around 850,000 under rebel control; one person has also died in Kampala, Uganda, after recent travel from DR Congo.",
+      "prop_args": [
+        {
+          "thesis": "Conflict-zone outbreaks like this require internationalized, cross-border public health intervention because local state capacity is structurally too weak to contain transmission alone.",
+          "mechanisms": [
+            "First, the outbreak is occurring in a fragmented security environment, which breaks the normal containment chain. This is because (1) health workers cannot safely trace contacts in rebel-held or contested areas, (2) displaced populations of roughly 250,000 people are constantly moving, and (3) porous borders make it impossible to treat the outbreak as a purely domestic problem.",
+            "Second, the disease is harder to stop than a standard Ebola flare-up because the strain is rarer and initially evaded detection. Three reasons: one, Bundibugyo had not been seen for over a decade, so frontline testing protocols missed it; two, there is no approved vaccine for this strain; three, there are no drugs specifically developed to target it, so the response relies heavily on classic containment measures that are slower and more labor-intensive.",
+            "Third, international coordination reduces the probability of regional spillover and panic. This matters because the case in Goma and the death in Kampala show that once infected people move, the cost of delay multiplies across borders, while WHO/Africa CDC involvement can standardize screening, funeral protocols, and health-worker protection before the outbreak becomes self-sustaining elsewhere."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The outbreak is still manageable through targeted local containment, and over-internationalizing the response can create political friction and mistrust that makes control harder.",
+          "mechanisms": [
+            "First, Ebola is not Covid-style airborne mass transmission, so focused public-health measures can still work. One, it spreads through contact with bodily fluids rather than casual airborne exposure; two, symptoms are usually severe enough to make cases visible; three, rapid isolation, safe burials, and contact tracing can break chains of transmission if communities cooperate.",
+            "Second, heavy external intervention can backfire in conflict-affected communities. One, people already distrust state and outside actors and may interpret the response as coercive; two, the article notes communities initially blamed 'witchcraft' or sought prayer centres, showing that legitimacy and local messaging matter more than foreign technical capacity alone; three, border restrictions and emergency measures can push cases underground if people fear being blocked from travel or treatment.",
+            "Third, the outbreak’s geographic and epidemiological scale is still limited relative to a true regional crisis. One, the WHO explicitly says the risk outside east Africa is minimal; two, only a small number of confirmed locations are mentioned so far; three, if governments focus on screening, funerals, and health-worker protection, the outbreak may be contained without broader geopolitical escalation."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether the combination of conflict, displacement, and a rare strain makes containment fundamentally impossible without external coordination. Prop wins if you weigh speed and system capacity: once cases cross into cities and borders, the marginal cost of delay rises sharply. Opp wins if you weigh disease characteristics and local legitimacy more heavily, because Ebola is still contact-traceable and can be suppressed if communities trust the response.",
+      "stock_connections": [
+        "State capacity",
+        "Humanitarian intervention",
+        "Public health emergency",
+        "Conflict spillover",
+        "Cross-border externalities",
+        "Trust in institutions",
+        "Containment vs mitigation",
+        "Fragile states"
+      ],
+      "motion_areas": [
+        "TH, as the WHO, would prioritize cross-border emergency intervention in conflict-zone outbreaks",
+        "THBT regional organizations should be empowered to override local authorities during epidemic containment",
+        "THP a world where public health responses in rebel-held territories are internationally coordinated",
+        "THBT governments should impose emergency border and travel controls during localized viral outbreaks"
+      ],
+      "data_points": [
+        "WHO declared the outbreak a Public Health Emergency of International Concern",
+        "Bundibugyo Ebola had not been seen for over a decade",
+        "Bundibugyo has caused only two previous outbreaks and killed about a third of those infected",
+        "The first known case was a nurse who developed symptoms on 24 April",
+        "The outbreak was initially missed because blood tests were negative for more common Ebola species",
+        "Around 250,000 people are displaced in the conflict zone",
+        "Goma has a population of around 850,000 and is under rebel control",
+        "One Ebola case has been confirmed in Goma",
+        "One person has died in Kampala, Uganda, and another is being treated",
+        "Africa CDC specifically warned of spread risk to Uganda, Rwanda and South Sudan"
+      ]
+    },
+    {
+      "id": "8b3c8b623ccd",
+      "title": "US Drone Allegations Push Cuba Toward Crisis Escalation and Possible Military Confrontation",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/18/cuba-warns-of-bloodbath-us-military-drone-claim",
+      "published": "2026-05-18T14:42:04Z",
+      "category": "IR",
+      "region": "Cuba / United States / Guantanamo Bay",
+      "background": "On 18 May 2026, Cuban president Miguel Díaz-Canel warned that any US military action against Cuba would lead to a “bloodbath” with “incalculable consequences” for regional peace. The warning followed an Axios report citing classified intelligence that Cuba had acquired more than 300 military drones and discussed using them against the US naval base at Guantanamo Bay, US military vessels, and Key West, Florida. Tensions were already elevated after the US cut off Cuba’s energy supplies following the arrest of the president of Venezuela, Cuba’s then-ally, leaving Cuba with severe fuel shortages and electricity available for only one or two hours a day. The dispute also comes amid reports that US prosecutors may indict former Cuban leader Raúl Castro over the 1996 Brothers to the Rescue shootdown.",
+      "prop_args": [
+        {
+          "thesis": "US military escalation against Cuba would be strategically reckless because it would likely trigger asymmetric retaliation, regional instability, and a humanitarian crisis without reliably eliminating the underlying threat.",
+          "mechanisms": [
+            "First, military action would incentivize asymmetric Cuban retaliation rather than quick capitulation. This is because (1) Cuba cannot match the US conventionally, so it would shift to drones, cyber, sabotage, or attacks on soft targets like Guantanamo and Florida; (2) the regime would frame the strike as foreign aggression, increasing domestic rally-around-the-flag effects; (3) once violence starts, both sides face escalation pressure to avoid looking weak.",
+            "Second, escalation would destabilize the wider Caribbean security environment. Three reasons: one, any strike near Guantanamo or Cuban territory risks miscalculation around US bases and shipping lanes; two, neighboring states would face refugee flows and maritime insecurity if Cuba’s already fragile energy and food systems collapse further; three, it would set a precedent for unilateral US force in a region where Washington already has a history of intervention, increasing anti-US alignment.",
+            "Third, the humanitarian and political costs would be severe and durable. This matters because Cuba is already operating under acute scarcity, with fuel shortages and electricity often available only one to two hours a day, so additional coercion would likely worsen civilian suffering, strengthen hardliners, and make any future negotiation harder rather than easier."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "US coercion or even limited military action could be justified if Cuban drone capabilities pose a credible threat to American personnel and territory, and it may be the only way to deter further escalation.",
+          "mechanisms": [
+            "First, the US has a strong deterrence rationale if intelligence indicates active planning against Guantanamo Bay, naval vessels, or Key West. One, allowing a hostile state to arm and threaten US assets without consequence weakens deterrence across the hemisphere; two, a limited strike can degrade launch infrastructure, command nodes, or drone stockpiles; three, visible punishment may prevent copycat behavior by other adversaries.",
+            "Second, pressure may be more effective than restraint because Cuba is already economically vulnerable and politically isolated. One, the island’s fuel and electricity crisis means the regime has limited capacity to absorb sustained pressure; two, elite fear of regime survival can create bargaining leverage; three, the threat of force may push Havana into concessions or backchannel de-escalation before open conflict occurs."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether force prevents a larger threat or creates one. Prop wins if the judge thinks escalation is hard to control and Cuba’s weakness makes retaliation more likely, while Opp wins if the intelligence is credible and limited force is seen as the only way to restore deterrence.",
+      "stock_connections": [
+        "Deterrence Theory",
+        "Security Dilemma",
+        "Escalation Spiral",
+        "Rally Around the Flag",
+        "Asymmetric Warfare",
+        "Regime Survival",
+        "Humanitarian Intervention",
+        "Great Power Intervention"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would conduct limited military strikes against Cuba in response to drone threats",
+        "THBT the US should prioritize deterrence over de-escalation in the Cuba crisis",
+        "THP a world where states respond militarily to credible drone threats against their territory"
+      ],
+      "data_points": [
+        "Cuba allegedly acquired more than 300 military drones",
+        "The alleged targets included Guantanamo Bay, US military vessels, and Key West, Florida",
+        "Cuba’s electricity is often available for only one or two hours a day",
+        "The US cut off Cuba’s energy supplies after arresting the president of Venezuela, Cuba’s then-ally",
+        "Raúl Castro is 94 and reportedly faces a possible US indictment over the 1996 Brothers to the Rescue shootdown"
+      ]
+    },
+    {
+      "id": "e9dd10fd909e",
+      "title": "London Tube Strike Suspension Exposes the Trade-Off Between Work-Life Reform and Service Reliability",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cze2wrk08kko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T14:25:14Z",
+      "category": "Econ",
+      "region": "United Kingdom / London",
+      "background": "The RMT union suspended planned Tube strikes on 18 May 2026 after Transport for London shifted its position in talks over a voluntary four-day week for drivers. The dispute had threatened 24-hour walkouts on Tuesday and Thursday, with no service expected on the Circle and Piccadilly lines and parts of the Metropolitan and Central lines. TfL says its proposal is a voluntary compressed four-day week to improve work-life balance and reliability; the RMT says it is a \"fake four-day week\" that simply compresses five days of work into four and raises fatigue and safety concerns. Fresh strike dates for 2 and 4 June remain in place, and the union says further action will follow if talks do not progress.",
+      "prop_args": [
+        {
+          "thesis": "Voluntary compressed workweek reforms are a legitimate way to improve labour retention without sacrificing service quality, and they should be pursued even in essential transport sectors.",
+          "mechanisms": [
+            "First, the policy improves worker welfare and retention by giving drivers more predictable rest and a better work-life balance. This is because (1) transport jobs have high burnout and unsocial hours, (2) extra days off make the role more attractive relative to other jobs, and (3) voluntary participation means the most willing workers can opt in without forcing the model on everyone.",
+            "Second, it can preserve or even improve operational reliability if it is paired with better rostering and staffing. Three reasons: one, fewer exhausted workers lowers absenteeism and mistakes; two, compressed schedules can reduce turnover and recruitment costs; three, TfL explicitly frames the proposal as improving service reliability for customers, which suggests management sees an efficiency gain rather than a pure concession.",
+            "Third, the broader economic benefit comes from avoiding repeated strike disruption while modernising labour practices. This matters because London’s economy depends on commuter flow and consumer footfall, so even a partial settlement that reduces future industrial action protects bookings, retail demand, and business confidence during a busy summer."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The deal is a disguised intensification of work that worsens fatigue, undermines safety, and sets a precedent for management to rebrand cost-cutting as worker-friendly reform.",
+          "mechanisms": [
+            "First, compressed hours can increase fatigue and safety risk in a safety-critical system. One, longer shifts mean more cumulative tiredness and reduced alertness; two, the RMT says the proposal creates 'new rosters' and 'fatigue and safety issues'; three, in rail transport even small increases in error rates can have outsized consequences for passengers and network reliability.",
+            "Second, the policy may be voluntary in name but coercive in practice if workers feel pressure to accept it. One, if the employer ties progression or scheduling advantages to the new model, participation stops being genuinely free; two, workers who refuse may be left with worse shifts or fewer opportunities; three, that creates a race-to-the-bottom dynamic where nominal flexibility masks weaker labour standards.",
+            "Third, the dispute shows that partial concessions do not resolve underlying industrial conflict, so the economic gains may be temporary. One, the RMT has already called fresh strikes for 2 and 4 June; two, the union says the dispute is 'not over'; three, repeated uncertainty still damages bookings, reservations, and business planning even if one strike wave is suspended."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term disruption and long-term labour-market design. Pro side wins if the judge prioritises retention, flexibility, and avoiding repeated strikes; opposition wins if they persuade that safety-critical transport cannot absorb compressed hours without higher fatigue and recurring industrial conflict.",
+      "stock_connections": [
+        "Trade Union Power",
+        "Collective Bargaining",
+        "Work-Life Balance",
+        "Labour Market Flexibility",
+        "Race to the Bottom",
+        "Moral Hazard",
+        "Public Sector Industrial Action",
+        "Service Reliability vs Worker Rights"
+      ],
+      "motion_areas": [
+        "TH, as TfL, would offer voluntary compressed four-day weeks to essential workers",
+        "THBT public transport workers should be allowed to negotiate compressed workweeks even in safety-critical sectors",
+        "THP a world where essential service employers can pilot voluntary four-day weeks without union veto"
+      ],
+      "data_points": [
+        "Planned Tube strikes on 18 and 20 May were suspended, but strikes on 2 and 4 June remain scheduled",
+        "The original walkouts were due to last 24 hours each and were expected to shut the Circle and Piccadilly lines and parts of the Metropolitan and Central lines",
+        "Aslef says the compressed four-day week gives participating drivers an extra 35 days off per year",
+        "TfL says the proposal is voluntary and designed to improve both work-life balance and service reliability",
+        "BusinessLDN warned that firms have already lost out through cancelled bookings and reservations"
+      ]
+    },
+    {
+      "id": "4e11732fd189",
+      "title": "Rising Outbreak Frequency Exposes the Global Cost of Underfunded Pandemic Preparedness",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak",
+      "published": "2026-05-18T14:18:42Z",
+      "category": "Econ",
+      "region": "Global; DRC; Uganda",
+      "background": "The Global Preparedness Monitoring Board (GPMB), a body created in 2018 by the World Bank and WHO after the West Africa Ebola outbreak and before Covid-19, warned that infectious disease outbreaks are becoming both more frequent and more damaging. Its latest report comes as health authorities in the Democratic Republic of the Congo and Uganda respond to an Ebola outbreak that has already caused at least 87 deaths, while a separate hantavirus outbreak on a cruise ship has also drawn global attention. WHO said early tests initially looked for the wrong Ebola strain, producing false negatives and costing weeks of response time, while its DRC office said it had exhausted protective equipment stocks in Kinshasa and was sending for more from Kenya.",
+      "prop_args": [
+        {
+          "thesis": "The world is becoming structurally less resilient to outbreaks because preparedness spending, surveillance capacity, and equitable access systems are all lagging behind the speed of modern disease spread.",
+          "mechanisms": [
+            "First, weak preparedness creates a response-time gap that lets outbreaks become international crises. This is because (1) early detection systems fail when frontline surveillance is underfunded, as shown by the wrong-strain Ebola tests producing false negatives, (2) delays of even a few weeks allow pathogens to move along major transport routes and cross borders, and (3) once a disease is geographically dispersed, containment costs rise nonlinearly because tracing, isolation, and logistics become much harder.",
+            "Second, the global health system is becoming less effective at stopping outbreaks early because aid cuts and fragmented cooperation hollow out the institutions that do the first-line work. Three reasons: one, cutting WHO and USAID-style programmes reduces lab capacity, field surveillance, and stockpiles; two, geopolitical fragmentation makes states less willing to share data quickly or coordinate procurement; three, commercial self-interest and vaccine nationalism slow the flow of tests, treatments, and protective equipment to the places where outbreaks begin.",
+            "Third, the damage is bigger than mortality because repeated outbreaks erode trust, governance, and economic stability. This matters because (1) politicised responses and attacks on scientific institutions leave societies less willing to comply with future health measures, (2) civil liberties and democratic norms are weakened when emergencies become prolonged and securitised, and (3) the economic shock from border closures, disrupted trade, and health-system overload hits poorer states hardest and makes them even less prepared for the next crisis."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Despite the warning, the world is materially better equipped to handle outbreaks than in previous eras because technology, vaccines, and institutional learning have improved faster than the risks.",
+          "mechanisms": [
+            "First, medical countermeasures are advancing faster than pathogens in many cases. One, mRNA and other novel vaccine platforms can be adapted quickly once a pathogen is identified; two, global scientific networks now share sequencing and epidemiological data far faster than during past outbreaks; three, this means the baseline capacity to develop tools is stronger than in the Ebola or early Covid era.",
+            "Second, outbreaks are not inevitably becoming more damaging because governments and international agencies have more experience and better playbooks. One, WHO, MSF, and IRC teams can deploy rapidly with established protocols; two, countries have learned to use border screening, contact tracing, and targeted isolation rather than blanket shutdowns; three, the existence of emergency mechanisms and public awareness reduces the chance that every outbreak becomes a pandemic.",
+            "Third, the report itself shows the problem is one of distribution and coordination, not an absolute lack of resources. This matters because (1) billions have already been invested in preparedness and response, (2) the challenge is to improve governance and access rather than invent entirely new systems, and (3) if political will exists, the world can close the gap relatively quickly compared with the time it would take for a truly new biological threat to emerge."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether current failures are temporary coordination problems or evidence of a deeper structural decline in resilience. Prop wins if the judge believes repeated delays, aid cuts, and inequitable access create compounding vulnerability that makes each future outbreak more costly; Opp wins if they frame the issue as solvable implementation failure with stronger tools already available.",
+      "stock_connections": [
+        "Global public goods",
+        "Collective action failure",
+        "Moral hazard",
+        "Brain drain",
+        "State capacity",
+        "Trust in institutions",
+        "Vaccine nationalism",
+        "Health security",
+        "Dependency theory",
+        "Race to the bottom"
+      ],
+      "motion_areas": [
+        "TH, as the WHO, would prioritize compulsory global pandemic surveillance over national sovereignty concerns",
+        "THBT developed countries should be legally required to share vaccines and diagnostics during outbreaks",
+        "THP a world where pandemic preparedness funding is automatically triggered by outbreak risk indicators",
+        "THBT international health security should be treated as a core national security issue",
+        "TH, as African states, would condition pathogen-sharing on guaranteed access to medical countermeasures"
+      ],
+      "data_points": [
+        "At least 87 Ebola deaths in the DRC outbreak cited in the article",
+        "WHO in the DRC said it had emptied its protective equipment stocks in Kinshasa and was sending for more from Kenya",
+        "Early Ebola tests used the wrong strain, causing false negatives and costing weeks of response time",
+        "During recent mpox outbreaks, vaccines took almost two years to reach affected countries in Africa",
+        "Covid-19 vaccines took 17 months to be distributed, still faster than the recent mpox rollout",
+        "The GPMB was established in 2018 by the World Bank and WHO after the West Africa Ebola outbreak",
+        "The report says pandemic risk is outpacing investments in preparedness",
+        "The report says the world is 'moving backwards' on equitable access to vaccines, tests and treatments"
+      ]
+    },
+    {
+      "id": "2d8b9f343580",
+      "title": "London Tube Strike Retreat Exposes Union Split Over Voluntary Four-Day Week",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/may/18/london-tube-strikes-underground-tfl-called-off",
+      "published": "2026-05-18T13:20:00Z",
+      "category": "Business",
+      "region": "UK (London)",
+      "background": "Planned 24-hour strikes by London Underground drivers due to begin at midday Tuesday were called off at the last minute by the RMT union. The dispute centers on TfL’s proposal for a voluntary four-day week trial, which the union says raises concerns about new rosters, fatigue, and safety; TfL says the plan is meant to improve work-life balance and service reliability. Further strike dates previously set for 16 and 18 June were moved to 2 and 4 June if talks fail, and the action follows a similar wave of strikes in April.",
+      "prop_args": [
+        {
+          "thesis": "Calling off the strikes is the right outcome because it preserves bargaining leverage while avoiding immediate economic and public harm from a shutdown of London’s transport network.",
+          "mechanisms": [
+            "First, suspending action keeps the union’s leverage intact without paying the full cost of escalation. This is because (1) the threat of future strikes still exists, (2) TfL has now formally shifted to a voluntary framing, and (3) the union can continue extracting concessions while avoiding the reputational damage of being seen as inflexible.",
+            "Second, avoiding the strike prevents disproportionate spillovers onto the wider London economy. Three reasons: one, the planned action would have severely curtailed services over four days; two, many lines would have had no trains at all, which would have hit commuting, retail, hospitality, and office attendance; three, repeated disruption after the April wave would compound losses and reduce confidence in public transport reliability.",
+            "Third, the pause creates space for a negotiated settlement that can improve long-run service quality. This matters because a voluntary four-day week trial can address fatigue and safety concerns through consultation, while a rushed strike cycle hardens positions and makes it more likely that both sides settle for a worse, less stable compromise."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The strike threat was necessary because it forced TfL to move and protected drivers from unsafe roster changes being imposed without meaningful consent.",
+          "mechanisms": [
+            "First, industrial action is the only credible way for workers to stop management from unilaterally changing working conditions. One, TfL only shifted at the 11th hour after strike pressure; two, the dispute is explicitly about new rosters and fatigue, which are core safety issues; three, a voluntary trial is not the same as a binding guarantee, so the union needs leverage to ensure the proposal stays genuinely optional.",
+            "Second, the union is defending a broader standard for labor rights and workplace safety. One, if management can push through roster changes under the language of 'reliability,' other employers can do the same; two, the RMT’s willingness to strike signals that safety concerns cannot be brushed aside as mere inconvenience; three, even if the public dislikes disruption, allowing unsafe or exhausting schedules would create longer-term harms for workers and passengers alike."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between short-term public disruption and long-term bargaining power over safety and working conditions. The pro side wins if you prioritize avoiding immediate economic damage and preserving a path to compromise; the opposition wins if you think only strike pressure can prevent management from imposing harmful changes and that worker safety should outweigh inconvenience.",
+      "stock_connections": [
+        "Labor leverage",
+        "Collective bargaining",
+        "Public goods disruption",
+        "Union power",
+        "Workplace safety",
+        "Principal-agent problems",
+        "Industrial action",
+        "Race to the bottom"
+      ],
+      "motion_areas": [
+        "TH, as a trade union, would call off planned strikes after management offers a voluntary compromise",
+        "THBT labor unions should prioritize negotiation over industrial action when employers make last-minute concessions",
+        "THP a world in which essential transport workers cannot strike without a mandatory cooling-off period"
+      ],
+      "data_points": [
+        "Two 24-hour stoppages were planned from midday Tuesday, with disruption expected over four days",
+        "Further strike dates had been set for 16 and 18 June, later changed to 2 and 4 June if talks fail",
+        "The planned action would have left no trains at all running on many London Underground lines",
+        "The dispute follows a similar wave of strikes in April",
+        "Aslef, which represents a slight majority of tube drivers, endorsed TfL’s voluntary four-day week proposal",
+        "Aslef’s London organiser called the four-day week 'the biggest improvement in working conditions for underground train drivers in decades'"
+      ]
+    },
+    {
+      "id": "ca4ca086171e",
+      "title": "IMF Upgrade Gives UK Fiscal Credibility, But War Shocks and Domestic Uncertainty Threaten the Growth Recovery",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-18T13:04:20Z",
+      "category": "Econ",
+      "region": "United Kingdom",
+      "background": "The IMF upgraded UK growth for 2026 from 0.8% to 1.0%, saying the economy had entered the latest global shock with \"more momentum than expected\" after 0.6% growth in Q1 2026. The Fund also warned that the Iran war could raise UK energy and food prices, and said \"domestic uncertainty\" could weaken consumption and investment. The Bank of England base rate is currently 3.75%, and the IMF said it likely does not need to rise further this year to bring inflation back to the 2% target by end-2027.",
+      "prop_args": [
+        {
+          "thesis": "The IMF upgrade shows that macro credibility and disciplined policy can shield the UK from external shocks and keep the recovery on track.",
+          "mechanisms": [
+            "First, the upgrade itself improves expectations. This is because (1) investors and firms treat IMF forecasts as a signal of underlying resilience, (2) a higher growth outlook reduces fears of recession and supports business planning, and (3) the government can use the revision to anchor confidence around its fiscal and monetary framework.",
+            "Second, the UK's existing policy stance reduces the need for panic responses. Three reasons: one, the IMF explicitly said the Bank of England does not need to raise rates this year, which avoids choking off demand; two, the government's commitment to borrowing rules protects financial credibility and keeps financing costs contained; three, predictable policy lowers the risk premium that markets attach to UK assets.",
+            "Third, the recovery can absorb the shock because the economy entered it with momentum. This matters because (1) Q1 growth of 0.6% shows domestic demand was already rebounding in retail and construction, (2) stronger baseline growth makes temporary inflation spikes less likely to derail the whole cycle, and (3) targeted, time-limited support for energy costs can cushion households without creating a permanent fiscal burden."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The upgrade is fragile: war-driven inflation and political uncertainty will still suppress real growth, investment, and household spending.",
+          "mechanisms": [
+            "First, the Iran war hits the UK through imported energy dependence. One, the UK imports more energy than it produces, so global price spikes transmit directly into household bills and business input costs; two, higher energy and food prices reduce real disposable income, which cuts consumption; three, inflationary pressure can persist even if headline growth looks positive, meaning living standards still deteriorate.",
+            "Second, domestic uncertainty undermines private-sector decision-making. One, political turmoil raises the chance of policy reversals on taxes, spending, and regulation; two, firms delay hiring and capital expenditure when they cannot forecast the policy environment; three, households become more cautious, which weakens demand further and turns a forecast upgrade into a shallow, unstable recovery.",
+            "Third, the IMF itself points to structural constraints that limit long-run upside. One, weak productivity growth caps sustainable expansion; two, rising public interest costs and elevated debt reduce fiscal room for stimulus; three, ageing, defence, and climate-transition spending pressures force either tax rises or spending restraint, both of which can drag on growth."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is between headline GDP growth and durable real-economy improvement. Pro side wins if the question is credibility and short-term stabilization; opposition wins if the clash is about whether households and firms actually feel better off, because imported inflation and uncertainty hit real incomes and investment faster than a 0.2 percentage-point forecast upgrade can offset.",
+      "stock_connections": [
+        "Credibility",
+        "Expectations and animal spirits",
+        "Inflation tax",
+        "Crowding out",
+        "Fiscal space",
+        "Policy uncertainty",
+        "Dutch disease",
+        "Cost-push inflation",
+        "Austerity vs stimulus",
+        "Time inconsistency"
+      ],
+      "motion_areas": [
+        "TH, as the UK government, would prioritize fiscal credibility over short-term stimulus",
+        "THBT the Bank of England should hold rates despite external inflation shocks",
+        "THBT governments should only provide targeted and time-limited energy support during price shocks",
+        "THP a world where IMF forecasts are treated as a major signal for domestic economic policy",
+        "THBT political stability matters more for growth than marginal tax cuts"
+      ],
+      "data_points": [
+        "IMF upgraded UK 2026 growth forecast from 0.8% to 1.0%",
+        "UK GDP grew 0.6% in Q1 2026, led by retailing and construction",
+        "Bank of England base rate is 3.75%",
+        "IMF said inflation would rise \"temporarily\" due to higher energy prices",
+        "IMF said holding rates for the remainder of the year should bring inflation back to the 2% target by end-2027",
+        "IMF warned the UK would be hit hardest by the Iran war among advanced economies",
+        "The government is considering a possible cancellation of the planned 5p fuel duty rise in September",
+        "IMF said long-term tax space is limited unless fundamental tax reforms are introduced"
+      ]
+    },
+    {
+      "id": "16872ca3f28c",
+      "title": "Trump-Xi Beijing Summit Buys Time, Not a Durable US-China Detente",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-18/trump-xi-summit-in-beijing",
+      "published": "2026-05-18T11:00:01Z",
+      "category": "IR",
+      "region": "United States / China",
+      "background": "US President Donald Trump met Chinese President Xi Jinping in Beijing's leadership compound on Friday, May 15, 2026, with talks continuing into a second day. Bloomberg describes the meeting as keeping relations \"on an even keel\" but producing only limited deals so far. The summit is framed as a placeholder rather than a breakthrough, suggesting both sides are managing tensions without resolving the underlying disputes.",
+      "prop_args": [
+        {
+          "thesis": "A limited Trump-Xi summit is strategically useful because it reduces immediate escalation while preserving leverage for future bargaining.",
+          "mechanisms": [
+            "First, the meeting lowers the risk of accidental crisis escalation. This is because (1) direct leader-to-leader contact creates clearer signaling channels, (2) it reduces the chance that bureaucratic or military actors misread red lines, and (3) even a shallow agreement can create temporary guardrails that prevent tit-for-tat retaliation from spiraling.",
+            "Second, a placeholder summit buys time for both sides to test the other side's resolve without committing to concessions. Three reasons: one, each side can extract information about the other's priorities and domestic constraints; two, limited deals can freeze the most dangerous flashpoints while negotiators work on narrower issues; three, postponing a full settlement can be rational when neither side is ready to absorb the domestic costs of compromise.",
+            "Third, keeping relations merely stable can be better than forcing a premature grand bargain. This matters because the biggest immediate benefit in US-China relations is not trust, but predictability: even a modest pause in confrontation protects trade flows, financial markets, and alliance management while both states reassess their long-term strategy."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "A placeholder summit is dangerous because it creates the illusion of progress while leaving the core strategic conflict untouched.",
+          "mechanisms": [
+            "First, shallow diplomacy can entrench complacency. One, leaders may claim success domestically without making hard concessions; two, unresolved disputes over trade, technology, security, and Taiwan remain active; three, the next shock then lands in a context where both sides believe they already 'did diplomacy' and therefore blame the other side for renewed escalation.",
+            "Second, limited deals can weaken deterrence by obscuring real red lines. One, if the summit produces vague language rather than enforceable commitments, each side can interpret it differently; two, ambiguity invites probing behavior in the South China Sea, export controls, or sanctions policy; three, that probing increases the probability of miscalculation once the temporary goodwill fades.",
+            "Third, the summit can be used for domestic propaganda rather than conflict resolution. One, Trump and Xi can each present the meeting as a win to their own audiences; two, that reduces incentives to make painful compromises on structural issues; three, when the political theater ends, the underlying rivalry is sharper because expectations were raised but not met."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether short-term stabilization is treated as a meaningful strategic gain or just deferred conflict. Prop wins if you prioritize crisis management and the value of communication; opp wins if you think unresolved structural rivalry means any 'success' is temporary and potentially misleading.",
+      "stock_connections": [
+        "Great Power Competition",
+        "Security Dilemma",
+        "Deterrence",
+        "Summit Diplomacy",
+        "Miscalculation",
+        "Trade War",
+        "Interdependence as Peace",
+        "Domestic Audience Costs"
+      ],
+      "motion_areas": [
+        "TH, as the United States, would prioritize summit diplomacy with China over coercive containment",
+        "THBT great power summits that produce limited deals are better than no summit at all",
+        "THP a world where US-China relations are managed through temporary placeholders rather than comprehensive grand bargains"
+      ],
+      "data_points": [
+        "Trump and Xi met in Beijing's leadership compound on Friday, May 15, 2026",
+        "The talks continued into a second day",
+        "Bloomberg reports the summit kept relations 'on an even keel'",
+        "Bloomberg says the talks yielded 'limited deals so far'"
+      ]
+    },
+    {
+      "id": "e0f5d47aede1",
+      "title": "EU Migration Outsourcing Turns Search-and-Rescue Into a Violent Enforcement Regime",
+      "source": "Al",
+      "url": "https://www.aljazeera.com/news/2026/5/18/libyan-gunmen-open-fire-on-rescue-ship?traffic_source=rss",
+      "published": "2026-05-18T10:45:52Z",
+      "category": "IR",
+      "region": "Libya / Mediterranean / EU",
+      "background": "On 11 May 2026, armed men on a Libyan coastguard patrol boat fired at the German-flagged NGO rescue ship Sea-Watch 5 in international waters north of Libya. Sea-Watch said the boat fired a single shot followed by 10 to 15 more shots without warning, then tried to force the vessel toward Libya while 90 rescued migrants were on board. The EU has provided more than 400 million euros ($465m) to Libya for migration-related issues since 2015, and the article says this was the third armed attack on NGO rescue ships in the Mediterranean in 10 months. Italian authorities also opened a criminal investigation into Sea-Watch 5's captain for 'aiding and abetting illegal migration' after the ship returned to Brindisi.",
+      "prop_args": [
+        {
+          "thesis": "The EU should end or sharply condition cooperation with Libya because outsourcing migration control to abusive local actors predictably produces violence, impunity, and fewer lives saved at sea.",
+          "mechanisms": [
+            "First, funding and equipping the Libyan coastguard creates a direct incentive for coercive interception rather than lawful rescue. This is because (1) the coastguard is rewarded for stopping departures, not protecting life; (2) EU-backed boats and training increase the capacity of actors who already use force; and (3) when the political objective is 'fewer arrivals', violence becomes a tolerated tool rather than a bug.",
+            "Second, the current arrangement destroys accountability and normalizes impunity. Three reasons: one, attacks happen in international waters where victims have weak jurisdictional protection; two, the EU can deny direct responsibility while still financing the system; three, internal warnings that funds and equipment may be misused show the bloc knows the risk but continues anyway.",
+            "Third, the policy reduces rescue capacity and increases deaths by criminalizing NGOs and deterring future missions. This matters because (1) rescue ships face gunfire, seizures, and port-side investigations; (2) crews spend more time avoiding state-linked harassment and less time saving boats in distress; and (3) the Mediterranean already has a catastrophic death toll, with more than 34,000 dead or missing since 2014."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "The EU should continue working with Libya because cooperation, however imperfect, is the only scalable way to manage departures, prevent chaotic crossings, and maintain some operational control over the central Mediterranean.",
+          "mechanisms": [
+            "First, abandoning Libya risks creating a security vacuum that smugglers and militias will fill. One, Libya is a key departure point, so no engagement means no leverage over the coastline; two, the EU cannot physically police Libyan waters itself at scale; three, even flawed local partners may still intercept boats that would otherwise attempt dangerous crossings.",
+            "Second, cooperation can be improved through conditionality rather than severed, preserving life-saving capacity while reducing abuse. One, the EU can tie funding to training, monitoring, and equipment controls; two, it can suspend specific units after violations instead of ending the whole framework; three, engagement gives Brussels some bargaining power that it loses if it walks away entirely.",
+            "Third, the political and humanitarian trade-off is not one-sided because uncontrolled crossings also kill migrants. This matters because (1) deterrence can reduce the number of people embarking on unseaworthy boats; (2) fewer departures can mean fewer drownings overall; and (3) governments face domestic pressure to show border control, which sustains support for any rescue-and-interdiction regime."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether EU leverage over Libya meaningfully constrains abuse or whether it simply launders responsibility for violence. Prop wins if the judge believes the system is structurally abusive and that criminalizing rescuers plus arming local actors predictably increases deaths; opp wins if they can show the alternative is uncontrolled crossings with even fewer tools to save lives.",
+      "stock_connections": [
+        "Moral Hazard",
+        "Externalization of Borders",
+        "Race to the Bottom",
+        "State Complicity",
+        "Human Rights Abuses",
+        "Criminalization of Humanitarian Aid",
+        "Security Dilemma",
+        "Dependency Theory"
+      ],
+      "motion_areas": [
+        "TH, as the EU, would end migration cooperation with Libya",
+        "THBT European states should not fund third-country border enforcement when there is credible evidence of human rights abuse",
+        "THP a world where NGOs are protected from criminal liability for rescuing migrants at sea"
+      ],
+      "data_points": [
+        "Sea-Watch 5 was fired on in international waters on 11 May 2026; the crew reported a single shot followed by 10 to 15 more shots without warning",
+        "90 rescued migrants were on board Sea-Watch 5 during the attack",
+        "The EU has given more than 400 million euros ($465m) to Libya for migration-related issues since 2015",
+        "The article says this was the third armed attack on NGO rescue ships in the Mediterranean in 10 months",
+        "Search and rescue organisations have documented 77 extremely violent incidents by Libyan militias and coastguard at sea since 2016",
+        "More than 34,000 people have died or gone missing while attempting to cross the Mediterranean Sea since 2014",
+        "Italian authorities opened a criminal investigation into Sea-Watch 5's captain for 'aiding and abetting illegal migration' after the ship returned to Brindisi"
+      ]
+    },
     {
       "id": "97275acba5fe",
       "title": "US-Iran Brinkmanship Risks Regional Spillover as Negotiations Collapse Under War Pressure",
@@ -169,6 +1382,67 @@
         "Child poverty is estimated at 13% to 16%, up from 5.2% in 2021",
         "One tax adviser reported losing as many as 75% of clients at a Latino tax service firm",
         "Another adviser said 30% to 40% of clients did not file taxes this year"
+      ]
+    },
+    {
+      "id": "e046ae15be4e",
+      "title": "Utah’s Ban on Prediction Markets Sets Up a Federalism Clash Over Whether Event Contracts Are Gambling or Finance",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets",
+      "published": "2026-05-18T10:00:55Z",
+      "category": "Econ",
+      "region": "US / Utah",
+      "background": "Utah lawmakers have moved to block prediction markets such as Kalshi and Polymarket, arguing they are gambling rather than financial products. In March 2026, Utah’s GOP-controlled legislature expanded the state’s gambling ban to include “proposition bets,” defined as wagers on an individual action, statistic, occurrence or non-occurrence, and Governor Spencer Cox signed the measure. The industry, now valued in part by Kalshi at $22bn, says it is regulated by the federal Commodity Futures Trading Commission (CFTC) and can operate nationwide; roughly 20 lawsuits over prediction markets are now underway across the US, with mixed early rulings.",
+      "prop_args": [
+        {
+          "thesis": "Utah should be able to ban prediction markets because they are gambling products disguised as financial instruments, and state gambling law should control.",
+          "mechanisms": [
+            "First, the products function like gambling, not productive finance. This is because (1) users are staking money on uncertain real-world outcomes like elections, sports, and geopolitical events, (2) the platforms mainly intermediate bets and collect fees rather than finance investment or hedging in the real economy, and (3) the social harms are the same as gambling, including addiction, compulsive use, and chasing losses.",
+            "Second, state-level prohibition is the correct regulatory venue. Three reasons: one, gambling has historically been regulated by states, so Utah has a strong federalism claim; two, states can tailor rules to local moral and social preferences, especially in a state where gambling is broadly opposed; three, if the CFTC can preempt state bans here, it creates a loophole for any betting product to relabel itself as a derivative and evade local law.",
+            "Third, banning these markets protects integrity and public trust. This matters because (1) prediction markets create incentives for insider trading and manipulation around elections and government decisions, (2) they can normalize speculation on public events in ways that erode civic norms, and (3) once a market is seen as a legitimate information tool, it becomes harder to police conflicts of interest among officials and politically connected actors."
+          ]
+        }
+      ],
+      "opp_args": [
+        {
+          "thesis": "Utah should not ban prediction markets because they are federally regulated financial products that improve information discovery and should not be fragmented by state gambling rules.",
+          "mechanisms": [
+            "First, these markets have real informational value. One, they aggregate dispersed beliefs into prices that can be more accurate than polls or punditry; two, they help businesses, investors, and policymakers hedge uncertainty around elections, regulation, and macro events; three, banning them removes a useful forecasting tool without eliminating demand, which just pushes activity offshore or underground.",
+            "Second, a state ban creates a destructive patchwork that undermines national markets. One, the platforms operate across state lines, so allowing each state to veto them destroys scale and legal certainty; two, inconsistent rulings already show the need for a single federal standard under the CFTC; three, if Utah can ban event contracts, other states can block any new financial product they dislike, chilling innovation in derivatives and fintech.",
+            "Third, the harms can be managed without prohibition. One, platforms already claim to monitor insider trading and market manipulation; two, the CFTC can impose targeted rules on elections, sports, and sensitive contracts; three, narrow regulation preserves consumer choice while addressing the specific risks, making a full ban a disproportionate response."
+          ]
+        }
+      ],
+      "weighing": "The biggest delta in this debate is whether prediction markets are treated as socially harmful gambling or as useful financial infrastructure. Prop has the stronger structural claim on local democratic legitimacy and moral regulation, while opp has the stronger efficiency claim if the round is about national markets and innovation; the winner will depend on whether the judge prioritizes federal uniformity or state autonomy and harm prevention.",
+      "stock_connections": [
+        "Federalism",
+        "Regulatory Arbitrage",
+        "Race to the Bottom",
+        "Moral Hazard",
+        "Consumer Protection",
+        "Information Aggregation",
+        "Market Efficiency",
+        "Preemption",
+        "Vice Regulation",
+        "Insider Trading"
+      ],
+      "motion_areas": [
+        "TH, as a state, would ban prediction markets",
+        "THBT states should be able to prohibit federally regulated event contracts",
+        "THP a world where prediction markets are treated as gambling rather than financial derivatives",
+        "THBT the CFTC should not have exclusive jurisdiction over prediction markets"
+      ],
+      "data_points": [
+        "Kalshi was recently valued at $22bn",
+        "Roughly 20 federal lawsuits have been filed nationwide over prediction markets",
+        "Utah and Hawaii are the only US states without any form of legalized gambling",
+        "Utah’s March 2026 amendment expanded the gambling ban to include “proposition bets” on an individual action, statistic, occurrence or non-occurrence",
+        "A Utah poll found 50% of adults consider prediction markets to be gambling, while 30% do not",
+        "The Church of Jesus Christ of Latter-day Saints has more than 2 million members in Utah, over half the state’s population",
+        "Kalshi won a federal ruling in Arizona blocking criminal charges tied to alleged state gambling-law violations",
+        "Kalshi has faced setbacks in Nevada and Tennessee",
+        "Donald Trump Jr serves as an adviser to both Kalshi and Polymarket",
+        "The CFTC under Trump defended its “exclusive jurisdiction” over prediction markets after Biden-era efforts to restrict election, politics, and sports contracts"
       ]
     },
     {
