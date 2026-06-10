@@ -1,350 +1,5 @@
 {
   "processed": {
-    "e754a4b573b3327e274b25cb2810bcf7e2c016c82e9c51b9e046e38f35c87491": {
-      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "063c0001d6f68ced5576bf2d9a6aab4c8b0cbf800eb3063002ad534b9cbd7239": {
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "fb2d78f09276833b86a8ce6ca8f748d557eb46cf1b4d806b2dca058ce7d674ce": {
-      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "5ba3e1f975aeb641ae102c9f3580420700aedaaa41c082ac1ecdf7dc51c47cc6": {
-      "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "b7e64bb6066daa8011a5e09d44c5c2c3d86548a535faf9ff452eb701395a3256": {
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/11/could-the-latest-violence-in-dr-congo-undermine-truce-efforts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "9c0bd970fc722cb8286c267e1f7050627d44ab43a573b01d7a6a948ddfaaa94f": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/south-africa-plans-presidential-impeachment-probe-over-farmgate-scandal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "636da7f879926eea54e9f3082c8bca9265c59d0b2ee773661254d09655968103": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-discuss-arms-sales-to-taiwan-in-meeting-with-chinas-xi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "6d71e3d7018461044ed294d9fec3b57f2ab042877f5d0ba41d7443f125207ab4": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-sanctions-on-israeli-west-bank-settlers-hamas-leaders?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "cafc13997da246f11d7a76fd2619c6499705dd0906dea7a0f7270527d724e528": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "caa4650831ae99d1ec90960339c73cf37fd2a1f1b87fb563ea5db7b518962eaa": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "438a7f0098eaa171219ab6e5c47b4b9e6509fd4b67f08374ca60d57fb9c32584": {
-      "url": "https://www.aljazeera.com/sports/2026/5/11/fan-festivals-panini-tickets-what-are-fifa-world-cup-fans-talking-about?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "721109092cee8d0f8bf0f530bbbd816fc6406fb9534ddad317d834826667139d": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/how-impunity-in-shireen-abu-aklehs-case-fuels-israeli-attacks-on-the-press?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "e782d85b14bfacddb0c7ddedebc10bf771b644287db851bc961d66fb22906aa4": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "65d6f7d1838cdafd6b6587ca9bd6955dc64562239a735d08f8859450d78a0809": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/tragedy-at-sea-mv-hondius-captain-praises-unity-amid-hantavirus-outbreak-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "f86f5edee787423d0a92ed85544b74bc9b944743414982916b911bc94da9f491": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/us-and-french-evacuees-from-hantavirus-hit-ship-test-positive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "128770332bacffe931d6535ed726318a4d91a8a73ea054cf9d38b48fca8df601": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-ceasefire-on-life-support-slams-iran-response-to-us-proposal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "226fa722a721275f83ba378ee2a975d737e1c1c5946b9805fdde81acf78ce6a1": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "5a84dd921eea60574988c70189ae107cf1f92380d3c5470cc6eb17205cbb912b": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/iran-denies-proposal-sent-to-us-contains-excessive-demands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "3debb8f00b8f76ae9ad290e882dacbcb4d9a76f8e8d3b9c098377b9c8c1ed1cf": {
-      "url": "https://www.aljazeera.com/news/2026/5/11/who-could-challenge-keir-starmer-for-the-uk-pms-job-meet-the-candidates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "9759f76945b6a876b8e7c75735a3f025242c66d83c537674e67e8fd9b4fed81e": {
-      "url": "https://www.theguardian.com/world/2026/may/11/drug-gang-attacks-force-hundreds-of-indigenous-families-to-flee-in-mexico",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "ec66c480f57de5415f9252a72d708ce36bdbaa38374cf8935366ac01b11e5070": {
-      "url": "https://www.theguardian.com/world/2026/may/11/brussels-eu-uk-concession-agricultural-deal-live-animal-exports",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "6192d7604bcf86f954b7e4ba86e9860002b10601afc788765690efcbb5367bf5": {
-      "url": "https://www.theguardian.com/world/2026/may/11/donald-trump-ceasefire-with-iran-on-life-support-reject-peace-proposals",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "efbaa935f9816d8165459be67e5416f428790a51be7a598af2ede5209a92b362": {
-      "url": "https://www.theguardian.com/world/2026/may/11/israeli-troops-jailed-desecration-virgin-mary-statue-lebanon",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "7a641cb749d7b5806f96cb375e69bdbfb1eb6d0c1cc44a9fbe755dbc88e1c514": {
-      "url": "https://www.theguardian.com/politics/2026/may/11/starmer-began-the-day-damaged-and-then-things-got-worse",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "aacbbc7bbdf96a7faf75040811f2a7b60517261bbe1e4ebe91c59d18b2a10f8f": {
-      "url": "https://www.theguardian.com/politics/2026/may/11/newly-elected-reform-councillor-resigns-stuart-prior-social-media",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "cb753e0decb78630c4090d4877349ee8c39b47d5f90b1fc65a437f15c021b55d": {
-      "url": "https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "e6a78c26938b2e2419eed393154ac46147f49a60ab54b823a9d82bfcabfc5cc5": {
-      "url": "https://www.theguardian.com/environment/2026/may/11/low-rivers-after-dry-april-raises-drought-fears-in-central-and-southern-england",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "ce34de25db899df82ac5c99fed4c6ba1423f7eff462f9075f34bac7784c4b31a": {
-      "url": "https://www.theguardian.com/us-news/2026/may/11/ice-deportation-flights-democrats-letter",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "afa78b5b151755d97e187ae73839444a8ce386bf2f6ff9fd936aab05e20bd7cf": {
-      "url": "https://www.theguardian.com/us-news/2026/may/11/trump-lincoln-memorial-reflecting-pool-makeover",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "bc45b0f0cdf269cf10b4d24a29d3f274bb921d4940c1f8a8008fd2bf52547109": {
-      "url": "https://www.theguardian.com/us-news/2026/may/11/trump-federal-gas-tax-prices",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "7c6263c7f117253107f9298f12177ba16df7a56d7466f3d6c5d5d756ddff026b": {
-      "url": "https://www.theguardian.com/us-news/2026/may/11/senate-democrats-white-house-ballroom-funding",
-      "source": "Guardian World",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "0bd366c9d98f8a2c4c63ed22c2f907c9a2dfbe50b0b3e57272b05867a7b0eacb": {
-      "url": "https://foreignpolicy.com/2026/05/11/us-iran-war-diesel-fuel-energy-economy/",
-      "source": "Foreign Policy",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "75e83e693d091b4ef4354a674a2f453dd84f67607e7e3ab96c9d9590a97dfef8": {
-      "url": "https://thediplomat.com/2026/05/trump-goes-to-beijing-what-to-watch/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "2903ddad1d632aaf082b22c328a042d7b788772838dc79b32e697e6b105f1302": {
-      "url": "https://thediplomat.com/2026/05/allies-at-war-japan-us-relations-from-the-war-on-terror-to-todays-iran-conflict/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "88f4f4f8ea0aef3b233533ec0440d1ff7861a3c5306857443e5ab2ae734ad1ec": {
-      "url": "https://thediplomat.com/2026/05/trump-must-put-detained-uyghur-intellectuals-on-the-agenda-for-xi-summit/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "83903bc66e3091be174f64e2cb9646e636eef342fc2ef3460b4bf704c0d2795c": {
-      "url": "https://thediplomat.com/2026/05/why-is-china-watching-india-vietnam-relations-carefully/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "5301975c100d3785a60628e4280b14afed096b2c3645bf944c5268d9dc176510": {
-      "url": "https://thediplomat.com/2026/05/kazakh-and-uzbek-leaders-attend-muted-victory-day-parade-in-moscow/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "a85c473e385a4ba1dfd56d78f15e96a3217b5f7abb17adeba7d75f23bda8ff20": {
-      "url": "https://thediplomat.com/2026/05/the-software-layer-of-china-us-tech-diplomacy/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "07b69d616a011fb0d900073fbae861fb959298bfce205614dfaf1e181381966d": {
-      "url": "https://thediplomat.com/2026/05/the-rise-of-personality-politics-in-india/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "36b6db516636769e321513f42e58a9dbf0eb0bf59b2241f1451d9edeeb07ca17": {
-      "url": "https://thediplomat.com/2026/05/iran-is-the-test-china-didnt-ask-for/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "ddbce56649a3267800b7c3e7da9fa3932bd807540af16ce21da082df040c2b03": {
-      "url": "https://thediplomat.com/2026/05/with-farrer-win-one-nation-emerges-as-major-threat-to-the-liberal-party/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "1a0d54dcdd798a4c47136308390583f4bd0aac817a551b3696f9ee5e0d1f271b": {
-      "url": "https://thediplomat.com/2026/05/geospatial-intelligence-expert-y-nithiyanandam-on-why-the-hormuz-strait-is-no-longer-a-neutral-global-common/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "931cc431636b70672ce9a6308c72e1f94a63b13b0d46bf7078182d769072e28b": {
-      "url": "https://thediplomat.com/2026/05/a-case-for-judicial-review-of-the-awami-league-ban-under-the-ata/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "c869f64a5418d0417eb270a27b40f2bfe777805d97c0179d88f12090daaeb8b6": {
-      "url": "https://thediplomat.com/2026/05/india-still-sees-russia-as-a-trusted-friend-is-that-a-mistake/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "a1ebecab7308ff608f1c0e1cdaa7d0cd1b9ba99f35ddb21219f7cb086e0bc8a0": {
-      "url": "https://thediplomat.com/2026/05/a-year-after-operation-sindoor-pakistan-is-in-trouble-at-home-basks-in-glory-abroad/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "66695e52a22d6cdf9f74e4fe8f7f74733dfa085c750c7f9c7a77d0a677cc2481": {
-      "url": "https://www.project-syndicate.org/commentary/ending-africa-debt-crises-requires-global-governance-reforms-by-hippolyte-fofack-2026-05",
-      "source": "Project Syndicate",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "b5730b03cc0ebe6d3e4adeaa8eaa7520d45d434ba9be912979f3971894acdfd4": {
-      "url": "https://www.theatlantic.com/ideas/2026/05/russian-discontent-ukraine-war/687131/?utm_source=feed",
-      "source": "Atlantic Ideas",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "00a1a39db8991b351f3ff0efad48c6596e2002bbe91a43f57bc5cad78c8f4bcc": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/virginia-asks-us-supreme-court-to-restore-democrat-friendly-map",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "1671c2fc8a20158a6201cd26a5ec70d99f6d3c0a3e10fcb98e63783f8e5e620c": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/navy-plans-to-buy-15-costly-trump-class-battleships-by-2055",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "80878040b380fc941fcb312ca2264e8219a0f5b7e754807b60c4b9918ff197fa": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/ramaphosa-says-won-t-resign-over-court-ruling-denies-wrongdoing",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "cdab3a48a14ef950dc1c3508cf59db7034769f056c0b69737eb1c5d98954182b": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-11/south-africa-s-ramaphosa-says-he-won-t-resign-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "e7b44b7aa81a68ce2d1996242f792be9d32b1352348b0a9105b667c5ea3b4d4a": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/us-iran-tensions-flare-as-trump-declares-ceasefire-is-weakened",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "ddf43672469fb88e4a402e43d76e02be3d3d187e9207c787becf49bcef48a58c": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/duffy-s-reality-show-draws-ethics-concerns-over-sponsorships",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "7a012608e3da4f831a22d4feaa324b80ecc42f6355558a959f00235b3285df8a": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/us-asks-to-keep-collecting-trump-s-new-tariffs-after-court-loss",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "855c5c11fc10cbdd78621db81df5d17d4463213fbcd5baaf8f932945f8b324ea": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-11/brandon-pugh-on-the-importance-of-cyber-readiness-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "e24f286f6fc240156b85ed096c111d56ce642e44e426a8ed40981fb2bb1d22d8": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-11/america-s-creditably-as-an-ally-is-being-tested-conley-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "d3a8dd13f439737334b469f25c2e5d1f584d27c8d4cbe497045e3b5db1b60852": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/secret-service-speaker-to-talk-ballroom-money-with-senate-gop",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "0ddd21f467e92727fe57028dfce1cdae7ec45b60b115bc3e6c87a831e58e65ff": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/slovenia-s-nationalist-leader-backs-legislation-critics-say-favors-rich",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "052532204295bf59cc3533a038ae895479f8c54b88cd4b99c7598d1ac222ba26": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/trump-to-sign-orders-monday-aimed-at-lowering-beef-prices",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "93525c7bf730fecb8974e4b14889f3fbe8a8a938b1e08ab9b04e53b6db329871": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/streeting-allies-urge-starmer-to-go-as-pressure-on-premier-grows",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "f337fd7d970350d7bbe55fcbb8d326ff5d0fd5763933d8887222a1dfeef5e6fd": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-11/trump-says-he-ll-talk-to-xi-about-selling-arms-to-taiwan-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "4385f03b21b47a9aeb7c553f7ed09469d083e8a2c183900e808965074fc22e08": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/trump-downplays-hantavirus-concern-says-not-easy-to-spread",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "cd41bc6ac2ed96ba11a8488fb2332afe4988df1987899026998392f5ad52f52f": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/trump-vows-to-discuss-case-of-imprisoned-jimmy-lai-with-xi",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "59d8951429cd77a609c21fb58e7c40fc586e95351d5b14c87109db37bbc92d0f": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-11/trump-says-iran-ceasefire-is-on-life-support-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "1b096fc391314ecd3197a2045aae81f88a1c3688b3fb9673e59568b8aa589301": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/us-travel-by-canadians-sees-first-gain-since-december-2024",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "e2c2cc0303aee62f9d995d523acc1df4a294fb3701d789044d08715819adbe3d": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/schroders-stays-clear-of-uk-bonds-citing-risk-starmer-is-ousted",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "3df217cc4bf29ee678722b0f100faab64cefa8326964f85f049d92d7823c0d1a": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-11/morgan-stanley-sees-spicier-cpi-as-inflation-week-kicks-off",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "299cb8d719a78245210be99f1deb95e03bd805bc62ed02d436210f4e107c3945": {
-      "url": "https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers",
-      "source": "Economist Finance",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
-    "69e9d78da28c7c0c50d515790337ccb319e55bfbc9784dd8d505952d7d69fc41": {
-      "url": "https://www.economist.com/finance-and-economics/2026/05/11/america-is-experiencing-a-productivity-miracle",
-      "source": "Economist Finance",
-      "processed_at": "2026-05-11T20:05:14Z"
-    },
     "d7a5974cfdd8e29aa5e0705a6fad12d78c50584badf88c40672b8a68240c56d1": {
       "url": "https://www.bbc.com/news/articles/c9369q3g7w7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -42639,6 +42294,306 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-10/thailand-malaysia-clash-over-seafood-trade-curbs",
       "source": "Bloomberg Economics",
       "processed_at": "2026-06-10T15:58:14Z"
+    },
+    "52cd16084d826abdc2e1388d3a2013b4997ca5d30fc32dbc07710b9a4bc0d72c": {
+      "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "6e31d9cc6d534bdeee0541fc89729f167977196d93839fc7418089403eb35be0": {
+      "url": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "bb6fe8cf759cdf917f274543aa9b38732023bb91e5427d381fd374a4e6ac0764": {
+      "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "132b98d6fd9425bf8f0124e68038fbcc7f16accd3d312890d65fde52dd956feb": {
+      "url": "https://www.bbc.com/news/articles/cwydgwdx83yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "6b10587318b96b003477dd1232b130abffd959098e446df5c3ee207068045cbe": {
+      "url": "https://www.bbc.com/news/videos/c0rygjggl7zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "46ac35d550b17139961b9b6ca85c8113146714574c5afcf93811ef393909b00b": {
+      "url": "https://www.aljazeera.com/news/2026/6/10/india-summons-us-envoy-over-ship-attack-that-left-three-indians-missing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "1bf02084a5697af221b2fec9b55c95aa7f1dbc9bdf1422447371aaf5859ae78e": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/israeli-strike-on-a-car-kills-two-in-sidon-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "69114a7c568ae19bc90da90dff1170889dc8b370698fcc109f6b1416936a8d68": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-were-working-to-make-sure-the-right-people-come?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "9179ebbbf2f2bca099d65abd061219c3e0cd31802d192923c277c557dce35736": {
+      "url": "https://www.aljazeera.com/news/2026/6/10/bill-gates-testifies-in-closed-door-us-house-meeting-over-epstein-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "85ca8819a1d2591f86b41b62d6928a8b7b3ed40a83995c928a6faf2a972eadcc": {
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "abced596784a8bdc6314e75eae9685841924188fe90b80d08f10fa070992c447": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "5eb6cffa872f3b7ec4c7cfc78595d752cb53ea1fc8dc6a26a3603d3559d76822": {
+      "url": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "e1304c8e7ec19745b35d30933e24ee54eb0901af598423950c1b86557ca1df40": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-warns-of-more-attacks-on-iran-after-us-apache-helicopter-downing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "5a7201b1c0e4568d80792b800a59f2f34b06c6bc70fe98b73fdeeda76d6bfa20": {
+      "url": "https://www.aljazeera.com/news/2026/6/10/us-military-chief-hegseth-warns-cuba-against-acquiring-military-arms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "7877a6b0b5ad8a7de775ac61dac46d0026e5075f3ff2ce7801152c2a4cabeb4d": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/uk-pm-starmer-slams-unjustified-anti-immigration-violence-in-belfast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "1d281063a4cefb77542b3fbe4162834a778419e431f43e0f37d52c3961840c62": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/is-fortress-europe-becoming-more-strict?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "8f5c4f955e35d1609a78c6dcb0b3f435f44052071f82c71adbf88cc999bd23b3": {
+      "url": "https://www.aljazeera.com/economy/2026/6/10/us-inflation-hits-new-three-year-high-amid-energy-price-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "df03cfa3335d83390180ddd3ca9cf8a5922594b48b13b939f2bd24053da9572e": {
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/10/live-portugal-vs-nigeria-world-cup-2026-international-friendly?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "9432e447346dce0ca06b57def0d475ee5d3bc1a54f357cdc051f95688de338ff": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/mass-shooting-with-at-least-10-attackers-in-johannesburg?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "7a30735d8c9720dfbe0894a00eb90e79938b314b50b869c1ae8f891604019f97": {
+      "url": "https://www.aljazeera.com/video/making-peace/2026/6/10/the-light-within-ep-5-el?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "1999b4d8565197cda7aa092e3baf5bb637b6f2c8084004781a5ec3d4e8b30729": {
+      "url": "https://www.aljazeera.com/news/2026/6/10/trump-hardens-tone-against-iran-says-may-keep-going-with-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "195ee211fcf6b6a7d33560b0c2fc443d230e646adfa54daa4a814c8219cea62a": {
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/hegseth-warns-cuba-weapons-guantanamo-bay",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "d0e621ba042a5756ac4c5ebf6dc4701546c6af17cd97fbc7520ead486d874487": {
+      "url": "https://www.theguardian.com/world/2026/jun/10/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "2c925e4d4f974a09f571828f024c07ce6de5a5baa6f241c29fc9a0582e5dd515": {
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "f3cffe556ff947161d67155ba4439a2f0d218db8b33f05344687c773f8ecfa4f": {
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-iran-war-analysis",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "7ed44766db937408f73628b316f62a00ec5eb63f3333b46e1b1f12d51449b48c": {
+      "url": "https://www.theguardian.com/politics/2026/jun/10/farage-suddenly-returns-to-political-stage-but-dodges-questions-about-5m-gift",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "9ceca5b5f26987faa56ada674a62236f920a8f6f5ccea48981edff3fba3c2a85": {
+      "url": "https://www.theguardian.com/politics/2026/jun/10/keir-starmer-aides-war-gaming-over-leadership-contest-with-andy-burnham",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "6827afa2f0ea56095e891931edfcc7773bc1ef676842824163d342cdd9279508": {
+      "url": "https://www.theguardian.com/society/2026/jun/10/patients-accident-emergency-non-urgent-ailments-nhs-plans-overcrowding",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "a05def6c6ff3d73ea04b51aad942face6fd051bd98d1a401f73c0c626fcd8d65": {
+      "url": "https://www.theguardian.com/books/2026/jun/10/pleasure-and-invigoration-diana-evans-wins-uks-jhalak-prose-prize",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "9f651facd3e503f1ace40fa0e37206718c0653c87b8b952d1c6aeaf1f80f4dce": {
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/louisiana-mayor-misty-roberts-sentence",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "9dc750dfe3e1a7e0e703972985832e9ac5bee43f24d9fc66c259da4edad034a6": {
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/fbi-southern-california-chemical-facility",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "dcda13ecd44c77e242222afadecacc9fe91aba979fd217fee155bd4004d2fbcb": {
+      "url": "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition",
+      "source": "Guardian World",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "f798f423170673fb77537ecb4f777b101241d23f9101af69dd9ded60c252673f": {
+      "url": "https://foreignpolicy.com/2026/06/10/israel-palestine-review-bartov-abu-sarah-inon/",
+      "source": "Foreign Policy",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "859b8311b39107f3288f19d14d528fda9027facbeb08e65da7d874067f6ecbee": {
+      "url": "https://foreignpolicy.com/2026/06/10/europe-russia-sanctions-package-trump-putin/",
+      "source": "Foreign Policy",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "269e4c69eb10209b5be46db062c1c6db9ff25be136c359406d4413f13fb3c9d6": {
+      "url": "https://foreignpolicy.com/2026/06/10/world-cup-soccer-football-mehreen-khan-fifa/",
+      "source": "Foreign Policy",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "824247d95e910a2d7700ccef301b28fe20c4de750c2d656022eb0ade627807de": {
+      "url": "https://foreignpolicy.com/2026/06/10/global-order-china-united-states-ordering/",
+      "source": "Foreign Policy",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "c98a40df9cea373b5cd74cc38cd302530e7a1f7e22c9abe6075f006e634301f2": {
+      "url": "https://www.project-syndicate.org/commentary/causes-of-economic-growth-still-not-understood-by-andres-velasco-2026-06",
+      "source": "Project Syndicate",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "fd1b3424eaf5f0c636b2135dbaa35b460f48bb26f461eb9b87a2be6361fa295a": {
+      "url": "https://www.theatlantic.com/ideas/2026/06/kids-adult-time-counterproductive/687449/?utm_source=feed",
+      "source": "Atlantic Ideas",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "18660a3e049758f1abb216d344546e0fbe10710059b0c05587f9230b4e91bf43": {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-10/social-security-running-out-elevates-midterms-stakes",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "13374eb68f2578067e72c44ff54952edf77fb51d9c03d202e880d863206c62ca": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/brexit-10-years-later-an-evening-with-bloomberg-weekend-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "6fd024f8aac6ba76339b7b6c5706dc3c2a7d3a8167dc2b37d2a430e55beaebbf": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/us-refunds-22-billion-in-tariffs-canceling-out-customs-revenue",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "6e4889866e83f2c928691b5a1710c76691ef2b7f1ac349a33715ae8578fbbb5a": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/balance-of-power-6-10-2026-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "cb5de51aa4d9e08fd9a9f34242a4669b75545117645fa308155416b79155d33c": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/brexit-alastair-campbell-and-rees-mogg-disagree-on-everything-except-new-vote",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "097fdc76a5f232434a0715b45f79e64821cbfbf2efad1e1b4f3a828624927de6": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/hegseth-visits-guantanamo-and-warns-cuba-against-seeking-weapons",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "6e2cf113991d30bb47da48e8761f3e545f59be01a3229e5176355c7daba1ad2e": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/will-there-be-another-brexit-referendum-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "b03c438d8beb561c205c74466e5ab4e13cca6f19d4cff84267b9eddf2774d3fa": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/our-politics-could-go-to-a-dark-place-campbell-says-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "c66ca4af236be9f3798b5a7adc44e9036906732ac88a47410280c867561ada2a": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/agriculture-secretary-seeks-to-ease-screwworm-concerns-on-hill",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "51ad72bd910ce7ba04bcef54fa5fcb4d9191a81e42fd4032deab984ecbbc6d21": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/trump-says-us-to-resume-attacking-iran-very-hard-q-a-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "8e63bcc5a6d27b520f97717f32957c164f5d5fbae41ad813b6d5d3fd16b6c7da": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/starmer-crisis-throws-further-doubt-on-thames-water-deal",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "4c3ac2d2778e4b459c814731ae712e4da82f95ba05e1022d3729664c1208dcb8": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/trump-says-us-won-t-renew-usmca-must-be-treated-better-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "b52ef5f63d7dcc3d6393840976eb79fc1c03fbaf904f42e31cb30c7c89248756": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/graham-platner-wins-democratic-senate-primary-in-maine-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "77e81e29f7ad7dc8486b97bafbde46b65aeb37759128d7218bf31ed44707b2fe": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/trump-says-us-won-t-renew-usmca-setting-up-months-of-talks",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "40440ee275581d8e4a03e1969f0ac5e335408296c94ca615ac9f5d2b21735372": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/eu-rebuffs-us-call-for-travel-bans-to-contain-ebola-outbreak",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "fe6211bb592fd814ec387f760df3c83a9c104a91aa1698353c83f4fb791a1684": {
+      "url": "https://www.bloomberg.com/news/features/2026-06-10/tps-haitiano-residencias-de-ee-uu-temen-crisis-laboral",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "6c9a7ad33f6fd7e94a4eea3d4a3443fe5386c8d1e4e33a31320c5c74872ac5f8": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/trump-says-us-will-resume-attacking-iran-very-hard-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "74db7132120847e1a8e4917e14272baafefe31dce94eb8c62ae1eb9b6e8ab321": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/trump-signs-70-billion-measure-to-fund-immigration-crackdown",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "2a7a0182fe3f7a813bd4eb4d523f7aa5aba8ebdbf4e477e3e2362b7e8e30e166": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/trump-hails-approval-of-mar-a-lago-helipad-beyond-his-presidency",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "8d32a7d9fd27d391c717de016e3c5e51c5a491ff21d8a4b6d7dfd8a89e119281": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/why-2026-is-beginning-to-look-like-1929",
+      "source": "Bloomberg Economics",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "ece876d6ef2093844a517c9f7b778659e9f42c4c0f68b3fee0d9f3bbc9c34879": {
+      "url": "https://www.economist.com/international/2026/06/10/how-to-win-the-world-cup",
+      "source": "Economist International",
+      "processed_at": "2026-06-10T20:41:59Z"
+    },
+    "9a01d0861e1e787fddb485fe1d2093bbe190d7a2a7edf8046aaffb12200c993b": {
+      "url": "https://www.economist.com/international/2026/06/10/the-world-cup-has-always-been-beset-by-scandal-and-strife",
+      "source": "Economist International",
+      "processed_at": "2026-06-10T20:41:59Z"
     }
   }
 }
