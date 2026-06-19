@@ -1,455 +1,5 @@
 {
   "processed": {
-    "c9c9f13e4b03077be16402fd6a5a7cb3cf8f0a8a51c1205a72dde0f420d6d710": {
-      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "8c4aff487199f5480554d34f19532c552b16c3c4c4479785ea5cee283ead57b3": {
-      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "3a958e053659c3532bbd9b8449639430851975177857c2bc4d45585a1ad64b9c": {
-      "url": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "c2db989caf8cbde955db00fb0646bf67c22907b6448553b06da74878cc9e3b49": {
-      "url": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "a6d8447356af11a0f619f41eedb51add3e398818605c25df99508b044ac50175": {
-      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "e79ef0e1f1ee86b98fc2f1d373af8115133eeef471cfc69417d60ba5c093a363": {
-      "url": "https://www.bbc.com/news/articles/c62xrkre9vzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "2310f787ad1efcd3df9dea52b2f3e66cd52a1774d27a5ed07017bc2bab431663": {
-      "url": "https://www.bbc.com/news/articles/c072x1kml44o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "213d388274caad95a788a2b619bbfcb58d4b693e5f7807bb2e7091cda86ef14b": {
-      "url": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "954d015fc8f565175805ac220243b50d037e1de6111f80d5f604e6e4803a0403": {
-      "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "e9d1a844866b2ee4c4a42231671e3948a7006c25428f6b2305cda769da7b47b6": {
-      "url": "https://www.bbc.com/news/articles/c7v907yqzz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "7c4652cf6f4e2ff5352ab776dfacb959bbf8c3d4f530e42e0725fe4417453014": {
-      "url": "https://www.bbc.com/news/videos/cd6pwgz21nvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "385b1a3fff5b8ee4e5005cae021cf7caf27b9498eb62a16a490761167a34bacb": {
-      "url": "https://www.aljazeera.com/economy/2026/5/20/james-murdoch-to-acquire-new-york-magazine-and-vox-media-podcast-network?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "6689a86b631425567452fcdddd52c981df120324fb207caaec30fa9761bd0138": {
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "1820d59afd23a0b4c76eefb8f36dc62dfd8e7aeb0e9cdb301c1766659d76f07f": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/china-and-russia-unite-after-trumps-beijing-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "f0474442a6026c714ccb8542f560e27904a067639ebbe9160a7e5960e360229c": {
-      "url": "https://www.aljazeera.com/news/2026/5/20/us-indicts-cubas-former-leader-raul-castro-why-it-matters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "859ae25bebf0113773f1312ec09af48a624f23e34f0f365a4712fa99cc82acac": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/us-indicts-cubas-raul-castro-over-1996-plane-downing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "e9ebd6dc1411c28fa45268228b76204290178c2b78d8f50edcc1cdd2b5fe1d17": {
-      "url": "https://www.aljazeera.com/news/2026/5/20/sierra-leone-receives-first-group-of-west-african-deportees-from-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "778aedee7afdcfad91e089eaf9122d9444374fb93a82b1b376c097d2a7d84a3f": {
-      "url": "https://www.aljazeera.com/news/2026/5/20/chris-rabb-win-in-pennsylvania-energises-democrats-progressive-flank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "95f7b3f84b291affc7d89a6695cf4529f3c49b5e953651b6c1df8be8e4671890": {
-      "url": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "7421335bc86b73d4e1bcc95d632b5852e9822a9b67c7b4ffb173cf22f24f47f7": {
-      "url": "https://www.aljazeera.com/economy/2026/5/20/meta-cuts-8000-jobs-in-sweeping-global-layoffs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "98f9758fef5e2b95c78de7e2c029ee123941ad0b787e632055aefd7121cb1dd3": {
-      "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "f411c399739200588508be70f7cee158374c7b82ae4c47df0d17cdc2af1f0565": {
-      "url": "https://www.aljazeera.com/news/2026/5/20/trump-administration-indicts-cubas-raul-castro-over-1996-plane-shootdown?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "e52587ece47b6febf738ff86bfd29a27f74f75149079b4b1ea2c5d52a628b0a7": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "17716ee053fd2f850f6c19611bf914545fc681c2a89f09f76e06ed7e43e574ce": {
-      "url": "https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "64115d4fef18b6b79d0aa10fb4b9227e33fd9d27ba9c06d3877f0797a1e7e30e": {
-      "url": "https://www.aljazeera.com/news/2026/5/20/at-least-eight-killed-in-israels-air-attacks-on-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "2708f4b7b106330c60b0b3d7599de89efb975b8ebfe9f87833c764bc06f7b10d": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/oscar-winning-director-calls-trump-netanyahu-and-putin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "89e04b516c6d86c4558481e89f441f1244fb481463b563bfc25fbe14e9f134e8": {
-      "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "f966e6487ca1780e106cb9a2ea4fe1a90f0060760a8497457cbfe5b998ef185c": {
-      "url": "https://www.aljazeera.com/features/2026/5/20/what-is-the-power-of-siberia-2-pipeline-that-russia-china-are-planning?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "33e3cb824a381721f3f7456d933daeaa8187f985fdcbd4e778ecb9d90ac36a5b": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "06275ec78a589ef0810b516a338934d82bd1d87755ed846e29e33e2bd95a40da": {
-      "url": "https://www.aljazeera.com/economy/2026/5/20/why-is-trumps-gaza-board-of-peace-facing-a-funding-shortfall?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "a768d4b410201b3dd9d93c140e12d312ec92952a07e29ad6c032bf6d0c1e0555": {
-      "url": "https://www.theguardian.com/world/2026/may/20/bolivia-protests-coup-paz-pereira",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "53dd6933de367333a1d3144507dbad15ec0032a51d8ae043c0a2cdd1b57dc6ba": {
-      "url": "https://www.theguardian.com/world/2026/may/20/canada-plasma-death",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "3927500ee22878407c3faf336d2980e961a93edc273ceaecea778b60e71ce45c": {
-      "url": "https://www.theguardian.com/world/2026/may/20/cuba-raul-castro-indictment",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "51f4486430c49c63b921bca28374d68c3da3f2c39b83a23eb3af471011d91039": {
-      "url": "https://www.theguardian.com/news/audio/2026/may/20/are-xi-and-putin-still-best-friends-the-latest",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "7f3c2007c3a6915c1f425536bad5ee7a4900fc3ab6d876ef778e2755b2656796": {
-      "url": "https://www.theguardian.com/world/2026/may/20/norwegian-court-blocks-extradition-greece-tommy-olsen-migrant-rights-activist",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "b90af2683ff436c6d90e18c259993e06f751631a70a976512e08d1770b2667d5": {
-      "url": "https://www.theguardian.com/uk-news/2026/may/20/russia-jet-near-collision-flying-near-raf-spy-plane",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "0dbc2411dbea23ddcade8df65762ecaa272b6e2878a36d1c6f5d6d82fe0f2683": {
-      "url": "https://www.theguardian.com/politics/2026/may/20/british-council-staff-italy-strike-workforce-cut",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "c3e3792b6510e7499cb9e41da84a2e73ddddfdad0707044e7e8e8c67970e3019": {
-      "url": "https://www.theguardian.com/world/2026/may/20/israeli-security-minister-itamar-ben-gvir-stirs-diplomatic-outrage-with-flotilla-activist-abuse-video",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "b571bef78c4df2b17cb4817d58beccd089e5a56f188c74064813ce9e3641d087": {
-      "url": "https://www.theguardian.com/world/2026/may/20/mahmoud-ahmadinejad-the-us-and-israels-unlikely-choice-to-lead-iran",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "f94486fb006b83b632522d6a86da05ffa499d805555db3b88baaa573b66e6a92": {
-      "url": "https://www.theguardian.com/business/2026/may/20/uk-trade-deal-six-gulf-states-keir-starmer",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "26df5d4ebcacae507ccdc8ba7a1dfabdfc1d1c17dff91243dc8824d79b206547": {
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/20/uk-radio-station-apologises-for-accidentally-announcing-kings-death",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "125313e1955784da9c9427070209493f4ee24d8f16931db231fb619eb503a4ef": {
-      "url": "https://www.theguardian.com/politics/2026/may/20/burnham-to-back-shabana-mahmoods-immigration-changes-allies-say",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "2432e66c459536dbbbc2d5218f2a717b62bb9b787ac18e94b085759abac691b4": {
-      "url": "https://www.theguardian.com/politics/2026/may/20/labour-achievements-voters-starmer-burnham",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "dd2cbb6f037ff7129809a7f3c7ec1c8c2c120de3b002a57f7f3925551c03abbe": {
-      "url": "https://www.theguardian.com/media/2026/may/20/keir-starmer-advisers-journalists-investigation-thinktank",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "527cb24ba0790a40a3f8bf72097e0f2a987e0a84f2b22d8373c02631d853229e": {
-      "url": "https://www.theguardian.com/uk-news/2026/may/20/aardvark-calf-womble-chester-zoo-bottle-feeding",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "f30abced31a789466d5be174a385cc4b981c9aef62775140f893d47247f2dc74": {
-      "url": "https://www.theguardian.com/us-news/2026/may/20/trump-administration-climate-pollution-lawsuit",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "e1e36a3551a1b2eb45b1ec0931b65ba268109752c36dfa30a4b5608ba3e6a69f": {
-      "url": "https://www.theguardian.com/us-news/2026/may/20/new-york-laguardia-airport-sinkhole",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "3e7be84e76e83c87a4835939bee60830211437a87178b9e4bbdb50df185989ee": {
-      "url": "https://www.theguardian.com/film/2026/may/20/michael-bay-iran-movie",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "8f50035ebfebbbb4f08db5e3919050914d07d710d5a48b492ac07f7b0d803bfb": {
-      "url": "https://www.theguardian.com/us-news/2026/may/20/security-guard-san-diego-mosque-attack",
-      "source": "Guardian World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "b8f626dc941ccc247ac2450389f23ee1dba9abc95f1c39189a5d9ec636802fc5": {
-      "url": "https://www.theguardian.com/business/2026/may/20/starbucks-plastic-cups-recycling-report",
-      "source": "Guardian Business",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "a139d01009b1ddc528ab67df57f409b8ceb2040b797bfa5b66b5bfca49d364ef": {
-      "url": "https://www.npr.org/2026/05/20/nx-s1-5828826/us-palestinians-un",
-      "source": "NPR World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "0ed86d8c2f96f173498ecea2d6200c80d99a250336ccbee8432c57bbf04c637d": {
-      "url": "https://www.npr.org/2026/05/20/g-s1-122383/us-cuba-raul-castro-indictment",
-      "source": "NPR World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "6afe3df64ca8d6f5bd66a7aa292ed39f16e392289ed7f6aa27759ae00fbaf2e9": {
-      "url": "https://www.npr.org/2026/05/20/g-s1-122603/bali-indonesia-kecak-dance-ramayana",
-      "source": "NPR World",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "2677436046925b1935f5f1d8ed2d613c37be50f3a72238aca01b63f7ec6c6184": {
-      "url": "https://foreignpolicy.com/2026/05/20/trump-war-iran-wreck-economy-oil-energy/",
-      "source": "Foreign Policy",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "113981bcc646b04de936c130114d8972925c762d8697f0f2a5e7cfa790d46e89": {
-      "url": "https://foreignpolicy.com/2026/05/20/mali-rebels-kidal-fla-jnim-sahel-violence/",
-      "source": "Foreign Policy",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "dba85d0bd67cebbcba4836279efa603c164f60185df4d5504fa9154cf5a0bdc2": {
-      "url": "https://foreignpolicy.com/2026/05/20/syria-uae-saudi-iran-israel-hormuz-gambit/",
-      "source": "Foreign Policy",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "df1889dadae6ecf8923042c59c6864c03e9e99bd9580e8662a3f658749f76fe9": {
-      "url": "https://thediplomat.com/2026/05/the-duet-of-command-key-operational-issues-for-opcon-transfer/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "4e453f74a634a8e1e75196a21d151886005e9b7620dab003bb66554a9dd524f3": {
-      "url": "https://thediplomat.com/2026/05/india-just-signed-its-most-consequential-chip-deal-the-hard-part-starts-now/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "f216beb313ebf2f23455ae5d89ca46a9f0163f27a7d57a9b643115ee3bda5091": {
-      "url": "https://thediplomat.com/2026/05/indias-gdp-revisions-explained-what-changed-and-why-it-matters/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "31d8e48218ce4494ba7a456f60fe5696dac14a8c6bf0c5496713b28c2c11b44c": {
-      "url": "https://thediplomat.com/2026/05/operationalizing-indo-pacific-defense-and-deterrence/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "972de831a9f9bd92e154328f243b283f290a976c6309ca19d02b93088f884186": {
-      "url": "https://thediplomat.com/2026/05/australias-submarine-problems/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "c3fb578e14c4e8ff20206d5dac1dc01936b7761fffe880b9b9f63653d3087d18": {
-      "url": "https://thediplomat.com/2026/05/how-china-built-a-closure-that-cannot-leak/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "bbcf82b7fe2f29df6e31f634449041fbab7bcd5b694b6b6166120e71fdfcdea4": {
-      "url": "https://thediplomat.com/2026/05/how-south-asias-uprisings-are-reshaping-party-politics-and-what-bangladesh-gets-wrong/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "8c165a571050e967053c182d45aed56a99a6ad608f20d80cd262cf04e1a20cd7": {
-      "url": "https://thediplomat.com/2026/05/adbs-commitment-to-zero-tolerance-on-reprisals-meets-uzbekistans-reality-of-fear-and-silence/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "2808b4757a440e59f0fbdada5763bc13964828d986be434a4b5768922ae126e2": {
-      "url": "https://thediplomat.com/2026/05/the-price-of-collusion-why-sri-lanka-needs-a-new-approach-to-debt-governance/",
-      "source": "The Diplomat",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "86eb2704b0781f1bf8cc3465392b9cb70b1f41ea3490551f9681f8164c5da81f": {
-      "url": "https://www.project-syndicate.org/commentary/ai-mania-ignoring-risks-compute-shortages-model-plateau-political-backlash-by-raghuram-g-rajan-2026-05",
-      "source": "Project Syndicate",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "e0f3da5a48dbfb146e862b127a331ad93ef322b0aa7d54224a9289dc8dcb5932": {
-      "url": "https://www.project-syndicate.org/commentary/taiwan-us-relationship-much-deeper-than-high-level-rhetoric-suggests-by-channing-lee-2026-05",
-      "source": "Project Syndicate",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "7e52bb6edd4441ff11ac0f0363d305c6d0438add732e2229d75d003ce107a63b": {
-      "url": "https://www.theatlantic.com/politics/2026/05/massie-trump-maga-loyalty/687238/?utm_source=feed",
-      "source": "Atlantic Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "3ff877280e010439a643b2509d52228098a2b663443e6a38cab3b8cc4d8438aa": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/us-seeks-to-unseal-indictment-against-cuba-s-raul-castro",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "6decb3325a53d48cb7b0f5c0888dd639ece25620bb8fd59fdce352a4bdb6fa38": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/trump-says-no-escalation-coming-on-cuba-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "1269fedc80aa212b87bec558960b98b103bacafe1ab3171bccef6482255d8888": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/trump-s-winning-streak-masks-widening-cracks-outside-his-base",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "021a78f8ebb7bbe3a8c035e21db71a8239061b3494b8ac45d9b3fb9d284484ea": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/trump-downplays-need-for-more-cuba-pressure-after-castro-charge",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "746910ec3da0e50f937dc36567c199e1923604fdbc9f9f74550373af74957137": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/ex-doj-lawyer-charged-with-taking-sealed-report-on-trump-probe",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "efd57be5018629a20c264617cdefb44de8ccab9a7ab21944e96a33d372133bcc": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/there-s-a-judgment-day-coming-for-our-country-young-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "6ab06fa4e4fd1c36c77e992b3d88a057ec5162f572c3c240ed59b818a475de75": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/iran-threatens-to-retaliate-beyond-middle-east-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "d87759a6d50982b56fbced1c1a1cfa2541101a6d56870e967cb6892774b5092b": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/orban-s-return-to-power-set-to-be-ruled-out-by-new-term-limits",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "d83028ad4c070dccf599c6f7054e62e7a7af1c0d7a93432b05a3d3cff33c329d": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/trump-flexes-grip-over-gop-during-primary-night-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "f5fc608d876885074a2cc6864af86468cb12813b94ee74c9c6e14478998ffa5f": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/us-charges-former-cuban-leader-raul-castro-with-murder-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "642676dbde07fe111522b51e20950a870c1e912814ec4fc2e60d4dc4ff5a84df": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/jeff-bezos-says-new-york-city-second-home-tax-is-fine-idea",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "9f0447214e041798e3d4b6449c2cecef80fd78efa391fa366b6bdbed2d53e7bb": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/us-marines-board-and-release-another-iran-flagged-tanker",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "2fe18f2124c3a0514d01625389327e0361840235d62d483810110025b6f75b5f": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/housing-affordability-bill-advances-after-key-provision-scrapped",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "8803b81f07465487b3baabd20032b377fa58b1b01178f1d99a8cee5915f283fb": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/us-treasury-sanctions-drug-traffickers-for-laundering-profits-via-crypto",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "6c2f2b6f6e8fd027b1ec4020ea68920a31f8ce6fa45d1c54cb9c748fce411d92": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/eu-countries-summon-israeli-ambassadors-over-activist-treatment",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "1368076f078f12a0313221d775fd9a64e13acb4eddd29015a9c0a94d09c5de8b": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/democrats-to-target-doj-s-new-weaponization-fund-in-budget-vote",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "f59509673f8cd1bb2ae8959ea5b0d497cff5031cdcab6fed03029043313f32fb": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/extortion-crackdown-in-mexico-nabs-local-mayor-other-officials",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "9e4c0ff8e1c42945336e4d4eaa5f708ed992ed3fc1bbf5130f565d5bce072a29": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-20/trump-says-he-s-in-no-hurry-to-reach-deal-with-iran-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "7938f26a6a5f14176e28e82275db94a63a870e7edf0cb11b0407f3b20d91179a": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/putin-leaves-beijing-with-little-progress-on-key-gas-pipeline",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "6da6a3ef415876eaac692b255ed2ebd62a38fd11adee433ecd753db69ccd1634": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/fed-unveils-plan-for-new-payment-account-for-clearing-settling",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "427262a3b8b2cba05616c176b3c9b558bad17d8086d9fa6349ff2238e5f445c5": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/pepsico-to-raise-prices-on-small-chip-bags-over-higher-us-costs",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
-    "da58f5779dc118a6951cd0a9734d01ee1b5e9cfc1a99bf2b450f23c80f61132a": {
-      "url": "https://www.economist.com/finance-and-economics/2026/05/20/economics-lessons-from-home-depot",
-      "source": "Economist Finance",
-      "processed_at": "2026-05-20T20:29:06Z"
-    },
     "5adfb6138fbf73b34c728656480264ca64cada958e656a8057497bebbae67262": {
       "url": "https://www.bbc.com/news/videos/cx21y59q35wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -42559,6 +42109,71 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-18/ecb-s-escriva-says-energy-costs-spreading-to-services-transport",
       "source": "Bloomberg Economics",
       "processed_at": "2026-06-19T19:59:03Z"
+    },
+    "8665b753c9b6d3dfbfe3b854502a567a4df021688c4a149b84765a5fb0bde0eb": {
+      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "199cf6360e76170a47d5448f72a86a6ce99de489b37c5c005ce644019a74a830": {
+      "url": "https://www.aljazeera.com/sports/2026/6/19/spains-yamal-says-very-early-unnecessary-to-play-full-world-cup-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "981b0e3b0ec4588d5ccde3310ef89a61e58adcfaf4c539a997cd4888302c9f10": {
+      "url": "https://www.aljazeera.com/sports/2026/6/19/canadas-kone-undergoes-major-leg-surgery-to-miss-rest-of-world-cup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "ead8398d56ee5223bfb99da3a27b2bbcd3c4c0e8321bb8b0232b7baaa8de33e9": {
+      "url": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "c4471ddc0885b0b0af0bcfb284ad7c5ea2df7ec40dad765652093cf43651f984": {
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-announces-new-round-of-israel-lebanon-talks-in-washington-next-week?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "9219ea5abfdabb034abdd14c23cf4b1df83624048471ef8aef886854a5be0f65": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/italian-prime-minister-says-she-didnt-beg-trump-for-g7-photograph?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "aaca90eefd0bb0e9aa0c9ca5ce09322e8a162ae7c7427437a04d3438fb0d8157": {
+      "url": "https://www.aljazeera.com/news/2026/6/19/israel-kills-a-child-a-day-on-average-in-gaza-despite-ceasefire-un-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "a39261af66bbad9bc4011afaa2514a812beef93cf20386b836b5ea75f35c93b9": {
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/19/brazil-vs-haiti-live-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "9eb3c31b5e4f4ac8bbb785c9f8a78e4cc416640cc204208fceebd709d8650d92": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/the-uk-no-10-revolving-door?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "65da2989021e3f731d844952159e5f84092e6c2a413fbf60fc611be35aa69a77": {
+      "url": "https://www.aljazeera.com/news/2026/6/19/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "7d742c9619a5567a5be2d101da8dbd197f676aa2929fe6dc9aa2b2963d63b436": {
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5864264/meloni-trump-fight-beg",
+      "source": "NPR World",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "92c942fa48e9125918bb26b4baf7ec09d1852bcae31198c4dbce295b8825791c": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-19/trump-unveils-refitted-qatar-donated-jet-to-be-new-air-force-one",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-19T22:11:05Z"
+    },
+    "d32287c57590602553fdf530a2262e568a9e9309edef650cd8053deb2d55519c": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-19/trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-19T22:11:05Z"
     }
   }
 }
