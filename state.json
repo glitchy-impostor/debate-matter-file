@@ -1,240 +1,5 @@
 {
   "processed": {
-    "26bedbc5aa0042b77d94aa7d3e68fc93f140a1b2c1afbdcff037f83f7762c88b": {
-      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "30ae3ba57fd6a62ece1164a8e6edc238a2011fcade6ce1a96a39bdf1e45b6aa7": {
-      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "88cd2b7f59d2250f1f66b9069ebbbff5a05afacef9d824c60f2057c0e045531b": {
-      "url": "https://www.aljazeera.com/news/2026/5/22/who-says-12th-person-infected-with-hantavirus-detected-in-the-netherlands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "038664f7f1da17b73be7c9508e088d48a1c702aa220322475b38f7dbfc58993c": {
-      "url": "https://www.aljazeera.com/economy/2026/5/22/kevin-warsh-sworn-in-as-new-us-fed-chair?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "0b7dae1254f75edbcfa4e2346e4e6e1ee42d527f9eeab0f9c914387c6f33d02f": {
-      "url": "https://www.aljazeera.com/news/2026/5/22/western-nations-warn-israel-to-end-illegal-settlement-expansion-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "2b45be36f1f2eca977c2fe01a78bdeb76c8c036446dbdd86681aba29d9e553b7": {
-      "url": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "ec299d49fe198651d1ca4bc27e5e86207f5c0410358d7386e2a0d72b6c6fcad2": {
-      "url": "https://www.aljazeera.com/sports/2026/5/22/french-open-players-accuse-slams-of-ignoring-concerns-as-tensions-rise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "54600d022f0a3ac494e2f4127c1715b4ffd2810b7a429e8af58940708d205c13": {
-      "url": "https://www.aljazeera.com/news/2026/5/22/who-raises-ebola-public-health-risk-to-very-high-in-dr-congo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "e967c076de8f5584d893cd09d4a71be2a2aed6b891d20a164663c70c9bde1a4d": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/22/ukrainian-strike-on-dormitory-in-russian-occupied-starobilsk-kills-four?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "e3ed04c4e509ad91d1b80bf034bae0acc654ff8e3e905537746bc10120daf625": {
-      "url": "https://www.aljazeera.com/news/2026/5/22/why-is-trump-deploying-5000-troops-to-poland?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "e415057449af72dfa010e718460c883f8a1d1a07cc1ad88868fa40079ba97d0c": {
-      "url": "https://www.aljazeera.com/news/2026/5/22/marco-rubio-visits-india-whats-at-stake-with-trump-modi-ties-strained?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "b033ed0c9ae0b5796382e21865b502bfe133441437d976f2169081677f7d9641": {
-      "url": "https://www.aljazeera.com/news/2026/5/22/turkiye-shutters-liberal-istanbul-university-seized-in-criminal-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "db3ffd8be52c2cd66096686bb4c55157cf0653f276a2eea6b0c7796550235598": {
-      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "0c561ae74067f78cd6e4ca00c7f79c2fafd01ee90dc0f0727ed84cdb954167f3": {
-      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "0234450418dfe8c802ff6a9cce29e7865af68c440a329025d408f5a53f51ed8b": {
-      "url": "https://www.theguardian.com/australia-news/2026/may/23/australia-planned-in-march-for-worst-case-scenario-fuel-rationing-documents-reveal",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "f48780d4e708d2beae7dd5663e6b82c6c710a937393da2d2ba86f7a204c28ce5": {
-      "url": "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "3b296d08126f7da4751a7a0c4a7649007e065ff6f30e6f1bc51283bf7812ed98": {
-      "url": "https://www.theguardian.com/world/2026/may/22/gaza-flotilla-activists-allege-sexual-assault-and-in-israeli-detention",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "3bcbda5165f16736076db700fabd052c817ea9881ab8a6e1dd914fbbd12c8ce0": {
-      "url": "https://www.theguardian.com/world/2026/may/22/marco-rubio-trump-disappointment-with-nato-will-be-discussed-at-summit",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "1732cc20555ad158b90dd9a0c71801403bbd2efb58cd044bf416cb8e84702ba5": {
-      "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "6318af02a74e5334aa174a6a21637e6e683d8b54c439edc883334fe500463abd": {
-      "url": "https://www.theguardian.com/world/2026/may/22/kind-of-humiliating-trans-community-responds-to-ehrcs-new-code-of-practice",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "ea938a59cd64019b56a400b26d73059c53c69d8deff6b186eae2747b12641e90": {
-      "url": "https://www.theguardian.com/news/audio/2026/may/22/world-cup-england-shock-squad-politics-football-latest",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "611969e01cbb79f569f89025d5db47d6473cb21c80d934018188574f7d731996": {
-      "url": "https://www.theguardian.com/politics/2026/may/22/wes-streeting-insists-he-can-win-labour-leadership-race-despite-underdog-status",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "f23d1ca3238f054ca369ad5a04e416b06cb1c9a7b924dbb16df102ec9bbf8ca6": {
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/22/judith-chalmers-presenter-tv-wish-you-were-here-dies-aged-90",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "cd538e6b044e6a69bbc563adc72573f1679a88c374a0e64f19ce0d36f64b5012": {
-      "url": "https://www.theguardian.com/us-news/2026/may/22/san-diego-mosque-shooter-pro-nazi-fbi",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "275feaef3577d0f5c2efb433a76597498273d93f843c12ff15af781998aea749": {
-      "url": "https://www.theguardian.com/us-news/2026/may/22/texas-democrat-maureen-galindo-zionists",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "c7516f8d770c5c7d11e3bec1a1e993820c0eb568245d6743839fa2df4e28fff8": {
-      "url": "https://www.theguardian.com/us-news/2026/may/22/comedian-laura-clery-fridge-fall",
-      "source": "Guardian World",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "62f34982deef04b0b643660e08a7e27a96c0569456830dfd39d458565b1d9764": {
-      "url": "https://foreignpolicy.com/2026/05/22/xi-north-korea-putin-trump-beijing-visit/",
-      "source": "Foreign Policy",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "27a0e08405c319458bbbc82c46fa6230c3688a6f4f8607d1c771e63b0e4bc709": {
-      "url": "https://foreignpolicy.com/2026/05/22/modi-india-europe-democracy-elections-bjp-economy-western-policy/",
-      "source": "Foreign Policy",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "6616af7a3b69509ad85162890c1fd17751e74f3723bb878394833fa835a46970": {
-      "url": "https://www.project-syndicate.org/commentary/why-economic-gender-inequality-persists-by-eleni-yitbarek-et-al-2026-05",
-      "source": "Project Syndicate",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "42c5d51c0693224147beb252890627b9ec171549080e41f5c425c92e069ee0ce": {
-      "url": "https://www.project-syndicate.org/commentary/affordability-crisis-governments-treating-symptoms-not-causes-by-carolina-alves-1-2026-05",
-      "source": "Project Syndicate",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "e27da02fc320b10ced1fcb92e3f554462a48303d1f3224ed4ea9082b45651835": {
-      "url": "https://www.project-syndicate.org/commentary/nato-must-die-so-european-defense-union-can-be-born-by-yanis-varoufakis-2026-05",
-      "source": "Project Syndicate",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "4e2cf8ce4a9f4ccc4c500f218753cbd7be552fa7288aacb9c5b685542fb91c67": {
-      "url": "https://www.theatlantic.com/ideas/2026/05/flotilla-ben-gvir-israel-video/687263/?utm_source=feed",
-      "source": "Atlantic Ideas",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "9cfb33a34eb824ab3ffc578eb654fc657007b0782365146385b37b4a0fd1f7e9": {
-      "url": "https://www.theatlantic.com/politics/2026/05/ken-paxton-texas/687256/?utm_source=feed",
-      "source": "Atlantic Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "f9c605c7e710e4242f671a87e6f4d1c531acab6e855e011a7004561f6d2a2b06": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/warsh-says-he-ll-lead-a-reform-oriented-fed-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "514aca23d828486654ab865986f4c020375e84d10c73a493ccb840e3def0c5ea": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/kevin-warsh-sworn-in-as-17th-federal-reserve-chair-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "c056dc417f9a7fc9604474caeb0c06a0a51c9b04e57504e22ac6ca67a130972f": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/trump-tells-warsh-to-do-your-own-thing-at-fed-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "c027067bb0b6f7bfa317518114e486c1e3e1fb1c7879d565bc3f932e9919c6a7": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-22/what-turkey-s-political-drama-means-for-erdogan-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "e6179febad7b43e7ea7eea5f570cf93b6c277364518d47f4253ed14fe70af0ec": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/ken-griffin-gives-5-million-to-gop-in-first-midterm-donation",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "4c6543daa1d7c27802f2d2f52342b9dcf52ad62cd64bd515329bc8aca39a4524": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/putin-vows-response-after-saying-six-died-in-attack-on-college",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "ef17b6c116cc2b1a0b5f8aec7d89d6c2d0bb166202d1603292b27850df92e0c1": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/south-africa-president-to-appeal-against-farm-cash-report-monday",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "51ce7bf7bc4e3dc60e5b5d30739f0257dc3b7429146b21a7a7ee0d7812934838": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/trump-gets-another-ally-in-eu-with-jansa-s-return-in-slovenia",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "60537c80f2b7a0baad59857f4235603371462a151d1a65dd6e2caf7b49296529": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/uk-s-fca-weighs-compulsory-disclosure-for-private-credit-firms",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "f6ba37fa8c4e6cef4130f24a356682daead846dd24f042a2a90f746ee8b09348": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/eu-warns-companies-to-diversify-supply-lines-from-china-faster",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "4b472a0618a797c31b1a8f1ecb1c9cf12c284c106ac6a257be7b3343d7922b2f": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/food-and-fuel-run-low-as-blockades-cripple-bolivian-economy",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "1c25e01cf08c8e03b81e77f13498e1d7792d3ebbea1ee160535ca919b55ebd8d": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/big-euro-zone-economies-are-enduring-unfolding-inflation-shock",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "74339c7be62434c0fdb9ea3a10b26847b30a870a1caf5b718d9c7a4cda7d1439": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/argentina-in-talks-to-extend-repo-maturities-beyond-election",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
-    "77b77abe773a4a19ed49ec2c1a6e31a4ce0ccfd12ebb0b79c71695e2942ba90e": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/ecb-s-muller-sees-good-case-for-june-hike-on-energy-surge",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-22T17:15:41Z"
-    },
     "2d82191560c1bec654d04993c0b22ff31c710369eb758414eff0330b707e2072": {
       "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -40594,6 +40359,101 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-21/ethiopia-s-abiy-cements-grip-as-his-party-coasts-to-election-win",
       "source": "Bloomberg Politics",
       "processed_at": "2026-06-21T16:50:20Z"
+    },
+    "a01e253da02d3c17ee5f5e26cb1f23d67026e49f92839bade765b5531377193d": {
+      "url": "https://www.bbc.com/news/videos/c802denngxeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "c19088400c435845835c0c0cf9d8bb676d2072f09423b955ed6a7289c8f50fae": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/europe-heatwave-scorches-cities-and-wildlife?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "a2ce435602ef144f972bf9cee5ecf17cd1a9988a1e8d38faac80ce3d83338a4c": {
+      "url": "https://www.aljazeera.com/sports/2026/6/21/spain-thrash-saudi-arabia-as-lamine-yamal-off-mark-at-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "70ddede90cd621dcd1b52573c5880a9ae31a7da63af85b47a13665a6a07de456": {
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "bd1521fbedef6404211c65784352762ccf867841d32d3e3a2b819a06b21b9cb8": {
+      "url": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "f7c0b5c7ffb3ad8f07dcaa2a231b458fe310e3252918fc463fe7a2d036c6b6e6": {
+      "url": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "ad87356c61e0b61ef11ce06ce7c3980fa86e23680a8cc4f3990bc07f77d80460": {
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "99f7e4c2d0711499de8c13cc2d7bdaa8b70d413c38727278781652aae0f6c562": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/the-looming-super-el-nino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "0949666cbb2e957e736ca3f81efe6796dc66c4b1e1227c9bee7c02640b9a0b98": {
+      "url": "https://www.theguardian.com/world/2026/jun/21/trump-iran-deal-bipartisan-criticism",
+      "source": "Guardian World",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "05914153b01c48bb38844a0eb3bb80d660bfc3ece68b5eae81f25e1c4a5c76a3": {
+      "url": "https://www.theguardian.com/uk-news/2026/jun/21/taxi-uber-rider-targeted-suspected-anti-muslim-attacks-edinburgh-witnesses",
+      "source": "Guardian World",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "853d9d978dd71f2a53606b7da43f4319536dea573910c62a9d84990f4edfcf67": {
+      "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-faces-music-weekend-of-reflection-resignation-burnham",
+      "source": "Guardian World",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "e2fee0f82fe433228edbbc3e966cda9b2111790494f8d714ff1315082a3eeb3e": {
+      "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-exit-plan-clear-way-andy-burnham-become-pm",
+      "source": "Guardian World",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "8788824163189993dd9e36abf2874e7b9624285368f440d0bb5c8f6bad2ba4d6": {
+      "url": "https://www.theguardian.com/uk-news/2026/jun/21/teenager-rescues-two-men-who-fell-from-inflatable-toy-boat-off-isle-of-skye",
+      "source": "Guardian World",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "31de6526f438fe54a017a992d3b0a80672fe7ee5eda7fcd4179b23a6754fc327": {
+      "url": "https://www.theguardian.com/us-news/2026/jun/21/trump-lincoln-memorial-reflecting-pool",
+      "source": "Guardian World",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "251f004325176914a3936395abb76fd5cd8b21da267a36ddae7cf0e252303a1e": {
+      "url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
+      "source": "NPR World",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "9840dbae556eea8987588ef3e06142ed8dff4c85dbeaf93757b8c329ad782a5d": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/romania-premier-nominee-gains-key-ally-ahead-of-confidence-vote",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "56e80a6857536bf0c003918b8b95fd611e1040374091474d37ef6bcfbb9b323e": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/germany-weighs-pension-system-revamp-with-capital-market-element",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "4c4197416cb8a843e8da82c0fdb009fb185583869e840657fb80a7172338f550": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/thousands-protest-czech-plan-to-overhaul-public-media-funding",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-21T19:55:13Z"
+    },
+    "46a3e20bfddc00570b440b4c686b6db9b9998c561083d904a0c8dc1300394ee6": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/hungary-names-otp-s-tardos-as-debt-chief-in-charge-of-cost-cuts",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-21T19:55:13Z"
     }
   }
 }
