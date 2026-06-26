@@ -1,130 +1,5 @@
 {
   "processed": {
-    "81e6daa19bb64f48f8dd8b9b5cfc426b7c64225631fefae4e63f624f47198fe3": {
-      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "cc4c446d22c35f150d7c246b7a7a2a2d08bba253a0d169012c55f5169504681a": {
-      "url": "https://www.bbc.com/news/articles/c2d22929ww0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "d73788c072b78ddaf99fec12258c43bb6a5da7e6c7c625a914ac8850b80d4d9a": {
-      "url": "https://www.aljazeera.com/news/2026/5/26/chemical-tank-rupture-kills-multiple-people-in-us-state-of-washington?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "7cbdb02121b539655d9a043949443928dff8b601610fb8c421b51ab25e1d80e0": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/aftermath-of-deadly-israeli-strikes-in-southern-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "24251e2293ba27ebf4f972fd2d4d4e0a66b63aba3a876d1d2ed5d6723ef9e1a2": {
-      "url": "https://www.aljazeera.com/news/2026/5/26/four-people-killed-after-minibus-collides-with-train-in-belgium?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "63781d671ecb40a486151da5735b4de084a8c22fa5fe273ff381a3840e92789c": {
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/26/climber-carries-kite-with-palestinian-childrens-dreams-to-everest-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "c5a7d704e804f08c41c71e3aea2679f8cbc655d492e58bb6fe07208978578fe5": {
-      "url": "https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "de36e2927d1b125928db4ce2378096e857d6518045a13469b5fbdcfeb5dbbec7": {
-      "url": "https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "30a8977a9b5125d6ec947ba6c1b6e8d02f6df18e4920db94e9ed55f7761e0261": {
-      "url": "https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "ef71f6280b3472abe3f5a900e508466b8aa52d2b3e27c715426682ed2588fe8b": {
-      "url": "https://www.theguardian.com/australia-news/live/2026/may/27/australia-politics-live-quad-wong-jobseeker-capital-gains-tax-budget-anthony-albanese-angus-taylor-labor-coalition-one-nation-question-time-senate-estimates-ntwnfb",
-      "source": "Guardian World",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "b9525fba11f815ec98f86f74de571b6df4c9b9de62e74f7c5da4ef4e8baf497f": {
-      "url": "https://www.theguardian.com/australia-news/2026/may/27/rein-in-fossil-fuel-tax-concessions-labor-mp-says-bhp-revelations-jerome-laxale",
-      "source": "Guardian World",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "c7b47031056a8c398e0f49e1a03a098fb6ba2a192f5e5f4bc966ef4ccc37e07c": {
-      "url": "https://www.theguardian.com/politics/2026/may/26/tony-blair-labour-abandon-net-zero-support-donald-trump",
-      "source": "Guardian World",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "d143516d6efe292355fee0a71546ba773a90101d5183ff1418906c321383ea23": {
-      "url": "https://www.theguardian.com/politics/2026/may/26/tony-blair-essay-labour-failings-unhelpful",
-      "source": "Guardian World",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "0c62e4b716ce21ba4db366fb54b811d5687c24f2e7749058978521d7b254e63d": {
-      "url": "https://www.theguardian.com/us-news/2026/may/26/california-chemical-tank-orange-county",
-      "source": "Guardian World",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "ece61adc2624551469de0fac967baf3493aeb093789aa6aaa23c396c199eb048": {
-      "url": "https://foreignpolicy.com/2026/05/26/us-strikes-iran-self-defense-abraham-accords-israel-trump-rubio/",
-      "source": "Foreign Policy",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "1ea5fd7a10de4846df004eb1aab2c82a8d89665f51fe45cf9ac21d7540b4fb1b": {
-      "url": "https://foreignpolicy.com/2026/05/26/iran-war-persian-gulf-uae-saudi-trump-usa/",
-      "source": "Foreign Policy",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "0146efb4cc5315f175dbe11e45ccfda08371840c923f0309ec0eb4893dcc09b3": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/trump-meets-brazil-s-flavio-bolsonaro-at-white-house",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "589cb772b09e5104beddd085cd06a0fa58b37af54de199f54c04536599ec8203": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/uk-poland-sign-defense-and-security-pact-to-curb-russia-threat",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "c198ec46bd4c5b58425054467ae88a6d3317805c0a64b1733968f1a39529dfcd": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/ex-uk-premier-tony-blair-lambastes-labour-s-leadership-woes",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "e4c676de3a0eb52b52576d105d9788627c89786e10c60f8563d2d4d6d22c45b9": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/president-trump-threatens-cuba-with-venezuela-blueprint-big-take-podcast",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "278a4f225016cdbcfb56f9c222113e996db47c461a6991f4b9dfe20eab839d62": {
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-26/texas-republicans-make-their-choice-in-bitter-senate-contest",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "9a13277f4d73ddddda827b3de291218194c3bc68ff4298d7a8945477ffa50d8d": {
-      "url": "https://www.bloomberg.com/news/videos/2026-05-26/bloomberg-businessweek-daily-5-26-2026-video",
-      "source": "Bloomberg Politics",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "8c7afda61778e9886a3449fd313fca8508b5fd87ffee468a00aa7fde32998cb6": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/uruguay-extends-monetary-pause-holding-interest-rate-at-5-75",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "10e5df2754e40c36f729bb9cdf89aa5d613554b62992927fc1d6eab979f405d6": {
-      "url": "https://www.bloomberg.com/news/articles/2026-05-26/bank-of-korea-seen-favoring-hawkish-hold-as-inflation-risks-grow",
-      "source": "Bloomberg Economics",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
-    "4a9a26b3011d8cd316b465824ffb71173d18f20d99146b4af84d17eb8535ac42": {
-      "url": "https://www.economist.com/international/2026/05/26/centrists-crying-wolf",
-      "source": "Economist International",
-      "processed_at": "2026-05-26T22:26:00Z"
-    },
     "b08132bf760ea6eb46593bb9bade898799045f34541832d71f8406085e8c257b": {
       "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -42939,6 +42814,356 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-25/fcc-waiting-on-interagency-review-of-paramount-warner-bros-deal",
       "source": "Bloomberg Politics",
       "processed_at": "2026-06-25T22:26:53Z"
+    },
+    "85a9354696c597059db1e018b35bc864c989df185e863fd72ac9db99a66f42cd": {
+      "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "94e7de7e94989e2c4264300b4c0e7c5577e61d33cf4a5b708f5182401e8a7ed9": {
+      "url": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "1cdb4ed34955b0718257800be85f3373e723ace027051422508c749285537e67": {
+      "url": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "a494b99314511bb7ebfec693ad9cdcb94195f9ec33e32f3d3d100239039050cc": {
+      "url": "https://www.bbc.co.uk/news/videos/cz6vny382q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "4cda9764c1728ddaabd0c55190089e19b5f89347333723d3bffa0305236f451c": {
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "d5864cd5f6bbeab1eae8926054e2b743a27fafa44ac4a305107f20ddf42bdbb4": {
+      "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "66796bdcf84ed3ff32919a4f9820d29975219fdfa7f3a2f6e75b48f26e4fc34b": {
+      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "8fb7f16e668fdb7684c1bcb8f75962b4876ff63a479057dfa5c1943b768d36f3": {
+      "url": "https://www.aljazeera.com/news/2026/6/26/egypt-coach-offers-support-for-iranian-team-before-crucial-world-cup-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "0ec51d0b426174c7d235a4eb975ec143003113e39f486cb633d9d268b6c2e156": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/satellite-images-show-venezuelas-la-guaira-before-and-after-twin-quakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "7ab3f448fd817ec5a102ea4c333415a10a6318f7769c1841d4040310c462d1ae": {
+      "url": "https://www.aljazeera.com/sports/2026/6/26/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "06e8769da6b66abf9ff704fbbb244f2bce19852d27427493f6b459fe48735759": {
+      "url": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "51448781d84d2109ad411d2af897c98afc7266e5311f8db92144f0821c8cb0cb": {
+      "url": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "ab087175e32591fb32fa75e27cf02ae19acb166e64f369d5cf7904457caeae80": {
+      "url": "https://www.aljazeera.com/sports/2026/6/26/marina-mabrey-ties-wnba-scoring-record-with-53-points-tempo-rout-sparks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "983f4b23fc94b71bbae237cc2eeb85ed0e1d43bbe0571b29d2b95dd3086266ab": {
+      "url": "https://www.aljazeera.com/sports/2026/6/26/netherlands-beat-tunisia-3-1-enter-world-cup-knockouts-as-group-winners?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "d440aa5eafc57e46c9a814442fea99561a3f2a2625ed2e6369a8b60bbc17c54c": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/hundreds-trapped-beneath-buildings-a-day-after-venezuelas-twin-earthquakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "f10cf44e5bc5dfa004789d2e4ad556cd1843f250d8d5e153a2c59c6356a76c7a": {
+      "url": "https://www.aljazeera.com/sports/2026/6/26/ivory-coast-coach-fae-saddened-by-schweinsteigers-african-football-jab?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "3a89b9ffaaeac23053a975091015b9f04b1cefe5659f9408a8b370a308c2a6a2": {
+      "url": "https://www.aljazeera.com/sports/2026/6/26/japan-draw-1-1-with-sweden-at-world-cup-to-finish-second-in-group-f?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "a58664410e2680d44b3a44320b786a09ecfa1511277c578fd1f79163ea5eb21d": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/france-seizes-fifth-russian-shadow-fleet-tanker-linked-to-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "af145e035dd7785f5192685afd867f648e3eb06e8861c5ef1f4d94b77e926cfb": {
+      "url": "https://www.aljazeera.com/news/2026/6/26/who-will-control-africas-ai-infrastructure-and-at-what-cost?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "40195bf3e1ce2712496a1b73033a0adeb4ca6db03e80cd3fb7040f7b497ef05a": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/shia-pilgrims-gather-in-iraqs-holy-city-of-karbala-to-mark-ashura?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "9c514e0b825ab2bd62e5cb28ce458158de23b0af8a78856cb4967c223c895185": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/26/plan-intl-mental-health-impact-of-venezuelan-quakes-can-last-for-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "614ce2620a1b389f4dca25c1d862e883b9bbb5a92556c1d8a860b5d5cdb8ec7c": {
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "c03ce00e8b55fb1264968f6fff233ccc78096d2cd5d451e9950fdd1a5c5d7ad6": {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "0aa91f88809eeb6247ae83c9df87817ac09d2292a67e357d8572adcd8fe8d533": {
+      "url": "https://www.aljazeera.com/sports/2026/6/25/india-defeat-bangladesh-to-maintain-womens-t20-world-cup-semifinal-bid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "a11a267333464c4ce8ceeb308b92d00643ee46edcbfc9c5b0a7a47ba27b6ef4b": {
+      "url": "https://www.aljazeera.com/sports/2026/6/25/pepes-brace-sends-ivory-coast-to-first-knockouts-as-curacao-exit-world-cup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "fe3aef0a40e7d9652f5c91aefa45ae3629a32798703cc9438b52180c5839aa1f": {
+      "url": "https://www.aljazeera.com/sports/2026/6/25/ecuador-edge-germany-2-1-to-squeeze-into-world-cup-last-32?traffic_source=rss",
+      "source": "Al Jazeera",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "88d90ee671034777bd709f4e31ca870e20576bc4be53bf947e12ba8b0272495e": {
+      "url": "https://www.theguardian.com/world/2026/jun/25/three-recent-powerful-earthquakes-not-related",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "f9219c6a511382eddb665b006efd51863cdbd3b1ca041177c1f1819bf60fccaa": {
+      "url": "https://www.theguardian.com/world/2026/jun/26/xi-jinping-china-host-of-world-leaders-middle-powers",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "417c471a4dd396127f038073c5c8fd2957256a440b200ce27d2de3192e201284": {
+      "url": "https://www.theguardian.com/australia-news/2026/jun/26/84-year-old-aged-care-resident-found-dead-sydney-woman-arrested-ntwnfb",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "7acee9c1e45cb25e51093562006b7d5d582f93b4e2830015d086d10fd847625d": {
+      "url": "https://www.theguardian.com/australia-news/2026/jun/26/victoria-police-close-investigation-moira-deeming-allegation-assault-by-matthew-guy-saying-no-offence-detected-ntwnfb",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "1a17d3379fd0bc67bac008c0e7e4860d890c71d05bd5283a6d944d82a043b083": {
+      "url": "https://www.theguardian.com/australia-news/2026/jun/26/one-nation-hanson-trump-comparison-labor-party-president-wayne-swan-ntwnfb",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "26b8e10d8bfb48b8d449e3f9ecb2c9198bc320dbc008137952855adab4f19f59": {
+      "url": "https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "30370c5c1b741473db03144176927c32c05c8776e68a849563a0d3f4ce395d62": {
+      "url": "https://www.theguardian.com/politics/audio/2026/jun/26/brexit-an-oral-history-podcast",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "161de27f6051592d96388ac47cc14e9b8cca7bbf44416a54a7c63a9dbb8c241e": {
+      "url": "https://www.theguardian.com/world/2026/jun/26/russia-provocation-baltic-states-poland",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "0c656cf89f0ed7084e822a8a45a35900deea5154adc02d52d91b4e5e65931b90": {
+      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "ca36035579bfffac15659bbd56a56c8a8726f038c947c5815a7ee76253ab6ba5": {
+      "url": "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "4db2d6e3850e6d19afa327b5fe62112d84c1bc4c36ab6f76ebe550d7d8b18c29": {
+      "url": "https://www.theguardian.com/world/2026/jun/25/un-pauses-ship-evacuations-through-strait-of-hormuz-after-vessel-attack",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "333318e012b371749f077f913aa67a9612ee7305dbd3e3f8300652300d55918b": {
+      "url": "https://www.theguardian.com/news/audio/2026/jun/26/british-woman-strangled-in-uk-why-did-us-military-try-her-case-podcast",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "c6c67f1401970389d0d70547eb9b9685482481b2eeb018ff0d080b6944c22f16": {
+      "url": "https://www.theguardian.com/world/2026/jun/26/major-wildfire-rips-through-moorland-close-to-greater-manchester",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "78aa2f523fc9bee62d40a5ba23ed8efca1bbde6c0c72324fd72de5184bb931bc": {
+      "url": "https://www.theguardian.com/politics/audio/2026/jun/26/trump-lincoln-memorial-reflective-pool-vandalism-podcast",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "55f2bbf9ba495ab75b0f63f1ab8adfee0d529859fd9ad3fc9836d6ed61a0d12f": {
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/david-vander-meer-zion-national-park-wife-death",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "4ca13d5388cd4a4dabf4b4686e81333e90ce7d50dd63c32ef25fb8f5c1305b66": {
+      "url": "https://www.theguardian.com/us-news/2026/jun/25/california-billionaire-tax-explainer",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "e723bb6b52cb427a186b5e3ff4689bcd91dca48e1495d6578f20444a729079d2": {
+      "url": "https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot",
+      "source": "Guardian World",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "fd6cd38b53f1fb677eeb8b4441fd9aeaa5bf05920f4693d8b26d2accb8eb80d5": {
+      "url": "https://foreignpolicy.com/2026/06/25/spacex-elon-musk-geopolitics-ai-x-quinn-slobodian/",
+      "source": "Foreign Policy",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "bda7a7b7e809fbccfb326e97499e41b664e1d4c0cdbb5e45010b1cf3c2c4ff51": {
+      "url": "https://thediplomat.com/2026/06/eu-kazakhstan-connectivity-at-the-core/",
+      "source": "The Diplomat",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "62d250af2933df1181fab97b3b52155d24748365c089549e650f279baef8094d": {
+      "url": "https://thediplomat.com/2026/06/indias-critical-mineral-challenge-in-a-new-global-resource-order/",
+      "source": "The Diplomat",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "8ea51cc6beafceb419e9f19be0cdc76cd5c65c4593c17ac048917e756fc332d5": {
+      "url": "https://thediplomat.com/2026/06/the-political-risks-facing-washingtons-new-ambassador-to-south-korea/",
+      "source": "The Diplomat",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "20e314e252c6b02cc8f13f6699d5ac64705b641f3d8ce2b6ea3f7af4dd5b7321": {
+      "url": "https://thediplomat.com/2026/06/the-mask-of-engagement-how-fragmented-international-interests-normalize-gender-apartheid-in-afghanistan/",
+      "source": "The Diplomat",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "a6d9003ad478abeb4018e0a5b09af99d9951c89980c4da5729c59db7715de34f": {
+      "url": "https://www.theatlantic.com/politics/2026/06/trump-congress-iran-midterms/687704/?utm_source=feed",
+      "source": "Atlantic Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "39b7d8a7bf8c9c047ce27ae61d7ed69634e9b78a94dc3c87bc8633dd48eee53f": {
+      "url": "https://www.theatlantic.com/politics/2026/06/america-250-fair-washington/687705/?utm_source=feed",
+      "source": "Atlantic Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "ed3becfc05e0f03088e40a107cbd27d9051a72fd31cd36f0f5722823ef2705e7": {
+      "url": "https://www.bloomberg.com/news/features/2026-06-26/apple-s-naples-outpost-boosts-southern-italy-s-economy",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "ffbb7798c5c2bec9e2132f4542f483dc97d7767ce5e86063b3bb4fdca5d5653f": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/north-korea-readies-beach-resort-for-more-tourists-after-xi-trip",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "24d0989247ed58910408e8d40e239ad0075024cbad57facc62cd7861afe779b3": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/sherritt-warns-of-going-concern-risk-after-trump-cuba-sanctions",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "036f858c63cd15c089e7f1e28229f89b969ef523057b64aed2236a7d851e59dc": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/vance-says-nixon-watergate-scandal-wouldn-t-end-a-presidency-now",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "0d6c8986619a6882654524df68acb1b12fc2bed1dcc26a325a44e62413eb4aa6": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/indonesia-opens-door-to-dirty-money-to-fund-prabowo-s-plans",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "d08d1a22aee2fc2603fe751921ed3dbfd7abbb2215ad13e378ce69fdb728e547": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/trump-plans-first-flight-on-qatar-gifted-air-force-one-next-week",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "32a07787ebf949219a885eb520926eb0c7a70d16ef65d686f78f9a06dcfb9f61": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-25/balance-of-power-late-edition-06-25-2026-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "6dbaf6725afaa16b845bd8b519fdeb94004a05784d5510313857d44f94ccfc56": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/howard-lutnick-delayed-canada-bridge-opening-to-seek-bigger-cut-of-toll-revenue",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "176c8dd074b7db3b5dcd1d9d2c54c4f6417922a2e0417ad72b77625f5a1716c9": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/us-sanctions-rwandan-refinery-in-congo-gold-smuggling-network",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "222356c55a66d10a2c2eefba182572dbcb022caa78e066084eead250304ab5da": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-25/rep-casten-encouraged-by-johnson-move-on-housing-bill-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "d1c250d6cec6fd9f3e4fc6fec5ae6d30760baea581b8f7449d89de0485006192": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/trump-taps-chris-klomp-as-no-2-official-at-rfk-jr-s-hhs",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "4c2c5a1f231185cea838e9b1c8f773a8b0c025f672eb1457cecc3c557f51742a": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-25/lavorgna-fed-may-need-to-raise-rates-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "30f303e797f937fbd672426242db4f37760b5e1188691d9516606caf376b7507": {
+      "url": "https://www.bloomberg.com/news/videos/2026-06-25/rep-steil-housing-bill-will-become-law-despite-delay-video",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "d8cc812ac06f876d14c263a86db134eb64a2933e89b855964d29cd11df92deec": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/fda-commissioner-shortlist-includes-new-york-cancer-practice-ceo",
+      "source": "Bloomberg Politics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "485505a9277f14ad3562a4fbd4b4addb73a7ba85e6c1412e1aacb53745242186": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/singapore-grads-battle-low-paid-traineeships-stigma-to-get-hired",
+      "source": "Bloomberg Economics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "f7aef0660d006c67feddd2467febad6e1e93e31574133899170c1b3f85198d69": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/philippines-uae-and-indonesia-to-start-cptpp-accession-talks",
+      "source": "Bloomberg Economics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "2c36f5abf21a638325ccb961fd09430abeaeff3123afb014117ae277b18182c4": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/japan-s-katayama-vows-to-keep-fiscal-discipline-with-investment",
+      "source": "Bloomberg Economics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "2c17edebf9a54a7cc707f1a3d4676658e56f113b730dcb8f70fdda723a1f2419": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/weak-monsoon-emerges-as-india-s-next-economic-worry-after-oil",
+      "source": "Bloomberg Economics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "6b8a8b2db1f74548a436f0ca39968ecca7a00f911caf5b53fd7a49cbac9e7643": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/tokyo-inflation-picks-up-keeping-boj-on-track-for-further-hike",
+      "source": "Bloomberg Economics",
+      "processed_at": "2026-06-26T04:21:27Z"
+    },
+    "0be0c037cf6f774751040e5aa45828d36469af3107e66d3a769a06ea158494b1": {
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/yen-outperforms-g-10-peers-despite-hovering-near-1986-low",
+      "source": "Bloomberg Economics",
+      "processed_at": "2026-06-26T04:21:27Z"
     }
   }
 }
